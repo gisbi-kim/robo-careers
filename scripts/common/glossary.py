@@ -719,6 +719,407 @@ GLOSSARY: dict[str, dict[str, str]] = {
         "ko": "소화기관 내 진단·치료용 소형·캡슐 로봇 (Menciassi 등).",
         "en": "Miniature and capsule robotics for the GI tract (Menciassi and colleagues).",
     },
+
+    # --- EAP / soft actuators / specific materials ---
+    "electro-active": {
+        "display": "Electroactive Polymer (EAP)",
+        "ko": "전기 자극에 반응해 형상이 변하는 고분자 — 인공근육·소프트 액추에이터의 대표 재료군.",
+        "en": "Polymers that change shape in response to electric fields — a key material family for artificial muscles and soft actuators.",
+    },
+    "electroactive": {
+        "display": "Electroactive Polymer (EAP)",
+        "ko": "전기 자극에 반응해 형상이 변하는 고분자 — 인공근육·소프트 액추에이터의 대표 재료군.",
+        "en": "Polymers that change shape in response to electric fields — a key material family for artificial muscles and soft actuators.",
+    },
+    "dielectric elastomer": {
+        "display": "Dielectric Elastomer Actuator",
+        "ko": "탄성 유전체에 고전압을 걸어 늘어남·수축을 유도하는 EAP 계열 액추에이터.",
+        "en": "Elastomer-sandwich actuators that deform under high-voltage electric fields — a major EAP class.",
+    },
+    "hydrogel": {
+        "display": "Hydrogel Actuator",
+        "ko": "물을 머금는 고분자 겔 — 자극에 따라 팽윤/수축하는 소프트 액추에이터 재료.",
+        "en": "Water-swollen polymer gels that shrink/swell in response to stimuli — a common soft-actuator material.",
+    },
+    "gel": {
+        "display": "Gel Actuator",
+        "ko": "팽윤·수축 가능한 겔 재료 기반 액추에이터 — EAP·하이드로겔 계열을 포함.",
+        "en": "Actuators built from swellable/responsive gels — overlapping the EAP and hydrogel families.",
+    },
+    "sma": {
+        "display": "Shape Memory Alloy (SMA)",
+        "ko": "열을 가하면 원래 형상으로 복원되는 합금 — 소형·고출력 소프트 액추에이터에 쓰임.",
+        "en": "Alloys that recover a memorized shape when heated — compact, high-force soft actuators.",
+    },
+    "shape memory": {
+        "display": "Shape Memory",
+        "ko": "가열·자극으로 기억된 형태로 되돌아가는 재료 거동 (SMA, SMP 등).",
+        "en": "Material behavior where a memorized shape is recovered upon thermal or other stimulation (SMA, SMP).",
+    },
+    "mckibben": {
+        "display": "McKibben Artificial Muscle",
+        "ko": "공압으로 수축하는 섬유 직조형 인공 근육.",
+        "en": "Braided pneumatic artificial muscles that contract when pressurized.",
+    },
+    "pneumatic artificial muscle": {
+        "display": "Pneumatic Artificial Muscle",
+        "ko": "공압 인공 근육 — McKibben 구조가 대표적.",
+        "en": "Pneumatically actuated artificial muscle — the McKibben design is canonical.",
+    },
+    "hasel": {
+        "display": "HASEL Actuator",
+        "ko": "정전기+유체를 결합한 새로운 소프트 액추에이터 계열 (Keplinger et al.).",
+        "en": "Hydraulically Amplified Self-healing Electrostatic actuators — a recent soft-actuator class (Keplinger et al.).",
+    },
+    "jamming": {
+        "display": "Jamming",
+        "ko": "진공으로 과립을 고체처럼 굳혀 강성을 만드는 소프트 로봇 원리.",
+        "en": "Using vacuum-induced granular jamming to generate tunable stiffness in soft robots.",
+    },
+    "granular": {
+        "display": "Granular Media",
+        "ko": "모래·과립 등 이산 매질에서의 이동·상호작용 로보틱스.",
+        "en": "Robotics in granular media — sand, grains, and other discrete media.",
+    },
+    "electroadhesion": {
+        "display": "Electroadhesion",
+        "ko": "정전 인력으로 표면에 들러붙는 원리 — 클라이밍·그리퍼에 응용.",
+        "en": "Electrostatic adhesion to surfaces — applied in climbing robots and compliant grippers.",
+    },
+    "caudal fin": {
+        "display": "Caudal Fin Propulsion",
+        "ko": "어류 꼬리 지느러미를 모방한 추진 — 수중 바이오미메틱 로봇.",
+        "en": "Fish-tail-inspired propulsion — a standard biomimetic underwater-robot approach.",
+    },
+    "fin propulsion": {
+        "display": "Fin Propulsion",
+        "ko": "지느러미형 추진 — 생체모방 수중/공중 로봇.",
+        "en": "Fin-style propulsion — biomimetic underwater and aerial robots.",
+    },
+    "flexural": {
+        "display": "Flexural Mechanism",
+        "ko": "재료의 휨 변형으로 동작하는 기구 — 소프트 그리퍼·관절에 사용.",
+        "en": "Mechanisms built on material flexure rather than rigid joints — common in soft grippers and compliant joints.",
+    },
+    "under-actuated": {
+        "display": "Underactuated Hand/Robot",
+        "ko": "자유도보다 적은 액추에이터로 구동되는 시스템 — 단순한 제어로 복잡한 파지 가능.",
+        "en": "Systems with fewer actuators than DoF — enabling complex grasping with simple control.",
+    },
+    "underactuated": {
+        "display": "Underactuated",
+        "ko": "액추에이터 수가 자유도보다 적은 시스템 — 패시브 다이나믹스 활용.",
+        "en": "Systems with fewer actuators than DoF — a design using passive dynamics.",
+    },
+    "compliant mechanism": {
+        "display": "Compliant Mechanism",
+        "ko": "관절 대신 탄성 변형으로 기능하는 기구 — 정밀·소형 로봇에 쓰임.",
+        "en": "Mechanisms functioning through elastic deformation rather than joints — standard in precision and small robots.",
+    },
+    "deployable": {
+        "display": "Deployable Structure",
+        "ko": "접혔다가 펴지는 전개형 구조 — origami 로봇의 핵심.",
+        "en": "Structures that unfold from compact form — the essence of origami-style robots.",
+    },
+
+    # --- More SLAM / state estimation / VIO ---
+    "loam": {
+        "display": "LOAM",
+        "ko": "LiDAR Odometry and Mapping — 실시간 저정밀·고빈도 추정 + 저빈도·고정밀 매핑 분리 (Ji Zhang, 2014).",
+        "en": "LiDAR Odometry and Mapping — dual-rate real-time LiDAR SLAM (Ji Zhang, 2014).",
+    },
+    "lsd-slam": {
+        "display": "LSD-SLAM",
+        "ko": "Large-Scale Direct Monocular SLAM — 직접법 기반 반조밀 VSLAM (Engel, 2014).",
+        "en": "Large-Scale Direct Monocular SLAM — direct-method semi-dense VSLAM (Engel, 2014).",
+    },
+    "dso": {
+        "display": "DSO",
+        "ko": "Direct Sparse Odometry — 키프레임 기반 직접법 VO (Engel et al., 2016).",
+        "en": "Direct Sparse Odometry — keyframe-based direct visual odometry (Engel et al., 2016).",
+    },
+    "msckf": {
+        "display": "MSCKF",
+        "ko": "Multi-State Constraint Kalman Filter — 효율적 visual-inertial 필터 (Roumeliotis, 2007).",
+        "en": "Multi-State Constraint Kalman Filter — an efficient visual-inertial filter (Roumeliotis, 2007).",
+    },
+    "vins-mono": {
+        "display": "VINS-Mono",
+        "ko": "단안 시각-관성 SLAM 오픈소스 (Shen group, 2018).",
+        "en": "Monocular visual-inertial SLAM open-source system (Shen group, 2018).",
+    },
+    "vins": {
+        "display": "VINS",
+        "ko": "Visual-Inertial Navigation System — 카메라+IMU 상태 추정 시스템 일반.",
+        "en": "Visual-Inertial Navigation System — the general class of camera+IMU estimators.",
+    },
+    "event camera": {
+        "display": "Event Camera",
+        "ko": "픽셀별 밝기 변화만 비동기로 출력하는 바이오 모방 센서 — 저지연·고동적범위.",
+        "en": "A bio-inspired sensor that emits asynchronous per-pixel brightness-change events — low-latency, high-dynamic-range.",
+    },
+    "neural implicit": {
+        "display": "Neural Implicit Map",
+        "ko": "좌표→속성 함수를 신경망으로 표현하는 맵 (NeRF 계열).",
+        "en": "Maps represented as neural networks mapping coordinates to properties (NeRF-style).",
+    },
+    "shine-mapping": {
+        "display": "SHINE-Mapping",
+        "ko": "Stachniss 그룹의 계층적 신경 implicit LiDAR 매핑.",
+        "en": "Stachniss group's hierarchical neural-implicit LiDAR mapping.",
+    },
+    "pin-slam": {
+        "display": "PIN-SLAM",
+        "ko": "Point-based Implicit Neural SLAM — 뉴럴 필드 기반 SLAM (Stachniss group).",
+        "en": "Point-based Implicit Neural SLAM — a neural-field SLAM system (Stachniss group).",
+    },
+    "rangenet": {
+        "display": "RangeNet",
+        "ko": "LiDAR range 이미지 위의 CNN 기반 시맨틱 분할 네트워크.",
+        "en": "CNN-based semantic segmentation over LiDAR range images.",
+    },
+    "active slam": {
+        "display": "Active SLAM",
+        "ko": "불확실성을 줄이기 위한 탐사·경로를 스스로 결정하는 SLAM.",
+        "en": "SLAM that plans its own exploration to reduce uncertainty.",
+    },
+    "suma": {
+        "display": "SuMa",
+        "ko": "Surfel-based Mapping — 서펠 기반 LiDAR SLAM (Stachniss group).",
+        "en": "Surfel-based Mapping — surfel-based LiDAR SLAM (Stachniss group).",
+    },
+    "lidar inertial": {
+        "display": "LiDAR-Inertial",
+        "ko": "LiDAR+IMU 센서 퓨전 상태 추정.",
+        "en": "LiDAR + IMU sensor-fusion state estimation.",
+    },
+
+    # --- Legged locomotion specifics ---
+    "zmp": {
+        "display": "Zero Moment Point (ZMP)",
+        "ko": "발바닥 지지 영역 안에서 반력 합의 수직축이 지나는 점 — 이족보행 안정성 기준.",
+        "en": "The point where net ground reaction torques vanish — a classical stability criterion for biped walking.",
+    },
+    "zero moment point": {
+        "display": "Zero Moment Point (ZMP)",
+        "ko": "이족보행 안정성의 고전 기준점.",
+        "en": "Classical biped stability criterion.",
+    },
+    "capture point": {
+        "display": "Capture Point",
+        "ko": "한 걸음만 내디뎌 정지할 수 있는 지점 — 이족 보행 안정화 지표.",
+        "en": "A point where a single step suffices to stop — a biped stabilization target.",
+    },
+    "inverted pendulum": {
+        "display": "Linear Inverted Pendulum (LIP)",
+        "ko": "보행 CoM 동역학을 근사하는 선형 역진자 모델.",
+        "en": "A linear inverted-pendulum abstraction used to model walking CoM dynamics.",
+    },
+    "slip model": {
+        "display": "SLIP Model",
+        "ko": "Spring-Loaded Inverted Pendulum — 다리를 스프링으로 추상화한 러닝 동역학 모델.",
+        "en": "Spring-Loaded Inverted Pendulum — a spring-leg abstraction for running dynamics.",
+    },
+    "whole-body control": {
+        "display": "Whole-Body Control",
+        "ko": "모든 관절·접촉을 통합해 우선순위 작업을 풀어내는 휴머노이드 제어.",
+        "en": "Unified control over all joints and contacts via prioritized task stacks, standard for humanoids.",
+    },
+    "raibert": {
+        "display": "Raibert Controller",
+        "ko": "Marc Raibert의 다리 로봇 균형·보행 제어 고전 프레임워크.",
+        "en": "Marc Raibert's classical leg-robot balance/gait controller.",
+    },
+    "passive dynamic": {
+        "display": "Passive Dynamic Walking",
+        "ko": "구동 없이 중력만으로 내리막을 걷는 수동 보행 — Tedrake 초기 연구 주제.",
+        "en": "Walking down an incline with no actuation — a key topic in Tedrake's early work.",
+    },
+    "rough terrain": {
+        "display": "Rough Terrain Locomotion",
+        "ko": "고르지 않은 지형에서의 다리 보행 연구.",
+        "en": "Legged locomotion over uneven terrain.",
+    },
+
+    # --- Manipulation/planning specifics ---
+    "task and motion": {
+        "display": "Task and Motion Planning (TAMP)",
+        "ko": "상위 작업 계획과 하위 모션 계획을 결합한 긴 호라이즌 로봇 계획.",
+        "en": "Joint reasoning over task-level symbolic planning and motion planning for long-horizon tasks.",
+    },
+    "tamp": {
+        "display": "Task and Motion Planning (TAMP)",
+        "ko": "기호 작업 계획 + 모션 계획을 통합한 긴 호라이즌 계획.",
+        "en": "Joint symbolic + motion planning for long-horizon tasks.",
+    },
+    "deformable object": {
+        "display": "Deformable Object Manipulation",
+        "ko": "천·끈·연체 등 형태가 변하는 물체의 조작.",
+        "en": "Manipulation of cloth, rope, and other shape-changing objects.",
+    },
+    "cloth": {
+        "display": "Cloth Manipulation",
+        "ko": "천·의류 등 2D 유연 물체의 조작.",
+        "en": "Manipulation of cloth, garments, and other 2D deformables.",
+    },
+    "peg-in-hole": {
+        "display": "Peg-in-Hole",
+        "ko": "핀을 구멍에 삽입하는 정밀 조립 벤치마크 문제.",
+        "en": "Inserting a peg into a hole — a canonical precision-assembly benchmark.",
+    },
+    "assembly": {
+        "display": "Robotic Assembly",
+        "ko": "부품을 조립하는 로봇 작업 — 정밀·접촉 제어가 핵심.",
+        "en": "Robotic assembly tasks — contact-aware precision control is central.",
+    },
+    "parallel mechanism": {
+        "display": "Parallel Mechanism",
+        "ko": "복수의 체인이 말단을 공유하는 기구 — Stewart·Delta 등.",
+        "en": "Mechanisms with multiple chains sharing an end-effector — Stewart, Delta, and kin.",
+    },
+    "stewart": {
+        "display": "Stewart Platform",
+        "ko": "6자유도 병렬 기구 — 비행 시뮬레이터·정밀 모션 스테이지의 표준.",
+        "en": "A 6-DoF parallel mechanism — standard for flight simulators and precision motion stages.",
+    },
+    "delta robot": {
+        "display": "Delta Robot",
+        "ko": "고속 픽앤플레이스용 3자유도 병렬 기구.",
+        "en": "A 3-DoF parallel robot used for high-speed pick-and-place.",
+    },
+    "cable-driven": {
+        "display": "Cable-Driven Parallel Robot",
+        "ko": "와이어·케이블로 말단을 구동하는 병렬 기구 — 대공간 작업에 강점.",
+        "en": "Parallel mechanisms actuated by cables — strong for large workspaces.",
+    },
+    "spherical": {
+        "display": "Spherical Mechanism",
+        "ko": "모든 링크 축이 한 점을 지나는 기구 — 방향 제어에 유리.",
+        "en": "Mechanisms with all link axes intersecting at a point — favored for orientation control.",
+    },
+    "eclipse": {
+        "display": "Eclipse-II Parallel Machine",
+        "ko": "SNU Frank Park 연구실의 6자유도 병렬 공작 기계 연구.",
+        "en": "A 6-DoF parallel machining platform line from Frank Park's SNU lab.",
+    },
+    "singularity": {
+        "display": "Kinematic Singularity",
+        "ko": "자코비안이 rank 손실되는 특이 자세 — 제어가 무너지는 지점.",
+        "en": "A configuration where the Jacobian loses rank and control degenerates.",
+    },
+
+    # --- Learning specifics ---
+    "behavior cloning": {
+        "display": "Behavior Cloning (BC)",
+        "ko": "시연 데이터로 (상태→행동) 매핑을 지도학습하는 가장 단순한 모방 학습.",
+        "en": "Supervised learning of state→action from demonstrations — the simplest form of imitation learning.",
+    },
+    "guided policy search": {
+        "display": "Guided Policy Search",
+        "ko": "국소 최적 제어로 가이드한 샘플로 전역 정책을 학습하는 기법 (Levine).",
+        "en": "Training a global policy from trajectories generated by local optimal controllers (Levine).",
+    },
+    "sim-to-real": {
+        "display": "Sim-to-Real Transfer",
+        "ko": "시뮬레이터에서 학습한 정책을 실기에 이식 — 랜덤화·적응이 핵심.",
+        "en": "Transferring a policy learned in simulation to the real robot — randomization and adaptation are key.",
+    },
+    "sim2real": {
+        "display": "Sim-to-Real",
+        "ko": "시뮬레이션↔실기 전이 일반.",
+        "en": "Simulation-to-real transfer in general.",
+    },
+    "domain randomization": {
+        "display": "Domain Randomization",
+        "ko": "시뮬레이션 파라미터를 랜덤화해 sim-to-real을 쉽게 만드는 기법.",
+        "en": "Randomizing simulation parameters to ease sim-to-real transfer.",
+    },
+    "world model": {
+        "display": "World Model",
+        "ko": "환경의 동역학을 학습된 모델로 내재화해 행동을 계획하는 접근.",
+        "en": "Internalizing environment dynamics in a learned model, then planning against it.",
+    },
+    "offline rl": {
+        "display": "Offline Reinforcement Learning",
+        "ko": "수집된 데이터만으로 새 환경 상호작용 없이 정책을 학습하는 RL.",
+        "en": "Reinforcement learning from a fixed dataset with no new interaction.",
+    },
+    "meta-learning": {
+        "display": "Meta-Learning",
+        "ko": "새 태스크에 빠르게 적응하도록 '학습하는 방법'을 학습.",
+        "en": "Learning to learn — fast adaptation to new tasks.",
+    },
+    "foundation model": {
+        "display": "Foundation Model",
+        "ko": "대규모 사전학습된 범용 모델 — VLA·세계 모델 등의 토대.",
+        "en": "A large, broadly pre-trained general-purpose model — the base for VLA, world models, etc.",
+    },
+    "curriculum": {
+        "display": "Curriculum Learning",
+        "ko": "쉬운 태스크부터 점진적으로 어렵게 학습하는 전략.",
+        "en": "Training with tasks arranged in increasing difficulty.",
+    },
+
+    # --- Medical / surgical specifics ---
+    "minimally invasive": {
+        "display": "Minimally Invasive Surgery (MIS)",
+        "ko": "작은 절개로 수행하는 수술 — 수술 로봇의 주 응용.",
+        "en": "Surgery through small incisions — the main target domain for surgical robots.",
+    },
+    "image-guided": {
+        "display": "Image-Guided Surgery",
+        "ko": "수술 중 영상(CT/초음파 등)으로 보조되는 로봇 수술.",
+        "en": "Robot surgery guided by intraoperative imaging (CT, ultrasound, etc.).",
+    },
+    "microbot": {
+        "display": "Microbot",
+        "ko": "mm·μm 크기의 초소형 로봇 — 체내 치료·표적 약물 전달 등.",
+        "en": "Millimeter/micrometer-scale robots — targeted delivery, in-body therapy.",
+    },
+    "capsule": {
+        "display": "Capsule Robot",
+        "ko": "삼킬 수 있는 형태의 체내 진단·치료 로봇.",
+        "en": "Swallowable capsule-form robots for in-body diagnosis and therapy.",
+    },
+
+    # --- Aerial specifics ---
+    "minimum snap": {
+        "display": "Minimum Snap Trajectory",
+        "ko": "가속도의 2차 미분(snap)을 최소화하는 부드러운 쿼드로터 궤적 (Mellinger & Kumar, 2011).",
+        "en": "Smooth quadrotor trajectories minimizing the fourth derivative of position (Mellinger & Kumar, 2011).",
+    },
+    "differential flatness": {
+        "display": "Differential Flatness",
+        "ko": "일부 출력으로 전체 상태/입력을 대수적으로 표현 — 쿼드로터 궤적 생성에 핵심.",
+        "en": "A property letting full state/inputs be written in terms of selected outputs — central to quadrotor trajectory generation.",
+    },
+    "time-optimal": {
+        "display": "Time-Optimal Control",
+        "ko": "주어진 제약 안에서 최단 시간 이동 — 드론 레이싱의 이론적 토대.",
+        "en": "Fastest feasible motion under constraints — the backbone of drone racing control.",
+    },
+    "informative path": {
+        "display": "Informative Path Planning",
+        "ko": "정보 수집량을 최대화하는 경로 계획 — 탐사·매핑에 중요.",
+        "en": "Planning paths that maximize information gain — key to exploration and mapping.",
+    },
+
+    # --- HRI / navigation extras ---
+    "proxemics": {
+        "display": "Proxemics",
+        "ko": "대인 거리·공간 사용 연구 — 사회적 로봇의 네비게이션에 활용.",
+        "en": "The study of human spatial-distance norms — applied to socially-aware robot navigation.",
+    },
+    "crowd simulation": {
+        "display": "Crowd Simulation",
+        "ko": "다수 보행자 움직임을 수학적으로 시뮬레이션 — 네비게이션 벤치마크.",
+        "en": "Mathematical simulation of many pedestrians — a benchmark for navigation.",
+    },
+    "pedestrian prediction": {
+        "display": "Pedestrian Prediction",
+        "ko": "보행자의 미래 궤적을 예측해 안전한 경로 생성.",
+        "en": "Forecasting pedestrian trajectories for safer navigation.",
+    },
 }
 
 

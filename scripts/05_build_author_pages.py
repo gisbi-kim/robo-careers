@@ -589,9 +589,46 @@ def build_phases(profile, author_papers, idf, max_idf, lang):
         c = c_idx.get(k, {"top_coauthors": [], "mean_n_authors": 0})
         win_phrases = phrases_for_window(author_papers, win["start"], win["end"], idf, max_idf, k=6)
         # Gloss ONLY what showed up as a distinctive TF-IDF phrase in the
-        # window. Using raw blockbuster titles introduced false positives
-        # (e.g. a stray 'underwater' in a bibliographic string).
+        # window — raw blockbuster titles introduced false positives.
         glossary = lookup_glossary(win_phrases, lang, max_entries=4)
+
+        # Paper-based fallback: the phase title surfaces up to 2 distinctive
+        # phrases. For each of those, if the curated glossary didn't catch it,
+        # attach the highest-cited in-window paper whose title contains all
+        # the phrase's tokens, so readers see at least WHERE the term came
+        # from ("Gel-Made Electro-Active Polymer Gripper, IROS 2018, 45c").
+        title_phrases = win_phrases[:2]
+        covered = {g["term"].lower() for g in glossary}
+        for phr in title_phrases:
+            if any(tok in covered for tok in phr.lower().split()) or phr.lower() in covered:
+                continue
+            # Avoid near-duplicate add if it's already a gloss term
+            if phr.lower() in covered:
+                continue
+            # Find best paper whose title contains all phrase tokens
+            tokens = [t for t in phr.lower().replace("-", " ").split() if len(t) > 1]
+            if not tokens:
+                continue
+            candidates = []
+            for p in author_papers:
+                y = p.get("year")
+                if not y or not (win["start"] <= y <= win["end"]):
+                    continue
+                title_l = (p.get("title") or "").lower().replace("-", " ")
+                if all(tok in title_l for tok in tokens):
+                    candidates.append(p)
+            if not candidates:
+                continue
+            best = max(candidates, key=lambda x: x.get("cites", 0))
+            t = best.get("title", "")
+            t_short = t if len(t) <= 72 else t[:71].rstrip() + "…"
+            if lang == "ko":
+                gloss = f"대표 논문: <em>\"{t_short}\"</em> ({best.get('venue','?')} {best.get('year','')}, {best.get('cites',0):,}회)."
+            else:
+                gloss = f"from paper: <em>\"{t_short}\"</em> ({best.get('venue','?')} {best.get('year','')}, {best.get('cites',0):,} cites)."
+            glossary.append({"term": phr, "gloss": gloss})
+            if len(glossary) >= 5:
+                break
         phases.append({
             "years": f"{win['start']} — {win['end']}",
             "id": ROMAN[i] if i < len(ROMAN) else str(i + 1),
