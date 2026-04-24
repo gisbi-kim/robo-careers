@@ -1,0 +1,1080 @@
+{
+  "name": "Shaojie Shen",
+  "slug": "shaojie-shen",
+  "career_stats": {
+    "first_year": 2011,
+    "last_year": 2025,
+    "span": 15,
+    "total_papers": 131,
+    "total_cites": 12628,
+    "h_index": 45,
+    "i10_index": 92,
+    "seminal_count": 3,
+    "max_cites_single_paper": 4302
+  },
+  "role_distribution": {
+    "first": 8,
+    "last": 102,
+    "middle": 21
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2011,
+      "title": "Autonomous multi-floor indoor navigation with a computationally constrained MAV"
+    },
+    "first_100cite": {
+      "year": 2011,
+      "title": "Autonomous multi-floor indoor navigation with a computationally constrained MAV",
+      "cites": 355,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2018,
+      "title": "A Survey on Aerial Swarm Robotics",
+      "cites": 621,
+      "gap_from_first": 7
+    },
+    "first_1000cite": {
+      "year": 2018,
+      "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+      "cites": 4302,
+      "gap_from_first": 7
+    },
+    "peak_paper": {
+      "year": 2018,
+      "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+      "cites": 4302
+    }
+  },
+  "year_series": {
+    "2011": {
+      "n": 2,
+      "cites": 385,
+      "max_cites": 355
+    },
+    "2012": {
+      "n": 2,
+      "cites": 223,
+      "max_cites": 144
+    },
+    "2013": {
+      "n": 2,
+      "cites": 265,
+      "max_cites": 164
+    },
+    "2014": {
+      "n": 1,
+      "cites": 178,
+      "max_cites": 178
+    },
+    "2015": {
+      "n": 1,
+      "cites": 222,
+      "max_cites": 222
+    },
+    "2016": {
+      "n": 6,
+      "cites": 423,
+      "max_cites": 210
+    },
+    "2017": {
+      "n": 16,
+      "cites": 733,
+      "max_cites": 151
+    },
+    "2018": {
+      "n": 14,
+      "cites": 5801,
+      "max_cites": 4302
+    },
+    "2019": {
+      "n": 11,
+      "cites": 1569,
+      "max_cites": 670
+    },
+    "2020": {
+      "n": 8,
+      "cites": 578,
+      "max_cites": 179
+    },
+    "2021": {
+      "n": 8,
+      "cites": 663,
+      "max_cites": 288
+    },
+    "2022": {
+      "n": 11,
+      "cites": 693,
+      "max_cites": 336
+    },
+    "2023": {
+      "n": 16,
+      "cites": 495,
+      "max_cites": 194
+    },
+    "2024": {
+      "n": 18,
+      "cites": 319,
+      "max_cites": 51
+    },
+    "2025": {
+      "n": 15,
+      "cites": 81,
+      "max_cites": 23
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Inertial measurement unit",
+          "w": 0.075
+        },
+        {
+          "c": "Tree traversal",
+          "w": 0.05
+        },
+        {
+          "c": "Robot",
+          "w": 0.05
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 55,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.185
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.087
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.076
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.062
+        },
+        {
+          "c": "Inertial measurement unit",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 68,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.195
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.106
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.065
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.027
+        },
+        {
+          "c": "Point cloud",
+          "w": 0.024
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 6,
+        "IJRR": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "ICRA": 21,
+        "IROS": 21,
+        "RA-L": 7,
+        "T-RO": 6
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "RA-L": 21,
+        "T-RO": 17,
+        "IROS": 15,
+        "ICRA": 12,
+        "T-Mech": 1,
+        "RSS": 1,
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 3.38,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Nathan Michael",
+          8
+        ],
+        [
+          "Vijay Kumar",
+          8
+        ],
+        [
+          "Yash Mulgaonkar",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 3.62,
+      "unique_coauthors": 51,
+      "top_coauthors": [
+        [
+          "Fei Gao",
+          13
+        ],
+        [
+          "Kaixuan Wang",
+          10
+        ],
+        [
+          "Tianbo Liu",
+          7
+        ],
+        [
+          "Jing Chen",
+          7
+        ],
+        [
+          "Wenchao Ding",
+          7
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 5,
+      "unique_coauthors": 118,
+      "top_coauthors": [
+        [
+          "Boyu Zhou",
+          18
+        ],
+        [
+          "Yichen Zhang",
+          8
+        ],
+        [
+          "Fei Gao",
+          8
+        ],
+        [
+          "Chen Feng",
+          8
+        ],
+        [
+          "Zhijian Qiao",
+          8
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.146,
+  "top_repeat_coauthors": [
+    {
+      "name": "Boyu Zhou",
+      "count": 24,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Fei Gao",
+      "count": 21,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Kaixuan Wang",
+      "count": 11,
+      "first_year": 2018,
+      "last_year": 2021
+    },
+    {
+      "name": "Vijay Kumar",
+      "count": 10,
+      "first_year": 2011,
+      "last_year": 2018
+    },
+    {
+      "name": "Luqi Wang",
+      "count": 10,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Jing Chen",
+      "count": 9,
+      "first_year": 2016,
+      "last_year": 2022
+    },
+    {
+      "name": "Tong Qin",
+      "count": 9,
+      "first_year": 2017,
+      "last_year": 2025
+    },
+    {
+      "name": "Chuhao Liu",
+      "count": 9,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Yichen Zhang",
+      "count": 9,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Nathan Michael",
+      "count": 8,
+      "first_year": 2011,
+      "last_year": 2015
+    },
+    {
+      "name": "Wenchao Ding",
+      "count": 8,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Peiliang Li",
+      "count": 8,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Chen Feng",
+      "count": 8,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Zhijian Qiao",
+      "count": 8,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Huan Yin",
+      "count": 8,
+      "first_year": 2023,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Vijay Kumar",
+      "advisor_active_from": 1989,
+      "early_copubs_as_our_first_author": 8,
+      "advisor_last_author_count": 8,
+      "total_copubs": 10
+    },
+    {
+      "name": "Nathan Michael",
+      "advisor_active_from": 2005,
+      "early_copubs_as_our_first_author": 8,
+      "advisor_last_author_count": 0,
+      "total_copubs": 8
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Boyu Zhou",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 17,
+      "total_copubs": 24,
+      "student_first_author_count": 5,
+      "we_last_author_count": 17,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Fei Gao",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 21,
+      "student_first_author_count": 6,
+      "we_last_author_count": 12,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Kaixuan Wang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 5,
+      "we_last_author_count": 11,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Yichen Zhang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Wenchao Ding",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 6,
+      "we_last_author_count": 8,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Luqi Wang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jing Chen",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Tong Qin",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Chuhao Liu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xinyi Chen",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Tianbo Liu",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Zhijian Qiao",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Lu Zhang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zehuan Yu",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Peize Liu",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jieqi Shi",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yonggen Ling",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Xiuyuan Lu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hao Xu",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Wenliang Gao",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Haojia Li",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Binqian Jiang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yang Xu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ke Wang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sheng Hong",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zhenfei Yang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Tong Li",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Chenxing Jiang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yi Zhou",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Luxin Han",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Haokun Wang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yiming Luo",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Mingjie Zhang",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jiarong Lin",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Pengqin Wang",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yishu Shen",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Junkai Niu",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ximin Lyu",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jinni Zhou",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Qiucan Huang",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zhenmin Huang",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Haichao Liu",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yuman Gao",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2011,
+      2020
+    ],
+    "early_mean_n_authors": 3.59,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.38
+  },
+  "citation_half_life_years": 8.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2018
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2018,
+      "venue": "T-RO",
+      "title": "VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator",
+      "cites": 4302,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Inertial measurement unit",
+        "Computer science",
+        "Initialization",
+        "Odometry",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2018.2853729",
+      "coauthors": [
+        "Tong Qin",
+        "Peiliang Li"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight",
+      "cites": 670,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Trajectory",
+        "Trajectory optimization",
+        "Convex hull",
+        "Mathematical optimization"
+      ],
+      "doi": "10.1109/lra.2019.2927938",
+      "coauthors": [
+        "Boyu Zhou",
+        "Fei Gao",
+        "Luqi Wang",
+        "Chuhao Liu"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "T-RO",
+      "title": "A Survey on Aerial Swarm Robotics",
+      "cites": 621,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Swarm behaviour",
+        "Swarm robotics",
+        "Robotics",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2018.2857475",
+      "coauthors": [
+        "Soon-Jo Chung",
+        "Aditya A. Paranjape",
+        "Philip M. Dames",
+        "Vijay Kumar"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "Autonomous multi-floor indoor navigation with a computationally constrained MAV",
+      "cites": 355,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Tree traversal",
+        "Robot",
+        "Mobile robot",
+        "Mobile robot navigation"
+      ],
+      "doi": "10.1109/icra.2011.5980357",
+      "coauthors": [
+        "Nathan Michael",
+        "Vijay Kumar"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "T-RO",
+      "title": "GVINS: Tightly Coupled GNSS-Visual-Inertial Fusion for Smooth and Consistent State Estimation",
+      "cites": 336,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "GNSS applications",
+        "Robustness (evolution)",
+        "Computer science",
+        "Pseudorange",
+        "Initialization"
+      ],
+      "doi": "10.1109/tro.2021.3133730",
+      "coauthors": [
+        "Shaozu Cao",
+        "Xiuyuan Lu"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "FUEL: Fast UAV Exploration Using Incremental Frontier Structure and Hierarchical Planning",
+      "cites": 288,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Benchmark (surveying)",
+        "Computer science",
+        "Planner",
+        "Robotics",
+        "Set (abstract data type)"
+      ],
+      "doi": "10.1109/lra.2021.3051563",
+      "coauthors": [
+        "Boyu Zhou",
+        "Yichen Zhang",
+        "Xinyi Chen"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Online Safe Trajectory Generation for Quadrotors Using Fast Marching Method and Bernstein Basis Polynomial",
+      "cites": 275,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Trajectory",
+        "Motion planning",
+        "Computer science",
+        "Bézier curve",
+        "Piecewise"
+      ],
+      "doi": "10.1109/icra.2018.8462878",
+      "coauthors": [
+        "Fei Gao",
+        "William Wu",
+        "Yi Lin"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "T-RO",
+      "title": "RAPTOR: Robust and Perception-Aware Trajectory Replanning for Quadrotor Fast Flight",
+      "cites": 265,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Trajectory",
+        "Bottleneck",
+        "Benchmark (surveying)",
+        "Perception"
+      ],
+      "doi": "10.1109/tro.2021.3071527",
+      "coauthors": [
+        "Boyu Zhou",
+        "Jie Pan",
+        "Fei Gao"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Tightly-coupled monocular visual-inertial fusion for autonomous flight of rotorcraft MAVs",
+      "cites": 222,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Inertial measurement unit",
+        "Monocular",
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2015.7139939",
+      "coauthors": [
+        "Nathan Michael",
+        "Vijay Kumar"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "IROS",
+      "title": "FIESTA: Fast Incremental Euclidean Distance Fields for Online Motion Planning of Aerial Robots",
+      "cites": 221,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Bottleneck",
+        "Motion planning",
+        "Search engine indexing",
+        "Euclidean distance"
+      ],
+      "doi": "10.1109/iros40897.2019.8968199",
+      "coauthors": [
+        "Luxin Han",
+        "Fei Gao",
+        "Boyu Zhou"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Shaojie Shen: 15년에 걸쳐 131편, 총 12,628회 인용, h=45, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "2011년 \"Autonomous multi-floor indoor navigation with a computationally constrained MAV\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"A Survey on Aerial Swarm Robotics\" (2018, 621회). 1000+ 인용 논문: \"VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator\" (2018, 4,302회).",
+        "초기 토픽: Computer science, Inertial measurement unit, Tree traversal. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.15 → 토픽 지속형.",
+        "저자수 평균: 초기 3.6명 → 후기 4.4명 (팀 확장).",
+        "최다 인용 논문 \"VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator\" (2018, 4,302회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Vijay Kumar, Nathan Michael. 제자 후보 추정 43명 — 상위: Boyu Zhou(2018~, 우리 마지막저자 17편), Fei Gao(2017~, 우리 마지막저자 12편), Kaixuan Wang(2018~, 우리 마지막저자 11편)."
+      ],
+      "lessons": [
+        "43명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Vijay Kumar — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Shaojie Shen: over 15 years, 131 papers, 12,628 total cites, h=45, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2011 with \"Autonomous multi-floor indoor navigation with a computationally constrained MAV\". First 500+ cite paper came 7 years in: \"A Survey on Aerial Swarm Robotics\" (2018, 621 cites). 1000+ cite paper: \"VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator\" (2018, 4,302 cites).",
+        "Early topics: Computer science, Inertial measurement unit, Tree traversal. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.15 → topic-stable.",
+        "Authors per paper: early 3.6 → late 4.4 (team growth).",
+        "Peak paper \"VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator\" (2018, 4,302 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Vijay Kumar, Nathan Michael. 43 likely students — top: Boyu Zhou(2018~, we last-author on 17), Fei Gao(2017~, we last-author on 12), Kaixuan Wang(2018~, we last-author on 11)."
+      ],
+      "lessons": [
+        "43 likely students — mentoring is the real impact.",
+        "Likely advisor: Vijay Kumar — started within their PhD network."
+      ]
+    }
+  }
+}

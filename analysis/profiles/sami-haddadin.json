@@ -1,0 +1,1328 @@
+{
+  "name": "Sami Haddadin",
+  "slug": "sami-haddadin",
+  "career_stats": {
+    "first_year": 2006,
+    "last_year": 2025,
+    "span": 20,
+    "total_papers": 218,
+    "total_cites": 8518,
+    "h_index": 44,
+    "i10_index": 103,
+    "seminal_count": 3,
+    "max_cites_single_paper": 761
+  },
+  "role_distribution": {
+    "middle": 57,
+    "first": 24,
+    "last": 137
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2006,
+      "title": "Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm"
+    },
+    "first_100cite": {
+      "year": 2006,
+      "title": "Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm",
+      "cites": 761,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2006,
+      "title": "Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm",
+      "cites": 761,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2006,
+      "title": "Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm",
+      "cites": 761
+    }
+  },
+  "year_series": {
+    "2006": {
+      "n": 1,
+      "cites": 761,
+      "max_cites": 761
+    },
+    "2007": {
+      "n": 2,
+      "cites": 286,
+      "max_cites": 231
+    },
+    "2008": {
+      "n": 4,
+      "cites": 833,
+      "max_cites": 559
+    },
+    "2009": {
+      "n": 3,
+      "cites": 546,
+      "max_cites": 428
+    },
+    "2010": {
+      "n": 8,
+      "cites": 436,
+      "max_cites": 131
+    },
+    "2011": {
+      "n": 6,
+      "cites": 996,
+      "max_cites": 430
+    },
+    "2012": {
+      "n": 11,
+      "cites": 851,
+      "max_cites": 227
+    },
+    "2013": {
+      "n": 6,
+      "cites": 364,
+      "max_cites": 164
+    },
+    "2014": {
+      "n": 4,
+      "cites": 157,
+      "max_cites": 79
+    },
+    "2015": {
+      "n": 7,
+      "cites": 383,
+      "max_cites": 172
+    },
+    "2016": {
+      "n": 3,
+      "cites": 75,
+      "max_cites": 32
+    },
+    "2017": {
+      "n": 8,
+      "cites": 1258,
+      "max_cites": 747
+    },
+    "2018": {
+      "n": 7,
+      "cites": 284,
+      "max_cites": 162
+    },
+    "2019": {
+      "n": 7,
+      "cites": 80,
+      "max_cites": 21
+    },
+    "2020": {
+      "n": 5,
+      "cites": 152,
+      "max_cites": 63
+    },
+    "2021": {
+      "n": 15,
+      "cites": 306,
+      "max_cites": 81
+    },
+    "2022": {
+      "n": 22,
+      "cites": 267,
+      "max_cites": 43
+    },
+    "2023": {
+      "n": 22,
+      "cites": 260,
+      "max_cites": 42
+    },
+    "2024": {
+      "n": 45,
+      "cites": 174,
+      "max_cites": 34
+    },
+    "2025": {
+      "n": 32,
+      "cites": 49,
+      "max_cites": 9
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Robot",
+          "w": 0.144
+        },
+        {
+          "c": "Collision",
+          "w": 0.044
+        },
+        {
+          "c": "Human–robot interaction",
+          "w": 0.044
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 34,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.153
+        },
+        {
+          "c": "Robot",
+          "w": 0.141
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.041
+        },
+        {
+          "c": "Impedance control",
+          "w": 0.041
+        },
+        {
+          "c": "Robotics",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 30,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.147
+        },
+        {
+          "c": "Computer science",
+          "w": 0.113
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.08
+        },
+        {
+          "c": "Torque",
+          "w": 0.04
+        },
+        {
+          "c": "Impedance control",
+          "w": 0.027
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 136,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.162
+        },
+        {
+          "c": "Robot",
+          "w": 0.086
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.039
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.031
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.027
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 7,
+        "RSS": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "IROS": 14,
+        "ICRA": 13,
+        "IJRR": 4,
+        "T-RO": 2,
+        "SoRo": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "IROS": 11,
+        "RA-L": 8,
+        "ICRA": 6,
+        "T-RO": 4,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "IROS": 58,
+        "ICRA": 47,
+        "RA-L": 20,
+        "T-RO": 6,
+        "Sci-Rob": 2,
+        "IJRR": 2,
+        "T-Mech": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 4.94,
+      "unique_coauthors": 31,
+      "top_coauthors": [
+        [
+          "Alin Albu-Schäffer",
+          16
+        ],
+        [
+          "Gerd Hirzinger",
+          16
+        ],
+        [
+          "Mirko Frommberger",
+          4
+        ],
+        [
+          "Sven Parusel",
+          4
+        ],
+        [
+          "Oliver Eiberger",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 6.15,
+      "unique_coauthors": 97,
+      "top_coauthors": [
+        [
+          "Alin Albu-Schäffer",
+          20
+        ],
+        [
+          "Sven Parusel",
+          9
+        ],
+        [
+          "Kai Krieger",
+          6
+        ],
+        [
+          "Felix Huber",
+          6
+        ],
+        [
+          "Florian Petit",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 3.73,
+      "unique_coauthors": 46,
+      "top_coauthors": [
+        [
+          "Lars Johannsmeier",
+          7
+        ],
+        [
+          "Nico Mansfeld",
+          5
+        ],
+        [
+          "Alexander Toedtheide",
+          4
+        ],
+        [
+          "Teodor Tomic",
+          4
+        ],
+        [
+          "Erfan Shahriari",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 5.93,
+      "unique_coauthors": 262,
+      "top_coauthors": [
+        [
+          "Abdeldjallil Naceri",
+          24
+        ],
+        [
+          "Luis F. C. Figueredo",
+          22
+        ],
+        [
+          "Abdalla Swikir",
+          21
+        ],
+        [
+          "Fan Wu",
+          18
+        ],
+        [
+          "Robin Jeanne Kirschner",
+          17
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.135,
+  "top_repeat_coauthors": [
+    {
+      "name": "Alin Albu-Schäffer",
+      "count": 39,
+      "first_year": 2006,
+      "last_year": 2018
+    },
+    {
+      "name": "Abdeldjallil Naceri",
+      "count": 24,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Luis F. C. Figueredo",
+      "count": 22,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Abdalla Swikir",
+      "count": 21,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Nico Mansfeld",
+      "count": 19,
+      "first_year": 2012,
+      "last_year": 2023
+    },
+    {
+      "name": "Gerd Hirzinger",
+      "count": 18,
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "name": "Fan Wu",
+      "count": 18,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Robin Jeanne Kirschner",
+      "count": 17,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Saeed Abdolshah",
+      "count": 16,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Lingyun Chen",
+      "count": 16,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Hamid Sadeghian",
+      "count": 16,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Sven Parusel",
+      "count": 14,
+      "first_year": 2010,
+      "last_year": 2021
+    },
+    {
+      "name": "Lars Johannsmeier",
+      "count": 13,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Riddhiman Laha",
+      "count": 13,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Alois Knoll",
+      "count": 13,
+      "first_year": 2023,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Gerd Hirzinger",
+      "advisor_active_from": 1985,
+      "early_copubs_as_our_first_author": 12,
+      "advisor_last_author_count": 12,
+      "total_copubs": 18
+    },
+    {
+      "name": "Alin Albu-Schäffer",
+      "advisor_active_from": 1998,
+      "early_copubs_as_our_first_author": 13,
+      "advisor_last_author_count": 1,
+      "total_copubs": 39
+    },
+    {
+      "name": "Jürgen Rossmann",
+      "advisor_active_from": 1994,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 0,
+      "total_copubs": 2
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Abdeldjallil Naceri",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 24,
+      "total_copubs": 24,
+      "student_first_author_count": 1,
+      "we_last_author_count": 23,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Robin Jeanne Kirschner",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 17,
+      "total_copubs": 17,
+      "student_first_author_count": 7,
+      "we_last_author_count": 15,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Riddhiman Laha",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 13,
+      "student_first_author_count": 5,
+      "we_last_author_count": 11,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Lingyun Chen",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 16,
+      "total_copubs": 16,
+      "student_first_author_count": 4,
+      "we_last_author_count": 11,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Lars Johannsmeier",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 13,
+      "student_first_author_count": 3,
+      "we_last_author_count": 9,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Edmundo Pozo Fortunic",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 1,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Seyed Ali Baradaran Birjandi",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xiao Chen",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mehmet Can Yildirim",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Dennis Ossadnik",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mario Tröbinger",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kübra Karacan",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Dennis Knobbe",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Teodor Tomic",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Christopher Herneth",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mazin Hamad",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Alexander Kurdas",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Nico Mansfeld",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 19,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jonathan Vorndamme",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alexander Toedtheide",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Florian Voigt",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Erfan Shahriari",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Moritz Eckhoff",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Henning Zwirnmann",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Diego Hidalgo-Carvajal",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Junnan Li",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Alexander Moortgat-Pick",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Moein Forouhar",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yansong Wu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Haowen Yao",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Peter So",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Rafael I. Cabral Muchacho",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Johannes Ringwald",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Samuel Schneider",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Seongjin Bien",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Liding Zhang",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 6,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Johannes Kuehn",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Fernando Diaz Ledezma",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Sonja Groß",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Marvin Becker",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Vasilije Rakcevic",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Daniel Pérez-Suay",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Alessandro Melone",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Muhammad Hilman Fatoni",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Kejia Chen",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kuanqi Cai",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Dasharadhan Mahalingam",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Zheng Shen",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jicong Ao",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Nikolas J. Wilhelm",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Arthur Bucker",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Juan Heredia",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Kangwagye Samuel",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Felix Huber",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Roman Weitschat",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Chavdar Papazov",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2013
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2006,
+      2015
+    ],
+    "early_mean_n_authors": 5.73,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.54
+  },
+  "citation_half_life_years": 14.0,
+  "bursts": {
+    "productivity": [
+      2024
+    ],
+    "impact": [
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm",
+      "cites": 761,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Collision",
+        "Workspace",
+        "Collision detection",
+        "Simulation"
+      ],
+      "doi": "10.1109/iros.2006.282053",
+      "coauthors": [
+        "Alessandro De Luca",
+        "Alin Albu-Schäffer",
+        "Gerd Hirzinger"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-RO",
+      "title": "Robot Collisions: A Survey on Detection, Isolation, and Identification",
+      "cites": 747,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Context (archaeology)",
+        "Workspace",
+        "Flexibility (engineering)",
+        "Identification (biology)"
+      ],
+      "doi": "10.1109/tro.2017.2723903",
+      "coauthors": [
+        "Alessandro De Luca",
+        "Alin Albu-Schäffer"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IROS",
+      "title": "Collision detection and reaction: A contribution to safe physical Human-Robot Interaction",
+      "cites": 559,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Human–robot interaction",
+        "Computer science",
+        "Collision",
+        "Robot",
+        "Collision detection"
+      ],
+      "doi": "10.1109/iros.2008.4650764",
+      "coauthors": [
+        "Alin Albu-Schäffer",
+        "Alessandro De Luca",
+        "Gerd Hirzinger"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "The DLR hand arm system",
+      "cites": 430,
+      "n_authors": 21,
+      "role": "middle",
+      "concepts": [
+        "Robustness (evolution)",
+        "Robot",
+        "Robotic arm",
+        "Stiffness",
+        "Hammer"
+      ],
+      "doi": "10.1109/icra.2011.5980371",
+      "coauthors": [
+        "Markus Grebenstein",
+        "Alin Albu-Schäffer",
+        "Thomas Bahls",
+        "Maxime Chalon",
+        "Oliver Eiberger",
+        "Werner Friedl",
+        "Robin Gruber",
+        "Ulrich Hagn",
+        "Robert Haslinger",
+        "Hannes Höppner",
+        "Stefan Jörg",
+        "Mathias Nickl",
+        "Alexander Nothhelfer",
+        "Florian Petit",
+        "Josef Reill",
+        "Nikolaus Seitz",
+        "Thomas Wimböck",
+        "Sebastian Wolf",
+        "Tilo Wüsthoff",
+        "Gerd Hirzinger"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IJRR",
+      "title": "Requirements for Safe Robots: Measurements, Analysis and New Insights",
+      "cites": 428,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Robotics",
+        "Artificial intelligence",
+        "Human–robot interaction",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364909343970",
+      "coauthors": [
+        "Alin Albu-Schäffer",
+        "Gerd Hirzinger"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "T-RO",
+      "title": "Human-Like Adaptation of Force and Impedance in Stable and Unstable Interactions",
+      "cites": 389,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Control theory (sociology)",
+        "Controller (irrigation)",
+        "Impedance control",
+        "Torque",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2011.2158251",
+      "coauthors": [
+        "Chenguang Yang",
+        "Ganesh Gowrishankar",
+        "Sven Parusel",
+        "Alin Albu-Schäffer",
+        "Etienne Burdet"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "RA-L",
+      "title": "A Hierarchical Human-Robot Interaction-Planning Framework for Task Allocation in Collaborative Industrial Assembly Processes",
+      "cites": 242,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Task (project management)",
+        "Robot",
+        "Abstraction",
+        "Plan (archaeology)",
+        "Computer science"
+      ],
+      "doi": "10.1109/lra.2016.2535907",
+      "coauthors": [
+        "Lars Johannsmeier"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "RSS",
+      "title": "Safety Evaluation of Physical Human-Robot Interaction via Crash-Testing",
+      "cites": 231,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Crash",
+        "Human–robot interaction",
+        "Computer science",
+        "Robot",
+        "Crash test"
+      ],
+      "doi": "10.15607/rss.2007.iii.028",
+      "coauthors": [
+        "Alin Albu-Schäffer",
+        "Gerd Hirzinger"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "The hand of the DLR Hand Arm System: Designed for interaction",
+      "cites": 227,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Workspace",
+        "Robustness (evolution)",
+        "Computer science",
+        "Robot",
+        "Robotic arm"
+      ],
+      "doi": "10.1177/0278364912459209",
+      "coauthors": [
+        "Markus Grebenstein",
+        "Maxime Chalon",
+        "Werner Friedl",
+        "Thomas Wimböck",
+        "Gerd Hirzinger",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "On making robots understand safety: Embedding injury knowledge into control",
+      "cites": 188,
+      "n_authors": 8,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Supervisor",
+        "Robotics",
+        "Artificial intelligence",
+        "Inertia"
+      ],
+      "doi": "10.1177/0278364912462256",
+      "coauthors": [
+        "Simon Haddadin",
+        "Augusto Khoury",
+        "Tim Rokahr",
+        "Sven Parusel",
+        "Rainer Burgkart",
+        "Antonio Bicchi",
+        "Alin Albu-Schäffer"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Sami Haddadin: 20년에 걸쳐 218편, 총 8,518회 인용, h=44, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "2006년 \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761회).",
+        "초기 토픽: Computer science, Robot, Collision. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.14 → 토픽 지속형.",
+        "저자수 평균: 초기 5.7명 → 후기 5.5명 (팀 유지).",
+        "최다 인용 논문 \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Gerd Hirzinger, Alin Albu-Schäffer, Jürgen Rossmann. 제자 후보 추정 56명 — 상위: Abdeldjallil Naceri(2020~, 우리 마지막저자 23편), Robin Jeanne Kirschner(2021~, 우리 마지막저자 15편), Riddhiman Laha(2021~, 우리 마지막저자 11편)."
+      ],
+      "lessons": [
+        "초기 0년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "56명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Gerd Hirzinger — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Sami Haddadin: over 20 years, 218 papers, 8,518 total cites, h=44, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2006 with \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\". First 500+ cite paper came 0 years in: \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761 cites).",
+        "Early topics: Computer science, Robot, Collision. Recent topics: Computer science, Robot, Artificial intelligence. Pivot score 0.14 → topic-stable.",
+        "Authors per paper: early 5.7 → late 5.5 (stable team).",
+        "Peak paper \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Gerd Hirzinger, Alin Albu-Schäffer, Jürgen Rossmann. 56 likely students — top: Abdeldjallil Naceri(2020~, we last-author on 23), Robin Jeanne Kirschner(2021~, we last-author on 15), Riddhiman Laha(2021~, we last-author on 11)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 0 years. First-5-year topic choice is decisive.",
+        "Impact through deep specialization — one lane, pushed far.",
+        "56 likely students — mentoring is the real impact.",
+        "Likely advisor: Gerd Hirzinger — started within their PhD network."
+      ]
+    }
+  }
+}

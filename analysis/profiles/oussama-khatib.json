@@ -1,0 +1,1333 @@
+{
+  "name": "Oussama Khatib",
+  "slug": "oussama-khatib",
+  "career_stats": {
+    "first_year": 1985,
+    "last_year": 2022,
+    "span": 38,
+    "total_papers": 114,
+    "total_cites": 12038,
+    "h_index": 46,
+    "i10_index": 95,
+    "seminal_count": 6,
+    "max_cites_single_paper": 1669
+  },
+  "role_distribution": {
+    "first": 13,
+    "middle": 25,
+    "last": 76
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1985,
+      "title": "Real-time obstacle avoidance for manipulators and mobile robots"
+    },
+    "first_100cite": {
+      "year": 1985,
+      "title": "Real-time obstacle avoidance for manipulators and mobile robots",
+      "cites": 1669,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 1985,
+      "title": "Real-time obstacle avoidance for manipulators and mobile robots",
+      "cites": 1669,
+      "gap_from_first": 0
+    },
+    "first_1000cite": {
+      "year": 1985,
+      "title": "Real-time obstacle avoidance for manipulators and mobile robots",
+      "cites": 1669,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 1985,
+      "title": "Real-time obstacle avoidance for manipulators and mobile robots",
+      "cites": 1669
+    }
+  },
+  "year_series": {
+    "1985": {
+      "n": 1,
+      "cites": 1669,
+      "max_cites": 1669
+    },
+    "1986": {
+      "n": 3,
+      "cites": 933,
+      "max_cites": 605
+    },
+    "1987": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1988": {
+      "n": 1,
+      "cites": 33,
+      "max_cites": 33
+    },
+    "1989": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1990": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1991": {
+      "n": 1,
+      "cites": 23,
+      "max_cites": 23
+    },
+    "1992": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1993": {
+      "n": 2,
+      "cites": 973,
+      "max_cites": 796
+    },
+    "1994": {
+      "n": 1,
+      "cites": 22,
+      "max_cites": 22
+    },
+    "1995": {
+      "n": 4,
+      "cites": 625,
+      "max_cites": 531
+    },
+    "1996": {
+      "n": 2,
+      "cites": 242,
+      "max_cites": 188
+    },
+    "1997": {
+      "n": 3,
+      "cites": 153,
+      "max_cites": 72
+    },
+    "1998": {
+      "n": 2,
+      "cites": 41,
+      "max_cites": 22
+    },
+    "1999": {
+      "n": 5,
+      "cites": 840,
+      "max_cites": 534
+    },
+    "2000": {
+      "n": 7,
+      "cites": 524,
+      "max_cites": 181
+    },
+    "2001": {
+      "n": 1,
+      "cites": 61,
+      "max_cites": 61
+    },
+    "2002": {
+      "n": 5,
+      "cites": 523,
+      "max_cites": 347
+    },
+    "2003": {
+      "n": 3,
+      "cites": 72,
+      "max_cites": 43
+    },
+    "2004": {
+      "n": 4,
+      "cites": 655,
+      "max_cites": 440
+    },
+    "2005": {
+      "n": 5,
+      "cites": 275,
+      "max_cites": 125
+    },
+    "2006": {
+      "n": 6,
+      "cites": 694,
+      "max_cites": 238
+    },
+    "2007": {
+      "n": 2,
+      "cites": 79,
+      "max_cites": 42
+    },
+    "2008": {
+      "n": 5,
+      "cites": 175,
+      "max_cites": 94
+    },
+    "2009": {
+      "n": 6,
+      "cites": 335,
+      "max_cites": 242
+    },
+    "2010": {
+      "n": 3,
+      "cites": 432,
+      "max_cites": 306
+    },
+    "2011": {
+      "n": 6,
+      "cites": 314,
+      "max_cites": 142
+    },
+    "2012": {
+      "n": 6,
+      "cites": 597,
+      "max_cites": 418
+    },
+    "2013": {
+      "n": 4,
+      "cites": 121,
+      "max_cites": 75
+    },
+    "2014": {
+      "n": 3,
+      "cites": 57,
+      "max_cites": 32
+    },
+    "2015": {
+      "n": 5,
+      "cites": 257,
+      "max_cites": 211
+    },
+    "2016": {
+      "n": 2,
+      "cites": 40,
+      "max_cites": 33
+    },
+    "2017": {
+      "n": 4,
+      "cites": 206,
+      "max_cites": 160
+    },
+    "2018": {
+      "n": 1,
+      "cites": 878,
+      "max_cites": 878
+    },
+    "2019": {
+      "n": 1,
+      "cites": 11,
+      "max_cites": 11
+    },
+    "2020": {
+      "n": 4,
+      "cites": 129,
+      "max_cites": 108
+    },
+    "2021": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "2022": {
+      "n": 4,
+      "cites": 43,
+      "max_cites": 16
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Motion control",
+          "w": 0.067
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.067
+        },
+        {
+          "c": "Position (finance)",
+          "w": 0.067
+        },
+        {
+          "c": "Orientation (vector space)",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.15
+        },
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Redundancy (engineering)",
+          "w": 0.05
+        },
+        {
+          "c": "Controllability",
+          "w": 0.05
+        },
+        {
+          "c": "Control engineering",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.138
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.062
+        },
+        {
+          "c": "Acceleration",
+          "w": 0.037
+        },
+        {
+          "c": "Robot",
+          "w": 0.037
+        },
+        {
+          "c": "Angular acceleration",
+          "w": 0.025
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.13
+        },
+        {
+          "c": "Robot",
+          "w": 0.06
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.05
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.04
+        },
+        {
+          "c": "Control engineering",
+          "w": 0.03
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.058
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.05
+        },
+        {
+          "c": "Torque",
+          "w": 0.042
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.145
+        },
+        {
+          "c": "Computer science",
+          "w": 0.109
+        },
+        {
+          "c": "Torque",
+          "w": 0.045
+        },
+        {
+          "c": "Acceleration",
+          "w": 0.045
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.092
+        },
+        {
+          "c": "Computer science",
+          "w": 0.092
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.046
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.046
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.046
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2022,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Robot",
+          "w": 0.095
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.071
+        },
+        {
+          "c": "Collision",
+          "w": 0.048
+        },
+        {
+          "c": "Contact force",
+          "w": 0.048
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mix": {
+        "ICRA": 5,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 6,
+        "IJRR": 3
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 5,
+        "IJRR": 4
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 5,
+        "T-RO": 3,
+        "IJRR": 3
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "IROS": 9,
+        "ICRA": 6,
+        "IJRR": 4,
+        "T-RO": 3
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "IROS": 4,
+        "ICRA": 3,
+        "IJRR": 3,
+        "T-RO": 1,
+        "T-Mech": 1,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2022,
+      "mix": {
+        "IJRR": 4,
+        "IROS": 3,
+        "RA-L": 1,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mean_n_authors": 2.33,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "Shashank Shekhar",
+          3
+        ],
+        [
+          "Joel Burdick",
+          2
+        ],
+        [
+          "Makoto Shimojo",
+          2
+        ],
+        [
+          "Brian S. R. Armstrong",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 2.25,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Bernard Roth",
+          1
+        ],
+        [
+          "Sean Quinlan",
+          1
+        ],
+        [
+          "David Williams",
+          1
+        ],
+        [
+          "Paul U. Lee",
+          1
+        ],
+        [
+          "Diego C. Ruspini",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 2.88,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Kyong-Sok Chang",
+          5
+        ],
+        [
+          "Alan Bowling",
+          3
+        ],
+        [
+          "Oliver Brock",
+          3
+        ],
+        [
+          "Kazu Yokoi",
+          2
+        ],
+        [
+          "Diego C. Ruspini",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 2.9,
+      "unique_coauthors": 24,
+      "top_coauthors": [
+        [
+          "Oliver Brock",
+          4
+        ],
+        [
+          "Kyong-Sok Chang",
+          3
+        ],
+        [
+          "Alan Bowling",
+          3
+        ],
+        [
+          "Diego C. Ruspini",
+          2
+        ],
+        [
+          "Robert Holmberg",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 2.75,
+      "unique_coauthors": 21,
+      "top_coauthors": [
+        [
+          "Jaeheung Park",
+          9
+        ],
+        [
+          "Luis Sentis",
+          3
+        ],
+        [
+          "Anna Petrovskaya",
+          3
+        ],
+        [
+          "Dongjun Shin",
+          3
+        ],
+        [
+          "Taizo Yoshikawa",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 3.64,
+      "unique_coauthors": 36,
+      "top_coauthors": [
+        [
+          "Dongjun Shin",
+          7
+        ],
+        [
+          "Mark R. Cutkosky",
+          4
+        ],
+        [
+          "Xiyang Yeh",
+          3
+        ],
+        [
+          "Fabrizio Flacco",
+          3
+        ],
+        [
+          "Torsten Kröger",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 3.85,
+      "unique_coauthors": 29,
+      "top_coauthors": [
+        [
+          "Mikael Jorda",
+          4
+        ],
+        [
+          "Shu-Yun Chung",
+          2
+        ],
+        [
+          "Shiquan Wang",
+          2
+        ],
+        [
+          "Mark R. Cutkosky",
+          2
+        ],
+        [
+          "Ribin Balachandran",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2022,
+      "mean_n_authors": 3.89,
+      "unique_coauthors": 23,
+      "top_coauthors": [
+        [
+          "Mikael Jorda",
+          3
+        ],
+        [
+          "Shameek Ganguly",
+          2
+        ],
+        [
+          "Andreea Tulbure",
+          1
+        ],
+        [
+          "Jing Xiao",
+          1
+        ],
+        [
+          "Torsten Kröger",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.309,
+  "top_repeat_coauthors": [
+    {
+      "name": "Jaeheung Park",
+      "count": 13,
+      "first_year": 2003,
+      "last_year": 2022
+    },
+    {
+      "name": "Dongjun Shin",
+      "count": 11,
+      "first_year": 2007,
+      "last_year": 2016
+    },
+    {
+      "name": "Kyong-Sok Chang",
+      "count": 8,
+      "first_year": 1995,
+      "last_year": 2004
+    },
+    {
+      "name": "Alan Bowling",
+      "count": 7,
+      "first_year": 1995,
+      "last_year": 2005
+    },
+    {
+      "name": "Oliver Brock",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "name": "Luis Sentis",
+      "count": 7,
+      "first_year": 2004,
+      "last_year": 2022
+    },
+    {
+      "name": "Mark R. Cutkosky",
+      "count": 7,
+      "first_year": 2009,
+      "last_year": 2017
+    },
+    {
+      "name": "Mikael Jorda",
+      "count": 7,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "Diego C. Ruspini",
+      "count": 5,
+      "first_year": 1994,
+      "last_year": 2004
+    },
+    {
+      "name": "Rui Cortesão",
+      "count": 4,
+      "first_year": 2003,
+      "last_year": 2006
+    },
+    {
+      "name": "Anna Petrovskaya",
+      "count": 4,
+      "first_year": 2006,
+      "last_year": 2011
+    },
+    {
+      "name": "Taizo Yoshikawa",
+      "count": 4,
+      "first_year": 2008,
+      "last_year": 2012
+    },
+    {
+      "name": "Vijay Kumar",
+      "count": 4,
+      "first_year": 2009,
+      "last_year": 2015
+    },
+    {
+      "name": "Fabrizio Flacco",
+      "count": 4,
+      "first_year": 2012,
+      "last_year": 2015
+    },
+    {
+      "name": "Torsten Kröger",
+      "count": 4,
+      "first_year": 2012,
+      "last_year": 2020
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Jaeheung Park",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 13,
+      "student_first_author_count": 4,
+      "we_last_author_count": 9,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Kyong-Sok Chang",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Dongjun Shin",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 11,
+      "student_first_author_count": 6,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Oliver Brock",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Alan Bowling",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Mikael Jorda",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Luis Sentis",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Anna Petrovskaya",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Fabrizio Flacco",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Taizo Yoshikawa",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Roy Featherstone",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1999
+    },
+    {
+      "name": "Vincent De Sapio",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Jinsung Kwon",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Diego C. Ruspini",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Rui Cortesão",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Robert Holmberg",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Irene Sardellitti",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Ribin Balachandran",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Elena Galbally Herrero",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Nicolas Mansard",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Shu-Yun Chung",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "François Conti",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Samson Phan",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Michael R. Zinn",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Shiquan Wang",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2017
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1985,
+      1994
+    ],
+    "early_mean_n_authors": 2.3,
+    "late_window": [
+      2013,
+      2022
+    ],
+    "late_mean_n_authors": 3.72
+  },
+  "citation_half_life_years": 26.0,
+  "bursts": {
+    "productivity": [
+      2000
+    ],
+    "impact": [
+      1985
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 1985,
+      "venue": "ICRA",
+      "title": "Real-time obstacle avoidance for manipulators and mobile robots",
+      "cites": 1669,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Obstacle avoidance",
+        "Collision avoidance",
+        "Kinematics",
+        "Mobile robot",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.1985.1087247",
+      "coauthors": []
+    },
+    {
+      "year": 2018,
+      "venue": "Sci-Rob",
+      "title": "A hierarchically patterned, bioinspired e-skin able to detect the direction of applied pressure for robotics",
+      "cites": 878,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Robotics",
+        "Artificial intelligence",
+        "Tactile sensor",
+        "Electronic skin",
+        "Artificial skin"
+      ],
+      "doi": "10.1126/scirobotics.aau6914",
+      "coauthors": [
+        "Marc Negre",
+        "Mikael Jorda",
+        "Orestis Vardoulis",
+        "Alex Chortos",
+        "Zhenan Bao"
+      ]
+    },
+    {
+      "year": 1993,
+      "venue": "ICRA",
+      "title": "Elastic Bands: Connecting Path Planning and Control",
+      "cites": 796,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Path (computing)",
+        "Motion planning",
+        "Robot",
+        "Computer science",
+        "Planner"
+      ],
+      "doi": "10.1109/robot.1993.291936",
+      "coauthors": [
+        "Sean Quinlan"
+      ]
+    },
+    {
+      "year": 1986,
+      "venue": "ICRA",
+      "title": "The explicit dynamic model and inertial parameters of the PUMA 560 arm",
+      "cites": 605,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Inertial frame of reference",
+        "Control theory (sociology)",
+        "Computer science",
+        "Heuristic",
+        "Inertial navigation system"
+      ],
+      "doi": "10.1109/robot.1986.1087644",
+      "coauthors": [
+        "Brian S. R. Armstrong",
+        "Joel Burdick"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "High-Speed Navigation Using the Global Dynamic Window Approach",
+      "cites": 534,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Holonomic",
+        "Obstacle avoidance",
+        "Mobile robot",
+        "Computer science",
+        "Window (computing)"
+      ],
+      "doi": "10.1109/robot.1999.770002",
+      "coauthors": [
+        "Oliver Brock"
+      ]
+    },
+    {
+      "year": 1995,
+      "venue": "IJRR",
+      "title": "Inertial Properties in Robotic Manipulation: An Object-Level Framework",
+      "cites": 531,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Inertial frame of reference",
+        "Inertia",
+        "Control theory (sociology)",
+        "Torque",
+        "Computer science"
+      ],
+      "doi": "10.1177/027836499501400103",
+      "coauthors": []
+    },
+    {
+      "year": 2004,
+      "venue": "IJRR",
+      "title": "A New Actuation Approach for Human Friendly Robot Design",
+      "cites": 440,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Robotics",
+        "Control engineering",
+        "Robot manipulator",
+        "Robot",
+        "Torque"
+      ],
+      "doi": "10.1177/0278364904042193",
+      "coauthors": [
+        "Michael R. Zinn",
+        "Bernard Roth",
+        "Kenneth Salisbury"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "Depth space approach to human-robot collision avoidance",
+      "cites": 418,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Collision avoidance",
+        "Robot",
+        "Obstacle avoidance",
+        "Computer science",
+        "Collision"
+      ],
+      "doi": "10.1109/icra.2012.6225245",
+      "coauthors": [
+        "Fabrizio Flacco",
+        "Torsten Kröger",
+        "Alessandro De Luca"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IJRR",
+      "title": "Elastic Strips",
+      "cites": 347,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Obstacle avoidance",
+        "Computer science",
+        "Kinematics",
+        "Task (project management)",
+        "Motion (physics)"
+      ],
+      "doi": "10.1177/0278364902021012002",
+      "coauthors": [
+        "Oliver Brock"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "T-RO",
+      "title": "Compliant Control of Multicontact and Center-of-Mass Behaviors in Humanoid Robots",
+      "cites": 306,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Humanoid robot",
+        "Robot",
+        "Contact force",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/tro.2010.2043757",
+      "coauthors": [
+        "Luis Sentis",
+        "Jaeheung Park"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Oussama Khatib: 38년에 걸쳐 114편, 총 12,038회 인용, h=46, 500+ 블록버스터 6편.",
+      "paragraphs": [
+        "1985년 \"Real-time obstacle avoidance for manipulators and mobile robots\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669회). 1000+ 인용 논문: \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669회).",
+        "초기 토픽: Computer science, Motion control, Control theory (sociology). 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.31 → 점진적 이동형.",
+        "저자수 평균: 초기 2.3명 → 후기 3.7명 (팀 확장).",
+        "최다 인용 논문 \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669회) — 커리어 초기에 위치.",
+        "제자 후보 추정 25명 — 상위: Jaeheung Park(2003~, 우리 마지막저자 9편), Kyong-Sok Chang(1995~, 우리 마지막저자 5편), Dongjun Shin(2007~, 우리 마지막저자 4편)."
+      ],
+      "lessons": [
+        "초기 0년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "25명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Oussama Khatib: over 38 years, 114 papers, 12,038 total cites, h=46, 6 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1985 with \"Real-time obstacle avoidance for manipulators and mobile robots\". First 500+ cite paper came 0 years in: \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669 cites). 1000+ cite paper: \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669 cites).",
+        "Early topics: Computer science, Motion control, Control theory (sociology). Recent topics: Computer science, Robot, Artificial intelligence. Pivot score 0.31 → gradual shift.",
+        "Authors per paper: early 2.3 → late 3.7 (team growth).",
+        "Peak paper \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669 cites) — fell in early career.",
+        "25 likely students — top: Jaeheung Park(2003~, we last-author on 9), Kyong-Sok Chang(1995~, we last-author on 5), Dongjun Shin(2007~, we last-author on 4)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 0 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "25 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

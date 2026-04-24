@@ -1,0 +1,1054 @@
+{
+  "name": "David Hsu",
+  "slug": "david-hsu",
+  "career_stats": {
+    "first_year": 1997,
+    "last_year": 2025,
+    "span": 29,
+    "total_papers": 64,
+    "total_cites": 5951,
+    "h_index": 34,
+    "i10_index": 46,
+    "seminal_count": 3,
+    "max_cites_single_paper": 782
+  },
+  "role_distribution": {
+    "first": 9,
+    "middle": 32,
+    "last": 23
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1997,
+      "title": "Path planning in expansive configuration spaces"
+    },
+    "first_100cite": {
+      "year": 1997,
+      "title": "Path planning in expansive configuration spaces",
+      "cites": 546,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 1997,
+      "title": "Path planning in expansive configuration spaces",
+      "cites": 546,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2008,
+      "title": "SARSOP: Efficient Point-Based POMDP Planning by Approximating Optimally Reachable Belief Spaces",
+      "cites": 782
+    }
+  },
+  "year_series": {
+    "1997": {
+      "n": 1,
+      "cites": 546,
+      "max_cites": 546
+    },
+    "1998": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 1,
+      "cites": 117,
+      "max_cites": 117
+    },
+    "2001": {
+      "n": 1,
+      "cites": 44,
+      "max_cites": 44
+    },
+    "2002": {
+      "n": 1,
+      "cites": 767,
+      "max_cites": 767
+    },
+    "2003": {
+      "n": 1,
+      "cites": 357,
+      "max_cites": 357
+    },
+    "2004": {
+      "n": 1,
+      "cites": 76,
+      "max_cites": 76
+    },
+    "2005": {
+      "n": 2,
+      "cites": 284,
+      "max_cites": 173
+    },
+    "2006": {
+      "n": 3,
+      "cites": 337,
+      "max_cites": 256
+    },
+    "2007": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2008": {
+      "n": 2,
+      "cites": 862,
+      "max_cites": 782
+    },
+    "2009": {
+      "n": 1,
+      "cites": 95,
+      "max_cites": 95
+    },
+    "2010": {
+      "n": 1,
+      "cites": 238,
+      "max_cites": 238
+    },
+    "2011": {
+      "n": 2,
+      "cites": 194,
+      "max_cites": 133
+    },
+    "2012": {
+      "n": 2,
+      "cites": 19,
+      "max_cites": 19
+    },
+    "2013": {
+      "n": 3,
+      "cites": 31,
+      "max_cites": 22
+    },
+    "2014": {
+      "n": 1,
+      "cites": 110,
+      "max_cites": 110
+    },
+    "2015": {
+      "n": 4,
+      "cites": 393,
+      "max_cites": 328
+    },
+    "2016": {
+      "n": 5,
+      "cites": 174,
+      "max_cites": 67
+    },
+    "2017": {
+      "n": 2,
+      "cites": 217,
+      "max_cites": 189
+    },
+    "2018": {
+      "n": 5,
+      "cites": 332,
+      "max_cites": 207
+    },
+    "2019": {
+      "n": 7,
+      "cites": 183,
+      "max_cites": 49
+    },
+    "2020": {
+      "n": 3,
+      "cites": 230,
+      "max_cites": 91
+    },
+    "2021": {
+      "n": 5,
+      "cites": 107,
+      "max_cites": 46
+    },
+    "2022": {
+      "n": 3,
+      "cites": 65,
+      "max_cites": 35
+    },
+    "2023": {
+      "n": 3,
+      "cites": 162,
+      "max_cites": 143
+    },
+    "2024": {
+      "n": 2,
+      "cites": 5,
+      "max_cites": 4
+    },
+    "2025": {
+      "n": 2,
+      "cites": 6,
+      "max_cites": 5
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1997,
+      "end": 2001,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Motion planning",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Probabilistic roadmap",
+          "w": 0.133
+        },
+        {
+          "c": "Maintainability",
+          "w": 0.067
+        },
+        {
+          "c": "Configuration space",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Probabilistic roadmap",
+          "w": 0.125
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.1
+        },
+        {
+          "c": "Computer science",
+          "w": 0.1
+        },
+        {
+          "c": "Sampling (signal processing)",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.075
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Partially observable Markov decision process",
+          "w": 0.133
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.067
+        },
+        {
+          "c": "Observability",
+          "w": 0.067
+        },
+        {
+          "c": "Visibility",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.186
+        },
+        {
+          "c": "Partially observable Markov decision process",
+          "w": 0.119
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.085
+        },
+        {
+          "c": "Robotics",
+          "w": 0.051
+        },
+        {
+          "c": "Markov decision process",
+          "w": 0.051
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.204
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.093
+        },
+        {
+          "c": "Robot",
+          "w": 0.046
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.046
+        },
+        {
+          "c": "Planner",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.208
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.167
+        },
+        {
+          "c": "Robot",
+          "w": 0.083
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.083
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.042
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1997,
+      "end": 2001,
+      "mix": {
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "ICRA": 4,
+        "IJRR": 2,
+        "IROS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "RSS": 3,
+        "IJRR": 2,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "IROS": 4,
+        "IJRR": 4,
+        "RSS": 4,
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "RSS": 11,
+        "IJRR": 5,
+        "ICRA": 4,
+        "RA-L": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "ICRA": 6,
+        "T-RO": 2,
+        "RA-L": 1,
+        "RSS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1997,
+      "end": 2001,
+      "mean_n_authors": 3.67,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "Jean-Claude Latombe",
+          2
+        ],
+        [
+          "Rajeev Motwani",
+          1
+        ],
+        [
+          "Robert Kindel",
+          1
+        ],
+        [
+          "Stephen M. Rock",
+          1
+        ],
+        [
+          "Julien Basch",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 3.62,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Jean-Claude Latombe",
+          3
+        ],
+        [
+          "Zheng Sun",
+          3
+        ],
+        [
+          "Hanna Kurniawati",
+          3
+        ],
+        [
+          "Tingting Jiang",
+          2
+        ],
+        [
+          "John H. Reif",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 3.67,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Wee Sun Lee",
+          6
+        ],
+        [
+          "Hanna Kurniawati",
+          2
+        ],
+        [
+          "Sylvie C. W. Ong",
+          2
+        ],
+        [
+          "Shao Wei Png",
+          2
+        ],
+        [
+          "Nan Rong",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 4,
+      "unique_coauthors": 31,
+      "top_coauthors": [
+        [
+          "Wee Sun Lee",
+          8
+        ],
+        [
+          "Haoyu Bai",
+          4
+        ],
+        [
+          "Emilio Frazzoli",
+          3
+        ],
+        [
+          "Tirthankar Bandyopadhyay",
+          2
+        ],
+        [
+          "Daniela Rus",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 4.18,
+      "unique_coauthors": 37,
+      "top_coauthors": [
+        [
+          "Wee Sun Lee",
+          10
+        ],
+        [
+          "Yuanfu Luo",
+          8
+        ],
+        [
+          "Panpan Cai",
+          7
+        ],
+        [
+          "Mohit Shridhar",
+          3
+        ],
+        [
+          "Harold Soh",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 3.6,
+      "unique_coauthors": 24,
+      "top_coauthors": [
+        [
+          "Panpan Cai",
+          2
+        ],
+        [
+          "Wee Sun Lee",
+          2
+        ],
+        [
+          "Bo Ai",
+          1
+        ],
+        [
+          "Wei Gao",
+          1
+        ],
+        [
+          "Vinay",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.282,
+  "top_repeat_coauthors": [
+    {
+      "name": "Wee Sun Lee",
+      "count": 26,
+      "first_year": 2008,
+      "last_year": 2023
+    },
+    {
+      "name": "Panpan Cai",
+      "count": 9,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Yuanfu Luo",
+      "count": 9,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Jean-Claude Latombe",
+      "count": 6,
+      "first_year": 1997,
+      "last_year": 2012
+    },
+    {
+      "name": "Haoyu Bai",
+      "count": 6,
+      "first_year": 2011,
+      "last_year": 2019
+    },
+    {
+      "name": "Hanna Kurniawati",
+      "count": 5,
+      "first_year": 2004,
+      "last_year": 2011
+    },
+    {
+      "name": "Daniela Rus",
+      "count": 4,
+      "first_year": 2012,
+      "last_year": 2021
+    },
+    {
+      "name": "Zheng Sun",
+      "count": 3,
+      "first_year": 2003,
+      "last_year": 2005
+    },
+    {
+      "name": "Tirthankar Bandyopadhyay",
+      "count": 3,
+      "first_year": 2006,
+      "last_year": 2015
+    },
+    {
+      "name": "Emilio Frazzoli",
+      "count": 3,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Min Chen",
+      "count": 3,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Mohit Shridhar",
+      "count": 3,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Xiao Ma",
+      "count": 3,
+      "first_year": 2019,
+      "last_year": 2022
+    },
+    {
+      "name": "Yiyuan Lee",
+      "count": 3,
+      "first_year": 2020,
+      "last_year": 2022
+    },
+    {
+      "name": "Robert Kindel",
+      "count": 2,
+      "first_year": 2000,
+      "last_year": 2002
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Jean-Claude Latombe",
+      "advisor_active_from": 1989,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 0,
+      "total_copubs": 6
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Panpan Cai",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Yuanfu Luo",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Yiyuan Lee",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Mohit Shridhar",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Hanna Kurniawati",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Jue Kun Li",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Xiao Ma",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Haoyu Bai",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Sylvie C. W. Ong",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Zheng Sun",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Péter Karkus",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1997,
+      2006
+    ],
+    "early_mean_n_authors": 3.64,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.92
+  },
+  "citation_half_life_years": 18,
+  "bursts": {
+    "productivity": [
+      2019
+    ],
+    "impact": [
+      2002,
+      2008
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2008,
+      "venue": "RSS",
+      "title": "SARSOP: Efficient Point-Based POMDP Planning by Approximating Optimally Reachable Belief Spaces",
+      "cites": 782,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Partially observable Markov decision process",
+        "Computer science",
+        "Robotics",
+        "Motion planning",
+        "Set (abstract data type)"
+      ],
+      "doi": "10.15607/rss.2008.iv.009",
+      "coauthors": [
+        "Hanna Kurniawati",
+        "Wee Sun Lee"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IJRR",
+      "title": "Randomized Kinodynamic Motion Planning with Moving Obstacles",
+      "cites": 767,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Trajectory",
+        "Robot",
+        "Motion planning",
+        "Probabilistic roadmap",
+        "Kinematics"
+      ],
+      "doi": "10.1177/027836402320556421",
+      "coauthors": [
+        "Robert Kindel",
+        "Jean-Claude Latombe",
+        "Stephen M. Rock"
+      ]
+    },
+    {
+      "year": 1997,
+      "venue": "ICRA",
+      "title": "Path planning in expansive configuration spaces",
+      "cites": 546,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Maintainability",
+        "Configuration space",
+        "Expansive",
+        "Computer science",
+        "Motion planning"
+      ],
+      "doi": "10.1109/robot.1997.619371",
+      "coauthors": [
+        "Jean-Claude Latombe",
+        "Rajeev Motwani"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "ICRA",
+      "title": "The bridge test for sampling narrow passages with probabilistic roadmap planners",
+      "cites": 357,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Probabilistic roadmap",
+        "Workspace",
+        "Robot",
+        "Computer science",
+        "Sampling (signal processing)"
+      ],
+      "doi": "10.1109/robot.2003.1242285",
+      "coauthors": [
+        "Tingting Jiang",
+        "John H. Reif",
+        "Zheng Sun"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Intention-aware online POMDP planning for autonomous driving in a crowd",
+      "cites": 328,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Partially observable Markov decision process",
+        "Computer science",
+        "Planner",
+        "Motion planning",
+        "Markov decision process"
+      ],
+      "doi": "10.1109/icra.2015.7139219",
+      "coauthors": [
+        "Haoyu Bai",
+        "Shaojun Cai",
+        "Nan Ye",
+        "Wee Sun Lee"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "On the Probabilistic Foundations of Probabilistic Roadmap Planning",
+      "cites": 256,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Probabilistic roadmap",
+        "Probabilistic logic",
+        "Workspace",
+        "Planner",
+        "Measure (data warehouse)"
+      ],
+      "doi": "10.1177/0278364906067174",
+      "coauthors": [
+        "Jean-Claude Latombe",
+        "Hanna Kurniawati"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IJRR",
+      "title": "Planning under Uncertainty for Robotic Tasks with Mixed Observability",
+      "cites": 238,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Partially observable Markov decision process",
+        "Observability",
+        "Observable",
+        "Representation (politics)",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364910369861",
+      "coauthors": [
+        "Sylvie C. W. Ong",
+        "Shao Wei Png",
+        "Wee Sun Lee"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "PORCA: Modeling and Planning for Autonomous Driving Among Many Pedestrians",
+      "cites": 207,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Pedestrian",
+        "Computer science",
+        "Collision avoidance",
+        "Key (lock)",
+        "Process (computing)"
+      ],
+      "doi": "10.1109/lra.2018.2852793",
+      "coauthors": [
+        "Yuanfu Luo",
+        "Panpan Cai",
+        "Aniket Bera",
+        "Wee Sun Lee",
+        "Dinesh Manocha"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IJRR",
+      "title": "Human-robot mutual adaptation in collaborative tasks: Models and experiments",
+      "cites": 189,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Computer science",
+        "Probabilistic logic",
+        "Human–robot interaction",
+        "Adaptation (eye)"
+      ],
+      "doi": "10.1177/0278364917690593",
+      "coauthors": [
+        "Stefanos Nikolaidis",
+        "Siddhartha S. Srinivasa"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "T-RO",
+      "title": "Narrow passage sampling for probabilistic roadmap planning",
+      "cites": 173,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Probabilistic roadmap",
+        "Sampling (signal processing)",
+        "Motion planning",
+        "Configuration space",
+        "Probabilistic logic"
+      ],
+      "doi": "10.1109/tro.2005.853485",
+      "coauthors": [
+        "Zheng Sun",
+        "Tingting Jiang",
+        "Hanna Kurniawati",
+        "John H. Reif"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "David Hsu: 29년에 걸쳐 64편, 총 5,951회 인용, h=34, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "1997년 \"Path planning in expansive configuration spaces\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Path planning in expansive configuration spaces\" (1997, 546회).",
+        "초기 토픽: Motion planning, Computer science, Probabilistic roadmap. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.28 → 점진적 이동형.",
+        "저자수 평균: 초기 3.6명 → 후기 3.9명 (팀 유지).",
+        "최다 인용 논문 \"SARSOP: Efficient Point-Based POMDP Planning by Approximating Optimally Reachable Belief Spaces\" (2008, 782회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Jean-Claude Latombe. 제자 후보 추정 11명 — 상위: Panpan Cai(2018~, 우리 마지막저자 5편), Yuanfu Luo(2018~, 우리 마지막저자 3편), Yiyuan Lee(2020~, 우리 마지막저자 3편)."
+      ],
+      "lessons": [
+        "초기 0년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "11명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Jean-Claude Latombe — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "David Hsu: over 29 years, 64 papers, 5,951 total cites, h=34, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1997 with \"Path planning in expansive configuration spaces\". First 500+ cite paper came 0 years in: \"Path planning in expansive configuration spaces\" (1997, 546 cites).",
+        "Early topics: Motion planning, Computer science, Probabilistic roadmap. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.28 → gradual shift.",
+        "Authors per paper: early 3.6 → late 3.9 (stable team).",
+        "Peak paper \"SARSOP: Efficient Point-Based POMDP Planning by Approximating Optimally Reachable Belief Spaces\" (2008, 782 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Jean-Claude Latombe. 11 likely students — top: Panpan Cai(2018~, we last-author on 5), Yuanfu Luo(2018~, we last-author on 3), Yiyuan Lee(2020~, we last-author on 3)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 0 years. First-5-year topic choice is decisive.",
+        "11 likely students — mentoring is the real impact.",
+        "Likely advisor: Jean-Claude Latombe — started within their PhD network."
+      ]
+    }
+  }
+}

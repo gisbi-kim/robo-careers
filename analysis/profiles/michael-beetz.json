@@ -1,0 +1,1177 @@
+{
+  "name": "Michael Beetz",
+  "slug": "michael-beetz",
+  "career_stats": {
+    "first_year": 1999,
+    "last_year": 2025,
+    "span": 27,
+    "total_papers": 121,
+    "total_cites": 10322,
+    "h_index": 37,
+    "i10_index": 81,
+    "seminal_count": 3,
+    "max_cites_single_paper": 3782
+  },
+  "role_distribution": {
+    "last": 92,
+    "first": 7,
+    "middle": 22
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1999,
+      "title": "Controlling image processing: providing extensible, run-time configurable functionality on autonomous robots"
+    },
+    "first_100cite": {
+      "year": 2000,
+      "title": "Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot Minerva",
+      "cites": 521,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2000,
+      "title": "Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot Minerva",
+      "cites": 521,
+      "gap_from_first": 1
+    },
+    "first_1000cite": {
+      "year": 2008,
+      "title": "Aligning point cloud views using persistent feature histograms",
+      "cites": 1032,
+      "gap_from_first": 9
+    },
+    "peak_paper": {
+      "year": 2009,
+      "title": "Fast Point Feature Histograms (FPFH) for 3D registration",
+      "cites": 3782
+    }
+  },
+  "year_series": {
+    "1999": {
+      "n": 2,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "2000": {
+      "n": 1,
+      "cites": 521,
+      "max_cites": 521
+    },
+    "2001": {
+      "n": 2,
+      "cites": 35,
+      "max_cites": 19
+    },
+    "2002": {
+      "n": 2,
+      "cites": 34,
+      "max_cites": 25
+    },
+    "2003": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2004": {
+      "n": 1,
+      "cites": 9,
+      "max_cites": 9
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 1,
+      "cites": 30,
+      "max_cites": 30
+    },
+    "2007": {
+      "n": 2,
+      "cites": 85,
+      "max_cites": 81
+    },
+    "2008": {
+      "n": 3,
+      "cites": 1108,
+      "max_cites": 1032
+    },
+    "2009": {
+      "n": 12,
+      "cites": 4938,
+      "max_cites": 3782
+    },
+    "2010": {
+      "n": 9,
+      "cites": 714,
+      "max_cites": 207
+    },
+    "2011": {
+      "n": 7,
+      "cites": 440,
+      "max_cites": 115
+    },
+    "2012": {
+      "n": 11,
+      "cites": 810,
+      "max_cites": 336
+    },
+    "2013": {
+      "n": 8,
+      "cites": 534,
+      "max_cites": 372
+    },
+    "2014": {
+      "n": 5,
+      "cites": 93,
+      "max_cites": 32
+    },
+    "2015": {
+      "n": 8,
+      "cites": 310,
+      "max_cites": 86
+    },
+    "2016": {
+      "n": 4,
+      "cites": 67,
+      "max_cites": 23
+    },
+    "2017": {
+      "n": 4,
+      "cites": 51,
+      "max_cites": 18
+    },
+    "2018": {
+      "n": 10,
+      "cites": 310,
+      "max_cites": 197
+    },
+    "2019": {
+      "n": 9,
+      "cites": 120,
+      "max_cites": 28
+    },
+    "2020": {
+      "n": 4,
+      "cites": 61,
+      "max_cites": 27
+    },
+    "2021": {
+      "n": 4,
+      "cites": 4,
+      "max_cites": 2
+    },
+    "2022": {
+      "n": 4,
+      "cites": 25,
+      "max_cites": 11
+    },
+    "2023": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2024": {
+      "n": 4,
+      "cites": 16,
+      "max_cites": 8
+    },
+    "2025": {
+      "n": 3,
+      "cites": 1,
+      "max_cites": 1
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.175
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.075
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.075
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.114
+        },
+        {
+          "c": "Robot",
+          "w": 0.086
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.057
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 47,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.199
+        },
+        {
+          "c": "Robot",
+          "w": 0.108
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.078
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.056
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 31,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.203
+        },
+        {
+          "c": "Robot",
+          "w": 0.144
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.105
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.059
+        },
+        {
+          "c": "Robotics",
+          "w": 0.039
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.19
+        },
+        {
+          "c": "Robot",
+          "w": 0.105
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.057
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.048
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.048
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.206
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.118
+        },
+        {
+          "c": "Robot",
+          "w": 0.118
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.118
+        },
+        {
+          "c": "Perception",
+          "w": 0.059
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "IROS": 6,
+        "ICRA": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "IROS": 4,
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "IROS": 25,
+        "ICRA": 20,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "IROS": 15,
+        "ICRA": 12,
+        "RA-L": 3,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 7,
+        "RA-L": 5,
+        "IJRR": 1,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 4.5,
+      "unique_coauthors": 19,
+      "top_coauthors": [
+        [
+          "Thorsten Schmitt",
+          5
+        ],
+        [
+          "Sebastian Buck",
+          4
+        ],
+        [
+          "Armin B. Cremers",
+          2
+        ],
+        [
+          "Robert Hanek",
+          2
+        ],
+        [
+          "Tom Arbuckle",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 3.86,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Radu Bogdan Rusu",
+          3
+        ],
+        [
+          "Nico Blodow",
+          3
+        ],
+        [
+          "Freek Stulp",
+          2
+        ],
+        [
+          "Zoltan Csaba Marton",
+          2
+        ],
+        [
+          "Derik Schröter",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 3.7,
+      "unique_coauthors": 61,
+      "top_coauthors": [
+        [
+          "Moritz Tenorth",
+          15
+        ],
+        [
+          "Radu Bogdan Rusu",
+          9
+        ],
+        [
+          "Nico Blodow",
+          8
+        ],
+        [
+          "Lorenz Mösenlechner",
+          7
+        ],
+        [
+          "Dejan Pangercic",
+          7
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 4.81,
+      "unique_coauthors": 61,
+      "top_coauthors": [
+        [
+          "Ferenc Balint-Benczedi",
+          8
+        ],
+        [
+          "Andrei Haidu",
+          7
+        ],
+        [
+          "Asil Kaan Bozcuoglu",
+          7
+        ],
+        [
+          "Daniel Nyga",
+          6
+        ],
+        [
+          "Daniel Beßler",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 4.71,
+      "unique_coauthors": 55,
+      "top_coauthors": [
+        [
+          "Gayane Kazhoyan",
+          6
+        ],
+        [
+          "Georg Bartels",
+          4
+        ],
+        [
+          "Andrei Haidu",
+          4
+        ],
+        [
+          "Patrick Mania",
+          3
+        ],
+        [
+          "Sebastian Koralewski",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 5.86,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Patrick Mania",
+          3
+        ],
+        [
+          "Simon Stelter",
+          2
+        ],
+        [
+          "Franklin Kenghagho Kenfack",
+          2
+        ],
+        [
+          "Michael Neumann",
+          2
+        ],
+        [
+          "Benjamin Alt",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.128,
+  "top_repeat_coauthors": [
+    {
+      "name": "Moritz Tenorth",
+      "count": 17,
+      "first_year": 2009,
+      "last_year": 2016
+    },
+    {
+      "name": "Radu Bogdan Rusu",
+      "count": 12,
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "name": "Nico Blodow",
+      "count": 12,
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "name": "Andrei Haidu",
+      "count": 12,
+      "first_year": 2013,
+      "last_year": 2021
+    },
+    {
+      "name": "Ferenc Balint-Benczedi",
+      "count": 11,
+      "first_year": 2013,
+      "last_year": 2020
+    },
+    {
+      "name": "Gayane Kazhoyan",
+      "count": 11,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Daniel Nyga",
+      "count": 9,
+      "first_year": 2010,
+      "last_year": 2017
+    },
+    {
+      "name": "Georg Bartels",
+      "count": 9,
+      "first_year": 2015,
+      "last_year": 2022
+    },
+    {
+      "name": "Asil Kaan Bozcuoglu",
+      "count": 9,
+      "first_year": 2016,
+      "last_year": 2021
+    },
+    {
+      "name": "Simon Stelter",
+      "count": 8,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Alexis Maldonado",
+      "count": 7,
+      "first_year": 2007,
+      "last_year": 2020
+    },
+    {
+      "name": "Lorenz Mösenlechner",
+      "count": 7,
+      "first_year": 2009,
+      "last_year": 2013
+    },
+    {
+      "name": "Dejan Pangercic",
+      "count": 7,
+      "first_year": 2010,
+      "last_year": 2013
+    },
+    {
+      "name": "Daniel Beßler",
+      "count": 7,
+      "first_year": 2015,
+      "last_year": 2024
+    },
+    {
+      "name": "Patrick Mania",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Moritz Tenorth",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 15,
+      "total_copubs": 17,
+      "student_first_author_count": 9,
+      "we_last_author_count": 14,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Radu Bogdan Rusu",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 8,
+      "we_last_author_count": 10,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Nico Blodow",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 12,
+      "student_first_author_count": 1,
+      "we_last_author_count": 10,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Gayane Kazhoyan",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ferenc Balint-Benczedi",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Andrei Haidu",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 12,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Daniel Nyga",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Lorenz Mösenlechner",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Dejan Pangercic",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Zoltan Csaba Marton",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Ulrich Klank",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Franklin Kenghagho Kenfack",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Asil Kaan Bozcuoglu",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Simon Stelter",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Alexis Maldonado",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Zoltan-Csaba Marton",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Dominik Jain",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Sebastian Koralewski",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Lars Kunze",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Benjamin Alt",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Freek Stulp",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Patrick Mania",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Martin J. Schuster",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Thomas Rühr",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Jan Oliver Winkler",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Zhou Fang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1999,
+      2008
+    ],
+    "early_mean_n_authors": 4.2,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.07
+  },
+  "citation_half_life_years": 17.0,
+  "bursts": {
+    "productivity": [
+      2009
+    ],
+    "impact": [
+      2009
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2009,
+      "venue": "ICRA",
+      "title": "Fast Point Feature Histograms (FPFH) for 3D registration",
+      "cites": 3782,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Point cloud",
+        "Robustness (evolution)",
+        "Discriminative model",
+        "Histogram",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2009.5152473",
+      "coauthors": [
+        "Radu Bogdan Rusu",
+        "Nico Blodow"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IROS",
+      "title": "Aligning point cloud views using persistent feature histograms",
+      "cites": 1032,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Point cloud",
+        "Iterative closest point",
+        "Computer science",
+        "Histogram",
+        "Rigid transformation"
+      ],
+      "doi": "10.1109/iros.2008.4650967",
+      "coauthors": [
+        "Radu Bogdan Rusu",
+        "Nico Blodow",
+        "Zoltan Csaba Marton"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "IJRR",
+      "title": "Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot Minerva",
+      "cites": 521,
+      "n_authors": 12,
+      "role": "middle",
+      "concepts": [
+        "Probabilistic logic",
+        "Robot",
+        "Traverse",
+        "Computer science",
+        "Software"
+      ],
+      "doi": "10.1177/02783640022067922",
+      "coauthors": [
+        "Sebastian Thrun",
+        "Maren Bennewitz",
+        "Wolfram Burgard",
+        "Armin B. Cremers",
+        "Frank Dellaert",
+        "Dieter Fox",
+        "Dirk Hähnel",
+        "Charles R. Rosenberg",
+        "Nicholas Roy",
+        "Jamieson Schulte",
+        "Dirk Schulz"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IJRR",
+      "title": "KnowRob: A knowledge processing infrastructure for cognition-enabled robots",
+      "cites": 372,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "Human–computer interaction",
+        "Task (project management)",
+        "Bridge (graph theory)"
+      ],
+      "doi": "10.1177/0278364913481635",
+      "coauthors": [
+        "Moritz Tenorth"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "Real-time compression of point cloud streams",
+      "cites": 336,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Point cloud",
+        "Octree",
+        "Computer science",
+        "Lossy compression",
+        "Data compression"
+      ],
+      "doi": "10.1109/icra.2012.6224647",
+      "coauthors": [
+        "Julius Kammerl",
+        "Nico Blodow",
+        "Radu Bogdan Rusu",
+        "Suat Gedikli",
+        "Eckehard G. Steinbach"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IROS",
+      "title": "KNOWROB - knowledge processing for autonomous personal robots",
+      "cites": 293,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "Knowledge representation and reasoning",
+        "Artificial intelligence",
+        "Inference"
+      ],
+      "doi": "10.1109/iros.2009.5354602",
+      "coauthors": [
+        "Moritz Tenorth"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "ICRA",
+      "title": "On fast surface reconstruction methods for large and noisy point clouds",
+      "cites": 217,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Point cloud",
+        "Surface reconstruction",
+        "Computer science",
+        "Triangle mesh",
+        "Surface (topology)"
+      ],
+      "doi": "10.1109/robot.2009.5152628",
+      "coauthors": [
+        "Zoltan Csaba Marton",
+        "Radu Bogdan Rusu"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IROS",
+      "title": "CRAM - A Cognitive Robot Abstract Machine for everyday manipulation in human environments",
+      "cites": 207,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "Toolbox",
+        "Cognitive architecture",
+        "Software deployment"
+      ],
+      "doi": "10.1109/iros.2010.5650146",
+      "coauthors": [
+        "Lorenz Mösenlechner",
+        "Moritz Tenorth"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Know Rob 2.0 - A 2nd Generation Knowledge Processing Framework for Cognition-Enabled Robotic Agents",
+      "cites": 197,
+      "n_authors": 6,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Knowledge representation and reasoning",
+        "Knowledge base",
+        "Robot"
+      ],
+      "doi": "10.1109/icra.2018.8460964",
+      "coauthors": [
+        "Daniel Beßler",
+        "Andrei Haidu",
+        "Mihai Pomarlan",
+        "Asil Kaan Bozcuoglu",
+        "Georg Bartels"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IROS",
+      "title": "Close-range scene segmentation and reconstruction of 3D point cloud maps for mobile manipulation in domestic environments",
+      "cites": 190,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Point cloud",
+        "Computer vision",
+        "Polygon mesh",
+        "Computer science",
+        "Segmentation"
+      ],
+      "doi": "10.1109/iros.2009.5354683",
+      "coauthors": [
+        "Radu Bogdan Rusu",
+        "Nico Blodow",
+        "Zoltan Csaba Marton"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak",
+      "headline": "Michael Beetz: 27년에 걸쳐 121편, 총 10,322회 인용, h=37, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "1999년 \"Controlling image processing: providing extensible, run-time configurable functionality on autonomous robots\"으로 출발. 첫 500+ 인용 논문까지 1년 걸림: \"Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot Minerva\" (2000, 521회). 1000+ 인용 논문: \"Aligning point cloud views using persistent feature histograms\" (2008, 1,032회).",
+        "초기 토픽: Computer science, Robot, Artificial intelligence. 최근 토픽: Computer science, Human–computer interaction, Robot. 피벗 점수 0.13 → 토픽 지속형.",
+        "저자수 평균: 초기 4.2명 → 후기 5.1명 (팀 확장).",
+        "최다 인용 논문 \"Fast Point Feature Histograms (FPFH) for 3D registration\" (2009, 3,782회) — 커리어 중기에 위치.",
+        "제자 후보 추정 26명 — 상위: Moritz Tenorth(2009~, 우리 마지막저자 14편), Radu Bogdan Rusu(2007~, 우리 마지막저자 10편), Nico Blodow(2007~, 우리 마지막저자 10편)."
+      ],
+      "lessons": [
+        "초기 1년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "26명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak",
+      "headline": "Michael Beetz: over 27 years, 121 papers, 10,322 total cites, h=37, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1999 with \"Controlling image processing: providing extensible, run-time configurable functionality on autonomous robots\". First 500+ cite paper came 1 years in: \"Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot Minerva\" (2000, 521 cites). 1000+ cite paper: \"Aligning point cloud views using persistent feature histograms\" (2008, 1,032 cites).",
+        "Early topics: Computer science, Robot, Artificial intelligence. Recent topics: Computer science, Human–computer interaction, Robot. Pivot score 0.13 → topic-stable.",
+        "Authors per paper: early 4.2 → late 5.1 (team growth).",
+        "Peak paper \"Fast Point Feature Histograms (FPFH) for 3D registration\" (2009, 3,782 cites) — fell in mid career.",
+        "26 likely students — top: Moritz Tenorth(2009~, we last-author on 14), Radu Bogdan Rusu(2007~, we last-author on 10), Nico Blodow(2007~, we last-author on 10)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 1 years. First-5-year topic choice is decisive.",
+        "26 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

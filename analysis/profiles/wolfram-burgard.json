@@ -1,0 +1,1671 @@
+{
+  "name": "Wolfram Burgard",
+  "slug": "wolfram-burgard",
+  "career_stats": {
+    "first_year": 1996,
+    "last_year": 2025,
+    "span": 30,
+    "total_papers": 343,
+    "total_cites": 37384,
+    "h_index": 84,
+    "i10_index": 260,
+    "seminal_count": 15,
+    "max_cites_single_paper": 3886
+  },
+  "role_distribution": {
+    "middle": 85,
+    "first": 5,
+    "last": 253
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1996,
+      "title": "Controlling synchro-drive robots with the dynamic window approach to collision avoidance"
+    },
+    "first_100cite": {
+      "year": 1998,
+      "title": "A Hybrid Collision Avoidance Method for Mobile Robots",
+      "cites": 103,
+      "gap_from_first": 2
+    },
+    "first_500cite": {
+      "year": 1999,
+      "title": "MINERVA: A Second-Generation Museum Tour-Guide Robot",
+      "cites": 695,
+      "gap_from_first": 3
+    },
+    "first_1000cite": {
+      "year": 1999,
+      "title": "Monte Carlo Localization for Mobile Robots",
+      "cites": 1607,
+      "gap_from_first": 3
+    },
+    "peak_paper": {
+      "year": 2012,
+      "title": "A benchmark for the evaluation of RGB-D SLAM systems",
+      "cites": 3886
+    }
+  },
+  "year_series": {
+    "1996": {
+      "n": 1,
+      "cites": 57,
+      "max_cites": 57
+    },
+    "1997": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1998": {
+      "n": 4,
+      "cites": 579,
+      "max_cites": 264
+    },
+    "1999": {
+      "n": 5,
+      "cites": 2545,
+      "max_cites": 1607
+    },
+    "2000": {
+      "n": 3,
+      "cites": 1968,
+      "max_cites": 757
+    },
+    "2001": {
+      "n": 3,
+      "cites": 576,
+      "max_cites": 373
+    },
+    "2002": {
+      "n": 5,
+      "cites": 566,
+      "max_cites": 169
+    },
+    "2003": {
+      "n": 6,
+      "cites": 1620,
+      "max_cites": 574
+    },
+    "2004": {
+      "n": 4,
+      "cites": 983,
+      "max_cites": 686
+    },
+    "2005": {
+      "n": 10,
+      "cites": 3497,
+      "max_cites": 1143
+    },
+    "2006": {
+      "n": 8,
+      "cites": 693,
+      "max_cites": 346
+    },
+    "2007": {
+      "n": 14,
+      "cites": 3613,
+      "max_cites": 2397
+    },
+    "2008": {
+      "n": 16,
+      "cites": 843,
+      "max_cites": 249
+    },
+    "2009": {
+      "n": 23,
+      "cites": 1571,
+      "max_cites": 243
+    },
+    "2010": {
+      "n": 15,
+      "cites": 956,
+      "max_cites": 394
+    },
+    "2011": {
+      "n": 13,
+      "cites": 2741,
+      "max_cites": 1959
+    },
+    "2012": {
+      "n": 12,
+      "cites": 5586,
+      "max_cites": 3886
+    },
+    "2013": {
+      "n": 13,
+      "cites": 768,
+      "max_cites": 283
+    },
+    "2014": {
+      "n": 17,
+      "cites": 1234,
+      "max_cites": 820
+    },
+    "2015": {
+      "n": 23,
+      "cites": 1346,
+      "max_cites": 468
+    },
+    "2016": {
+      "n": 20,
+      "cites": 1751,
+      "max_cites": 467
+    },
+    "2017": {
+      "n": 20,
+      "cites": 1474,
+      "max_cites": 322
+    },
+    "2018": {
+      "n": 25,
+      "cites": 844,
+      "max_cites": 200
+    },
+    "2019": {
+      "n": 14,
+      "cites": 296,
+      "max_cites": 105
+    },
+    "2020": {
+      "n": 17,
+      "cites": 191,
+      "max_cites": 66
+    },
+    "2021": {
+      "n": 3,
+      "cites": 16,
+      "max_cites": 10
+    },
+    "2022": {
+      "n": 13,
+      "cites": 255,
+      "max_cites": 65
+    },
+    "2023": {
+      "n": 12,
+      "cites": 501,
+      "max_cites": 293
+    },
+    "2024": {
+      "n": 13,
+      "cites": 295,
+      "max_cites": 111
+    },
+    "2025": {
+      "n": 11,
+      "cites": 19,
+      "max_cites": 8
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.185
+        },
+        {
+          "c": "Robot",
+          "w": 0.169
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.154
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.077
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.062
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.186
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.121
+        },
+        {
+          "c": "Robot",
+          "w": 0.114
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.114
+        },
+        {
+          "c": "Particle filter",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 76,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.188
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.099
+        },
+        {
+          "c": "Robot",
+          "w": 0.064
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.051
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 78,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.187
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.103
+        },
+        {
+          "c": "Robot",
+          "w": 0.077
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.046
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.041
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 96,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.191
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.117
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.042
+        },
+        {
+          "c": "Convolutional neural network",
+          "w": 0.025
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 52,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.149
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.055
+        },
+        {
+          "c": "Segmentation",
+          "w": 0.035
+        },
+        {
+          "c": "Lidar",
+          "w": 0.027
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 5,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 9,
+        "T-RO": 3,
+        "IJRR": 2,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "IROS": 31,
+        "ICRA": 31,
+        "RSS": 10,
+        "IJRR": 2,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 43,
+        "IROS": 27,
+        "T-RO": 4,
+        "RSS": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "IROS": 43,
+        "ICRA": 30,
+        "IJRR": 10,
+        "RA-L": 10,
+        "RSS": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "RA-L": 18,
+        "IROS": 14,
+        "ICRA": 13,
+        "RSS": 4,
+        "T-RO": 3
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 4.85,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Dieter Fox",
+          11
+        ],
+        [
+          "Sebastian Thrun",
+          9
+        ],
+        [
+          "Armin B. Cremers",
+          5
+        ],
+        [
+          "Nicholas Roy",
+          3
+        ],
+        [
+          "Frank Dellaert",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 3.64,
+      "unique_coauthors": 33,
+      "top_coauthors": [
+        [
+          "Sebastian Thrun",
+          10
+        ],
+        [
+          "Cyrill Stachniss",
+          8
+        ],
+        [
+          "Dirk Hähnel",
+          7
+        ],
+        [
+          "Maren Bennewitz",
+          6
+        ],
+        [
+          "Dieter Fox",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 3.99,
+      "unique_coauthors": 83,
+      "top_coauthors": [
+        [
+          "Cyrill Stachniss",
+          32
+        ],
+        [
+          "Giorgio Grisetti",
+          20
+        ],
+        [
+          "Christian Plagemann",
+          18
+        ],
+        [
+          "Patrick Pfaff",
+          8
+        ],
+        [
+          "Bastian Steder",
+          8
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 4.18,
+      "unique_coauthors": 95,
+      "top_coauthors": [
+        [
+          "Cyrill Stachniss",
+          18
+        ],
+        [
+          "Gian Diego Tipaldi",
+          18
+        ],
+        [
+          "Luciano Spinello",
+          15
+        ],
+        [
+          "Michael Ruhnke",
+          10
+        ],
+        [
+          "Christoph Sprunk",
+          9
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 4.01,
+      "unique_coauthors": 127,
+      "top_coauthors": [
+        [
+          "Tobias Schubert",
+          9
+        ],
+        [
+          "Abhinav Valada",
+          9
+        ],
+        [
+          "Thomas Brox",
+          9
+        ],
+        [
+          "Christian Dornhege",
+          9
+        ],
+        [
+          "Tim Caselitz",
+          8
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 10.17,
+      "unique_coauthors": 383,
+      "top_coauthors": [
+        [
+          "Abhinav Valada",
+          19
+        ],
+        [
+          "Niclas Vödisch",
+          9
+        ],
+        [
+          "Tim Welschehold",
+          8
+        ],
+        [
+          "Kürsat Petek",
+          7
+        ],
+        [
+          "Oier Mees",
+          6
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.064,
+  "top_repeat_coauthors": [
+    {
+      "name": "Cyrill Stachniss",
+      "count": 62,
+      "first_year": 2002,
+      "last_year": 2018
+    },
+    {
+      "name": "Giorgio Grisetti",
+      "count": 30,
+      "first_year": 2005,
+      "last_year": 2014
+    },
+    {
+      "name": "Abhinav Valada",
+      "count": 28,
+      "first_year": 2016,
+      "last_year": 2025
+    },
+    {
+      "name": "Gian Diego Tipaldi",
+      "count": 25,
+      "first_year": 2006,
+      "last_year": 2016
+    },
+    {
+      "name": "Sebastian Thrun",
+      "count": 20,
+      "first_year": 1996,
+      "last_year": 2009
+    },
+    {
+      "name": "Dieter Fox",
+      "count": 19,
+      "first_year": 1996,
+      "last_year": 2018
+    },
+    {
+      "name": "Christian Plagemann",
+      "count": 18,
+      "first_year": 2006,
+      "last_year": 2009
+    },
+    {
+      "name": "Bastian Steder",
+      "count": 18,
+      "first_year": 2007,
+      "last_year": 2016
+    },
+    {
+      "name": "Luciano Spinello",
+      "count": 17,
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "name": "Maren Bennewitz",
+      "count": 16,
+      "first_year": 1999,
+      "last_year": 2016
+    },
+    {
+      "name": "Rainer Kümmerle",
+      "count": 14,
+      "first_year": 2009,
+      "last_year": 2017
+    },
+    {
+      "name": "Michael Ruhnke",
+      "count": 14,
+      "first_year": 2009,
+      "last_year": 2016
+    },
+    {
+      "name": "Tim Welschehold",
+      "count": 14,
+      "first_year": 2016,
+      "last_year": 2024
+    },
+    {
+      "name": "Daniel Büscher",
+      "count": 13,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Christian Dornhege",
+      "count": 12,
+      "first_year": 2009,
+      "last_year": 2019
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Christian Plagemann",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 18,
+      "total_copubs": 18,
+      "student_first_author_count": 3,
+      "we_last_author_count": 17,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Cyrill Stachniss",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 17,
+      "total_copubs": 62,
+      "student_first_author_count": 7,
+      "we_last_author_count": 13,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Slawomir Grzonka",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 5,
+      "we_last_author_count": 10,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Christoph Sprunk",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 10,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Tobias Schubert",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 10,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Bastian Steder",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 18,
+      "student_first_author_count": 6,
+      "we_last_author_count": 9,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Jürgen Sturm",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 5,
+      "we_last_author_count": 9,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Tim Caselitz",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 9,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Giorgio Grisetti",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 30,
+      "student_first_author_count": 5,
+      "we_last_author_count": 8,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Patrick Pfaff",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 5,
+      "we_last_author_count": 8,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Lukas Luft",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 8,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Michael Ruhnke",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 14,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Rainer Kümmerle",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 14,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Alexander Schaefer",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Markus Kuderer",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Johan Vertens",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Oier Mees",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 12,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Florian Wirnshofer",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Abhinav Valada",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 28,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Maximilian Beinhofer",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Philipp S. Schmitt",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Tim Welschehold",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 14,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Kai M. Wurm",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Benjamin Suger",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Shengchao Yan",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Daniel Meyer-Delius",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Boris Lau",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Jürgen Hess",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Andreas Eitel",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Óscar Martínez Mozos",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Henrik Kretzschmar",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 9,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Iman Nematollahi",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kshitij Sirohi",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ayush Dewan",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Noha Radwan",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Jannik Zürn",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Rudolph Triebel",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Felix Endres",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Michael Krawez",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Axel Rottmann",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Jingwei Zhang",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Lukás Hermann",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Barbara Frank",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Tayyab Naseer",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Nichola Abdo",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Federico Boniardi",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Marina Kollmitz",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "David Pannen",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Kürsat Petek",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Chenguang Huang",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Wera Winterhalter",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Philipp Ruchti",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Nicolai Dorka",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Hauke Strasdat",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Freya Fleckenstein",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Pratik Agarwal",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Mladen Mazuran",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Niclas Vödisch",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jorg Rowekamper",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Gabriel L. Oliveira",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Dominik Joho",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Reihaneh Mirjalili",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Chau Do",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Andreas Kuhner",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Matthias Luber",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Lei Tai",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Jessica Borja-Diaz",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Camilo Gordillo",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Adrian Röfer",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Felix Burget",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Olga Vysotska",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Gian Diego Tipaldi",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 25,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Daniel Kuhner",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Markus Käppeler",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Débora N. P. Oliveira",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Eugenio Chisari",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jürgen Wolf",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2005
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1996,
+      2005
+    ],
+    "early_mean_n_authors": 4.02,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 6.18
+  },
+  "citation_half_life_years": 17.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2012
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2012,
+      "venue": "IROS",
+      "title": "A benchmark for the evaluation of RGB-D SLAM systems",
+      "cites": 3886,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence",
+        "Benchmark (surveying)",
+        "RGB color model"
+      ],
+      "doi": "10.1109/iros.2012.6385773",
+      "coauthors": [
+        "Jürgen Sturm",
+        "Nikolas Engelhard",
+        "Felix Endres",
+        "Daniel Cremers"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-RO",
+      "title": "Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters",
+      "cites": 2397,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Particle filter",
+        "Resampling",
+        "Monte Carlo localization",
+        "Grid",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2006.889486",
+      "coauthors": [
+        "Giorgio Grisetti",
+        "Cyrill Stachniss"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "G2o: A general framework for graph optimization",
+      "cites": 1959,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Graph",
+        "Artificial intelligence",
+        "Range (aeronautics)",
+        "Code (set theory)"
+      ],
+      "doi": "10.1109/icra.2011.5979949",
+      "coauthors": [
+        "Rainer Kümmerle",
+        "Giorgio Grisetti",
+        "Hauke Strasdat",
+        "Kurt Konolige"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "Monte Carlo Localization for Mobile Robots",
+      "cites": 1607,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Monte Carlo localization",
+        "Mobile robot",
+        "Particle filter",
+        "Computer science",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.1999.772544",
+      "coauthors": [
+        "Frank Dellaert",
+        "Dieter Fox",
+        "Sebastian Thrun"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "T-RO",
+      "title": "Coordinated multi-robot exploration",
+      "cites": 1143,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Computer science",
+        "Context (archaeology)",
+        "Key (lock)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2004.839232",
+      "coauthors": [
+        "Mark Moors",
+        "Cyrill Stachniss",
+        "Frank E. Schneider"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "3-D Mapping With an RGB-D Camera",
+      "cites": 820,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "RGB color model",
+        "Computer vision",
+        "Computer science",
+        "Benchmark (surveying)"
+      ],
+      "doi": "10.1109/tro.2013.2279412",
+      "coauthors": [
+        "Felix Endres",
+        "Jürgen Hess",
+        "Jürgen Sturm",
+        "Daniel Cremers"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Collaborative Multi-Robot Exploration",
+      "cites": 757,
+      "n_authors": 5,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Computer science",
+        "Probabilistic logic",
+        "Artificial intelligence",
+        "Point (geometry)"
+      ],
+      "doi": "10.1109/robot.2000.844100",
+      "coauthors": [
+        "Mark Moors",
+        "Dieter Fox",
+        "Reid G. Simmons",
+        "Sebastian Thrun"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling",
+      "cites": 732,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Particle filter",
+        "Resampling",
+        "Monte Carlo localization",
+        "Grid",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2005.1570477",
+      "coauthors": [
+        "Giorgio Grisetti",
+        "Cyrill Stachniss"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "An evaluation of the RGB-D SLAM system",
+      "cites": 724,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Robustness (evolution)",
+        "Orb (optics)",
+        "Computer science",
+        "Scale-invariant feature transform",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra.2012.6225199",
+      "coauthors": [
+        "Felix Endres",
+        "Jürgen Hess",
+        "Nikolas Engelhard",
+        "Jürgen Sturm",
+        "Daniel Cremers"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "MINERVA: A Second-Generation Museum Tour-Guide Robot",
+      "cites": 695,
+      "n_authors": 11,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Traverse",
+        "Computer science",
+        "Human–computer interaction",
+        "Software"
+      ],
+      "doi": "10.1109/robot.1999.770401",
+      "coauthors": [
+        "Sebastian Thrun",
+        "Maren Bennewitz",
+        "Armin B. Cremers",
+        "Frank Dellaert",
+        "Dieter Fox",
+        "Dirk Hähnel",
+        "Charles R. Rosenberg",
+        "Nicholas Roy",
+        "Jamieson Schulte",
+        "Dirk Schulz"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Wolfram Burgard: 30년에 걸쳐 343편, 총 37,384회 인용, h=84, 500+ 블록버스터 15편.",
+      "paragraphs": [
+        "1996년 \"Controlling synchro-drive robots with the dynamic window approach to collision avoidance\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회). 1000+ 인용 논문: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회).",
+        "초기 토픽: Computer science, Robot, Mobile robot. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.06 → 토픽 지속형.",
+        "저자수 평균: 초기 4.0명 → 후기 6.2명 (팀 확장).",
+        "최다 인용 논문 \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886회) — 커리어 중기에 위치.",
+        "제자 후보 추정 77명 — 상위: Christian Plagemann(2006~, 우리 마지막저자 17편), Cyrill Stachniss(2002~, 우리 마지막저자 13편), Slawomir Grzonka(2007~, 우리 마지막저자 10편)."
+      ],
+      "lessons": [
+        "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
+        "초기 3년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "77명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Wolfram Burgard: over 30 years, 343 papers, 37,384 total cites, h=84, 15 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1996 with \"Controlling synchro-drive robots with the dynamic window approach to collision avoidance\". First 500+ cite paper came 3 years in: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695 cites). 1000+ cite paper: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607 cites).",
+        "Early topics: Computer science, Robot, Mobile robot. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.06 → topic-stable.",
+        "Authors per paper: early 4.0 → late 6.2 (team growth).",
+        "Peak paper \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886 cites) — fell in mid career.",
+        "77 likely students — top: Christian Plagemann(2006~, we last-author on 17), Cyrill Stachniss(2002~, we last-author on 13), Slawomir Grzonka(2007~, we last-author on 10)."
+      ],
+      "lessons": [
+        "Consistency builds h-index — one or two blockbusters alone don't get you here.",
+        "First 500+ cite paper within 3 years. First-5-year topic choice is decisive.",
+        "Impact through deep specialization — one lane, pushed far.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "77 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

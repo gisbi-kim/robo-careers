@@ -1,0 +1,1128 @@
+{
+  "name": "Sanjiv Singh",
+  "slug": "sanjiv-singh",
+  "career_stats": {
+    "first_year": 1986,
+    "last_year": 2019,
+    "span": 34,
+    "total_papers": 69,
+    "total_cites": 7492,
+    "h_index": 36,
+    "i10_index": 61,
+    "seminal_count": 2,
+    "max_cites_single_paper": 3033
+  },
+  "role_distribution": {
+    "first": 8,
+    "last": 41,
+    "middle": 20
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1986,
+      "title": "Robot path planning using intersecting convex shapes"
+    },
+    "first_100cite": {
+      "year": 1998,
+      "title": "Framed-Quadtree Path Planning for Mobile Robots Operating in Sparse Environments",
+      "cites": 118,
+      "gap_from_first": 12
+    },
+    "first_500cite": {
+      "year": 2014,
+      "title": "LOAM: Lidar Odometry and Mapping in Real-time",
+      "cites": 3033,
+      "gap_from_first": 28
+    },
+    "first_1000cite": {
+      "year": 2014,
+      "title": "LOAM: Lidar Odometry and Mapping in Real-time",
+      "cites": 3033,
+      "gap_from_first": 28
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "LOAM: Lidar Odometry and Mapping in Real-time",
+      "cites": 3033
+    }
+  },
+  "year_series": {
+    "1986": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "1987": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1988": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1989": {
+      "n": 1,
+      "cites": 23,
+      "max_cites": 23
+    },
+    "1990": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1991": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1992": {
+      "n": 1,
+      "cites": 33,
+      "max_cites": 33
+    },
+    "1993": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1994": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "1995": {
+      "n": 1,
+      "cites": 63,
+      "max_cites": 63
+    },
+    "1996": {
+      "n": 1,
+      "cites": 25,
+      "max_cites": 25
+    },
+    "1997": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "1998": {
+      "n": 4,
+      "cites": 313,
+      "max_cites": 118
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 1,
+      "cites": 246,
+      "max_cites": 246
+    },
+    "2001": {
+      "n": 2,
+      "cites": 84,
+      "max_cites": 64
+    },
+    "2002": {
+      "n": 4,
+      "cites": 212,
+      "max_cites": 136
+    },
+    "2003": {
+      "n": 2,
+      "cites": 100,
+      "max_cites": 62
+    },
+    "2004": {
+      "n": 3,
+      "cites": 204,
+      "max_cites": 152
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 3,
+      "cites": 198,
+      "max_cites": 157
+    },
+    "2007": {
+      "n": 2,
+      "cites": 140,
+      "max_cites": 100
+    },
+    "2008": {
+      "n": 5,
+      "cites": 225,
+      "max_cites": 187
+    },
+    "2009": {
+      "n": 6,
+      "cites": 217,
+      "max_cites": 157
+    },
+    "2010": {
+      "n": 3,
+      "cites": 134,
+      "max_cites": 88
+    },
+    "2011": {
+      "n": 6,
+      "cites": 352,
+      "max_cites": 175
+    },
+    "2012": {
+      "n": 7,
+      "cites": 347,
+      "max_cites": 141
+    },
+    "2013": {
+      "n": 4,
+      "cites": 180,
+      "max_cites": 58
+    },
+    "2014": {
+      "n": 3,
+      "cites": 3178,
+      "max_cites": 3033
+    },
+    "2015": {
+      "n": 2,
+      "cites": 804,
+      "max_cites": 745
+    },
+    "2016": {
+      "n": 2,
+      "cites": 310,
+      "max_cites": 244
+    },
+    "2017": {
+      "n": 1,
+      "cites": 31,
+      "max_cites": 31
+    },
+    "2018": {
+      "n": 1,
+      "cites": 16,
+      "max_cites": 16
+    },
+    "2019": {
+      "n": 1,
+      "cites": 32,
+      "max_cites": 32
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Graph traversal",
+          "w": 0.1
+        },
+        {
+          "c": "Tree traversal",
+          "w": 0.1
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.1
+        },
+        {
+          "c": "Any-angle path planning",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Excavation",
+          "w": 0.133
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Robot",
+          "w": 0.133
+        },
+        {
+          "c": "Excavator",
+          "w": 0.133
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.143
+        },
+        {
+          "c": "Excavator",
+          "w": 0.114
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.057
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.057
+        },
+        {
+          "c": "Digging",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.148
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.111
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.111
+        },
+        {
+          "c": "Obstacle",
+          "w": 0.037
+        },
+        {
+          "c": "Homography",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.071
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.047
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.035
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.155
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.055
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.036
+        },
+        {
+          "c": "Odometry",
+          "w": 0.036
+        },
+        {
+          "c": "Visual odometry",
+          "w": 0.027
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2019,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Inertial measurement unit",
+          "w": 0.08
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.08
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.08
+        },
+        {
+          "c": "Global Positioning System",
+          "w": 0.04
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "mix": {
+        "ICRA": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "mix": {
+        "ICRA": 2,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 3
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "IROS": 7,
+        "ICRA": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 4,
+        "RSS": 3,
+        "IJRR": 3
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 8,
+        "IJRR": 2,
+        "T-RO": 2,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2019,
+      "mix": {
+        "IROS": 3,
+        "ICRA": 2
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "mean_n_authors": 2,
+      "unique_coauthors": 2,
+      "top_coauthors": [
+        [
+          "Meghanad D. Wagh",
+          1
+        ],
+        [
+          "Dong Hun Shin",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "mean_n_authors": 1.67,
+      "unique_coauthors": 2,
+      "top_coauthors": [
+        [
+          "Reid G. Simmons",
+          1
+        ],
+        [
+          "Herman Herman",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 3.43,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "Anthony Stentz",
+          3
+        ],
+        [
+          "Alex Yahja",
+          2
+        ],
+        [
+          "Howard Cannon",
+          2
+        ],
+        [
+          "Alonzo Kelly",
+          1
+        ],
+        [
+          "Mike Montemerlo",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 2.82,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Dennis Strelow",
+          4
+        ],
+        [
+          "Parag H. Batavia",
+          3
+        ],
+        [
+          "George Kantor",
+          2
+        ],
+        [
+          "Jeffrey Mishler",
+          1
+        ],
+        [
+          "Herman Herman",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 3.42,
+      "unique_coauthors": 22,
+      "top_coauthors": [
+        [
+          "Geoffrey A. Hollinger",
+          8
+        ],
+        [
+          "Joseph Djugash",
+          5
+        ],
+        [
+          "Sebastian A. Scherer",
+          4
+        ],
+        [
+          "Athanasios Kehagias",
+          4
+        ],
+        [
+          "Frederik W. Heger",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 3.86,
+      "unique_coauthors": 33,
+      "top_coauthors": [
+        [
+          "Sebastian A. Scherer",
+          7
+        ],
+        [
+          "Stephen Nuske",
+          5
+        ],
+        [
+          "Ji Zhang",
+          5
+        ],
+        [
+          "Marcel Bergerman",
+          4
+        ],
+        [
+          "Geoffrey A. Hollinger",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2019,
+      "mean_n_authors": 3.2,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Ji Zhang",
+          4
+        ],
+        [
+          "Michael Kaess",
+          2
+        ],
+        [
+          "Rushat Gupta Chadha",
+          2
+        ],
+        [
+          "Garrett Hemann",
+          1
+        ],
+        [
+          "Vivek Velivela",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.437,
+  "top_repeat_coauthors": [
+    {
+      "name": "Sebastian A. Scherer",
+      "count": 11,
+      "first_year": 2006,
+      "last_year": 2013
+    },
+    {
+      "name": "Geoffrey A. Hollinger",
+      "count": 11,
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "name": "Ji Zhang",
+      "count": 9,
+      "first_year": 2012,
+      "last_year": 2019
+    },
+    {
+      "name": "Joseph Djugash",
+      "count": 6,
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "name": "Reid G. Simmons",
+      "count": 5,
+      "first_year": 1992,
+      "last_year": 2009
+    },
+    {
+      "name": "Bradley Hamner",
+      "count": 5,
+      "first_year": 2003,
+      "last_year": 2012
+    },
+    {
+      "name": "Lyle Chamberlain",
+      "count": 5,
+      "first_year": 2007,
+      "last_year": 2013
+    },
+    {
+      "name": "Stephen Nuske",
+      "count": 5,
+      "first_year": 2011,
+      "last_year": 2013
+    },
+    {
+      "name": "Dennis Strelow",
+      "count": 4,
+      "first_year": 2001,
+      "last_year": 2004
+    },
+    {
+      "name": "George Kantor",
+      "count": 4,
+      "first_year": 2002,
+      "last_year": 2012
+    },
+    {
+      "name": "Athanasios Kehagias",
+      "count": 4,
+      "first_year": 2007,
+      "last_year": 2010
+    },
+    {
+      "name": "Marcel Bergerman",
+      "count": 4,
+      "first_year": 2012,
+      "last_year": 2013
+    },
+    {
+      "name": "Anthony Stentz",
+      "count": 3,
+      "first_year": 1998,
+      "last_year": 2000
+    },
+    {
+      "name": "Parag H. Batavia",
+      "count": 3,
+      "first_year": 2001,
+      "last_year": 2002
+    },
+    {
+      "name": "Frederik W. Heger",
+      "count": 3,
+      "first_year": 2006,
+      "last_year": 2010
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Geoffrey A. Hollinger",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 11,
+      "student_first_author_count": 8,
+      "we_last_author_count": 5,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Sebastian A. Scherer",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 11,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Stephen Nuske",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Supreeth Achar",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Dennis Strelow",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "George Kantor",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Frederik W. Heger",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Jörn Rehder",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Sanjiban Choudhury",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Andrew Chambers",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Joseph Djugash",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Bradley Hamner",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Alex Yahja",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2000
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1986,
+      1995
+    ],
+    "early_mean_n_authors": 1.8,
+    "late_window": [
+      2010,
+      2019
+    ],
+    "late_mean_n_authors": 3.6
+  },
+  "citation_half_life_years": 12.0,
+  "bursts": {
+    "productivity": [
+      2009,
+      2011,
+      2012
+    ],
+    "impact": [
+      2014
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "RSS",
+      "title": "LOAM: Lidar Odometry and Mapping in Real-time",
+      "cites": 3033,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Lidar",
+        "Odometry",
+        "Computer science",
+        "Remote sensing",
+        "Artificial intelligence"
+      ],
+      "doi": "10.15607/rss.2014.x.007",
+      "coauthors": [
+        "Ji Zhang"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Visual-lidar odometry and mapping: low-drift, robust, and fast",
+      "cites": 745,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Odometry",
+        "Visual odometry",
+        "Robustness (evolution)",
+        "Computer vision",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra.2015.7139486",
+      "coauthors": [
+        "Ji Zhang"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Recent Progress in Local and Global Traversability for Planetary Rovers",
+      "cites": 246,
+      "n_authors": 7,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Obstacle avoidance",
+        "Key (lock)",
+        "Motion planning",
+        "Obstacle"
+      ],
+      "doi": "10.1109/robot.2000.844761",
+      "coauthors": [
+        "Reid G. Simmons",
+        "Trey Smith",
+        "Anthony Stentz",
+        "Vandi Verma",
+        "Alex Yahja",
+        "Kurt Schwehr"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "ICRA",
+      "title": "On degeneracy of optimization-based state estimation problems",
+      "cites": 244,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Degeneracy (biology)",
+        "Robustness (evolution)",
+        "Degenerate energy levels",
+        "Computer science",
+        "Mathematical optimization"
+      ],
+      "doi": "10.1109/icra.2016.7487211",
+      "coauthors": [
+        "Ji Zhang",
+        "Michael Kaess"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IJRR",
+      "title": "Flying Fast and Low Among Obstacles: Methodology and Experiments",
+      "cites": 187,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Collision avoidance",
+        "Terrain",
+        "Obstacle avoidance",
+        "Computer science",
+        "Motion planning"
+      ],
+      "doi": "10.1177/0278364908090949",
+      "coauthors": [
+        "Sebastian A. Scherer",
+        "Lyle Chamberlain",
+        "Mike Elgersma"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "IROS",
+      "title": "Yield estimation in vineyards by visual grape detection",
+      "cites": 175,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Vineyard",
+        "Berry",
+        "Vine",
+        "Yield (engineering)",
+        "Crop"
+      ],
+      "doi": "10.1109/iros.2011.6095069",
+      "coauthors": [
+        "Stephen Nuske",
+        "Supreeth Achar",
+        "Terry Bates",
+        "Srinivasa G. Narasimhan"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Range-only SLAM for Robots Operating Cooperatively with Sensor Networks",
+      "cites": 157,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Node (physics)",
+        "Mobile robot",
+        "Simultaneous localization and mapping",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.2006.1642011",
+      "coauthors": [
+        "Joseph Djugash",
+        "George Kantor",
+        "Wei Zhang"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IJRR",
+      "title": "Efficient Multi-robot Search for a Moving Target",
+      "cites": 157,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Scalability",
+        "Motion planning",
+        "Submodular set function",
+        "Mathematical optimization"
+      ],
+      "doi": "10.1177/0278364908099853",
+      "coauthors": [
+        "Geoffrey A. Hollinger",
+        "Joseph Djugash",
+        "Athanasios Kehagias"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "IJRR",
+      "title": "Motion Estimation from Image and Inertial Measurements",
+      "cites": 152,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Accelerometer",
+        "Inertial measurement unit",
+        "Motion estimation"
+      ],
+      "doi": "10.1177/0278364904045593",
+      "coauthors": [
+        "Dennis Strelow"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IROS",
+      "title": "Real-time depth enhanced monocular odometry",
+      "cites": 143,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Visual odometry",
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Monocular"
+      ],
+      "doi": "10.1109/iros.2014.6943269",
+      "coauthors": [
+        "Ji Zhang",
+        "Michael Kaess"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer-2",
+      "headline": "Sanjiv Singh: 34년에 걸쳐 69편, 총 7,492회 인용, h=36, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1986년 \"Robot path planning using intersecting convex shapes\"으로 출발. 첫 500+ 인용 논문까지 28년 걸림: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회). 1000+ 인용 논문: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회).",
+        "초기 토픽: Computer science, Graph traversal, Tree traversal. 최근 토픽: Computer science, Inertial measurement unit, Robustness (evolution). 피벗 점수 0.44 → 점진적 이동형.",
+        "저자수 평균: 초기 1.8명 → 후기 3.6명 (팀 확장).",
+        "최다 인용 논문 \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회) — 커리어 후기에 위치.",
+        "제자 후보 추정 13명 — 상위: Geoffrey A. Hollinger(2005~, 우리 마지막저자 5편), Sebastian A. Scherer(2006~, 우리 마지막저자 5편), Stephen Nuske(2006~, 우리 마지막저자 3편)."
+      ],
+      "lessons": [
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "13명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer-2",
+      "headline": "Sanjiv Singh: over 34 years, 69 papers, 7,492 total cites, h=36, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1986 with \"Robot path planning using intersecting convex shapes\". First 500+ cite paper came 28 years in: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites). 1000+ cite paper: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites).",
+        "Early topics: Computer science, Graph traversal, Tree traversal. Recent topics: Computer science, Inertial measurement unit, Robustness (evolution). Pivot score 0.44 → gradual shift.",
+        "Authors per paper: early 1.8 → late 3.6 (team growth).",
+        "Peak paper \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites) — fell in late career.",
+        "13 likely students — top: Geoffrey A. Hollinger(2005~, we last-author on 5), Sebastian A. Scherer(2006~, we last-author on 5), Stephen Nuske(2006~, we last-author on 3)."
+      ],
+      "lessons": [
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "13 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

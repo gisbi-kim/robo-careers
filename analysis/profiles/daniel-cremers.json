@@ -1,0 +1,761 @@
+{
+  "name": "Daniel Cremers",
+  "slug": "daniel-cremers",
+  "career_stats": {
+    "first_year": 2012,
+    "last_year": 2025,
+    "span": 14,
+    "total_papers": 55,
+    "total_cites": 11717,
+    "h_index": 31,
+    "i10_index": 36,
+    "seminal_count": 6,
+    "max_cites_single_paper": 3886
+  },
+  "role_distribution": {
+    "last": 42,
+    "middle": 13
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2012,
+      "title": "A benchmark for the evaluation of RGB-D SLAM systems"
+    },
+    "first_100cite": {
+      "year": 2012,
+      "title": "A benchmark for the evaluation of RGB-D SLAM systems",
+      "cites": 3886,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2012,
+      "title": "A benchmark for the evaluation of RGB-D SLAM systems",
+      "cites": 3886,
+      "gap_from_first": 0
+    },
+    "first_1000cite": {
+      "year": 2012,
+      "title": "A benchmark for the evaluation of RGB-D SLAM systems",
+      "cites": 3886,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2012,
+      "title": "A benchmark for the evaluation of RGB-D SLAM systems",
+      "cites": 3886
+    }
+  },
+  "year_series": {
+    "2012": {
+      "n": 5,
+      "cites": 5129,
+      "max_cites": 3886
+    },
+    "2013": {
+      "n": 4,
+      "cites": 1764,
+      "max_cites": 908
+    },
+    "2014": {
+      "n": 3,
+      "cites": 1117,
+      "max_cites": 820
+    },
+    "2015": {
+      "n": 5,
+      "cites": 905,
+      "max_cites": 538
+    },
+    "2016": {
+      "n": 3,
+      "cites": 394,
+      "max_cites": 221
+    },
+    "2017": {
+      "n": 4,
+      "cites": 496,
+      "max_cites": 187
+    },
+    "2018": {
+      "n": 8,
+      "cites": 1386,
+      "max_cites": 432
+    },
+    "2019": {
+      "n": 2,
+      "cites": 25,
+      "max_cites": 25
+    },
+    "2020": {
+      "n": 5,
+      "cites": 257,
+      "max_cites": 194
+    },
+    "2021": {
+      "n": 4,
+      "cites": 13,
+      "max_cites": 7
+    },
+    "2022": {
+      "n": 3,
+      "cites": 156,
+      "max_cites": 141
+    },
+    "2023": {
+      "n": 2,
+      "cites": 63,
+      "max_cites": 63
+    },
+    "2024": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    },
+    "2025": {
+      "n": 6,
+      "cites": 11,
+      "max_cites": 5
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.18
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.14
+        },
+        {
+          "c": "RGB color model",
+          "w": 0.08
+        },
+        {
+          "c": "Benchmark (surveying)",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 23,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.183
+        },
+        {
+          "c": "Computer science",
+          "w": 0.174
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.122
+        },
+        {
+          "c": "Visual odometry",
+          "w": 0.061
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.196
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.125
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.125
+        },
+        {
+          "c": "Odometry",
+          "w": 0.071
+        },
+        {
+          "c": "Monocular",
+          "w": 0.036
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 8,
+        "RSS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "IROS": 9,
+        "ICRA": 8,
+        "RA-L": 6
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "RA-L": 5,
+        "IROS": 3,
+        "ICRA": 3,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 3.8,
+      "unique_coauthors": 30,
+      "top_coauthors": [
+        [
+          "Jürgen Sturm",
+          11
+        ],
+        [
+          "Jakob J. Engel",
+          4
+        ],
+        [
+          "Christian Kerl",
+          4
+        ],
+        [
+          "Felix Endres",
+          3
+        ],
+        [
+          "Wolfram Burgard",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 4.39,
+      "unique_coauthors": 42,
+      "top_coauthors": [
+        [
+          "Vladyslav Usenko",
+          6
+        ],
+        [
+          "Nikolaus Demmel",
+          6
+        ],
+        [
+          "Jörg Stückler",
+          5
+        ],
+        [
+          "Lukas von Stumberg",
+          5
+        ],
+        [
+          "Rui Wang",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 5.17,
+      "unique_coauthors": 42,
+      "top_coauthors": [
+        [
+          "Mariia Gladkova",
+          3
+        ],
+        [
+          "Qing Cheng",
+          3
+        ],
+        [
+          "Niclas Zeller",
+          3
+        ],
+        [
+          "Qadeer Khan",
+          2
+        ],
+        [
+          "Wei Zhang",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.101,
+  "top_repeat_coauthors": [
+    {
+      "name": "Jürgen Sturm",
+      "count": 12,
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "name": "Jörg Stückler",
+      "count": 8,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Vladyslav Usenko",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Nikolaus Demmel",
+      "count": 7,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Christian Kerl",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2017
+    },
+    {
+      "name": "Lukas von Stumberg",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "Rudolph Triebel",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2021
+    },
+    {
+      "name": "Rui Wang",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2021
+    },
+    {
+      "name": "Jakob J. Engel",
+      "count": 4,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Qadeer Khan",
+      "count": 4,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Mariia Gladkova",
+      "count": 4,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Niclas Zeller",
+      "count": 4,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Felix Endres",
+      "count": 3,
+      "first_year": 2012,
+      "last_year": 2014
+    },
+    {
+      "name": "Wolfram Burgard",
+      "count": 3,
+      "first_year": 2012,
+      "last_year": 2014
+    },
+    {
+      "name": "Mariano Jaimez",
+      "count": 3,
+      "first_year": 2015,
+      "last_year": 2018
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Lukas von Stumberg",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Mariia Gladkova",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "David Schubert",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Simon Klenk",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Qadeer Khan",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Patrick Wenzel",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Nan Yang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Christiane Sommer",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Qing Cheng",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2012,
+      2021
+    ],
+    "early_mean_n_authors": 4.12,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.58
+  },
+  "citation_half_life_years": 13,
+  "bursts": {
+    "productivity": [
+      2018
+    ],
+    "impact": [
+      2012
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2012,
+      "venue": "IROS",
+      "title": "A benchmark for the evaluation of RGB-D SLAM systems",
+      "cites": 3886,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence",
+        "Benchmark (surveying)",
+        "RGB color model"
+      ],
+      "doi": "10.1109/iros.2012.6385773",
+      "coauthors": [
+        "Jürgen Sturm",
+        "Nikolas Engelhard",
+        "Felix Endres",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IROS",
+      "title": "Dense visual SLAM for RGB-D cameras",
+      "cites": 908,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision",
+        "Benchmark (surveying)",
+        "RGB color model"
+      ],
+      "doi": "10.1109/iros.2013.6696650",
+      "coauthors": [
+        "Christian Kerl",
+        "Jürgen Sturm"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "3-D Mapping With an RGB-D Camera",
+      "cites": 820,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Artificial intelligence",
+        "RGB color model",
+        "Computer vision",
+        "Computer science",
+        "Benchmark (surveying)"
+      ],
+      "doi": "10.1109/tro.2013.2279412",
+      "coauthors": [
+        "Felix Endres",
+        "Jürgen Hess",
+        "Jürgen Sturm",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "An evaluation of the RGB-D SLAM system",
+      "cites": 724,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Robustness (evolution)",
+        "Orb (optics)",
+        "Computer science",
+        "Scale-invariant feature transform",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra.2012.6225199",
+      "coauthors": [
+        "Felix Endres",
+        "Jürgen Hess",
+        "Nikolas Engelhard",
+        "Jürgen Sturm",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "Robust odometry estimation for RGB-D cameras",
+      "cites": 553,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision",
+        "RGB color model",
+        "Outlier"
+      ],
+      "doi": "10.1109/icra.2013.6631104",
+      "coauthors": [
+        "Christian Kerl",
+        "Jürgen Sturm"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "IROS",
+      "title": "Large-scale direct SLAM with stereo cameras",
+      "cites": 538,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Monocular",
+        "Pixel"
+      ],
+      "doi": "10.1109/iros.2015.7353631",
+      "coauthors": [
+        "Jakob J. Engel",
+        "Jörg Stückler"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "IROS",
+      "title": "The TUM VI Benchmark for Evaluating Visual-Inertial Odometry",
+      "cites": 432,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Odometry",
+        "Artificial intelligence",
+        "Visual odometry",
+        "Computer vision",
+        "Inertial measurement unit"
+      ],
+      "doi": "10.1109/iros.2018.8593419",
+      "coauthors": [
+        "David Schubert",
+        "Thore Goll",
+        "Nikolaus Demmel",
+        "Vladyslav Usenko",
+        "Jörg Stückler"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IROS",
+      "title": "Camera-based navigation of a low-cost quadrocopter",
+      "cites": 346,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Laptop",
+        "Computer science",
+        "Visual odometry"
+      ],
+      "doi": "10.1109/iros.2012.6385458",
+      "coauthors": [
+        "Jakob J. Engel",
+        "Jürgen Sturm"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "IROS",
+      "title": "LDSO: Direct Sparse Odometry with Loop Closure",
+      "cites": 312,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Robustness (evolution)",
+        "Computer vision",
+        "Bundle adjustment",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2018.8593376",
+      "coauthors": [
+        "Xiang Gao",
+        "Rui Wang",
+        "Nikolaus Demmel"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "IROS",
+      "title": "Large-scale direct SLAM for omnidirectional cameras",
+      "cites": 239,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Omnidirectional antenna",
+        "Artificial intelligence",
+        "Computer science",
+        "Simultaneous localization and mapping"
+      ],
+      "doi": "10.1109/iros.2015.7353366",
+      "coauthors": [
+        "David Caruso",
+        "Jakob J. Engel"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Daniel Cremers: 14년에 걸쳐 55편, 총 11,717회 인용, h=31, 500+ 블록버스터 6편.",
+      "paragraphs": [
+        "2012년 \"A benchmark for the evaluation of RGB-D SLAM systems\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886회). 1000+ 인용 논문: \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886회).",
+        "초기 토픽: Computer science, Artificial intelligence, Computer vision. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.10 → 토픽 지속형.",
+        "저자수 평균: 초기 4.1명 → 후기 4.6명 (팀 유지).",
+        "최다 인용 논문 \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886회) — 커리어 초기에 위치.",
+        "제자 후보 추정 9명 — 상위: Lukas von Stumberg(2017~, 우리 마지막저자 6편), Mariia Gladkova(2021~, 우리 마지막저자 3편), David Schubert(2018~, 우리 마지막저자 3편)."
+      ],
+      "lessons": [
+        "초기 0년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Daniel Cremers: over 14 years, 55 papers, 11,717 total cites, h=31, 6 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2012 with \"A benchmark for the evaluation of RGB-D SLAM systems\". First 500+ cite paper came 0 years in: \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886 cites). 1000+ cite paper: \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886 cites).",
+        "Early topics: Computer science, Artificial intelligence, Computer vision. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.10 → topic-stable.",
+        "Authors per paper: early 4.1 → late 4.6 (stable team).",
+        "Peak paper \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886 cites) — fell in early career.",
+        "9 likely students — top: Lukas von Stumberg(2017~, we last-author on 6), Mariia Gladkova(2021~, we last-author on 3), David Schubert(2018~, we last-author on 3)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 0 years. First-5-year topic choice is decisive."
+      ]
+    }
+  }
+}

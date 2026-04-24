@@ -1,0 +1,1360 @@
+{
+  "name": "Danica Kragic",
+  "slug": "danica-kragic",
+  "career_stats": {
+    "first_year": 1999,
+    "last_year": 2025,
+    "span": 27,
+    "total_papers": 188,
+    "total_cites": 8428,
+    "h_index": 48,
+    "i10_index": 134,
+    "seminal_count": 2,
+    "max_cites_single_paper": 839
+  },
+  "role_distribution": {
+    "middle": 51,
+    "first": 14,
+    "last": 123
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1999,
+      "title": "A Person Following Behaviour for a Mobile Robot"
+    },
+    "first_100cite": {
+      "year": 2000,
+      "title": "High-level control of a mobile manipulator for door opening",
+      "cites": 114,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2014,
+      "title": "Data-Driven Grasp Synthesis - A Survey",
+      "cites": 839,
+      "gap_from_first": 15
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "Data-Driven Grasp Synthesis - A Survey",
+      "cites": 839
+    }
+  },
+  "year_series": {
+    "1999": {
+      "n": 2,
+      "cites": 86,
+      "max_cites": 73
+    },
+    "2000": {
+      "n": 2,
+      "cites": 122,
+      "max_cites": 114
+    },
+    "2001": {
+      "n": 1,
+      "cites": 111,
+      "max_cites": 111
+    },
+    "2002": {
+      "n": 3,
+      "cites": 78,
+      "max_cites": 45
+    },
+    "2003": {
+      "n": 6,
+      "cites": 159,
+      "max_cites": 61
+    },
+    "2004": {
+      "n": 6,
+      "cites": 285,
+      "max_cites": 122
+    },
+    "2005": {
+      "n": 7,
+      "cites": 500,
+      "max_cites": 124
+    },
+    "2006": {
+      "n": 7,
+      "cites": 264,
+      "max_cites": 95
+    },
+    "2007": {
+      "n": 2,
+      "cites": 118,
+      "max_cites": 112
+    },
+    "2008": {
+      "n": 5,
+      "cites": 354,
+      "max_cites": 173
+    },
+    "2009": {
+      "n": 1,
+      "cites": 22,
+      "max_cites": 22
+    },
+    "2010": {
+      "n": 8,
+      "cites": 538,
+      "max_cites": 121
+    },
+    "2011": {
+      "n": 11,
+      "cites": 562,
+      "max_cites": 189
+    },
+    "2012": {
+      "n": 8,
+      "cites": 223,
+      "max_cites": 59
+    },
+    "2013": {
+      "n": 18,
+      "cites": 712,
+      "max_cites": 130
+    },
+    "2014": {
+      "n": 10,
+      "cites": 1282,
+      "max_cites": 839
+    },
+    "2015": {
+      "n": 7,
+      "cites": 261,
+      "max_cites": 80
+    },
+    "2016": {
+      "n": 15,
+      "cites": 392,
+      "max_cites": 102
+    },
+    "2017": {
+      "n": 6,
+      "cites": 433,
+      "max_cites": 210
+    },
+    "2018": {
+      "n": 6,
+      "cites": 210,
+      "max_cites": 107
+    },
+    "2019": {
+      "n": 8,
+      "cites": 231,
+      "max_cites": 130
+    },
+    "2020": {
+      "n": 10,
+      "cites": 772,
+      "max_cites": 564
+    },
+    "2021": {
+      "n": 11,
+      "cites": 355,
+      "max_cites": 262
+    },
+    "2022": {
+      "n": 5,
+      "cites": 24,
+      "max_cites": 12
+    },
+    "2023": {
+      "n": 6,
+      "cites": 261,
+      "max_cites": 206
+    },
+    "2024": {
+      "n": 7,
+      "cites": 36,
+      "max_cites": 20
+    },
+    "2025": {
+      "n": 10,
+      "cites": 37,
+      "max_cites": 32
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.114
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.114
+        },
+        {
+          "c": "Visual servoing",
+          "w": 0.086
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 27,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.178
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.148
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.081
+        },
+        {
+          "c": "GRASP",
+          "w": 0.044
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 46,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.179
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.144
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.07
+        },
+        {
+          "c": "GRASP",
+          "w": 0.07
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.066
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 44,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.172
+        },
+        {
+          "c": "GRASP",
+          "w": 0.084
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.084
+        },
+        {
+          "c": "Robot",
+          "w": 0.051
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 40,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.07
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.06
+        },
+        {
+          "c": "Robot",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.19
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.083
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.036
+        },
+        {
+          "c": "GRASP",
+          "w": 0.024
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.024
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 6,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "ICRA": 18,
+        "IROS": 7,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "IROS": 22,
+        "ICRA": 16,
+        "IJRR": 3,
+        "T-RO": 3,
+        "RSS": 2
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "ICRA": 22,
+        "IROS": 12,
+        "T-RO": 6,
+        "RSS": 2,
+        "RA-L": 1,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "IROS": 16,
+        "ICRA": 9,
+        "RA-L": 7,
+        "Sci-Rob": 4,
+        "T-RO": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "RA-L": 7,
+        "IROS": 5,
+        "ICRA": 4,
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 2.71,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Henrik I. Christensen",
+          10
+        ],
+        [
+          "Lars Petersson",
+          2
+        ],
+        [
+          "Hedvig Sidenbladh",
+          1
+        ],
+        [
+          "David J. Austin",
+          1
+        ],
+        [
+          "Andrew T. Miller",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 2.93,
+      "unique_coauthors": 28,
+      "top_coauthors": [
+        [
+          "Staffan Ekvall",
+          8
+        ],
+        [
+          "Daniel Aarno",
+          5
+        ],
+        [
+          "Ville Kyrki",
+          5
+        ],
+        [
+          "Patric Jensfelt",
+          4
+        ],
+        [
+          "Henrik I. Christensen",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 4.09,
+      "unique_coauthors": 62,
+      "top_coauthors": [
+        [
+          "Carl Henrik Ek",
+          11
+        ],
+        [
+          "Mårten Björkman",
+          8
+        ],
+        [
+          "Kai Huebner",
+          7
+        ],
+        [
+          "Dan Song",
+          6
+        ],
+        [
+          "Florian T. Pokorny",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 3.98,
+      "unique_coauthors": 60,
+      "top_coauthors": [
+        [
+          "Kaiyu Hang",
+          9
+        ],
+        [
+          "Florian T. Pokorny",
+          9
+        ],
+        [
+          "Yasemin Bekiroglu",
+          9
+        ],
+        [
+          "Johannes A. Stork",
+          8
+        ],
+        [
+          "Christian Smith",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 5.33,
+      "unique_coauthors": 91,
+      "top_coauthors": [
+        [
+          "Hang Yin",
+          13
+        ],
+        [
+          "Michael C. Welle",
+          10
+        ],
+        [
+          "Kaiyu Hang",
+          5
+        ],
+        [
+          "Johannes A. Stork",
+          5
+        ],
+        [
+          "Anastasiia Varava",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 5,
+      "unique_coauthors": 45,
+      "top_coauthors": [
+        [
+          "Michael C. Welle",
+          7
+        ],
+        [
+          "Jens Lundell",
+          5
+        ],
+        [
+          "Zehang Weng",
+          4
+        ],
+        [
+          "Alberta Longhini",
+          3
+        ],
+        [
+          "Haofei Lu",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.117,
+  "top_repeat_coauthors": [
+    {
+      "name": "Florian T. Pokorny",
+      "count": 19,
+      "first_year": 2013,
+      "last_year": 2025
+    },
+    {
+      "name": "Carl Henrik Ek",
+      "count": 17,
+      "first_year": 2011,
+      "last_year": 2016
+    },
+    {
+      "name": "Kaiyu Hang",
+      "count": 17,
+      "first_year": 2012,
+      "last_year": 2020
+    },
+    {
+      "name": "Michael C. Welle",
+      "count": 17,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Hang Yin",
+      "count": 16,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Henrik I. Christensen",
+      "count": 15,
+      "first_year": 1999,
+      "last_year": 2020
+    },
+    {
+      "name": "Mårten Björkman",
+      "count": 15,
+      "first_year": 2004,
+      "last_year": 2021
+    },
+    {
+      "name": "Johannes A. Stork",
+      "count": 15,
+      "first_year": 2013,
+      "last_year": 2020
+    },
+    {
+      "name": "Yasemin Bekiroglu",
+      "count": 14,
+      "first_year": 2011,
+      "last_year": 2018
+    },
+    {
+      "name": "Kai Huebner",
+      "count": 10,
+      "first_year": 2008,
+      "last_year": 2015
+    },
+    {
+      "name": "Staffan Ekvall",
+      "count": 9,
+      "first_year": 2003,
+      "last_year": 2007
+    },
+    {
+      "name": "Jeannette Bohg",
+      "count": 9,
+      "first_year": 2010,
+      "last_year": 2023
+    },
+    {
+      "name": "Yiannis Karayiannidis",
+      "count": 9,
+      "first_year": 2012,
+      "last_year": 2021
+    },
+    {
+      "name": "Ville Kyrki",
+      "count": 8,
+      "first_year": 2004,
+      "last_year": 2024
+    },
+    {
+      "name": "Renaud Detry",
+      "count": 8,
+      "first_year": 2011,
+      "last_year": 2016
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Florian T. Pokorny",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 15,
+      "total_copubs": 19,
+      "student_first_author_count": 7,
+      "we_last_author_count": 11,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yasemin Bekiroglu",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 14,
+      "student_first_author_count": 5,
+      "we_last_author_count": 10,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Kaiyu Hang",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 17,
+      "student_first_author_count": 6,
+      "we_last_author_count": 9,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Kai Huebner",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 9,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Johannes A. Stork",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 15,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Dan Song",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Renaud Detry",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Javier Romero",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Marianna Madry",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Alberta Longhini",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hedvig Kjellström",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Daniel Aarno",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Zehang Weng",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Shahbaz Abdul Khader",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Jeannette Bohg",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Martina Lippi",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Karl Pauwels",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Matthew Johnson-Roberson",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Joshua A. Haustein",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Francisco Eli Vina Barrientos",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Alfredo Reichlin",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Thomas Feix",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Ville Kyrki",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Anastasiia Varava",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Silvia Cruciani",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Ioanna Mitsioni",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Martin Hjelm",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Püren Güler",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Niklas Bergström",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Miao Li",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Haofei Lu",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Babak Rasolzadeh",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Virgile Hogman",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Gert Kootstra",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "J. Frederico Carvalho",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Mårten Björkman",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 15,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Judith Bütepage",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Alessandro Pieropan",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Ali Ghadirzadeh",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Weihao Yuan",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Irene Garcia-Camacho",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Mia Kokic",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Haoran Song",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Mila Popovic",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1999,
+      2008
+    ],
+    "early_mean_n_authors": 2.85,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.89
+  },
+  "citation_half_life_years": 12.0,
+  "bursts": {
+    "productivity": [
+      2013,
+      2016
+    ],
+    "impact": [
+      2014
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "Data-Driven Grasp Synthesis - A Survey",
+      "cites": 839,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Artificial intelligence",
+        "Computer science",
+        "Set (abstract data type)",
+        "Matching (statistics)"
+      ],
+      "doi": "10.1109/tro.2013.2289018",
+      "coauthors": [
+        "Jeannette Bohg",
+        "Antonio Morales",
+        "Tamim Asfour"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Combating COVID-19 - The role of robotics in managing public health and infectious diseases",
+      "cites": 564,
+      "n_authors": 13,
+      "role": "middle",
+      "concepts": [
+        "Coronavirus disease 2019 (COVID-19)",
+        "2019-20 coronavirus outbreak",
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "Public health",
+        "Robotics"
+      ],
+      "doi": "10.1126/scirobotics.abb5589",
+      "coauthors": [
+        "Guang-Zhong Yang",
+        "Bradley J. Nelson",
+        "Robin R. Murphy",
+        "Howie Choset",
+        "Henrik I. Christensen",
+        "Steven H. Collins",
+        "Paolo Dario",
+        "Ken Goldberg",
+        "Koji Ikuta",
+        "Neil Jacobstein",
+        "Russell H. Taylor",
+        "Marcia McNutt"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "Sci-Rob",
+      "title": "Modeling, learning, perception, and control methods for deformable object manipulation",
+      "cites": 262,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Object (grammar)",
+        "Perception",
+        "Artificial intelligence",
+        "Robot"
+      ],
+      "doi": "10.1126/scirobotics.abd8803",
+      "coauthors": [
+        "Hang Yin",
+        "Anastasia Varava"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-RO",
+      "title": "Interactive Perception: Leveraging Action in Perception and Perception in Action",
+      "cites": 210,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Perception",
+        "Action (physics)",
+        "Computer science",
+        "Human–computer interaction",
+        "Robot"
+      ],
+      "doi": "10.1109/tro.2017.2721939",
+      "coauthors": [
+        "Jeannette Bohg",
+        "Karol Hausman",
+        "Bharath Sankaran",
+        "Oliver Brock",
+        "Stefan Schaal",
+        "Gaurav S. Sukhatme"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "T-RO",
+      "title": "Deep Learning Approaches to Grasp Synthesis: A Review",
+      "cites": 206,
+      "n_authors": 12,
+      "role": "middle",
+      "concepts": [
+        "GRASP",
+        "Artificial intelligence",
+        "Computer science",
+        "Affordance",
+        "Process (computing)"
+      ],
+      "doi": "10.1109/tro.2023.3280597",
+      "coauthors": [
+        "Rhys Newbury",
+        "Morris Gu",
+        "Lachlan Chumbley",
+        "Arsalan Mousavian",
+        "Clemens Eppner",
+        "Jürgen Leitner",
+        "Jeannette Bohg",
+        "Antonio Morales",
+        "Tamim Asfour",
+        "Dieter Fox",
+        "Akansel Cosgun"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "T-RO",
+      "title": "Assessing Grasp Stability Based on Learning and Haptic Data",
+      "cites": 189,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Computer science",
+        "Artificial intelligence",
+        "Stability (learning theory)",
+        "Machine learning"
+      ],
+      "doi": "10.1109/tro.2011.2132870",
+      "coauthors": [
+        "Yasemin Bekiroglu",
+        "Janne Laaksonen",
+        "Jimmy A. Jørgensen",
+        "Ville Kyrki"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "ICRA",
+      "title": "Minimum volume bounding box decomposition for shape approximation in robot grasping",
+      "cites": 173,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Minimum bounding box",
+        "GRASP",
+        "Robot",
+        "Computer science",
+        "Focus (optics)"
+      ],
+      "doi": "10.1109/robot.2008.4543434",
+      "coauthors": [
+        "Kai Huebner",
+        "Steffen Ruthotto"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IROS",
+      "title": "Enhancing visual perception of shape through tactile glances",
+      "cites": 130,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Object (grammar)",
+        "Artificial intelligence",
+        "Robot",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2013.6696808",
+      "coauthors": [
+        "Mårten Björkman",
+        "Yasemin Bekiroglu",
+        "Virgile Hogman"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "Perching and resting - A paradigm for UAV maneuvering with modularized landing gears",
+      "cites": 130,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Range (aeronautics)",
+        "Rest (music)",
+        "Computer science",
+        "Engineering",
+        "Aerospace engineering"
+      ],
+      "doi": "10.1126/scirobotics.aau6637",
+      "coauthors": [
+        "Kaiyu Hang",
+        "Ximin Lyu",
+        "Haoran Song",
+        "Johannes A. Stork",
+        "Aaron M. Dollar",
+        "Fu Zhang"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Grasp Recognition for Programming by Demonstration",
+      "cites": 124,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Computer science",
+        "Artificial intelligence",
+        "Robustness (evolution)",
+        "Grippers"
+      ],
+      "doi": "10.1109/robot.2005.1570207",
+      "coauthors": [
+        "Staffan Ekvall"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Danica Kragic: 27년에 걸쳐 188편, 총 8,428회 인용, h=48, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1999년 \"A Person Following Behaviour for a Mobile Robot\"으로 출발. 첫 500+ 인용 논문까지 15년 걸림: \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839회).",
+        "초기 토픽: Computer science, Computer vision, Artificial intelligence. 최근 토픽: Computer science, Artificial intelligence, Human–computer interaction. 피벗 점수 0.12 → 토픽 지속형.",
+        "저자수 평균: 초기 2.9명 → 후기 4.9명 (팀 확장).",
+        "최다 인용 논문 \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839회) — 커리어 중기에 위치.",
+        "제자 후보 추정 44명 — 상위: Florian T. Pokorny(2013~, 우리 마지막저자 11편), Yasemin Bekiroglu(2011~, 우리 마지막저자 10편), Kaiyu Hang(2012~, 우리 마지막저자 9편)."
+      ],
+      "lessons": [
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "44명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Danica Kragic: over 27 years, 188 papers, 8,428 total cites, h=48, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1999 with \"A Person Following Behaviour for a Mobile Robot\". First 500+ cite paper came 15 years in: \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839 cites).",
+        "Early topics: Computer science, Computer vision, Artificial intelligence. Recent topics: Computer science, Artificial intelligence, Human–computer interaction. Pivot score 0.12 → topic-stable.",
+        "Authors per paper: early 2.9 → late 4.9 (team growth).",
+        "Peak paper \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839 cites) — fell in mid career.",
+        "44 likely students — top: Florian T. Pokorny(2013~, we last-author on 11), Yasemin Bekiroglu(2011~, we last-author on 10), Kaiyu Hang(2012~, we last-author on 9)."
+      ],
+      "lessons": [
+        "Impact through deep specialization — one lane, pushed far.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "44 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

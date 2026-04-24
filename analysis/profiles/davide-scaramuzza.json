@@ -1,0 +1,1170 @@
+{
+  "name": "Davide Scaramuzza",
+  "slug": "davide-scaramuzza",
+  "career_stats": {
+    "first_year": 2005,
+    "last_year": 2025,
+    "span": 21,
+    "total_papers": 166,
+    "total_cites": 24197,
+    "h_index": 70,
+    "i10_index": 130,
+    "seminal_count": 7,
+    "max_cites_single_paper": 3182
+  },
+  "role_distribution": {
+    "first": 8,
+    "middle": 26,
+    "last": 132
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2005,
+      "title": "Ball Detection and Predictive Ball Following Based on a Stereoscopic Vision System"
+    },
+    "first_100cite": {
+      "year": 2006,
+      "title": "A Toolbox for Easily Calibrating Omnidirectional Cameras",
+      "cites": 491,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2014,
+      "title": "SVO: Fast semi-direct monocular visual odometry",
+      "cites": 2084,
+      "gap_from_first": 9
+    },
+    "first_1000cite": {
+      "year": 2014,
+      "title": "SVO: Fast semi-direct monocular visual odometry",
+      "cites": 2084,
+      "gap_from_first": 9
+    },
+    "peak_paper": {
+      "year": 2016,
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182
+    }
+  },
+  "year_series": {
+    "2005": {
+      "n": 1,
+      "cites": 26,
+      "max_cites": 26
+    },
+    "2006": {
+      "n": 2,
+      "cites": 529,
+      "max_cites": 491
+    },
+    "2007": {
+      "n": 1,
+      "cites": 235,
+      "max_cites": 235
+    },
+    "2008": {
+      "n": 3,
+      "cites": 407,
+      "max_cites": 285
+    },
+    "2009": {
+      "n": 3,
+      "cites": 358,
+      "max_cites": 274
+    },
+    "2010": {
+      "n": 5,
+      "cites": 683,
+      "max_cites": 427
+    },
+    "2011": {
+      "n": 3,
+      "cites": 77,
+      "max_cites": 47
+    },
+    "2012": {
+      "n": 2,
+      "cites": 75,
+      "max_cites": 39
+    },
+    "2013": {
+      "n": 5,
+      "cites": 488,
+      "max_cites": 199
+    },
+    "2014": {
+      "n": 10,
+      "cites": 3059,
+      "max_cites": 2084
+    },
+    "2015": {
+      "n": 6,
+      "cites": 912,
+      "max_cites": 486
+    },
+    "2016": {
+      "n": 6,
+      "cites": 4425,
+      "max_cites": 3182
+    },
+    "2017": {
+      "n": 16,
+      "cites": 4815,
+      "max_cites": 1392
+    },
+    "2018": {
+      "n": 14,
+      "cites": 2736,
+      "max_cites": 650
+    },
+    "2019": {
+      "n": 9,
+      "cites": 888,
+      "max_cites": 299
+    },
+    "2020": {
+      "n": 16,
+      "cites": 1005,
+      "max_cites": 324
+    },
+    "2021": {
+      "n": 14,
+      "cites": 1266,
+      "max_cites": 301
+    },
+    "2022": {
+      "n": 18,
+      "cites": 1198,
+      "max_cites": 226
+    },
+    "2023": {
+      "n": 13,
+      "cites": 713,
+      "max_cites": 184
+    },
+    "2024": {
+      "n": 11,
+      "cites": 274,
+      "max_cites": 102
+    },
+    "2025": {
+      "n": 8,
+      "cites": 28,
+      "max_cites": 10
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer vision",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.18
+        },
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Omnidirectional camera",
+          "w": 0.08
+        },
+        {
+          "c": "Omnidirectional antenna",
+          "w": 0.06
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.168
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.152
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.144
+        },
+        {
+          "c": "Monocular",
+          "w": 0.048
+        },
+        {
+          "c": "Visual odometry",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 51,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.124
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Visual odometry",
+          "w": 0.044
+        },
+        {
+          "c": "Odometry",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 72,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.195
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.085
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.04
+        },
+        {
+          "c": "Drone",
+          "w": 0.031
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.028
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.205
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.154
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.077
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.051
+        },
+        {
+          "c": "Differentiable function",
+          "w": 0.051
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 3,
+        "T-RO": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 15,
+        "IROS": 9,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 17,
+        "RA-L": 16,
+        "T-RO": 6,
+        "RSS": 5,
+        "IROS": 4,
+        "IJRR": 3
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "RA-L": 27,
+        "ICRA": 17,
+        "IROS": 11,
+        "RSS": 6,
+        "Sci-Rob": 6,
+        "T-RO": 5
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "ICRA": 3,
+        "RA-L": 2,
+        "T-RO": 1,
+        "RSS": 1,
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 3.1,
+      "unique_coauthors": 10,
+      "top_coauthors": [
+        [
+          "Roland Siegwart",
+          9
+        ],
+        [
+          "Agostino Martinelli",
+          3
+        ],
+        [
+          "Cédric Pradalier",
+          2
+        ],
+        [
+          "Stefano Pagnottelli",
+          1
+        ],
+        [
+          "Paolo Valigi",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 4.48,
+      "unique_coauthors": 49,
+      "top_coauthors": [
+        [
+          "Roland Siegwart",
+          8
+        ],
+        [
+          "Christian Forster",
+          6
+        ],
+        [
+          "Stephan Weiss",
+          5
+        ],
+        [
+          "Laurent Kneip",
+          4
+        ],
+        [
+          "Matia Pizzoli",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 4,
+      "unique_coauthors": 75,
+      "top_coauthors": [
+        [
+          "Davide Falanga",
+          10
+        ],
+        [
+          "Christian Forster",
+          9
+        ],
+        [
+          "Guillermo Gallego",
+          9
+        ],
+        [
+          "Zichao Zhang",
+          8
+        ],
+        [
+          "Matthias Faessler",
+          7
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 4.49,
+      "unique_coauthors": 118,
+      "top_coauthors": [
+        [
+          "Elia Kaufmann",
+          18
+        ],
+        [
+          "Yunlong Song",
+          16
+        ],
+        [
+          "Angel Romero",
+          13
+        ],
+        [
+          "Giovanni Cioffi",
+          11
+        ],
+        [
+          "Leonard Bauersfeld",
+          11
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 5,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Giovanni Cioffi",
+          4
+        ],
+        [
+          "Yunlong Song",
+          3
+        ],
+        [
+          "Leonard Bauersfeld",
+          2
+        ],
+        [
+          "Jiaxu Xing",
+          2
+        ],
+        [
+          "Roxane Merat",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.106,
+  "top_repeat_coauthors": [
+    {
+      "name": "Elia Kaufmann",
+      "count": 20,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Yunlong Song",
+      "count": 19,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Roland Siegwart",
+      "count": 18,
+      "first_year": 2006,
+      "last_year": 2025
+    },
+    {
+      "name": "Philipp Foehn",
+      "count": 16,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "Christian Forster",
+      "count": 15,
+      "first_year": 2013,
+      "last_year": 2017
+    },
+    {
+      "name": "Giovanni Cioffi",
+      "count": 15,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Leonard Bauersfeld",
+      "count": 13,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Angel Romero",
+      "count": 13,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Davide Falanga",
+      "count": 12,
+      "first_year": 2017,
+      "last_year": 2021
+    },
+    {
+      "name": "Zichao Zhang",
+      "count": 10,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Antonio Loquercio",
+      "count": 10,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Elias Mueggler",
+      "count": 9,
+      "first_year": 2014,
+      "last_year": 2018
+    },
+    {
+      "name": "Guillermo Gallego",
+      "count": 9,
+      "first_year": 2015,
+      "last_year": 2019
+    },
+    {
+      "name": "Matthias Faessler",
+      "count": 8,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "Titus Cieslewski",
+      "count": 8,
+      "first_year": 2017,
+      "last_year": 2022
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Roland Siegwart",
+      "advisor_active_from": 1991,
+      "early_copubs_as_our_first_author": 6,
+      "advisor_last_author_count": 5,
+      "total_copubs": 18
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Yunlong Song",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 19,
+      "total_copubs": 19,
+      "student_first_author_count": 6,
+      "we_last_author_count": 17,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Philipp Foehn",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 16,
+      "total_copubs": 16,
+      "student_first_author_count": 5,
+      "we_last_author_count": 16,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Elia Kaufmann",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 16,
+      "total_copubs": 20,
+      "student_first_author_count": 3,
+      "we_last_author_count": 15,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Christian Forster",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 15,
+      "total_copubs": 15,
+      "student_first_author_count": 9,
+      "we_last_author_count": 14,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Giovanni Cioffi",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 15,
+      "total_copubs": 15,
+      "student_first_author_count": 5,
+      "we_last_author_count": 14,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Angel Romero",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 13,
+      "student_first_author_count": 4,
+      "we_last_author_count": 13,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Leonard Bauersfeld",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 13,
+      "student_first_author_count": 3,
+      "we_last_author_count": 13,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Davide Falanga",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 5,
+      "we_last_author_count": 11,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Zichao Zhang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 6,
+      "we_last_author_count": 10,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Guillermo Gallego",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 1,
+      "we_last_author_count": 9,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Antonio Loquercio",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 10,
+      "student_first_author_count": 6,
+      "we_last_author_count": 8,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Elias Mueggler",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 8,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Sihao Sun",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Matthias Faessler",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Titus Cieslewski",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Mathias Gehrig",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Henri Rebecq",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Daniel Gehrig",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jiaxu Xing",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Robert Penicka",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Drew Hanover",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Matia Pizzoli",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Reza Sabzevari",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Nico Messikommer",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Manasi Muglikar",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Andras Majdik",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Barza Nisar",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Michael Gassner",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Ismail Geles",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ruben Gomez-Ojeda",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Deon George Sabatta",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Chiara Troiani",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Michael Helmberger",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2005,
+      2014
+    ],
+    "early_mean_n_authors": 4.09,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.34
+  },
+  "citation_half_life_years": 9,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2016,
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2016,
+      "venue": "T-RO",
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182,
+      "n_authors": 8,
+      "role": "middle",
+      "concepts": [
+        "Robustness (evolution)",
+        "Robotics",
+        "Simultaneous localization and mapping",
+        "Robot",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2016.2624754",
+      "coauthors": [
+        "Cesar Cadena",
+        "Luca Carlone",
+        "Henry Carrillo",
+        "Yasir Latif",
+        "José Neira",
+        "Ian Reid",
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "SVO: Fast semi-direct monocular visual odometry",
+      "cites": 2084,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Visual odometry",
+        "Monocular",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2014.6906584",
+      "coauthors": [
+        "Christian Forster",
+        "Matia Pizzoli"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-RO",
+      "title": "On-Manifold Preintegration for Real-Time Visual-Inertial Odometry",
+      "cites": 1392,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Odometry",
+        "Computer vision",
+        "Artificial intelligence",
+        "Visual odometry",
+        "Inertial frame of reference"
+      ],
+      "doi": "10.1109/tro.2016.2597321",
+      "coauthors": [
+        "Christian Forster",
+        "Luca Carlone",
+        "Frank Dellaert"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-RO",
+      "title": "SVO: Semidirect Visual Odometry for Monocular and Multicamera Systems",
+      "cites": 910,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Visual odometry",
+        "Monocular"
+      ],
+      "doi": "10.1109/tro.2016.2623335",
+      "coauthors": [
+        "Christian Forster",
+        "Zichao Zhang",
+        "Michael Gassner",
+        "Manuel Werlberger"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "RA-L",
+      "title": "A Machine Learning Approach to Visual Perception of Forest Trails for Mobile Robots",
+      "cites": 691,
+      "n_authors": 12,
+      "role": "middle",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Monocular",
+        "Computer vision",
+        "Segmentation"
+      ],
+      "doi": "10.1109/lra.2015.2509024",
+      "coauthors": [
+        "Alessandro Giusti",
+        "Jerome Guzzi",
+        "Dan C. Ciresan",
+        "Fang-Lin He",
+        "Juan P. Rodriguez",
+        "Flavio Fontana",
+        "Matthias Faessler",
+        "Christian Forster",
+        "Jürgen Schmidhuber",
+        "Gianni Di Caro",
+        "Luca Maria Gambardella"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "IROS",
+      "title": "A Tutorial on Quantitative Trajectory Evaluation for Visual(-Inertial) Odometry",
+      "cites": 650,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Odometry",
+        "Computer science",
+        "Trajectory",
+        "Inertial frame of reference",
+        "Modality (human–computer interaction)"
+      ],
+      "doi": "10.1109/iros.2018.8593941",
+      "coauthors": [
+        "Zichao Zhang"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IJRR",
+      "title": "The event-camera dataset and simulator: Event-based data for pose estimation, visual odometry, and SLAM",
+      "cites": 547,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Robotics",
+        "Computer vision",
+        "Asynchronous communication"
+      ],
+      "doi": "10.1177/0278364917691115",
+      "coauthors": [
+        "Elias Mueggler",
+        "Henri Rebecq",
+        "Guillermo Gallego",
+        "Tobi Delbruck"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "DroNet: Learning to Fly by Driving",
+      "cites": 496,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "On the fly",
+        "Computer science",
+        "Aeronautics",
+        "Psychology",
+        "Environmental science"
+      ],
+      "doi": "10.1109/lra.2018.2795643",
+      "coauthors": [
+        "Antonio Loquercio",
+        "Ana I. Maqueda",
+        "Carlos R. del-Blanco"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "A Toolbox for Easily Calibrating Omnidirectional Cameras",
+      "cites": 491,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Omnidirectional antenna",
+        "Computer science",
+        "Calibration",
+        "Toolbox",
+        "Computer vision"
+      ],
+      "doi": "10.1109/iros.2006.282372",
+      "coauthors": [
+        "Agostino Martinelli",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "RSS",
+      "title": "IMU Preintegration on Manifold for Efficient Visual-Inertial Maximum-a-Posteriori Estimation",
+      "cites": 486,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Inertial measurement unit",
+        "Computer science",
+        "Inertial frame of reference",
+        "Computer vision",
+        "Artificial intelligence"
+      ],
+      "doi": "10.15607/rss.2015.xi.006",
+      "coauthors": [
+        "Christian Forster",
+        "Luca Carlone",
+        "Frank Dellaert"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Davide Scaramuzza: 21년에 걸쳐 166편, 총 24,197회 인용, h=70, 500+ 블록버스터 7편.",
+      "paragraphs": [
+        "2005년 \"Ball Detection and Predictive Ball Following Based on a Stereoscopic Vision System\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"SVO: Fast semi-direct monocular visual odometry\" (2014, 2,084회). 1000+ 인용 논문: \"SVO: Fast semi-direct monocular visual odometry\" (2014, 2,084회).",
+        "초기 토픽: Computer vision, Artificial intelligence, Computer science. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.11 → 토픽 지속형.",
+        "저자수 평균: 초기 4.1명 → 후기 4.3명 (팀 유지).",
+        "최다 인용 논문 \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Roland Siegwart. 제자 후보 추정 33명 — 상위: Yunlong Song(2020~, 우리 마지막저자 17편), Philipp Foehn(2017~, 우리 마지막저자 16편), Elia Kaufmann(2017~, 우리 마지막저자 15편)."
+      ],
+      "lessons": [
+        "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "33명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Roland Siegwart — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Davide Scaramuzza: over 21 years, 166 papers, 24,197 total cites, h=70, 7 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2005 with \"Ball Detection and Predictive Ball Following Based on a Stereoscopic Vision System\". First 500+ cite paper came 9 years in: \"SVO: Fast semi-direct monocular visual odometry\" (2014, 2,084 cites). 1000+ cite paper: \"SVO: Fast semi-direct monocular visual odometry\" (2014, 2,084 cites).",
+        "Early topics: Computer vision, Artificial intelligence, Computer science. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.11 → topic-stable.",
+        "Authors per paper: early 4.1 → late 4.3 (stable team).",
+        "Peak paper \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Roland Siegwart. 33 likely students — top: Yunlong Song(2020~, we last-author on 17), Philipp Foehn(2017~, we last-author on 16), Elia Kaufmann(2017~, we last-author on 15)."
+      ],
+      "lessons": [
+        "Consistency builds h-index — one or two blockbusters alone don't get you here.",
+        "Impact through deep specialization — one lane, pushed far.",
+        "33 likely students — mentoring is the real impact.",
+        "Likely advisor: Roland Siegwart — started within their PhD network."
+      ]
+    }
+  }
+}

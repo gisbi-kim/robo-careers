@@ -1,0 +1,1303 @@
+{
+  "name": "Metin Sitti",
+  "slug": "metin-sitti",
+  "career_stats": {
+    "first_year": 1998,
+    "last_year": 2025,
+    "span": 28,
+    "total_papers": 151,
+    "total_cites": 11025,
+    "h_index": 58,
+    "i10_index": 130,
+    "seminal_count": 1,
+    "max_cites_single_paper": 511
+  },
+  "role_distribution": {
+    "first": 12,
+    "middle": 10,
+    "last": 129
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1998,
+      "title": "Tele-nanorobotics using atomic force microscope"
+    },
+    "first_100cite": {
+      "year": 1998,
+      "title": "Tele-nanorobotics using atomic force microscope",
+      "cites": 116,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2017,
+      "title": "Biohybrid actuators for robotics: A review of devices actuated by living cells",
+      "cites": 511,
+      "gap_from_first": 19
+    },
+    "peak_paper": {
+      "year": 2017,
+      "title": "Biohybrid actuators for robotics: A review of devices actuated by living cells",
+      "cites": 511
+    }
+  },
+  "year_series": {
+    "1998": {
+      "n": 1,
+      "cites": 116,
+      "max_cites": 116
+    },
+    "1999": {
+      "n": 2,
+      "cites": 55,
+      "max_cites": 28
+    },
+    "2000": {
+      "n": 2,
+      "cites": 514,
+      "max_cites": 297
+    },
+    "2001": {
+      "n": 4,
+      "cites": 349,
+      "max_cites": 175
+    },
+    "2002": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2003": {
+      "n": 4,
+      "cites": 465,
+      "max_cites": 158
+    },
+    "2004": {
+      "n": 2,
+      "cites": 134,
+      "max_cites": 129
+    },
+    "2005": {
+      "n": 2,
+      "cites": 101,
+      "max_cites": 68
+    },
+    "2006": {
+      "n": 5,
+      "cites": 376,
+      "max_cites": 165
+    },
+    "2007": {
+      "n": 6,
+      "cites": 540,
+      "max_cites": 262
+    },
+    "2008": {
+      "n": 7,
+      "cites": 373,
+      "max_cites": 144
+    },
+    "2009": {
+      "n": 12,
+      "cites": 735,
+      "max_cites": 316
+    },
+    "2010": {
+      "n": 6,
+      "cites": 273,
+      "max_cites": 109
+    },
+    "2011": {
+      "n": 13,
+      "cites": 641,
+      "max_cites": 240
+    },
+    "2012": {
+      "n": 10,
+      "cites": 1158,
+      "max_cites": 391
+    },
+    "2013": {
+      "n": 10,
+      "cites": 739,
+      "max_cites": 258
+    },
+    "2014": {
+      "n": 8,
+      "cites": 497,
+      "max_cites": 139
+    },
+    "2015": {
+      "n": 4,
+      "cites": 226,
+      "max_cites": 165
+    },
+    "2016": {
+      "n": 3,
+      "cites": 198,
+      "max_cites": 165
+    },
+    "2017": {
+      "n": 11,
+      "cites": 817,
+      "max_cites": 511
+    },
+    "2018": {
+      "n": 9,
+      "cites": 623,
+      "max_cites": 413
+    },
+    "2019": {
+      "n": 8,
+      "cites": 453,
+      "max_cites": 215
+    },
+    "2020": {
+      "n": 7,
+      "cites": 855,
+      "max_cites": 386
+    },
+    "2021": {
+      "n": 3,
+      "cites": 341,
+      "max_cites": 284
+    },
+    "2022": {
+      "n": 8,
+      "cites": 375,
+      "max_cites": 113
+    },
+    "2023": {
+      "n": 1,
+      "cites": 11,
+      "max_cites": 11
+    },
+    "2024": {
+      "n": 1,
+      "cites": 28,
+      "max_cites": 28
+    },
+    "2025": {
+      "n": 2,
+      "cites": 32,
+      "max_cites": 30
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Teleoperation",
+          "w": 0.067
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.067
+        },
+        {
+          "c": "Cantilever",
+          "w": 0.067
+        },
+        {
+          "c": "Wing",
+          "w": 0.067
+        },
+        {
+          "c": "Flapping",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.106
+        },
+        {
+          "c": "Computer science",
+          "w": 0.106
+        },
+        {
+          "c": "Materials science",
+          "w": 0.053
+        },
+        {
+          "c": "Biomimetics",
+          "w": 0.032
+        },
+        {
+          "c": "Mechanism (biology)",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 48,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.121
+        },
+        {
+          "c": "Computer science",
+          "w": 0.058
+        },
+        {
+          "c": "Materials science",
+          "w": 0.037
+        },
+        {
+          "c": "Climb",
+          "w": 0.029
+        },
+        {
+          "c": "Lift (data mining)",
+          "w": 0.025
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 36,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.072
+        },
+        {
+          "c": "Robot",
+          "w": 0.061
+        },
+        {
+          "c": "Materials science",
+          "w": 0.044
+        },
+        {
+          "c": "Magnetic field",
+          "w": 0.039
+        },
+        {
+          "c": "Magnet",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 35,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.121
+        },
+        {
+          "c": "Robot",
+          "w": 0.092
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.064
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.029
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.023
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.1
+        },
+        {
+          "c": "Magnetic resonance imaging",
+          "w": 0.05
+        },
+        {
+          "c": "Biomedical engineering",
+          "w": 0.05
+        },
+        {
+          "c": "Capsule",
+          "w": 0.05
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 2,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 4,
+        "T-Mech": 4,
+        "RSS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 17,
+        "IROS": 11,
+        "T-RO": 8,
+        "IJRR": 8,
+        "T-Mech": 3,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 16,
+        "IJRR": 5,
+        "T-Mech": 5,
+        "IROS": 4,
+        "T-RO": 3,
+        "RSS": 1,
+        "Sci-Rob": 1,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "RA-L": 9,
+        "Sci-Rob": 7,
+        "IROS": 5,
+        "ICRA": 3,
+        "RSS": 3,
+        "T-RO": 3,
+        "IJRR": 2,
+        "T-Mech": 2,
+        "SoRo": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "Sci-Rob": 2,
+        "ICRA": 1,
+        "T-Mech": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 3.56,
+      "unique_coauthors": 15,
+      "top_coauthors": [
+        [
+          "Hideki Hashimoto",
+          5
+        ],
+        [
+          "Ronald S. Fearing",
+          3
+        ],
+        [
+          "Joseph Yan",
+          3
+        ],
+        [
+          "Satoshi Horighuchi",
+          1
+        ],
+        [
+          "Ken H. Chiang",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 3.05,
+      "unique_coauthors": 32,
+      "top_coauthors": [
+        [
+          "Yun Seong Song",
+          4
+        ],
+        [
+          "Amrinder S. Nain",
+          2
+        ],
+        [
+          "Steve H. Suhr",
+          2
+        ],
+        [
+          "Chytra Pawashe",
+          2
+        ],
+        [
+          "Cagdas D. Onal",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 2.98,
+      "unique_coauthors": 37,
+      "top_coauthors": [
+        [
+          "Steven Floyd",
+          16
+        ],
+        [
+          "Chytra Pawashe",
+          11
+        ],
+        [
+          "Eric D. Diller",
+          9
+        ],
+        [
+          "Veaceslav Arabagi",
+          7
+        ],
+        [
+          "Hyun Soo Park",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 4.06,
+      "unique_coauthors": 73,
+      "top_coauthors": [
+        [
+          "Eric D. Diller",
+          8
+        ],
+        [
+          "Joshua Giltinan",
+          6
+        ],
+        [
+          "Sehyuk Yim",
+          5
+        ],
+        [
+          "Lindsey L. Hines",
+          4
+        ],
+        [
+          "Islam S. M. Khalil",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 5.11,
+      "unique_coauthors": 89,
+      "top_coauthors": [
+        [
+          "Mehmet Turan",
+          5
+        ],
+        [
+          "Yasin Almalioglu",
+          5
+        ],
+        [
+          "Sinan Özgün Demir",
+          5
+        ],
+        [
+          "Hunter B. Gilbert",
+          4
+        ],
+        [
+          "Ahmet Fatih Tabak",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 7.25,
+      "unique_coauthors": 24,
+      "top_coauthors": [
+        [
+          "Chunxiang Wang",
+          2
+        ],
+        [
+          "Mehmet Efe Tiryaki",
+          1
+        ],
+        [
+          "Fatih Dogangun",
+          1
+        ],
+        [
+          "Cem Balda Dayan",
+          1
+        ],
+        [
+          "Paul Wrede",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.345,
+  "top_repeat_coauthors": [
+    {
+      "name": "Steven Floyd",
+      "count": 17,
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "name": "Eric D. Diller",
+      "count": 17,
+      "first_year": 2011,
+      "last_year": 2016
+    },
+    {
+      "name": "Chytra Pawashe",
+      "count": 13,
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "name": "Lindsey L. Hines",
+      "count": 8,
+      "first_year": 2010,
+      "last_year": 2017
+    },
+    {
+      "name": "Sehyuk Yim",
+      "count": 8,
+      "first_year": 2011,
+      "last_year": 2015
+    },
+    {
+      "name": "Joshua Giltinan",
+      "count": 8,
+      "first_year": 2013,
+      "last_year": 2019
+    },
+    {
+      "name": "Ahmet Fatih Tabak",
+      "count": 8,
+      "first_year": 2016,
+      "last_year": 2019
+    },
+    {
+      "name": "Veaceslav Arabagi",
+      "count": 7,
+      "first_year": 2008,
+      "last_year": 2012
+    },
+    {
+      "name": "Hideki Hashimoto",
+      "count": 6,
+      "first_year": 1998,
+      "last_year": 2003
+    },
+    {
+      "name": "Islam S. M. Khalil",
+      "count": 6,
+      "first_year": 2016,
+      "last_year": 2018
+    },
+    {
+      "name": "Ozgur Unver",
+      "count": 5,
+      "first_year": 2006,
+      "last_year": 2010
+    },
+    {
+      "name": "Michael P. Murphy",
+      "count": 5,
+      "first_year": 2006,
+      "last_year": 2011
+    },
+    {
+      "name": "Onder Erin",
+      "count": 5,
+      "first_year": 2017,
+      "last_year": 2021
+    },
+    {
+      "name": "Mehmet Turan",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2019
+    },
+    {
+      "name": "Yasin Almalioglu",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2019
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Hideki Hashimoto",
+      "advisor_active_from": 1986,
+      "early_copubs_as_our_first_author": 6,
+      "advisor_last_author_count": 6,
+      "total_copubs": 6
+    },
+    {
+      "name": "Ronald S. Fearing",
+      "advisor_active_from": 1984,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 1,
+      "total_copubs": 4
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Steven Floyd",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 15,
+      "total_copubs": 17,
+      "student_first_author_count": 8,
+      "we_last_author_count": 15,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Eric D. Diller",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 17,
+      "student_first_author_count": 8,
+      "we_last_author_count": 13,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Chytra Pawashe",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 13,
+      "student_first_author_count": 2,
+      "we_last_author_count": 11,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Sehyuk Yim",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 7,
+      "we_last_author_count": 7,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Lindsey L. Hines",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Veaceslav Arabagi",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Joshua Giltinan",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Ozgur Unver",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Mehmet Turan",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Onder Erin",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Michael P. Murphy",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Islam S. M. Khalil",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Hyun Soo Park",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Donghoon Son",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Yun Seong Song",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Cagdas D. Onal",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Xiaoguang Dong",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Mehmet Efe Tiryaki",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Sinan Özgün Demir",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Zhou Ye",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Guo Zhan Lum",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Chong Hong",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Matthew A. Woodward",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Amrinder S. Nain",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Ziyu Ren",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Tianlu Wang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Steve H. Suhr",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Bahareh Behkam",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Onur Özcan",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Casey Kute",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Muhammad Azhar",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "David Colmenares",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Shuhei Miyashita",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Wendong Wang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Yunus Alapan",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Immihan Ceren Yasa",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "HyunGyu Kim",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1998,
+      2007
+    ],
+    "early_mean_n_authors": 3.21,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.3
+  },
+  "citation_half_life_years": 14,
+  "bursts": {
+    "productivity": [
+      2011
+    ],
+    "impact": [
+      2012
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2017,
+      "venue": "Sci-Rob",
+      "title": "Biohybrid actuators for robotics: A review of devices actuated by living cells",
+      "cites": 511,
+      "n_authors": 9,
+      "role": "middle",
+      "concepts": [
+        "Interfacing",
+        "Bottleneck",
+        "Exploit",
+        "Computer science",
+        "Actuator"
+      ],
+      "doi": "10.1126/scirobotics.aaq0495",
+      "coauthors": [
+        "Barry Trimmer",
+        "Adam W. Feinberg",
+        "Ritu Raman",
+        "Kevin Kit Parker",
+        "Rashid Bashir",
+        "Sylvain Martel",
+        "Paolo Dario",
+        "Arianna Menciassi"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "Sci-Rob",
+      "title": "Soft erythrocyte-based bacterial microswimmers for cargo delivery",
+      "cites": 413,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Nanotechnology",
+        "Chemistry",
+        "Biophysics",
+        "Biology",
+        "Materials science"
+      ],
+      "doi": "10.1126/scirobotics.aar4423",
+      "coauthors": [
+        "Oncay Yasa",
+        "Oliver Schauer",
+        "Joshua Giltinan",
+        "Ahmet Fatih Tabak",
+        "Victor Sourjik"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "T-RO",
+      "title": "Design and Rolling Locomotion of a Magnetically Actuated Soft Capsule Endoscope",
+      "cites": 391,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Torque",
+        "Robot",
+        "Magnet",
+        "Position (finance)",
+        "Engineering"
+      ],
+      "doi": "10.1109/tro.2011.2163861",
+      "coauthors": [
+        "Sehyuk Yim"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Multifunctional surface microrollers for targeted cargo delivery in physiological blood flow",
+      "cites": 386,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Drug delivery",
+        "Upstream (networking)",
+        "Targeted drug delivery",
+        "Propulsion",
+        "Nanotechnology"
+      ],
+      "doi": "10.1126/scirobotics.aba5726",
+      "coauthors": [
+        "Yunus Alapan",
+        "Ugur Bozuyuk",
+        "Pelin Erkoc",
+        "Alp Can Karacakol"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IJRR",
+      "title": "Modeling and Experimental Characterization of an Untethered Magnetic Micro-Robot",
+      "cites": 316,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Electromagnet",
+        "Robot",
+        "Magnet",
+        "Torque",
+        "Engineering"
+      ],
+      "doi": "10.1177/0278364909341413",
+      "coauthors": [
+        "Chytra Pawashe",
+        "Steven Floyd"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "T-Mech",
+      "title": "Controlled pushing of nanoparticles: modeling and experiments",
+      "cites": 297,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Nanometre",
+        "Particle (ecology)",
+        "Nanotechnology",
+        "Atomic force microscopy",
+        "Substrate (aquarium)"
+      ],
+      "doi": "10.1109/3516.847093",
+      "coauthors": [
+        "Hideki Hashimoto"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "Sci-Rob",
+      "title": "Voxelated three-dimensional miniature magnetic soft machines via multimaterial heterogeneous assembly",
+      "cites": 284,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Nanotechnology",
+        "Materials science",
+        "Computer science"
+      ],
+      "doi": "10.1126/scirobotics.abf0112",
+      "coauthors": [
+        "Jiachen Zhang",
+        "Ziyu Ren",
+        "Wenqi Hu",
+        "Ren Hao Soon",
+        "Immihan Ceren Yasa",
+        "Zemin Liu"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-Mech",
+      "title": "Waalbot: An Agile Small-Scale Wall-Climbing Robot Utilizing Dry Elastomer Adhesives",
+      "cites": 262,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Climb",
+        "Robot",
+        "Miniaturization",
+        "Elastomer",
+        "Computer science"
+      ],
+      "doi": "10.1109/tmech.2007.897277",
+      "coauthors": [
+        "Michael Murphy"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IJRR",
+      "title": "Independent control of multiple magnetic microrobots in three dimensions",
+      "cites": 258,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Microscale chemistry",
+        "Workspace",
+        "Robotics",
+        "Magnetic field",
+        "Motion control"
+      ],
+      "doi": "10.1177/0278364913483183",
+      "coauthors": [
+        "Eric D. Diller",
+        "Joshua Giltinan"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "IJRR",
+      "title": "Waalbot II: Adhesion Recovery and Improved Performance of a Climbing Robot using Fibrillar Adhesives",
+      "cites": 240,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Climb",
+        "Climbing",
+        "Robot",
+        "Payload (computing)",
+        "Motion planning"
+      ],
+      "doi": "10.1177/0278364910382862",
+      "coauthors": [
+        "Michael P. Murphy",
+        "Casey Kute",
+        "Yigit Mengüç"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Metin Sitti: 28년에 걸쳐 151편, 총 11,025회 인용, h=58, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "1998년 \"Tele-nanorobotics using atomic force microscope\"으로 출발. 첫 500+ 인용 논문까지 19년 걸림: \"Biohybrid actuators for robotics: A review of devices actuated by living cells\" (2017, 511회).",
+        "초기 토픽: Teleoperation, Haptic technology, Cantilever. 최근 토픽: Robot, Computer science, Magnetic resonance imaging. 피벗 점수 0.34 → 점진적 이동형.",
+        "저자수 평균: 초기 3.2명 → 후기 5.3명 (팀 확장).",
+        "최다 인용 논문 \"Biohybrid actuators for robotics: A review of devices actuated by living cells\" (2017, 511회) — 커리어 후기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Hideki Hashimoto, Ronald S. Fearing. 제자 후보 추정 37명 — 상위: Steven Floyd(2006~, 우리 마지막저자 15편), Eric D. Diller(2008~, 우리 마지막저자 13편), Chytra Pawashe(2006~, 우리 마지막저자 11편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "37명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Hideki Hashimoto — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Metin Sitti: over 28 years, 151 papers, 11,025 total cites, h=58, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1998 with \"Tele-nanorobotics using atomic force microscope\". First 500+ cite paper came 19 years in: \"Biohybrid actuators for robotics: A review of devices actuated by living cells\" (2017, 511 cites).",
+        "Early topics: Teleoperation, Haptic technology, Cantilever. Recent topics: Robot, Computer science, Magnetic resonance imaging. Pivot score 0.34 → gradual shift.",
+        "Authors per paper: early 3.2 → late 5.3 (team growth).",
+        "Peak paper \"Biohybrid actuators for robotics: A review of devices actuated by living cells\" (2017, 511 cites) — fell in late career.",
+        "Likely advisor(s) (first-5y first-author pattern): Hideki Hashimoto, Ronald S. Fearing. 37 likely students — top: Steven Floyd(2006~, we last-author on 15), Eric D. Diller(2008~, we last-author on 13), Chytra Pawashe(2006~, we last-author on 11)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "37 likely students — mentoring is the real impact.",
+        "Likely advisor: Hideki Hashimoto — started within their PhD network."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1117 @@
+{
+  "name": "Henrik I. Christensen",
+  "slug": "henrik-i-christensen",
+  "career_stats": {
+    "first_year": 1996,
+    "last_year": 2025,
+    "span": 30,
+    "total_papers": 118,
+    "total_cites": 5714,
+    "h_index": 40,
+    "i10_index": 91,
+    "seminal_count": 2,
+    "max_cites_single_paper": 714
+  },
+  "role_distribution": {
+    "last": 89,
+    "middle": 28,
+    "first": 1
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1996,
+      "title": "A system for active vision driven robotics"
+    },
+    "first_100cite": {
+      "year": 2003,
+      "title": "Automatic grasp planning using shape primitives",
+      "cites": 714,
+      "gap_from_first": 7
+    },
+    "first_500cite": {
+      "year": 2003,
+      "title": "Automatic grasp planning using shape primitives",
+      "cites": 714,
+      "gap_from_first": 7
+    },
+    "peak_paper": {
+      "year": 2003,
+      "title": "Automatic grasp planning using shape primitives",
+      "cites": 714
+    }
+  },
+  "year_series": {
+    "1996": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "1997": {
+      "n": 2,
+      "cites": 20,
+      "max_cites": 14
+    },
+    "1998": {
+      "n": 1,
+      "cites": 41,
+      "max_cites": 41
+    },
+    "1999": {
+      "n": 5,
+      "cites": 205,
+      "max_cites": 73
+    },
+    "2000": {
+      "n": 4,
+      "cites": 116,
+      "max_cites": 74
+    },
+    "2001": {
+      "n": 1,
+      "cites": 26,
+      "max_cites": 26
+    },
+    "2002": {
+      "n": 4,
+      "cites": 96,
+      "max_cites": 45
+    },
+    "2003": {
+      "n": 10,
+      "cites": 956,
+      "max_cites": 714
+    },
+    "2004": {
+      "n": 9,
+      "cites": 601,
+      "max_cites": 167
+    },
+    "2005": {
+      "n": 3,
+      "cites": 264,
+      "max_cites": 126
+    },
+    "2006": {
+      "n": 8,
+      "cites": 377,
+      "max_cites": 126
+    },
+    "2007": {
+      "n": 4,
+      "cites": 147,
+      "max_cites": 69
+    },
+    "2008": {
+      "n": 3,
+      "cites": 122,
+      "max_cites": 82
+    },
+    "2009": {
+      "n": 8,
+      "cites": 217,
+      "max_cites": 124
+    },
+    "2010": {
+      "n": 2,
+      "cites": 111,
+      "max_cites": 95
+    },
+    "2011": {
+      "n": 1,
+      "cites": 31,
+      "max_cites": 31
+    },
+    "2012": {
+      "n": 6,
+      "cites": 456,
+      "max_cites": 129
+    },
+    "2013": {
+      "n": 5,
+      "cites": 334,
+      "max_cites": 115
+    },
+    "2014": {
+      "n": 6,
+      "cites": 285,
+      "max_cites": 74
+    },
+    "2015": {
+      "n": 5,
+      "cites": 147,
+      "max_cites": 44
+    },
+    "2016": {
+      "n": 6,
+      "cites": 103,
+      "max_cites": 49
+    },
+    "2017": {
+      "n": 2,
+      "cites": 225,
+      "max_cites": 135
+    },
+    "2018": {
+      "n": 1,
+      "cites": 9,
+      "max_cites": 9
+    },
+    "2019": {
+      "n": 6,
+      "cites": 107,
+      "max_cites": 36
+    },
+    "2020": {
+      "n": 3,
+      "cites": 567,
+      "max_cites": 564
+    },
+    "2021": {
+      "n": 1,
+      "cites": 10,
+      "max_cites": 10
+    },
+    "2022": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "2023": {
+      "n": 1,
+      "cites": 3,
+      "max_cites": 3
+    },
+    "2024": {
+      "n": 5,
+      "cites": 123,
+      "max_cites": 111
+    },
+    "2025": {
+      "n": 4,
+      "cites": 6,
+      "max_cites": 4
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.185
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.077
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.077
+        },
+        {
+          "c": "Robot",
+          "w": 0.062
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.062
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 27,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.192
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.077
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.062
+        },
+        {
+          "c": "Visual servoing",
+          "w": 0.054
+        },
+        {
+          "c": "Robot",
+          "w": 0.046
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.192
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.088
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.056
+        },
+        {
+          "c": "Robot",
+          "w": 0.056
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 23,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.174
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.087
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.078
+        },
+        {
+          "c": "Robot",
+          "w": 0.078
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.189
+        },
+        {
+          "c": "Robot",
+          "w": 0.111
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.033
+        },
+        {
+          "c": "Robotics",
+          "w": 0.033
+        },
+        {
+          "c": "Calibration",
+          "w": 0.011
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.211
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.158
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.07
+        },
+        {
+          "c": "Computer graphics (images)",
+          "w": 0.053
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.035
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 4,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "ICRA": 16,
+        "IROS": 9,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "IROS": 15,
+        "ICRA": 6,
+        "T-RO": 4
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 9,
+        "IJRR": 3
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "IROS": 9,
+        "ICRA": 5,
+        "Sci-Rob": 2,
+        "IJRR": 1,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 3,
+        "RSS": 1,
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 2.77,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Patric Jensfelt",
+          3
+        ],
+        [
+          "Danica Kragic",
+          3
+        ],
+        [
+          "Jeffrey A. Fayman",
+          2
+        ],
+        [
+          "Edward W. Large",
+          2
+        ],
+        [
+          "Ruzena Bajcsy",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 3,
+      "unique_coauthors": 31,
+      "top_coauthors": [
+        [
+          "Danica Kragic",
+          11
+        ],
+        [
+          "John Folkesson",
+          5
+        ],
+        [
+          "Philipp Althaus",
+          4
+        ],
+        [
+          "Patric Jensfelt",
+          4
+        ],
+        [
+          "Andrew T. Miller",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 2.92,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Patric Jensfelt",
+          7
+        ],
+        [
+          "Elin Anna Topp",
+          5
+        ],
+        [
+          "Christian Smith",
+          5
+        ],
+        [
+          "Andrzej Pronobis",
+          3
+        ],
+        [
+          "Barbara Caputo",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 3.17,
+      "unique_coauthors": 30,
+      "top_coauthors": [
+        [
+          "Changhyun Choi",
+          7
+        ],
+        [
+          "John G. Rogers III",
+          5
+        ],
+        [
+          "Alexander J. B. Trevor",
+          4
+        ],
+        [
+          "Siddharth Choudhary",
+          3
+        ],
+        [
+          "Frank Dellaert",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 5.33,
+      "unique_coauthors": 59,
+      "top_coauthors": [
+        [
+          "Carlos Nieto-Granda",
+          4
+        ],
+        [
+          "Siddharth Choudhary",
+          3
+        ],
+        [
+          "John G. Rogers III",
+          3
+        ],
+        [
+          "Ruffin White",
+          3
+        ],
+        [
+          "Luca Carlone",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 28.67,
+      "unique_coauthors": 315,
+      "top_coauthors": [
+        [
+          "David Paz",
+          5
+        ],
+        [
+          "Jiaming Hu",
+          3
+        ],
+        [
+          "Hengyuan Zhang",
+          2
+        ],
+        [
+          "Yuliang Guo",
+          2
+        ],
+        [
+          "Xinyu Huang",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.185,
+  "top_repeat_coauthors": [
+    {
+      "name": "Danica Kragic",
+      "count": 15,
+      "first_year": 1999,
+      "last_year": 2020
+    },
+    {
+      "name": "Patric Jensfelt",
+      "count": 14,
+      "first_year": 1998,
+      "last_year": 2008
+    },
+    {
+      "name": "Changhyun Choi",
+      "count": 9,
+      "first_year": 2009,
+      "last_year": 2015
+    },
+    {
+      "name": "John G. Rogers III",
+      "count": 8,
+      "first_year": 2012,
+      "last_year": 2019
+    },
+    {
+      "name": "John Folkesson",
+      "count": 7,
+      "first_year": 2003,
+      "last_year": 2007
+    },
+    {
+      "name": "Elin Anna Topp",
+      "count": 7,
+      "first_year": 2004,
+      "last_year": 2010
+    },
+    {
+      "name": "David Paz",
+      "count": 7,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Siddharth Choudhary",
+      "count": 6,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Christian Smith",
+      "count": 5,
+      "first_year": 2006,
+      "last_year": 2009
+    },
+    {
+      "name": "Carlos Nieto-Granda",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "Frank Dellaert",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Philipp Althaus",
+      "count": 4,
+      "first_year": 2001,
+      "last_year": 2004
+    },
+    {
+      "name": "Alexander J. B. Trevor",
+      "count": 4,
+      "first_year": 2012,
+      "last_year": 2014
+    },
+    {
+      "name": "Andrzej Pronobis",
+      "count": 3,
+      "first_year": 2006,
+      "last_year": 2008
+    },
+    {
+      "name": "Barbara Caputo",
+      "count": 3,
+      "first_year": 2006,
+      "last_year": 2008
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Changhyun Choi",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 9,
+      "student_first_author_count": 8,
+      "we_last_author_count": 8,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "John Folkesson",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 6,
+      "we_last_author_count": 7,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Elin Anna Topp",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "David Paz",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Christian Smith",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "John G. Rogers III",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Philipp Althaus",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Jiaming Hu",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alexander J. B. Trevor",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Andrzej Pronobis",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Ville Kyrki",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Geunho Lee",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Akansel Cosgun",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Mattias Bratt",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Siddharth Choudhary",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 1,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Ruffin White",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Jonathan Scholz",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Hengyuan Zhang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1996,
+      2005
+    ],
+    "early_mean_n_authors": 2.92,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 14.67
+  },
+  "citation_half_life_years": 18.0,
+  "bursts": {
+    "productivity": [
+      2003
+    ],
+    "impact": [
+      2003
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2003,
+      "venue": "ICRA",
+      "title": "Automatic grasp planning using shape primitives",
+      "cites": 714,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "GRASP",
+        "Reachability",
+        "Object (grammar)",
+        "Computer science",
+        "Set (abstract data type)"
+      ],
+      "doi": "10.1109/robot.2003.1241860",
+      "coauthors": [
+        "Andrew T. Miller",
+        "Steffen Knoop",
+        "Peter K. Allen"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Combating COVID-19 - The role of robotics in managing public health and infectious diseases",
+      "cites": 564,
+      "n_authors": 13,
+      "role": "middle",
+      "concepts": [
+        "Coronavirus disease 2019 (COVID-19)",
+        "2019-20 coronavirus outbreak",
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "Public health",
+        "Robotics"
+      ],
+      "doi": "10.1126/scirobotics.abb5589",
+      "coauthors": [
+        "Guang-Zhong Yang",
+        "Bradley J. Nelson",
+        "Robin R. Murphy",
+        "Howie Choset",
+        "Steven H. Collins",
+        "Paolo Dario",
+        "Ken Goldberg",
+        "Koji Ikuta",
+        "Neil Jacobstein",
+        "Danica Kragic",
+        "Russell H. Taylor",
+        "Marcia McNutt"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "ICRA",
+      "title": "Graphical SLAM - a Self-correcting Map",
+      "cites": 167,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Global Map",
+        "Robustness (evolution)",
+        "Computer science",
+        "Graph"
+      ],
+      "doi": "10.1109/robot.2004.1307180",
+      "coauthors": [
+        "John Folkesson"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "ICRA",
+      "title": "Navigation for Human-Robot Interaction Tasks",
+      "cites": 145,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Mobile robot navigation",
+        "Human–computer interaction",
+        "Computer science",
+        "Mobile robot"
+      ],
+      "doi": "10.1109/robot.2004.1308100",
+      "coauthors": [
+        "Philipp Althaus",
+        "Hiroshi Ishiguro",
+        "Takayuki Kanda",
+        "Takahiro Miyashita"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IJRR",
+      "title": "Distributed mapping with privacy and communication constraints: Lightweight algorithms and object-based models",
+      "cites": 135,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "Distributed computing",
+        "Distributed algorithm",
+        "Algorithm"
+      ],
+      "doi": "10.1177/0278364917732640",
+      "coauthors": [
+        "Siddharth Choudhary",
+        "Luca Carlone",
+        "Carlos Nieto-Granda",
+        "John G. Rogers III",
+        "Frank Dellaert"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "Planar surface SLAM with 3D and 2D sensors",
+      "cites": 129,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Planar",
+        "Point cloud",
+        "Simultaneous localization and mapping",
+        "Computer vision",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2012.6225287",
+      "coauthors": [
+        "Alexander J. B. Trevor",
+        "John G. Rogers III"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "ICRA",
+      "title": "2D Mapping of Cluttered Indoor Environments by Means of 3D Perception",
+      "cites": 128,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Odometry",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Simultaneous localization and mapping"
+      ],
+      "doi": "10.1109/robot.2004.1308934",
+      "coauthors": [
+        "Oliver Wulf",
+        "Kai Oliver Arras",
+        "Bernardo Wagner"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "IROS",
+      "title": "Tracking for following and passing persons",
+      "cites": 126,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Context (archaeology)",
+        "Tracking (education)",
+        "Human–robot interaction",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/iros.2005.1544961",
+      "coauthors": [
+        "Elin Anna Topp"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "A Discriminative Approach to Robust Visual Place Recognition",
+      "cites": 126,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Discriminative model",
+        "Mobile robot",
+        "Computer vision"
+      ],
+      "doi": "10.1109/iros.2006.281789",
+      "coauthors": [
+        "Andrzej Pronobis",
+        "Barbara Caputo",
+        "Patric Jensfelt"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IROS",
+      "title": "Visual Place Categorization: Problem, dataset, and algorithm",
+      "cites": 124,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Categorization",
+        "Artificial intelligence",
+        "Histogram",
+        "Key (lock)"
+      ],
+      "doi": "10.1109/iros.2009.5354164",
+      "coauthors": [
+        "Jianxin Wu",
+        "James M. Rehg"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Henrik I. Christensen: 30년에 걸쳐 118편, 총 5,714회 인용, h=40, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1996년 \"A system for active vision driven robotics\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"Automatic grasp planning using shape primitives\" (2003, 714회).",
+        "초기 토픽: Computer science, Artificial intelligence, Computer vision. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.18 → 토픽 지속형.",
+        "저자수 평균: 초기 2.9명 → 후기 14.7명 (팀 확장).",
+        "최다 인용 논문 \"Automatic grasp planning using shape primitives\" (2003, 714회) — 커리어 초기에 위치.",
+        "제자 후보 추정 18명 — 상위: Changhyun Choi(2008~, 우리 마지막저자 8편), John Folkesson(2003~, 우리 마지막저자 7편), Elin Anna Topp(2004~, 우리 마지막저자 5편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "18명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Henrik I. Christensen: over 30 years, 118 papers, 5,714 total cites, h=40, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1996 with \"A system for active vision driven robotics\". First 500+ cite paper came 7 years in: \"Automatic grasp planning using shape primitives\" (2003, 714 cites).",
+        "Early topics: Computer science, Artificial intelligence, Computer vision. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.18 → topic-stable.",
+        "Authors per paper: early 2.9 → late 14.7 (team growth).",
+        "Peak paper \"Automatic grasp planning using shape primitives\" (2003, 714 cites) — fell in early career.",
+        "18 likely students — top: Changhyun Choi(2008~, we last-author on 8), John Folkesson(2003~, we last-author on 7), Elin Anna Topp(2004~, we last-author on 5)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "18 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

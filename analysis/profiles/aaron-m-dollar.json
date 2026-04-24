@@ -1,0 +1,1031 @@
+{
+  "name": "Aaron M. Dollar",
+  "slug": "aaron-m-dollar",
+  "career_stats": {
+    "first_year": 2003,
+    "last_year": 2025,
+    "span": 23,
+    "total_papers": 110,
+    "total_cites": 6633,
+    "h_index": 36,
+    "i10_index": 68,
+    "seminal_count": 3,
+    "max_cites_single_paper": 1284
+  },
+  "role_distribution": {
+    "first": 8,
+    "last": 91,
+    "middle": 11
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2003,
+      "title": "Towards grasping in unstructured environments: optimization of grasper compliance and configuration"
+    },
+    "first_100cite": {
+      "year": 2006,
+      "title": "A robust compliant grasper via shape deposition manufacturing",
+      "cites": 232,
+      "gap_from_first": 3
+    },
+    "first_500cite": {
+      "year": 2008,
+      "title": "Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art",
+      "cites": 1284,
+      "gap_from_first": 5
+    },
+    "first_1000cite": {
+      "year": 2008,
+      "title": "Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art",
+      "cites": 1284,
+      "gap_from_first": 5
+    },
+    "peak_paper": {
+      "year": 2008,
+      "title": "Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art",
+      "cites": 1284
+    }
+  },
+  "year_series": {
+    "2003": {
+      "n": 1,
+      "cites": 11,
+      "max_cites": 11
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 1,
+      "cites": 232,
+      "max_cites": 232
+    },
+    "2007": {
+      "n": 1,
+      "cites": 88,
+      "max_cites": 88
+    },
+    "2008": {
+      "n": 2,
+      "cites": 1410,
+      "max_cites": 1284
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 3,
+      "cites": 623,
+      "max_cites": 520
+    },
+    "2011": {
+      "n": 11,
+      "cites": 826,
+      "max_cites": 322
+    },
+    "2012": {
+      "n": 7,
+      "cites": 185,
+      "max_cites": 79
+    },
+    "2013": {
+      "n": 5,
+      "cites": 340,
+      "max_cites": 252
+    },
+    "2014": {
+      "n": 11,
+      "cites": 827,
+      "max_cites": 593
+    },
+    "2015": {
+      "n": 8,
+      "cites": 292,
+      "max_cites": 106
+    },
+    "2016": {
+      "n": 7,
+      "cites": 276,
+      "max_cites": 118
+    },
+    "2017": {
+      "n": 11,
+      "cites": 599,
+      "max_cites": 369
+    },
+    "2018": {
+      "n": 3,
+      "cites": 112,
+      "max_cites": 90
+    },
+    "2019": {
+      "n": 11,
+      "cites": 426,
+      "max_cites": 142
+    },
+    "2020": {
+      "n": 6,
+      "cites": 89,
+      "max_cites": 32
+    },
+    "2021": {
+      "n": 7,
+      "cites": 176,
+      "max_cites": 58
+    },
+    "2022": {
+      "n": 3,
+      "cites": 83,
+      "max_cites": 71
+    },
+    "2023": {
+      "n": 3,
+      "cites": 22,
+      "max_cites": 10
+    },
+    "2024": {
+      "n": 4,
+      "cites": 11,
+      "max_cites": 5
+    },
+    "2025": {
+      "n": 5,
+      "cites": 5,
+      "max_cites": 5
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.133
+        },
+        {
+          "c": "Actuator",
+          "w": 0.133
+        },
+        {
+          "c": "Revolute joint",
+          "w": 0.067
+        },
+        {
+          "c": "Workspace",
+          "w": 0.067
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 23,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.13
+        },
+        {
+          "c": "Underactuation",
+          "w": 0.096
+        },
+        {
+          "c": "GRASP",
+          "w": 0.07
+        },
+        {
+          "c": "Actuator",
+          "w": 0.061
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 42,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.148
+        },
+        {
+          "c": "Underactuation",
+          "w": 0.062
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.057
+        },
+        {
+          "c": "GRASP",
+          "w": 0.048
+        },
+        {
+          "c": "Workspace",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 30,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.156
+        },
+        {
+          "c": "GRASP",
+          "w": 0.082
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.075
+        },
+        {
+          "c": "Underactuation",
+          "w": 0.075
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.054
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.05
+        },
+        {
+          "c": "Underactuation",
+          "w": 0.033
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.033
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "IROS": 1,
+        "T-Mech": 1,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 8,
+        "T-RO": 2,
+        "IJRR": 2,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 16,
+        "IROS": 12,
+        "IJRR": 6,
+        "T-RO": 5,
+        "RA-L": 2,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "RA-L": 10,
+        "ICRA": 9,
+        "IROS": 3,
+        "T-RO": 3,
+        "Sci-Rob": 3,
+        "IJRR": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 4,
+        "Sci-Rob": 1,
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 2,
+      "unique_coauthors": 1,
+      "top_coauthors": [
+        [
+          "Robert D. Howe",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 2.35,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Lael Odhner",
+          7
+        ],
+        [
+          "Ravi Balasubramanian",
+          4
+        ],
+        [
+          "Paul E. I. Pounds",
+          3
+        ],
+        [
+          "Hugh M. Herr",
+          2
+        ],
+        [
+          "Robert D. Howe",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 3,
+      "unique_coauthors": 45,
+      "top_coauthors": [
+        [
+          "Ian M. Bullock",
+          5
+        ],
+        [
+          "Nicolas Rojas",
+          5
+        ],
+        [
+          "John P. Swensen",
+          5
+        ],
+        [
+          "Ahsan I. Nawroj",
+          5
+        ],
+        [
+          "Raymond R. Ma",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 3.7,
+      "unique_coauthors": 35,
+      "top_coauthors": [
+        [
+          "Andrew S. Morgan",
+          17
+        ],
+        [
+          "Walter G. Bircher",
+          10
+        ],
+        [
+          "Kaiyu Hang",
+          9
+        ],
+        [
+          "Berk Çalli",
+          5
+        ],
+        [
+          "Adam J. Spiers",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 4.83,
+      "unique_coauthors": 26,
+      "top_coauthors": [
+        [
+          "Podshara Chanrungmaneekul",
+          5
+        ],
+        [
+          "Joshua T. Grace",
+          5
+        ],
+        [
+          "Kaiyu Hang",
+          5
+        ],
+        [
+          "Vatsal V. Patel",
+          2
+        ],
+        [
+          "Kejia Ren",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.252,
+  "top_repeat_coauthors": [
+    {
+      "name": "Andrew S. Morgan",
+      "count": 18,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Kaiyu Hang",
+      "count": 14,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Walter G. Bircher",
+      "count": 12,
+      "first_year": 2017,
+      "last_year": 2021
+    },
+    {
+      "name": "Lael Odhner",
+      "count": 11,
+      "first_year": 2010,
+      "last_year": 2014
+    },
+    {
+      "name": "Berk Çalli",
+      "count": 9,
+      "first_year": 2015,
+      "last_year": 2021
+    },
+    {
+      "name": "Robert D. Howe",
+      "count": 7,
+      "first_year": 2003,
+      "last_year": 2014
+    },
+    {
+      "name": "Raymond R. Ma",
+      "count": 7,
+      "first_year": 2012,
+      "last_year": 2019
+    },
+    {
+      "name": "Paul E. I. Pounds",
+      "count": 5,
+      "first_year": 2011,
+      "last_year": 2014
+    },
+    {
+      "name": "Ian M. Bullock",
+      "count": 5,
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "name": "Nicolas Rojas",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "John P. Swensen",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Ahsan I. Nawroj",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Adam J. Spiers",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2019
+    },
+    {
+      "name": "Podshara Chanrungmaneekul",
+      "count": 5,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Joshua T. Grace",
+      "count": 5,
+      "first_year": 2023,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Robert D. Howe",
+      "advisor_active_from": 1988,
+      "early_copubs_as_our_first_author": 3,
+      "advisor_last_author_count": 3,
+      "total_copubs": 7
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Andrew S. Morgan",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 18,
+      "total_copubs": 18,
+      "student_first_author_count": 9,
+      "we_last_author_count": 15,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Walter G. Bircher",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 4,
+      "we_last_author_count": 11,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Raymond R. Ma",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Ian M. Bullock",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Paul E. I. Pounds",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Ahsan I. Nawroj",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Adam J. Spiers",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Nicolas Rojas",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Vatsal V. Patel",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Joseph T. Belter",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Spencer B. Backus",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Podshara Chanrungmaneekul",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Joshua T. Grace",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Júlia Borràs Sol",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Oren Y. Kanner",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Neil M. Bajaj",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Michael T. Leddy",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Seonghoon Noh",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Adam Seewald",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2003,
+      2012
+    ],
+    "early_mean_n_authors": 2.31,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.63
+  },
+  "citation_half_life_years": 14,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2008
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art",
+      "cites": 1284,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Exoskeleton",
+        "Computer science",
+        "Field (mathematics)",
+        "Engineering",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/tro.2008.915453",
+      "coauthors": [
+        "Hugh M. Herr"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IJRR",
+      "title": "A compliant, underactuated hand for robust manipulation",
+      "cites": 593,
+      "n_authors": 10,
+      "role": "last",
+      "concepts": [
+        "Underactuation",
+        "Actuator",
+        "Computer science",
+        "Robotic hand",
+        "Set (abstract data type)"
+      ],
+      "doi": "10.1177/0278364913514466",
+      "coauthors": [
+        "Lael Odhner",
+        "Leif P. Jentoft",
+        "Mark R. Claffee",
+        "Nicholas Corson",
+        "Yaroslav Tenzer",
+        "Raymond R. Ma",
+        "Martin Buehler",
+        "Robert Kohout",
+        "Robert D. Howe"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IJRR",
+      "title": "The Highly Adaptive SDM Hand: Design and Performance Evaluation",
+      "cites": 520,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "GRASP",
+        "Workspace",
+        "Robustness (evolution)",
+        "Computer science",
+        "Actuator"
+      ],
+      "doi": "10.1177/0278364909360852",
+      "coauthors": [
+        "Robert D. Howe"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IJRR",
+      "title": "Yale-CMU-Berkeley dataset for robotic manipulation research",
+      "cites": 369,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Python (programming language)",
+        "Point cloud",
+        "Computer vision"
+      ],
+      "doi": "10.1177/0278364917700714",
+      "coauthors": [
+        "Berk Çalli",
+        "Arjun Singh",
+        "James Bruce",
+        "Aaron Walsman",
+        "Kurt Konolige",
+        "Siddhartha S. Srinivasa",
+        "Pieter Abbeel"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "Grasping from the air: Hovering capture and load stability",
+      "cites": 322,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Testbed",
+        "Computer science",
+        "Object (grammar)",
+        "Inertia",
+        "Transient (computer programming)"
+      ],
+      "doi": "10.1109/icra.2011.5980314",
+      "coauthors": [
+        "Paul E. I. Pounds",
+        "Daniel R. Bersak"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "A modular, open-source 3D printed underactuated hand",
+      "cites": 252,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Modular design",
+        "Underactuation",
+        "Computer science",
+        "3d printed",
+        "3D printing"
+      ],
+      "doi": "10.1109/icra.2013.6630954",
+      "coauthors": [
+        "Raymond R. Ma",
+        "Lael Odhner"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "T-Mech",
+      "title": "A robust compliant grasper via shape deposition manufacturing",
+      "cites": 232,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Robustness (evolution)",
+        "Actuator",
+        "Robot",
+        "Fabrication",
+        "Contact force"
+      ],
+      "doi": "10.1109/tmech.2006.871090",
+      "coauthors": [
+        "Robert D. Howe"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "An investigation of grasp type and frequency in daily household and machine shop tasks",
+      "cites": 155,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Task (project management)",
+        "Computer science",
+        "Object (grammar)",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/icra.2011.5980366",
+      "coauthors": [
+        "Joshua Z. Zheng",
+        "Sara De La Rosa"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "T-RO",
+      "title": "State of the Art in Artificial Wrists: A Review of Prosthetic and Robotic Wrist Design",
+      "cites": 142,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Wrist",
+        "Grippers",
+        "Kinematics",
+        "Robot end effector",
+        "Engineering"
+      ],
+      "doi": "10.1109/tro.2018.2865890",
+      "coauthors": [
+        "Neil M. Bajaj",
+        "Adam J. Spiers"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "Perching and resting - A paradigm for UAV maneuvering with modularized landing gears",
+      "cites": 130,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Range (aeronautics)",
+        "Rest (music)",
+        "Computer science",
+        "Engineering",
+        "Aerospace engineering"
+      ],
+      "doi": "10.1126/scirobotics.aau6637",
+      "coauthors": [
+        "Kaiyu Hang",
+        "Ximin Lyu",
+        "Haoran Song",
+        "Johannes A. Stork",
+        "Danica Kragic",
+        "Fu Zhang"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Aaron M. Dollar: 23년에 걸쳐 110편, 총 6,633회 인용, h=36, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "2003년 \"Towards grasping in unstructured environments: optimization of grasper compliance and configuration\"으로 출발. 첫 500+ 인용 논문까지 5년 걸림: \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284회). 1000+ 인용 논문: \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284회).",
+        "초기 토픽: Robustness (evolution), Actuator, Revolute joint. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.25 → 점진적 이동형.",
+        "저자수 평균: 초기 2.3명 → 후기 3.6명 (팀 확장).",
+        "최다 인용 논문 \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Robert D. Howe. 제자 후보 추정 19명 — 상위: Andrew S. Morgan(2018~, 우리 마지막저자 15편), Walter G. Bircher(2017~, 우리 마지막저자 11편), Raymond R. Ma(2012~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "초기 5년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "19명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Robert D. Howe — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Aaron M. Dollar: over 23 years, 110 papers, 6,633 total cites, h=36, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2003 with \"Towards grasping in unstructured environments: optimization of grasper compliance and configuration\". First 500+ cite paper came 5 years in: \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284 cites). 1000+ cite paper: \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284 cites).",
+        "Early topics: Robustness (evolution), Actuator, Revolute joint. Recent topics: Computer science, Robot, Artificial intelligence. Pivot score 0.25 → gradual shift.",
+        "Authors per paper: early 2.3 → late 3.6 (team growth).",
+        "Peak paper \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Robert D. Howe. 19 likely students — top: Andrew S. Morgan(2018~, we last-author on 15), Walter G. Bircher(2017~, we last-author on 11), Raymond R. Ma(2012~, we last-author on 6)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 5 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "19 likely students — mentoring is the real impact.",
+        "Likely advisor: Robert D. Howe — started within their PhD network."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1077 @@
+{
+  "name": "Michael Kaess",
+  "slug": "michael-kaess",
+  "career_stats": {
+    "first_year": 2002,
+    "last_year": 2025,
+    "span": 24,
+    "total_papers": 113,
+    "total_cites": 8595,
+    "h_index": 41,
+    "i10_index": 82,
+    "seminal_count": 3,
+    "max_cites_single_paper": 1308
+  },
+  "role_distribution": {
+    "middle": 43,
+    "first": 7,
+    "last": 63
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2002,
+      "title": "Learning Behavioral Parameterization using Spatio-Temporal Case-Based Reasoning"
+    },
+    "first_100cite": {
+      "year": 2006,
+      "title": "Square Root SAM: Simultaneous Localization and Mapping via Square Root Information Smoothing",
+      "cites": 914,
+      "gap_from_first": 4
+    },
+    "first_500cite": {
+      "year": 2006,
+      "title": "Square Root SAM: Simultaneous Localization and Mapping via Square Root Information Smoothing",
+      "cites": 914,
+      "gap_from_first": 4
+    },
+    "first_1000cite": {
+      "year": 2008,
+      "title": "iSAM: Incremental Smoothing and Mapping",
+      "cites": 1056,
+      "gap_from_first": 6
+    },
+    "peak_paper": {
+      "year": 2012,
+      "title": "iSAM2: Incremental smoothing and mapping using the Bayes tree",
+      "cites": 1308
+    }
+  },
+  "year_series": {
+    "2002": {
+      "n": 1,
+      "cites": 43,
+      "max_cites": 43
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 1,
+      "cites": 22,
+      "max_cites": 22
+    },
+    "2006": {
+      "n": 1,
+      "cites": 914,
+      "max_cites": 914
+    },
+    "2007": {
+      "n": 2,
+      "cites": 160,
+      "max_cites": 123
+    },
+    "2008": {
+      "n": 2,
+      "cites": 1064,
+      "max_cites": 1056
+    },
+    "2009": {
+      "n": 1,
+      "cites": 59,
+      "max_cites": 59
+    },
+    "2010": {
+      "n": 2,
+      "cites": 365,
+      "max_cites": 185
+    },
+    "2011": {
+      "n": 2,
+      "cites": 349,
+      "max_cites": 249
+    },
+    "2012": {
+      "n": 4,
+      "cites": 1780,
+      "max_cites": 1308
+    },
+    "2013": {
+      "n": 5,
+      "cites": 443,
+      "max_cites": 320
+    },
+    "2014": {
+      "n": 6,
+      "cites": 332,
+      "max_cites": 143
+    },
+    "2015": {
+      "n": 5,
+      "cites": 349,
+      "max_cites": 189
+    },
+    "2016": {
+      "n": 7,
+      "cites": 637,
+      "max_cites": 244
+    },
+    "2017": {
+      "n": 5,
+      "cites": 280,
+      "max_cites": 130
+    },
+    "2018": {
+      "n": 7,
+      "cites": 602,
+      "max_cites": 301
+    },
+    "2019": {
+      "n": 11,
+      "cites": 278,
+      "max_cites": 59
+    },
+    "2020": {
+      "n": 10,
+      "cites": 181,
+      "max_cites": 47
+    },
+    "2021": {
+      "n": 11,
+      "cites": 257,
+      "max_cites": 78
+    },
+    "2022": {
+      "n": 12,
+      "cites": 310,
+      "max_cites": 84
+    },
+    "2023": {
+      "n": 4,
+      "cites": 65,
+      "max_cites": 38
+    },
+    "2024": {
+      "n": 11,
+      "cites": 103,
+      "max_cites": 60
+    },
+    "2025": {
+      "n": 3,
+      "cites": 2,
+      "max_cites": 1
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.067
+        },
+        {
+          "c": "Process (computing)",
+          "w": 0.067
+        },
+        {
+          "c": "Set (abstract data type)",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.178
+        },
+        {
+          "c": "Smoothing",
+          "w": 0.111
+        },
+        {
+          "c": "Algorithm",
+          "w": 0.067
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Matrix decomposition",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 27,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.157
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.097
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.097
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.045
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.03
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 44,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.155
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.118
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.091
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.059
+        },
+        {
+          "c": "Sonar",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 30,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.193
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.117
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.097
+        },
+        {
+          "c": "Sonar",
+          "w": 0.041
+        },
+        {
+          "c": "Underwater",
+          "w": 0.028
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "ICRA": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "IROS": 10,
+        "ICRA": 9,
+        "IJRR": 5,
+        "T-RO": 2,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "ICRA": 19,
+        "IROS": 18,
+        "RA-L": 7
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 10,
+        "RA-L": 4,
+        "IJRR": 1,
+        "Sci-Rob": 1,
+        "RSS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 2.33,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Frank Dellaert",
+          2
+        ],
+        [
+          "Maxim Likhachev",
+          1
+        ],
+        [
+          "Ronald C. Arkin",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 4.33,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Frank Dellaert",
+          6
+        ],
+        [
+          "Ananth Ranganathan",
+          4
+        ],
+        [
+          "John J. Leonard",
+          4
+        ],
+        [
+          "Hordur Johannsson",
+          3
+        ],
+        [
+          "Richard Roberts",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 3.89,
+      "unique_coauthors": 38,
+      "top_coauthors": [
+        [
+          "John J. Leonard",
+          17
+        ],
+        [
+          "Hordur Johannsson",
+          7
+        ],
+        [
+          "Thomas Whelan",
+          4
+        ],
+        [
+          "Ryan M. Eustice",
+          3
+        ],
+        [
+          "David M. Rosen",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 3.66,
+      "unique_coauthors": 60,
+      "top_coauthors": [
+        [
+          "Joshua G. Mangelson",
+          9
+        ],
+        [
+          "Eric Westman",
+          8
+        ],
+        [
+          "Lipu Zhou",
+          8
+        ],
+        [
+          "Ming Hsiao",
+          6
+        ],
+        [
+          "Paloma Sodhi",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 4.47,
+      "unique_coauthors": 67,
+      "top_coauthors": [
+        [
+          "Joshua G. Mangelson",
+          6
+        ],
+        [
+          "Daniel McGann",
+          5
+        ],
+        [
+          "Mohamad Qadri",
+          5
+        ],
+        [
+          "Akshay Hinduja",
+          4
+        ],
+        [
+          "Easton R. Potokar",
+          4
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.24,
+  "top_repeat_coauthors": [
+    {
+      "name": "John J. Leonard",
+      "count": 23,
+      "first_year": 2010,
+      "last_year": 2019
+    },
+    {
+      "name": "Joshua G. Mangelson",
+      "count": 15,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Frank Dellaert",
+      "count": 11,
+      "first_year": 2005,
+      "last_year": 2022
+    },
+    {
+      "name": "Lipu Zhou",
+      "count": 11,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Hordur Johannsson",
+      "count": 10,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "Eric Westman",
+      "count": 8,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Paloma Sodhi",
+      "count": 8,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Ming Hsiao",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Akshay Hinduja",
+      "count": 6,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Wei Dong",
+      "count": 6,
+      "first_year": 2019,
+      "last_year": 2024
+    },
+    {
+      "name": "Sudharshan Suresh",
+      "count": 6,
+      "first_year": 2019,
+      "last_year": 2024
+    },
+    {
+      "name": "Sebastian A. Scherer",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Shengze Wang",
+      "count": 5,
+      "first_year": 2020,
+      "last_year": 2022
+    },
+    {
+      "name": "Daniel McGann",
+      "count": 5,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "Mohamad Qadri",
+      "count": 5,
+      "first_year": 2022,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Lipu Zhou",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 11,
+      "we_last_author_count": 11,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Eric Westman",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 8,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Paloma Sodhi",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Sudharshan Suresh",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Daniel McGann",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Mohamad Qadri",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ming Hsiao",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Akshay Hinduja",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Eric Dexheimer",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Bing-Jui Ho",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Easton R. Potokar",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Tianxiang Lin",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Tiffany A. Huang",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Matthew Klingensmith",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Zimo Li",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Yi Yang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Akash Sharma",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Ruoyang Xu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Pedro V. Teixeira",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Dehann Fourie",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Thomas Whelan",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "David M. Rosen",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Hordur Johannsson",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Maurice F. Fallon",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Brendon Forsgren",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2002,
+      2011
+    ],
+    "early_mean_n_authors": 3.83,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.91
+  },
+  "citation_half_life_years": 14,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2012
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "iSAM2: Incremental smoothing and mapping using the Bayes tree",
+      "cites": 1308,
+      "n_authors": 6,
+      "role": "first",
+      "concepts": [
+        "Bayes' theorem",
+        "Tree (set theory)",
+        "Computer science",
+        "Algorithm",
+        "Inference"
+      ],
+      "doi": "10.1177/0278364911430419",
+      "coauthors": [
+        "Hordur Johannsson",
+        "Richard Roberts",
+        "Viorela Ila",
+        "John J. Leonard",
+        "Frank Dellaert"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "iSAM: Incremental Smoothing and Mapping",
+      "cites": 1056,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Smoothing",
+        "Computer science",
+        "Matrix decomposition",
+        "Algorithm",
+        "Matrix (chemical analysis)"
+      ],
+      "doi": "10.1109/tro.2008.2006706",
+      "coauthors": [
+        "Ananth Ranganathan",
+        "Frank Dellaert"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Square Root SAM: Simultaneous Localization and Mapping via Square Root Information Smoothing",
+      "cites": 914,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Extended Kalman filter",
+        "Smoothing",
+        "Square root",
+        "Jacobian matrix and determinant"
+      ],
+      "doi": "10.1177/0278364906072768",
+      "coauthors": [
+        "Frank Dellaert"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "Robust real-time visual odometry for dense RGB-D mapping",
+      "cites": 320,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Visual odometry",
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "RGB color model"
+      ],
+      "doi": "10.1109/icra.2013.6631400",
+      "coauthors": [
+        "Thomas Whelan",
+        "Hordur Johannsson",
+        "John J. Leonard",
+        "John McDonald"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "IROS",
+      "title": "Automatic Extrinsic Calibration of a Camera and a 3D LiDAR Using Line and Plane Correspondences",
+      "cites": 301,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Lidar",
+        "Calibration",
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros.2018.8593660",
+      "coauthors": [
+        "Lipu Zhou",
+        "Zimo Li"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "iSAM2: Incremental smoothing and mapping with fluid relinearization and incremental variable reordering",
+      "cites": 249,
+      "n_authors": 6,
+      "role": "first",
+      "concepts": [
+        "Smoothing",
+        "Computer science",
+        "Algorithm",
+        "Variable (mathematics)",
+        "Sparse matrix"
+      ],
+      "doi": "10.1109/icra.2011.5979641",
+      "coauthors": [
+        "Hordur Johannsson",
+        "Richard Roberts",
+        "Viorela Ila",
+        "John J. Leonard",
+        "Frank Dellaert"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "Advanced perception, navigation and planning for autonomous in-water ship hull inspection",
+      "cites": 249,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Hull",
+        "Rudder",
+        "Marine engineering",
+        "Engineering",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1177/0278364912461059",
+      "coauthors": [
+        "Franz S. Hover",
+        "Ryan M. Eustice",
+        "Ayoung Kim",
+        "Brendan J. Englot",
+        "Hordur Johannsson",
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "ICRA",
+      "title": "On degeneracy of optimization-based state estimation problems",
+      "cites": 244,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Degeneracy (biology)",
+        "Robustness (evolution)",
+        "Degenerate energy levels",
+        "Computer science",
+        "Mathematical optimization"
+      ],
+      "doi": "10.1109/icra.2016.7487211",
+      "coauthors": [
+        "Ji Zhang",
+        "Sanjiv Singh"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Simultaneous localization and mapping with infinite planes",
+      "cites": 189,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Parametrization (atmospheric modeling)",
+        "Simple (philosophy)",
+        "Representation (politics)",
+        "Convergence (economics)",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2015.7139837",
+      "coauthors": []
+    },
+    {
+      "year": 2010,
+      "venue": "IROS",
+      "title": "Imaging sonar-aided navigation for autonomous underwater harbor surveillance",
+      "cites": 185,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Sonar",
+        "Beacon",
+        "Underwater",
+        "Computer science",
+        "Trajectory"
+      ],
+      "doi": "10.1109/iros.2010.5650831",
+      "coauthors": [
+        "Hordur Johannsson",
+        "Brendan J. Englot",
+        "Franz Hover",
+        "John J. Leonard"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Michael Kaess: 24년에 걸쳐 113편, 총 8,595회 인용, h=41, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "2002년 \"Learning Behavioral Parameterization using Spatio-Temporal Case-Based Reasoning\"으로 출발. 첫 500+ 인용 논문까지 4년 걸림: \"Square Root SAM: Simultaneous Localization and Mapping via Square Root Information Smoothing\" (2006, 914회). 1000+ 인용 논문: \"iSAM: Incremental Smoothing and Mapping\" (2008, 1,056회).",
+        "초기 토픽: Computer science, Robot, Artificial intelligence. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.24 → 토픽 지속형.",
+        "저자수 평균: 초기 3.8명 → 후기 3.9명 (팀 유지).",
+        "최다 인용 논문 \"iSAM2: Incremental smoothing and mapping using the Bayes tree\" (2012, 1,308회) — 커리어 중기에 위치.",
+        "제자 후보 추정 25명 — 상위: Lipu Zhou(2018~, 우리 마지막저자 11편), Eric Westman(2017~, 우리 마지막저자 8편), Paloma Sodhi(2017~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "초기 4년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "25명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Michael Kaess: over 24 years, 113 papers, 8,595 total cites, h=41, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2002 with \"Learning Behavioral Parameterization using Spatio-Temporal Case-Based Reasoning\". First 500+ cite paper came 4 years in: \"Square Root SAM: Simultaneous Localization and Mapping via Square Root Information Smoothing\" (2006, 914 cites). 1000+ cite paper: \"iSAM: Incremental Smoothing and Mapping\" (2008, 1,056 cites).",
+        "Early topics: Computer science, Robot, Artificial intelligence. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.24 → topic-stable.",
+        "Authors per paper: early 3.8 → late 3.9 (stable team).",
+        "Peak paper \"iSAM2: Incremental smoothing and mapping using the Bayes tree\" (2012, 1,308 cites) — fell in mid career.",
+        "25 likely students — top: Lipu Zhou(2018~, we last-author on 11), Eric Westman(2017~, we last-author on 8), Paloma Sodhi(2017~, we last-author on 6)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 4 years. First-5-year topic choice is decisive.",
+        "25 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

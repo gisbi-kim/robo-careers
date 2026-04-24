@@ -1,0 +1,1218 @@
+{
+  "name": "Jean-Jacques E. Slotine",
+  "slug": "jean-jacques-e-slotine",
+  "career_stats": {
+    "first_year": 1985,
+    "last_year": 2025,
+    "span": 41,
+    "total_papers": 58,
+    "total_cites": 4714,
+    "h_index": 29,
+    "i10_index": 41,
+    "seminal_count": 2,
+    "max_cites_single_paper": 549
+  },
+  "role_distribution": {
+    "first": 4,
+    "middle": 16,
+    "last": 38
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1985,
+      "title": "Robustness issues in robot control"
+    },
+    "first_100cite": {
+      "year": 1987,
+      "title": "Adaptive manipulator control a case study",
+      "cites": 201,
+      "gap_from_first": 2
+    },
+    "first_500cite": {
+      "year": 2004,
+      "title": "Telemanipulation with Time Delays",
+      "cites": 534,
+      "gap_from_first": 19
+    },
+    "peak_paper": {
+      "year": 2009,
+      "title": "Cooperative Robot Control and Concurrent Synchronization of Lagrangian Systems",
+      "cites": 549
+    }
+  },
+  "year_series": {
+    "1985": {
+      "n": 1,
+      "cites": 17,
+      "max_cites": 17
+    },
+    "1986": {
+      "n": 1,
+      "cites": 22,
+      "max_cites": 22
+    },
+    "1987": {
+      "n": 4,
+      "cites": 403,
+      "max_cites": 201
+    },
+    "1988": {
+      "n": 2,
+      "cites": 140,
+      "max_cites": 75
+    },
+    "1989": {
+      "n": 1,
+      "cites": 36,
+      "max_cites": 36
+    },
+    "1990": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1991": {
+      "n": 2,
+      "cites": 231,
+      "max_cites": 119
+    },
+    "1992": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1993": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1994": {
+      "n": 1,
+      "cites": 16,
+      "max_cites": 16
+    },
+    "1995": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1996": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1997": {
+      "n": 4,
+      "cites": 419,
+      "max_cites": 148
+    },
+    "1998": {
+      "n": 1,
+      "cites": 354,
+      "max_cites": 354
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 2,
+      "cites": 608,
+      "max_cites": 534
+    },
+    "2005": {
+      "n": 1,
+      "cites": 29,
+      "max_cites": 29
+    },
+    "2006": {
+      "n": 5,
+      "cites": 362,
+      "max_cites": 313
+    },
+    "2007": {
+      "n": 4,
+      "cites": 176,
+      "max_cites": 96
+    },
+    "2008": {
+      "n": 3,
+      "cites": 79,
+      "max_cites": 49
+    },
+    "2009": {
+      "n": 4,
+      "cites": 1071,
+      "max_cites": 549
+    },
+    "2010": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2011": {
+      "n": 1,
+      "cites": 134,
+      "max_cites": 134
+    },
+    "2012": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2013": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2014": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2015": {
+      "n": 1,
+      "cites": 8,
+      "max_cites": 8
+    },
+    "2016": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2017": {
+      "n": 3,
+      "cites": 193,
+      "max_cites": 182
+    },
+    "2018": {
+      "n": 4,
+      "cites": 138,
+      "max_cites": 126
+    },
+    "2019": {
+      "n": 1,
+      "cites": 97,
+      "max_cites": 97
+    },
+    "2020": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2021": {
+      "n": 4,
+      "cites": 16,
+      "max_cites": 8
+    },
+    "2022": {
+      "n": 2,
+      "cites": 66,
+      "max_cites": 54
+    },
+    "2023": {
+      "n": 3,
+      "cites": 79,
+      "max_cites": 37
+    },
+    "2024": {
+      "n": 2,
+      "cites": 19,
+      "max_cites": 18
+    },
+    "2025": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.133
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Adaptive control",
+          "w": 0.067
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.044
+        },
+        {
+          "c": "Parametric statistics",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.133
+        },
+        {
+          "c": "Underwater",
+          "w": 0.067
+        },
+        {
+          "c": "Nonlinear system",
+          "w": 0.067
+        },
+        {
+          "c": "Adaptive control",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.16
+        },
+        {
+          "c": "Telerobotics",
+          "w": 0.08
+        },
+        {
+          "c": "Stability (learning theory)",
+          "w": 0.08
+        },
+        {
+          "c": "Transmission (telecommunications)",
+          "w": 0.08
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Kinematics",
+          "w": 0.1
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.1
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.1
+        },
+        {
+          "c": "Jacobian matrix and determinant",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.118
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.118
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.094
+        },
+        {
+          "c": "Computer science",
+          "w": 0.082
+        },
+        {
+          "c": "Jacobian matrix and determinant",
+          "w": 0.059
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Software deployment",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Function (biology)",
+          "w": 0.2
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.089
+        },
+        {
+          "c": "Marine engineering",
+          "w": 0.044
+        },
+        {
+          "c": "Aerospace engineering",
+          "w": 0.044
+        },
+        {
+          "c": "Contraction (grammar)",
+          "w": 0.044
+        },
+        {
+          "c": "Convex optimization",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.145
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.091
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.055
+        },
+        {
+          "c": "Nonlinear system",
+          "w": 0.055
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.055
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Obstacle",
+          "w": 0.2
+        },
+        {
+          "c": "Control (management)",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mix": {
+        "ICRA": 9
+      }
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "IJRR": 2,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "ICRA": 5
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 2,
+        "IJRR": 2,
+        "RSS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 5,
+        "RA-L": 2,
+        "IJRR": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "IJRR": 4,
+        "T-RO": 3,
+        "ICRA": 2,
+        "RSS": 1,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mean_n_authors": 2.11,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Weiping Li",
+          3
+        ],
+        [
+          "Hideki Hashimoto",
+          1
+        ],
+        [
+          "J. X. Xu",
+          1
+        ],
+        [
+          "Fumio Harashima",
+          1
+        ],
+        [
+          "Dana R. Yoerger",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 2,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Dana R. Yoerger",
+          1
+        ],
+        [
+          "Günter Niemeyer",
+          1
+        ],
+        [
+          "Hyun S. Yang",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 2,
+      "unique_coauthors": 2,
+      "top_coauthors": [
+        [
+          "Günter Niemeyer",
+          4
+        ],
+        [
+          "Hans Jacob S. Feder",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 2.5,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Chien-Chern Cheah",
+          1
+        ],
+        [
+          "Chao Liu",
+          1
+        ],
+        [
+          "Günter Niemeyer",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 2.82,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Chien-Chern Cheah",
+          10
+        ],
+        [
+          "Chao Liu",
+          5
+        ],
+        [
+          "Yu Zhao",
+          3
+        ],
+        [
+          "Mac Schwager",
+          3
+        ],
+        [
+          "Daniela Rus",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 3,
+      "unique_coauthors": 2,
+      "top_coauthors": [
+        [
+          "Mac Schwager",
+          1
+        ],
+        [
+          "Daniela Rus",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 3.11,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Gabriel D. Bousquet",
+          2
+        ],
+        [
+          "Michael S. Triantafyllou",
+          2
+        ],
+        [
+          "Patrick M. Wensing",
+          2
+        ],
+        [
+          "Xiao Yan",
+          1
+        ],
+        [
+          "Chien Chern Cheah",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 3.45,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Marco Pavone",
+          4
+        ],
+        [
+          "Spencer M. Richards",
+          3
+        ],
+        [
+          "Sumeet Singh",
+          3
+        ],
+        [
+          "Lukas Huber",
+          3
+        ],
+        [
+          "Aude Billard",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 4,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Lukas Huber",
+          1
+        ],
+        [
+          "Trinca Thibaud",
+          1
+        ],
+        [
+          "Aude Billard",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.511,
+  "top_repeat_coauthors": [
+    {
+      "name": "Chien-Chern Cheah",
+      "count": 11,
+      "first_year": 2004,
+      "last_year": 2009
+    },
+    {
+      "name": "Günter Niemeyer",
+      "count": 8,
+      "first_year": 1989,
+      "last_year": 2024
+    },
+    {
+      "name": "Chao Liu",
+      "count": 6,
+      "first_year": 2004,
+      "last_year": 2007
+    },
+    {
+      "name": "Mac Schwager",
+      "count": 5,
+      "first_year": 2007,
+      "last_year": 2021
+    },
+    {
+      "name": "Marco Pavone",
+      "count": 5,
+      "first_year": 2017,
+      "last_year": 2023
+    },
+    {
+      "name": "Lukas Huber",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Aude Billard",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Daniela Rus",
+      "count": 4,
+      "first_year": 2007,
+      "last_year": 2011
+    },
+    {
+      "name": "Sumeet Singh",
+      "count": 4,
+      "first_year": 2017,
+      "last_year": 2023
+    },
+    {
+      "name": "Weiping Li",
+      "count": 3,
+      "first_year": 1987,
+      "last_year": 1988
+    },
+    {
+      "name": "Yu Zhao",
+      "count": 3,
+      "first_year": 2006,
+      "last_year": 2007
+    },
+    {
+      "name": "Patrick M. Wensing",
+      "count": 3,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Spencer M. Richards",
+      "count": 3,
+      "first_year": 2021,
+      "last_year": 2023
+    },
+    {
+      "name": "Dana R. Yoerger",
+      "count": 2,
+      "first_year": 1987,
+      "last_year": 1991
+    },
+    {
+      "name": "Chien Chern Cheah",
+      "count": 2,
+      "first_year": 2006,
+      "last_year": 2015
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Chao Liu",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Yu Zhao",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Mac Schwager",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Keehong Seo",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Gabriel D. Bousquet",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Saing Paul Hou",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Soon-Jo Chung",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Lukas Huber",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Brett T. Lopez",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Spencer M. Richards",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1985,
+      1994
+    ],
+    "early_mean_n_authors": 2.08,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.3
+  },
+  "citation_half_life_years": 20.0,
+  "bursts": {
+    "productivity": [
+      2006
+    ],
+    "impact": [
+      2004,
+      2009
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2009,
+      "venue": "T-RO",
+      "title": "Cooperative Robot Control and Concurrent Synchronization of Lagrangian Systems",
+      "cites": 549,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Synchronization (alternating current)",
+        "Control theory (sociology)",
+        "Robot",
+        "Mobile robot",
+        "Exponential stability"
+      ],
+      "doi": "10.1109/tro.2009.2014125",
+      "coauthors": [
+        "Soon-Jo Chung"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "IJRR",
+      "title": "Telemanipulation with Time Delays",
+      "cites": 534,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Teleoperation",
+        "Spurious relationship",
+        "Variable (mathematics)",
+        "Transmission (telecommunications)",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364904045563",
+      "coauthors": [
+        "Günter Niemeyer"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IJRR",
+      "title": "Decentralized, Adaptive Coverage Control for Networked Robots",
+      "cites": 452,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Decentralised system",
+        "Adaptive control",
+        "Robot",
+        "Controller (irrigation)",
+        "Convergence (economics)"
+      ],
+      "doi": "10.1177/0278364908100177",
+      "coauthors": [
+        "Mac Schwager",
+        "Daniela Rus"
+      ]
+    },
+    {
+      "year": 1998,
+      "venue": "ICRA",
+      "title": "Towards Force-Reflecting Teleoperation Over the Internet",
+      "cites": 354,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Teleoperation",
+        "Telerobotics",
+        "Stability (learning theory)",
+        "Computer science",
+        "Transmission (telecommunications)"
+      ],
+      "doi": "10.1109/robot.1998.680592",
+      "coauthors": [
+        "Günter Niemeyer"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Adaptive Tracking Control for Robots with Unknown Kinematic and Dynamic Properties",
+      "cites": 313,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Kinematics",
+        "Control theory (sociology)",
+        "Controller (irrigation)",
+        "Robot",
+        "Trajectory"
+      ],
+      "doi": "10.1177/0278364906063830",
+      "coauthors": [
+        "Chien-Chern Cheah",
+        "Chao Liu"
+      ]
+    },
+    {
+      "year": 1987,
+      "venue": "ICRA",
+      "title": "Adaptive manipulator control a case study",
+      "cites": 201,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Control theory (sociology)",
+        "Robustness (evolution)",
+        "Sylvester's law of inertia",
+        "Inertia",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.1987.1087895",
+      "coauthors": [
+        "Weiping Li"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Robust online motion planning via contraction theory and convex optimization",
+      "cites": 182,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Contraction (grammar)",
+        "Convex optimization",
+        "Regular polygon",
+        "Motion planning"
+      ],
+      "doi": "10.1109/icra.2017.7989693",
+      "coauthors": [
+        "Sumeet Singh",
+        "Anirudha Majumdar",
+        "Marco Pavone"
+      ]
+    },
+    {
+      "year": 1987,
+      "venue": "ICRA",
+      "title": "Adaptive strategies in constrained manipulation",
+      "cites": 156,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Trajectory",
+        "Control theory (sociology)",
+        "Computer science",
+        "Adaptive control",
+        "Motion control"
+      ],
+      "doi": "10.1109/robot.1987.1087869",
+      "coauthors": [
+        "Weiping Li"
+      ]
+    },
+    {
+      "year": 1997,
+      "venue": "ICRA",
+      "title": "Using wave variables for system analysis and robot control",
+      "cites": 148,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Teleoperation",
+        "Robustness (evolution)",
+        "Computer science",
+        "Robot",
+        "Perspective (graphical)"
+      ],
+      "doi": "10.1109/robot.1997.614372",
+      "coauthors": [
+        "Günter Niemeyer"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "IJRR",
+      "title": "Unifying geometric, probabilistic, and potential field approaches to multi-robot deployment",
+      "cites": 134,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Software deployment",
+        "Robot",
+        "Probabilistic logic",
+        "Computer science",
+        "Function (biology)"
+      ],
+      "doi": "10.1177/0278364910383444",
+      "coauthors": [
+        "Mac Schwager",
+        "Daniela Rus"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Jean-Jacques E. Slotine: 41년에 걸쳐 58편, 총 4,714회 인용, h=29, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1985년 \"Robustness issues in robot control\"으로 출발. 첫 500+ 인용 논문까지 19년 걸림: \"Telemanipulation with Time Delays\" (2004, 534회).",
+        "초기 토픽: Control theory (sociology), Computer science, Adaptive control. 최근 토픽: Obstacle, Control (management), Computer science. 피벗 점수 0.51 → 적극 피벗형.",
+        "저자수 평균: 초기 2.1명 → 후기 3.3명 (팀 확장).",
+        "최다 인용 논문 \"Cooperative Robot Control and Concurrent Synchronization of Lagrangian Systems\" (2009, 549회) — 커리어 중기에 위치.",
+        "제자 후보 추정 10명 — 상위: Chao Liu(2004~, 우리 마지막저자 6편), Yu Zhao(2004~, 우리 마지막저자 3편), Mac Schwager(2006~, 우리 마지막저자 2편)."
+      ],
+      "lessons": [
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "10명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Jean-Jacques E. Slotine: over 41 years, 58 papers, 4,714 total cites, h=29, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1985 with \"Robustness issues in robot control\". First 500+ cite paper came 19 years in: \"Telemanipulation with Time Delays\" (2004, 534 cites).",
+        "Early topics: Control theory (sociology), Computer science, Adaptive control. Recent topics: Obstacle, Control (management), Computer science. Pivot score 0.51 → active pivoter.",
+        "Authors per paper: early 2.1 → late 3.3 (team growth).",
+        "Peak paper \"Cooperative Robot Control and Concurrent Synchronization of Lagrangian Systems\" (2009, 549 cites) — fell in mid career.",
+        "10 likely students — top: Chao Liu(2004~, we last-author on 6), Yu Zhao(2004~, we last-author on 3), Mac Schwager(2006~, we last-author on 2)."
+      ],
+      "lessons": [
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "10 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

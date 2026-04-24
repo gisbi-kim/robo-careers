@@ -1,0 +1,1263 @@
+{
+  "name": "Jeannette Bohg",
+  "slug": "jeannette-bohg",
+  "career_stats": {
+    "first_year": 2010,
+    "last_year": 2025,
+    "span": 16,
+    "total_papers": 82,
+    "total_cites": 3876,
+    "h_index": 30,
+    "i10_index": 55,
+    "seminal_count": 1,
+    "max_cites_single_paper": 839
+  },
+  "role_distribution": {
+    "middle": 26,
+    "first": 6,
+    "last": 50
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2010,
+      "title": "Attention-based active 3D point cloud segmentation"
+    },
+    "first_100cite": {
+      "year": 2011,
+      "title": "Mind the gap - robotic grasping under incomplete observation",
+      "cites": 109,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2014,
+      "title": "Data-Driven Grasp Synthesis - A Survey",
+      "cites": 839,
+      "gap_from_first": 4
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "Data-Driven Grasp Synthesis - A Survey",
+      "cites": 839
+    }
+  },
+  "year_series": {
+    "2010": {
+      "n": 2,
+      "cites": 70,
+      "max_cites": 48
+    },
+    "2011": {
+      "n": 2,
+      "cites": 130,
+      "max_cites": 109
+    },
+    "2012": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2013": {
+      "n": 2,
+      "cites": 130,
+      "max_cites": 80
+    },
+    "2014": {
+      "n": 4,
+      "cites": 967,
+      "max_cites": 839
+    },
+    "2015": {
+      "n": 3,
+      "cites": 317,
+      "max_cites": 281
+    },
+    "2016": {
+      "n": 6,
+      "cites": 261,
+      "max_cites": 102
+    },
+    "2017": {
+      "n": 3,
+      "cites": 315,
+      "max_cites": 210
+    },
+    "2018": {
+      "n": 2,
+      "cites": 138,
+      "max_cites": 107
+    },
+    "2019": {
+      "n": 4,
+      "cites": 73,
+      "max_cites": 32
+    },
+    "2020": {
+      "n": 14,
+      "cites": 495,
+      "max_cites": 162
+    },
+    "2021": {
+      "n": 7,
+      "cites": 152,
+      "max_cites": 77
+    },
+    "2022": {
+      "n": 10,
+      "cites": 173,
+      "max_cites": 30
+    },
+    "2023": {
+      "n": 7,
+      "cites": 318,
+      "max_cites": 206
+    },
+    "2024": {
+      "n": 11,
+      "cites": 323,
+      "max_cites": 111
+    },
+    "2025": {
+      "n": 5,
+      "cites": 14,
+      "max_cites": 6
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.16
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.12
+        },
+        {
+          "c": "GRASP",
+          "w": 0.08
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.111
+        },
+        {
+          "c": "GRASP",
+          "w": 0.056
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.056
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 49,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.128
+        },
+        {
+          "c": "Robot",
+          "w": 0.064
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.055
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.12
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.04
+        },
+        {
+          "c": "Variety (cybernetics)",
+          "w": 0.04
+        },
+        {
+          "c": "Machine learning",
+          "w": 0.04
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 3,
+        "T-RO": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 4,
+        "RA-L": 3,
+        "RSS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "ICRA": 19,
+        "IROS": 12,
+        "RA-L": 8,
+        "RSS": 5,
+        "T-RO": 3,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "RA-L": 2,
+        "ICRA": 2,
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 4.8,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Danica Kragic",
+          5
+        ],
+        [
+          "Matthew Johnson-Roberson",
+          4
+        ],
+        [
+          "Stefan Schaal",
+          3
+        ],
+        [
+          "Mårten Björkman",
+          2
+        ],
+        [
+          "Antonio Morales",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 5.17,
+      "unique_coauthors": 42,
+      "top_coauthors": [
+        [
+          "Stefan Schaal",
+          13
+        ],
+        [
+          "Daniel Kappler",
+          9
+        ],
+        [
+          "Manuel Wüthrich",
+          3
+        ],
+        [
+          "Jan Issac",
+          3
+        ],
+        [
+          "Cristina Garcia Cifuentes",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 12.67,
+      "unique_coauthors": 392,
+      "top_coauthors": [
+        [
+          "Toki Migimatsu",
+          11
+        ],
+        [
+          "Rika Antonova",
+          7
+        ],
+        [
+          "Lin Shao",
+          6
+        ],
+        [
+          "Marion Lepert",
+          6
+        ],
+        [
+          "Jingyun Yang",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 5,
+      "unique_coauthors": 20,
+      "top_coauthors": [
+        [
+          "Krishnan Srinivasan",
+          1
+        ],
+        [
+          "Jie Xu",
+          1
+        ],
+        [
+          "Henry Ang",
+          1
+        ],
+        [
+          "Eric Heiden",
+          1
+        ],
+        [
+          "Dieter Fox",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.136,
+  "top_repeat_coauthors": [
+    {
+      "name": "Stefan Schaal",
+      "count": 19,
+      "first_year": 2013,
+      "last_year": 2024
+    },
+    {
+      "name": "Toki Migimatsu",
+      "count": 11,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Danica Kragic",
+      "count": 9,
+      "first_year": 2010,
+      "last_year": 2023
+    },
+    {
+      "name": "Daniel Kappler",
+      "count": 9,
+      "first_year": 2015,
+      "last_year": 2019
+    },
+    {
+      "name": "Lin Shao",
+      "count": 7,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Michelle A. Lee",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2021
+    },
+    {
+      "name": "Rika Antonova",
+      "count": 7,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "Dorsa Sadigh",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Marion Lepert",
+      "count": 6,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Jingyun Yang",
+      "count": 6,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "Jimmy Wu",
+      "count": 6,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Yuke Zhu",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2024
+    },
+    {
+      "name": "Krishnan Srinivasan",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Animesh Garg",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Roberto Martín-Martín",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2024
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Danica Kragic",
+      "advisor_active_from": 1999,
+      "early_copubs_as_our_first_author": 3,
+      "advisor_last_author_count": 2,
+      "total_copubs": 9
+    },
+    {
+      "name": "Antonio Morales",
+      "advisor_active_from": 2001,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 1,
+      "total_copubs": 4
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Toki Migimatsu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 3,
+      "we_last_author_count": 10,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Lin Shao",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Michelle A. Lee",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Rika Antonova",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Claire Chen",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jingyun Yang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Alina Kloss",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Priya Sundaresan",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Brent Yi",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Negin Heravi",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Mia Kokic",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Mengyuan Yan",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Roberto Martín-Martín",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Christopher Agia",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Cristina Garcia Cifuentes",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Nick Heppert",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Mengxi Li",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Manuel Wüthrich",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Brandon Vu",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Shenli Yuan",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Alexander Khazatsky",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2010,
+      2019
+    ],
+    "early_mean_n_authors": 5.04,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 10.52
+  },
+  "citation_half_life_years": 9.0,
+  "bursts": {
+    "productivity": [
+      2020
+    ],
+    "impact": [
+      2014
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "Data-Driven Grasp Synthesis - A Survey",
+      "cites": 839,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "GRASP",
+        "Artificial intelligence",
+        "Computer science",
+        "Set (abstract data type)",
+        "Matching (statistics)"
+      ],
+      "doi": "10.1109/tro.2013.2289018",
+      "coauthors": [
+        "Antonio Morales",
+        "Tamim Asfour",
+        "Danica Kragic"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Leveraging big data for grasp planning",
+      "cites": 281,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "GRASP",
+        "Metric (unit)",
+        "Leverage (statistics)",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra.2015.7139793",
+      "coauthors": [
+        "Daniel Kappler",
+        "Stefan Schaal"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-RO",
+      "title": "Interactive Perception: Leveraging Action in Perception and Perception in Action",
+      "cites": 210,
+      "n_authors": 7,
+      "role": "first",
+      "concepts": [
+        "Perception",
+        "Action (physics)",
+        "Computer science",
+        "Human–computer interaction",
+        "Robot"
+      ],
+      "doi": "10.1109/tro.2017.2721939",
+      "coauthors": [
+        "Karol Hausman",
+        "Bharath Sankaran",
+        "Oliver Brock",
+        "Danica Kragic",
+        "Stefan Schaal",
+        "Gaurav S. Sukhatme"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "T-RO",
+      "title": "Deep Learning Approaches to Grasp Synthesis: A Review",
+      "cites": 206,
+      "n_authors": 12,
+      "role": "middle",
+      "concepts": [
+        "GRASP",
+        "Artificial intelligence",
+        "Computer science",
+        "Affordance",
+        "Process (computing)"
+      ],
+      "doi": "10.1109/tro.2023.3280597",
+      "coauthors": [
+        "Rhys Newbury",
+        "Morris Gu",
+        "Lachlan Chumbley",
+        "Arsalan Mousavian",
+        "Clemens Eppner",
+        "Jürgen Leitner",
+        "Antonio Morales",
+        "Tamim Asfour",
+        "Danica Kragic",
+        "Dieter Fox",
+        "Akansel Cosgun"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "Self-Supervised Learning of State Estimation for Manipulating Deformable Linear Objects",
+      "cites": 162,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "State space",
+        "Generalization",
+        "Machine learning"
+      ],
+      "doi": "10.1109/lra.2020.2969931",
+      "coauthors": [
+        "Mengyuan Yan",
+        "Yilin Zhu",
+        "Ning Jin"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "ICRA",
+      "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration",
+      "cites": 111,
+      "n_authors": 280,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Computer graphics (images)",
+        "Artificial intelligence",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/icra57147.2024.10611477",
+      "coauthors": [
+        "Abby O&apos",
+        "Neill",
+        "Abdul Rehman",
+        "Abhiram Maddukuri",
+        "Abhishek Gupta",
+        "Abhishek Padalkar",
+        "Abraham Lee",
+        "Acorn Pooley",
+        "Agrim Gupta",
+        "Ajay Mandlekar",
+        "Ajinkya Jain",
+        "Albert Tung",
+        "Alex Bewley",
+        "Alexander Herzog",
+        "Alex Irpan",
+        "Alexander Khazatsky",
+        "Anant Rai",
+        "Anchit Gupta",
+        "Andrew E. Wang",
+        "Anikait Singh",
+        "Animesh Garg",
+        "Aniruddha Kembhavi",
+        "Annie Xie",
+        "Anthony Brohan",
+        "Antonin Raffin",
+        "Archit Sharma",
+        "Arefeh Yavary",
+        "Arhan Jain",
+        "Ashwin Balakrishna",
+        "Ayzaan Wahid",
+        "Ben Burgess-Limerick",
+        "Beomjoon Kim",
+        "Bernhard Schölkopf",
+        "Blake Wulfe",
+        "Brian Ichter",
+        "Cewu Lu",
+        "Charles Xu",
+        "Charlotte Le",
+        "Chelsea Finn",
+        "Chen Wang",
+        "Chenfeng Xu",
+        "Cheng Chi",
+        "Chenguang Huang",
+        "Christine Chan",
+        "Christopher Agia",
+        "Chuer Pan",
+        "Chuyuan Fu",
+        "Coline Devin",
+        "Danfei Xu",
+        "Daniel Morton",
+        "Danny Driess",
+        "Daphne Chen",
+        "Deepak Pathak",
+        "Dhruv Shah",
+        "Dieter Büchler",
+        "Dinesh Jayaraman",
+        "Dmitry Kalashnikov",
+        "Dorsa Sadigh",
+        "Edward Johns",
+        "Ethan Paul Foster",
+        "Fangchen Liu",
+        "Federico Ceola",
+        "Fei Xia",
+        "Feiyu Zhao",
+        "Freek Stulp",
+        "Gaoyue Zhou",
+        "Gaurav S. Sukhatme",
+        "Gautam Salhotra",
+        "Ge Yan",
+        "Gilbert Feng",
+        "Giulio Schiavi",
+        "Glen Berseth",
+        "Gregory Kahn",
+        "Guanzhi Wang",
+        "Hao Su",
+        "Haoshu Fang",
+        "Haochen Shi",
+        "Henghui Bao",
+        "Heni Ben Amor",
+        "Henrik I. Christensen",
+        "Hiroki Furuta",
+        "Homer Walke",
+        "Hongjie Fang",
+        "Huy Ha",
+        "Igor Mordatch",
+        "Ilija Radosavovic",
+        "Isabel Leal",
+        "Jacky Liang",
+        "Jad Abou-Chakra",
+        "Jaehyung Kim",
+        "Jaimyn Drake",
+        "Jan Peters",
+        "Jan Schneider",
+        "Jasmine Hsu",
+        "Jeffrey T. Bingham",
+        "Jeffrey Wu",
+        "Jensen Gao",
+        "Jiaheng Hu",
+        "Jiajun Wu",
+        "Jialin Wu",
+        "Jiankai Sun",
+        "Jianlan Luo",
+        "Jiayuan Gu",
+        "Jie Tan",
+        "Jihoon Oh",
+        "Jimmy Wu",
+        "Jingpei Lu",
+        "Jingyun Yang",
+        "Jitendra Malik",
+        "João Silvério",
+        "Joey Hejna",
+        "Jonathan Booher",
+        "Jonathan Tompson",
+        "Jonathan Yang",
+        "Jordi Salvador",
+        "Joseph J. Lim",
+        "Junhyek Han",
+        "Kaiyuan Wang",
+        "Kanishka Rao",
+        "Karl Pertsch",
+        "Karol Hausman",
+        "Keegan Go",
+        "Keerthana Gopalakrishnan",
+        "Ken Goldberg",
+        "Kendra Byrne",
+        "Kenneth Oslund",
+        "Kento Kawaharazuka",
+        "Kevin Black",
+        "Kevin Lin",
+        "Kevin Zhang",
+        "Kiana Ehsani",
+        "Kiran Lekkala",
+        "Kirsty Ellis",
+        "Krishan Rana",
+        "Krishnan Srinivasan",
+        "Kuan Fang",
+        "Kunal Pratap Singh",
+        "Kuo-Hao Zeng",
+        "Kyle Hatch",
+        "Kyle Hsu",
+        "Laurent Itti",
+        "Lawrence Yunliang Chen",
+        "Lerrel Pinto",
+        "Li Fei-Fei",
+        "Liam Tan",
+        "Linxi Jim Fan",
+        "Lionel Ott",
+        "Lisa Lee",
+        "Luca Weihs",
+        "Magnum Chen",
+        "Marion Lepert",
+        "Marius Memmel",
+        "Masayoshi Tomizuka",
+        "Masha Itkina",
+        "Mateo Guaman Castro",
+        "Max Spero",
+        "Maximilian Du",
+        "Michael Ahn",
+        "Michael C. Yip",
+        "Mingtong Zhang",
+        "Mingyu Ding",
+        "Minho Heo",
+        "Mohan Kumar Srirama",
+        "Mohit Sharma",
+        "Moo Jin Kim",
+        "Naoaki Kanazawa",
+        "Nicklas Hansen",
+        "Nicolas Heess",
+        "Nikhil J. Joshi",
+        "Niko Sünderhauf",
+        "Ning Liu",
+        "Norman Di Palo",
+        "Nur Muhammad (Mahi) Shafiullah",
+        "Oier Mees",
+        "Oliver Kroemer",
+        "Osbert Bastani",
+        "Pannag R. Sanketi",
+        "Patrick Tree Miller",
+        "Patrick Yin",
+        "Paul Wohlhart",
+        "Peng Xu",
+        "Peter David Fagan",
+        "Peter Mitrano",
+        "Pierre Sermanet",
+        "Pieter Abbeel",
+        "Priya Sundaresan",
+        "Qiuyu Chen",
+        "Quan Vuong",
+        "Rafael Rafailov",
+        "Ran Tian",
+        "Ria Doshi",
+        "Roberto Martín-Martín",
+        "Rohan Baijal",
+        "Rosario Scalise",
+        "Rose Hendrix",
+        "Roy Lin",
+        "Runjia Qian",
+        "Ruohan Zhang",
+        "Russell Mendonca",
+        "Rutav Shah",
+        "Ryan Hoque",
+        "Ryan Julian",
+        "Samuel Bustamante-Gomez",
+        "Sean Kirmani",
+        "Sergey Levine",
+        "Shan Lin",
+        "Sherry Moore",
+        "Shikhar Bahl",
+        "Shivin Dass",
+        "Shubham D. Sonawani",
+        "Shuran Song",
+        "Sichun Xu",
+        "Siddhant Haldar",
+        "Siddharth Karamcheti",
+        "Simeon Adebola",
+        "Simon Guist",
+        "Soroush Nasiriany",
+        "Stefan Schaal",
+        "Stefan Welker",
+        "Stephen Tian",
+        "Subramanian Ramamoorthy",
+        "Sudeep Dasari",
+        "Suneel Belkhale",
+        "Sungjae Park",
+        "Suraj Nair",
+        "Suvir Mirchandani",
+        "Takayuki Osa",
+        "Tanmay Gupta",
+        "Tatsuya Harada",
+        "Tatsuya Matsushima",
+        "Ted Xiao",
+        "Thomas Kollar",
+        "Tianhe Yu",
+        "Tianli Ding",
+        "Todor Davchev",
+        "Tony Z. Zhao",
+        "Travis Armstrong",
+        "Trevor Darrell",
+        "Trinity Chung",
+        "Vidhi Jain",
+        "Vincent Vanhoucke",
+        "Wei Zhan",
+        "Wenxuan Zhou",
+        "Wolfram Burgard",
+        "Xi Chen",
+        "Xiaolong Wang",
+        "Xinghao Zhu",
+        "Xinyang Geng",
+        "Xiyuan Liu",
+        "Liangwei Xu",
+        "Xuanlin Li",
+        "Yao Lu",
+        "Yecheng Jason Ma",
+        "Yejin Kim",
+        "Yevgen Chebotar",
+        "Yifan Zhou",
+        "Yifeng Zhu",
+        "Yilin Wu",
+        "Ying Xu",
+        "Yixuan Wang",
+        "Yonatan Bisk",
+        "Yoonyoung Cho",
+        "Youngwoon Lee",
+        "Yuchen Cui",
+        "Yue Cao",
+        "Yueh-Hua Wu",
+        "Yujin Tang",
+        "Yuke Zhu",
+        "Yunchu Zhang",
+        "Yunfan Jiang",
+        "Yunshuang Li",
+        "Yunzhu Li",
+        "Yusuke Iwasawa",
+        "Yutaka Matsuo",
+        "Zehan Ma",
+        "Zhuo Xu",
+        "Zichen Jeff Cui",
+        "Zichen Zhang",
+        "Zipeng Lin"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "Mind the gap - robotic grasping under incomplete observation",
+      "cites": 109,
+      "n_authors": 8,
+      "role": "first",
+      "concepts": [
+        "GRASP",
+        "Computer science",
+        "Generality",
+        "Object (grammar)",
+        "Point cloud"
+      ],
+      "doi": "10.1109/icra.2011.5980354",
+      "coauthors": [
+        "Matthew Johnson-Roberson",
+        "Beatriz León",
+        "Javier Felip",
+        "Xavi Gratal",
+        "Niklas Bergström",
+        "Danica Kragic",
+        "Antonio Morales"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "UniGrasp: Learning a Unified Model to Grasp With Multifingered Robotic Hands",
+      "cites": 108,
+      "n_authors": 9,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Grippers",
+        "Object (grammar)",
+        "Artificial intelligence",
+        "Kinematics"
+      ],
+      "doi": "10.1109/lra.2020.2969946",
+      "coauthors": [
+        "Lin Shao",
+        "Fábio Ferreira",
+        "Mikael Jorda",
+        "Varun Nambiar",
+        "Jianlan Luo",
+        "Eugen Solowjow",
+        "Juan Aparicio Ojea",
+        "Oussama Khatib"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Real-Time Perception Meets Reactive Motion Generation",
+      "cites": 107,
+      "n_authors": 10,
+      "role": "last",
+      "concepts": [
+        "Workspace",
+        "Robustness (evolution)",
+        "Computer science",
+        "Perception",
+        "Field (mathematics)"
+      ],
+      "doi": "10.1109/lra.2018.2795645",
+      "coauthors": [
+        "Daniel Kappler",
+        "Franziska Meier",
+        "Jan Issac",
+        "Jim Mainprice",
+        "Cristina Garcia Cifuentes",
+        "Manuel Wuthrich",
+        "Vincent Berenz",
+        "Stefan Schaal",
+        "Nathan D. Ratliff"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "ICRA",
+      "title": "Automatic LQR tuning based on Gaussian process global optimization",
+      "cites": 102,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Bayesian optimization",
+        "Control theory (sociology)",
+        "Gaussian process",
+        "Computer science",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/icra.2016.7487144",
+      "coauthors": [
+        "Alonso Marco",
+        "Philipp Hennig",
+        "Stefan Schaal",
+        "Sebastian Trimpe"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Jeannette Bohg: 16년에 걸쳐 82편, 총 3,876회 인용, h=30, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "2010년 \"Attention-based active 3D point cloud segmentation\"으로 출발. 첫 500+ 인용 논문까지 4년 걸림: \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839회).",
+        "초기 토픽: Computer science, Artificial intelligence, Computer vision. 최근 토픽: Computer science, Artificial intelligence, Reinforcement learning. 피벗 점수 0.14 → 토픽 지속형.",
+        "저자수 평균: 초기 5.0명 → 후기 10.5명 (팀 확장).",
+        "최다 인용 논문 \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Danica Kragic, Antonio Morales. 제자 후보 추정 21명 — 상위: Toki Migimatsu(2020~, 우리 마지막저자 10편), Lin Shao(2018~, 우리 마지막저자 6편), Michelle A. Lee(2019~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "초기 4년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "21명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Danica Kragic — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Jeannette Bohg: over 16 years, 82 papers, 3,876 total cites, h=30, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2010 with \"Attention-based active 3D point cloud segmentation\". First 500+ cite paper came 4 years in: \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839 cites).",
+        "Early topics: Computer science, Artificial intelligence, Computer vision. Recent topics: Computer science, Artificial intelligence, Reinforcement learning. Pivot score 0.14 → topic-stable.",
+        "Authors per paper: early 5.0 → late 10.5 (team growth).",
+        "Peak paper \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Danica Kragic, Antonio Morales. 21 likely students — top: Toki Migimatsu(2020~, we last-author on 10), Lin Shao(2018~, we last-author on 6), Michelle A. Lee(2019~, we last-author on 6)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 4 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "21 likely students — mentoring is the real impact.",
+        "Likely advisor: Danica Kragic — started within their PhD network."
+      ]
+    }
+  }
+}

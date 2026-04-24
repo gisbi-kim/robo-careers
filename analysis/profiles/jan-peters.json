@@ -1,0 +1,1277 @@
+{
+  "name": "Jan Peters",
+  "slug": "jan-peters",
+  "career_stats": {
+    "first_year": 2005,
+    "last_year": 2025,
+    "span": 21,
+    "total_papers": 181,
+    "total_cites": 9888,
+    "h_index": 45,
+    "i10_index": 114,
+    "seminal_count": 2,
+    "max_cites_single_paper": 3017
+  },
+  "role_distribution": {
+    "first": 9,
+    "middle": 63,
+    "last": 109
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2005,
+      "title": "A unifying methodology for the control of robotic systems"
+    },
+    "first_100cite": {
+      "year": 2006,
+      "title": "Policy Gradient Methods for Robotics",
+      "cites": 516,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2006,
+      "title": "Policy Gradient Methods for Robotics",
+      "cites": 516,
+      "gap_from_first": 1
+    },
+    "first_1000cite": {
+      "year": 2013,
+      "title": "Reinforcement learning in robotics: A survey",
+      "cites": 3017,
+      "gap_from_first": 8
+    },
+    "peak_paper": {
+      "year": 2013,
+      "title": "Reinforcement learning in robotics: A survey",
+      "cites": 3017
+    }
+  },
+  "year_series": {
+    "2005": {
+      "n": 2,
+      "cites": 117,
+      "max_cites": 81
+    },
+    "2006": {
+      "n": 3,
+      "cites": 599,
+      "max_cites": 516
+    },
+    "2007": {
+      "n": 2,
+      "cites": 25,
+      "max_cites": 21
+    },
+    "2008": {
+      "n": 5,
+      "cites": 783,
+      "max_cites": 383
+    },
+    "2009": {
+      "n": 3,
+      "cites": 71,
+      "max_cites": 29
+    },
+    "2010": {
+      "n": 5,
+      "cites": 512,
+      "max_cites": 176
+    },
+    "2011": {
+      "n": 9,
+      "cites": 401,
+      "max_cites": 117
+    },
+    "2012": {
+      "n": 9,
+      "cites": 359,
+      "max_cites": 86
+    },
+    "2013": {
+      "n": 7,
+      "cites": 3713,
+      "max_cites": 3017
+    },
+    "2014": {
+      "n": 12,
+      "cites": 823,
+      "max_cites": 200
+    },
+    "2015": {
+      "n": 11,
+      "cites": 512,
+      "max_cites": 109
+    },
+    "2016": {
+      "n": 8,
+      "cites": 358,
+      "max_cites": 141
+    },
+    "2017": {
+      "n": 11,
+      "cites": 325,
+      "max_cites": 81
+    },
+    "2018": {
+      "n": 7,
+      "cites": 83,
+      "max_cites": 21
+    },
+    "2019": {
+      "n": 14,
+      "cites": 163,
+      "max_cites": 38
+    },
+    "2020": {
+      "n": 15,
+      "cites": 145,
+      "max_cites": 45
+    },
+    "2021": {
+      "n": 11,
+      "cites": 118,
+      "max_cites": 56
+    },
+    "2022": {
+      "n": 11,
+      "cites": 236,
+      "max_cites": 83
+    },
+    "2023": {
+      "n": 11,
+      "cites": 314,
+      "max_cites": 94
+    },
+    "2024": {
+      "n": 10,
+      "cites": 209,
+      "max_cites": 111
+    },
+    "2025": {
+      "n": 15,
+      "cites": 22,
+      "max_cites": 4
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.187
+        },
+        {
+          "c": "Robot",
+          "w": 0.133
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.133
+        },
+        {
+          "c": "Robotics",
+          "w": 0.053
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 42,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.188
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.13
+        },
+        {
+          "c": "Robot",
+          "w": 0.101
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.039
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.034
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 51,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.189
+        },
+        {
+          "c": "Robot",
+          "w": 0.083
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.075
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.051
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.047
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 58,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.184
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.118
+        },
+        {
+          "c": "Robot",
+          "w": 0.062
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.042
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.028
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.173
+        },
+        {
+          "c": "Robot",
+          "w": 0.08
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.067
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.04
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.04
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "IROS": 8,
+        "ICRA": 3,
+        "RSS": 2,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "IROS": 18,
+        "ICRA": 15,
+        "IJRR": 4,
+        "RSS": 3,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "IROS": 23,
+        "ICRA": 14,
+        "RA-L": 10,
+        "IJRR": 3,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "IROS": 18,
+        "RA-L": 16,
+        "ICRA": 14,
+        "T-RO": 5,
+        "IJRR": 3,
+        "RSS": 2
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "IROS": 5,
+        "T-RO": 4,
+        "ICRA": 3,
+        "RA-L": 2,
+        "RSS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 3.27,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "Stefan Schaal",
+          9
+        ],
+        [
+          "Michael N. Mistry",
+          5
+        ],
+        [
+          "Jun Nakanishi",
+          5
+        ],
+        [
+          "Rick Cory",
+          3
+        ],
+        [
+          "Duy Nguyen-Tuong",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 4.19,
+      "unique_coauthors": 57,
+      "top_coauthors": [
+        [
+          "Oliver Kroemer",
+          17
+        ],
+        [
+          "Jens Kober",
+          8
+        ],
+        [
+          "Marc Peter Deisenroth",
+          8
+        ],
+        [
+          "Heni Ben Amor",
+          7
+        ],
+        [
+          "Gerhard Neumann",
+          7
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 4.37,
+      "unique_coauthors": 86,
+      "top_coauthors": [
+        [
+          "Gerhard Neumann",
+          19
+        ],
+        [
+          "Guilherme Maeda",
+          12
+        ],
+        [
+          "Rudolf Lioutikov",
+          7
+        ],
+        [
+          "Marco Ewerton",
+          6
+        ],
+        [
+          "Elmar Rueckert",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 9.59,
+      "unique_coauthors": 410,
+      "top_coauthors": [
+        [
+          "Georgia Chalvatzaki",
+          17
+        ],
+        [
+          "Davide Tateo",
+          9
+        ],
+        [
+          "Julen Urain",
+          7
+        ],
+        [
+          "Puze Liu",
+          6
+        ],
+        [
+          "Niklas Funk",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 5.07,
+      "unique_coauthors": 51,
+      "top_coauthors": [
+        [
+          "Davide Tateo",
+          3
+        ],
+        [
+          "Puze Liu",
+          3
+        ],
+        [
+          "An T. Le",
+          3
+        ],
+        [
+          "Nico Bohlinger",
+          2
+        ],
+        [
+          "João Carvalho",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.092,
+  "top_repeat_coauthors": [
+    {
+      "name": "Gerhard Neumann",
+      "count": 28,
+      "first_year": 2012,
+      "last_year": 2020
+    },
+    {
+      "name": "Oliver Kroemer",
+      "count": 21,
+      "first_year": 2009,
+      "last_year": 2024
+    },
+    {
+      "name": "Georgia Chalvatzaki",
+      "count": 19,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Jens Kober",
+      "count": 14,
+      "first_year": 2008,
+      "last_year": 2019
+    },
+    {
+      "name": "Bernhard Schölkopf",
+      "count": 13,
+      "first_year": 2009,
+      "last_year": 2024
+    },
+    {
+      "name": "Guilherme Maeda",
+      "count": 13,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Davide Tateo",
+      "count": 12,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Stefan Schaal",
+      "count": 11,
+      "first_year": 2005,
+      "last_year": 2024
+    },
+    {
+      "name": "Heni Ben Amor",
+      "count": 10,
+      "first_year": 2012,
+      "last_year": 2024
+    },
+    {
+      "name": "Marc Peter Deisenroth",
+      "count": 9,
+      "first_year": 2012,
+      "last_year": 2015
+    },
+    {
+      "name": "Rudolf Lioutikov",
+      "count": 9,
+      "first_year": 2014,
+      "last_year": 2020
+    },
+    {
+      "name": "Dorothea Koert",
+      "count": 9,
+      "first_year": 2016,
+      "last_year": 2025
+    },
+    {
+      "name": "Julen Urain",
+      "count": 9,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Puze Liu",
+      "count": 9,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Duy Nguyen-Tuong",
+      "count": 8,
+      "first_year": 2008,
+      "last_year": 2014
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Stefan Schaal",
+      "advisor_active_from": 1993,
+      "early_copubs_as_our_first_author": 5,
+      "advisor_last_author_count": 5,
+      "total_copubs": 11
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Guilherme Maeda",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 13,
+      "student_first_author_count": 2,
+      "we_last_author_count": 10,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Julen Urain",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 9,
+      "student_first_author_count": 7,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Heni Ben Amor",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Herke van Hoof",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Katharina Mülling",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Puze Liu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Christian Daniel",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Marc Peter Deisenroth",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Simon Manschitz",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Rudolf Lioutikov",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Marco Ewerton",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Niklas Funk",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Dorothea Koert",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "An T. Le",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Michael Lutter",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Zhikun Wang",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Okan Koc",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Roberto Calandra",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "João Carvalho",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Filipe Veiga",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Daniel Tanneberg",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Botond Bocsi",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Dieter Buchler",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Leon Keller",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Simone Parisi",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Sebastián Gómez-González",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Kai Ploeger",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Christian Eilers",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Fabio Muratore",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Tim Schneider",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Erik Helmut",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Piotr Kicki",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Vignesh Prasad",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alexandros Paraschos",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Elmar Rueckert",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Joni Pajarinen",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Svenja Stark",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Bastian Bischoff",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Dieter Büchler",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Susanne Trick",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Nico Bohlinger",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Christoph Zelch",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Luca Lach",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Riad Akrour",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Snehal Jauhri",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Peter Englert",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2014
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2005,
+      2014
+    ],
+    "early_mean_n_authors": 3.95,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 7.12
+  },
+  "citation_half_life_years": 13.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2013
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2013,
+      "venue": "IJRR",
+      "title": "Reinforcement learning in robotics: A survey",
+      "cites": 3017,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Artificial intelligence",
+        "Robotics",
+        "Function (biology)",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364913495721",
+      "coauthors": [
+        "Jens Kober",
+        "J. Andrew Bagnell"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "Policy Gradient Methods for Robotics",
+      "cites": 516,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Robotics",
+        "Artificial intelligence",
+        "Reinforcement learning",
+        "Robot",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2006.282564",
+      "coauthors": [
+        "Stefan Schaal"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IJRR",
+      "title": "Learning to select and generalize striking movements in robot table tennis",
+      "cites": 401,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Kinesthetic learning",
+        "Table (database)",
+        "Robot",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364912472380",
+      "coauthors": [
+        "Katharina Mülling",
+        "Jens Kober",
+        "Oliver Kroemer"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IJRR",
+      "title": "Operational Space Control: A Theoretical and Empirical Comparison",
+      "cites": 383,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Robotics",
+        "Computer science",
+        "Robot",
+        "Artificial intelligence",
+        "Control engineering"
+      ],
+      "doi": "10.1177/0278364908091463",
+      "coauthors": [
+        "Jun Nakanishi",
+        "Rick Cory",
+        "Michael N. Mistry",
+        "Stefan Schaal"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "Interaction primitives for human-robot cooperation tasks",
+      "cites": 200,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Synchronizing",
+        "Computer science",
+        "Task (project management)",
+        "Robot",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/icra.2014.6907265",
+      "coauthors": [
+        "Heni Ben Amor",
+        "Gerhard Neumann",
+        "Sanket Kamthe",
+        "Oliver Kroemer"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "ICRA",
+      "title": "Using model knowledge for learning inverse dynamics",
+      "cites": 176,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Inverse dynamics",
+        "Semiparametric regression",
+        "Machine learning",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/robot.2010.5509858",
+      "coauthors": [
+        "Duy Nguyen-Tuong"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IJRR",
+      "title": "Learning to Control in Operational Space",
+      "cites": 166,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Computer science",
+        "Robotics",
+        "Redundancy (engineering)",
+        "Reinforcement learning"
+      ],
+      "doi": "10.1177/0278364907087548",
+      "coauthors": [
+        "Stefan Schaal"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IJRR",
+      "title": "Probabilistic movement modeling for intention inference in human-robot interaction",
+      "cites": 166,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Inference",
+        "Artificial intelligence",
+        "Humanoid robot",
+        "Computer science",
+        "Machine learning"
+      ],
+      "doi": "10.1177/0278364913478447",
+      "coauthors": [
+        "Zhikun Wang",
+        "Katharina Mülling",
+        "Marc Peter Deisenroth",
+        "Heni Ben Amor",
+        "David Vogt",
+        "Bernhard Schölkopf"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "ICRA",
+      "title": "Movement templates for learning of hitting and batting",
+      "cites": 150,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Racket",
+        "Ball (mathematics)",
+        "Computer science",
+        "Movement (music)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/robot.2010.5509672",
+      "coauthors": [
+        "Jens Kober",
+        "Katharina Mülling",
+        "Oliver Kroemer",
+        "Christoph H. Lampert",
+        "Bernhard Schölkopf"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IROS",
+      "title": "Local Gaussian process regression for real-time model-based robot control",
+      "cites": 144,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Kriging",
+        "Ground-penetrating radar",
+        "Gaussian process",
+        "Computer science",
+        "Support vector machine"
+      ],
+      "doi": "10.1109/iros.2008.4650850",
+      "coauthors": [
+        "Duy Nguyen-Tuong"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Jan Peters: 21년에 걸쳐 181편, 총 9,888회 인용, h=45, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "2005년 \"A unifying methodology for the control of robotic systems\"으로 출발. 첫 500+ 인용 논문까지 1년 걸림: \"Policy Gradient Methods for Robotics\" (2006, 516회). 1000+ 인용 논문: \"Reinforcement learning in robotics: A survey\" (2013, 3,017회).",
+        "초기 토픽: Computer science, Robot, Artificial intelligence. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.09 → 토픽 지속형.",
+        "저자수 평균: 초기 4.0명 → 후기 7.1명 (팀 확장).",
+        "최다 인용 논문 \"Reinforcement learning in robotics: A survey\" (2013, 3,017회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Stefan Schaal. 제자 후보 추정 46명 — 상위: Guilherme Maeda(2015~, 우리 마지막저자 10편), Julen Urain(2018~, 우리 마지막저자 6편), Heni Ben Amor(2012~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "초기 1년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "46명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Stefan Schaal — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Jan Peters: over 21 years, 181 papers, 9,888 total cites, h=45, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2005 with \"A unifying methodology for the control of robotic systems\". First 500+ cite paper came 1 years in: \"Policy Gradient Methods for Robotics\" (2006, 516 cites). 1000+ cite paper: \"Reinforcement learning in robotics: A survey\" (2013, 3,017 cites).",
+        "Early topics: Computer science, Robot, Artificial intelligence. Recent topics: Computer science, Robot, Artificial intelligence. Pivot score 0.09 → topic-stable.",
+        "Authors per paper: early 4.0 → late 7.1 (team growth).",
+        "Peak paper \"Reinforcement learning in robotics: A survey\" (2013, 3,017 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Stefan Schaal. 46 likely students — top: Guilherme Maeda(2015~, we last-author on 10), Julen Urain(2018~, we last-author on 6), Heni Ben Amor(2012~, we last-author on 6)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 1 years. First-5-year topic choice is decisive.",
+        "Impact through deep specialization — one lane, pushed far.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "46 likely students — mentoring is the real impact.",
+        "Likely advisor: Stefan Schaal — started within their PhD network."
+      ]
+    }
+  }
+}

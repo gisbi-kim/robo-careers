@@ -1,0 +1,839 @@
+{
+  "name": "Fei Gao",
+  "slug": "fei-gao",
+  "career_stats": {
+    "first_year": 2017,
+    "last_year": 2025,
+    "span": 9,
+    "total_papers": 135,
+    "total_cites": 5770,
+    "h_index": 36,
+    "i10_index": 81,
+    "seminal_count": 2,
+    "max_cites_single_paper": 670
+  },
+  "role_distribution": {
+    "first": 12,
+    "middle": 41,
+    "last": 82
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2017,
+      "title": "Gradient-based online safe trajectory generation for quadrotor flight in complex environments"
+    },
+    "first_100cite": {
+      "year": 2017,
+      "title": "Gradient-based online safe trajectory generation for quadrotor flight in complex environments",
+      "cites": 142,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2019,
+      "title": "Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight",
+      "cites": 670,
+      "gap_from_first": 2
+    },
+    "peak_paper": {
+      "year": 2019,
+      "title": "Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight",
+      "cites": 670
+    }
+  },
+  "year_series": {
+    "2017": {
+      "n": 3,
+      "cites": 244,
+      "max_cites": 142
+    },
+    "2018": {
+      "n": 3,
+      "cites": 397,
+      "max_cites": 275
+    },
+    "2019": {
+      "n": 6,
+      "cites": 1069,
+      "max_cites": 670
+    },
+    "2020": {
+      "n": 4,
+      "cites": 390,
+      "max_cites": 179
+    },
+    "2021": {
+      "n": 17,
+      "cites": 1456,
+      "max_cites": 441
+    },
+    "2022": {
+      "n": 19,
+      "cites": 1361,
+      "max_cites": 523
+    },
+    "2023": {
+      "n": 28,
+      "cites": 476,
+      "max_cites": 57
+    },
+    "2024": {
+      "n": 28,
+      "cites": 303,
+      "max_cites": 44
+    },
+    "2025": {
+      "n": 27,
+      "cites": 74,
+      "max_cites": 10
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 33,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.182
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.103
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.048
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.036
+        },
+        {
+          "c": "Benchmark (surveying)",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 102,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.168
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.064
+        },
+        {
+          "c": "Robot",
+          "w": 0.05
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.044
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.032
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 9,
+        "RA-L": 7,
+        "T-Mech": 2,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "IROS": 33,
+        "RA-L": 28,
+        "ICRA": 22,
+        "T-RO": 7,
+        "T-Mech": 7,
+        "Sci-Rob": 4,
+        "RSS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 4.88,
+      "unique_coauthors": 55,
+      "top_coauthors": [
+        [
+          "Chao Xu",
+          16
+        ],
+        [
+          "Shaojie Shen",
+          14
+        ],
+        [
+          "Boyu Zhou",
+          7
+        ],
+        [
+          "Zhepei Wang",
+          7
+        ],
+        [
+          "Jie Pan",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 6.48,
+      "unique_coauthors": 230,
+      "top_coauthors": [
+        [
+          "Chao Xu",
+          62
+        ],
+        [
+          "Yanjun Cao",
+          26
+        ],
+        [
+          "Qianhao Wang",
+          16
+        ],
+        [
+          "Yuman Gao",
+          10
+        ],
+        [
+          "Zhichao Han",
+          9
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.08,
+  "top_repeat_coauthors": [
+    {
+      "name": "Chao Xu",
+      "count": 78,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Yanjun Cao",
+      "count": 26,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Shaojie Shen",
+      "count": 21,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Qianhao Wang",
+      "count": 19,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Zhepei Wang",
+      "count": 14,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Xin Zhou",
+      "count": 13,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Boyu Zhou",
+      "count": 12,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Yuman Gao",
+      "count": 12,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Zhichao Han",
+      "count": 11,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Yingjian Wang",
+      "count": 10,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Jialin Ji",
+      "count": 10,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Neng Pan",
+      "count": 10,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Ruibin Zhang",
+      "count": 9,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Yuze Wu",
+      "count": 8,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Tianyue Wu",
+      "count": 8,
+      "first_year": 2023,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Shaojie Shen",
+      "advisor_active_from": 2011,
+      "early_copubs_as_our_first_author": 6,
+      "advisor_last_author_count": 6,
+      "total_copubs": 21
+    },
+    {
+      "name": "Wei‐Hsin Liao",
+      "advisor_active_from": 2008,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 2,
+      "total_copubs": 3
+    },
+    {
+      "name": "Jie Pan",
+      "advisor_active_from": 2004,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 0,
+      "total_copubs": 5
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Tianyue Wu",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yuze Wu",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jingping Wang",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Tingrui Zhang",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Junxiao Lin",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Rui Jin",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xiangyong Wen",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Mingyang Wang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yuhang Zhong",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Liuao Pei",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Guangyu Zhao",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kaixin Chai",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jialiang Hou",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zhiren Xun",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jingjing Li",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Guangtong Xu",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Shuang Geng",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Xiaoying Li",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mengke Zhang",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Tianyu Liu",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Baozhe Zhang",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zhehan Li",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Nanhe Chen",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Qiuyu Ren",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2017,
+      2025
+    ],
+    "early_mean_n_authors": 6.09,
+    "late_window": [
+      2017,
+      2025
+    ],
+    "late_mean_n_authors": 6.09
+  },
+  "citation_half_life_years": 5.0,
+  "bursts": {
+    "productivity": [],
+    "impact": []
+  },
+  "blockbusters": [
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight",
+      "cites": 670,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Trajectory",
+        "Trajectory optimization",
+        "Convex hull",
+        "Mathematical optimization"
+      ],
+      "doi": "10.1109/lra.2019.2927938",
+      "coauthors": [
+        "Boyu Zhou",
+        "Luqi Wang",
+        "Chuhao Liu",
+        "Shaojie Shen"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "Sci-Rob",
+      "title": "Swarm of micro flying robots in the wild",
+      "cites": 523,
+      "n_authors": 11,
+      "role": "last",
+      "concepts": [
+        "Swarm behaviour",
+        "Trajectory",
+        "Swarm robotics",
+        "Robot",
+        "Drone"
+      ],
+      "doi": "10.1126/scirobotics.abm5954",
+      "coauthors": [
+        "Xin Zhou",
+        "Xiangyong Wen",
+        "Zhepei Wang",
+        "Yuman Gao",
+        "Haojia Li",
+        "Qianhao Wang",
+        "Tiankai Yang",
+        "Haojian Lu",
+        "Yanjun Cao",
+        "Chao Xu"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "EGO-Planner: An ESDF-Free Gradient-Based Local Planner for Quadrotors",
+      "cites": 441,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Obstacle",
+        "Computer science",
+        "Trajectory",
+        "Robustness (evolution)",
+        "Computation"
+      ],
+      "doi": "10.1109/lra.2020.3047728",
+      "coauthors": [
+        "Xin Zhou",
+        "Zhepei Wang",
+        "Hongkai Ye",
+        "Chao Xu"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "T-RO",
+      "title": "Geometrically Constrained Trajectory Optimization for Multicopters",
+      "cites": 341,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Mathematical optimization",
+        "Robustness (evolution)",
+        "Trajectory optimization",
+        "Computer science",
+        "Generality"
+      ],
+      "doi": "10.1109/tro.2022.3160022",
+      "coauthors": [
+        "Zhepei Wang",
+        "Xin Zhou",
+        "Chao Xu"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Online Safe Trajectory Generation for Quadrotors Using Fast Marching Method and Bernstein Basis Polynomial",
+      "cites": 275,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Trajectory",
+        "Motion planning",
+        "Computer science",
+        "Bézier curve",
+        "Piecewise"
+      ],
+      "doi": "10.1109/icra.2018.8462878",
+      "coauthors": [
+        "William Wu",
+        "Yi Lin",
+        "Shaojie Shen"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "T-RO",
+      "title": "RAPTOR: Robust and Perception-Aware Trajectory Replanning for Quadrotor Fast Flight",
+      "cites": 265,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Trajectory",
+        "Bottleneck",
+        "Benchmark (surveying)",
+        "Perception"
+      ],
+      "doi": "10.1109/tro.2021.3071527",
+      "coauthors": [
+        "Boyu Zhou",
+        "Jie Pan",
+        "Shaojie Shen"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "IROS",
+      "title": "FIESTA: Fast Incremental Euclidean Distance Fields for Online Motion Planning of Aerial Robots",
+      "cites": 221,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Bottleneck",
+        "Motion planning",
+        "Search engine indexing",
+        "Euclidean distance"
+      ],
+      "doi": "10.1109/iros40897.2019.8968199",
+      "coauthors": [
+        "Luxin Han",
+        "Boyu Zhou",
+        "Shaojie Shen"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "T-RO",
+      "title": "Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments",
+      "cites": 179,
+      "n_authors": 6,
+      "role": "first",
+      "concepts": [
+        "Trajectory",
+        "Drone",
+        "Path (computing)",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2020.2993215",
+      "coauthors": [
+        "Luqi Wang",
+        "Boyu Zhou",
+        "Xin Zhou",
+        "Jie Pan",
+        "Shaojie Shen"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "ICRA",
+      "title": "EGO-Swarm: A Fully Autonomous and Decentralized Quadrotor Swarm System in Cluttered Environments",
+      "cites": 176,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Robustness (evolution)",
+        "Swarm behaviour",
+        "Collision avoidance",
+        "Maxima and minima"
+      ],
+      "doi": "10.1109/icra48506.2021.9561902",
+      "coauthors": [
+        "Xin Zhou",
+        "Jiangchao Zhu",
+        "Hongyu Zhou",
+        "Chao Xu"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "ICRA",
+      "title": "Robust Real-time UAV Replanning Using Guided Gradient-based Optimization and Topological Paths",
+      "cites": 148,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Maxima and minima",
+        "Robustness (evolution)",
+        "Trajectory optimization",
+        "Computer science",
+        "Trajectory"
+      ],
+      "doi": "10.1109/icra40945.2020.9196996",
+      "coauthors": [
+        "Boyu Zhou",
+        "Jie Pan",
+        "Shaojie Shen"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Fei Gao: 9년에 걸쳐 135편, 총 5,770회 인용, h=36, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "2017년 \"Gradient-based online safe trajectory generation for quadrotor flight in complex environments\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight\" (2019, 670회).",
+        "초기 토픽: Computer science, Trajectory, Computer vision. 최근 토픽: Computer science, Trajectory, Robot. 피벗 점수 0.08 → 토픽 지속형.",
+        "저자수 평균: 초기 6.1명 → 후기 6.1명 (팀 유지).",
+        "최다 인용 논문 \"Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight\" (2019, 670회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Shaojie Shen, Wei‐Hsin Liao, Jie Pan. 제자 후보 추정 24명 — 상위: Tianyue Wu(2023~, 우리 마지막저자 8편), Yuze Wu(2022~, 우리 마지막저자 8편), Jingping Wang(2023~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "초기 2년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "24명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Shaojie Shen — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Fei Gao: over 9 years, 135 papers, 5,770 total cites, h=36, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2017 with \"Gradient-based online safe trajectory generation for quadrotor flight in complex environments\". First 500+ cite paper came 2 years in: \"Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight\" (2019, 670 cites).",
+        "Early topics: Computer science, Trajectory, Computer vision. Recent topics: Computer science, Trajectory, Robot. Pivot score 0.08 → topic-stable.",
+        "Authors per paper: early 6.1 → late 6.1 (stable team).",
+        "Peak paper \"Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight\" (2019, 670 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Shaojie Shen, Wei‐Hsin Liao, Jie Pan. 24 likely students — top: Tianyue Wu(2023~, we last-author on 8), Yuze Wu(2022~, we last-author on 8), Jingping Wang(2023~, we last-author on 6)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 2 years. First-5-year topic choice is decisive.",
+        "24 likely students — mentoring is the real impact.",
+        "Likely advisor: Shaojie Shen — started within their PhD network."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1469 @@
+{
+  "name": "Kazuhiro Kosuge",
+  "slug": "kazuhiro-kosuge",
+  "career_stats": {
+    "first_year": 1985,
+    "last_year": 2025,
+    "span": 41,
+    "total_papers": 177,
+    "total_cites": 4910,
+    "h_index": 40,
+    "i10_index": 118,
+    "seminal_count": 0,
+    "max_cites_single_paper": 320
+  },
+  "role_distribution": {
+    "first": 38,
+    "middle": 39,
+    "last": 100
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1985,
+      "title": "Kinematic and dynamic analysis of robot arm"
+    },
+    "first_100cite": {
+      "year": 1994,
+      "title": "Micro Active Catheter System with Multi Degrees of Freedom",
+      "cites": 145,
+      "gap_from_first": 9
+    },
+    "peak_paper": {
+      "year": 2008,
+      "title": "Analytical Inverse Kinematic Computation for 7-DOF Redundant Manipulators With Joint Limits and Its Application to Redundancy Resolution",
+      "cites": 320
+    }
+  },
+  "year_series": {
+    "1985": {
+      "n": 1,
+      "cites": 35,
+      "max_cites": 35
+    },
+    "1986": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1987": {
+      "n": 2,
+      "cites": 127,
+      "max_cites": 64
+    },
+    "1988": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1989": {
+      "n": 1,
+      "cites": 29,
+      "max_cites": 29
+    },
+    "1990": {
+      "n": 2,
+      "cites": 84,
+      "max_cites": 62
+    },
+    "1991": {
+      "n": 2,
+      "cites": 3,
+      "max_cites": 3
+    },
+    "1992": {
+      "n": 3,
+      "cites": 95,
+      "max_cites": 46
+    },
+    "1993": {
+      "n": 5,
+      "cites": 148,
+      "max_cites": 54
+    },
+    "1994": {
+      "n": 5,
+      "cites": 180,
+      "max_cites": 145
+    },
+    "1995": {
+      "n": 10,
+      "cites": 357,
+      "max_cites": 104
+    },
+    "1996": {
+      "n": 5,
+      "cites": 348,
+      "max_cites": 141
+    },
+    "1997": {
+      "n": 6,
+      "cites": 179,
+      "max_cites": 47
+    },
+    "1998": {
+      "n": 5,
+      "cites": 145,
+      "max_cites": 60
+    },
+    "1999": {
+      "n": 3,
+      "cites": 75,
+      "max_cites": 46
+    },
+    "2000": {
+      "n": 4,
+      "cites": 214,
+      "max_cites": 100
+    },
+    "2001": {
+      "n": 4,
+      "cites": 46,
+      "max_cites": 20
+    },
+    "2002": {
+      "n": 5,
+      "cites": 95,
+      "max_cites": 45
+    },
+    "2003": {
+      "n": 5,
+      "cites": 274,
+      "max_cites": 105
+    },
+    "2004": {
+      "n": 7,
+      "cites": 240,
+      "max_cites": 72
+    },
+    "2005": {
+      "n": 12,
+      "cites": 236,
+      "max_cites": 43
+    },
+    "2006": {
+      "n": 11,
+      "cites": 200,
+      "max_cites": 63
+    },
+    "2007": {
+      "n": 10,
+      "cites": 382,
+      "max_cites": 198
+    },
+    "2008": {
+      "n": 6,
+      "cites": 465,
+      "max_cites": 320
+    },
+    "2009": {
+      "n": 4,
+      "cites": 27,
+      "max_cites": 14
+    },
+    "2010": {
+      "n": 5,
+      "cites": 91,
+      "max_cites": 52
+    },
+    "2011": {
+      "n": 6,
+      "cites": 77,
+      "max_cites": 24
+    },
+    "2012": {
+      "n": 6,
+      "cites": 73,
+      "max_cites": 36
+    },
+    "2013": {
+      "n": 5,
+      "cites": 89,
+      "max_cites": 49
+    },
+    "2014": {
+      "n": 6,
+      "cites": 30,
+      "max_cites": 11
+    },
+    "2015": {
+      "n": 3,
+      "cites": 33,
+      "max_cites": 24
+    },
+    "2016": {
+      "n": 2,
+      "cites": 14,
+      "max_cites": 10
+    },
+    "2017": {
+      "n": 8,
+      "cites": 250,
+      "max_cites": 76
+    },
+    "2018": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2019": {
+      "n": 5,
+      "cites": 224,
+      "max_cites": 124
+    },
+    "2020": {
+      "n": 3,
+      "cites": 2,
+      "max_cites": 1
+    },
+    "2021": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2022": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2023": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "2024": {
+      "n": 2,
+      "cites": 19,
+      "max_cites": 10
+    },
+    "2025": {
+      "n": 7,
+      "cites": 19,
+      "max_cites": 6
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Internal model",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.05
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.129
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.094
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.047
+        },
+        {
+          "c": "Impedance control",
+          "w": 0.047
+        },
+        {
+          "c": "Control system",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.159
+        },
+        {
+          "c": "Robot",
+          "w": 0.09
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.069
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.048
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.048
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.168
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.136
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.12
+        },
+        {
+          "c": "Robot",
+          "w": 0.112
+        },
+        {
+          "c": "Caster",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 43,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.163
+        },
+        {
+          "c": "Robot",
+          "w": 0.088
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.047
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.042
+        },
+        {
+          "c": "Motion control",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.143
+        },
+        {
+          "c": "Robot",
+          "w": 0.071
+        },
+        {
+          "c": "Brake",
+          "w": 0.043
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.043
+        },
+        {
+          "c": "Wheelchair",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.089
+        },
+        {
+          "c": "Robot",
+          "w": 0.078
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.033
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.033
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.022
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Engineering",
+          "w": 0.133
+        },
+        {
+          "c": "Mechatronics",
+          "w": 0.1
+        },
+        {
+          "c": "Manufacturing engineering",
+          "w": 0.1
+        },
+        {
+          "c": "Electrical engineering",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Mechanical engineering",
+          "w": 0.097
+        },
+        {
+          "c": "Computer science",
+          "w": 0.097
+        },
+        {
+          "c": "Enhanced Data Rates for GSM Evolution",
+          "w": 0.065
+        },
+        {
+          "c": "Engineering",
+          "w": 0.065
+        },
+        {
+          "c": "Slipping",
+          "w": 0.032
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mix": {
+        "ICRA": 4
+      }
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "IROS": 9,
+        "ICRA": 8
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "ICRA": 18,
+        "IROS": 10,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 12
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "IROS": 28,
+        "ICRA": 12,
+        "T-RO": 3
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "IROS": 16,
+        "ICRA": 12
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 6,
+        "RA-L": 3,
+        "T-RO": 2,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "T-Mech": 5,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "RA-L": 6,
+        "T-Mech": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mean_n_authors": 3.25,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Katsuhisa Furuta",
+          4
+        ],
+        [
+          "Yoshinori Shiote",
+          1
+        ],
+        [
+          "Hiromu Hatano",
+          1
+        ],
+        [
+          "Tatsuaki Yokoyama",
+          1
+        ],
+        [
+          "Masanobu Koga",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 4.88,
+      "unique_coauthors": 32,
+      "top_coauthors": [
+        [
+          "Toshio Fukuda",
+          15
+        ],
+        [
+          "Fumihito Arai",
+          6
+        ],
+        [
+          "Yoshio Fujisawa",
+          4
+        ],
+        [
+          "Masaru Sakai",
+          3
+        ],
+        [
+          "Hiroshi Wada",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 3.83,
+      "unique_coauthors": 37,
+      "top_coauthors": [
+        [
+          "Toshio Fukuda",
+          12
+        ],
+        [
+          "Koji Takeo",
+          7
+        ],
+        [
+          "Tomohiro Oosumi",
+          6
+        ],
+        [
+          "Tomotaka Itoh",
+          4
+        ],
+        [
+          "Manabu Otsuka",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 3.48,
+      "unique_coauthors": 20,
+      "top_coauthors": [
+        [
+          "Yasuhisa Hirata",
+          16
+        ],
+        [
+          "Zhi Dong Wang",
+          7
+        ],
+        [
+          "Hajime Asama",
+          5
+        ],
+        [
+          "Hayato Kaetsu",
+          5
+        ],
+        [
+          "Kuniaki Kawabata",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 3.7,
+      "unique_coauthors": 49,
+      "top_coauthors": [
+        [
+          "Yasuhisa Hirata",
+          31
+        ],
+        [
+          "Zhi Dong Wang",
+          11
+        ],
+        [
+          "Oscar Chuy",
+          5
+        ],
+        [
+          "Takahiro Takeda",
+          5
+        ],
+        [
+          "Masayuki Shimizu",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 4,
+      "unique_coauthors": 36,
+      "top_coauthors": [
+        [
+          "Yasuhisa Hirata",
+          18
+        ],
+        [
+          "Yusuke Sugahara",
+          7
+        ],
+        [
+          "Aya Kaisumi",
+          4
+        ],
+        [
+          "Naoaki Yonezawa",
+          3
+        ],
+        [
+          "Koki Suzuki",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 4.11,
+      "unique_coauthors": 32,
+      "top_coauthors": [
+        [
+          "Jun Kinugawa",
+          10
+        ],
+        [
+          "Yasuhisa Hirata",
+          7
+        ],
+        [
+          "Hongbo Wang",
+          3
+        ],
+        [
+          "Akira Kanazawa",
+          3
+        ],
+        [
+          "Shogo Arai",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 13.67,
+      "unique_coauthors": 37,
+      "top_coauthors": [
+        [
+          "Dawn Melley",
+          3
+        ],
+        [
+          "Peter Tuohy",
+          3
+        ],
+        [
+          "Susan Kathy",
+          3
+        ],
+        [
+          "Kathleen Kramer",
+          3
+        ],
+        [
+          "Joseph Lillie",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 5.71,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Akinari Kobayashi",
+          6
+        ],
+        [
+          "Akira Seino",
+          6
+        ],
+        [
+          "Fuyuki Tokuda",
+          6
+        ],
+        [
+          "Norman C. Tien",
+          4
+        ],
+        [
+          "Xuzhao Huang",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.331,
+  "top_repeat_coauthors": [
+    {
+      "name": "Yasuhisa Hirata",
+      "count": 75,
+      "first_year": 1998,
+      "last_year": 2025
+    },
+    {
+      "name": "Toshio Fukuda",
+      "count": 28,
+      "first_year": 1991,
+      "last_year": 2006
+    },
+    {
+      "name": "Zhi Dong Wang",
+      "count": 19,
+      "first_year": 2002,
+      "last_year": 2014
+    },
+    {
+      "name": "Jun Kinugawa",
+      "count": 13,
+      "first_year": 2010,
+      "last_year": 2019
+    },
+    {
+      "name": "Akinari Kobayashi",
+      "count": 10,
+      "first_year": 2017,
+      "last_year": 2025
+    },
+    {
+      "name": "Fumihito Arai",
+      "count": 9,
+      "first_year": 1991,
+      "last_year": 1995
+    },
+    {
+      "name": "Akira Seino",
+      "count": 9,
+      "first_year": 2017,
+      "last_year": 2025
+    },
+    {
+      "name": "Koji Takeo",
+      "count": 8,
+      "first_year": 1994,
+      "last_year": 1998
+    },
+    {
+      "name": "Yusuke Sugahara",
+      "count": 8,
+      "first_year": 2009,
+      "last_year": 2012
+    },
+    {
+      "name": "Fuyuki Tokuda",
+      "count": 8,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Hajime Asama",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2002
+    },
+    {
+      "name": "Hayato Kaetsu",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2002
+    },
+    {
+      "name": "Kuniaki Kawabata",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2002
+    },
+    {
+      "name": "Masayuki Shimizu",
+      "count": 7,
+      "first_year": 2001,
+      "last_year": 2008
+    },
+    {
+      "name": "Katsuhisa Furuta",
+      "count": 6,
+      "first_year": 1985,
+      "last_year": 1990
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Fuyuki Tokuda",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 8,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Oscar Chuy",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Yasuhisa Hirata",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 75,
+      "student_first_author_count": 6,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Masayuki Shimizu",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Takahiro Takeda",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Masao Saida",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Kengo Yamaguchi",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Aya Kaisumi",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Hongbo Wang",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Youhei Kume",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Akira Kanazawa",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Jun Kinugawa",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 13,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Takahiko Nakamura",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Akinari Kobayashi",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Shinya Morinaga",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Naemeh Nejatbakhsh",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Yasufumi Tanaka",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Koji Takeo",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 1998
+    },
+    {
+      "name": "Takashi Nammoto",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Yohei Kume",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Diego Felipe Paez Granados",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Xuzhao Huang",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Fumi Seto",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Manabu Sato",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Naoaki Yonezawa",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Ken Sugawara",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Hiroshi Wada",
+      "student_first_year": 1991,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 1994
+    },
+    {
+      "name": "Mitsuru Endo",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Manabu Otsuka",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 1995
+    },
+    {
+      "name": "Jun Ishikawa",
+      "student_first_year": 1990,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 1990
+    },
+    {
+      "name": "Shuxiang Guo",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 1995
+    },
+    {
+      "name": "Koshi Kashiwazaki",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1985,
+      1994
+    ],
+    "early_mean_n_authors": 4.57,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 6.61
+  },
+  "citation_half_life_years": 22.0,
+  "bursts": {
+    "productivity": [
+      2005,
+      2006
+    ],
+    "impact": [
+      2007,
+      2008
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "Analytical Inverse Kinematic Computation for 7-DOF Redundant Manipulators With Joint Limits and Its Application to Redundancy Resolution",
+      "cites": 320,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Kinematics",
+        "Redundancy (engineering)",
+        "Inverse kinematics",
+        "Computation",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/tro.2008.2003266",
+      "coauthors": [
+        "Masayuki Shimizu",
+        "H. Kakuya",
+        "Woo-Keun Yoon",
+        "Kosei Kitagaki"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-RO",
+      "title": "Motion Control of Passive Intelligent Walker Using Servo Brakes",
+      "cites": 198,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robotics",
+        "Robot",
+        "Control engineering",
+        "Servo",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2007.906252",
+      "coauthors": [
+        "Yasuhisa Hirata",
+        "Asami Hara"
+      ]
+    },
+    {
+      "year": 1994,
+      "venue": "ICRA",
+      "title": "Micro Active Catheter System with Multi Degrees of Freedom",
+      "cites": 145,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Bending",
+        "Actuator",
+        "Computer science",
+        "Degrees of freedom (physics and chemistry)",
+        "Timer"
+      ],
+      "doi": "10.1109/robot.1994.350944",
+      "coauthors": [
+        "Toshio Fukuda",
+        "Shuxiang Guo",
+        "Fumihito Arai",
+        "Makoto Negoro",
+        "K. Nakabayashi"
+      ]
+    },
+    {
+      "year": 1996,
+      "venue": "IROS",
+      "title": "Bilateral feedback control of telemanipulators via computer network",
+      "cites": 141,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Teleoperation",
+        "Passivity",
+        "Computer science",
+        "Transmission delay",
+        "Compensation (psychology)"
+      ],
+      "doi": "10.1109/iros.1996.568996",
+      "coauthors": [
+        "Hideyuki Murayama",
+        "Koji Takeo"
+      ]
+    },
+    {
+      "year": 1996,
+      "venue": "IROS",
+      "title": "Decentralized control of multiple robots handling an object",
+      "cites": 125,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Object (grammar)",
+        "Mobile robot",
+        "Robot control",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.1996.570694",
+      "coauthors": [
+        "Tomohiro Oosumi"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "T-RO",
+      "title": "Adaptive Motion Planning for a Collaborative Robot Based on Prediction Uncertainty to Enhance Human Safety and Work Efficiency",
+      "cites": 124,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Workspace",
+        "Trajectory",
+        "Motion planning",
+        "Probabilistic logic",
+        "Robot"
+      ],
+      "doi": "10.1109/tro.2019.2911800",
+      "coauthors": [
+        "Akira Kanazawa",
+        "Jun Kinugawa"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "IROS",
+      "title": "Dance partner robot - Ms DanceR",
+      "cites": 105,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Dance",
+        "Robot",
+        "Mobile robot",
+        "Computer science",
+        "Robot control"
+      ],
+      "doi": "10.1109/iros.2003.1249691",
+      "coauthors": [
+        "Tomohiro Hayashi",
+        "Yasuhisa Hirata",
+        "Ryosuke Tobiyama"
+      ]
+    },
+    {
+      "year": 1995,
+      "venue": "ICRA",
+      "title": "Micro Catheter System with Active with Active Guide Wire",
+      "cites": 104,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Catheter",
+        "Electrical engineering",
+        "Engineering",
+        "Medicine"
+      ],
+      "doi": "10.1109/robot.1995.525267",
+      "coauthors": [
+        "Shuxiang Guo",
+        "Toshio Fukuda",
+        "Fumihito Arai",
+        "Keisuke Oguro",
+        "Makoto Negoro"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Mobile Robot Helper",
+      "cites": 100,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Mobile robot",
+        "Computer science",
+        "Object (grammar)",
+        "Robot",
+        "Omnidirectional antenna"
+      ],
+      "doi": "10.1109/robot.2000.844116",
+      "coauthors": [
+        "Manabu Sato",
+        "Norihide Kazamura"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "ICRA",
+      "title": "Collision detection system for manipulator based on adaptive impedance control law",
+      "cites": 90,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Collision",
+        "Torque",
+        "Control theory (sociology)",
+        "Impedance control",
+        "Nonlinear system"
+      ],
+      "doi": "10.1109/robot.2003.1241736",
+      "coauthors": [
+        "Shinya Morinaga"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Kazuhiro Kosuge: 41년에 걸쳐 177편, 총 4,910회 인용, h=40, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1985년 \"Kinematic and dynamic analysis of robot arm\"으로 출발.",
+        "초기 토픽: Computer science, Internal model, Robot. 최근 토픽: Mechanical engineering, Computer science, Enhanced Data Rates for GSM Evolution. 피벗 점수 0.33 → 점진적 이동형.",
+        "저자수 평균: 초기 4.6명 → 후기 6.6명 (팀 확장).",
+        "최다 인용 논문 \"Analytical Inverse Kinematic Computation for 7-DOF Redundant Manipulators With Joint Limits and Its Application to Redundancy Resolution\" (2008, 320회) — 커리어 중기에 위치.",
+        "제자 후보 추정 32명 — 상위: Fuyuki Tokuda(2023~, 우리 마지막저자 8편), Oscar Chuy(2004~, 우리 마지막저자 6편), Yasuhisa Hirata(1998~, 우리 마지막저자 5편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "32명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Kazuhiro Kosuge: over 41 years, 177 papers, 4,910 total cites, h=40, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1985 with \"Kinematic and dynamic analysis of robot arm\".",
+        "Early topics: Computer science, Internal model, Robot. Recent topics: Mechanical engineering, Computer science, Enhanced Data Rates for GSM Evolution. Pivot score 0.33 → gradual shift.",
+        "Authors per paper: early 4.6 → late 6.6 (team growth).",
+        "Peak paper \"Analytical Inverse Kinematic Computation for 7-DOF Redundant Manipulators With Joint Limits and Its Application to Redundancy Resolution\" (2008, 320 cites) — fell in mid career.",
+        "32 likely students — top: Fuyuki Tokuda(2023~, we last-author on 8), Oscar Chuy(2004~, we last-author on 6), Yasuhisa Hirata(1998~, we last-author on 5)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "32 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

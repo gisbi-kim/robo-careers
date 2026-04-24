@@ -1,0 +1,1746 @@
+{
+  "name": "Antonio Bicchi",
+  "slug": "antonio-bicchi",
+  "career_stats": {
+    "first_year": 1985,
+    "last_year": 2025,
+    "span": 41,
+    "total_papers": 210,
+    "total_cites": 11570,
+    "h_index": 51,
+    "i10_index": 157,
+    "seminal_count": 4,
+    "max_cites_single_paper": 1056
+  },
+  "role_distribution": {
+    "middle": 65,
+    "first": 24,
+    "last": 121
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1985,
+      "title": "Tendon actuated exploratory finger with polymeric, skin-like tactile sensor"
+    },
+    "first_100cite": {
+      "year": 1990,
+      "title": "Intrinsic contact sensing for soft fingers",
+      "cites": 142,
+      "gap_from_first": 5
+    },
+    "first_500cite": {
+      "year": 1995,
+      "title": "On the Closure Properties of Robotic Grasping",
+      "cites": 531,
+      "gap_from_first": 10
+    },
+    "first_1000cite": {
+      "year": 2000,
+      "title": "Robotic Grasping and Contact: A Review",
+      "cites": 1056,
+      "gap_from_first": 15
+    },
+    "peak_paper": {
+      "year": 2000,
+      "title": "Robotic Grasping and Contact: A Review",
+      "cites": 1056
+    }
+  },
+  "year_series": {
+    "1985": {
+      "n": 1,
+      "cites": 24,
+      "max_cites": 24
+    },
+    "1986": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1987": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1988": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1989": {
+      "n": 2,
+      "cites": 92,
+      "max_cites": 81
+    },
+    "1990": {
+      "n": 1,
+      "cites": 142,
+      "max_cites": 142
+    },
+    "1991": {
+      "n": 1,
+      "cites": 27,
+      "max_cites": 27
+    },
+    "1992": {
+      "n": 1,
+      "cites": 18,
+      "max_cites": 18
+    },
+    "1993": {
+      "n": 2,
+      "cites": 423,
+      "max_cites": 305
+    },
+    "1994": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "1995": {
+      "n": 4,
+      "cites": 709,
+      "max_cites": 531
+    },
+    "1996": {
+      "n": 3,
+      "cites": 245,
+      "max_cites": 169
+    },
+    "1997": {
+      "n": 4,
+      "cites": 297,
+      "max_cites": 243
+    },
+    "1998": {
+      "n": 1,
+      "cites": 25,
+      "max_cites": 25
+    },
+    "1999": {
+      "n": 2,
+      "cites": 102,
+      "max_cites": 58
+    },
+    "2000": {
+      "n": 5,
+      "cites": 1141,
+      "max_cites": 1056
+    },
+    "2001": {
+      "n": 4,
+      "cites": 176,
+      "max_cites": 114
+    },
+    "2002": {
+      "n": 3,
+      "cites": 156,
+      "max_cites": 74
+    },
+    "2003": {
+      "n": 2,
+      "cites": 28,
+      "max_cites": 20
+    },
+    "2004": {
+      "n": 2,
+      "cites": 86,
+      "max_cites": 55
+    },
+    "2005": {
+      "n": 2,
+      "cites": 542,
+      "max_cites": 534
+    },
+    "2006": {
+      "n": 4,
+      "cites": 53,
+      "max_cites": 26
+    },
+    "2007": {
+      "n": 4,
+      "cites": 298,
+      "max_cites": 232
+    },
+    "2008": {
+      "n": 4,
+      "cites": 455,
+      "max_cites": 359
+    },
+    "2009": {
+      "n": 5,
+      "cites": 212,
+      "max_cites": 93
+    },
+    "2010": {
+      "n": 10,
+      "cites": 290,
+      "max_cites": 81
+    },
+    "2011": {
+      "n": 8,
+      "cites": 331,
+      "max_cites": 147
+    },
+    "2012": {
+      "n": 14,
+      "cites": 977,
+      "max_cites": 265
+    },
+    "2013": {
+      "n": 15,
+      "cites": 513,
+      "max_cites": 99
+    },
+    "2014": {
+      "n": 10,
+      "cites": 781,
+      "max_cites": 658
+    },
+    "2015": {
+      "n": 11,
+      "cites": 967,
+      "max_cites": 432
+    },
+    "2016": {
+      "n": 6,
+      "cites": 186,
+      "max_cites": 70
+    },
+    "2017": {
+      "n": 6,
+      "cites": 146,
+      "max_cites": 60
+    },
+    "2018": {
+      "n": 11,
+      "cites": 686,
+      "max_cites": 207
+    },
+    "2019": {
+      "n": 17,
+      "cites": 365,
+      "max_cites": 88
+    },
+    "2020": {
+      "n": 13,
+      "cites": 674,
+      "max_cites": 270
+    },
+    "2021": {
+      "n": 6,
+      "cites": 143,
+      "max_cites": 41
+    },
+    "2022": {
+      "n": 6,
+      "cites": 99,
+      "max_cites": 44
+    },
+    "2023": {
+      "n": 6,
+      "cites": 89,
+      "max_cites": 36
+    },
+    "2024": {
+      "n": 7,
+      "cites": 33,
+      "max_cites": 11
+    },
+    "2025": {
+      "n": 6,
+      "cites": 35,
+      "max_cites": 16
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Tactile sensor",
+          "w": 0.133
+        },
+        {
+          "c": "Robotic hand",
+          "w": 0.067
+        },
+        {
+          "c": "Tendon",
+          "w": 0.067
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "GRASP",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.067
+        },
+        {
+          "c": "Tactile sensor",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.143
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.071
+        },
+        {
+          "c": "Robot",
+          "w": 0.057
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.057
+        },
+        {
+          "c": "Nonholonomic system",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.182
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.065
+        },
+        {
+          "c": "Robot",
+          "w": 0.065
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.052
+        },
+        {
+          "c": "Nonholonomic system",
+          "w": 0.026
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.168
+        },
+        {
+          "c": "Robot",
+          "w": 0.084
+        },
+        {
+          "c": "Actuator",
+          "w": 0.032
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.032
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 57,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.131
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.064
+        },
+        {
+          "c": "Actuator",
+          "w": 0.05
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.043
+        },
+        {
+          "c": "Robot",
+          "w": 0.039
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 51,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.131
+        },
+        {
+          "c": "Robot",
+          "w": 0.057
+        },
+        {
+          "c": "GRASP",
+          "w": 0.045
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.037
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 38,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.139
+        },
+        {
+          "c": "Robot",
+          "w": 0.089
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.056
+        },
+        {
+          "c": "GRASP",
+          "w": 0.044
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.039
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Agonist",
+          "w": 0.033
+        },
+        {
+          "c": "Prosthesis",
+          "w": 0.033
+        },
+        {
+          "c": "Foot (prosody)",
+          "w": 0.033
+        },
+        {
+          "c": "Ankle",
+          "w": 0.033
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mix": {
+        "ICRA": 2,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "ICRA": 12,
+        "IJRR": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 3,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 4,
+        "RSS": 1,
+        "T-RO": 1,
+        "T-Mech": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 25,
+        "IROS": 18,
+        "IJRR": 8,
+        "RSS": 3,
+        "T-RO": 3
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 18,
+        "RA-L": 13,
+        "IROS": 12,
+        "T-RO": 4,
+        "IJRR": 2,
+        "T-Mech": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "RA-L": 15,
+        "IJRR": 9,
+        "T-RO": 5,
+        "ICRA": 4,
+        "IROS": 3,
+        "RSS": 1,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "T-RO": 3,
+        "ICRA": 1,
+        "Sci-Rob": 1,
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mean_n_authors": 4.33,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "Paolo Dario",
+          3
+        ],
+        [
+          "Pier Carlo Pinotti",
+          2
+        ],
+        [
+          "F. Vivaldi",
+          1
+        ],
+        [
+          "John Kenneth Salisbury Jr.",
+          1
+        ],
+        [
+          "L. Bosio",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 1.83,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Claudio Melchiorri",
+          1
+        ],
+        [
+          "J. Kenneth Salisbury",
+          1
+        ],
+        [
+          "David L. Brock",
+          1
+        ],
+        [
+          "Paolo Petreschi",
+          1
+        ],
+        [
+          "Domenico Prattichizzo",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 3,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Domenico Prattichizzo",
+          6
+        ],
+        [
+          "Giuseppe Casalino",
+          2
+        ],
+        [
+          "Danilo De Rossi",
+          2
+        ],
+        [
+          "Enzo Pasquale Scilingo",
+          2
+        ],
+        [
+          "Andrea Balluchi",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 3.12,
+      "unique_coauthors": 27,
+      "top_coauthors": [
+        [
+          "Alessia Marigo",
+          5
+        ],
+        [
+          "Fabio Conticelli",
+          2
+        ],
+        [
+          "Giovanni Tonietti",
+          2
+        ],
+        [
+          "Lucia Pallottino",
+          2
+        ],
+        [
+          "Carlo Camicia",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 5.05,
+      "unique_coauthors": 49,
+      "top_coauthors": [
+        [
+          "Riccardo Schiavi",
+          5
+        ],
+        [
+          "Adriano Fagiolini",
+          5
+        ],
+        [
+          "Enzo Pasquale Scilingo",
+          3
+        ],
+        [
+          "Lucia Pallottino",
+          3
+        ],
+        [
+          "Felipe A. W. Belo",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 4.88,
+      "unique_coauthors": 91,
+      "top_coauthors": [
+        [
+          "Giorgio Grioli",
+          18
+        ],
+        [
+          "Manuel G. Catalano",
+          15
+        ],
+        [
+          "Manolo Garabini",
+          12
+        ],
+        [
+          "Marco Gabiccini",
+          11
+        ],
+        [
+          "Paolo Salaris",
+          10
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 6.12,
+      "unique_coauthors": 104,
+      "top_coauthors": [
+        [
+          "Manuel G. Catalano",
+          25
+        ],
+        [
+          "Giorgio Grioli",
+          21
+        ],
+        [
+          "Manolo Garabini",
+          13
+        ],
+        [
+          "Matteo Bianchi",
+          11
+        ],
+        [
+          "Arash Ajoudani",
+          10
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 5.5,
+      "unique_coauthors": 69,
+      "top_coauthors": [
+        [
+          "Giorgio Grioli",
+          20
+        ],
+        [
+          "Manuel G. Catalano",
+          15
+        ],
+        [
+          "Manolo Garabini",
+          13
+        ],
+        [
+          "Cosimo Della Santina",
+          9
+        ],
+        [
+          "Franco Angelini",
+          9
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 5.17,
+      "unique_coauthors": 19,
+      "top_coauthors": [
+        [
+          "Giorgio Grioli",
+          4
+        ],
+        [
+          "Manuel G. Catalano",
+          4
+        ],
+        [
+          "Matteo Crotti",
+          1
+        ],
+        [
+          "Anna Pace",
+          1
+        ],
+        [
+          "Grazia Zambella",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.244,
+  "top_repeat_coauthors": [
+    {
+      "name": "Giorgio Grioli",
+      "count": 65,
+      "first_year": 2008,
+      "last_year": 2025
+    },
+    {
+      "name": "Manuel G. Catalano",
+      "count": 60,
+      "first_year": 2009,
+      "last_year": 2025
+    },
+    {
+      "name": "Manolo Garabini",
+      "count": 38,
+      "first_year": 2011,
+      "last_year": 2023
+    },
+    {
+      "name": "Matteo Bianchi",
+      "count": 22,
+      "first_year": 2012,
+      "last_year": 2025
+    },
+    {
+      "name": "Lucia Pallottino",
+      "count": 20,
+      "first_year": 2001,
+      "last_year": 2025
+    },
+    {
+      "name": "Arash Ajoudani",
+      "count": 19,
+      "first_year": 2012,
+      "last_year": 2022
+    },
+    {
+      "name": "Marco Gabiccini",
+      "count": 18,
+      "first_year": 2010,
+      "last_year": 2019
+    },
+    {
+      "name": "Cosimo Della Santina",
+      "count": 18,
+      "first_year": 2016,
+      "last_year": 2024
+    },
+    {
+      "name": "Nikos G. Tsagarakis",
+      "count": 15,
+      "first_year": 2012,
+      "last_year": 2019
+    },
+    {
+      "name": "Franco Angelini",
+      "count": 13,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Paolo Salaris",
+      "count": 12,
+      "first_year": 2008,
+      "last_year": 2013
+    },
+    {
+      "name": "Domenico Prattichizzo",
+      "count": 11,
+      "first_year": 1994,
+      "last_year": 2013
+    },
+    {
+      "name": "Adriano Fagiolini",
+      "count": 10,
+      "first_year": 2005,
+      "last_year": 2024
+    },
+    {
+      "name": "Manuel Bonilla",
+      "count": 10,
+      "first_year": 2013,
+      "last_year": 2021
+    },
+    {
+      "name": "Alessia Marigo",
+      "count": 8,
+      "first_year": 1997,
+      "last_year": 2006
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Giorgio Grioli",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 17,
+      "total_copubs": 65,
+      "student_first_author_count": 3,
+      "we_last_author_count": 16,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Manuel G. Catalano",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 16,
+      "total_copubs": 60,
+      "student_first_author_count": 5,
+      "we_last_author_count": 15,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Marco Gabiccini",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 18,
+      "student_first_author_count": 4,
+      "we_last_author_count": 14,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Manolo Garabini",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 16,
+      "total_copubs": 38,
+      "student_first_author_count": 2,
+      "we_last_author_count": 13,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Arash Ajoudani",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 19,
+      "student_first_author_count": 9,
+      "we_last_author_count": 12,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Paolo Salaris",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 5,
+      "we_last_author_count": 12,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Manuel Bonilla",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Edoardo Farnioli",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Felipe A. W. Belo",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Cosimo Della Santina",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 18,
+      "student_first_author_count": 8,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Adriano Fagiolini",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 10,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Matteo Bianchi",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 22,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alessandro Serio",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Vinicio Tincani",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Riccardo Schiavi",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Edoardo Battaglia",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Cristina Piazza",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Gaspare Santaera",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Alessia Marigo",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Giuseppe Averta",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Marco Laghi",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Daniele Fontanelli",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Monica Malvezzi",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Franco Angelini",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 13,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Giovanni Tonietti",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Tomas Menard",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Simona Casini",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Antonio Di Lallo",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Lucia Pallottino",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 20,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Domenico Prattichizzo",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 11,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Fabio Conticelli",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Simone Alicino",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Michele Mancini",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Simone Martini",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Emanuele Luberto",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Federica Barontini",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Riccardo Mengacci",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Michele Pierallini",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "George Jose Pollayil",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Andrea Balluchi",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Nicola Sgambelluri",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Simone Ciotti",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Gianluca Lentini",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Gian Maria Gasparri",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Daniele Caradonna",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Francesca Negrello",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Grazia Zambella",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Patricia Capsi-Morales",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mathew Jose Pollayil",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Giulia Pagnanelli",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Giuseppe Milazzo",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Danilo Caporale",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Manuel Giuseppe Catalano",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Alessandro Palleschi",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Visar Arapi",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Roger Gassert",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Nicola Vanello",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Chiara Gabellieri",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1985,
+      1994
+    ],
+    "early_mean_n_authors": 2.67,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.67
+  },
+  "citation_half_life_years": 15.0,
+  "bursts": {
+    "productivity": [
+      2012,
+      2013,
+      2019
+    ],
+    "impact": [
+      2000,
+      2012,
+      2015
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Robotic Grasping and Contact: A Review",
+      "cites": 1056,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Work (physics)",
+        "Computer science",
+        "Field (mathematics)",
+        "Robot",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/robot.2000.844081",
+      "coauthors": [
+        "Vijay Kumar"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IJRR",
+      "title": "Adaptive synergies for the design and control of the Pisa/IIT SoftHand",
+      "cites": 658,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Underactuation",
+        "Set (abstract data type)",
+        "Adaptation (eye)",
+        "Control engineering"
+      ],
+      "doi": "10.1177/0278364913518998",
+      "coauthors": [
+        "Manuel G. Catalano",
+        "Giorgio Grioli",
+        "Edoardo Farnioli",
+        "Alessandro Serio",
+        "Cristina Piazza"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Design and Control of a Variable Stiffness Actuator for Safe and Fast Physical Human/Robot Interaction",
+      "cites": 534,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Actuator",
+        "Mechanical impedance",
+        "Impedance control",
+        "Stiffness",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.2005.1570172",
+      "coauthors": [
+        "Giovanni Tonietti",
+        "Riccardo Schiavi"
+      ]
+    },
+    {
+      "year": 1995,
+      "venue": "IJRR",
+      "title": "On the Closure Properties of Robotic Grasping",
+      "cites": 531,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Closure (psychology)",
+        "GRASP",
+        "Property (philosophy)",
+        "Computer science",
+        "Fixture"
+      ],
+      "doi": "10.1177/027836499501400402",
+      "coauthors": []
+    },
+    {
+      "year": 2015,
+      "venue": "T-Mech",
+      "title": "Variable Stiffness Actuators: Review on Design and Components",
+      "cites": 432,
+      "n_authors": 19,
+      "role": "middle",
+      "concepts": [
+        "Mechatronics",
+        "Stiffness",
+        "Actuator",
+        "Process (computing)",
+        "Control engineering"
+      ],
+      "doi": "10.1109/tmech.2015.2501019",
+      "coauthors": [
+        "Sebastian Wolf",
+        "Giorgio Grioli",
+        "Oliver Eiberger",
+        "Werner Friedl",
+        "Markus Grebenstein",
+        "Hannes Höppner",
+        "Etienne Burdet",
+        "Darwin G. Caldwell",
+        "Raffaella Carloni",
+        "Manuel G. Catalano",
+        "Dirk Lefeber",
+        "Stefano Stramigioli",
+        "Nikos G. Tsagarakis",
+        "Michaël Van Damme",
+        "Ronald Van Ham",
+        "Bram Vanderborght",
+        "Ludo C. Visser",
+        "Alin Albu‐Schäffer"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "ICRA",
+      "title": "VSA-II: a novel prototype of variable stiffness actuator for safe and performing robots interacting with humans",
+      "cites": 359,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Actuator",
+        "Robustness (evolution)",
+        "Stiffness",
+        "Robot",
+        "Torque"
+      ],
+      "doi": "10.1109/robot.2008.4543528",
+      "coauthors": [
+        "Riccardo Schiavi",
+        "Giorgio Grioli",
+        "Soumen Sen"
+      ]
+    },
+    {
+      "year": 1993,
+      "venue": "IJRR",
+      "title": "Contact Sensing from Force Measurements",
+      "cites": 305,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "GRASP",
+        "Robot",
+        "Contact force",
+        "Computer science",
+        "Slip (aerodynamics)"
+      ],
+      "doi": "10.1177/027836499301200304",
+      "coauthors": [
+        "J. Kenneth Salisbury",
+        "David L. Brock"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "IJRR",
+      "title": "Model-based dynamic feedback control of a planar soft robot: trajectory tracking and interaction with the environment",
+      "cites": 270,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Trajectory",
+        "Robot",
+        "Control theory (sociology)",
+        "Control engineering",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364919897292",
+      "coauthors": [
+        "Cosimo Della Santina",
+        "Robert K. Katzschmann",
+        "Daniela Rus"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "Tele-impedance: Teleoperation with impedance regulation using a body-machine interface",
+      "cites": 265,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Teleoperation",
+        "Impedance control",
+        "Robotic arm",
+        "Interface (matter)",
+        "Electrical impedance"
+      ],
+      "doi": "10.1177/0278364912464668",
+      "coauthors": [
+        "Arash Ajoudani",
+        "Nikos G. Tsagarakis"
+      ]
+    },
+    {
+      "year": 1997,
+      "venue": "ICRA",
+      "title": "Introducing the \"SPHERICLE\": an experimental testbed for research and teaching in nonholonomy",
+      "cites": 243,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Testbed",
+        "Kinematics",
+        "Nonholonomic system",
+        "Ball (mathematics)",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.1997.619356",
+      "coauthors": [
+        "Andrea Balluchi",
+        "Domenico Prattichizzo",
+        "Andrea Gorelli"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer-3",
+      "headline": "Antonio Bicchi: 41년에 걸쳐 210편, 총 11,570회 인용, h=51, 500+ 블록버스터 4편.",
+      "paragraphs": [
+        "1985년 \"Tendon actuated exploratory finger with polymeric, skin-like tactile sensor\"으로 출발. 첫 500+ 인용 논문까지 10년 걸림: \"On the Closure Properties of Robotic Grasping\" (1995, 531회). 1000+ 인용 논문: \"Robotic Grasping and Contact: A Review\" (2000, 1,056회).",
+        "초기 토픽: Computer science, Tactile sensor, Robotic hand. 최근 토픽: Computer science, Agonist, Prosthesis. 피벗 점수 0.24 → 토픽 지속형.",
+        "저자수 평균: 초기 2.7명 → 후기 5.7명 (팀 확장).",
+        "최다 인용 논문 \"Robotic Grasping and Contact: A Review\" (2000, 1,056회) — 커리어 중기에 위치.",
+        "제자 후보 추정 58명 — 상위: Giorgio Grioli(2008~, 우리 마지막저자 16편), Manuel G. Catalano(2009~, 우리 마지막저자 15편), Marco Gabiccini(2010~, 우리 마지막저자 14편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "58명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer-3",
+      "headline": "Antonio Bicchi: over 41 years, 210 papers, 11,570 total cites, h=51, 4 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1985 with \"Tendon actuated exploratory finger with polymeric, skin-like tactile sensor\". First 500+ cite paper came 10 years in: \"On the Closure Properties of Robotic Grasping\" (1995, 531 cites). 1000+ cite paper: \"Robotic Grasping and Contact: A Review\" (2000, 1,056 cites).",
+        "Early topics: Computer science, Tactile sensor, Robotic hand. Recent topics: Computer science, Agonist, Prosthesis. Pivot score 0.24 → topic-stable.",
+        "Authors per paper: early 2.7 → late 5.7 (team growth).",
+        "Peak paper \"Robotic Grasping and Contact: A Review\" (2000, 1,056 cites) — fell in mid career.",
+        "58 likely students — top: Giorgio Grioli(2008~, we last-author on 16), Manuel G. Catalano(2009~, we last-author on 15), Marco Gabiccini(2010~, we last-author on 14)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "58 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

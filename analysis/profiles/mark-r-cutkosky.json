@@ -1,0 +1,1569 @@
+{
+  "name": "Mark R. Cutkosky",
+  "slug": "mark-r-cutkosky",
+  "career_stats": {
+    "first_year": 1986,
+    "last_year": 2025,
+    "span": 40,
+    "total_papers": 144,
+    "total_cites": 9897,
+    "h_index": 51,
+    "i10_index": 121,
+    "seminal_count": 1,
+    "max_cites_single_paper": 644
+  },
+  "role_distribution": {
+    "first": 2,
+    "last": 114,
+    "middle": 28
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1986,
+      "title": "Modeling manufacturing grips and correlations with the design of robotic hands"
+    },
+    "first_100cite": {
+      "year": 1986,
+      "title": "Modeling manufacturing grips and correlations with the design of robotic hands",
+      "cites": 141,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2008,
+      "title": "Smooth Vertical Surface Climbing With Directional Adhesion",
+      "cites": 644,
+      "gap_from_first": 22
+    },
+    "peak_paper": {
+      "year": 2008,
+      "title": "Smooth Vertical Surface Climbing With Directional Adhesion",
+      "cites": 644
+    }
+  },
+  "year_series": {
+    "1986": {
+      "n": 1,
+      "cites": 141,
+      "max_cites": 141
+    },
+    "1987": {
+      "n": 1,
+      "cites": 94,
+      "max_cites": 94
+    },
+    "1988": {
+      "n": 1,
+      "cites": 113,
+      "max_cites": 113
+    },
+    "1989": {
+      "n": 3,
+      "cites": 369,
+      "max_cites": 231
+    },
+    "1990": {
+      "n": 1,
+      "cites": 74,
+      "max_cites": 74
+    },
+    "1991": {
+      "n": 1,
+      "cites": 27,
+      "max_cites": 27
+    },
+    "1992": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1993": {
+      "n": 3,
+      "cites": 365,
+      "max_cites": 269
+    },
+    "1994": {
+      "n": 1,
+      "cites": 59,
+      "max_cites": 59
+    },
+    "1995": {
+      "n": 3,
+      "cites": 71,
+      "max_cites": 34
+    },
+    "1996": {
+      "n": 1,
+      "cites": 247,
+      "max_cites": 247
+    },
+    "1997": {
+      "n": 1,
+      "cites": 85,
+      "max_cites": 85
+    },
+    "1998": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1999": {
+      "n": 1,
+      "cites": 46,
+      "max_cites": 46
+    },
+    "2000": {
+      "n": 1,
+      "cites": 464,
+      "max_cites": 464
+    },
+    "2001": {
+      "n": 3,
+      "cites": 377,
+      "max_cites": 228
+    },
+    "2002": {
+      "n": 2,
+      "cites": 285,
+      "max_cites": 254
+    },
+    "2003": {
+      "n": 2,
+      "cites": 39,
+      "max_cites": 30
+    },
+    "2004": {
+      "n": 1,
+      "cites": 112,
+      "max_cites": 112
+    },
+    "2005": {
+      "n": 1,
+      "cites": 101,
+      "max_cites": 101
+    },
+    "2006": {
+      "n": 2,
+      "cites": 602,
+      "max_cites": 321
+    },
+    "2007": {
+      "n": 3,
+      "cites": 446,
+      "max_cites": 255
+    },
+    "2008": {
+      "n": 3,
+      "cites": 765,
+      "max_cites": 644
+    },
+    "2009": {
+      "n": 5,
+      "cites": 285,
+      "max_cites": 116
+    },
+    "2010": {
+      "n": 7,
+      "cites": 578,
+      "max_cites": 264
+    },
+    "2011": {
+      "n": 7,
+      "cites": 296,
+      "max_cites": 139
+    },
+    "2012": {
+      "n": 5,
+      "cites": 266,
+      "max_cites": 112
+    },
+    "2013": {
+      "n": 4,
+      "cites": 119,
+      "max_cites": 67
+    },
+    "2014": {
+      "n": 8,
+      "cites": 341,
+      "max_cites": 161
+    },
+    "2015": {
+      "n": 9,
+      "cites": 391,
+      "max_cites": 102
+    },
+    "2016": {
+      "n": 9,
+      "cites": 376,
+      "max_cites": 79
+    },
+    "2017": {
+      "n": 9,
+      "cites": 739,
+      "max_cites": 316
+    },
+    "2018": {
+      "n": 9,
+      "cites": 687,
+      "max_cites": 362
+    },
+    "2019": {
+      "n": 5,
+      "cites": 159,
+      "max_cites": 64
+    },
+    "2020": {
+      "n": 5,
+      "cites": 178,
+      "max_cites": 72
+    },
+    "2021": {
+      "n": 5,
+      "cites": 390,
+      "max_cites": 221
+    },
+    "2022": {
+      "n": 8,
+      "cites": 129,
+      "max_cites": 33
+    },
+    "2023": {
+      "n": 3,
+      "cites": 26,
+      "max_cites": 10
+    },
+    "2024": {
+      "n": 3,
+      "cites": 22,
+      "max_cites": 16
+    },
+    "2025": {
+      "n": 7,
+      "cites": 33,
+      "max_cites": 19
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.143
+        },
+        {
+          "c": "GRASP",
+          "w": 0.114
+        },
+        {
+          "c": "Robot",
+          "w": 0.086
+        },
+        {
+          "c": "Slip (aerodynamics)",
+          "w": 0.057
+        },
+        {
+          "c": "Tactile sensor",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.075
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.05
+        },
+        {
+          "c": "Slip (aerodynamics)",
+          "w": 0.05
+        },
+        {
+          "c": "GRASP",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Kinematics",
+          "w": 0.1
+        },
+        {
+          "c": "Surface (topology)",
+          "w": 0.1
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Computer science",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.089
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.067
+        },
+        {
+          "c": "Feature (linguistics)",
+          "w": 0.044
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.12
+        },
+        {
+          "c": "Climbing",
+          "w": 0.1
+        },
+        {
+          "c": "Computer science",
+          "w": 0.05
+        },
+        {
+          "c": "Climb",
+          "w": 0.04
+        },
+        {
+          "c": "Adhesive",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 33,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.091
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Actuator",
+          "w": 0.042
+        },
+        {
+          "c": "GRASP",
+          "w": 0.036
+        },
+        {
+          "c": "Materials science",
+          "w": 0.03
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 37,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.081
+        },
+        {
+          "c": "Robot",
+          "w": 0.076
+        },
+        {
+          "c": "GRASP",
+          "w": 0.054
+        },
+        {
+          "c": "Adhesive",
+          "w": 0.038
+        },
+        {
+          "c": "Materials science",
+          "w": 0.038
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.123
+        },
+        {
+          "c": "Robot",
+          "w": 0.085
+        },
+        {
+          "c": "GRASP",
+          "w": 0.062
+        },
+        {
+          "c": "Tactile sensor",
+          "w": 0.054
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.054
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "mix": {
+        "ICRA": 7
+      }
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "ICRA": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "IJRR": 4,
+        "ICRA": 3,
+        "T-Mech": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "ICRA": 13,
+        "IJRR": 3,
+        "T-RO": 3,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 15,
+        "IROS": 13,
+        "IJRR": 3,
+        "T-Mech": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "RA-L": 17,
+        "IJRR": 5,
+        "T-RO": 5,
+        "IROS": 3,
+        "ICRA": 3,
+        "Sci-Rob": 2,
+        "T-Mech": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "RA-L": 10,
+        "IROS": 6,
+        "Sci-Rob": 3,
+        "ICRA": 3,
+        "T-RO": 3,
+        "T-Mech": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "mean_n_authors": 2.71,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "Robert D. Howe",
+          3
+        ],
+        [
+          "Paul K. Wright",
+          2
+        ],
+        [
+          "Imin Kao",
+          2
+        ],
+        [
+          "Prasad Akella",
+          2
+        ],
+        [
+          "John M. Jourdain",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "mean_n_authors": 2.25,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Marc R. Tremblay",
+          2
+        ],
+        [
+          "Prasad Akella",
+          1
+        ],
+        [
+          "Roland Siegwart",
+          1
+        ],
+        [
+          "Imin Kao",
+          1
+        ],
+        [
+          "James M. Hyde",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 2.5,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "Allison M. Okamura",
+          3
+        ],
+        [
+          "Robert D. Howe",
+          1
+        ],
+        [
+          "Michael L. Turner",
+          1
+        ],
+        [
+          "Niels Smaby",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 3,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Allison M. Okamura",
+          3
+        ],
+        [
+          "Jorge G. Cham",
+          2
+        ],
+        [
+          "William R. Provancher",
+          2
+        ],
+        [
+          "Jack T. Dennerlein",
+          1
+        ],
+        [
+          "Sean A. Bailey",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 4.6,
+      "unique_coauthors": 34,
+      "top_coauthors": [
+        [
+          "Sangbae Kim",
+          6
+        ],
+        [
+          "Barrett Heyneman",
+          5
+        ],
+        [
+          "Alan T. Asbeck",
+          4
+        ],
+        [
+          "Yong-Lae Park",
+          4
+        ],
+        [
+          "Richard J. Black",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 5.3,
+      "unique_coauthors": 76,
+      "top_coauthors": [
+        [
+          "Elliot Wright Hawkes",
+          11
+        ],
+        [
+          "David L. Christensen",
+          9
+        ],
+        [
+          "Hao Jiang",
+          7
+        ],
+        [
+          "Zhan Fan Quek",
+          4
+        ],
+        [
+          "Bruce L. Daniel",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 4.62,
+      "unique_coauthors": 68,
+      "top_coauthors": [
+        [
+          "Shiquan Wang",
+          8
+        ],
+        [
+          "Hao Jiang",
+          8
+        ],
+        [
+          "Elliot Wright Hawkes",
+          8
+        ],
+        [
+          "Srinivasan A. Suresh",
+          8
+        ],
+        [
+          "Tae Myung Huh",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 6,
+      "unique_coauthors": 91,
+      "top_coauthors": [
+        [
+          "Hojung Choi",
+          7
+        ],
+        [
+          "Michael A. Lin",
+          5
+        ],
+        [
+          "Dane Brouwer",
+          4
+        ],
+        [
+          "Tony G. Chen",
+          4
+        ],
+        [
+          "Marco Pavone",
+          4
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.4,
+  "top_repeat_coauthors": [
+    {
+      "name": "Elliot Wright Hawkes",
+      "count": 19,
+      "first_year": 2011,
+      "last_year": 2019
+    },
+    {
+      "name": "David L. Christensen",
+      "count": 15,
+      "first_year": 2013,
+      "last_year": 2018
+    },
+    {
+      "name": "Hao Jiang",
+      "count": 15,
+      "first_year": 2013,
+      "last_year": 2018
+    },
+    {
+      "name": "Shiquan Wang",
+      "count": 11,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "Allison M. Okamura",
+      "count": 10,
+      "first_year": 1997,
+      "last_year": 2025
+    },
+    {
+      "name": "Barrett Heyneman",
+      "count": 10,
+      "first_year": 2007,
+      "last_year": 2016
+    },
+    {
+      "name": "Srinivasan A. Suresh",
+      "count": 10,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Richard J. Black",
+      "count": 8,
+      "first_year": 2007,
+      "last_year": 2021
+    },
+    {
+      "name": "Matthew A. Estrada",
+      "count": 8,
+      "first_year": 2013,
+      "last_year": 2017
+    },
+    {
+      "name": "Tae Myung Huh",
+      "count": 8,
+      "first_year": 2016,
+      "last_year": 2022
+    },
+    {
+      "name": "Hojung Choi",
+      "count": 8,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Oussama Khatib",
+      "count": 7,
+      "first_year": 2009,
+      "last_year": 2017
+    },
+    {
+      "name": "Robert D. Howe",
+      "count": 6,
+      "first_year": 1988,
+      "last_year": 2014
+    },
+    {
+      "name": "Alan T. Asbeck",
+      "count": 6,
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "name": "Sangbae Kim",
+      "count": 6,
+      "first_year": 2006,
+      "last_year": 2008
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "David L. Christensen",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 15,
+      "total_copubs": 15,
+      "student_first_author_count": 2,
+      "we_last_author_count": 13,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Shiquan Wang",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 3,
+      "we_last_author_count": 11,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Matthew A. Estrada",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Tae Myung Huh",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Allison M. Okamura",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 10,
+      "student_first_author_count": 6,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sangbae Kim",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Wilson Ruotolo",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Amy Kyungwon Han",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Dongjun Shin",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Xin Alice Wu",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Michael A. Lin",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yong-Lae Park",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Hojung Choi",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Salomon Trujillo",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Sanjay Dastoor",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Alexander Gruebele",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Morgan T. Pope",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Dane Brouwer",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Daniel Aukes",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Natalie Burkhard",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Alan T. Asbeck",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Tony G. Chen",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Daniel Santos",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Samuel Frishman",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Chengyi Xing",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Amar Hajj-Ahmad",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Elliot Wright Hawkes",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 19,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Alexis Lussier Desbiens",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Hannah Stuart",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Marc R. Tremblay",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1995
+    },
+    {
+      "name": "Hannah S. Stuart",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Kris Hauser",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Jorge G. Cham",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Rachel Thomasson",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "John Ulmen",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Julia Di",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jean-Philippe Roberge",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "William R. T. Roderick",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Santhi Elayaperumal",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Christopher J. Ploch",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Jiro Hashizume",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "William R. Provancher",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Crystal E. Winston",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Stephanie Newdick",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Samson Phan",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Cheng Liu",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Shenli Yuan",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1986,
+      1995
+    ],
+    "early_mean_n_authors": 2.47,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.19
+  },
+  "citation_half_life_years": 17,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2008,
+      2017,
+      2018
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "Smooth Vertical Surface Climbing With Directional Adhesion",
+      "cites": 644,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Climbing",
+        "Robot",
+        "Adhesion",
+        "Surface (topology)",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2007.909786",
+      "coauthors": [
+        "Sangbae Kim",
+        "Matthew Spenko",
+        "Salomon Trujillo",
+        "Barrett Heyneman",
+        "Daniel Santos"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "An Overview of Dexterous Manipulation",
+      "cites": 464,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Computer science",
+        "Robotics",
+        "Kinematics",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/robot.2000.844067",
+      "coauthors": [
+        "Allison M. Okamura",
+        "Niels Smaby"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "A Soft Robotic Gripper With Gecko-Inspired Adhesive",
+      "cites": 362,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Grippers",
+        "Actuator",
+        "Soft robotics",
+        "Adhesive",
+        "Elastomer"
+      ],
+      "doi": "10.1109/lra.2018.2792688",
+      "coauthors": [
+        "Paul Glick",
+        "Srinivasan A. Suresh",
+        "Donald Ruffatto",
+        "Michael Thomas Tolley",
+        "Aaron Parness"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Scaling Hard Vertical Surfaces with Compliant Microspine Arrays",
+      "cites": 321,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Climbing",
+        "Robot",
+        "Climb",
+        "Payload (computing)",
+        "Surface roughness"
+      ],
+      "doi": "10.1177/0278364906072511",
+      "coauthors": [
+        "Alan T. Asbeck",
+        "Sangbae Kim",
+        "William R. Provancher",
+        "Michele Lanzetta"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "Sci-Rob",
+      "title": "A robotic device using gecko-inspired adhesives can grasp and manipulate large objects in microgravity",
+      "cites": 316,
+      "n_authors": 10,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Gecko",
+        "Computer science",
+        "Adhesive",
+        "Robotic hand"
+      ],
+      "doi": "10.1126/scirobotics.aan4545",
+      "coauthors": [
+        "Elliot Wright Hawkes",
+        "Christine Fuller",
+        "Matthew A. Estrada",
+        "Srinivasan A. Suresh",
+        "Neil Abcouwer",
+        "Amy Kyungwon Han",
+        "Shiquan Wang",
+        "Christopher J. Ploch",
+        "Aaron Parness"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "iSprawl: Design and Tuning for High-speed Autonomous Open-loop Running",
+      "cites": 281,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Hexapod",
+        "STRIDE",
+        "Trajectory",
+        "Transmission (telecommunications)",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1177/0278364906069150",
+      "coauthors": [
+        "Sangbae Kim",
+        "Jonathan E. Clark"
+      ]
+    },
+    {
+      "year": 1993,
+      "venue": "ICRA",
+      "title": "Estimating Friction Using Incipient Slip Sensing During a Manipulation Task",
+      "cites": 269,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Slipping",
+        "Slip (aerodynamics)",
+        "GRASP",
+        "Computer science",
+        "Task (project management)"
+      ],
+      "doi": "10.1109/robot.1993.292018",
+      "coauthors": [
+        "Marc R. Tremblay"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "T-Mech",
+      "title": "Real-Time Estimation of 3-D Needle Shape and Deflection for MRI-Guided Interventions",
+      "cites": 264,
+      "n_authors": 9,
+      "role": "last",
+      "concepts": [
+        "Scanner",
+        "Fixture",
+        "Biomedical engineering",
+        "Deflection (physics)",
+        "Materials science"
+      ],
+      "doi": "10.1109/tmech.2010.2080360",
+      "coauthors": [
+        "Yong‐Lae Park",
+        "Santhi Elayaperumal",
+        "Bruce L. Daniel",
+        "Seok Chang Ryu",
+        "Mihye Shin",
+        "Joan Savall",
+        "Richard J. Black",
+        "Behzad Moslehi"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "ICRA",
+      "title": "Whole body adhesion: hierarchical, directional and distributed control of adhesive forces for a climbing robot",
+      "cites": 255,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Climb",
+        "Adhesive",
+        "Climbing",
+        "Robot",
+        "Adhesion"
+      ],
+      "doi": "10.1109/robot.2007.363159",
+      "coauthors": [
+        "Sangbae Kim",
+        "Matthew Spenko",
+        "Salomon Trujillo",
+        "Barrett Heyneman",
+        "Virgilio Mattoli"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IJRR",
+      "title": "Fast and Robust",
+      "cites": 254,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Robustness (evolution)",
+        "Biomimetics",
+        "3D printing",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364902021010837",
+      "coauthors": [
+        "Jorge G. Cham",
+        "Sean A. Bailey",
+        "Jonathan E. Clark",
+        "Robert J. Full"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Mark R. Cutkosky: 40년에 걸쳐 144편, 총 9,897회 인용, h=51, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "1986년 \"Modeling manufacturing grips and correlations with the design of robotic hands\"으로 출발. 첫 500+ 인용 논문까지 22년 걸림: \"Smooth Vertical Surface Climbing With Directional Adhesion\" (2008, 644회).",
+        "초기 토픽: Computer science, GRASP, Robot. 최근 토픽: Computer science, Robot, GRASP. 피벗 점수 0.40 → 점진적 이동형.",
+        "저자수 평균: 초기 2.5명 → 후기 5.2명 (팀 확장).",
+        "최다 인용 논문 \"Smooth Vertical Surface Climbing With Directional Adhesion\" (2008, 644회) — 커리어 중기에 위치.",
+        "제자 후보 추정 47명 — 상위: David L. Christensen(2013~, 우리 마지막저자 13편), Shiquan Wang(2014~, 우리 마지막저자 11편), Matthew A. Estrada(2012~, 우리 마지막저자 7편)."
+      ],
+      "lessons": [
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "47명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Mark R. Cutkosky: over 40 years, 144 papers, 9,897 total cites, h=51, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1986 with \"Modeling manufacturing grips and correlations with the design of robotic hands\". First 500+ cite paper came 22 years in: \"Smooth Vertical Surface Climbing With Directional Adhesion\" (2008, 644 cites).",
+        "Early topics: Computer science, GRASP, Robot. Recent topics: Computer science, Robot, GRASP. Pivot score 0.40 → gradual shift.",
+        "Authors per paper: early 2.5 → late 5.2 (team growth).",
+        "Peak paper \"Smooth Vertical Surface Climbing With Directional Adhesion\" (2008, 644 cites) — fell in mid career.",
+        "47 likely students — top: David L. Christensen(2013~, we last-author on 13), Shiquan Wang(2014~, we last-author on 11), Matthew A. Estrada(2012~, we last-author on 7)."
+      ],
+      "lessons": [
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "47 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

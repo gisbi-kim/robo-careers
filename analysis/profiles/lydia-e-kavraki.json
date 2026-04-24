@@ -1,0 +1,1264 @@
+{
+  "name": "Lydia E. Kavraki",
+  "slug": "lydia-e-kavraki",
+  "career_stats": {
+    "first_year": 1993,
+    "last_year": 2025,
+    "span": 33,
+    "total_papers": 130,
+    "total_cites": 7688,
+    "h_index": 47,
+    "i10_index": 91,
+    "seminal_count": 1,
+    "max_cites_single_paper": 853
+  },
+  "role_distribution": {
+    "first": 7,
+    "middle": 28,
+    "last": 95
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1993,
+      "title": "Computation of Configuration-Space Obstacles Using the Fast Fourier Transform"
+    },
+    "first_100cite": {
+      "year": 1994,
+      "title": "Randomized Preprocessing of Configuration Space for Fast Path Planning",
+      "cites": 412,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2000,
+      "title": "Path Planning Using Lazy PRM",
+      "cites": 853,
+      "gap_from_first": 7
+    },
+    "peak_paper": {
+      "year": 2000,
+      "title": "Path Planning Using Lazy PRM",
+      "cites": 853
+    }
+  },
+  "year_series": {
+    "1993": {
+      "n": 1,
+      "cites": 12,
+      "max_cites": 12
+    },
+    "1994": {
+      "n": 3,
+      "cites": 503,
+      "max_cites": 412
+    },
+    "1995": {
+      "n": 1,
+      "cites": 62,
+      "max_cites": 62
+    },
+    "1996": {
+      "n": 1,
+      "cites": 417,
+      "max_cites": 417
+    },
+    "1997": {
+      "n": 2,
+      "cites": 335,
+      "max_cites": 276
+    },
+    "1998": {
+      "n": 1,
+      "cites": 44,
+      "max_cites": 44
+    },
+    "1999": {
+      "n": 3,
+      "cites": 261,
+      "max_cites": 146
+    },
+    "2000": {
+      "n": 7,
+      "cites": 1354,
+      "max_cites": 853
+    },
+    "2001": {
+      "n": 6,
+      "cites": 375,
+      "max_cites": 161
+    },
+    "2002": {
+      "n": 3,
+      "cites": 199,
+      "max_cites": 89
+    },
+    "2003": {
+      "n": 1,
+      "cites": 50,
+      "max_cites": 50
+    },
+    "2004": {
+      "n": 6,
+      "cites": 602,
+      "max_cites": 247
+    },
+    "2005": {
+      "n": 4,
+      "cites": 320,
+      "max_cites": 172
+    },
+    "2006": {
+      "n": 2,
+      "cites": 259,
+      "max_cites": 203
+    },
+    "2007": {
+      "n": 5,
+      "cites": 285,
+      "max_cites": 108
+    },
+    "2008": {
+      "n": 3,
+      "cites": 42,
+      "max_cites": 17
+    },
+    "2009": {
+      "n": 2,
+      "cites": 107,
+      "max_cites": 83
+    },
+    "2010": {
+      "n": 3,
+      "cites": 437,
+      "max_cites": 243
+    },
+    "2011": {
+      "n": 2,
+      "cites": 31,
+      "max_cites": 24
+    },
+    "2012": {
+      "n": 4,
+      "cites": 222,
+      "max_cites": 151
+    },
+    "2013": {
+      "n": 3,
+      "cites": 124,
+      "max_cites": 71
+    },
+    "2014": {
+      "n": 4,
+      "cites": 83,
+      "max_cites": 62
+    },
+    "2015": {
+      "n": 4,
+      "cites": 161,
+      "max_cites": 94
+    },
+    "2016": {
+      "n": 5,
+      "cites": 325,
+      "max_cites": 168
+    },
+    "2017": {
+      "n": 1,
+      "cites": 37,
+      "max_cites": 37
+    },
+    "2018": {
+      "n": 3,
+      "cites": 287,
+      "max_cites": 123
+    },
+    "2019": {
+      "n": 9,
+      "cites": 334,
+      "max_cites": 111
+    },
+    "2020": {
+      "n": 4,
+      "cites": 72,
+      "max_cites": 26
+    },
+    "2021": {
+      "n": 9,
+      "cites": 131,
+      "max_cites": 31
+    },
+    "2022": {
+      "n": 8,
+      "cites": 119,
+      "max_cites": 51
+    },
+    "2023": {
+      "n": 9,
+      "cites": 50,
+      "max_cites": 17
+    },
+    "2024": {
+      "n": 7,
+      "cites": 42,
+      "max_cites": 20
+    },
+    "2025": {
+      "n": 4,
+      "cites": 6,
+      "max_cites": 4
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1993,
+      "end": 1997,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.1
+        },
+        {
+          "c": "Path (computing)",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.075
+        },
+        {
+          "c": "Preprocessor",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.094
+        },
+        {
+          "c": "Probabilistic roadmap",
+          "w": 0.073
+        },
+        {
+          "c": "Field (mathematics)",
+          "w": 0.052
+        },
+        {
+          "c": "Workspace",
+          "w": 0.042
+        }
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.122
+        },
+        {
+          "c": "Planner",
+          "w": 0.067
+        },
+        {
+          "c": "Path (computing)",
+          "w": 0.044
+        },
+        {
+          "c": "Tangent",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.157
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.071
+        },
+        {
+          "c": "Sampling (signal processing)",
+          "w": 0.071
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.173
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.093
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.053
+        },
+        {
+          "c": "Planner",
+          "w": 0.04
+        },
+        {
+          "c": "Sampling (signal processing)",
+          "w": 0.027
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 33,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.188
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.091
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.048
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.048
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.191
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.064
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.064
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.053
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.043
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1993,
+      "end": 1997,
+      "mix": {
+        "ICRA": 5,
+        "IJRR": 2,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 5,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 9,
+        "T-RO": 4,
+        "IROS": 2,
+        "RSS": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "IROS": 6,
+        "ICRA": 5,
+        "T-RO": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 9,
+        "RSS": 3,
+        "T-RO": 2,
+        "IROS": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "ICRA": 12,
+        "RA-L": 9,
+        "IROS": 8,
+        "IJRR": 4
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "ICRA": 11,
+        "T-RO": 4,
+        "IROS": 2,
+        "RSS": 2,
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1993,
+      "end": 1997,
+      "mean_n_authors": 3,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Jean-Claude Latombe",
+          6
+        ],
+        [
+          "Achim Schweikard",
+          1
+        ],
+        [
+          "Rhea Tombropoulos",
+          1
+        ],
+        [
+          "John R. Adler Jr.",
+          1
+        ],
+        [
+          "Randall H. Wilson",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 2.55,
+      "unique_coauthors": 22,
+      "top_coauthors": [
+        [
+          "Florent Lamiraux",
+          5
+        ],
+        [
+          "Christopher Holleman",
+          3
+        ],
+        [
+          "Andrew M. Ladd",
+          3
+        ],
+        [
+          "Attawith Sudsang",
+          2
+        ],
+        [
+          "Joe D. Warren",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 2.89,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "Kostas E. Bekris",
+          8
+        ],
+        [
+          "Andrew M. Ladd",
+          6
+        ],
+        [
+          "Erion Plaku",
+          6
+        ],
+        [
+          "Mark Moll",
+          3
+        ],
+        [
+          "Brian Y. Chen",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 2.79,
+      "unique_coauthors": 15,
+      "top_coauthors": [
+        [
+          "Ioan Alexandru Sucan",
+          8
+        ],
+        [
+          "Moshe Y. Vardi",
+          3
+        ],
+        [
+          "Erion Plaku",
+          2
+        ],
+        [
+          "Jonathan F. Kruse",
+          1
+        ],
+        [
+          "Mark Yim",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 3.71,
+      "unique_coauthors": 27,
+      "top_coauthors": [
+        [
+          "Mark Moll",
+          9
+        ],
+        [
+          "Morteza Lahijanian",
+          5
+        ],
+        [
+          "Moshe Y. Vardi",
+          4
+        ],
+        [
+          "Ryan Luna",
+          2
+        ],
+        [
+          "Devin K. Grady",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 4.03,
+      "unique_coauthors": 49,
+      "top_coauthors": [
+        [
+          "Constantinos Chamzas",
+          10
+        ],
+        [
+          "Mark Moll",
+          8
+        ],
+        [
+          "Zachary Kingston",
+          8
+        ],
+        [
+          "Andrew M. Wells",
+          7
+        ],
+        [
+          "Anshumali Shrivastava",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 4.05,
+      "unique_coauthors": 33,
+      "top_coauthors": [
+        [
+          "Zachary Kingston",
+          11
+        ],
+        [
+          "Wil Thomason",
+          6
+        ],
+        [
+          "Rahul Shome",
+          4
+        ],
+        [
+          "Moshe Y. Vardi",
+          3
+        ],
+        [
+          "Tianyang Pan",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.193,
+  "top_repeat_coauthors": [
+    {
+      "name": "Mark Moll",
+      "count": 21,
+      "first_year": 2004,
+      "last_year": 2021
+    },
+    {
+      "name": "Zachary Kingston",
+      "count": 19,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Moshe Y. Vardi",
+      "count": 15,
+      "first_year": 2007,
+      "last_year": 2024
+    },
+    {
+      "name": "Kostas E. Bekris",
+      "count": 11,
+      "first_year": 2002,
+      "last_year": 2019
+    },
+    {
+      "name": "Constantinos Chamzas",
+      "count": 10,
+      "first_year": 2019,
+      "last_year": 2022
+    },
+    {
+      "name": "Andrew M. Ladd",
+      "count": 9,
+      "first_year": 2002,
+      "last_year": 2005
+    },
+    {
+      "name": "Ioan Alexandru Sucan",
+      "count": 9,
+      "first_year": 2008,
+      "last_year": 2013
+    },
+    {
+      "name": "Erion Plaku",
+      "count": 8,
+      "first_year": 2003,
+      "last_year": 2010
+    },
+    {
+      "name": "Morteza Lahijanian",
+      "count": 8,
+      "first_year": 2014,
+      "last_year": 2024
+    },
+    {
+      "name": "Andrew M. Wells",
+      "count": 8,
+      "first_year": 2019,
+      "last_year": 2024
+    },
+    {
+      "name": "Rahul Shome",
+      "count": 8,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Jean-Claude Latombe",
+      "count": 6,
+      "first_year": 1994,
+      "last_year": 1997
+    },
+    {
+      "name": "Tianyang Pan",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Carlos Quintero-Peña",
+      "count": 6,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Wil Thomason",
+      "count": 6,
+      "first_year": 2023,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Ioan Alexandru Sucan",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 7,
+      "we_last_author_count": 9,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Andrew M. Ladd",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 6,
+      "we_last_author_count": 9,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Kostas E. Bekris",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 11,
+      "student_first_author_count": 5,
+      "we_last_author_count": 9,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Constantinos Chamzas",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 5,
+      "we_last_author_count": 9,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Carlos Quintero-Peña",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Tianyang Pan",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Wil Thomason",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Erion Plaku",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 6,
+      "we_last_author_count": 4,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Juan David Hernández",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Andrew M. Wells",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Neil T. Dantam",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Devin K. Grady",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Shlok Sobti",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Rahul Shome",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Mark Moll",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 21,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Zachary Kingston",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 19,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Christopher Holleman",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Ryan Luna",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Jeff M. Phillips",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Yiyuan Lee",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Eduard Vidal",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Konstantinos I. Tsianos",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Morteza Lahijanian",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Matthew R. Maly",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Keliang He",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Kejia Ren",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1993,
+      2002
+    ],
+    "early_mean_n_authors": 2.68,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.05
+  },
+  "citation_half_life_years": 22.0,
+  "bursts": {
+    "productivity": [
+      2019,
+      2021,
+      2023
+    ],
+    "impact": [
+      2000
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Path Planning Using Lazy PRM",
+      "cites": 853,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Probabilistic roadmap",
+        "Computer science",
+        "Motion planning",
+        "Shortest path problem",
+        "Path (computing)"
+      ],
+      "doi": "10.1109/robot.2000.844107",
+      "coauthors": [
+        "Robert Bohlin"
+      ]
+    },
+    {
+      "year": 1996,
+      "venue": "ICRA",
+      "title": "Analysis of probabilistic roadmaps for path planning",
+      "cites": 417,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Probabilistic roadmap",
+        "Probabilistic logic",
+        "Motion planning",
+        "Path (computing)",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.1996.509171",
+      "coauthors": [
+        "Mihail N. Kolountzakis",
+        "Jean-Claude Latombe"
+      ]
+    },
+    {
+      "year": 1994,
+      "venue": "ICRA",
+      "title": "Randomized Preprocessing of Configuration Space for Fast Path Planning",
+      "cites": 412,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Preprocessor",
+        "Motion planning",
+        "Computer science",
+        "Robot",
+        "Path (computing)"
+      ],
+      "doi": "10.1109/robot.1994.350966",
+      "coauthors": [
+        "Jean-Claude Latombe"
+      ]
+    },
+    {
+      "year": 1997,
+      "venue": "IJRR",
+      "title": "A Random Sampling Scheme for Path Planning",
+      "cites": 276,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Scheme (mathematics)",
+        "Path (computing)",
+        "Motion planning",
+        "Robot",
+        "Relation (database)"
+      ],
+      "doi": "10.1177/027836499701600604",
+      "coauthors": [
+        "Jérôme Barraquand",
+        "Jean-Claude Latombe",
+        "Tsai-Yen Li",
+        "Rajeev Motwani",
+        "Prabhakar Raghavan"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "T-RO",
+      "title": "On the feasibility of using wireless ethernet for indoor localization",
+      "cites": 247,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Ethernet",
+        "Computer science",
+        "Wireless sensor network",
+        "Computer network",
+        "Network packet"
+      ],
+      "doi": "10.1109/tra.2004.824948",
+      "coauthors": [
+        "Andrew M. Ladd",
+        "Kostas E. Bekris",
+        "Algis Rudys",
+        "Dan S. Wallach"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "ICRA",
+      "title": "Sampling-based motion planning with temporal goals",
+      "cites": 243,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Sampling (signal processing)",
+        "Motion (physics)",
+        "Motion planning",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/robot.2010.5509503",
+      "coauthors": [
+        "Amit Bhatia",
+        "Moshe Y. Vardi"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "T-RO",
+      "title": "Path planning for deformable linear objects",
+      "cites": 203,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Motion planning",
+        "Tangent",
+        "Path (computing)",
+        "Representation (politics)",
+        "Energy (signal processing)"
+      ],
+      "doi": "10.1109/tro.2006.878933",
+      "coauthors": [
+        "Mark Moll"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "T-RO",
+      "title": "Sampling-Based Roadmap of Trees for Parallel Motion Planning",
+      "cites": 172,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Probabilistic roadmap",
+        "Motion planning",
+        "Planner",
+        "Computer science",
+        "Sampling (signal processing)"
+      ],
+      "doi": "10.1109/tro.2005.847599",
+      "coauthors": [
+        "Erion Plaku",
+        "Kostas E. Bekris",
+        "Brian Y. Chen",
+        "Andrew M. Ladd"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "RSS",
+      "title": "Incremental Task and Motion Planning: A Constraint-Based Approach",
+      "cites": 168,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Constraint (computer-aided design)",
+        "Task (project management)",
+        "Motion planning",
+        "Motion (physics)"
+      ],
+      "doi": "10.15607/rss.2016.xii.002",
+      "coauthors": [
+        "Neil T. Dantam",
+        "Zachary K. Kingston",
+        "Swarat Chaudhuri"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "T-RO",
+      "title": "Motion Planning With Dynamics by a Synergistic Combination of Layers of Planning",
+      "cites": 166,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Motion planning",
+        "Workspace",
+        "Motion (physics)",
+        "Computer science",
+        "Sampling (signal processing)"
+      ],
+      "doi": "10.1109/tro.2010.2047820",
+      "coauthors": [
+        "Erion Plaku",
+        "Moshe Y. Vardi"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Lydia E. Kavraki: 33년에 걸쳐 130편, 총 7,688회 인용, h=47, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "1993년 \"Computation of Configuration-Space Obstacles Using the Fast Fourier Transform\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"Path Planning Using Lazy PRM\" (2000, 853회).",
+        "초기 토픽: Computer science, Motion planning, Path (computing). 최근 토픽: Computer science, Task (project management), Motion planning. 피벗 점수 0.19 → 토픽 지속형.",
+        "저자수 평균: 초기 2.7명 → 후기 4.0명 (팀 확장).",
+        "최다 인용 논문 \"Path Planning Using Lazy PRM\" (2000, 853회) — 커리어 초기에 위치.",
+        "제자 후보 추정 26명 — 상위: Ioan Alexandru Sucan(2008~, 우리 마지막저자 9편), Andrew M. Ladd(2002~, 우리 마지막저자 9편), Kostas E. Bekris(2002~, 우리 마지막저자 9편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "26명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Lydia E. Kavraki: over 33 years, 130 papers, 7,688 total cites, h=47, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1993 with \"Computation of Configuration-Space Obstacles Using the Fast Fourier Transform\". First 500+ cite paper came 7 years in: \"Path Planning Using Lazy PRM\" (2000, 853 cites).",
+        "Early topics: Computer science, Motion planning, Path (computing). Recent topics: Computer science, Task (project management), Motion planning. Pivot score 0.19 → topic-stable.",
+        "Authors per paper: early 2.7 → late 4.0 (team growth).",
+        "Peak paper \"Path Planning Using Lazy PRM\" (2000, 853 cites) — fell in early career.",
+        "26 likely students — top: Ioan Alexandru Sucan(2008~, we last-author on 9), Andrew M. Ladd(2002~, we last-author on 9), Kostas E. Bekris(2002~, we last-author on 9)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "26 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

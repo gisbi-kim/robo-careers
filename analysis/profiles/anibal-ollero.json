@@ -1,0 +1,1319 @@
+{
+  "name": "Aníbal Ollero",
+  "slug": "anibal-ollero",
+  "career_stats": {
+    "first_year": 1992,
+    "last_year": 2025,
+    "span": 34,
+    "total_papers": 112,
+    "total_cites": 4932,
+    "h_index": 38,
+    "i10_index": 86,
+    "seminal_count": 1,
+    "max_cites_single_paper": 504
+  },
+  "role_distribution": {
+    "last": 95,
+    "middle": 12,
+    "first": 5
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1992,
+      "title": "An iconic position estimator for a 2D laser rangefinder"
+    },
+    "first_100cite": {
+      "year": 1995,
+      "title": "Stability analysis of mobile robot path tracking",
+      "cites": 110,
+      "gap_from_first": 3
+    },
+    "first_500cite": {
+      "year": 2018,
+      "title": "Aerial Manipulation: A Literature Review",
+      "cites": 504,
+      "gap_from_first": 26
+    },
+    "peak_paper": {
+      "year": 2018,
+      "title": "Aerial Manipulation: A Literature Review",
+      "cites": 504
+    }
+  },
+  "year_series": {
+    "1992": {
+      "n": 1,
+      "cites": 46,
+      "max_cites": 46
+    },
+    "1993": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1994": {
+      "n": 2,
+      "cites": 149,
+      "max_cites": 84
+    },
+    "1995": {
+      "n": 1,
+      "cites": 110,
+      "max_cites": 110
+    },
+    "1996": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1997": {
+      "n": 1,
+      "cites": 10,
+      "max_cites": 10
+    },
+    "1998": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 1,
+      "cites": 60,
+      "max_cites": 60
+    },
+    "2005": {
+      "n": 3,
+      "cites": 229,
+      "max_cites": 132
+    },
+    "2006": {
+      "n": 1,
+      "cites": 45,
+      "max_cites": 45
+    },
+    "2007": {
+      "n": 2,
+      "cites": 114,
+      "max_cites": 60
+    },
+    "2008": {
+      "n": 2,
+      "cites": 109,
+      "max_cites": 67
+    },
+    "2009": {
+      "n": 2,
+      "cites": 68,
+      "max_cites": 42
+    },
+    "2010": {
+      "n": 5,
+      "cites": 78,
+      "max_cites": 35
+    },
+    "2011": {
+      "n": 1,
+      "cites": 52,
+      "max_cites": 52
+    },
+    "2012": {
+      "n": 4,
+      "cites": 56,
+      "max_cites": 30
+    },
+    "2013": {
+      "n": 8,
+      "cites": 472,
+      "max_cites": 257
+    },
+    "2014": {
+      "n": 8,
+      "cites": 491,
+      "max_cites": 216
+    },
+    "2015": {
+      "n": 8,
+      "cites": 418,
+      "max_cites": 157
+    },
+    "2016": {
+      "n": 6,
+      "cites": 231,
+      "max_cites": 71
+    },
+    "2017": {
+      "n": 2,
+      "cites": 70,
+      "max_cites": 63
+    },
+    "2018": {
+      "n": 6,
+      "cites": 704,
+      "max_cites": 504
+    },
+    "2019": {
+      "n": 6,
+      "cites": 249,
+      "max_cites": 83
+    },
+    "2020": {
+      "n": 10,
+      "cites": 268,
+      "max_cites": 61
+    },
+    "2021": {
+      "n": 6,
+      "cites": 230,
+      "max_cites": 96
+    },
+    "2022": {
+      "n": 6,
+      "cites": 576,
+      "max_cites": 430
+    },
+    "2023": {
+      "n": 7,
+      "cites": 66,
+      "max_cites": 18
+    },
+    "2024": {
+      "n": 6,
+      "cites": 20,
+      "max_cites": 10
+    },
+    "2025": {
+      "n": 7,
+      "cites": 11,
+      "max_cites": 10
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1992,
+      "end": 1996,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.1
+        },
+        {
+          "c": "Position (finance)",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Computer vision",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.2
+        },
+        {
+          "c": "Motion estimation",
+          "w": 0.2
+        }
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.16
+        },
+        {
+          "c": "Object detection",
+          "w": 0.08
+        },
+        {
+          "c": "Compensation (psychology)",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.183
+        },
+        {
+          "c": "Robot",
+          "w": 0.083
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.05
+        },
+        {
+          "c": "Wireless sensor network",
+          "w": 0.05
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 34,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.141
+        },
+        {
+          "c": "Robot",
+          "w": 0.035
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.035
+        },
+        {
+          "c": "Aerospace engineering",
+          "w": 0.029
+        },
+        {
+          "c": "Testbed",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 30,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.14
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Multirotor",
+          "w": 0.04
+        },
+        {
+          "c": "Robotic arm",
+          "w": 0.033
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.127
+        },
+        {
+          "c": "Robot",
+          "w": 0.079
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.04
+        },
+        {
+          "c": "Aerospace engineering",
+          "w": 0.04
+        },
+        {
+          "c": "Aerodynamics",
+          "w": 0.032
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1992,
+      "end": 1996,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "mix": {
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "ICRA": 5
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "ICRA": 20,
+        "IROS": 13,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "IROS": 15,
+        "RA-L": 12,
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "RA-L": 12,
+        "IROS": 7,
+        "ICRA": 4,
+        "T-RO": 2,
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1992,
+      "end": 1996,
+      "mean_n_authors": 3,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "Javier Gonzalez",
+          2
+        ],
+        [
+          "Anthony Stentz",
+          1
+        ],
+        [
+          "Antonio Reina",
+          1
+        ],
+        [
+          "Victor Fernand Muñoz",
+          1
+        ],
+        [
+          "María Prado Novoa",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "mean_n_authors": 2,
+      "unique_coauthors": 1,
+      "top_coauthors": [
+        [
+          "Joaquín Ferruz Melero",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 4.6,
+      "unique_coauthors": 10,
+      "top_coauthors": [
+        [
+          "Fernando Caballero",
+          4
+        ],
+        [
+          "Luis Merino",
+          4
+        ],
+        [
+          "Joaquin Ferruz",
+          3
+        ],
+        [
+          "Sebastian Hurtado",
+          1
+        ],
+        [
+          "J. Ramiro Martinez de Dios",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 4,
+      "unique_coauthors": 23,
+      "top_coauthors": [
+        [
+          "Fernando Caballero",
+          6
+        ],
+        [
+          "Luis Merino",
+          5
+        ],
+        [
+          "Iván Maza",
+          4
+        ],
+        [
+          "Antidio Viguria",
+          2
+        ],
+        [
+          "Joaquin Ferruz",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 4.91,
+      "unique_coauthors": 63,
+      "top_coauthors": [
+        [
+          "Guillermo Heredia",
+          10
+        ],
+        [
+          "Antidio Viguria",
+          7
+        ],
+        [
+          "Miguel Angel Trujillo",
+          6
+        ],
+        [
+          "Iván Maza",
+          5
+        ],
+        [
+          "Konstantin Kondak",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 5.23,
+      "unique_coauthors": 66,
+      "top_coauthors": [
+        [
+          "Guillermo Heredia",
+          9
+        ],
+        [
+          "Alejandro Suárez",
+          8
+        ],
+        [
+          "José Ramiro Martinez de Dios",
+          6
+        ],
+        [
+          "José Ángel Acosta",
+          6
+        ],
+        [
+          "Begoña C. Arrue",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 4.73,
+      "unique_coauthors": 58,
+      "top_coauthors": [
+        [
+          "Alejandro Suárez",
+          7
+        ],
+        [
+          "Raul Tapia",
+          6
+        ],
+        [
+          "Begoña C. Arrue",
+          5
+        ],
+        [
+          "Saeed Rafee Nekoo",
+          5
+        ],
+        [
+          "Antonio González-Morgado",
+          5
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.263,
+  "top_repeat_coauthors": [
+    {
+      "name": "Guillermo Heredia",
+      "count": 24,
+      "first_year": 1995,
+      "last_year": 2025
+    },
+    {
+      "name": "Alejandro Suárez",
+      "count": 18,
+      "first_year": 2015,
+      "last_year": 2025
+    },
+    {
+      "name": "Fernando Caballero",
+      "count": 13,
+      "first_year": 2004,
+      "last_year": 2015
+    },
+    {
+      "name": "Luis Merino",
+      "count": 12,
+      "first_year": 2004,
+      "last_year": 2013
+    },
+    {
+      "name": "Begoña C. Arrue",
+      "count": 12,
+      "first_year": 2013,
+      "last_year": 2024
+    },
+    {
+      "name": "José Ramiro Martinez de Dios",
+      "count": 11,
+      "first_year": 2010,
+      "last_year": 2025
+    },
+    {
+      "name": "Iván Maza",
+      "count": 10,
+      "first_year": 2007,
+      "last_year": 2017
+    },
+    {
+      "name": "José Ángel Acosta",
+      "count": 10,
+      "first_year": 2014,
+      "last_year": 2023
+    },
+    {
+      "name": "Antidio Viguria",
+      "count": 9,
+      "first_year": 2007,
+      "last_year": 2016
+    },
+    {
+      "name": "J. Ramiro Martinez de Dios",
+      "count": 8,
+      "first_year": 2005,
+      "last_year": 2025
+    },
+    {
+      "name": "Raul Tapia",
+      "count": 8,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Juan Pablo Rodríguez-Gómez",
+      "count": 7,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Konstantin Kondak",
+      "count": 6,
+      "first_year": 2010,
+      "last_year": 2020
+    },
+    {
+      "name": "Jose A. Cobano",
+      "count": 6,
+      "first_year": 2011,
+      "last_year": 2017
+    },
+    {
+      "name": "Miguel Angel Trujillo",
+      "count": 6,
+      "first_year": 2012,
+      "last_year": 2016
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Alejandro Suárez",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 18,
+      "student_first_author_count": 8,
+      "we_last_author_count": 10,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Raul Tapia",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Fernando Caballero",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 13,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Juan Pablo Rodríguez-Gómez",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Luis Merino",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 12,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Jose A. Cobano",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Saeed Rafee Nekoo",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Augusto Gómez Eguíluz",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "David Alejo",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Vicente Perez-Sanchez",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "María del Mar Guzmán",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Jesús Capitán",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "José Joaquín Acevedo",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Felipe R. Fabresse",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Fernando Ruiz",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Antidio Viguria",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Antonio González-Morgado",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Santiago Vera",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Pablo Ramon Soria",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Francisco Javier Maldonado",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Julio L. Paneque",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "José Antonio Cobano",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Alberto de San Bernabé",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Daniel Feliú-Talegon",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Elisabetta Cataldi",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "José Miguel Díaz-Báñez",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Luis Evaristo Caraballo",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Giuseppe Muscio",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Ernesto Sanchez-Laulhe",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "A. E. Jimenez-Cano",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Alejandro Ernesto Gomez-Tamm",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Raphael Zufferey",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Ámbar Garofano-Soldado",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1992,
+      2001
+    ],
+    "early_mean_n_authors": 2.8,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.08
+  },
+  "citation_half_life_years": 11.0,
+  "bursts": {
+    "productivity": [
+      2020
+    ],
+    "impact": [
+      2018,
+      2022
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Aerial Manipulation: A Literature Review",
+      "cites": 504,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robotics",
+        "Artificial intelligence",
+        "Computer science",
+        "Field (mathematics)",
+        "Point (geometry)"
+      ],
+      "doi": "10.1109/lra.2018.2808541",
+      "coauthors": [
+        "Fabio Ruggiero",
+        "Vincenzo Lippiello"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "T-RO",
+      "title": "Past, Present, and Future of Aerial Robotic Manipulators",
+      "cites": 430,
+      "n_authors": 5,
+      "role": "first",
+      "concepts": [
+        "Underactuation",
+        "Teleoperation",
+        "Control engineering",
+        "Robotics",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2021.3084395",
+      "coauthors": [
+        "Marco Tognon",
+        "Alejandro Suárez",
+        "Dongjun Lee",
+        "Antonio Franchi"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "Control of an aerial robot with multi-link arm for assembly tasks",
+      "cites": 257,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Robotic arm",
+        "Backstepping",
+        "Computer science",
+        "Control engineering",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/icra.2013.6631279",
+      "coauthors": [
+        "Antonio E. Jimenez-Cano",
+        "Jesús Martín",
+        "Guillermo Heredia",
+        "Raul Cano"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IROS",
+      "title": "Control of a multirotor outdoor aerial manipulator",
+      "cites": 216,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "Multirotor",
+        "Payload (computing)",
+        "Control engineering",
+        "Controller (irrigation)",
+        "PID controller"
+      ],
+      "doi": "10.1109/iros.2014.6943038",
+      "coauthors": [
+        "Guillermo Heredia",
+        "A. E. Jimenez-Cano",
+        "I. Sánchez",
+        "Domingo Llorente",
+        "V. Vega",
+        "J. Braga",
+        "José Ángel Acosta"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "A multilayer control for multirotor UAVs equipped with a servo robot arm",
+      "cites": 157,
+      "n_authors": 9,
+      "role": "middle",
+      "concepts": [
+        "Multirotor",
+        "Control theory (sociology)",
+        "Robotic arm",
+        "Statics",
+        "Servo"
+      ],
+      "doi": "10.1109/icra.2015.7139760",
+      "coauthors": [
+        "Fabio Ruggiero",
+        "Miguel Angel Trujillo",
+        "Raul Cano",
+        "H. Ascorbe",
+        "Antidio Viguria",
+        "C. Peréz",
+        "Vincenzo Lippiello",
+        "Bruno Siciliano"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "Aerial manipulation robot composed of an autonomous helicopter and a 7 degrees of freedom industrial manipulator",
+      "cites": 141,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Fuselage",
+        "Rotor (electric)",
+        "Control theory (sociology)",
+        "Coupling (piping)",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/icra.2014.6907148",
+      "coauthors": [
+        "Konstantin Kondak",
+        "Felix Huber",
+        "Marc Schwarzbach",
+        "Maximilian Laiacker",
+        "Dominik Sommer",
+        "Manuel Béjar"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Cooperative Fire Detection using Unmanned Aerial Vehicles",
+      "cites": 132,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Fire detection",
+        "Computer science",
+        "Artificial intelligence",
+        "Object detection",
+        "Computer vision"
+      ],
+      "doi": "10.1109/robot.2005.1570388",
+      "coauthors": [
+        "Luis Merino",
+        "Fernando Caballero",
+        "J. Ramiro Martinez de Dios"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IJRR",
+      "title": "Decentralized multi-robot cooperation with auctioned POMDPs",
+      "cites": 115,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Partially observable Markov decision process",
+        "Robot",
+        "Computer science",
+        "Common value auction",
+        "Scalability"
+      ],
+      "doi": "10.1177/0278364913483345",
+      "coauthors": [
+        "Jesús Capitán",
+        "Matthijs T. J. Spaan",
+        "Luis Merino"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Physical-Virtual Impedance Control in Ultralightweight and Compliant Dual-Arm Aerial Manipulators",
+      "cites": 111,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Impedance control",
+        "Actuator",
+        "Deflection (physics)",
+        "Robotic arm",
+        "Servo"
+      ],
+      "doi": "10.1109/lra.2018.2809964",
+      "coauthors": [
+        "Alejandro Suárez",
+        "Guillermo Heredia"
+      ]
+    },
+    {
+      "year": 1995,
+      "venue": "IROS",
+      "title": "Stability analysis of mobile robot path tracking",
+      "cites": 110,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Generality",
+        "Tracking (education)",
+        "Constant curvature",
+        "Path (computing)",
+        "Constant (computer programming)"
+      ],
+      "doi": "10.1109/iros.1995.525925",
+      "coauthors": [
+        "Guillermo Heredia"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Aníbal Ollero: 34년에 걸쳐 112편, 총 4,932회 인용, h=38, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "1992년 \"An iconic position estimator for a 2D laser rangefinder\"으로 출발. 첫 500+ 인용 논문까지 26년 걸림: \"Aerial Manipulation: A Literature Review\" (2018, 504회).",
+        "초기 토픽: Computer science, Computer vision, Artificial intelligence. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.26 → 점진적 이동형.",
+        "저자수 평균: 초기 2.8명 → 후기 5.1명 (팀 확장).",
+        "최다 인용 논문 \"Aerial Manipulation: A Literature Review\" (2018, 504회) — 커리어 후기에 위치.",
+        "제자 후보 추정 33명 — 상위: Alejandro Suárez(2015~, 우리 마지막저자 10편), Raul Tapia(2021~, 우리 마지막저자 8편), Fernando Caballero(2004~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "33명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Aníbal Ollero: over 34 years, 112 papers, 4,932 total cites, h=38, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1992 with \"An iconic position estimator for a 2D laser rangefinder\". First 500+ cite paper came 26 years in: \"Aerial Manipulation: A Literature Review\" (2018, 504 cites).",
+        "Early topics: Computer science, Computer vision, Artificial intelligence. Recent topics: Computer science, Robot, Artificial intelligence. Pivot score 0.26 → gradual shift.",
+        "Authors per paper: early 2.8 → late 5.1 (team growth).",
+        "Peak paper \"Aerial Manipulation: A Literature Review\" (2018, 504 cites) — fell in late career.",
+        "33 likely students — top: Alejandro Suárez(2015~, we last-author on 10), Raul Tapia(2021~, we last-author on 8), Fernando Caballero(2004~, we last-author on 6)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "33 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1094 @@
+{
+  "name": "Stergios I. Roumeliotis",
+  "slug": "stergios-i-roumeliotis",
+  "career_stats": {
+    "first_year": 1998,
+    "last_year": 2024,
+    "span": 27,
+    "total_papers": 111,
+    "total_cites": 10030,
+    "h_index": 50,
+    "i10_index": 102,
+    "seminal_count": 1,
+    "max_cites_single_paper": 1813
+  },
+  "role_distribution": {
+    "first": 10,
+    "middle": 17,
+    "last": 84
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1998,
+      "title": "Fault Detection and Identification in a Mobile Robot Using Multiple-Model Estimation"
+    },
+    "first_100cite": {
+      "year": 1998,
+      "title": "Sensor fault detection and identification in a mobile robot",
+      "cites": 139,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2007,
+      "title": "A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation",
+      "cites": 1813,
+      "gap_from_first": 9
+    },
+    "first_1000cite": {
+      "year": 2007,
+      "title": "A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation",
+      "cites": 1813,
+      "gap_from_first": 9
+    },
+    "peak_paper": {
+      "year": 2007,
+      "title": "A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation",
+      "cites": 1813
+    }
+  },
+  "year_series": {
+    "1998": {
+      "n": 2,
+      "cites": 231,
+      "max_cites": 139
+    },
+    "1999": {
+      "n": 4,
+      "cites": 495,
+      "max_cites": 173
+    },
+    "2000": {
+      "n": 4,
+      "cites": 538,
+      "max_cites": 179
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 5,
+      "cites": 627,
+      "max_cites": 202
+    },
+    "2003": {
+      "n": 3,
+      "cites": 265,
+      "max_cites": 200
+    },
+    "2004": {
+      "n": 3,
+      "cites": 42,
+      "max_cites": 22
+    },
+    "2005": {
+      "n": 6,
+      "cites": 184,
+      "max_cites": 53
+    },
+    "2006": {
+      "n": 7,
+      "cites": 649,
+      "max_cites": 233
+    },
+    "2007": {
+      "n": 10,
+      "cites": 2209,
+      "max_cites": 1813
+    },
+    "2008": {
+      "n": 5,
+      "cites": 889,
+      "max_cites": 435
+    },
+    "2009": {
+      "n": 8,
+      "cites": 783,
+      "max_cites": 345
+    },
+    "2010": {
+      "n": 8,
+      "cites": 571,
+      "max_cites": 257
+    },
+    "2011": {
+      "n": 9,
+      "cites": 469,
+      "max_cites": 222
+    },
+    "2012": {
+      "n": 4,
+      "cites": 242,
+      "max_cites": 161
+    },
+    "2013": {
+      "n": 12,
+      "cites": 545,
+      "max_cites": 172
+    },
+    "2014": {
+      "n": 4,
+      "cites": 605,
+      "max_cites": 272
+    },
+    "2015": {
+      "n": 3,
+      "cites": 161,
+      "max_cites": 125
+    },
+    "2016": {
+      "n": 2,
+      "cites": 68,
+      "max_cites": 44
+    },
+    "2017": {
+      "n": 3,
+      "cites": 253,
+      "max_cites": 170
+    },
+    "2018": {
+      "n": 3,
+      "cites": 133,
+      "max_cites": 89
+    },
+    "2019": {
+      "n": 3,
+      "cites": 51,
+      "max_cites": 28
+    },
+    "2020": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2021": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "2022": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2023": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2024": {
+      "n": 1,
+      "cites": 3,
+      "max_cites": 3
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.173
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.133
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.107
+        },
+        {
+          "c": "Fault detection and isolation",
+          "w": 0.04
+        },
+        {
+          "c": "Estimator",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.117
+        },
+        {
+          "c": "Robot",
+          "w": 0.097
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.076
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.069
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.062
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 34,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.088
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.071
+        },
+        {
+          "c": "Observability",
+          "w": 0.059
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.059
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.108
+        },
+        {
+          "c": "Observability",
+          "w": 0.075
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.075
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.075
+        },
+        {
+          "c": "Unobservable",
+          "w": 0.058
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.075
+        },
+        {
+          "c": "Inertial measurement unit",
+          "w": 0.05
+        },
+        {
+          "c": "Feature (linguistics)",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Gyroscope",
+          "w": 0.2
+        },
+        {
+          "c": "Calibration",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Algorithm",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 5
+      }
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 12,
+        "IROS": 8,
+        "RSS": 4,
+        "T-RO": 3,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 9,
+        "T-RO": 6,
+        "IJRR": 4,
+        "RSS": 2
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 5,
+        "T-RO": 4,
+        "RSS": 4,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "IROS": 3,
+        "ICRA": 2,
+        "IJRR": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "mix": {
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 3.2,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Gaurav S. Sukhatme",
+          7
+        ],
+        [
+          "George A. Bekey",
+          7
+        ],
+        [
+          "Puneet Goel",
+          2
+        ],
+        [
+          "Michael C. McHenry",
+          2
+        ],
+        [
+          "Daniel M. Helmick",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 2.69,
+      "unique_coauthors": 21,
+      "top_coauthors": [
+        [
+          "Anastasios I. Mourikis",
+          15
+        ],
+        [
+          "Nikolas Trawny",
+          4
+        ],
+        [
+          "Larry H. Matthies",
+          3
+        ],
+        [
+          "Xun S. Zhou",
+          3
+        ],
+        [
+          "Paul E. Rybski",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 2.82,
+      "unique_coauthors": 17,
+      "top_coauthors": [
+        [
+          "Ke X. Zhou",
+          8
+        ],
+        [
+          "Anastasios I. Mourikis",
+          7
+        ],
+        [
+          "Nikolas Trawny",
+          7
+        ],
+        [
+          "Faraz M. Mirzaei",
+          6
+        ],
+        [
+          "Guoquan P. Huang",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 3.5,
+      "unique_coauthors": 29,
+      "top_coauthors": [
+        [
+          "Chao X. Guo",
+          7
+        ],
+        [
+          "Dimitrios G. Kottas",
+          7
+        ],
+        [
+          "Esha D. Nerurkar",
+          6
+        ],
+        [
+          "Kejian Wu",
+          5
+        ],
+        [
+          "Joel A. Hesch",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 4.5,
+      "unique_coauthors": 19,
+      "top_coauthors": [
+        [
+          "Kourosh Sartipi",
+          4
+        ],
+        [
+          "Tien Do",
+          3
+        ],
+        [
+          "Tong Ke",
+          3
+        ],
+        [
+          "Ryan C. DuToit",
+          2
+        ],
+        [
+          "Khiem Vuong",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "mean_n_authors": 2,
+      "unique_coauthors": 1,
+      "top_coauthors": [
+        [
+          "Tianheng Wang",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.279,
+  "top_repeat_coauthors": [
+    {
+      "name": "Anastasios I. Mourikis",
+      "count": 23,
+      "first_year": 2004,
+      "last_year": 2013
+    },
+    {
+      "name": "Joel A. Hesch",
+      "count": 13,
+      "first_year": 2007,
+      "last_year": 2018
+    },
+    {
+      "name": "Nikolas Trawny",
+      "count": 12,
+      "first_year": 2006,
+      "last_year": 2015
+    },
+    {
+      "name": "Esha D. Nerurkar",
+      "count": 12,
+      "first_year": 2007,
+      "last_year": 2018
+    },
+    {
+      "name": "Xun S. Zhou",
+      "count": 10,
+      "first_year": 2006,
+      "last_year": 2013
+    },
+    {
+      "name": "Ke X. Zhou",
+      "count": 10,
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "name": "Chao X. Guo",
+      "count": 9,
+      "first_year": 2012,
+      "last_year": 2018
+    },
+    {
+      "name": "Faraz M. Mirzaei",
+      "count": 8,
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "name": "Guoquan P. Huang",
+      "count": 8,
+      "first_year": 2008,
+      "last_year": 2013
+    },
+    {
+      "name": "Dimitrios G. Kottas",
+      "count": 8,
+      "first_year": 2012,
+      "last_year": 2015
+    },
+    {
+      "name": "Gaurav S. Sukhatme",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2000
+    },
+    {
+      "name": "George A. Bekey",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2000
+    },
+    {
+      "name": "Larry H. Matthies",
+      "count": 6,
+      "first_year": 2002,
+      "last_year": 2009
+    },
+    {
+      "name": "Kejian Wu",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2019
+    },
+    {
+      "name": "Kourosh Sartipi",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2021
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "George A. Bekey",
+      "advisor_active_from": 1985,
+      "early_copubs_as_our_first_author": 7,
+      "advisor_last_author_count": 7,
+      "total_copubs": 7
+    },
+    {
+      "name": "Gaurav S. Sukhatme",
+      "advisor_active_from": 1993,
+      "early_copubs_as_our_first_author": 4,
+      "advisor_last_author_count": 0,
+      "total_copubs": 7
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Anastasios I. Mourikis",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 20,
+      "total_copubs": 23,
+      "student_first_author_count": 14,
+      "we_last_author_count": 16,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Xun S. Zhou",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 6,
+      "we_last_author_count": 9,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Ke X. Zhou",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 4,
+      "we_last_author_count": 9,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Guoquan P. Huang",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 8,
+      "we_last_author_count": 8,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Chao X. Guo",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 9,
+      "student_first_author_count": 6,
+      "we_last_author_count": 8,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Faraz M. Mirzaei",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 8,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Dimitrios G. Kottas",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 8,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Joel A. Hesch",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 13,
+      "student_first_author_count": 6,
+      "we_last_author_count": 7,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Kejian Wu",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Kourosh Sartipi",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Esha D. Nerurkar",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 12,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Nikolas Trawny",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 12,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Ryan C. DuToit",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Tong Ke",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Tien Do",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Vassilios N. Christopoulos",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Ahmed Ahmed",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Lukas Luft",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2018
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1998,
+      2007
+    ],
+    "early_mean_n_authors": 2.86,
+    "late_window": [
+      2015,
+      2024
+    ],
+    "late_mean_n_authors": 4.41
+  },
+  "citation_half_life_years": 19.0,
+  "bursts": {
+    "productivity": [
+      2013
+    ],
+    "impact": [
+      2007
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2007,
+      "venue": "ICRA",
+      "title": "A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation",
+      "cites": 1813,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Extended Kalman filter",
+        "Computer vision",
+        "Inertial measurement unit",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2007.364024",
+      "coauthors": [
+        "Anastasios I. Mourikis"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "A Kalman Filter-Based Algorithm for IMU-Camera Calibration: Observability Analysis and Performance Evaluation",
+      "cites": 435,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Inertial measurement unit",
+        "Observability",
+        "Computer vision",
+        "Artificial intelligence",
+        "Kalman filter"
+      ],
+      "doi": "10.1109/tro.2008.2004486",
+      "coauthors": [
+        "Faraz M. Mirzaei"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "T-RO",
+      "title": "Vision-Aided Inertial Navigation for Spacecraft Entry, Descent, and Landing",
+      "cites": 345,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Inertial navigation system",
+        "Inertial measurement unit",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2009.2012342",
+      "coauthors": [
+        "Anastasios I. Mourikis",
+        "Nikolas Trawny",
+        "Andrew E. Johnson",
+        "Adnan Ansar",
+        "Larry H. Matthies"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "Consistency Analysis and Improvement of Vision-aided Inertial Navigation",
+      "cites": 272,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Observability",
+        "Unobservable",
+        "Spurious relationship",
+        "Kalman filter",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2013.2277549",
+      "coauthors": [
+        "Joel A. Hesch",
+        "Dimitrios G. Kottas",
+        "Sean L. Bowman"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IJRR",
+      "title": "Observability-based Rules for Designing Consistent EKF SLAM Estimators",
+      "cites": 257,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Extended Kalman filter",
+        "Observability",
+        "Linearization",
+        "Covariance",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1177/0278364909353640",
+      "coauthors": [
+        "Guoquan P. Huang",
+        "Anastasios I. Mourikis"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IJRR",
+      "title": "Camera-IMU-based localization: Observability analysis and consistency improvement",
+      "cites": 237,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Unobservable",
+        "Observability",
+        "Leverage (statistics)",
+        "Nonlinear system",
+        "Consistency (knowledge bases)"
+      ],
+      "doi": "10.1177/0278364913509675",
+      "coauthors": [
+        "Joel A. Hesch",
+        "Dimitrios G. Kottas",
+        "Sean L. Bowman"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "T-RO",
+      "title": "Performance analysis of multirobot Cooperative localization",
+      "cites": 233,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Position (finance)",
+        "Upper and lower bounds",
+        "Mobile robot",
+        "Covariance"
+      ],
+      "doi": "10.1109/tro.2006.878957",
+      "coauthors": [
+        "Anastasios I. Mourikis"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "ICRA",
+      "title": "Distributed maximum a posteriori estimation for multi-robot cooperative localization",
+      "cites": 225,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Maximum a posteriori estimation",
+        "Computer science",
+        "Robustness (evolution)",
+        "Robot",
+        "Estimator"
+      ],
+      "doi": "10.1109/robot.2009.5152398",
+      "coauthors": [
+        "Esha D. Nerurkar",
+        "Agostino Martinelli"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "T-RO",
+      "title": "Multirobot Active Target Tracking With Combinations of Relative Observations",
+      "cites": 222,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Trajectory",
+        "Tracking (education)",
+        "Position (finance)",
+        "Computer science",
+        "Gradient descent"
+      ],
+      "doi": "10.1109/tro.2011.2114734",
+      "coauthors": [
+        "Ke X. Zhou"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "Multi-robot SLAM with Unknown Initial Correspondence: The Robot Rendezvous Case",
+      "cites": 215,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Artificial intelligence",
+        "Simultaneous localization and mapping",
+        "Computer science",
+        "Mahalanobis distance"
+      ],
+      "doi": "10.1109/iros.2006.282219",
+      "coauthors": [
+        "Xun S. Zhou"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Stergios I. Roumeliotis: 27년에 걸쳐 111편, 총 10,030회 인용, h=50, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "1998년 \"Fault Detection and Identification in a Mobile Robot Using Multiple-Model Estimation\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation\" (2007, 1,813회). 1000+ 인용 논문: \"A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation\" (2007, 1,813회).",
+        "초기 토픽: Computer science, Kalman filter, Mobile robot. 최근 토픽: Gyroscope, Calibration, Computer science. 피벗 점수 0.28 → 점진적 이동형.",
+        "저자수 평균: 초기 2.9명 → 후기 4.4명 (팀 확장).",
+        "최다 인용 논문 \"A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation\" (2007, 1,813회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): George A. Bekey, Gaurav S. Sukhatme. 제자 후보 추정 18명 — 상위: Anastasios I. Mourikis(2004~, 우리 마지막저자 16편), Xun S. Zhou(2006~, 우리 마지막저자 9편), Ke X. Zhou(2007~, 우리 마지막저자 9편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "18명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: George A. Bekey — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Stergios I. Roumeliotis: over 27 years, 111 papers, 10,030 total cites, h=50, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1998 with \"Fault Detection and Identification in a Mobile Robot Using Multiple-Model Estimation\". First 500+ cite paper came 9 years in: \"A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation\" (2007, 1,813 cites). 1000+ cite paper: \"A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation\" (2007, 1,813 cites).",
+        "Early topics: Computer science, Kalman filter, Mobile robot. Recent topics: Gyroscope, Calibration, Computer science. Pivot score 0.28 → gradual shift.",
+        "Authors per paper: early 2.9 → late 4.4 (team growth).",
+        "Peak paper \"A Multi-State Constraint Kalman Filter for Vision-aided Inertial Navigation\" (2007, 1,813 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): George A. Bekey, Gaurav S. Sukhatme. 18 likely students — top: Anastasios I. Mourikis(2004~, we last-author on 16), Xun S. Zhou(2006~, we last-author on 9), Ke X. Zhou(2007~, we last-author on 9)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "18 likely students — mentoring is the real impact.",
+        "Likely advisor: George A. Bekey — started within their PhD network."
+      ]
+    }
+  }
+}

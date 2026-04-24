@@ -1,0 +1,1022 @@
+{
+  "name": "Jia Pan",
+  "slug": "jia-pan",
+  "career_stats": {
+    "first_year": 2010,
+    "last_year": 2025,
+    "span": 16,
+    "total_papers": 108,
+    "total_cites": 5657,
+    "h_index": 34,
+    "i10_index": 78,
+    "seminal_count": 4,
+    "max_cites_single_paper": 826
+  },
+  "role_distribution": {
+    "first": 9,
+    "middle": 46,
+    "last": 53
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2010,
+      "title": "Efficient nearest-neighbor computation for GPU-based motion planning"
+    },
+    "first_100cite": {
+      "year": 2012,
+      "title": "FCL: A general purpose library for collision and proximity queries",
+      "cites": 532,
+      "gap_from_first": 2
+    },
+    "first_500cite": {
+      "year": 2012,
+      "title": "FCL: A general purpose library for collision and proximity queries",
+      "cites": 532,
+      "gap_from_first": 2
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "Motion planning with sequential convex optimization and convex collision checking",
+      "cites": 826
+    }
+  },
+  "year_series": {
+    "2010": {
+      "n": 2,
+      "cites": 67,
+      "max_cites": 43
+    },
+    "2011": {
+      "n": 1,
+      "cites": 19,
+      "max_cites": 19
+    },
+    "2012": {
+      "n": 3,
+      "cites": 714,
+      "max_cites": 532
+    },
+    "2013": {
+      "n": 2,
+      "cites": 116,
+      "max_cites": 78
+    },
+    "2014": {
+      "n": 4,
+      "cites": 985,
+      "max_cites": 826
+    },
+    "2015": {
+      "n": 2,
+      "cites": 40,
+      "max_cites": 38
+    },
+    "2016": {
+      "n": 6,
+      "cites": 160,
+      "max_cites": 65
+    },
+    "2017": {
+      "n": 4,
+      "cites": 204,
+      "max_cites": 168
+    },
+    "2018": {
+      "n": 4,
+      "cites": 653,
+      "max_cites": 529
+    },
+    "2019": {
+      "n": 7,
+      "cites": 348,
+      "max_cites": 94
+    },
+    "2020": {
+      "n": 12,
+      "cites": 742,
+      "max_cites": 319
+    },
+    "2021": {
+      "n": 11,
+      "cites": 776,
+      "max_cites": 514
+    },
+    "2022": {
+      "n": 15,
+      "cites": 500,
+      "max_cites": 139
+    },
+    "2023": {
+      "n": 12,
+      "cites": 185,
+      "max_cites": 39
+    },
+    "2024": {
+      "n": 13,
+      "cites": 93,
+      "max_cites": 11
+    },
+    "2025": {
+      "n": 10,
+      "cites": 55,
+      "max_cites": 21
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.183
+        },
+        {
+          "c": "Computation",
+          "w": 0.083
+        },
+        {
+          "c": "Collision",
+          "w": 0.067
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.05
+        },
+        {
+          "c": "CUDA",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 23,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.204
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.071
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.035
+        },
+        {
+          "c": "Robot",
+          "w": 0.035
+        },
+        {
+          "c": "Computation",
+          "w": 0.027
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 63,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.182
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.096
+        },
+        {
+          "c": "Robot",
+          "w": 0.051
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.038
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.184
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.184
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.082
+        },
+        {
+          "c": "Robot",
+          "w": 0.041
+        },
+        {
+          "c": "Joint (building)",
+          "w": 0.02
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 7,
+        "IJRR": 3,
+        "IROS": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "RA-L": 11,
+        "ICRA": 6,
+        "IROS": 4,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "RA-L": 28,
+        "IROS": 14,
+        "ICRA": 11,
+        "T-RO": 4,
+        "RSS": 2,
+        "SoRo": 1,
+        "IJRR": 1,
+        "Sci-Rob": 1,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "RA-L": 3,
+        "T-RO": 2,
+        "ICRA": 2,
+        "IROS": 1,
+        "RSS": 1,
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 3.67,
+      "unique_coauthors": 19,
+      "top_coauthors": [
+        [
+          "Dinesh Manocha",
+          9
+        ],
+        [
+          "Liangjun Zhang",
+          3
+        ],
+        [
+          "Sachin Chitta",
+          2
+        ],
+        [
+          "Chonhyon Park",
+          2
+        ],
+        [
+          "Pieter Abbeel",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 4.17,
+      "unique_coauthors": 36,
+      "top_coauthors": [
+        [
+          "Dinesh Manocha",
+          10
+        ],
+        [
+          "Zhe Hu",
+          5
+        ],
+        [
+          "Chao Cao",
+          3
+        ],
+        [
+          "Weiwei Wan",
+          3
+        ],
+        [
+          "Kensuke Harada",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 5.33,
+      "unique_coauthors": 154,
+      "top_coauthors": [
+        [
+          "Tingxiang Fan",
+          9
+        ],
+        [
+          "Changhong Fu",
+          8
+        ],
+        [
+          "Chaoyang Song",
+          7
+        ],
+        [
+          "Zhe Hu",
+          6
+        ],
+        [
+          "Lei Yang",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 6.8,
+      "unique_coauthors": 45,
+      "top_coauthors": [
+        [
+          "Zeqing Zhang",
+          3
+        ],
+        [
+          "Ruixing Jia",
+          3
+        ],
+        [
+          "Guanqi Chen",
+          2
+        ],
+        [
+          "Wentao Chen",
+          2
+        ],
+        [
+          "Guanhua Chen",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.16,
+  "top_repeat_coauthors": [
+    {
+      "name": "Dinesh Manocha",
+      "count": 21,
+      "first_year": 2010,
+      "last_year": 2020
+    },
+    {
+      "name": "Tingxiang Fan",
+      "count": 12,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Zhe Hu",
+      "count": 11,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Liangjun Zhang",
+      "count": 8,
+      "first_year": 2010,
+      "last_year": 2025
+    },
+    {
+      "name": "Changhong Fu",
+      "count": 8,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Zeqing Zhang",
+      "count": 8,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Lei Yang",
+      "count": 8,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Wenxi Liu",
+      "count": 7,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Chaoyang Song",
+      "count": 7,
+      "first_year": 2020,
+      "last_year": 2023
+    },
+    {
+      "name": "Guangze Zheng",
+      "count": 7,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Pinxin Long",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2021
+    },
+    {
+      "name": "Ruixing Jia",
+      "count": 6,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Wenping Wang",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2024
+    },
+    {
+      "name": "Yong-Jin Liu",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Yu Zheng",
+      "count": 5,
+      "first_year": 2020,
+      "last_year": 2023
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Dinesh Manocha",
+      "advisor_active_from": 1992,
+      "early_copubs_as_our_first_author": 7,
+      "advisor_last_author_count": 7,
+      "total_copubs": 21
+    },
+    {
+      "name": "Sachin Chitta",
+      "advisor_active_from": 2001,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 0,
+      "total_copubs": 2
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Tingxiang Fan",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 4,
+      "we_last_author_count": 8,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Zeqing Zhang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Guangze Zheng",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ruihua Han",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zhe Hu",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 11,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Shijie Lin",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Haobo Zuo",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Youcan Yan",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Pinxin Long",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Xuan Zhao",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Dawei Wang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Peng Zhou",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yajue Yang",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Linhan Yang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yiming Li",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Wanli Xing",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ke Guo",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Zhuoqi Zheng",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Wentao Chen",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Guanqi Chen",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kunhan Lu",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Chao Cao",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Yiheng Han",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Biao Jia",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Kun Zhang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jiaxin Cai",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2010,
+      2019
+    ],
+    "early_mean_n_authors": 4,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.24
+  },
+  "citation_half_life_years": 8,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2014
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "IJRR",
+      "title": "Motion planning with sequential convex optimization and convex collision checking",
+      "cites": 826,
+      "n_authors": 10,
+      "role": "middle",
+      "concepts": [
+        "Motion planning",
+        "Computer science",
+        "Robot",
+        "Regular polygon",
+        "Humanoid robot"
+      ],
+      "doi": "10.1177/0278364914528132",
+      "coauthors": [
+        "John Schulman",
+        "Yan Duan",
+        "Jonathan Ho",
+        "Alex X. Lee",
+        "Ibrahim Awwal",
+        "Henry Bradlow",
+        "Sachin Patil",
+        "Ken Goldberg",
+        "Pieter Abbeel"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "FCL: A general purpose library for collision and proximity queries",
+      "cites": 532,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Collision",
+        "Computation",
+        "Collision detection",
+        "Set (abstract data type)"
+      ],
+      "doi": "10.1109/icra.2012.6225337",
+      "coauthors": [
+        "Sachin Chitta",
+        "Dinesh Manocha"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Towards Optimally Decentralized Multi-Robot Collision Avoidance via Deep Reinforcement Learning",
+      "cites": 529,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Collision avoidance",
+        "Robot",
+        "Computer science",
+        "Collision"
+      ],
+      "doi": "10.1109/icra.2018.8461113",
+      "coauthors": [
+        "Pinxin Long",
+        "Tingxiang Fan",
+        "Xinyi Liao",
+        "Wenxi Liu",
+        "Hao Zhang"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "Sci-Rob",
+      "title": "Soft magnetic skin for super-resolution tactile sensing with force self-decoupling",
+      "cites": 514,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Hyperacuity",
+        "Decoupling (probability)",
+        "Tactile sensor",
+        "Shear force",
+        "Resolution (logic)"
+      ],
+      "doi": "10.1126/scirobotics.abc8801",
+      "coauthors": [
+        "Youcan Yan",
+        "Zhe Hu",
+        "Zhengbao Yang",
+        "Wenzhen Yuan",
+        "Chaoyang Song",
+        "Yajing Shen"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "IJRR",
+      "title": "Distributed multi-robot collision avoidance via deep reinforcement learning for navigation in complex scenarios",
+      "cites": 319,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Robot",
+        "Collision avoidance",
+        "Robustness (evolution)",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364920916531",
+      "coauthors": [
+        "Tingxiang Fan",
+        "Pinxin Long",
+        "Wenxi Liu"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "RA-L",
+      "title": "Deep-Learned Collision Avoidance Policy for Distributed Multiagent Navigation",
+      "cites": 168,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Collision avoidance",
+        "Obstacle avoidance",
+        "Computer science",
+        "Collision",
+        "Multi-agent system"
+      ],
+      "doi": "10.1109/lra.2017.2651371",
+      "coauthors": [
+        "Pinxin Long",
+        "Wenxi Liu"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "RA-L",
+      "title": "Reinforcement Learned Distributed Multi-Robot Navigation With Reciprocal Velocity Obstacle Shaped Rewards",
+      "cites": 139,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Reciprocal",
+        "Collision avoidance",
+        "Computer science",
+        "Obstacle"
+      ],
+      "doi": "10.1109/lra.2022.3161699",
+      "coauthors": [
+        "Ruihua Han",
+        "Shengduo Chen",
+        "Shuaijun Wang",
+        "Zeqing Zhang",
+        "Rui Gao",
+        "Qi Hao"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "A Two-Stage Reinforcement Learning Approach for Multi-UAV Collision Avoidance Under Imperfect Sensing",
+      "cites": 135,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Collision avoidance",
+        "Computer science",
+        "Trajectory",
+        "Collision"
+      ],
+      "doi": "10.1109/lra.2020.2974648",
+      "coauthors": [
+        "Dawei Wang",
+        "Tingxiang Fan",
+        "Tao Han"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "Motion planning under uncertainty for on-road autonomous driving",
+      "cites": 125,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Linear-quadratic-Gaussian control",
+        "Planner",
+        "SAFER",
+        "Trajectory",
+        "Motion planning"
+      ],
+      "doi": "10.1109/icra.2014.6907209",
+      "coauthors": [
+        "Wenda Xu",
+        "Junqing Wei",
+        "John M. Dolan"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "Collision-free and smooth trajectory computation in cluttered environments",
+      "cites": 95,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Computation",
+        "Trajectory",
+        "Computer science",
+        "Piecewise linear function",
+        "Collision"
+      ],
+      "doi": "10.1177/0278364912453186",
+      "coauthors": [
+        "Liangjun Zhang",
+        "Dinesh Manocha"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Jia Pan: 16년에 걸쳐 108편, 총 5,657회 인용, h=34, 500+ 블록버스터 4편.",
+      "paragraphs": [
+        "2010년 \"Efficient nearest-neighbor computation for GPU-based motion planning\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"FCL: A general purpose library for collision and proximity queries\" (2012, 532회).",
+        "초기 토픽: Computer science, Computation, Collision. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.16 → 토픽 지속형.",
+        "저자수 평균: 초기 4.0명 → 후기 5.2명 (팀 확장).",
+        "최다 인용 논문 \"Motion planning with sequential convex optimization and convex collision checking\" (2014, 826회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Dinesh Manocha, Sachin Chitta. 제자 후보 추정 26명 — 상위: Tingxiang Fan(2018~, 우리 마지막저자 8편), Zeqing Zhang(2020~, 우리 마지막저자 7편), Guangze Zheng(2021~, 우리 마지막저자 7편)."
+      ],
+      "lessons": [
+        "초기 2년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "26명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Dinesh Manocha — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Jia Pan: over 16 years, 108 papers, 5,657 total cites, h=34, 4 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2010 with \"Efficient nearest-neighbor computation for GPU-based motion planning\". First 500+ cite paper came 2 years in: \"FCL: A general purpose library for collision and proximity queries\" (2012, 532 cites).",
+        "Early topics: Computer science, Computation, Collision. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.16 → topic-stable.",
+        "Authors per paper: early 4.0 → late 5.2 (team growth).",
+        "Peak paper \"Motion planning with sequential convex optimization and convex collision checking\" (2014, 826 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Dinesh Manocha, Sachin Chitta. 26 likely students — top: Tingxiang Fan(2018~, we last-author on 8), Zeqing Zhang(2020~, we last-author on 7), Guangze Zheng(2021~, we last-author on 7)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 2 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "26 likely students — mentoring is the real impact.",
+        "Likely advisor: Dinesh Manocha — started within their PhD network."
+      ]
+    }
+  }
+}

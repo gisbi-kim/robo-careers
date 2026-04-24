@@ -1,0 +1,1453 @@
+{
+  "name": "Bradley J. Nelson",
+  "slug": "bradley-j-nelson",
+  "career_stats": {
+    "first_year": 1993,
+    "last_year": 2025,
+    "span": 33,
+    "total_papers": 156,
+    "total_cites": 10612,
+    "h_index": 44,
+    "i10_index": 115,
+    "seminal_count": 4,
+    "max_cites_single_paper": 1127
+  },
+  "role_distribution": {
+    "first": 12,
+    "middle": 35,
+    "last": 109
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1993,
+      "title": "Increasing the Tracking Region of an Eye-In-Hand System by Singularity and Joint Limit Avoidance"
+    },
+    "first_100cite": {
+      "year": 1997,
+      "title": "Visually guided microassembly using optical microscopes and active vision techniques",
+      "cites": 115,
+      "gap_from_first": 4
+    },
+    "first_500cite": {
+      "year": 2009,
+      "title": "How Should Microrobots Swim?",
+      "cites": 665,
+      "gap_from_first": 16
+    },
+    "first_1000cite": {
+      "year": 2010,
+      "title": "OctoMag: An Electromagnetic System for 5-DOF Wireless Micromanipulation",
+      "cites": 1127,
+      "gap_from_first": 17
+    },
+    "peak_paper": {
+      "year": 2010,
+      "title": "OctoMag: An Electromagnetic System for 5-DOF Wireless Micromanipulation",
+      "cites": 1127
+    }
+  },
+  "year_series": {
+    "1993": {
+      "n": 1,
+      "cites": 44,
+      "max_cites": 44
+    },
+    "1994": {
+      "n": 2,
+      "cites": 52,
+      "max_cites": 40
+    },
+    "1995": {
+      "n": 4,
+      "cites": 121,
+      "max_cites": 86
+    },
+    "1996": {
+      "n": 1,
+      "cites": 8,
+      "max_cites": 8
+    },
+    "1997": {
+      "n": 3,
+      "cites": 131,
+      "max_cites": 115
+    },
+    "1998": {
+      "n": 2,
+      "cites": 101,
+      "max_cites": 87
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 4,
+      "cites": 207,
+      "max_cites": 145
+    },
+    "2001": {
+      "n": 3,
+      "cites": 185,
+      "max_cites": 105
+    },
+    "2002": {
+      "n": 5,
+      "cites": 480,
+      "max_cites": 341
+    },
+    "2003": {
+      "n": 4,
+      "cites": 229,
+      "max_cites": 151
+    },
+    "2004": {
+      "n": 5,
+      "cites": 88,
+      "max_cites": 31
+    },
+    "2005": {
+      "n": 7,
+      "cites": 177,
+      "max_cites": 103
+    },
+    "2006": {
+      "n": 4,
+      "cites": 519,
+      "max_cites": 461
+    },
+    "2007": {
+      "n": 5,
+      "cites": 430,
+      "max_cites": 278
+    },
+    "2008": {
+      "n": 8,
+      "cites": 187,
+      "max_cites": 77
+    },
+    "2009": {
+      "n": 10,
+      "cites": 853,
+      "max_cites": 665
+    },
+    "2010": {
+      "n": 9,
+      "cites": 1526,
+      "max_cites": 1127
+    },
+    "2011": {
+      "n": 5,
+      "cites": 74,
+      "max_cites": 25
+    },
+    "2012": {
+      "n": 7,
+      "cites": 162,
+      "max_cites": 70
+    },
+    "2013": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "2014": {
+      "n": 5,
+      "cites": 125,
+      "max_cites": 60
+    },
+    "2015": {
+      "n": 6,
+      "cites": 259,
+      "max_cites": 144
+    },
+    "2016": {
+      "n": 4,
+      "cites": 130,
+      "max_cites": 48
+    },
+    "2017": {
+      "n": 10,
+      "cites": 494,
+      "max_cites": 185
+    },
+    "2018": {
+      "n": 9,
+      "cites": 1647,
+      "max_cites": 1122
+    },
+    "2019": {
+      "n": 5,
+      "cites": 553,
+      "max_cites": 390
+    },
+    "2020": {
+      "n": 3,
+      "cites": 618,
+      "max_cites": 564
+    },
+    "2021": {
+      "n": 4,
+      "cites": 650,
+      "max_cites": 465
+    },
+    "2022": {
+      "n": 8,
+      "cites": 299,
+      "max_cites": 116
+    },
+    "2023": {
+      "n": 3,
+      "cites": 41,
+      "max_cites": 36
+    },
+    "2024": {
+      "n": 5,
+      "cites": 200,
+      "max_cites": 139
+    },
+    "2025": {
+      "n": 4,
+      "cites": 16,
+      "max_cites": 13
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1993,
+      "end": 1997,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.145
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.127
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.109
+        },
+        {
+          "c": "Visual servoing",
+          "w": 0.091
+        },
+        {
+          "c": "Tracking (education)",
+          "w": 0.055
+        }
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.171
+        },
+        {
+          "c": "Visual servoing",
+          "w": 0.071
+        },
+        {
+          "c": "Deflection (physics)",
+          "w": 0.043
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.043
+        },
+        {
+          "c": "Robot",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.056
+        },
+        {
+          "c": "Microelectromechanical systems",
+          "w": 0.048
+        },
+        {
+          "c": "Materials science",
+          "w": 0.048
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.032
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 39,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.077
+        },
+        {
+          "c": "Wireless",
+          "w": 0.041
+        },
+        {
+          "c": "Materials science",
+          "w": 0.036
+        },
+        {
+          "c": "Actuator",
+          "w": 0.031
+        },
+        {
+          "c": "Robot",
+          "w": 0.026
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.085
+        },
+        {
+          "c": "Tracking (education)",
+          "w": 0.038
+        },
+        {
+          "c": "Position (finance)",
+          "w": 0.038
+        },
+        {
+          "c": "Magnetic field",
+          "w": 0.031
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.083
+        },
+        {
+          "c": "Robotics",
+          "w": 0.069
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.069
+        },
+        {
+          "c": "Robot",
+          "w": 0.049
+        },
+        {
+          "c": "Magnetic field",
+          "w": 0.028
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.204
+        },
+        {
+          "c": "Robot",
+          "w": 0.082
+        },
+        {
+          "c": "Magnetic field",
+          "w": 0.082
+        },
+        {
+          "c": "Workspace",
+          "w": 0.061
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.061
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1993,
+      "end": 1997,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 4,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 8,
+        "IJRR": 2,
+        "RSS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 18,
+        "IROS": 13,
+        "T-RO": 4,
+        "IJRR": 3,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 12,
+        "RA-L": 4,
+        "IROS": 3,
+        "Sci-Rob": 3,
+        "T-RO": 2,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "Sci-Rob": 12,
+        "RA-L": 8,
+        "SoRo": 2,
+        "IROS": 2,
+        "ICRA": 2,
+        "T-RO": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "Sci-Rob": 5,
+        "RA-L": 4,
+        "T-RO": 2,
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1993,
+      "end": 1997,
+      "mean_n_authors": 2.36,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Pradeep K. Khosla",
+          10
+        ],
+        [
+          "J. Daniel Morrow",
+          2
+        ],
+        [
+          "Nikolaos Papanikolopoulos",
+          1
+        ],
+        [
+          "Lars Overgaard",
+          1
+        ],
+        [
+          "Barmeshwar Vikramaditya",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 4.93,
+      "unique_coauthors": 38,
+      "top_coauthors": [
+        [
+          "Kemal Berk Yesin",
+          4
+        ],
+        [
+          "Nikolaos Papanikolopoulos",
+          3
+        ],
+        [
+          "Richard M. Voyles",
+          3
+        ],
+        [
+          "Yu Sun",
+          3
+        ],
+        [
+          "Yu Zhou",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 3.72,
+      "unique_coauthors": 36,
+      "top_coauthors": [
+        [
+          "Yu Sun",
+          8
+        ],
+        [
+          "Michael A. Greminger",
+          6
+        ],
+        [
+          "Lixin Dong",
+          6
+        ],
+        [
+          "Kemal Berk Yesin",
+          4
+        ],
+        [
+          "Karl Vollmers",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 4.64,
+      "unique_coauthors": 56,
+      "top_coauthors": [
+        [
+          "Bradley Kratochvil",
+          14
+        ],
+        [
+          "Jake J. Abbott",
+          12
+        ],
+        [
+          "Lixin Dong",
+          9
+        ],
+        [
+          "Zoltán Nagy",
+          7
+        ],
+        [
+          "Dominic R. Frutiger",
+          7
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 5.54,
+      "unique_coauthors": 71,
+      "top_coauthors": [
+        [
+          "Mahmut Selman Sakar",
+          7
+        ],
+        [
+          "Andrew J. Petruska",
+          7
+        ],
+        [
+          "Roel Pieters",
+          5
+        ],
+        [
+          "Salvador Pané",
+          5
+        ],
+        [
+          "Hsi-Wen Tung",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 6.52,
+      "unique_coauthors": 110,
+      "top_coauthors": [
+        [
+          "Quentin Boehler",
+          10
+        ],
+        [
+          "Salvador Pané",
+          4
+        ],
+        [
+          "Guang-Zhong Yang",
+          4
+        ],
+        [
+          "Peer Fischer",
+          4
+        ],
+        [
+          "Neil Jacobstein",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 5.33,
+      "unique_coauthors": 35,
+      "top_coauthors": [
+        [
+          "Quentin Boehler",
+          7
+        ],
+        [
+          "Simone Gervasoni",
+          3
+        ],
+        [
+          "Denis von Arx",
+          3
+        ],
+        [
+          "Christophe Chautems",
+          2
+        ],
+        [
+          "Harun Torlakcik",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.39,
+  "top_repeat_coauthors": [
+    {
+      "name": "Bradley Kratochvil",
+      "count": 17,
+      "first_year": 2002,
+      "last_year": 2013
+    },
+    {
+      "name": "Quentin Boehler",
+      "count": 17,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Lixin Dong",
+      "count": 15,
+      "first_year": 2005,
+      "last_year": 2011
+    },
+    {
+      "name": "Salvador Pané",
+      "count": 15,
+      "first_year": 2008,
+      "last_year": 2024
+    },
+    {
+      "name": "Jake J. Abbott",
+      "count": 14,
+      "first_year": 2007,
+      "last_year": 2010
+    },
+    {
+      "name": "Yu Sun",
+      "count": 11,
+      "first_year": 2001,
+      "last_year": 2006
+    },
+    {
+      "name": "Pradeep K. Khosla",
+      "count": 10,
+      "first_year": 1993,
+      "last_year": 1997
+    },
+    {
+      "name": "Li Zhang",
+      "count": 10,
+      "first_year": 2006,
+      "last_year": 2022
+    },
+    {
+      "name": "Kemal Berk Yesin",
+      "count": 8,
+      "first_year": 2000,
+      "last_year": 2006
+    },
+    {
+      "name": "Simon Muntwyler",
+      "count": 8,
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "name": "Zoltán Nagy",
+      "count": 8,
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "name": "Dominic R. Frutiger",
+      "count": 8,
+      "first_year": 2008,
+      "last_year": 2014
+    },
+    {
+      "name": "Andrew J. Petruska",
+      "count": 8,
+      "first_year": 2015,
+      "last_year": 2018
+    },
+    {
+      "name": "Michael A. Greminger",
+      "count": 7,
+      "first_year": 2002,
+      "last_year": 2005
+    },
+    {
+      "name": "Karl Vollmers",
+      "count": 7,
+      "first_year": 2004,
+      "last_year": 2010
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Pradeep K. Khosla",
+      "advisor_active_from": 1986,
+      "early_copubs_as_our_first_author": 7,
+      "advisor_last_author_count": 7,
+      "total_copubs": 10
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Zoltán Nagy",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 7,
+      "we_last_author_count": 8,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Yu Sun",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 8,
+      "we_last_author_count": 7,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Dominic R. Frutiger",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Michael A. Greminger",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Jake J. Abbott",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 14,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Simon Muntwyler",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Christos Bergeles",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Christophe Chautems",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Felix Beyeler",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Michael P. Kummer",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Hsi-Wen Tung",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Kathrin Eva Peyer",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Roel Pieters",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Kemal Berk Yesin",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Samuel L. Charreyron",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Ge Yang",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Andrew J. Petruska",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Simone Schürle",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Ayoung Hong",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Dimitrios Felekis",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Arunkumar Subramanian",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Samuel Charreyron",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Burak Zeydan",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Franziska Ullrich",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Hen-Wei Huang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Roland Dreyfus",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Dominik J. Bell",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Jan T. Burri",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Lixin Dong",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 15,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Yu Zhou",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Peer Fischer",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Kaiyu Shou",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Cedric Fischer",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Xiaopu Wang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Hongri Gu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Denis von Arx",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Andrew Drenner",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Quentin Peyron",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Sungwoong Jeon",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1993,
+      2002
+    ],
+    "early_mean_n_authors": 3.8,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 6.02
+  },
+  "citation_half_life_years": 16.0,
+  "bursts": {
+    "productivity": [
+      2009,
+      2017
+    ],
+    "impact": [
+      2010,
+      2018
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2010,
+      "venue": "T-RO",
+      "title": "OctoMag: An Electromagnetic System for 5-DOF Wireless Micromanipulation",
+      "cites": 1127,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Electromagnet",
+        "Wireless",
+        "Workspace",
+        "Rotation (mathematics)",
+        "Orientation (vector space)"
+      ],
+      "doi": "10.1109/tro.2010.2073030",
+      "coauthors": [
+        "Michael P. Kummer",
+        "Jake J. Abbott",
+        "Bradley Kratochvil",
+        "Ruedi Borer",
+        "Ali Sengul"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "Sci-Rob",
+      "title": "The grand challenges of Science Robotics",
+      "cites": 1122,
+      "n_authors": 16,
+      "role": "middle",
+      "concepts": [
+        "Grand Challenges",
+        "Robotics",
+        "Grand strategy",
+        "Engineering ethics",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1126/scirobotics.aar7650",
+      "coauthors": [
+        "James G. Bellingham",
+        "Pierre E. Dupont",
+        "Peer Fischer",
+        "Luciano Floridi",
+        "Robert J. Full",
+        "Neil Jacobstein",
+        "Vijay Kumar",
+        "Marcia McNutt",
+        "Robert D. Merrifield",
+        "Brian Scassellati",
+        "Mariarosaria Taddeo",
+        "Russell H. Taylor",
+        "Manuela M. Veloso",
+        "Zhong Lin Wang",
+        "Robert J. Wood"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IJRR",
+      "title": "How Should Microrobots Swim?",
+      "cites": 665,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Magnetic field",
+        "Computer science",
+        "Power (physics)",
+        "Medical robotics",
+        "Magnet"
+      ],
+      "doi": "10.1177/0278364909341658",
+      "coauthors": [
+        "Jake J. Abbott",
+        "Kathrin Eva Peyer",
+        "Marco Cosentino Lagomarsino",
+        "Li Zhang",
+        "Lixin Dong",
+        "Ioannis K. Kaliakatsos"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Combating COVID-19 - The role of robotics in managing public health and infectious diseases",
+      "cites": 564,
+      "n_authors": 13,
+      "role": "middle",
+      "concepts": [
+        "Coronavirus disease 2019 (COVID-19)",
+        "2019-20 coronavirus outbreak",
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "Public health",
+        "Robotics"
+      ],
+      "doi": "10.1126/scirobotics.abb5589",
+      "coauthors": [
+        "Guang-Zhong Yang",
+        "Robin R. Murphy",
+        "Howie Choset",
+        "Henrik I. Christensen",
+        "Steven H. Collins",
+        "Paolo Dario",
+        "Ken Goldberg",
+        "Koji Ikuta",
+        "Neil Jacobstein",
+        "Danica Kragic",
+        "Russell H. Taylor",
+        "Marcia McNutt"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "Sci-Rob",
+      "title": "A decade retrospective of medical robotics research from 2010 to 2020",
+      "cites": 465,
+      "n_authors": 10,
+      "role": "middle",
+      "concepts": [
+        "Robotics",
+        "Artificial intelligence",
+        "Commercialization",
+        "Engineering ethics",
+        "Data science"
+      ],
+      "doi": "10.1126/scirobotics.abi8017",
+      "coauthors": [
+        "Pierre E. Dupont",
+        "Michael Goldfarb",
+        "Blake Hannaford",
+        "Arianna Menciassi",
+        "Marcia K. O&apos",
+        "Malley",
+        "Nabil Simaan",
+        "Pietro Valdastri",
+        "Guang-Zhong Yang"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Modeling and Control of Untethered Biomicrorobots in a Fluidic Environment Using Electromagnetic Fields",
+      "cites": 461,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Drag",
+        "Engineering",
+        "Fluidics",
+        "Magnetic field",
+        "Mechanical engineering"
+      ],
+      "doi": "10.1177/0278364906065389",
+      "coauthors": [
+        "Kemal Berk Yesin",
+        "Karl Vollmers"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "Magnetically actuated microrobots as a platform for stem cell transplantation",
+      "cites": 390,
+      "n_authors": 14,
+      "role": "middle",
+      "concepts": [
+        "Transplantation",
+        "Stem cell",
+        "Nanotechnology",
+        "Medicine",
+        "Cell biology"
+      ],
+      "doi": "10.1126/scirobotics.aav4317",
+      "coauthors": [
+        "Sungwoong Jeon",
+        "Sangwon Kim",
+        "Shinwon Ha",
+        "Seungmin Lee",
+        "Eunhee Kim",
+        "So Yeun Kim",
+        "Sun Hwa Park",
+        "Jung Ho Jeon",
+        "Sung Won Kim",
+        "Cheil Moon",
+        "Jin-Young Kim",
+        "Seong-Woon Yu",
+        "Hongsoo Choi"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IJRR",
+      "title": "Biological Cell Injection Using an Autonomous MicroRobotic System",
+      "cites": 341,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Pipette",
+        "Pronucleus",
+        "Visual servoing",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364902021010833",
+      "coauthors": [
+        "Yu Sun"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "SoRo",
+      "title": "A Magnetically Controlled Soft Microrobot Steering a Guidewire in a Three-Dimensional Phantom Vascular Network",
+      "cites": 288,
+      "n_authors": 11,
+      "role": "middle",
+      "concepts": [
+        "Imaging phantom",
+        "Soft robotics",
+        "Soft tissue",
+        "Biomedical engineering",
+        "Actuator"
+      ],
+      "doi": "10.1089/soro.2018.0019",
+      "coauthors": [
+        "Sungwoong Jeon",
+        "Ali Kafash Hoshiar",
+        "Kangho Kim",
+        "Seungmin Lee",
+        "Eunhee Kim",
+        "Sunkey Lee",
+        "Jinyoung Kim",
+        "Hyo-Jeong Cha",
+        "Byung-Ju Yi",
+        "Hongsoo Choi"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-RO",
+      "title": "Modeling Magnetic Torque and Force for Controlled Manipulation of Soft-Magnetic Bodies",
+      "cites": 278,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Torque",
+        "Magnetic field",
+        "Magnetization",
+        "Axial symmetry",
+        "Physics"
+      ],
+      "doi": "10.1109/tro.2007.910775",
+      "coauthors": [
+        "Jake J. Abbott",
+        "Olgaç Ergeneman",
+        "Michael P. Kummer",
+        "Ann M. Hirt"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Bradley J. Nelson: 33년에 걸쳐 156편, 총 10,612회 인용, h=44, 500+ 블록버스터 4편.",
+      "paragraphs": [
+        "1993년 \"Increasing the Tracking Region of an Eye-In-Hand System by Singularity and Joint Limit Avoidance\"으로 출발. 첫 500+ 인용 논문까지 16년 걸림: \"How Should Microrobots Swim?\" (2009, 665회). 1000+ 인용 논문: \"OctoMag: An Electromagnetic System for 5-DOF Wireless Micromanipulation\" (2010, 1,127회).",
+        "초기 토픽: Computer science, Computer vision, Artificial intelligence. 최근 토픽: Computer science, Robot, Magnetic field. 피벗 점수 0.39 → 점진적 이동형.",
+        "저자수 평균: 초기 3.8명 → 후기 6.0명 (팀 확장).",
+        "최다 인용 논문 \"OctoMag: An Electromagnetic System for 5-DOF Wireless Micromanipulation\" (2010, 1,127회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Pradeep K. Khosla. 제자 후보 추정 39명 — 상위: Zoltán Nagy(2007~, 우리 마지막저자 8편), Yu Sun(2001~, 우리 마지막저자 7편), Dominic R. Frutiger(2008~, 우리 마지막저자 7편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "39명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Pradeep K. Khosla — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Bradley J. Nelson: over 33 years, 156 papers, 10,612 total cites, h=44, 4 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1993 with \"Increasing the Tracking Region of an Eye-In-Hand System by Singularity and Joint Limit Avoidance\". First 500+ cite paper came 16 years in: \"How Should Microrobots Swim?\" (2009, 665 cites). 1000+ cite paper: \"OctoMag: An Electromagnetic System for 5-DOF Wireless Micromanipulation\" (2010, 1,127 cites).",
+        "Early topics: Computer science, Computer vision, Artificial intelligence. Recent topics: Computer science, Robot, Magnetic field. Pivot score 0.39 → gradual shift.",
+        "Authors per paper: early 3.8 → late 6.0 (team growth).",
+        "Peak paper \"OctoMag: An Electromagnetic System for 5-DOF Wireless Micromanipulation\" (2010, 1,127 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Pradeep K. Khosla. 39 likely students — top: Zoltán Nagy(2007~, we last-author on 8), Yu Sun(2001~, we last-author on 7), Dominic R. Frutiger(2008~, we last-author on 7)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "39 likely students — mentoring is the real impact.",
+        "Likely advisor: Pradeep K. Khosla — started within their PhD network."
+      ]
+    }
+  }
+}

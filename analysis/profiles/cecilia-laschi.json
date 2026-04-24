@@ -1,0 +1,1284 @@
+{
+  "name": "Cecilia Laschi",
+  "slug": "cecilia-laschi",
+  "career_stats": {
+    "first_year": 1994,
+    "last_year": 2025,
+    "span": 32,
+    "total_papers": 89,
+    "total_cites": 5778,
+    "h_index": 33,
+    "i10_index": 60,
+    "seminal_count": 2,
+    "max_cites_single_paper": 637
+  },
+  "role_distribution": {
+    "last": 34,
+    "middle": 48,
+    "first": 7
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1994,
+      "title": "An Investigation on a Robot System for Disassembly Automation"
+    },
+    "first_100cite": {
+      "year": 2013,
+      "title": "A feed-forward neural network learning the inverse kinetics of a soft cable-driven manipulator moving in three-dimensional space",
+      "cites": 110,
+      "gap_from_first": 19
+    },
+    "first_500cite": {
+      "year": 2018,
+      "title": "Control Strategies for Soft Robotic Manipulators: A Survey",
+      "cites": 616,
+      "gap_from_first": 24
+    },
+    "peak_paper": {
+      "year": 2019,
+      "title": "Soft robot perception using embedded soft sensors and recurrent neural networks",
+      "cites": 637
+    }
+  },
+  "year_series": {
+    "1994": {
+      "n": 2,
+      "cites": 20,
+      "max_cites": 19
+    },
+    "1995": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1996": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1997": {
+      "n": 1,
+      "cites": 34,
+      "max_cites": 34
+    },
+    "1998": {
+      "n": 2,
+      "cites": 25,
+      "max_cites": 20
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 1,
+      "cites": 34,
+      "max_cites": 34
+    },
+    "2001": {
+      "n": 1,
+      "cites": 17,
+      "max_cites": 17
+    },
+    "2002": {
+      "n": 5,
+      "cites": 42,
+      "max_cites": 17
+    },
+    "2003": {
+      "n": 2,
+      "cites": 45,
+      "max_cites": 37
+    },
+    "2004": {
+      "n": 3,
+      "cites": 37,
+      "max_cites": 23
+    },
+    "2005": {
+      "n": 3,
+      "cites": 30,
+      "max_cites": 14
+    },
+    "2006": {
+      "n": 2,
+      "cites": 14,
+      "max_cites": 10
+    },
+    "2007": {
+      "n": 3,
+      "cites": 96,
+      "max_cites": 71
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 3,
+      "cites": 67,
+      "max_cites": 57
+    },
+    "2011": {
+      "n": 3,
+      "cites": 82,
+      "max_cites": 55
+    },
+    "2012": {
+      "n": 8,
+      "cites": 410,
+      "max_cites": 94
+    },
+    "2013": {
+      "n": 3,
+      "cites": 421,
+      "max_cites": 287
+    },
+    "2014": {
+      "n": 2,
+      "cites": 492,
+      "max_cites": 459
+    },
+    "2015": {
+      "n": 5,
+      "cites": 684,
+      "max_cites": 431
+    },
+    "2016": {
+      "n": 2,
+      "cites": 109,
+      "max_cites": 59
+    },
+    "2017": {
+      "n": 4,
+      "cites": 189,
+      "max_cites": 136
+    },
+    "2018": {
+      "n": 6,
+      "cites": 939,
+      "max_cites": 616
+    },
+    "2019": {
+      "n": 2,
+      "cites": 1025,
+      "max_cites": 637
+    },
+    "2020": {
+      "n": 2,
+      "cites": 309,
+      "max_cites": 199
+    },
+    "2021": {
+      "n": 4,
+      "cites": 64,
+      "max_cites": 29
+    },
+    "2022": {
+      "n": 5,
+      "cites": 192,
+      "max_cites": 82
+    },
+    "2023": {
+      "n": 6,
+      "cites": 324,
+      "max_cites": 248
+    },
+    "2024": {
+      "n": 6,
+      "cites": 68,
+      "max_cites": 33
+    },
+    "2025": {
+      "n": 3,
+      "cites": 9,
+      "max_cites": 5
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.12
+        },
+        {
+          "c": "Perception",
+          "w": 0.12
+        },
+        {
+          "c": "Automation",
+          "w": 0.08
+        },
+        {
+          "c": "Robotics",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Robot",
+          "w": 0.133
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.111
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.089
+        },
+        {
+          "c": "Robotics",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.182
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.091
+        },
+        {
+          "c": "Robot",
+          "w": 0.055
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.055
+        },
+        {
+          "c": "Gaze",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.118
+        },
+        {
+          "c": "Robot",
+          "w": 0.106
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.035
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.024
+        },
+        {
+          "c": "Marine engineering",
+          "w": 0.024
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.095
+        },
+        {
+          "c": "Computer science",
+          "w": 0.095
+        },
+        {
+          "c": "Soft robotics",
+          "w": 0.074
+        },
+        {
+          "c": "Robotics",
+          "w": 0.053
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.042
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.154
+        },
+        {
+          "c": "Computer science",
+          "w": 0.143
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.077
+        },
+        {
+          "c": "Soft robotics",
+          "w": 0.055
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.022
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.156
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Soft robotics",
+          "w": 0.089
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.067
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.044
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 4
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "ICRA": 5,
+        "IROS": 4,
+        "T-Mech": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 6,
+        "T-Mech": 2
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "SoRo": 7,
+        "RA-L": 4,
+        "T-RO": 2,
+        "IJRR": 2,
+        "ICRA": 1,
+        "IROS": 1,
+        "Sci-Rob": 1,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "Sci-Rob": 7,
+        "RA-L": 7,
+        "T-Mech": 2,
+        "T-RO": 1,
+        "IJRR": 1,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "IROS": 3,
+        "SoRo": 2,
+        "RA-L": 2,
+        "T-RO": 1,
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "mean_n_authors": 5.4,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Paolo Dario",
+          5
+        ],
+        [
+          "Davide Taddeucci",
+          3
+        ],
+        [
+          "Michele Rucci",
+          2
+        ],
+        [
+          "C. Guadagnini",
+          2
+        ],
+        [
+          "Antonina Starita",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 6.33,
+      "unique_coauthors": 22,
+      "top_coauthors": [
+        [
+          "Paolo Dario",
+          9
+        ],
+        [
+          "Giancarlo Teti",
+          7
+        ],
+        [
+          "Eugenio Guglielmelli",
+          6
+        ],
+        [
+          "Loredana Zollo",
+          5
+        ],
+        [
+          "Bruno Siciliano",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 6.27,
+      "unique_coauthors": 32,
+      "top_coauthors": [
+        [
+          "Paolo Dario",
+          10
+        ],
+        [
+          "Eugenio Guglielmelli",
+          6
+        ],
+        [
+          "Giancarlo Teti",
+          4
+        ],
+        [
+          "Gioel Asuni",
+          3
+        ],
+        [
+          "Luca Ascari",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 6.06,
+      "unique_coauthors": 48,
+      "top_coauthors": [
+        [
+          "Paolo Dario",
+          10
+        ],
+        [
+          "Barbara Mazzolai",
+          7
+        ],
+        [
+          "Gabriele Ferri",
+          5
+        ],
+        [
+          "Federico Renda",
+          4
+        ],
+        [
+          "Andrea Arienti",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 4.42,
+      "unique_coauthors": 32,
+      "top_coauthors": [
+        [
+          "Matteo Cianchetti",
+          7
+        ],
+        [
+          "Egidio Falotico",
+          5
+        ],
+        [
+          "Federico Renda",
+          4
+        ],
+        [
+          "Mariangela Manti",
+          4
+        ],
+        [
+          "Francesco Giorgio-Serchi",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 5.89,
+      "unique_coauthors": 66,
+      "top_coauthors": [
+        [
+          "Peiyi Wang",
+          5
+        ],
+        [
+          "Zhiqiang Tang",
+          5
+        ],
+        [
+          "Wenci Xin",
+          5
+        ],
+        [
+          "Zhexin Xie",
+          5
+        ],
+        [
+          "Egidio Falotico",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 7.11,
+      "unique_coauthors": 46,
+      "top_coauthors": [
+        [
+          "Peiyi Wang",
+          4
+        ],
+        [
+          "Longxin Kan",
+          2
+        ],
+        [
+          "Zhihang Qin",
+          2
+        ],
+        [
+          "Keyi Li",
+          2
+        ],
+        [
+          "Zhiqiang Tang",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.278,
+  "top_repeat_coauthors": [
+    {
+      "name": "Paolo Dario",
+      "count": 38,
+      "first_year": 1994,
+      "last_year": 2021
+    },
+    {
+      "name": "Egidio Falotico",
+      "count": 13,
+      "first_year": 2011,
+      "last_year": 2024
+    },
+    {
+      "name": "Eugenio Guglielmelli",
+      "count": 12,
+      "first_year": 2000,
+      "last_year": 2007
+    },
+    {
+      "name": "Matteo Cianchetti",
+      "count": 12,
+      "first_year": 2012,
+      "last_year": 2024
+    },
+    {
+      "name": "Giancarlo Teti",
+      "count": 11,
+      "first_year": 2000,
+      "last_year": 2006
+    },
+    {
+      "name": "Barbara Mazzolai",
+      "count": 11,
+      "first_year": 2010,
+      "last_year": 2024
+    },
+    {
+      "name": "Federico Renda",
+      "count": 10,
+      "first_year": 2012,
+      "last_year": 2024
+    },
+    {
+      "name": "Peiyi Wang",
+      "count": 9,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Marcello Calisti",
+      "count": 8,
+      "first_year": 2012,
+      "last_year": 2021
+    },
+    {
+      "name": "Zhiqiang Tang",
+      "count": 7,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Wenci Xin",
+      "count": 7,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Loredana Zollo",
+      "count": 6,
+      "first_year": 2001,
+      "last_year": 2005
+    },
+    {
+      "name": "Gabriele Ferri",
+      "count": 6,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "Andrea Arienti",
+      "count": 6,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Francesco Giorgio-Serchi",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2021
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Peiyi Wang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Federico Renda",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Zhiqiang Tang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Wenci Xin",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Marcello Calisti",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Thomas George Thuruthel",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Michele Giorelli",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Francesco Giorgio-Serchi",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Zhexin Xie",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Matteo Cianchetti",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 12,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Mariangela Manti",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Longxin Kan",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Barbara Mazzolai",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 11,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yasmin Ansari",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Laura Margheri",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Gabriele Ferri",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Loredana Zollo",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Gioel Asuni",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Taimoor Hassan",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Giacomo Picardi",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Edoardo Datteri",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Giancarlo Teti",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Luca Ascari",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Ulisse Bertocchi",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Francesco Patane",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Mrudul Chellapurath",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2021
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1994,
+      2003
+    ],
+    "early_mean_n_authors": 6,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.8
+  },
+  "citation_half_life_years": 8.0,
+  "bursts": {
+    "productivity": [
+      2012
+    ],
+    "impact": [
+      2018,
+      2019
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "Soft robot perception using embedded soft sensors and recurrent neural networks",
+      "cites": 637,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Perception",
+        "Soft robotics",
+        "Computer science",
+        "Robot",
+        "Artificial neural network"
+      ],
+      "doi": "10.1126/scirobotics.aav1488",
+      "coauthors": [
+        "Benjamin Shih",
+        "Michael Thomas Tolley"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "SoRo",
+      "title": "Control Strategies for Soft Robotic Manipulators: A Survey",
+      "cites": 616,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Soft robotics",
+        "Robotics",
+        "Robot",
+        "Artificial intelligence",
+        "Field (mathematics)"
+      ],
+      "doi": "10.1089/soro.2017.0007",
+      "coauthors": [
+        "Thomas George Thuruthel",
+        "Yasmin Ansari",
+        "Egidio Falotico"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "Dynamic Model of a Multibending Soft Robot Arm Driven by Cables",
+      "cites": 459,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Soft robotics",
+        "Robotics",
+        "Mechatronics",
+        "Arm solution"
+      ],
+      "doi": "10.1109/tro.2014.2325992",
+      "coauthors": [
+        "Federico Renda",
+        "Michele Giorelli",
+        "Marcello Calisti",
+        "Matteo Cianchetti"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "SoRo",
+      "title": "A Bioinspired Soft Robotic Gripper for Adaptable and Effective Grasping",
+      "cites": 431,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Underactuation",
+        "Mechanism (biology)",
+        "Soft robotics",
+        "Soft materials",
+        "Grippers"
+      ],
+      "doi": "10.1089/soro.2015.0009",
+      "coauthors": [
+        "Mariangela Manti",
+        "Taimoor Hassan",
+        "Giovanni Passetti",
+        "Nicolò d’Elia",
+        "Matteo Cianchetti"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "T-RO",
+      "title": "Model-Based Reinforcement Learning for Closed-Loop Dynamic Control of Soft Robotic Manipulators",
+      "cites": 388,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Control theory (sociology)",
+        "Kinematics",
+        "Reinforcement learning",
+        "Soft robotics",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2018.2878318",
+      "coauthors": [
+        "Thomas George Thuruthel",
+        "Egidio Falotico",
+        "Federico Renda"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IROS",
+      "title": "STIFF-FLOP surgical manipulator: Mechanical design and experimental characterization of the single module",
+      "cites": 287,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Jamming",
+        "Bending",
+        "Actuator",
+        "Bending stiffness",
+        "Stiffness"
+      ],
+      "doi": "10.1109/iros.2013.6696866",
+      "coauthors": [
+        "Matteo Cianchetti",
+        "Tommaso Ranzani",
+        "Giada Gerboni",
+        "Iris De Falco",
+        "Arianna Menciassi"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "Sci-Rob",
+      "title": "Octopus-inspired sensorized soft arm for environmental interaction",
+      "cites": 248,
+      "n_authors": 16,
+      "role": "middle",
+      "concepts": [
+        "Soft robotics",
+        "octopus (software)",
+        "Process (computing)",
+        "Computer science",
+        "Bending"
+      ],
+      "doi": "10.1126/scirobotics.adh7852",
+      "coauthors": [
+        "Zhexin Xie",
+        "Feiyang Yuan",
+        "Jiaqi Liu",
+        "Lufeng Tian",
+        "Bohan Chen",
+        "Zhongqiang Fu",
+        "Sizhe Mao",
+        "Tongtong Jin",
+        "Yun Wang",
+        "Xia He",
+        "Gang Wang",
+        "Yanru Mo",
+        "Xilun Ding",
+        "Yihui Zhang",
+        "Li Wen"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "T-RO",
+      "title": "Neural Network and Jacobian Method for Solving the Inverse Statics of a Cable-Driven Soft Arm With Nonconstant Curvature",
+      "cites": 212,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Jacobian matrix and determinant",
+        "Inverse kinematics",
+        "Constant curvature",
+        "Curvature",
+        "Piecewise"
+      ],
+      "doi": "10.1109/tro.2015.2428511",
+      "coauthors": [
+        "Michele Giorelli",
+        "Federico Renda",
+        "Marcello Calisti",
+        "Andrea Arienti",
+        "Gabriele Ferri"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Bioinspired underwater legged robot for seabed exploration with low environmental disturbance",
+      "cites": 199,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Underwater",
+        "Seabed",
+        "Computer science",
+        "Sonar"
+      ],
+      "doi": "10.1126/scirobotics.aaz1012",
+      "coauthors": [
+        "Giacomo Picardi",
+        "Mrudul Chellapurath",
+        "Saverio Iacoponi",
+        "Sergio Stefanni",
+        "Marcello Calisti"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "SoRo",
+      "title": "Learning Closed Loop Kinematic Controllers for Continuum Manipulators in Unstructured Environments",
+      "cites": 136,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Kinematics",
+        "Computer science",
+        "Control engineering",
+        "Control theory (sociology)",
+        "Redundancy (engineering)"
+      ],
+      "doi": "10.1089/soro.2016.0051",
+      "coauthors": [
+        "Thomas George Thuruthel",
+        "Egidio Falotico",
+        "Mariangela Manti",
+        "Andrea Pratesi",
+        "Matteo Cianchetti"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Cecilia Laschi: 32년에 걸쳐 89편, 총 5,778회 인용, h=33, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1994년 \"An Investigation on a Robot System for Disassembly Automation\"으로 출발. 첫 500+ 인용 논문까지 24년 걸림: \"Control Strategies for Soft Robotic Manipulators: A Survey\" (2018, 616회).",
+        "초기 토픽: Computer science, Artificial intelligence, Perception. 최근 토픽: Robot, Computer science, Soft robotics. 피벗 점수 0.28 → 점진적 이동형.",
+        "저자수 평균: 초기 6.0명 → 후기 5.8명 (팀 유지).",
+        "최다 인용 논문 \"Soft robot perception using embedded soft sensors and recurrent neural networks\" (2019, 637회) — 커리어 후기에 위치.",
+        "제자 후보 추정 26명 — 상위: Peiyi Wang(2022~, 우리 마지막저자 9편), Federico Renda(2012~, 우리 마지막저자 7편), Zhiqiang Tang(2022~, 우리 마지막저자 7편)."
+      ],
+      "lessons": [
+        "26명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Cecilia Laschi: over 32 years, 89 papers, 5,778 total cites, h=33, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1994 with \"An Investigation on a Robot System for Disassembly Automation\". First 500+ cite paper came 24 years in: \"Control Strategies for Soft Robotic Manipulators: A Survey\" (2018, 616 cites).",
+        "Early topics: Computer science, Artificial intelligence, Perception. Recent topics: Robot, Computer science, Soft robotics. Pivot score 0.28 → gradual shift.",
+        "Authors per paper: early 6.0 → late 5.8 (stable team).",
+        "Peak paper \"Soft robot perception using embedded soft sensors and recurrent neural networks\" (2019, 637 cites) — fell in late career.",
+        "26 likely students — top: Peiyi Wang(2022~, we last-author on 9), Federico Renda(2012~, we last-author on 7), Zhiqiang Tang(2022~, we last-author on 7)."
+      ],
+      "lessons": [
+        "26 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

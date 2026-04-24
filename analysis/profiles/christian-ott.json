@@ -1,0 +1,1139 @@
+{
+  "name": "Christian Ott",
+  "slug": "christian-ott",
+  "career_stats": {
+    "first_year": 2001,
+    "last_year": 2025,
+    "span": 25,
+    "total_papers": 140,
+    "total_cites": 7016,
+    "h_index": 41,
+    "i10_index": 110,
+    "seminal_count": 1,
+    "max_cites_single_paper": 802
+  },
+  "role_distribution": {
+    "middle": 79,
+    "first": 10,
+    "last": 51
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2001,
+      "title": "Interactive redundant robotics: control of the inverted pendulum with nullspace motion"
+    },
+    "first_100cite": {
+      "year": 2003,
+      "title": "Cartesian impedance control of redundant robots: recent results with the DLR-light-weight-arms",
+      "cites": 276,
+      "gap_from_first": 2
+    },
+    "first_500cite": {
+      "year": 2007,
+      "title": "A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots",
+      "cites": 802,
+      "gap_from_first": 6
+    },
+    "peak_paper": {
+      "year": 2007,
+      "title": "A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots",
+      "cites": 802
+    }
+  },
+  "year_series": {
+    "2001": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "2002": {
+      "n": 1,
+      "cites": 51,
+      "max_cites": 51
+    },
+    "2003": {
+      "n": 2,
+      "cites": 338,
+      "max_cites": 276
+    },
+    "2004": {
+      "n": 2,
+      "cites": 327,
+      "max_cites": 167
+    },
+    "2005": {
+      "n": 1,
+      "cites": 17,
+      "max_cites": 17
+    },
+    "2006": {
+      "n": 3,
+      "cites": 183,
+      "max_cites": 88
+    },
+    "2007": {
+      "n": 3,
+      "cites": 940,
+      "max_cites": 802
+    },
+    "2008": {
+      "n": 5,
+      "cites": 559,
+      "max_cites": 414
+    },
+    "2009": {
+      "n": 2,
+      "cites": 46,
+      "max_cites": 27
+    },
+    "2010": {
+      "n": 3,
+      "cites": 450,
+      "max_cites": 330
+    },
+    "2011": {
+      "n": 3,
+      "cites": 283,
+      "max_cites": 248
+    },
+    "2012": {
+      "n": 4,
+      "cites": 430,
+      "max_cites": 221
+    },
+    "2013": {
+      "n": 5,
+      "cites": 289,
+      "max_cites": 131
+    },
+    "2014": {
+      "n": 5,
+      "cites": 185,
+      "max_cites": 62
+    },
+    "2015": {
+      "n": 5,
+      "cites": 624,
+      "max_cites": 362
+    },
+    "2016": {
+      "n": 8,
+      "cites": 388,
+      "max_cites": 185
+    },
+    "2017": {
+      "n": 11,
+      "cites": 394,
+      "max_cites": 122
+    },
+    "2018": {
+      "n": 13,
+      "cites": 392,
+      "max_cites": 82
+    },
+    "2019": {
+      "n": 10,
+      "cites": 296,
+      "max_cites": 79
+    },
+    "2020": {
+      "n": 12,
+      "cites": 249,
+      "max_cites": 104
+    },
+    "2021": {
+      "n": 10,
+      "cites": 178,
+      "max_cites": 35
+    },
+    "2022": {
+      "n": 12,
+      "cites": 212,
+      "max_cites": 50
+    },
+    "2023": {
+      "n": 8,
+      "cites": 128,
+      "max_cites": 61
+    },
+    "2024": {
+      "n": 4,
+      "cites": 32,
+      "max_cites": 20
+    },
+    "2025": {
+      "n": 7,
+      "cites": 10,
+      "max_cites": 3
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.171
+        },
+        {
+          "c": "Impedance control",
+          "w": 0.086
+        },
+        {
+          "c": "Passivity",
+          "w": 0.086
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.086
+        },
+        {
+          "c": "Robot",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.125
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.113
+        },
+        {
+          "c": "Impedance control",
+          "w": 0.087
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.062
+        },
+        {
+          "c": "Robot",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.155
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.091
+        },
+        {
+          "c": "Robot",
+          "w": 0.064
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.045
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.045
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 54,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.126
+        },
+        {
+          "c": "Robot",
+          "w": 0.07
+        },
+        {
+          "c": "Computer science",
+          "w": 0.067
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.056
+        },
+        {
+          "c": "Passivity",
+          "w": 0.052
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 41,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.127
+        },
+        {
+          "c": "Computer science",
+          "w": 0.107
+        },
+        {
+          "c": "Robot",
+          "w": 0.054
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.039
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.034
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "ICRA": 5,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 5,
+        "IJRR": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "IROS": 11,
+        "ICRA": 7,
+        "IJRR": 3,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "RA-L": 17,
+        "ICRA": 15,
+        "IROS": 12,
+        "T-RO": 7,
+        "IJRR": 1,
+        "T-Mech": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "RA-L": 19,
+        "ICRA": 11,
+        "T-RO": 4,
+        "IROS": 4,
+        "T-Mech": 2,
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 3.57,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Gerd Hirzinger",
+          7
+        ],
+        [
+          "Alin Albu-Schäffer",
+          6
+        ],
+        [
+          "Andreas Kugi",
+          2
+        ],
+        [
+          "Günter Schreiber",
+          1
+        ],
+        [
+          "Udo Frese",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 3.94,
+      "unique_coauthors": 21,
+      "top_coauthors": [
+        [
+          "Gerd Hirzinger",
+          9
+        ],
+        [
+          "Alin Albu-Schäffer",
+          6
+        ],
+        [
+          "Yoshihiko Nakamura",
+          6
+        ],
+        [
+          "Thomas Wimböck",
+          5
+        ],
+        [
+          "Andreas Kugi",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 3.73,
+      "unique_coauthors": 30,
+      "top_coauthors": [
+        [
+          "Alin Albu-Schäffer",
+          11
+        ],
+        [
+          "Johannes Englsberger",
+          5
+        ],
+        [
+          "Dongheui Lee",
+          5
+        ],
+        [
+          "Máximo A. Roa",
+          3
+        ],
+        [
+          "Thomas Wimböck",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 4.33,
+      "unique_coauthors": 71,
+      "top_coauthors": [
+        [
+          "Alin Albu-Schäffer",
+          15
+        ],
+        [
+          "Alexander Dietrich",
+          11
+        ],
+        [
+          "Bernd Henze",
+          9
+        ],
+        [
+          "Min Jun Kim",
+          8
+        ],
+        [
+          "Johannes Englsberger",
+          7
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 4.98,
+      "unique_coauthors": 84,
+      "top_coauthors": [
+        [
+          "Marco De Stefano",
+          8
+        ],
+        [
+          "Johannes Englsberger",
+          8
+        ],
+        [
+          "Hrishik Mishra",
+          6
+        ],
+        [
+          "Alin Albu-Schäffer",
+          6
+        ],
+        [
+          "George Mesesan",
+          6
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.199,
+  "top_repeat_coauthors": [
+    {
+      "name": "Alin Albu-Schäffer",
+      "count": 44,
+      "first_year": 2002,
+      "last_year": 2023
+    },
+    {
+      "name": "Johannes Englsberger",
+      "count": 20,
+      "first_year": 2011,
+      "last_year": 2025
+    },
+    {
+      "name": "Gerd Hirzinger",
+      "count": 18,
+      "first_year": 2001,
+      "last_year": 2012
+    },
+    {
+      "name": "Alexander Dietrich",
+      "count": 18,
+      "first_year": 2013,
+      "last_year": 2025
+    },
+    {
+      "name": "Dongheui Lee",
+      "count": 12,
+      "first_year": 2009,
+      "last_year": 2024
+    },
+    {
+      "name": "Gianluca Garofalo",
+      "count": 12,
+      "first_year": 2012,
+      "last_year": 2023
+    },
+    {
+      "name": "Marco De Stefano",
+      "count": 12,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Bernd Henze",
+      "count": 11,
+      "first_year": 2013,
+      "last_year": 2019
+    },
+    {
+      "name": "Min Jun Kim",
+      "count": 11,
+      "first_year": 2016,
+      "last_year": 2023
+    },
+    {
+      "name": "George Mesesan",
+      "count": 11,
+      "first_year": 2017,
+      "last_year": 2023
+    },
+    {
+      "name": "Manuel Keppler",
+      "count": 10,
+      "first_year": 2016,
+      "last_year": 2022
+    },
+    {
+      "name": "Ribin Balachandran",
+      "count": 10,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Hrishik Mishra",
+      "count": 9,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Thomas Wimböck",
+      "count": 8,
+      "first_year": 2006,
+      "last_year": 2015
+    },
+    {
+      "name": "Yoshihiko Nakamura",
+      "count": 8,
+      "first_year": 2008,
+      "last_year": 2012
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Gerd Hirzinger",
+      "advisor_active_from": 1985,
+      "early_copubs_as_our_first_author": 4,
+      "advisor_last_author_count": 4,
+      "total_copubs": 18
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "George Mesesan",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 11,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Bernd Henze",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 11,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Sait Sovukluk",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hrishik Mishra",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Manuel Keppler",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 10,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hemjyoti Das",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alexander Werner",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Robert Schuller",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ria Vijayan",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Harsimran Singh",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Marco De Stefano",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 12,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Michael Panzirsch",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Alessandro M. Giordano",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Andre Coelho",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Annika Kirner",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Johannes Englsberger",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 20,
+      "student_first_author_count": 6,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alexander Dietrich",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 18,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Gianluca Garofalo",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Ribin Balachandran",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Fabian Beck",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Xuwei Wu",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Kristin Bussmann",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Thomas Wimböck",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Kai Hu",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Yuri S. Sarkisov",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Firas Abi-Farraj",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Maged Iskandar",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Dominic Lakatos",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Florian Petit",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Alessandro Massimo Giordano",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2001,
+      2010
+    ],
+    "early_mean_n_authors": 3.83,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.61
+  },
+  "citation_half_life_years": 14.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2007
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2007,
+      "venue": "IJRR",
+      "title": "A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots",
+      "cites": 802,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Passivity",
+        "Control theory (sociology)",
+        "Torque",
+        "Impedance control",
+        "Control engineering"
+      ],
+      "doi": "10.1177/0278364907073776",
+      "coauthors": [
+        "Alin Albu-Schäffer",
+        "Gerd Hirzinger"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "On the Passivity-Based Impedance Controlof Flexible Joint Robots",
+      "cites": 414,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Control theory (sociology)",
+        "Impedance control",
+        "Passivity",
+        "Torque",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/tro.2008.915438",
+      "coauthors": [
+        "Andreas Kugi",
+        "Alin Albu-Schäffer",
+        "Gerd Hirzinger"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "T-RO",
+      "title": "Three-Dimensional Bipedal Walking Control Based on Divergent Component of Motion",
+      "cites": 362,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Robustness (evolution)",
+        "Control theory (sociology)",
+        "Trajectory",
+        "Motion control",
+        "Component (thermodynamics)"
+      ],
+      "doi": "10.1109/tro.2015.2405592",
+      "coauthors": [
+        "Johannes Englsberger",
+        "Alin Albu-Schäffer"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "ICRA",
+      "title": "Unified Impedance and Admittance Control",
+      "cites": 330,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Admittance",
+        "Electrical impedance",
+        "Control theory (sociology)",
+        "Stability (learning theory)",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2010.5509861",
+      "coauthors": [
+        "Ranjan Mukherjee",
+        "Yoshihiko Nakamura"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "ICRA",
+      "title": "Cartesian impedance control of redundant robots: recent results with the DLR-light-weight-arms",
+      "cites": 276,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Control theory (sociology)",
+        "Impedance control",
+        "Decoupling (probability)",
+        "Cartesian coordinate system",
+        "Electrical impedance"
+      ],
+      "doi": "10.1109/robot.2003.1242165",
+      "coauthors": [
+        "Alin Albu-Schäffer",
+        "Udo Frese",
+        "Gerd Hirzinger"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "IROS",
+      "title": "Bipedal walking control based on Capture Point dynamics",
+      "cites": 248,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Inverted pendulum",
+        "Control theory (sociology)",
+        "Robustness (evolution)",
+        "Computer science",
+        "Double pendulum"
+      ],
+      "doi": "10.1109/iros.2011.6094435",
+      "coauthors": [
+        "Johannes Englsberger",
+        "Máximo A. Roa",
+        "Alin Albu-Schäffer",
+        "Gerhard Hirzinger"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "IJRR",
+      "title": "An overview of null space projections for redundant, torque-controlled robots",
+      "cites": 224,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Redundancy (engineering)",
+        "Weighting",
+        "Kinematics",
+        "Computer science",
+        "Torque"
+      ],
+      "doi": "10.1177/0278364914566516",
+      "coauthors": [
+        "Alexander Dietrich",
+        "Alin Albu-Schäffer"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "Incremental learning of full body motion primitives and their sequencing through human motion observation",
+      "cites": 221,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Motion (physics)",
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Motion capture"
+      ],
+      "doi": "10.1177/0278364911426178",
+      "coauthors": [
+        "Dana Kulic",
+        "Dongheui Lee",
+        "Junichi Ishikawa",
+        "Yoshihiko Nakamura"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "IJRR",
+      "title": "Passivity-based whole-body balancing for torque-controlled humanoid robots in multi-contact scenarios",
+      "cites": 185,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Wrench",
+        "Control theory (sociology)",
+        "Torque",
+        "Controller (irrigation)",
+        "Humanoid robot"
+      ],
+      "doi": "10.1177/0278364916653815",
+      "coauthors": [
+        "Bernd Henze",
+        "Máximo A. Roa"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "ICRA",
+      "title": "A Passivity based Cartesian Impedance Controller for Flexible Joint Robots - Part I: Torque Feedback and Gravity Compensation",
+      "cites": 167,
+      "n_authors": 5,
+      "role": "first",
+      "concepts": [
+        "Control theory (sociology)",
+        "Passivity",
+        "Impedance control",
+        "Torque",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/robot.2004.1307462",
+      "coauthors": [
+        "Alin Albu-Schäffer",
+        "Andreas Kugi",
+        "Stefano Stramigioli",
+        "Gerd Hirzinger"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Christian Ott: 25년에 걸쳐 140편, 총 7,016회 인용, h=41, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "2001년 \"Interactive redundant robotics: control of the inverted pendulum with nullspace motion\"으로 출발. 첫 500+ 인용 논문까지 6년 걸림: \"A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots\" (2007, 802회).",
+        "초기 토픽: Control theory (sociology), Impedance control, Passivity. 최근 토픽: Control theory (sociology), Computer science, Robot. 피벗 점수 0.20 → 토픽 지속형.",
+        "저자수 평균: 초기 3.8명 → 후기 4.6명 (팀 확장).",
+        "최다 인용 논문 \"A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots\" (2007, 802회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Gerd Hirzinger. 제자 후보 추정 30명 — 상위: George Mesesan(2017~, 우리 마지막저자 6편), Bernd Henze(2013~, 우리 마지막저자 5편), Sait Sovukluk(2023~, 우리 마지막저자 4편)."
+      ],
+      "lessons": [
+        "30명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Gerd Hirzinger — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Christian Ott: over 25 years, 140 papers, 7,016 total cites, h=41, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2001 with \"Interactive redundant robotics: control of the inverted pendulum with nullspace motion\". First 500+ cite paper came 6 years in: \"A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots\" (2007, 802 cites).",
+        "Early topics: Control theory (sociology), Impedance control, Passivity. Recent topics: Control theory (sociology), Computer science, Robot. Pivot score 0.20 → topic-stable.",
+        "Authors per paper: early 3.8 → late 4.6 (team growth).",
+        "Peak paper \"A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots\" (2007, 802 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Gerd Hirzinger. 30 likely students — top: George Mesesan(2017~, we last-author on 6), Bernd Henze(2013~, we last-author on 5), Sait Sovukluk(2023~, we last-author on 4)."
+      ],
+      "lessons": [
+        "30 likely students — mentoring is the real impact.",
+        "Likely advisor: Gerd Hirzinger — started within their PhD network."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1189 @@
+{
+  "name": "Anthony Stentz",
+  "slug": "anthony-stentz",
+  "career_stats": {
+    "first_year": 1986,
+    "last_year": 2021,
+    "span": 36,
+    "total_papers": 80,
+    "total_cites": 6632,
+    "h_index": 43,
+    "i10_index": 65,
+    "seminal_count": 2,
+    "max_cites_single_paper": 875
+  },
+  "role_distribution": {
+    "middle": 13,
+    "last": 64,
+    "first": 3
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1986,
+      "title": "An architecture for sensor fusion in a mobile robot"
+    },
+    "first_100cite": {
+      "year": 1986,
+      "title": "An architecture for sensor fusion in a mobile robot",
+      "cites": 192,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 1994,
+      "title": "Optimal and Efficient Path Planning for Partially-Known Environments",
+      "cites": 875,
+      "gap_from_first": 8
+    },
+    "peak_paper": {
+      "year": 1994,
+      "title": "Optimal and Efficient Path Planning for Partially-Known Environments",
+      "cites": 875
+    }
+  },
+  "year_series": {
+    "1986": {
+      "n": 1,
+      "cites": 192,
+      "max_cites": 192
+    },
+    "1987": {
+      "n": 1,
+      "cites": 68,
+      "max_cites": 68
+    },
+    "1988": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1989": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1990": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1991": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1992": {
+      "n": 2,
+      "cites": 89,
+      "max_cites": 46
+    },
+    "1993": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1994": {
+      "n": 1,
+      "cites": 875,
+      "max_cites": 875
+    },
+    "1995": {
+      "n": 2,
+      "cites": 79,
+      "max_cites": 57
+    },
+    "1996": {
+      "n": 2,
+      "cites": 143,
+      "max_cites": 79
+    },
+    "1997": {
+      "n": 6,
+      "cites": 154,
+      "max_cites": 96
+    },
+    "1998": {
+      "n": 3,
+      "cites": 301,
+      "max_cites": 118
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 1,
+      "cites": 246,
+      "max_cites": 246
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 3,
+      "cites": 662,
+      "max_cites": 493
+    },
+    "2003": {
+      "n": 1,
+      "cites": 39,
+      "max_cites": 39
+    },
+    "2004": {
+      "n": 5,
+      "cites": 259,
+      "max_cites": 117
+    },
+    "2005": {
+      "n": 7,
+      "cites": 443,
+      "max_cites": 135
+    },
+    "2006": {
+      "n": 9,
+      "cites": 1433,
+      "max_cites": 272
+    },
+    "2007": {
+      "n": 5,
+      "cites": 182,
+      "max_cites": 66
+    },
+    "2008": {
+      "n": 4,
+      "cites": 10,
+      "max_cites": 6
+    },
+    "2009": {
+      "n": 2,
+      "cites": 21,
+      "max_cites": 11
+    },
+    "2010": {
+      "n": 5,
+      "cites": 298,
+      "max_cites": 142
+    },
+    "2011": {
+      "n": 4,
+      "cites": 41,
+      "max_cites": 15
+    },
+    "2012": {
+      "n": 4,
+      "cites": 140,
+      "max_cites": 51
+    },
+    "2013": {
+      "n": 5,
+      "cites": 793,
+      "max_cites": 594
+    },
+    "2014": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    },
+    "2015": {
+      "n": 5,
+      "cites": 161,
+      "max_cites": 67
+    },
+    "2016": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2017": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2018": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2019": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2020": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2021": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.2
+        },
+        {
+          "c": "Blackboard system",
+          "w": 0.1
+        },
+        {
+          "c": "Sensor fusion",
+          "w": 0.1
+        },
+        {
+          "c": "Software architecture",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.12
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.08
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.08
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.183
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.067
+        },
+        {
+          "c": "Terrain",
+          "w": 0.067
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.05
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.087
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.062
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.025
+        },
+        {
+          "c": "Exploit",
+          "w": 0.025
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.207
+        },
+        {
+          "c": "Robot",
+          "w": 0.072
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.063
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.054
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.207
+        },
+        {
+          "c": "Robot",
+          "w": 0.152
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.12
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.033
+        },
+        {
+          "c": "Terrain",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2021,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Terrain",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Microphone",
+          "w": 0.2
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "mix": {
+        "ICRA": 2
+      }
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 4
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 6,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "IROS": 9,
+        "ICRA": 8,
+        "IJRR": 4,
+        "RSS": 4
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 6,
+        "RSS": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2021,
+      "mix": {
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "mean_n_authors": 2.5,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Steven A. Shafer",
+          1
+        ],
+        [
+          "Charles E. Thorpe",
+          1
+        ],
+        [
+          "Yoshimasa Goto",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "mean_n_authors": 2,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Gary Shaffer",
+          1
+        ],
+        [
+          "Javier Gonzalez",
+          1
+        ],
+        [
+          "Aníbal Ollero",
+          1
+        ],
+        [
+          "Martial Hebert",
+          1
+        ],
+        [
+          "Ian Lane Davis",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 2.75,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Alonzo Kelly",
+          4
+        ],
+        [
+          "Barry Brumitt",
+          3
+        ],
+        [
+          "Sanjiv Singh",
+          3
+        ],
+        [
+          "Mark Ollis",
+          2
+        ],
+        [
+          "Patrick Rowe",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 2.62,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "M. Bernardine Dias",
+          5
+        ],
+        [
+          "Dave Ferguson",
+          4
+        ],
+        [
+          "Robert Zlot",
+          3
+        ],
+        [
+          "Carl Wellington",
+          2
+        ],
+        [
+          "Paul Tompkins",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 3.36,
+      "unique_coauthors": 37,
+      "top_coauthors": [
+        [
+          "Dave Ferguson",
+          5
+        ],
+        [
+          "Edward Gil Jones",
+          3
+        ],
+        [
+          "M. Bernardine Dias",
+          3
+        ],
+        [
+          "David Silver",
+          3
+        ],
+        [
+          "Boris Sofman",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 3.74,
+      "unique_coauthors": 32,
+      "top_coauthors": [
+        [
+          "J. Andrew Bagnell",
+          4
+        ],
+        [
+          "David Silver",
+          3
+        ],
+        [
+          "Dov Katz",
+          3
+        ],
+        [
+          "Moslem Kazemi",
+          3
+        ],
+        [
+          "Felix Duvallet",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2021,
+      "mean_n_authors": 2,
+      "unique_coauthors": 1,
+      "top_coauthors": [
+        [
+          "Jacqueline Libby",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.244,
+  "top_repeat_coauthors": [
+    {
+      "name": "M. Bernardine Dias",
+      "count": 10,
+      "first_year": 2002,
+      "last_year": 2013
+    },
+    {
+      "name": "Dave Ferguson",
+      "count": 9,
+      "first_year": 2004,
+      "last_year": 2007
+    },
+    {
+      "name": "J. Andrew Bagnell",
+      "count": 7,
+      "first_year": 2006,
+      "last_year": 2013
+    },
+    {
+      "name": "Alonzo Kelly",
+      "count": 6,
+      "first_year": 1997,
+      "last_year": 2010
+    },
+    {
+      "name": "David Silver",
+      "count": 6,
+      "first_year": 2006,
+      "last_year": 2015
+    },
+    {
+      "name": "Robert Zlot",
+      "count": 4,
+      "first_year": 2002,
+      "last_year": 2006
+    },
+    {
+      "name": "Juan Pablo Gonzalez",
+      "count": 4,
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "name": "Boris Sofman",
+      "count": 4,
+      "first_year": 2006,
+      "last_year": 2011
+    },
+    {
+      "name": "Ling Xu",
+      "count": 4,
+      "first_year": 2008,
+      "last_year": 2011
+    },
+    {
+      "name": "Felix Duvallet",
+      "count": 4,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "Martial Hebert",
+      "count": 3,
+      "first_year": 1995,
+      "last_year": 2015
+    },
+    {
+      "name": "Barry Brumitt",
+      "count": 3,
+      "first_year": 1996,
+      "last_year": 1998
+    },
+    {
+      "name": "Sanjiv Singh",
+      "count": 3,
+      "first_year": 1998,
+      "last_year": 2000
+    },
+    {
+      "name": "Carl Wellington",
+      "count": 3,
+      "first_year": 2004,
+      "last_year": 2006
+    },
+    {
+      "name": "Nidhi Kalra",
+      "count": 3,
+      "first_year": 2005,
+      "last_year": 2007
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Dave Ferguson",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 6,
+      "we_last_author_count": 8,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "M. Bernardine Dias",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 10,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Alonzo Kelly",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Juan Pablo Gonzalez",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Ling Xu",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Robert Zlot",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Carl Wellington",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Edward Gil Jones",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Dov Katz",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Boris Sofman",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Nidhi Kalra",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "David Silver",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Barry Brumitt",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1998
+    },
+    {
+      "name": "Mark Ollis",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1997
+    },
+    {
+      "name": "Bradford Neuman",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Jean Oh",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Patrick Rowe",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 1998
+    },
+    {
+      "name": "G. Ayorkor Korsah",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Alex Yahja",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2000
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1986,
+      1995
+    ],
+    "early_mean_n_authors": 2.14,
+    "late_window": [
+      2012,
+      2021
+    ],
+    "late_mean_n_authors": 3.94
+  },
+  "citation_half_life_years": 21.0,
+  "bursts": {
+    "productivity": [
+      2005,
+      2006
+    ],
+    "impact": [
+      1994,
+      2006
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 1994,
+      "venue": "ICRA",
+      "title": "Optimal and Efficient Path Planning for Partially-Known Environments",
+      "cites": 875,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Motion planning",
+        "Robot",
+        "Terrain",
+        "Mobile robot"
+      ],
+      "doi": "10.1109/robot.1994.351061",
+      "coauthors": []
+    },
+    {
+      "year": 2013,
+      "venue": "IJRR",
+      "title": "A comprehensive taxonomy for multi-robot task allocation",
+      "cites": 594,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Taxonomy (biology)",
+        "Computer science",
+        "Robot",
+        "Artificial intelligence",
+        "Parallels"
+      ],
+      "doi": "10.1177/0278364913496484",
+      "coauthors": [
+        "G. Ayorkor Korsah",
+        "M. Bernardine Dias"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "Multi-Robot Exploration Controlled by a Market Economy",
+      "cites": 493,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Exploit",
+        "Robot",
+        "Computer science",
+        "Order (exchange)",
+        "Architecture"
+      ],
+      "doi": "10.1109/robot.2002.1013690",
+      "coauthors": [
+        "Robert Zlot",
+        "M. Bernardine Dias",
+        "Scott Thayer"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Replanning with RRTs",
+      "cites": 272,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Probabilistic logic",
+        "Random tree",
+        "Computer science",
+        "Domain (mathematical analysis)",
+        "Tree (set theory)"
+      ],
+      "doi": "10.1109/robot.2006.1641879",
+      "coauthors": [
+        "Dave Ferguson",
+        "Nidhi Kalra"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Recent Progress in Local and Global Traversability for Planetary Rovers",
+      "cites": 246,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Obstacle avoidance",
+        "Key (lock)",
+        "Motion planning",
+        "Obstacle"
+      ],
+      "doi": "10.1109/robot.2000.844761",
+      "coauthors": [
+        "Sanjiv Singh",
+        "Reid G. Simmons",
+        "Trey Smith",
+        "Vandi Verma",
+        "Alex Yahja",
+        "Kurt Schwehr"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Toward Reliable Off Road Autonomous Vehicles Operating in Challenging Environments",
+      "cites": 238,
+      "n_authors": 14,
+      "role": "middle",
+      "concepts": [
+        "Waypoint",
+        "Unmanned ground vehicle",
+        "Mobile robot",
+        "Computer science",
+        "Field (mathematics)"
+      ],
+      "doi": "10.1177/0278364906065543",
+      "coauthors": [
+        "Alonzo Kelly",
+        "Omead Amidi",
+        "Mike Bode",
+        "David M. Bradley",
+        "Antonio Diaz-Calderon",
+        "Michael Happold",
+        "Herman Herman",
+        "Robert Mandelbaum",
+        "Thomas Pilarski",
+        "Peter Rander",
+        "Scott Thayer",
+        "Nick Vallidis",
+        "Randy Warner"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "Anytime RRTs",
+      "cites": 235,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Motion planning",
+        "Computer science",
+        "Random tree",
+        "Tree (set theory)",
+        "Search tree"
+      ],
+      "doi": "10.1109/iros.2006.282100",
+      "coauthors": [
+        "Dave Ferguson"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Market-based Multirobot Coordination for Complex Tasks",
+      "cites": 224,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Task (project management)",
+        "Robot",
+        "Bidding",
+        "Set (abstract data type)"
+      ],
+      "doi": "10.1177/0278364906061160",
+      "coauthors": [
+        "Robert Zlot"
+      ]
+    },
+    {
+      "year": 1986,
+      "venue": "ICRA",
+      "title": "An architecture for sensor fusion in a mobile robot",
+      "cites": 192,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Mobile robot",
+        "Blackboard system",
+        "Sensor fusion",
+        "Software architecture"
+      ],
+      "doi": "10.1109/robot.1986.1087440",
+      "coauthors": [
+        "Steven A. Shafer",
+        "Charles E. Thorpe"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Dynamically formed Heterogeneous Robot Teams Performing Tightly-coordinated Tasks",
+      "cites": 153,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Computer science",
+        "Human–computer interaction",
+        "Robot kinematics",
+        "Mobile robot"
+      ],
+      "doi": "10.1109/robot.2006.1641771",
+      "coauthors": [
+        "Edward Gil Jones",
+        "Brett Browning",
+        "M. Bernardine Dias",
+        "Brenna D. Argall",
+        "Manuela M. Veloso"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Anthony Stentz: 36년에 걸쳐 80편, 총 6,632회 인용, h=43, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1986년 \"An architecture for sensor fusion in a mobile robot\"으로 출발. 첫 500+ 인용 논문까지 8년 걸림: \"Optimal and Efficient Path Planning for Partially-Known Environments\" (1994, 875회).",
+        "초기 토픽: Computer science, Mobile robot, Blackboard system. 최근 토픽: Terrain, Computer science, Artificial intelligence. 피벗 점수 0.24 → 토픽 지속형.",
+        "저자수 평균: 초기 2.1명 → 후기 3.9명 (팀 확장).",
+        "최다 인용 논문 \"Optimal and Efficient Path Planning for Partially-Known Environments\" (1994, 875회) — 커리어 초기에 위치.",
+        "제자 후보 추정 19명 — 상위: Dave Ferguson(2004~, 우리 마지막저자 8편), M. Bernardine Dias(2002~, 우리 마지막저자 6편), Alonzo Kelly(1996~, 우리 마지막저자 4편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "19명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Anthony Stentz: over 36 years, 80 papers, 6,632 total cites, h=43, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1986 with \"An architecture for sensor fusion in a mobile robot\". First 500+ cite paper came 8 years in: \"Optimal and Efficient Path Planning for Partially-Known Environments\" (1994, 875 cites).",
+        "Early topics: Computer science, Mobile robot, Blackboard system. Recent topics: Terrain, Computer science, Artificial intelligence. Pivot score 0.24 → topic-stable.",
+        "Authors per paper: early 2.1 → late 3.9 (team growth).",
+        "Peak paper \"Optimal and Efficient Path Planning for Partially-Known Environments\" (1994, 875 cites) — fell in early career.",
+        "19 likely students — top: Dave Ferguson(2004~, we last-author on 8), M. Bernardine Dias(2002~, we last-author on 6), Alonzo Kelly(1996~, we last-author on 4)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "19 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1224 @@
+{
+  "name": "Pierre E. Dupont",
+  "slug": "pierre-e-dupont",
+  "career_stats": {
+    "first_year": 1990,
+    "last_year": 2025,
+    "span": 36,
+    "total_papers": 75,
+    "total_cites": 6282,
+    "h_index": 33,
+    "i10_index": 62,
+    "seminal_count": 3,
+    "max_cites_single_paper": 1122
+  },
+  "role_distribution": {
+    "first": 13,
+    "middle": 11,
+    "last": 51
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1990,
+      "title": "Friction modeling in dynamic robot simulation"
+    },
+    "first_100cite": {
+      "year": 2005,
+      "title": "Trajectory Optimization for Dynamic Needle Insertion",
+      "cites": 118,
+      "gap_from_first": 15
+    },
+    "first_500cite": {
+      "year": 2010,
+      "title": "Design and Control of Concentric-Tube Robots",
+      "cites": 729,
+      "gap_from_first": 20
+    },
+    "first_1000cite": {
+      "year": 2018,
+      "title": "The grand challenges of Science Robotics",
+      "cites": 1122,
+      "gap_from_first": 28
+    },
+    "peak_paper": {
+      "year": 2018,
+      "title": "The grand challenges of Science Robotics",
+      "cites": 1122
+    }
+  },
+  "year_series": {
+    "1990": {
+      "n": 1,
+      "cites": 74,
+      "max_cites": 74
+    },
+    "1991": {
+      "n": 1,
+      "cites": 37,
+      "max_cites": 37
+    },
+    "1992": {
+      "n": 1,
+      "cites": 55,
+      "max_cites": 55
+    },
+    "1993": {
+      "n": 1,
+      "cites": 56,
+      "max_cites": 56
+    },
+    "1994": {
+      "n": 1,
+      "cites": 29,
+      "max_cites": 29
+    },
+    "1995": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1996": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "1997": {
+      "n": 1,
+      "cites": 10,
+      "max_cites": 10
+    },
+    "1998": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1999": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2000": {
+      "n": 1,
+      "cites": 10,
+      "max_cites": 10
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 1,
+      "cites": 24,
+      "max_cites": 24
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 3,
+      "cites": 59,
+      "max_cites": 44
+    },
+    "2005": {
+      "n": 1,
+      "cites": 118,
+      "max_cites": 118
+    },
+    "2006": {
+      "n": 2,
+      "cites": 310,
+      "max_cites": 266
+    },
+    "2007": {
+      "n": 2,
+      "cites": 119,
+      "max_cites": 72
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 2,
+      "cites": 162,
+      "max_cites": 101
+    },
+    "2010": {
+      "n": 4,
+      "cites": 891,
+      "max_cites": 729
+    },
+    "2011": {
+      "n": 7,
+      "cites": 589,
+      "max_cites": 255
+    },
+    "2012": {
+      "n": 5,
+      "cites": 253,
+      "max_cites": 96
+    },
+    "2013": {
+      "n": 4,
+      "cites": 147,
+      "max_cites": 60
+    },
+    "2014": {
+      "n": 6,
+      "cites": 310,
+      "max_cites": 155
+    },
+    "2015": {
+      "n": 7,
+      "cites": 283,
+      "max_cites": 170
+    },
+    "2016": {
+      "n": 2,
+      "cites": 29,
+      "max_cites": 22
+    },
+    "2017": {
+      "n": 4,
+      "cites": 723,
+      "max_cites": 662
+    },
+    "2018": {
+      "n": 2,
+      "cites": 1176,
+      "max_cites": 1122
+    },
+    "2019": {
+      "n": 3,
+      "cites": 234,
+      "max_cites": 156
+    },
+    "2020": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2021": {
+      "n": 2,
+      "cites": 494,
+      "max_cites": 465
+    },
+    "2022": {
+      "n": 2,
+      "cites": 33,
+      "max_cites": 30
+    },
+    "2023": {
+      "n": 3,
+      "cites": 41,
+      "max_cites": 28
+    },
+    "2024": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "2025": {
+      "n": 3,
+      "cites": 4,
+      "max_cites": 2
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.12
+        },
+        {
+          "c": "Dynamics (music)",
+          "w": 0.12
+        },
+        {
+          "c": "Dynamic equation",
+          "w": 0.08
+        },
+        {
+          "c": "Dynamical friction",
+          "w": 0.08
+        },
+        {
+          "c": "Uniqueness",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Identification (biology)",
+          "w": 0.133
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Rigid body",
+          "w": 0.067
+        },
+        {
+          "c": "Rigid body dynamics",
+          "w": 0.067
+        },
+        {
+          "c": "Damper",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Teleoperation",
+          "w": 0.08
+        },
+        {
+          "c": "Computer science",
+          "w": 0.08
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.08
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.08
+        },
+        {
+          "c": "Constraint (computer-aided design)",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Concentric",
+          "w": 0.086
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.086
+        },
+        {
+          "c": "Materials science",
+          "w": 0.057
+        },
+        {
+          "c": "Orientation (vector space)",
+          "w": 0.057
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.131
+        },
+        {
+          "c": "Computer science",
+          "w": 0.092
+        },
+        {
+          "c": "Concentric",
+          "w": 0.054
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.054
+        },
+        {
+          "c": "Curvature",
+          "w": 0.054
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Concentric",
+          "w": 0.089
+        },
+        {
+          "c": "Robot",
+          "w": 0.078
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.078
+        },
+        {
+          "c": "Workspace",
+          "w": 0.044
+        },
+        {
+          "c": "Tube (container)",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.179
+        },
+        {
+          "c": "Robotics",
+          "w": 0.077
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.077
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.077
+        },
+        {
+          "c": "Ball (mathematics)",
+          "w": 0.077
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Robot",
+          "w": 0.133
+        },
+        {
+          "c": "Autonomy",
+          "w": 0.133
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.133
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.067
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "ICRA": 4,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 4,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 9,
+        "T-RO": 2,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "T-RO": 4,
+        "IROS": 4,
+        "Sci-Rob": 4,
+        "ICRA": 3,
+        "T-Mech": 1,
+        "IJRR": 1,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "Sci-Rob": 3,
+        "IROS": 2,
+        "SoRo": 1,
+        "T-RO": 1,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "Sci-Rob": 2,
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 1.2,
+      "unique_coauthors": 1,
+      "top_coauthors": [
+        [
+          "Serge P. Yamajako",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 2.67,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "Robert D. Howe",
+          2
+        ],
+        [
+          "Serge P. Yamajako",
+          1
+        ],
+        [
+          "Timothy M. Schulteis",
+          1
+        ],
+        [
+          "Thomas Debus",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 3,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "Thomas Debus",
+          4
+        ],
+        [
+          "Robert D. Howe",
+          4
+        ],
+        [
+          "Tae-Jeong Jang",
+          1
+        ],
+        [
+          "Ryan A. Beasley",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 2.86,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Patrick Sears",
+          2
+        ],
+        [
+          "Jeffrey A. Stoll",
+          2
+        ],
+        [
+          "Paul M. Novotny",
+          2
+        ],
+        [
+          "Robert D. Howe",
+          2
+        ],
+        [
+          "Matt Heverly",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 4.04,
+      "unique_coauthors": 42,
+      "top_coauthors": [
+        [
+          "Jesse Lock",
+          6
+        ],
+        [
+          "Andrew H. C. Gosline",
+          5
+        ],
+        [
+          "Evan J. Butler",
+          4
+        ],
+        [
+          "Nikolay V. Vasilyev",
+          4
+        ],
+        [
+          "Panagiotis Vartholomeos",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 5.83,
+      "unique_coauthors": 66,
+      "top_coauthors": [
+        [
+          "Junhyoung Ha",
+          6
+        ],
+        [
+          "Christos Bergeles",
+          3
+        ],
+        [
+          "Nikolay V. Vasilyev",
+          3
+        ],
+        [
+          "Zurab Machaidze",
+          3
+        ],
+        [
+          "Georgios Fagogenis",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 5.88,
+      "unique_coauthors": 28,
+      "top_coauthors": [
+        [
+          "Margherita Mencattelli",
+          4
+        ],
+        [
+          "Joseph Peine",
+          3
+        ],
+        [
+          "Giovanni Pittiglio",
+          3
+        ],
+        [
+          "Jiaole Wang",
+          2
+        ],
+        [
+          "Bradley J. Nelson",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 1.67,
+      "unique_coauthors": 2,
+      "top_coauthors": [
+        [
+          "Yuan Wang",
+          1
+        ],
+        [
+          "Alperen Degirmenci",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.555,
+  "top_repeat_coauthors": [
+    {
+      "name": "Junhyoung Ha",
+      "count": 9,
+      "first_year": 2014,
+      "last_year": 2021
+    },
+    {
+      "name": "Robert D. Howe",
+      "count": 8,
+      "first_year": 1997,
+      "last_year": 2007
+    },
+    {
+      "name": "Jesse Lock",
+      "count": 7,
+      "first_year": 2009,
+      "last_year": 2012
+    },
+    {
+      "name": "Andrew H. C. Gosline",
+      "count": 7,
+      "first_year": 2011,
+      "last_year": 2015
+    },
+    {
+      "name": "Nikolay V. Vasilyev",
+      "count": 7,
+      "first_year": 2011,
+      "last_year": 2015
+    },
+    {
+      "name": "Christos Bergeles",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "name": "Thomas Debus",
+      "count": 5,
+      "first_year": 1999,
+      "last_year": 2004
+    },
+    {
+      "name": "Evan J. Butler",
+      "count": 5,
+      "first_year": 2009,
+      "last_year": 2012
+    },
+    {
+      "name": "Pedro J. del Nido",
+      "count": 5,
+      "first_year": 2011,
+      "last_year": 2015
+    },
+    {
+      "name": "Margherita Mencattelli",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Mohsen Mahvash",
+      "count": 4,
+      "first_year": 2009,
+      "last_year": 2011
+    },
+    {
+      "name": "Panagiotis Vartholomeos",
+      "count": 4,
+      "first_year": 2011,
+      "last_year": 2013
+    },
+    {
+      "name": "Richard T. Chen",
+      "count": 4,
+      "first_year": 2011,
+      "last_year": 2015
+    },
+    {
+      "name": "Ouajdi Felfoul",
+      "count": 4,
+      "first_year": 2014,
+      "last_year": 2015
+    },
+    {
+      "name": "Lei Qin",
+      "count": 3,
+      "first_year": 2011,
+      "last_year": 2013
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Junhyoung Ha",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 9,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Andrew H. C. Gosline",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Jesse Lock",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Christos Bergeles",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Karl Price",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Evan J. Butler",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Giovanni Pittiglio",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Patrick Sears",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Alina Eqtami",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Veaceslav Arabagi",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Thomas Debus",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 1,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Jeffrey A. Stoll",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Tomer Anor",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2012
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1990,
+      1999
+    ],
+    "early_mean_n_authors": 1.75,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.68
+  },
+  "citation_half_life_years": 12.0,
+  "bursts": {
+    "productivity": [
+      2011,
+      2014,
+      2015
+    ],
+    "impact": [
+      2010,
+      2017,
+      2018
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2018,
+      "venue": "Sci-Rob",
+      "title": "The grand challenges of Science Robotics",
+      "cites": 1122,
+      "n_authors": 16,
+      "role": "middle",
+      "concepts": [
+        "Grand Challenges",
+        "Robotics",
+        "Grand strategy",
+        "Engineering ethics",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1126/scirobotics.aar7650",
+      "coauthors": [
+        "James G. Bellingham",
+        "Peer Fischer",
+        "Luciano Floridi",
+        "Robert J. Full",
+        "Neil Jacobstein",
+        "Vijay Kumar",
+        "Marcia McNutt",
+        "Robert D. Merrifield",
+        "Bradley J. Nelson",
+        "Brian Scassellati",
+        "Mariarosaria Taddeo",
+        "Russell H. Taylor",
+        "Manuela M. Veloso",
+        "Zhong Lin Wang",
+        "Robert J. Wood"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "T-RO",
+      "title": "Design and Control of Concentric-Tube Robots",
+      "cites": 729,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Actuator",
+        "Concentric",
+        "Kinematics",
+        "Torsion (gastropod)"
+      ],
+      "doi": "10.1109/tro.2009.2035740",
+      "coauthors": [
+        "Jesse Lock",
+        "Brandon Itkowitz",
+        "Evan J. Butler"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "Sci-Rob",
+      "title": "Medical robotics - Regulatory, ethical, and legal considerations for increasing levels of autonomy",
+      "cites": 662,
+      "n_authors": 11,
+      "role": "middle",
+      "concepts": [
+        "Autonomy",
+        "Robotics",
+        "Artificial intelligence",
+        "Engineering ethics",
+        "Political science"
+      ],
+      "doi": "10.1126/scirobotics.aam8638",
+      "coauthors": [
+        "James Cambias",
+        "Kevin Cleary",
+        "Eric Daimler",
+        "James M. Drake",
+        "Nobuhiko Hata",
+        "Peter Kazanzides",
+        "Sylvain Martel",
+        "Rajni V. Patel",
+        "Veronica J. Santos",
+        "Russell H. Taylor"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "Sci-Rob",
+      "title": "A decade retrospective of medical robotics research from 2010 to 2020",
+      "cites": 465,
+      "n_authors": 10,
+      "role": "first",
+      "concepts": [
+        "Robotics",
+        "Artificial intelligence",
+        "Commercialization",
+        "Engineering ethics",
+        "Data science"
+      ],
+      "doi": "10.1126/scirobotics.abi8017",
+      "coauthors": [
+        "Bradley J. Nelson",
+        "Michael Goldfarb",
+        "Blake Hannaford",
+        "Arianna Menciassi",
+        "Marcia K. O&apos",
+        "Malley",
+        "Nabil Simaan",
+        "Pietro Valdastri",
+        "Guang-Zhong Yang"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "A Steerable Needle Technology Using Curved Concentric Tubes",
+      "cites": 266,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Concentric",
+        "Kinematics",
+        "Position (finance)",
+        "Inverse",
+        "Orientation (vector space)"
+      ],
+      "doi": "10.1109/iros.2006.282072",
+      "coauthors": [
+        "Patrick Sears"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "T-RO",
+      "title": "Stiffness Control of Surgical Continuum Manipulators",
+      "cites": 255,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Stiffness",
+        "Control theory (sociology)",
+        "Actuator",
+        "Deflection (physics)",
+        "Kinematics"
+      ],
+      "doi": "10.1109/tro.2011.2105410",
+      "coauthors": [
+        "Mohsen Mahvash"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "T-RO",
+      "title": "Concentric Tube Robot Design and Optimization Based on Task and Anatomical Constraints",
+      "cites": 170,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Workspace",
+        "Robot",
+        "Kinematics",
+        "Concentric",
+        "Curvature"
+      ],
+      "doi": "10.1109/tro.2014.2378431",
+      "coauthors": [
+        "Christos Bergeles",
+        "Andrew H. C. Gosline",
+        "Nikolay V. Vasilyev",
+        "Patrick J. Codd",
+        "Pedro J. del Nido"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "Autonomous robotic intracardiac catheter navigation using haptic vision",
+      "cites": 156,
+      "n_authors": 10,
+      "role": "last",
+      "concepts": [
+        "Intracardiac injection",
+        "Haptic technology",
+        "Computer vision",
+        "Artificial intelligence",
+        "Catheter"
+      ],
+      "doi": "10.1126/scirobotics.aaw1977",
+      "coauthors": [
+        "Georgios Fagogenis",
+        "Margherita Mencattelli",
+        "Zurab Machaidze",
+        "Benoit Rosa",
+        "Karl Price",
+        "Fei-Yi Wu",
+        "V. Weixler",
+        "Mossab Saeed",
+        "John E. Mayer"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "FBG-based shape sensing tubes for continuum robots",
+      "cites": 155,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Curvature",
+        "Materials science",
+        "Robot",
+        "Optical fiber",
+        "Embedding"
+      ],
+      "doi": "10.1109/icra.2014.6907368",
+      "coauthors": [
+        "Seok Chang Ryu"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Trajectory Optimization for Dynamic Needle Insertion",
+      "cites": 118,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Displacement (psychology)",
+        "Limiting",
+        "Biomedical engineering",
+        "Materials science",
+        "Biomechanics"
+      ],
+      "doi": "10.1109/robot.2005.1570349",
+      "coauthors": [
+        "Matt Heverly",
+        "John K. Triedman"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Pierre E. Dupont: 36년에 걸쳐 75편, 총 6,282회 인용, h=33, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "1990년 \"Friction modeling in dynamic robot simulation\"으로 출발. 첫 500+ 인용 논문까지 20년 걸림: \"Design and Control of Concentric-Tube Robots\" (2010, 729회). 1000+ 인용 논문: \"The grand challenges of Science Robotics\" (2018, 1,122회).",
+        "초기 토픽: Control theory (sociology), Dynamics (music), Dynamic equation. 최근 토픽: Computer science, Robot, Autonomy. 피벗 점수 0.56 → 적극 피벗형.",
+        "저자수 평균: 초기 1.8명 → 후기 5.7명 (팀 확장).",
+        "최다 인용 논문 \"The grand challenges of Science Robotics\" (2018, 1,122회) — 커리어 후기에 위치.",
+        "제자 후보 추정 13명 — 상위: Junhyoung Ha(2014~, 우리 마지막저자 7편), Andrew H. C. Gosline(2009~, 우리 마지막저자 4편), Jesse Lock(2009~, 우리 마지막저자 3편)."
+      ],
+      "lessons": [
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "13명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Pierre E. Dupont: over 36 years, 75 papers, 6,282 total cites, h=33, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1990 with \"Friction modeling in dynamic robot simulation\". First 500+ cite paper came 20 years in: \"Design and Control of Concentric-Tube Robots\" (2010, 729 cites). 1000+ cite paper: \"The grand challenges of Science Robotics\" (2018, 1,122 cites).",
+        "Early topics: Control theory (sociology), Dynamics (music), Dynamic equation. Recent topics: Computer science, Robot, Autonomy. Pivot score 0.56 → active pivoter.",
+        "Authors per paper: early 1.8 → late 5.7 (team growth).",
+        "Peak paper \"The grand challenges of Science Robotics\" (2018, 1,122 cites) — fell in late career.",
+        "13 likely students — top: Junhyoung Ha(2014~, we last-author on 7), Andrew H. C. Gosline(2009~, we last-author on 4), Jesse Lock(2009~, we last-author on 3)."
+      ],
+      "lessons": [
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "13 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

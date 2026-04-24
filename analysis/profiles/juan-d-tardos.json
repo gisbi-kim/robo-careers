@@ -1,0 +1,1145 @@
+{
+  "name": "Juan D. Tardós",
+  "slug": "juan-d-tardos",
+  "career_stats": {
+    "first_year": 1992,
+    "last_year": 2024,
+    "span": 33,
+    "total_papers": 52,
+    "total_cites": 22566,
+    "h_index": 32,
+    "i10_index": 43,
+    "seminal_count": 6,
+    "max_cites_single_paper": 6367
+  },
+  "role_distribution": {
+    "first": 2,
+    "last": 31,
+    "middle": 19
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1992,
+      "title": "Representing partial and uncertain sensorial information using the theory of symmetries"
+    },
+    "first_100cite": {
+      "year": 1997,
+      "title": "Building a global map of the environment of a mobile robot: the importance of correlations",
+      "cites": 107,
+      "gap_from_first": 5
+    },
+    "first_500cite": {
+      "year": 2002,
+      "title": "Robust Mapping and Localization in Indoor Environments Using Sonar Data",
+      "cites": 529,
+      "gap_from_first": 10
+    },
+    "first_1000cite": {
+      "year": 2012,
+      "title": "Bags of Binary Words for Fast Place Recognition in Image Sequences",
+      "cites": 1883,
+      "gap_from_first": 20
+    },
+    "peak_paper": {
+      "year": 2015,
+      "title": "ORB-SLAM: A Versatile and Accurate Monocular SLAM System",
+      "cites": 6367
+    }
+  },
+  "year_series": {
+    "1992": {
+      "n": 1,
+      "cites": 42,
+      "max_cites": 42
+    },
+    "1993": {
+      "n": 1,
+      "cites": 7,
+      "max_cites": 7
+    },
+    "1994": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1995": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1996": {
+      "n": 1,
+      "cites": 30,
+      "max_cites": 30
+    },
+    "1997": {
+      "n": 1,
+      "cites": 107,
+      "max_cites": 107
+    },
+    "1998": {
+      "n": 1,
+      "cites": 90,
+      "max_cites": 90
+    },
+    "1999": {
+      "n": 2,
+      "cites": 53,
+      "max_cites": 44
+    },
+    "2000": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 2,
+      "cites": 678,
+      "max_cites": 529
+    },
+    "2003": {
+      "n": 1,
+      "cites": 112,
+      "max_cites": 112
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 3,
+      "cites": 423,
+      "max_cites": 369
+    },
+    "2006": {
+      "n": 4,
+      "cites": 162,
+      "max_cites": 114
+    },
+    "2007": {
+      "n": 6,
+      "cites": 540,
+      "max_cites": 242
+    },
+    "2008": {
+      "n": 4,
+      "cites": 605,
+      "max_cites": 238
+    },
+    "2009": {
+      "n": 3,
+      "cites": 147,
+      "max_cites": 124
+    },
+    "2010": {
+      "n": 1,
+      "cites": 50,
+      "max_cites": 50
+    },
+    "2011": {
+      "n": 2,
+      "cites": 312,
+      "max_cites": 176
+    },
+    "2012": {
+      "n": 2,
+      "cites": 1966,
+      "max_cites": 1883
+    },
+    "2013": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2014": {
+      "n": 1,
+      "cites": 263,
+      "max_cites": 263
+    },
+    "2015": {
+      "n": 2,
+      "cites": 6486,
+      "max_cites": 6367
+    },
+    "2016": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2017": {
+      "n": 2,
+      "cites": 6677,
+      "max_cites": 5881
+    },
+    "2018": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2019": {
+      "n": 2,
+      "cites": 38,
+      "max_cites": 33
+    },
+    "2020": {
+      "n": 1,
+      "cites": 7,
+      "max_cites": 7
+    },
+    "2021": {
+      "n": 3,
+      "cites": 3709,
+      "max_cites": 3659
+    },
+    "2022": {
+      "n": 4,
+      "cites": 42,
+      "max_cites": 15
+    },
+    "2023": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2024": {
+      "n": 2,
+      "cites": 20,
+      "max_cites": 16
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1992,
+      "end": 1996,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Homogeneous space",
+          "w": 0.133
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.067
+        },
+        {
+          "c": "Frame (networking)",
+          "w": 0.067
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.15
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.15
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.188
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.125
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.083
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.083
+        },
+        {
+          "c": "Sonar",
+          "w": 0.042
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.138
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.125
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Extended Kalman filter",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Pattern recognition (psychology)",
+          "w": 0.08
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.08
+        },
+        {
+          "c": "Vocabulary",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.15
+        },
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.125
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.1
+        },
+        {
+          "c": "Monocular",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2024,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.133
+        },
+        {
+          "c": "Monocular",
+          "w": 0.133
+        },
+        {
+          "c": "Classification of discontinuities",
+          "w": 0.033
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1992,
+      "end": 1996,
+      "mix": {
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 3,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "IROS": 7,
+        "ICRA": 4,
+        "T-RO": 3,
+        "RSS": 2
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "T-RO": 3,
+        "ICRA": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "ICRA": 3,
+        "T-RO": 2,
+        "RA-L": 2,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2024,
+      "mix": {
+        "IROS": 3,
+        "RA-L": 1,
+        "ICRA": 1,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1992,
+      "end": 1996,
+      "mean_n_authors": 2.67,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "José Neira",
+          2
+        ],
+        [
+          "Luis Montano",
+          1
+        ],
+        [
+          "Joachim Horn",
+          1
+        ],
+        [
+          "Günther Schmidt",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "mean_n_authors": 3.75,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "José A. Castellanos",
+          4
+        ],
+        [
+          "José Neira",
+          2
+        ],
+        [
+          "Günther Schmidt",
+          1
+        ],
+        [
+          "J. M. Martínez",
+          1
+        ],
+        [
+          "J. A. Pérez",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 3.4,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "José Neira",
+          7
+        ],
+        [
+          "Pedro Pinies",
+          3
+        ],
+        [
+          "Paul M. Newman",
+          2
+        ],
+        [
+          "John J. Leonard",
+          2
+        ],
+        [
+          "José A. Castellanos",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 4.06,
+      "unique_coauthors": 30,
+      "top_coauthors": [
+        [
+          "José Neira",
+          9
+        ],
+        [
+          "Lina María Paz",
+          5
+        ],
+        [
+          "Pedro Pinies",
+          5
+        ],
+        [
+          "Dorian Gálvez-López",
+          3
+        ],
+        [
+          "Ian D. Reid",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 2.6,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Raul Mur-Artal",
+          3
+        ],
+        [
+          "Dorian Gálvez-López",
+          2
+        ],
+        [
+          "Cesar Dario Cadena Lerma",
+          1
+        ],
+        [
+          "José Neira",
+          1
+        ],
+        [
+          "J. M. M. Montiel",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 3.38,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Carlos Campos",
+          4
+        ],
+        [
+          "José M. M. Montiel",
+          3
+        ],
+        [
+          "Raul Mur-Artal",
+          2
+        ],
+        [
+          "Richard Elvira",
+          2
+        ],
+        [
+          "Juan J. Gómez Rodríguez",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2024,
+      "mean_n_authors": 3,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "J. M. M. Montiel",
+          4
+        ],
+        [
+          "Juan J. Gómez Rodríguez",
+          3
+        ],
+        [
+          "José Lamarca",
+          1
+        ],
+        [
+          "Victor M. Batlle",
+          1
+        ],
+        [
+          "Carlos Campos",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.23,
+  "top_repeat_coauthors": [
+    {
+      "name": "José Neira",
+      "count": 22,
+      "first_year": 1993,
+      "last_year": 2021
+    },
+    {
+      "name": "J. M. M. Montiel",
+      "count": 9,
+      "first_year": 1999,
+      "last_year": 2024
+    },
+    {
+      "name": "Pedro Pinies",
+      "count": 8,
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "name": "José A. Castellanos",
+      "count": 6,
+      "first_year": 1997,
+      "last_year": 2006
+    },
+    {
+      "name": "Lina María Paz",
+      "count": 6,
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "name": "Dorian Gálvez-López",
+      "count": 5,
+      "first_year": 2010,
+      "last_year": 2012
+    },
+    {
+      "name": "Raul Mur-Artal",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Carlos Campos",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2022
+    },
+    {
+      "name": "Juan J. Gómez Rodríguez",
+      "count": 5,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "José M. M. Montiel",
+      "count": 4,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Paul M. Newman",
+      "count": 3,
+      "first_year": 2002,
+      "last_year": 2008
+    },
+    {
+      "name": "Günther Schmidt",
+      "count": 2,
+      "first_year": 1996,
+      "last_year": 1997
+    },
+    {
+      "name": "John J. Leonard",
+      "count": 2,
+      "first_year": 2002,
+      "last_year": 2002
+    },
+    {
+      "name": "Carlos Estrada",
+      "count": 2,
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "name": "David Ribas",
+      "count": 2,
+      "first_year": 2006,
+      "last_year": 2007
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Pedro Pinies",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Raul Mur-Artal",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Carlos Campos",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "José A. Castellanos",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Juan J. Gómez Rodríguez",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Lina María Paz",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Dorian Gálvez-López",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Carlos Estrada",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "David Ribas",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Richard Elvira",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Cesar Dario Cadena Lerma",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Paul M. Newman",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "José Lamarca",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Javier Morlana",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1992,
+      2001
+    ],
+    "early_mean_n_authors": 3.29,
+    "late_window": [
+      2015,
+      2024
+    ],
+    "late_mean_n_authors": 3.12
+  },
+  "citation_half_life_years": 11.0,
+  "bursts": {
+    "productivity": [
+      2007
+    ],
+    "impact": [
+      2015,
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2015,
+      "venue": "T-RO",
+      "title": "ORB-SLAM: A Versatile and Accurate Monocular SLAM System",
+      "cites": 6367,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robustness (evolution)",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Monocular"
+      ],
+      "doi": "10.1109/tro.2015.2463671",
+      "coauthors": [
+        "Raul Mur-Artal",
+        "J. M. M. Montiel"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-RO",
+      "title": "ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras",
+      "cites": 5881,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Simultaneous localization and mapping",
+        "Artificial intelligence",
+        "Computer science",
+        "Trajectory"
+      ],
+      "doi": "10.1109/tro.2017.2705103",
+      "coauthors": [
+        "Raul Mur-Artal"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "T-RO",
+      "title": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial, and Multimap SLAM",
+      "cites": 3659,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Simultaneous localization and mapping",
+        "Computer vision",
+        "Computer science",
+        "Inertial measurement unit"
+      ],
+      "doi": "10.1109/tro.2021.3075644",
+      "coauthors": [
+        "Carlos Campos",
+        "Richard Elvira",
+        "Juan J. Gómez Rodríguez",
+        "José M. M. Montiel"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "T-RO",
+      "title": "Bags of Binary Words for Fast Place Recognition in Image Sequences",
+      "cites": 1883,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Vocabulary",
+        "Pattern recognition (psychology)",
+        "Feature extraction"
+      ],
+      "doi": "10.1109/tro.2012.2197158",
+      "coauthors": [
+        "Dorian Gálvez-López"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "RA-L",
+      "title": "Visual-Inertial Monocular SLAM With Map Reuse",
+      "cites": 796,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Monocular",
+        "Reuse",
+        "Simultaneous localization and mapping",
+        "Artificial intelligence",
+        "Computer vision"
+      ],
+      "doi": "10.1109/lra.2017.2653359",
+      "coauthors": [
+        "Raul Mur-Artal"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IJRR",
+      "title": "Robust Mapping and Localization in Indoor Environments Using Sonar Data",
+      "cites": 529,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Sonar",
+        "Computer science",
+        "Artificial intelligence",
+        "Feature (linguistics)",
+        "Computer vision"
+      ],
+      "doi": "10.1177/027836402320556340",
+      "coauthors": [
+        "José Neira",
+        "Paul M. Newman",
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "T-RO",
+      "title": "Hierarchical SLAM: Real-Time Accurate Mapping of Large Environments",
+      "cites": 369,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Computer science",
+        "Metric (unit)",
+        "Adjacency list",
+        "Convergence (economics)"
+      ],
+      "doi": "10.1109/tro.2005.844673",
+      "coauthors": [
+        "Carlos Estrada",
+        "José Neira"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "Fast relocalisation and loop closing in keyframe-based SLAM",
+      "cites": 263,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Closing (real estate)",
+        "Artificial intelligence",
+        "Computer vision",
+        "Loop (graph theory)"
+      ],
+      "doi": "10.1109/icra.2014.6906953",
+      "coauthors": [
+        "Raul Mur-Artal"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "RSS",
+      "title": "Mapping Large Loops with a Single Hand-Held Camera",
+      "cites": 242,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Computer vision",
+        "Single camera",
+        "Artificial intelligence",
+        "Computer graphics (images)"
+      ],
+      "doi": "10.15607/rss.2007.iii.038",
+      "coauthors": [
+        "Laura A. Clemente",
+        "Andrew J. Davison",
+        "Ian D. Reid",
+        "José Neira"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "Large-Scale 6-DOF SLAM With Stereo-in-Hand",
+      "cites": 238,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Robustness (evolution)"
+      ],
+      "doi": "10.1109/tro.2008.2004637",
+      "coauthors": [
+        "Lina María Paz",
+        "Pedro Pinies",
+        "José Neira"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer-3",
+      "headline": "Juan D. Tardós: 33년에 걸쳐 52편, 총 22,566회 인용, h=32, 500+ 블록버스터 6편.",
+      "paragraphs": [
+        "1992년 \"Representing partial and uncertain sensorial information using the theory of symmetries\"으로 출발. 첫 500+ 인용 논문까지 10년 걸림: \"Robust Mapping and Localization in Indoor Environments Using Sonar Data\" (2002, 529회). 1000+ 인용 논문: \"Bags of Binary Words for Fast Place Recognition in Image Sequences\" (2012, 1,883회).",
+        "초기 토픽: Computer science, Homogeneous space, Kalman filter. 최근 토픽: Artificial intelligence, Computer science, Computer vision. 피벗 점수 0.23 → 토픽 지속형.",
+        "저자수 평균: 초기 3.3명 → 후기 3.1명 (팀 유지).",
+        "최다 인용 논문 \"ORB-SLAM: A Versatile and Accurate Monocular SLAM System\" (2015, 6,367회) — 커리어 후기에 위치.",
+        "제자 후보 추정 14명 — 상위: Pedro Pinies(2005~, 우리 마지막저자 6편), Raul Mur-Artal(2014~, 우리 마지막저자 5편), Carlos Campos(2019~, 우리 마지막저자 4편)."
+      ],
+      "lessons": [
+        "14명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer-3",
+      "headline": "Juan D. Tardós: over 33 years, 52 papers, 22,566 total cites, h=32, 6 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1992 with \"Representing partial and uncertain sensorial information using the theory of symmetries\". First 500+ cite paper came 10 years in: \"Robust Mapping and Localization in Indoor Environments Using Sonar Data\" (2002, 529 cites). 1000+ cite paper: \"Bags of Binary Words for Fast Place Recognition in Image Sequences\" (2012, 1,883 cites).",
+        "Early topics: Computer science, Homogeneous space, Kalman filter. Recent topics: Artificial intelligence, Computer science, Computer vision. Pivot score 0.23 → topic-stable.",
+        "Authors per paper: early 3.3 → late 3.1 (stable team).",
+        "Peak paper \"ORB-SLAM: A Versatile and Accurate Monocular SLAM System\" (2015, 6,367 cites) — fell in late career.",
+        "14 likely students — top: Pedro Pinies(2005~, we last-author on 6), Raul Mur-Artal(2014~, we last-author on 5), Carlos Campos(2019~, we last-author on 4)."
+      ],
+      "lessons": [
+        "14 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

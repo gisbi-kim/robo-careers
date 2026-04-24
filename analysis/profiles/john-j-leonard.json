@@ -1,0 +1,1424 @@
+{
+  "name": "John J. Leonard",
+  "slug": "john-j-leonard",
+  "career_stats": {
+    "first_year": 1989,
+    "last_year": 2025,
+    "span": 37,
+    "total_papers": 134,
+    "total_cites": 15814,
+    "h_index": 53,
+    "i10_index": 99,
+    "seminal_count": 5,
+    "max_cites_single_paper": 3182
+  },
+  "role_distribution": {
+    "last": 81,
+    "first": 4,
+    "middle": 49
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1989,
+      "title": "Navigation by Correlating Geometric Sensor Data"
+    },
+    "first_100cite": {
+      "year": 1990,
+      "title": "Dynamic map building for autonomous mobile robot",
+      "cites": 109,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 1991,
+      "title": "Simultaneous map building and localization for an autonomous mobile robot",
+      "cites": 791,
+      "gap_from_first": 2
+    },
+    "first_1000cite": {
+      "year": 2012,
+      "title": "iSAM2: Incremental smoothing and mapping using the Bayes tree",
+      "cites": 1308,
+      "gap_from_first": 23
+    },
+    "peak_paper": {
+      "year": 2016,
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182
+    }
+  },
+  "year_series": {
+    "1989": {
+      "n": 1,
+      "cites": 39,
+      "max_cites": 39
+    },
+    "1990": {
+      "n": 1,
+      "cites": 109,
+      "max_cites": 109
+    },
+    "1991": {
+      "n": 1,
+      "cites": 791,
+      "max_cites": 791
+    },
+    "1992": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1993": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1994": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1995": {
+      "n": 1,
+      "cites": 27,
+      "max_cites": 27
+    },
+    "1996": {
+      "n": 1,
+      "cites": 64,
+      "max_cites": 64
+    },
+    "1997": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1998": {
+      "n": 1,
+      "cites": 13,
+      "max_cites": 13
+    },
+    "1999": {
+      "n": 2,
+      "cites": 360,
+      "max_cites": 358
+    },
+    "2000": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 5,
+      "cites": 1024,
+      "max_cites": 529
+    },
+    "2003": {
+      "n": 4,
+      "cites": 554,
+      "max_cites": 312
+    },
+    "2004": {
+      "n": 1,
+      "cites": 306,
+      "max_cites": 306
+    },
+    "2005": {
+      "n": 4,
+      "cites": 468,
+      "max_cites": 182
+    },
+    "2006": {
+      "n": 5,
+      "cites": 1037,
+      "max_cites": 426
+    },
+    "2007": {
+      "n": 3,
+      "cites": 269,
+      "max_cites": 202
+    },
+    "2008": {
+      "n": 1,
+      "cites": 79,
+      "max_cites": 79
+    },
+    "2009": {
+      "n": 3,
+      "cites": 575,
+      "max_cites": 353
+    },
+    "2010": {
+      "n": 6,
+      "cites": 780,
+      "max_cites": 213
+    },
+    "2011": {
+      "n": 3,
+      "cites": 353,
+      "max_cites": 249
+    },
+    "2012": {
+      "n": 7,
+      "cites": 1956,
+      "max_cites": 1308
+    },
+    "2013": {
+      "n": 5,
+      "cites": 443,
+      "max_cites": 320
+    },
+    "2014": {
+      "n": 9,
+      "cites": 213,
+      "max_cites": 89
+    },
+    "2015": {
+      "n": 11,
+      "cites": 440,
+      "max_cites": 108
+    },
+    "2016": {
+      "n": 8,
+      "cites": 4547,
+      "max_cites": 3182
+    },
+    "2017": {
+      "n": 4,
+      "cites": 256,
+      "max_cites": 232
+    },
+    "2018": {
+      "n": 3,
+      "cites": 70,
+      "max_cites": 36
+    },
+    "2019": {
+      "n": 6,
+      "cites": 432,
+      "max_cites": 279
+    },
+    "2020": {
+      "n": 4,
+      "cites": 80,
+      "max_cites": 67
+    },
+    "2021": {
+      "n": 7,
+      "cites": 55,
+      "max_cites": 19
+    },
+    "2022": {
+      "n": 12,
+      "cites": 149,
+      "max_cites": 21
+    },
+    "2023": {
+      "n": 7,
+      "cites": 285,
+      "max_cites": 243
+    },
+    "2024": {
+      "n": 2,
+      "cites": 22,
+      "max_cites": 14
+    },
+    "2025": {
+      "n": 6,
+      "cites": 18,
+      "max_cites": 8
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1989,
+      "end": 1993,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Mobile robot",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Sonar",
+          "w": 0.133
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Beacon",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Sonar",
+          "w": 0.133
+        },
+        {
+          "c": "Underwater",
+          "w": 0.133
+        },
+        {
+          "c": "Synthetic aperture sonar",
+          "w": 0.067
+        },
+        {
+          "c": "Sensor fusion",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Sonar",
+          "w": 0.091
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.091
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.073
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.073
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.171
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.143
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.057
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.057
+        },
+        {
+          "c": "Filter (signal processing)",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.067
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.05
+        },
+        {
+          "c": "Global Positioning System",
+          "w": 0.033
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 35,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.172
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.086
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.063
+        },
+        {
+          "c": "Underwater",
+          "w": 0.023
+        },
+        {
+          "c": "Inference",
+          "w": 0.023
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 36,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.169
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.112
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.056
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.051
+        },
+        {
+          "c": "Inference",
+          "w": 0.034
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.175
+        },
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.125
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.075
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.05
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1989,
+      "end": 1993,
+      "mix": {
+        "IROS": 3
+      }
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "mix": {
+        "ICRA": 2,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "ICRA": 7,
+        "IJRR": 3,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "ICRA": 4,
+        "IJRR": 3,
+        "RSS": 3,
+        "IROS": 3,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "ICRA": 12,
+        "IJRR": 6,
+        "IROS": 6
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "IROS": 12,
+        "ICRA": 12,
+        "IJRR": 4,
+        "T-RO": 4,
+        "RSS": 3
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "IROS": 13,
+        "ICRA": 12,
+        "RA-L": 8,
+        "IJRR": 1,
+        "T-RO": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 2,
+        "RA-L": 2,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1989,
+      "end": 1993,
+      "mean_n_authors": 2.33,
+      "unique_coauthors": 2,
+      "top_coauthors": [
+        [
+          "Hugh F. Durrant-Whyte",
+          3
+        ],
+        [
+          "Ingemar J. Cox",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "mean_n_authors": 3.33,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "Bradley A. Moran",
+          1
+        ],
+        [
+          "Ingemar J. Cox",
+          1
+        ],
+        [
+          "Matthew L. Miller",
+          1
+        ],
+        [
+          "Jerome Vaganay",
+          1
+        ],
+        [
+          "James G. Bellingham",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 3.36,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "Paul M. Newman",
+          8
+        ],
+        [
+          "Richard J. Rikoski",
+          3
+        ],
+        [
+          "Michael Bosse",
+          3
+        ],
+        [
+          "Juan D. Tardós",
+          2
+        ],
+        [
+          "José Neira",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 3.57,
+      "unique_coauthors": 17,
+      "top_coauthors": [
+        [
+          "Matthew R. Walter",
+          6
+        ],
+        [
+          "Seth J. Teller",
+          4
+        ],
+        [
+          "Hanumant Singh",
+          4
+        ],
+        [
+          "Ryan Eustice",
+          4
+        ],
+        [
+          "Edwin Olson",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 4.46,
+      "unique_coauthors": 33,
+      "top_coauthors": [
+        [
+          "Michael Kaess",
+          13
+        ],
+        [
+          "Hordur Johannsson",
+          11
+        ],
+        [
+          "Maurice F. Fallon",
+          9
+        ],
+        [
+          "Seth J. Teller",
+          4
+        ],
+        [
+          "Alexander Bahr",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 4.97,
+      "unique_coauthors": 88,
+      "top_coauthors": [
+        [
+          "Michael Kaess",
+          9
+        ],
+        [
+          "Liam Paull",
+          9
+        ],
+        [
+          "Guoquan Huang",
+          7
+        ],
+        [
+          "David M. Rosen",
+          5
+        ],
+        [
+          "Sudeep Pillai",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 4.86,
+      "unique_coauthors": 69,
+      "top_coauthors": [
+        [
+          "Kevin J. Doherty",
+          10
+        ],
+        [
+          "Dehann Fourie",
+          7
+        ],
+        [
+          "Qiangqiang Huang",
+          7
+        ],
+        [
+          "Stephen G. McGill",
+          6
+        ],
+        [
+          "Guy Rosman",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 4.75,
+      "unique_coauthors": 28,
+      "top_coauthors": [
+        [
+          "Kurran Singh",
+          2
+        ],
+        [
+          "Jungseok Hong",
+          2
+        ],
+        [
+          "Alan Papalia",
+          1
+        ],
+        [
+          "Andrew Fishberg",
+          1
+        ],
+        [
+          "Brendan W. O&apos",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.279,
+  "top_repeat_coauthors": [
+    {
+      "name": "Michael Kaess",
+      "count": 23,
+      "first_year": 2010,
+      "last_year": 2019
+    },
+    {
+      "name": "David M. Rosen",
+      "count": 13,
+      "first_year": 2012,
+      "last_year": 2024
+    },
+    {
+      "name": "Hordur Johannsson",
+      "count": 12,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "Paul M. Newman",
+      "count": 10,
+      "first_year": 2002,
+      "last_year": 2006
+    },
+    {
+      "name": "Seth J. Teller",
+      "count": 10,
+      "first_year": 2003,
+      "last_year": 2015
+    },
+    {
+      "name": "Maurice F. Fallon",
+      "count": 10,
+      "first_year": 2009,
+      "last_year": 2015
+    },
+    {
+      "name": "Kevin J. Doherty",
+      "count": 10,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Liam Paull",
+      "count": 9,
+      "first_year": 2014,
+      "last_year": 2018
+    },
+    {
+      "name": "Dehann Fourie",
+      "count": 9,
+      "first_year": 2016,
+      "last_year": 2023
+    },
+    {
+      "name": "Matthew R. Walter",
+      "count": 8,
+      "first_year": 2005,
+      "last_year": 2009
+    },
+    {
+      "name": "Guy Rosman",
+      "count": 8,
+      "first_year": 2017,
+      "last_year": 2025
+    },
+    {
+      "name": "Guoquan Huang",
+      "count": 7,
+      "first_year": 2014,
+      "last_year": 2016
+    },
+    {
+      "name": "Jonathan P. How",
+      "count": 7,
+      "first_year": 2015,
+      "last_year": 2024
+    },
+    {
+      "name": "Qiangqiang Huang",
+      "count": 7,
+      "first_year": 2021,
+      "last_year": 2023
+    },
+    {
+      "name": "Luke Fletcher",
+      "count": 6,
+      "first_year": 2009,
+      "last_year": 2021
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Hordur Johannsson",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Qiangqiang Huang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "David M. Rosen",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 13,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Maurice F. Fallon",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Liam Paull",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Dehann Fourie",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Kevin J. Doherty",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Matthew R. Walter",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Kurran Singh",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Guoquan Huang",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Yihao Zhang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jiahui Fu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Paul M. Newman",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Sudeep Pillai",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Alan Papalia",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ziqi Lu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Edwin Olson",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Ryan Eustice",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Pedro V. Teixeira",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Ryan M. Eustice",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Ted J. Steiner",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Thomas Whelan",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Alexander Bahr",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Beipeng Mu",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Michael Bosse",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Richard J. Rikoski",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Georgios Papadopoulos",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Michael R. Benjamin",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Albert S. Huang",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Hsueh-Cheng Wang",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Timothy P. Setterfield",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Yasir Latif",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Xin Huang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hans Jacob S. Feder",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 1999
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1989,
+      1998
+    ],
+    "early_mean_n_authors": 2.83,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.14
+  },
+  "citation_half_life_years": 14.0,
+  "bursts": {
+    "productivity": [
+      2015,
+      2022
+    ],
+    "impact": [
+      2016
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2016,
+      "venue": "T-RO",
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "Robustness (evolution)",
+        "Robotics",
+        "Simultaneous localization and mapping",
+        "Robot",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2016.2624754",
+      "coauthors": [
+        "Cesar Cadena",
+        "Luca Carlone",
+        "Henry Carrillo",
+        "Yasir Latif",
+        "Davide Scaramuzza",
+        "José Neira",
+        "Ian Reid"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "iSAM2: Incremental smoothing and mapping using the Bayes tree",
+      "cites": 1308,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Bayes' theorem",
+        "Tree (set theory)",
+        "Computer science",
+        "Algorithm",
+        "Inference"
+      ],
+      "doi": "10.1177/0278364911430419",
+      "coauthors": [
+        "Michael Kaess",
+        "Hordur Johannsson",
+        "Richard Roberts",
+        "Viorela Ila",
+        "Frank Dellaert"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "T-RO",
+      "title": "Visual Place Recognition: A Survey",
+      "cites": 1063,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Cognitive neuroscience of visual object recognition",
+        "Computer science",
+        "Artificial intelligence",
+        "Human–computer interaction",
+        "Context (archaeology)"
+      ],
+      "doi": "10.1109/tro.2015.2496823",
+      "coauthors": [
+        "Stephanie M. Lowry",
+        "Niko Sünderhauf",
+        "Paul Newman",
+        "David D. Cox",
+        "Peter I. Corke",
+        "Michael J. Milford"
+      ]
+    },
+    {
+      "year": 1991,
+      "venue": "IROS",
+      "title": "Simultaneous map building and localization for an autonomous mobile robot",
+      "cites": 791,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Mobile robot",
+        "Artificial intelligence",
+        "Sonar",
+        "Computer science",
+        "Robotics"
+      ],
+      "doi": "10.1109/iros.1991.174711",
+      "coauthors": [
+        "Hugh F. Durrant-Whyte"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IJRR",
+      "title": "Robust Mapping and Localization in Indoor Environments Using Sonar Data",
+      "cites": 529,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Sonar",
+        "Computer science",
+        "Artificial intelligence",
+        "Feature (linguistics)",
+        "Computer vision"
+      ],
+      "doi": "10.1177/027836402320556340",
+      "coauthors": [
+        "Juan D. Tardós",
+        "José Neira",
+        "Paul M. Newman"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Fast Iterative Alignment of Pose Graphs with Poor Initial Estimates",
+      "cites": 426,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Odometry",
+        "Trajectory",
+        "Computer science",
+        "Representation (politics)"
+      ],
+      "doi": "10.1109/robot.2006.1642040",
+      "coauthors": [
+        "Edwin Olson",
+        "Seth J. Teller"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "IJRR",
+      "title": "Adaptive Mobile Robot Navigation and Mapping",
+      "cites": 358,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Sonar",
+        "Artificial intelligence",
+        "Computer science",
+        "Computer vision",
+        "Simultaneous localization and mapping"
+      ],
+      "doi": "10.1177/02783649922066484",
+      "coauthors": [
+        "Hans Jacob S. Feder",
+        "Christopher M. Smith"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IJRR",
+      "title": "Cooperative Localization for Autonomous Underwater Vehicles",
+      "cites": 353,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Glider",
+        "Underwater",
+        "Dead reckoning",
+        "Global Positioning System",
+        "Trajectory"
+      ],
+      "doi": "10.1177/0278364908100561",
+      "coauthors": [
+        "Alexander Bahr",
+        "Maurice F. Fallon"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "Robust real-time visual odometry for dense RGB-D mapping",
+      "cites": 320,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Visual odometry",
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "RGB color model"
+      ],
+      "doi": "10.1109/icra.2013.6631400",
+      "coauthors": [
+        "Thomas Whelan",
+        "Hordur Johannsson",
+        "Michael Kaess",
+        "John McDonald"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "ICRA",
+      "title": "An atlas framework for scalable mapping",
+      "cites": 312,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Dijkstra's algorithm",
+        "Computer science",
+        "Vertex (graph theory)",
+        "Atlas (anatomy)",
+        "Simultaneous localization and mapping"
+      ],
+      "doi": "10.1109/robot.2003.1241872",
+      "coauthors": [
+        "Michael Bosse",
+        "Paul M. Newman",
+        "Martin Soika",
+        "Wendelin Feiten",
+        "Seth J. Teller"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer-3",
+      "headline": "John J. Leonard: 37년에 걸쳐 134편, 총 15,814회 인용, h=53, 500+ 블록버스터 5편.",
+      "paragraphs": [
+        "1989년 \"Navigation by Correlating Geometric Sensor Data\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791회). 1000+ 인용 논문: \"iSAM2: Incremental smoothing and mapping using the Bayes tree\" (2012, 1,308회).",
+        "초기 토픽: Mobile robot, Artificial intelligence, Sonar. 최근 토픽: Artificial intelligence, Computer science, Computer vision. 피벗 점수 0.28 → 점진적 이동형.",
+        "저자수 평균: 초기 2.8명 → 후기 5.1명 (팀 확장).",
+        "최다 인용 논문 \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회) — 커리어 후기에 위치.",
+        "제자 후보 추정 34명 — 상위: Hordur Johannsson(2010~, 우리 마지막저자 8편), Qiangqiang Huang(2021~, 우리 마지막저자 7편), David M. Rosen(2012~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "초기 2년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "34명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer-3",
+      "headline": "John J. Leonard: over 37 years, 134 papers, 15,814 total cites, h=53, 5 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1989 with \"Navigation by Correlating Geometric Sensor Data\". First 500+ cite paper came 2 years in: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791 cites). 1000+ cite paper: \"iSAM2: Incremental smoothing and mapping using the Bayes tree\" (2012, 1,308 cites).",
+        "Early topics: Mobile robot, Artificial intelligence, Sonar. Recent topics: Artificial intelligence, Computer science, Computer vision. Pivot score 0.28 → gradual shift.",
+        "Authors per paper: early 2.8 → late 5.1 (team growth).",
+        "Peak paper \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182 cites) — fell in late career.",
+        "34 likely students — top: Hordur Johannsson(2010~, we last-author on 8), Qiangqiang Huang(2021~, we last-author on 7), David M. Rosen(2012~, we last-author on 6)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 2 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "34 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1740 @@
+{
+  "name": "Masayoshi Tomizuka",
+  "slug": "masayoshi-tomizuka",
+  "career_stats": {
+    "first_year": 1985,
+    "last_year": 2025,
+    "span": 41,
+    "total_papers": 198,
+    "total_cites": 7533,
+    "h_index": 49,
+    "i10_index": 134,
+    "seminal_count": 0,
+    "max_cites_single_paper": 428
+  },
+  "role_distribution": {
+    "last": 126,
+    "first": 1,
+    "middle": 71
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1985,
+      "title": "Control of tool/Workpiece contact force with application to robotic deburring"
+    },
+    "first_100cite": {
+      "year": 1990,
+      "title": "Plug in repetitive control for industrial robotic manipulators",
+      "cites": 130,
+      "gap_from_first": 5
+    },
+    "peak_paper": {
+      "year": 2009,
+      "title": "Control of Rotary Series Elastic Actuator for Ideal Force-Mode Actuation in Human–Robot Interaction Applications",
+      "cites": 428
+    }
+  },
+  "year_series": {
+    "1985": {
+      "n": 1,
+      "cites": 14,
+      "max_cites": 14
+    },
+    "1986": {
+      "n": 1,
+      "cites": 86,
+      "max_cites": 86
+    },
+    "1987": {
+      "n": 1,
+      "cites": 18,
+      "max_cites": 18
+    },
+    "1988": {
+      "n": 2,
+      "cites": 77,
+      "max_cites": 72
+    },
+    "1989": {
+      "n": 1,
+      "cites": 9,
+      "max_cites": 9
+    },
+    "1990": {
+      "n": 2,
+      "cites": 160,
+      "max_cites": 130
+    },
+    "1991": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1992": {
+      "n": 1,
+      "cites": 12,
+      "max_cites": 12
+    },
+    "1993": {
+      "n": 1,
+      "cites": 61,
+      "max_cites": 61
+    },
+    "1994": {
+      "n": 1,
+      "cites": 17,
+      "max_cites": 17
+    },
+    "1995": {
+      "n": 3,
+      "cites": 42,
+      "max_cites": 20
+    },
+    "1996": {
+      "n": 1,
+      "cites": 173,
+      "max_cites": 173
+    },
+    "1997": {
+      "n": 2,
+      "cites": 364,
+      "max_cites": 293
+    },
+    "1998": {
+      "n": 1,
+      "cites": 131,
+      "max_cites": 131
+    },
+    "1999": {
+      "n": 2,
+      "cites": 178,
+      "max_cites": 120
+    },
+    "2000": {
+      "n": 3,
+      "cites": 370,
+      "max_cites": 187
+    },
+    "2001": {
+      "n": 1,
+      "cites": 34,
+      "max_cites": 34
+    },
+    "2002": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2003": {
+      "n": 1,
+      "cites": 105,
+      "max_cites": 105
+    },
+    "2004": {
+      "n": 1,
+      "cites": 49,
+      "max_cites": 49
+    },
+    "2005": {
+      "n": 4,
+      "cites": 101,
+      "max_cites": 36
+    },
+    "2006": {
+      "n": 2,
+      "cites": 44,
+      "max_cites": 24
+    },
+    "2007": {
+      "n": 1,
+      "cites": 31,
+      "max_cites": 31
+    },
+    "2008": {
+      "n": 1,
+      "cites": 91,
+      "max_cites": 91
+    },
+    "2009": {
+      "n": 10,
+      "cites": 1033,
+      "max_cites": 428
+    },
+    "2010": {
+      "n": 2,
+      "cites": 85,
+      "max_cites": 54
+    },
+    "2011": {
+      "n": 3,
+      "cites": 383,
+      "max_cites": 322
+    },
+    "2012": {
+      "n": 3,
+      "cites": 60,
+      "max_cites": 39
+    },
+    "2013": {
+      "n": 3,
+      "cites": 89,
+      "max_cites": 59
+    },
+    "2014": {
+      "n": 10,
+      "cites": 226,
+      "max_cites": 81
+    },
+    "2015": {
+      "n": 1,
+      "cites": 28,
+      "max_cites": 28
+    },
+    "2016": {
+      "n": 5,
+      "cites": 153,
+      "max_cites": 62
+    },
+    "2017": {
+      "n": 3,
+      "cites": 152,
+      "max_cites": 99
+    },
+    "2018": {
+      "n": 6,
+      "cites": 233,
+      "max_cites": 94
+    },
+    "2019": {
+      "n": 13,
+      "cites": 643,
+      "max_cites": 183
+    },
+    "2020": {
+      "n": 13,
+      "cites": 715,
+      "max_cites": 155
+    },
+    "2021": {
+      "n": 22,
+      "cites": 689,
+      "max_cites": 110
+    },
+    "2022": {
+      "n": 21,
+      "cites": 442,
+      "max_cites": 70
+    },
+    "2023": {
+      "n": 10,
+      "cites": 105,
+      "max_cites": 28
+    },
+    "2024": {
+      "n": 23,
+      "cites": 291,
+      "max_cites": 111
+    },
+    "2025": {
+      "n": 15,
+      "cites": 37,
+      "max_cites": 16
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.167
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.167
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Repetitive control",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.12
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.12
+        },
+        {
+          "c": "Computer science",
+          "w": 0.08
+        },
+        {
+          "c": "Parametric statistics",
+          "w": 0.08
+        },
+        {
+          "c": "Plug-in",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.156
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.067
+        },
+        {
+          "c": "Computer science",
+          "w": 0.067
+        },
+        {
+          "c": "Feed forward",
+          "w": 0.044
+        },
+        {
+          "c": "Servomechanism",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.143
+        },
+        {
+          "c": "Computer science",
+          "w": 0.114
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.057
+        },
+        {
+          "c": "Voice coil",
+          "w": 0.057
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.122
+        },
+        {
+          "c": "Computer science",
+          "w": 0.089
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.056
+        },
+        {
+          "c": "Actuator",
+          "w": 0.044
+        },
+        {
+          "c": "Exoskeleton",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.095
+        },
+        {
+          "c": "Computer science",
+          "w": 0.086
+        },
+        {
+          "c": "Robot",
+          "w": 0.086
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.048
+        },
+        {
+          "c": "Torque",
+          "w": 0.038
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.157
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.05
+        },
+        {
+          "c": "Robot",
+          "w": 0.043
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.036
+        },
+        {
+          "c": "GRASP",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 89,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.195
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.096
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.034
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.032
+        },
+        {
+          "c": "Robot",
+          "w": 0.027
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.162
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.118
+        },
+        {
+          "c": "Robot",
+          "w": 0.044
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.029
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.029
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mix": {
+        "ICRA": 5,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "T-Mech": 6,
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "T-Mech": 5,
+        "ICRA": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "T-Mech": 14,
+        "ICRA": 3,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 7,
+        "T-Mech": 7,
+        "IROS": 7
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "IROS": 18,
+        "ICRA": 5,
+        "T-Mech": 3,
+        "RA-L": 2
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "ICRA": 32,
+        "RA-L": 26,
+        "IROS": 23,
+        "T-Mech": 5,
+        "IJRR": 1,
+        "T-RO": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "ICRA": 6,
+        "T-Mech": 3,
+        "IROS": 2,
+        "SoRo": 1,
+        "IJRR": 1,
+        "RA-L": 1,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mean_n_authors": 3.17,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "George Anwar",
+          4
+        ],
+        [
+          "Ming-Chang Tsai",
+          3
+        ],
+        [
+          "Tomasz Stepien",
+          1
+        ],
+        [
+          "Larry Sweet",
+          1
+        ],
+        [
+          "Malcolm C. Good",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 2.2,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Bin Yao",
+          2
+        ],
+        [
+          "C. Cosner",
+          1
+        ],
+        [
+          "George Anwar",
+          1
+        ],
+        [
+          "Gholamreza Langari",
+          1
+        ],
+        [
+          "Doyoung Jeon",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 2.33,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Bin Yao",
+          2
+        ],
+        [
+          "Naoki Imasaki",
+          1
+        ],
+        [
+          "Prabhakar R. Regilla",
+          1
+        ],
+        [
+          "Fumio Harashima",
+          1
+        ],
+        [
+          "Toshio Fukuda",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 3,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Enrique J. Bernabeu",
+          2
+        ],
+        [
+          "Josep Tornero",
+          2
+        ],
+        [
+          "Addisu Tesfaye",
+          1
+        ],
+        [
+          "Ho Seong Lee",
+          1
+        ],
+        [
+          "Matthew White",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 2.67,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Kyoungchul Kong",
+          7
+        ],
+        [
+          "Shashikanth Suryanarayanan",
+          2
+        ],
+        [
+          "Jihua Huang",
+          2
+        ],
+        [
+          "Hyosang Moon",
+          2
+        ],
+        [
+          "Beomsoo Hwang",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 3.33,
+      "unique_coauthors": 29,
+      "top_coauthors": [
+        [
+          "Kyoungchul Kong",
+          4
+        ],
+        [
+          "Joonbum Bae",
+          4
+        ],
+        [
+          "Cong Wang",
+          4
+        ],
+        [
+          "Evan Chang-Siu",
+          3
+        ],
+        [
+          "Wenlong Zhang",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 3.71,
+      "unique_coauthors": 46,
+      "top_coauthors": [
+        [
+          "Yongxiang Fan",
+          8
+        ],
+        [
+          "Te Tang",
+          7
+        ],
+        [
+          "Hsien-Chung Lin",
+          5
+        ],
+        [
+          "Liting Sun",
+          3
+        ],
+        [
+          "Wei Zhan",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 8.42,
+      "unique_coauthors": 453,
+      "top_coauthors": [
+        [
+          "Wei Zhan",
+          35
+        ],
+        [
+          "Liting Sun",
+          17
+        ],
+        [
+          "Xinghao Zhu",
+          12
+        ],
+        [
+          "Lingfeng Sun",
+          11
+        ],
+        [
+          "Xiang Zhang",
+          9
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 7.07,
+      "unique_coauthors": 62,
+      "top_coauthors": [
+        [
+          "Wei Zhan",
+          7
+        ],
+        [
+          "Mingyu Ding",
+          7
+        ],
+        [
+          "Boyuan Liang",
+          4
+        ],
+        [
+          "Jianshu Zhou",
+          4
+        ],
+        [
+          "Yichen Xie",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.284,
+  "top_repeat_coauthors": [
+    {
+      "name": "Wei Zhan",
+      "count": 45,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Liting Sun",
+      "count": 20,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Xinghao Zhu",
+      "count": 15,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Mingyu Ding",
+      "count": 13,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Changhao Wang",
+      "count": 12,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Lingfeng Sun",
+      "count": 12,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Kyoungchul Kong",
+      "count": 11,
+      "first_year": 2008,
+      "last_year": 2011
+    },
+    {
+      "name": "Xiang Zhang",
+      "count": 11,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Yongxiang Fan",
+      "count": 10,
+      "first_year": 2016,
+      "last_year": 2022
+    },
+    {
+      "name": "Chen Tang",
+      "count": 10,
+      "first_year": 2019,
+      "last_year": 2024
+    },
+    {
+      "name": "Te Tang",
+      "count": 9,
+      "first_year": 2016,
+      "last_year": 2022
+    },
+    {
+      "name": "Zheng Wu",
+      "count": 8,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Chenfeng Xu",
+      "count": 8,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Jianyu Chen",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Jiachen Li",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2024
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Liting Sun",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 20,
+      "total_copubs": 20,
+      "student_first_author_count": 3,
+      "we_last_author_count": 10,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Kyoungchul Kong",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 11,
+      "student_first_author_count": 9,
+      "we_last_author_count": 9,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Yongxiang Fan",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 5,
+      "we_last_author_count": 9,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Wei Zhan",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 28,
+      "total_copubs": 45,
+      "student_first_author_count": 1,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xinghao Zhu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 15,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Te Tang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Lingfeng Sun",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Changhao Wang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 12,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zheng Wu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jianyu Chen",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Hsien-Chung Lin",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Joonbum Bae",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Bin Yao",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 1997
+    },
+    {
+      "name": "Cong Wang",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Shiyu Jin",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Yujiao Cheng",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Boyuan Liang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hengbo Ma",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Wenjie Chen",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Jiachen Li",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Kevin Haninger",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Wonhee Kim",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Zhian Kuang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Changliu Liu",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Wenlong Zhang",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Chung-Yen Lin",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Chen Tang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Zining Wang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Enrique J. Bernabeu",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Jihua Huang",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Sandipan Mishra",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Chenran Li",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yichen Xie",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Daehee Won",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Di Wang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Zhiqiang Jian",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Songyi Zhang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Yi Li",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Shashikanth Suryanarayanan",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Ran Tian",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Mingrui Yu",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Evan Chang-Siu",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Chenfeng Xu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zhuo Xu",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yuxin Chen",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mingxiao Huo",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Chensheng Peng",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Shuqi Zhao",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yichuan Li",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jinning Li",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yeping Hu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jessica EnShiuan Leu",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Zhao-Heng Yin",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Philip L. Jacobson",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xiaocong Li",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Yiyang Zhou",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Robert Peter Matthew",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Di Feng",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Yongpeng Jiang",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ce Hao",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Catherine Weaver",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1985,
+      1994
+    ],
+    "early_mean_n_authors": 2.73,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 7.27
+  },
+  "citation_half_life_years": 13,
+  "bursts": {
+    "productivity": [
+      2021,
+      2022,
+      2024
+    ],
+    "impact": [
+      2009,
+      2019,
+      2020,
+      2021
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2009,
+      "venue": "T-Mech",
+      "title": "Control of Rotary Series Elastic Actuator for Ideal Force-Mode Actuation in Human–Robot Interaction Applications",
+      "cites": 428,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Control theory (sociology)",
+        "Torque",
+        "Actuator",
+        "Impedance control",
+        "Inertia"
+      ],
+      "doi": "10.1109/tmech.2008.2004561",
+      "coauthors": [
+        "Kyoungchul Kong",
+        "Joonbum Bae"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "T-Mech",
+      "title": "A Compact Rotary Series Elastic Actuator for Human Assistive Systems",
+      "cites": 322,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Actuator",
+        "Torque",
+        "Rotary actuator",
+        "Control theory (sociology)",
+        "Reduction (mathematics)"
+      ],
+      "doi": "10.1109/tmech.2010.2100046",
+      "coauthors": [
+        "Kyoungchul Kong",
+        "Joonbum Bae"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "T-Mech",
+      "title": "A Gait Monitoring System Based on Air Pressure Sensors Embedded in a Shoe",
+      "cites": 295,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Gait",
+        "Gait analysis",
+        "Kinematics",
+        "Fuzzy logic",
+        "Computer science"
+      ],
+      "doi": "10.1109/tmech.2008.2008803",
+      "coauthors": [
+        "Kyoungchul Kong"
+      ]
+    },
+    {
+      "year": 1997,
+      "venue": "T-Mech",
+      "title": "High-performance robust motion control of machine tools: an adaptive robust control approach and comparative experiments",
+      "cites": 293,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Control theory (sociology)",
+        "Robust control",
+        "Control engineering",
+        "Nonlinear system",
+        "Motion control"
+      ],
+      "doi": "10.1109/3516.588624",
+      "coauthors": [
+        "Bin Yao",
+        "M. Al-Majed"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "T-Mech",
+      "title": "Improved track following in magnetic disk drives using a disturbance observer",
+      "cites": 187,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Control theory (sociology)",
+        "Disturbance (geology)",
+        "Vibration",
+        "Position (finance)",
+        "Observer (physics)"
+      ],
+      "doi": "10.1109/3516.828584",
+      "coauthors": [
+        "Matthew White",
+        "Craig C. Smith"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "IROS",
+      "title": "Conditional Generative Neural System for Probabilistic Trajectory Prediction",
+      "cites": 183,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Trajectory",
+        "Artificial intelligence",
+        "Machine learning",
+        "Probabilistic logic"
+      ],
+      "doi": "10.1109/iros40897.2019.8967822",
+      "coauthors": [
+        "Jiachen Li",
+        "Hengbo Ma"
+      ]
+    },
+    {
+      "year": 1996,
+      "venue": "T-Mech",
+      "title": "Mechatronics - \"What Is It, Why, and How?\" An editorial",
+      "cites": 173,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Mechatronics",
+        "Scope (computer science)",
+        "Electronics",
+        "Engineering",
+        "Automation"
+      ],
+      "doi": "10.1109/tmech.1996.7827930",
+      "coauthors": [
+        "Fumio Harashima",
+        "Toshio Fukuda"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "ICRA",
+      "title": "UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes",
+      "cites": 155,
+      "n_authors": 8,
+      "role": "middle",
+      "concepts": [
+        "GNSS applications",
+        "Inertial measurement unit",
+        "Computer science",
+        "Robustness (evolution)",
+        "Point cloud"
+      ],
+      "doi": "10.1109/icra40945.2020.9196526",
+      "coauthors": [
+        "Weisong Wen",
+        "Yiyang Zhou",
+        "Guohao Zhang",
+        "Saman Fahandezh-Saadi",
+        "Xiwei Bai",
+        "Wei Zhan",
+        "Li-Ta Hsu"
+      ]
+    },
+    {
+      "year": 1998,
+      "venue": "T-Mech",
+      "title": "Pivot friction compensation using an accelerometer and a disturbance observer for hard disk drives",
+      "cites": 131,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Control theory (sociology)",
+        "Accelerometer",
+        "Bandwidth (computing)",
+        "Voice coil",
+        "Acceleration"
+      ],
+      "doi": "10.1109/3516.712115",
+      "coauthors": [
+        "Jun Ishikawa"
+      ]
+    },
+    {
+      "year": 1990,
+      "venue": "ICRA",
+      "title": "Plug in repetitive control for industrial robotic manipulators",
+      "cites": 130,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Plug-in",
+        "IBM",
+        "Microcontroller",
+        "Controller (irrigation)",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.1990.126295",
+      "coauthors": [
+        "C. Cosner",
+        "George Anwar"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Masayoshi Tomizuka: 41년에 걸쳐 198편, 총 7,533회 인용, h=49, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1985년 \"Control of tool/Workpiece contact force with application to robotic deburring\"으로 출발.",
+        "초기 토픽: Control theory (sociology), Controller (irrigation), Computer science. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.28 → 점진적 이동형.",
+        "저자수 평균: 초기 2.7명 → 후기 7.3명 (팀 확장).",
+        "최다 인용 논문 \"Control of Rotary Series Elastic Actuator for Ideal Force-Mode Actuation in Human–Robot Interaction Applications\" (2009, 428회) — 커리어 중기에 위치.",
+        "제자 후보 추정 61명 — 상위: Liting Sun(2018~, 우리 마지막저자 10편), Kyoungchul Kong(2005~, 우리 마지막저자 9편), Yongxiang Fan(2016~, 우리 마지막저자 9편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "61명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Masayoshi Tomizuka: over 41 years, 198 papers, 7,533 total cites, h=49, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1985 with \"Control of tool/Workpiece contact force with application to robotic deburring\".",
+        "Early topics: Control theory (sociology), Controller (irrigation), Computer science. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.28 → gradual shift.",
+        "Authors per paper: early 2.7 → late 7.3 (team growth).",
+        "Peak paper \"Control of Rotary Series Elastic Actuator for Ideal Force-Mode Actuation in Human–Robot Interaction Applications\" (2009, 428 cites) — fell in mid career.",
+        "61 likely students — top: Liting Sun(2018~, we last-author on 10), Kyoungchul Kong(2005~, we last-author on 9), Yongxiang Fan(2016~, we last-author on 9)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "61 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

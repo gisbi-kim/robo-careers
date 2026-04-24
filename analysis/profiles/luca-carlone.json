@@ -1,0 +1,990 @@
+{
+  "name": "Luca Carlone",
+  "slug": "luca-carlone",
+  "career_stats": {
+    "first_year": 2010,
+    "last_year": 2025,
+    "span": 16,
+    "total_papers": 84,
+    "total_cites": 10998,
+    "h_index": 40,
+    "i10_index": 61,
+    "seminal_count": 3,
+    "max_cites_single_paper": 3182
+  },
+  "role_distribution": {
+    "first": 18,
+    "middle": 27,
+    "last": 39
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2010,
+      "title": "An application of Kullback-Leibler divergence to active SLAM and exploration with Particle Filters"
+    },
+    "first_100cite": {
+      "year": 2014,
+      "title": "A fast and accurate approximation for planar pose graph optimization",
+      "cites": 106,
+      "gap_from_first": 4
+    },
+    "first_500cite": {
+      "year": 2016,
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182,
+      "gap_from_first": 6
+    },
+    "first_1000cite": {
+      "year": 2016,
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182,
+      "gap_from_first": 6
+    },
+    "peak_paper": {
+      "year": 2016,
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182
+    }
+  },
+  "year_series": {
+    "2010": {
+      "n": 2,
+      "cites": 123,
+      "max_cites": 79
+    },
+    "2011": {
+      "n": 3,
+      "cites": 147,
+      "max_cites": 91
+    },
+    "2012": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2013": {
+      "n": 1,
+      "cites": 48,
+      "max_cites": 48
+    },
+    "2014": {
+      "n": 7,
+      "cites": 460,
+      "max_cites": 106
+    },
+    "2015": {
+      "n": 6,
+      "cites": 1026,
+      "max_cites": 486
+    },
+    "2016": {
+      "n": 4,
+      "cites": 3349,
+      "max_cites": 3182
+    },
+    "2017": {
+      "n": 5,
+      "cites": 1772,
+      "max_cites": 1392
+    },
+    "2018": {
+      "n": 2,
+      "cites": 38,
+      "max_cites": 37
+    },
+    "2019": {
+      "n": 9,
+      "cites": 514,
+      "max_cites": 279
+    },
+    "2020": {
+      "n": 5,
+      "cites": 713,
+      "max_cites": 296
+    },
+    "2021": {
+      "n": 10,
+      "cites": 1030,
+      "max_cites": 784
+    },
+    "2022": {
+      "n": 7,
+      "cites": 747,
+      "max_cites": 232
+    },
+    "2023": {
+      "n": 11,
+      "cites": 712,
+      "max_cites": 276
+    },
+    "2024": {
+      "n": 10,
+      "cites": 313,
+      "max_cites": 162
+    },
+    "2025": {
+      "n": 2,
+      "cites": 6,
+      "max_cites": 6
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.141
+        },
+        {
+          "c": "Mathematical optimization",
+          "w": 0.062
+        },
+        {
+          "c": "Robot",
+          "w": 0.047
+        },
+        {
+          "c": "Optimization problem",
+          "w": 0.047
+        },
+        {
+          "c": "Particle filter",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.152
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.088
+        },
+        {
+          "c": "Robot",
+          "w": 0.048
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.04
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 43,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.182
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.126
+        },
+        {
+          "c": "Robot",
+          "w": 0.051
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.051
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.047
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "KISS (TNC)",
+          "w": 0.1
+        },
+        {
+          "c": "Point cloud",
+          "w": 0.1
+        },
+        {
+          "c": "Cloud computing",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 2,
+        "RSS": 1,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 4,
+        "IJRR": 4,
+        "T-RO": 4,
+        "RSS": 3,
+        "RA-L": 3
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "RA-L": 13,
+        "ICRA": 8,
+        "IROS": 7,
+        "T-RO": 7,
+        "RSS": 6,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "ICRA": 1,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 3.69,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Basilio Bona",
+          5
+        ],
+        [
+          "Rosario Aragues",
+          4
+        ],
+        [
+          "Frank Dellaert",
+          4
+        ],
+        [
+          "José A. Castellanos",
+          3
+        ],
+        [
+          "Jingjing Du",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 5.19,
+      "unique_coauthors": 75,
+      "top_coauthors": [
+        [
+          "Frank Dellaert",
+          10
+        ],
+        [
+          "Sertac Karaman",
+          7
+        ],
+        [
+          "John J. Leonard",
+          4
+        ],
+        [
+          "Siddharth Choudhary",
+          3
+        ],
+        [
+          "Henrik I. Christensen",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 5.79,
+      "unique_coauthors": 101,
+      "top_coauthors": [
+        [
+          "Yun Chang",
+          17
+        ],
+        [
+          "Jingnan Shi",
+          9
+        ],
+        [
+          "Nathan Hughes",
+          8
+        ],
+        [
+          "Kamak Ebadi",
+          7
+        ],
+        [
+          "Benjamin Morrell",
+          7
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 6.5,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Hyungtae Lim",
+          1
+        ],
+        [
+          "Daebeom Kim",
+          1
+        ],
+        [
+          "Gunhee Shin",
+          1
+        ],
+        [
+          "Jingnan Shi",
+          1
+        ],
+        [
+          "Ignacio Vizzo",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.237,
+  "top_repeat_coauthors": [
+    {
+      "name": "Yun Chang",
+      "count": 17,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Frank Dellaert",
+      "count": 14,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Jingnan Shi",
+      "count": 10,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Nathan Hughes",
+      "count": 8,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Sertac Karaman",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2019
+    },
+    {
+      "name": "Heng Yang",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Antoni Rosinol",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Kamak Ebadi",
+      "count": 7,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Benjamin Morrell",
+      "count": 7,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "John J. Leonard",
+      "count": 6,
+      "first_year": 2015,
+      "last_year": 2023
+    },
+    {
+      "name": "Matteo Palieri",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Ali-akbar Agha-mohammadi",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Basilio Bona",
+      "count": 5,
+      "first_year": 2010,
+      "last_year": 2014
+    },
+    {
+      "name": "Pasquale Antonante",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Marcus Abate",
+      "count": 5,
+      "first_year": 2020,
+      "last_year": 2024
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Frank Dellaert",
+      "advisor_active_from": 1998,
+      "early_copubs_as_our_first_author": 5,
+      "advisor_last_author_count": 5,
+      "total_copubs": 14
+    },
+    {
+      "name": "Basilio Bona",
+      "advisor_active_from": 1992,
+      "early_copubs_as_our_first_author": 5,
+      "advisor_last_author_count": 3,
+      "total_copubs": 5
+    },
+    {
+      "name": "Marina Indri",
+      "advisor_active_from": 1992,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 2,
+      "total_copubs": 2
+    },
+    {
+      "name": "Andrea Censi",
+      "advisor_active_from": 2005,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 1,
+      "total_copubs": 3
+    },
+    {
+      "name": "José A. Castellanos",
+      "advisor_active_from": 1997,
+      "early_copubs_as_our_first_author": 3,
+      "advisor_last_author_count": 0,
+      "total_copubs": 4
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Yun Chang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 17,
+      "total_copubs": 17,
+      "student_first_author_count": 4,
+      "we_last_author_count": 13,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jingnan Shi",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 4,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Nathan Hughes",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Antoni Rosinol",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 6,
+      "we_last_author_count": 7,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Heng Yang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Pasquale Antonante",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Dominic Maggio",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yulun Tian",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Rajat Talak",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Vasileios Tzoumas",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Siyi Hu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Lukas Schmid",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Kamak Ebadi",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Matteo Palieri",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Andrzej Reinke",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Christopher E. Denniston",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Pierre-Yves Lajoie",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Fangchang Ma",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2010,
+      2019
+    ],
+    "early_mean_n_authors": 4.69,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.77
+  },
+  "citation_half_life_years": 9.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2016
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2016,
+      "venue": "T-RO",
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182,
+      "n_authors": 8,
+      "role": "middle",
+      "concepts": [
+        "Robustness (evolution)",
+        "Robotics",
+        "Simultaneous localization and mapping",
+        "Robot",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2016.2624754",
+      "coauthors": [
+        "Cesar Cadena",
+        "Henry Carrillo",
+        "Yasir Latif",
+        "Davide Scaramuzza",
+        "José Neira",
+        "Ian Reid",
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-RO",
+      "title": "On-Manifold Preintegration for Real-Time Visual-Inertial Odometry",
+      "cites": 1392,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Odometry",
+        "Computer vision",
+        "Artificial intelligence",
+        "Visual odometry",
+        "Inertial frame of reference"
+      ],
+      "doi": "10.1109/tro.2016.2597321",
+      "coauthors": [
+        "Christian Forster",
+        "Frank Dellaert",
+        "Davide Scaramuzza"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "T-RO",
+      "title": "TEASER: Fast and Certifiable Point Cloud Registration",
+      "cites": 784,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Outlier",
+        "Computer science",
+        "Algorithm",
+        "Translation (biology)",
+        "RANSAC"
+      ],
+      "doi": "10.1109/tro.2020.3033695",
+      "coauthors": [
+        "Heng Yang",
+        "Jingnan Shi"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "RSS",
+      "title": "IMU Preintegration on Manifold for Efficient Visual-Inertial Maximum-a-Posteriori Estimation",
+      "cites": 486,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Inertial measurement unit",
+        "Computer science",
+        "Inertial frame of reference",
+        "Computer vision",
+        "Artificial intelligence"
+      ],
+      "doi": "10.15607/rss.2015.xi.006",
+      "coauthors": [
+        "Christian Forster",
+        "Frank Dellaert",
+        "Davide Scaramuzza"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection",
+      "cites": 296,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "RANSAC",
+        "Outlier",
+        "Solver",
+        "Computer science",
+        "Robustness (evolution)"
+      ],
+      "doi": "10.1109/lra.2020.2965893",
+      "coauthors": [
+        "Heng Yang",
+        "Pasquale Antonante",
+        "Vasileios Tzoumas"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "IJRR",
+      "title": "SE-Sync: A certifiably correct algorithm for synchronization over the special Euclidean group",
+      "cites": 279,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Euclidean group",
+        "Mathematics",
+        "Algorithm",
+        "Pairwise comparison",
+        "Maximum a posteriori estimation"
+      ],
+      "doi": "10.1177/0278364918784361",
+      "coauthors": [
+        "David M. Rosen",
+        "Afonso S. Bandeira",
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "T-RO",
+      "title": "A Survey on Active Simultaneous Localization and Mapping: State of the Art and New Frontiers",
+      "cites": 276,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "State (computer science)",
+        "Computer science",
+        "Artificial intelligence",
+        "Simultaneous localization and mapping",
+        "Computer vision"
+      ],
+      "doi": "10.1109/tro.2023.3248510",
+      "coauthors": [
+        "Julio A. Placed",
+        "Jared Strader",
+        "Henry Carrillo",
+        "Nikolay Atanasov",
+        "Vadim Indelman",
+        "José A. Castellanos"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "IROS",
+      "title": "NeRF-SLAM: Real-Time Dense Monocular SLAM with Neural Radiance Fields",
+      "cites": 243,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Monocular",
+        "Radiance",
+        "Computer vision",
+        "Leverage (statistics)"
+      ],
+      "doi": "10.1109/iros55552.2023.10341922",
+      "coauthors": [
+        "Antoni Rosinol",
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Initialization techniques for 3D SLAM: A survey on rotation estimation and its use in pose graph optimization",
+      "cites": 235,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Pose",
+        "Initialization",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2015.7139836",
+      "coauthors": [
+        "Roberto Tron",
+        "Kostas Daniilidis",
+        "Frank Dellaert"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Duckietown: An open, inexpensive and flexible platform for autonomy education and research",
+      "cites": 232,
+      "n_authors": 30,
+      "role": "middle",
+      "concepts": [
+        "Signage",
+        "Raspberry pi",
+        "Autonomy",
+        "Computer science",
+        "Open research"
+      ],
+      "doi": "10.1109/icra.2017.7989179",
+      "coauthors": [
+        "Liam Paull",
+        "Jacopo Tani",
+        "Heejin Ahn",
+        "Javier Alonso-Mora",
+        "Michal Cáp",
+        "Yu Fan Chen",
+        "Changhyun Choi",
+        "Jeff Dusek",
+        "Yajun Fang",
+        "Daniel Hoehener",
+        "Shih-Yuan Liu",
+        "Michael Novitzky",
+        "Igor Franzoni Okuyama",
+        "Jason Pazis",
+        "Guy Rosman",
+        "Valerio Varricchio",
+        "Hsueh-Cheng Wang",
+        "Dmitry S. Yershov",
+        "Hang Zhao",
+        "Michael Benjamin",
+        "Christopher Carr",
+        "Maria T. Zuber",
+        "Sertac Karaman",
+        "Emilio Frazzoli",
+        "Domitilla Del Vecchio",
+        "Daniela Rus",
+        "Jonathan P. How",
+        "John J. Leonard",
+        "Andrea Censi"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Luca Carlone: 16년에 걸쳐 84편, 총 10,998회 인용, h=40, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "2010년 \"An application of Kullback-Leibler divergence to active SLAM and exploration with Particle Filters\"으로 출발. 첫 500+ 인용 논문까지 6년 걸림: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회). 1000+ 인용 논문: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회).",
+        "초기 토픽: Computer science, Mathematical optimization, Robot. 최근 토픽: Computer science, KISS (TNC), Point cloud. 피벗 점수 0.24 → 토픽 지속형.",
+        "저자수 평균: 초기 4.7명 → 후기 5.8명 (팀 확장).",
+        "최다 인용 논문 \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Frank Dellaert, Basilio Bona, Marina Indri. 제자 후보 추정 18명 — 상위: Yun Chang(2020~, 우리 마지막저자 13편), Jingnan Shi(2018~, 우리 마지막저자 9편), Nathan Hughes(2021~, 우리 마지막저자 8편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "18명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Frank Dellaert — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Luca Carlone: over 16 years, 84 papers, 10,998 total cites, h=40, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2010 with \"An application of Kullback-Leibler divergence to active SLAM and exploration with Particle Filters\". First 500+ cite paper came 6 years in: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182 cites). 1000+ cite paper: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182 cites).",
+        "Early topics: Computer science, Mathematical optimization, Robot. Recent topics: Computer science, KISS (TNC), Point cloud. Pivot score 0.24 → topic-stable.",
+        "Authors per paper: early 4.7 → late 5.8 (team growth).",
+        "Peak paper \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Frank Dellaert, Basilio Bona, Marina Indri. 18 likely students — top: Yun Chang(2020~, we last-author on 13), Jingnan Shi(2018~, we last-author on 9), Nathan Hughes(2021~, we last-author on 8)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "18 likely students — mentoring is the real impact.",
+        "Likely advisor: Frank Dellaert — started within their PhD network."
+      ]
+    }
+  }
+}

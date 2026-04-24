@@ -1,0 +1,1344 @@
+{
+  "name": "François Chaumette",
+  "slug": "francois-chaumette",
+  "career_stats": {
+    "first_year": 1991,
+    "last_year": 2025,
+    "span": 35,
+    "total_papers": 170,
+    "total_cites": 5848,
+    "h_index": 40,
+    "i10_index": 112,
+    "seminal_count": 0,
+    "max_cites_single_paper": 462
+  },
+  "role_distribution": {
+    "first": 5,
+    "last": 124,
+    "middle": 41
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1991,
+      "title": "Positioning of a robot with respect to an object, tracking it and estimating its velocity by visual servoing"
+    },
+    "first_100cite": {
+      "year": 1991,
+      "title": "Positioning of a robot with respect to an object, tracking it and estimating its velocity by visual servoing",
+      "cites": 181,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2004,
+      "title": "Image moments: a general and useful set of features for visual servoing",
+      "cites": 462
+    }
+  },
+  "year_series": {
+    "1991": {
+      "n": 1,
+      "cites": 181,
+      "max_cites": 181
+    },
+    "1992": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1993": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1994": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1995": {
+      "n": 3,
+      "cites": 71,
+      "max_cites": 51
+    },
+    "1996": {
+      "n": 2,
+      "cites": 70,
+      "max_cites": 70
+    },
+    "1997": {
+      "n": 3,
+      "cites": 36,
+      "max_cites": 14
+    },
+    "1998": {
+      "n": 4,
+      "cites": 69,
+      "max_cites": 43
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 7,
+      "cites": 468,
+      "max_cites": 173
+    },
+    "2001": {
+      "n": 9,
+      "cites": 196,
+      "max_cites": 56
+    },
+    "2002": {
+      "n": 5,
+      "cites": 123,
+      "max_cites": 46
+    },
+    "2003": {
+      "n": 4,
+      "cites": 167,
+      "max_cites": 88
+    },
+    "2004": {
+      "n": 10,
+      "cites": 760,
+      "max_cites": 462
+    },
+    "2005": {
+      "n": 8,
+      "cites": 477,
+      "max_cites": 333
+    },
+    "2006": {
+      "n": 7,
+      "cites": 230,
+      "max_cites": 44
+    },
+    "2007": {
+      "n": 11,
+      "cites": 475,
+      "max_cites": 198
+    },
+    "2008": {
+      "n": 8,
+      "cites": 234,
+      "max_cites": 82
+    },
+    "2009": {
+      "n": 8,
+      "cites": 254,
+      "max_cites": 190
+    },
+    "2010": {
+      "n": 8,
+      "cites": 416,
+      "max_cites": 220
+    },
+    "2011": {
+      "n": 8,
+      "cites": 285,
+      "max_cites": 66
+    },
+    "2012": {
+      "n": 1,
+      "cites": 25,
+      "max_cites": 25
+    },
+    "2013": {
+      "n": 5,
+      "cites": 129,
+      "max_cites": 75
+    },
+    "2014": {
+      "n": 9,
+      "cites": 226,
+      "max_cites": 66
+    },
+    "2015": {
+      "n": 5,
+      "cites": 58,
+      "max_cites": 23
+    },
+    "2016": {
+      "n": 3,
+      "cites": 46,
+      "max_cites": 31
+    },
+    "2017": {
+      "n": 9,
+      "cites": 180,
+      "max_cites": 56
+    },
+    "2018": {
+      "n": 6,
+      "cites": 356,
+      "max_cites": 156
+    },
+    "2019": {
+      "n": 4,
+      "cites": 159,
+      "max_cites": 59
+    },
+    "2020": {
+      "n": 2,
+      "cites": 65,
+      "max_cites": 39
+    },
+    "2021": {
+      "n": 3,
+      "cites": 34,
+      "max_cites": 23
+    },
+    "2022": {
+      "n": 4,
+      "cites": 23,
+      "max_cites": 22
+    },
+    "2023": {
+      "n": 4,
+      "cites": 9,
+      "max_cites": 4
+    },
+    "2024": {
+      "n": 6,
+      "cites": 26,
+      "max_cites": 10
+    },
+    "2025": {
+      "n": 3,
+      "cites": 0,
+      "max_cites": 0
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1991,
+      "end": 1995,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Visual servoing",
+          "w": 0.2
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.15
+        },
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Tracking (education)",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Visual servoing",
+          "w": 0.173
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.173
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.16
+        },
+        {
+          "c": "Computer science",
+          "w": 0.147
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.053
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 36,
+      "top_concepts": [
+        {
+          "c": "Visual servoing",
+          "w": 0.15
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.15
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.15
+        },
+        {
+          "c": "Computer science",
+          "w": 0.128
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 42,
+      "top_concepts": [
+        {
+          "c": "Visual servoing",
+          "w": 0.157
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.133
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.124
+        },
+        {
+          "c": "Computer science",
+          "w": 0.124
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.048
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer vision",
+          "w": 0.15
+        },
+        {
+          "c": "Computer science",
+          "w": 0.143
+        },
+        {
+          "c": "Visual servoing",
+          "w": 0.114
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.114
+        },
+        {
+          "c": "Visibility",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Visual servoing",
+          "w": 0.108
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.092
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.083
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.058
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.121
+        },
+        {
+          "c": "Visual servoing",
+          "w": 0.111
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.111
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.091
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.051
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1991,
+      "end": 1995,
+      "mix": {
+        "IROS": 3,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 5,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "ICRA": 17,
+        "IROS": 12,
+        "IJRR": 5,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "ICRA": 19,
+        "IROS": 13,
+        "T-RO": 10
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 17,
+        "IROS": 7,
+        "T-RO": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "RA-L": 8,
+        "IROS": 5,
+        "ICRA": 5,
+        "T-RO": 4,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "RA-L": 8,
+        "IROS": 7,
+        "ICRA": 4,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1991,
+      "end": 1995,
+      "mean_n_authors": 2.75,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "Patrick Rives",
+          1
+        ],
+        [
+          "Bernard Espiau",
+          1
+        ],
+        [
+          "James L. Crowley",
+          1
+        ],
+        [
+          "Mouafak Mesrabi",
+          1
+        ],
+        [
+          "Farabi Bensalah",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 2.56,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Éric Marchand",
+          5
+        ],
+        [
+          "Ezio Malis",
+          4
+        ],
+        [
+          "Armel Crétual",
+          3
+        ],
+        [
+          "Sylvie Boudet",
+          3
+        ],
+        [
+          "Venkataraman Sundareswaran",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 2.78,
+      "unique_coauthors": 33,
+      "top_coauthors": [
+        [
+          "Éric Marchand",
+          6
+        ],
+        [
+          "Youcef Mezouar",
+          5
+        ],
+        [
+          "Christophe Collewet",
+          5
+        ],
+        [
+          "Omar Tahri",
+          5
+        ],
+        [
+          "Andrew I. Comport",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 3,
+      "unique_coauthors": 40,
+      "top_coauthors": [
+        [
+          "Christophe Collewet",
+          6
+        ],
+        [
+          "Romeo Tatsambon Fomena",
+          5
+        ],
+        [
+          "Anthony Remazeilles",
+          4
+        ],
+        [
+          "Nicolas Mansard",
+          4
+        ],
+        [
+          "Odile Bourquardez",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 2.89,
+      "unique_coauthors": 26,
+      "top_coauthors": [
+        [
+          "Paolo Robuffo Giordano",
+          8
+        ],
+        [
+          "Riccardo Spica",
+          6
+        ],
+        [
+          "Olivier Kermorgant",
+          4
+        ],
+        [
+          "Omar Tahri",
+          4
+        ],
+        [
+          "Andrea Cherubini",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 3.29,
+      "unique_coauthors": 31,
+      "top_coauthors": [
+        [
+          "Paolo Robuffo Giordano",
+          7
+        ],
+        [
+          "Aly Magassouba",
+          4
+        ],
+        [
+          "Nancy Bertin",
+          4
+        ],
+        [
+          "Bryan Penin",
+          3
+        ],
+        [
+          "Éric Marchand",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 3.55,
+      "unique_coauthors": 29,
+      "top_coauthors": [
+        [
+          "Éric Marchand",
+          4
+        ],
+        [
+          "John Thomas",
+          4
+        ],
+        [
+          "Alexandre Krupa",
+          4
+        ],
+        [
+          "Nicolò Pedemonte",
+          3
+        ],
+        [
+          "Stéphane Caro",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.079,
+  "top_repeat_coauthors": [
+    {
+      "name": "Éric Marchand",
+      "count": 23,
+      "first_year": 1995,
+      "last_year": 2024
+    },
+    {
+      "name": "Paolo Robuffo Giordano",
+      "count": 17,
+      "first_year": 2014,
+      "last_year": 2022
+    },
+    {
+      "name": "Omar Tahri",
+      "count": 14,
+      "first_year": 2003,
+      "last_year": 2018
+    },
+    {
+      "name": "Christophe Collewet",
+      "count": 12,
+      "first_year": 2000,
+      "last_year": 2008
+    },
+    {
+      "name": "Youcef Mezouar",
+      "count": 11,
+      "first_year": 2000,
+      "last_year": 2013
+    },
+    {
+      "name": "Fabien Spindler",
+      "count": 9,
+      "first_year": 1997,
+      "last_year": 2018
+    },
+    {
+      "name": "Alexandre Krupa",
+      "count": 8,
+      "first_year": 2005,
+      "last_year": 2024
+    },
+    {
+      "name": "Andrea Cherubini",
+      "count": 8,
+      "first_year": 2008,
+      "last_year": 2013
+    },
+    {
+      "name": "Riccardo Spica",
+      "count": 8,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Nicolas Mansard",
+      "count": 7,
+      "first_year": 2004,
+      "last_year": 2007
+    },
+    {
+      "name": "Anthony Remazeilles",
+      "count": 6,
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "name": "Romeo Tatsambon Fomena",
+      "count": 6,
+      "first_year": 2007,
+      "last_year": 2011
+    },
+    {
+      "name": "Olivier Kermorgant",
+      "count": 6,
+      "first_year": 2010,
+      "last_year": 2024
+    },
+    {
+      "name": "Armel Crétual",
+      "count": 5,
+      "first_year": 1997,
+      "last_year": 2001
+    },
+    {
+      "name": "Ezio Malis",
+      "count": 5,
+      "first_year": 1998,
+      "last_year": 2001
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Riccardo Spica",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 8,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Youcef Mezouar",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 11,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Nicolas Mansard",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Romeo Tatsambon Fomena",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 6,
+      "we_last_author_count": 5,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Olivier Kermorgant",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Aly Magassouba",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Andrew I. Comport",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Omar Tahri",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 14,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Andrea Cherubini",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Armel Crétual",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2001
+    },
+    {
+      "name": "Mohammed Marey",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "John Thomas",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Anthony Remazeilles",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Odile Bourquardez",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Christophe Collewet",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Rafik Mebarki",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Don Joven Agravante",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Nicolas Cazy",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Bryan Penin",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Manikandan Bakthavatchalam",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Robert E. Mahony",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Alexander Antonio Oliva",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Lev Smolentsev",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Albert Diosi",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Suman Raj Bista",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Thibault Noël",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Maxime Robic",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ali Alhaj",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Hicham Hadj-Abdelkader",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Ezio Malis",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 1,
+      "last_copub_year": 2001
+    },
+    {
+      "name": "Grégory Flandin",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2001
+    },
+    {
+      "name": "Laurent Coutard",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Alessandro Colotti",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Fabien Spindler",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 9,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Jordi Pagès",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Zane Zake",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2021
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1991,
+      2000
+    ],
+    "early_mean_n_authors": 2.6,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.41
+  },
+  "citation_half_life_years": 19.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2004
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2004,
+      "venue": "T-RO",
+      "title": "Image moments: a general and useful set of features for visual servoing",
+      "cites": 462,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Visual servoing",
+        "Computer vision",
+        "Object (grammar)",
+        "Image moment",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2004.829463",
+      "coauthors": []
+    },
+    {
+      "year": 2005,
+      "venue": "T-RO",
+      "title": "Point-based and region-based image moments for visual servoing of planar objects",
+      "cites": 333,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Visual servoing",
+        "Computer vision",
+        "Robustness (evolution)",
+        "Image moment",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2005.853500",
+      "coauthors": [
+        "Omar Tahri"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "T-RO",
+      "title": "Predictive Control for Constrained Image-Based Visual Servoing",
+      "cites": 220,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Visual servoing",
+        "Model predictive control",
+        "Workspace",
+        "Artificial intelligence",
+        "Constraint (computer-aided design)"
+      ],
+      "doi": "10.1109/tro.2010.2056590",
+      "coauthors": [
+        "Guillaume Allibert",
+        "Estelle Courtial"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-RO",
+      "title": "Task Sequencing for High-Level Sensor-Based Control",
+      "cites": 198,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Task (project management)",
+        "Robot",
+        "Constraint (computer-aided design)",
+        "Convergence (economics)",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/tro.2006.889487",
+      "coauthors": [
+        "Nicolas Mansard"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "T-RO",
+      "title": "Image-Based Visual Servo Control of the Translation Kinematics of a Quadrotor Aerial Vehicle",
+      "cites": 190,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Kinematics",
+        "Servo control",
+        "Servo",
+        "Computer vision",
+        "Translation (biology)"
+      ],
+      "doi": "10.1109/tro.2008.2011419",
+      "coauthors": [
+        "Odile Bourquardez",
+        "Robert E. Mahony",
+        "Nicolas Guenard",
+        "Tarek Hamel",
+        "Laurent Eck"
+      ]
+    },
+    {
+      "year": 1991,
+      "venue": "ICRA",
+      "title": "Positioning of a robot with respect to an object, tracking it and estimating its velocity by visual servoing",
+      "cites": 181,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Visual servoing",
+        "Computer vision",
+        "Artificial intelligence",
+        "Tracking (education)",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.1991.131965",
+      "coauthors": [
+        "Patrick Rives",
+        "Bernard Espiau"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Eye-in-Hand/Eye-to-Hand Cooperation for Visual Servoing",
+      "cites": 173,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Visual servoing",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Robustness (evolution)"
+      ],
+      "doi": "10.1109/robot.2000.846442",
+      "coauthors": [
+        "Grégory Flandin",
+        "Éric Marchand"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Training Deep Neural Networks for Visual Servoing",
+      "cites": 156,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Visual servoing",
+        "Artificial intelligence",
+        "Computer science",
+        "Convolutional neural network",
+        "Computer vision"
+      ],
+      "doi": "10.1109/icra.2018.8461068",
+      "coauthors": [
+        "Quentin Bateux",
+        "Éric Marchand",
+        "Jürgen Leitner",
+        "Peter Corke"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "2 1/2 D Visual Servoing: A Possible Solution to Improve Image-Based and Position-Based Visual Servoings",
+      "cites": 115,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Visual servoing",
+        "Artificial intelligence",
+        "Position (finance)",
+        "Computer vision",
+        "Jacobian matrix and determinant"
+      ],
+      "doi": "10.1109/robot.2000.844123",
+      "coauthors": [
+        "Ezio Malis"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Vision-Based Reactive Planning for Aggressive Target Tracking While Avoiding Collisions and Occlusions",
+      "cites": 111,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robustness (evolution)",
+        "Sequential quadratic programming",
+        "Computer science",
+        "Nonlinear programming",
+        "Quadratic programming"
+      ],
+      "doi": "10.1109/lra.2018.2856526",
+      "coauthors": [
+        "Bryan Penin",
+        "Paolo Robuffo Giordano"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "François Chaumette: 35년에 걸쳐 170편, 총 5,848회 인용, h=40, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1991년 \"Positioning of a robot with respect to an object, tracking it and estimating its velocity by visual servoing\"으로 출발.",
+        "초기 토픽: Visual servoing, Computer vision, Artificial intelligence. 최근 토픽: Computer science, Visual servoing, Computer vision. 피벗 점수 0.08 → 토픽 지속형.",
+        "저자수 평균: 초기 2.6명 → 후기 3.4명 (팀 확장).",
+        "최다 인용 논문 \"Image moments: a general and useful set of features for visual servoing\" (2004, 462회) — 커리어 중기에 위치.",
+        "제자 후보 추정 36명 — 상위: Riccardo Spica(2012~, 우리 마지막저자 8편), Youcef Mezouar(2000~, 우리 마지막저자 6편), Nicolas Mansard(2004~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "36명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "François Chaumette: over 35 years, 170 papers, 5,848 total cites, h=40, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1991 with \"Positioning of a robot with respect to an object, tracking it and estimating its velocity by visual servoing\".",
+        "Early topics: Visual servoing, Computer vision, Artificial intelligence. Recent topics: Computer science, Visual servoing, Computer vision. Pivot score 0.08 → topic-stable.",
+        "Authors per paper: early 2.6 → late 3.4 (team growth).",
+        "Peak paper \"Image moments: a general and useful set of features for visual servoing\" (2004, 462 cites) — fell in mid career.",
+        "36 likely students — top: Riccardo Spica(2012~, we last-author on 8), Youcef Mezouar(2000~, we last-author on 6), Nicolas Mansard(2004~, we last-author on 6)."
+      ],
+      "lessons": [
+        "Impact through deep specialization — one lane, pushed far.",
+        "36 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

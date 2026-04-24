@@ -1,0 +1,1459 @@
+{
+  "name": "Ronald S. Fearing",
+  "slug": "ronald-s-fearing",
+  "career_stats": {
+    "first_year": 1984,
+    "last_year": 2025,
+    "span": 42,
+    "total_papers": 115,
+    "total_cites": 6634,
+    "h_index": 44,
+    "i10_index": 94,
+    "seminal_count": 0,
+    "max_cites_single_paper": 491
+  },
+  "role_distribution": {
+    "first": 8,
+    "middle": 13,
+    "last": 94
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1984,
+      "title": "Basic solid mechanics for tactile sensing"
+    },
+    "first_100cite": {
+      "year": 1990,
+      "title": "Tactile Sensing Mechanisms",
+      "cites": 185,
+      "gap_from_first": 6
+    },
+    "peak_paper": {
+      "year": 2019,
+      "title": "Insect-scale fast moving and ultrarobust soft robot",
+      "cites": 491
+    }
+  },
+  "year_series": {
+    "1984": {
+      "n": 1,
+      "cites": 26,
+      "max_cites": 26
+    },
+    "1985": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1986": {
+      "n": 2,
+      "cites": 134,
+      "max_cites": 93
+    },
+    "1987": {
+      "n": 1,
+      "cites": 44,
+      "max_cites": 44
+    },
+    "1988": {
+      "n": 1,
+      "cites": 31,
+      "max_cites": 31
+    },
+    "1989": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "1990": {
+      "n": 3,
+      "cites": 198,
+      "max_cites": 185
+    },
+    "1991": {
+      "n": 1,
+      "cites": 11,
+      "max_cites": 11
+    },
+    "1992": {
+      "n": 1,
+      "cites": 39,
+      "max_cites": 39
+    },
+    "1993": {
+      "n": 2,
+      "cites": 45,
+      "max_cites": 25
+    },
+    "1994": {
+      "n": 1,
+      "cites": 8,
+      "max_cites": 8
+    },
+    "1995": {
+      "n": 2,
+      "cites": 426,
+      "max_cites": 404
+    },
+    "1996": {
+      "n": 1,
+      "cites": 182,
+      "max_cites": 182
+    },
+    "1997": {
+      "n": 1,
+      "cites": 59,
+      "max_cites": 59
+    },
+    "1998": {
+      "n": 1,
+      "cites": 106,
+      "max_cites": 106
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 3,
+      "cites": 407,
+      "max_cites": 217
+    },
+    "2001": {
+      "n": 4,
+      "cites": 421,
+      "max_cites": 175
+    },
+    "2002": {
+      "n": 3,
+      "cites": 125,
+      "max_cites": 68
+    },
+    "2003": {
+      "n": 7,
+      "cites": 408,
+      "max_cites": 108
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 4,
+      "cites": 122,
+      "max_cites": 63
+    },
+    "2006": {
+      "n": 3,
+      "cites": 176,
+      "max_cites": 101
+    },
+    "2007": {
+      "n": 3,
+      "cites": 115,
+      "max_cites": 73
+    },
+    "2008": {
+      "n": 4,
+      "cites": 356,
+      "max_cites": 208
+    },
+    "2009": {
+      "n": 6,
+      "cites": 460,
+      "max_cites": 275
+    },
+    "2010": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2011": {
+      "n": 4,
+      "cites": 221,
+      "max_cites": 69
+    },
+    "2012": {
+      "n": 7,
+      "cites": 258,
+      "max_cites": 99
+    },
+    "2013": {
+      "n": 7,
+      "cites": 333,
+      "max_cites": 105
+    },
+    "2014": {
+      "n": 5,
+      "cites": 101,
+      "max_cites": 29
+    },
+    "2015": {
+      "n": 5,
+      "cites": 141,
+      "max_cites": 48
+    },
+    "2016": {
+      "n": 8,
+      "cites": 536,
+      "max_cites": 364
+    },
+    "2017": {
+      "n": 5,
+      "cites": 200,
+      "max_cites": 114
+    },
+    "2018": {
+      "n": 6,
+      "cites": 225,
+      "max_cites": 68
+    },
+    "2019": {
+      "n": 8,
+      "cites": 623,
+      "max_cites": 491
+    },
+    "2020": {
+      "n": 2,
+      "cites": 75,
+      "max_cites": 65
+    },
+    "2021": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2022": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2023": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "2024": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2025": {
+      "n": 1,
+      "cites": 10,
+      "max_cites": 10
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1984,
+      "end": 1988,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Tactile sensor",
+          "w": 0.12
+        },
+        {
+          "c": "Orientation (vector space)",
+          "w": 0.12
+        },
+        {
+          "c": "Computer science",
+          "w": 0.08
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.08
+        },
+        {
+          "c": "Slipping",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 1989,
+      "end": 1993,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.1
+        },
+        {
+          "c": "Tactile sensor",
+          "w": 0.075
+        },
+        {
+          "c": "Contact force",
+          "w": 0.05
+        },
+        {
+          "c": "Fastener",
+          "w": 0.05
+        },
+        {
+          "c": "Polygon (computer graphics)",
+          "w": 0.025
+        }
+      ]
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Tactile sensor",
+          "w": 0.08
+        },
+        {
+          "c": "Underactuation",
+          "w": 0.04
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.04
+        },
+        {
+          "c": "Robot",
+          "w": 0.04
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Materials science",
+          "w": 0.059
+        },
+        {
+          "c": "Insect flight",
+          "w": 0.059
+        },
+        {
+          "c": "Wing",
+          "w": 0.047
+        },
+        {
+          "c": "Flapping",
+          "w": 0.047
+        },
+        {
+          "c": "Computer science",
+          "w": 0.047
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Actuator",
+          "w": 0.1
+        },
+        {
+          "c": "Computer science",
+          "w": 0.071
+        },
+        {
+          "c": "Process (computing)",
+          "w": 0.043
+        },
+        {
+          "c": "Rapid prototyping",
+          "w": 0.029
+        },
+        {
+          "c": "Fabrication",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.124
+        },
+        {
+          "c": "Computer science",
+          "w": 0.115
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.044
+        },
+        {
+          "c": "Actuator",
+          "w": 0.035
+        },
+        {
+          "c": "Aerodynamics",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.14
+        },
+        {
+          "c": "Computer science",
+          "w": 0.132
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.044
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.044
+        },
+        {
+          "c": "Jumping",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.145
+        },
+        {
+          "c": "Robot",
+          "w": 0.127
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.055
+        },
+        {
+          "c": "Torque",
+          "w": 0.036
+        },
+        {
+          "c": "Actuator",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Arboreal locomotion",
+          "w": 0.2
+        },
+        {
+          "c": "Torque",
+          "w": 0.2
+        },
+        {
+          "c": "Balance (ability)",
+          "w": 0.2
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.2
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1984,
+      "end": 1988,
+      "mix": {
+        "ICRA": 5
+      }
+    },
+    {
+      "start": 1989,
+      "end": 1993,
+      "mix": {
+        "ICRA": 5,
+        "IROS": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 1,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "ICRA": 12,
+        "IROS": 5
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 4
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "IROS": 15,
+        "ICRA": 6,
+        "T-Mech": 1,
+        "RSS": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "ICRA": 15,
+        "IROS": 12,
+        "T-RO": 1,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "ICRA": 6,
+        "RA-L": 2,
+        "Sci-Rob": 1,
+        "T-Mech": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1984,
+      "end": 1988,
+      "mean_n_authors": 2,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "John M. Hollerbach",
+          1
+        ],
+        [
+          "J. Bradley Chen",
+          1
+        ],
+        [
+          "Brian S. R. Armstrong",
+          1
+        ],
+        [
+          "Joel W. Burdick",
+          1
+        ],
+        [
+          "Thomas O. Binford",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1989,
+      "end": 1993,
+      "mean_n_authors": 1.88,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "Edward J. Nicolson",
+          3
+        ],
+        [
+          "Matthew D. Berkemeier",
+          2
+        ],
+        [
+          "Swaminathan Gopalswamy",
+          1
+        ],
+        [
+          "Edward M. Sladek",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "mean_n_authors": 2.33,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Matthew D. Berkemeier",
+          1
+        ],
+        [
+          "Edward J. Nicolson",
+          1
+        ],
+        [
+          "Bonnie L. Gray",
+          1
+        ],
+        [
+          "Gabriel Moy",
+          1
+        ],
+        [
+          "Eden Tan",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 3.71,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Robert J. Wood",
+          7
+        ],
+        [
+          "Joseph Yan",
+          5
+        ],
+        [
+          "Metin Sitti",
+          4
+        ],
+        [
+          "Srinath Avadhanula",
+          4
+        ],
+        [
+          "Domenico Campolo",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 3,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Erik Steltz",
+          8
+        ],
+        [
+          "Srinath Avadhanula",
+          6
+        ],
+        [
+          "Aaron M. Hoover",
+          5
+        ],
+        [
+          "Robert J. Wood",
+          3
+        ],
+        [
+          "Ranjana Sahai",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 3.62,
+      "unique_coauthors": 22,
+      "top_coauthors": [
+        [
+          "Paul Birkmeyer",
+          6
+        ],
+        [
+          "David Zarrouk",
+          6
+        ],
+        [
+          "Nicholas J. Kohut",
+          5
+        ],
+        [
+          "Andrew O. Pullin",
+          5
+        ],
+        [
+          "Duncan W. Haldane",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 3.45,
+      "unique_coauthors": 45,
+      "top_coauthors": [
+        [
+          "Duncan W. Haldane",
+          5
+        ],
+        [
+          "Carlos S. Casarez",
+          5
+        ],
+        [
+          "Anusha Nagabandi",
+          4
+        ],
+        [
+          "Mark M. Plecnik",
+          4
+        ],
+        [
+          "Justin K. Yim",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 4.82,
+      "unique_coauthors": 36,
+      "top_coauthors": [
+        [
+          "Justin K. Yim",
+          3
+        ],
+        [
+          "Mark M. Plecnik",
+          2
+        ],
+        [
+          "Liyu Wang",
+          2
+        ],
+        [
+          "Carlos S. Casarez",
+          2
+        ],
+        [
+          "Eric K. Wang",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 6,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Justin K. Yim",
+          1
+        ],
+        [
+          "Eric K. Wang",
+          1
+        ],
+        [
+          "Sebastian D. Lee",
+          1
+        ],
+        [
+          "Nathaniel H. Hunt",
+          1
+        ],
+        [
+          "Robert J. Full",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.482,
+  "top_repeat_coauthors": [
+    {
+      "name": "Robert J. Wood",
+      "count": 10,
+      "first_year": 2001,
+      "last_year": 2006
+    },
+    {
+      "name": "Srinath Avadhanula",
+      "count": 10,
+      "first_year": 2001,
+      "last_year": 2007
+    },
+    {
+      "name": "Duncan W. Haldane",
+      "count": 10,
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "name": "Erik Steltz",
+      "count": 9,
+      "first_year": 2003,
+      "last_year": 2008
+    },
+    {
+      "name": "Aaron M. Hoover",
+      "count": 9,
+      "first_year": 2006,
+      "last_year": 2013
+    },
+    {
+      "name": "David Zarrouk",
+      "count": 9,
+      "first_year": 2012,
+      "last_year": 2015
+    },
+    {
+      "name": "Justin K. Yim",
+      "count": 8,
+      "first_year": 2016,
+      "last_year": 2025
+    },
+    {
+      "name": "Carlos S. Casarez",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2019
+    },
+    {
+      "name": "Paul Birkmeyer",
+      "count": 6,
+      "first_year": 2009,
+      "last_year": 2013
+    },
+    {
+      "name": "Mark M. Plecnik",
+      "count": 6,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Joseph Yan",
+      "count": 5,
+      "first_year": 2000,
+      "last_year": 2003
+    },
+    {
+      "name": "Nicholas J. Kohut",
+      "count": 5,
+      "first_year": 2011,
+      "last_year": 2013
+    },
+    {
+      "name": "Andrew O. Pullin",
+      "count": 5,
+      "first_year": 2012,
+      "last_year": 2013
+    },
+    {
+      "name": "Edward J. Nicolson",
+      "count": 4,
+      "first_year": 1991,
+      "last_year": 1995
+    },
+    {
+      "name": "Metin Sitti",
+      "count": 4,
+      "first_year": 2000,
+      "last_year": 2003
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Duncan W. Haldane",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 6,
+      "we_last_author_count": 10,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Robert J. Wood",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 10,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Erik Steltz",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 9,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Srinath Avadhanula",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 9,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "David Zarrouk",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 5,
+      "we_last_author_count": 8,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Aaron M. Hoover",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 9,
+      "student_first_author_count": 6,
+      "we_last_author_count": 7,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Justin K. Yim",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mark M. Plecnik",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Carlos S. Casarez",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Nicholas J. Kohut",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Paul Birkmeyer",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Edward J. Nicolson",
+      "student_first_year": 1991,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 1995
+    },
+    {
+      "name": "Ranjana Sahai",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Fernando Garcia Bermudez",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Kevin C. Peterson",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Matthew D. Berkemeier",
+      "student_first_year": 1990,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 1994
+    },
+    {
+      "name": "Cameron J. Rose",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Stanley S. Baek",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Andrew O. Pullin",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Anusha Nagabandi",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Metin Sitti",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Gabriel Moy",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Wei Chung Wu",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Jessica S. Lee",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Jaakko T. Karras",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Austin Buchan",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Liyu Wang",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Domenico Campolo",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Feifei Qian",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Tingnan Zhang",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2013
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1984,
+      1993
+    ],
+    "early_mean_n_authors": 1.92,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.29
+  },
+  "citation_half_life_years": 18.0,
+  "bursts": {
+    "productivity": [
+      2016,
+      2019
+    ],
+    "impact": [
+      2016,
+      2019
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "Insect-scale fast moving and ultrarobust soft robot",
+      "cites": 491,
+      "n_authors": 13,
+      "role": "middle",
+      "concepts": [
+        "Scale (ratio)",
+        "Robot",
+        "Computer science",
+        "Environmental science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1126/scirobotics.aax1594",
+      "coauthors": [
+        "Yichuan Wu",
+        "Justin K. Yim",
+        "Jiaming Liang",
+        "Zhichun Shao",
+        "Mingjing Qi",
+        "Junwen Zhong",
+        "Zihao Luo",
+        "Xiaojun Yan",
+        "Min Zhang",
+        "Xiaohao Wang",
+        "Robert J. Full",
+        "Liwei Lin"
+      ]
+    },
+    {
+      "year": 1995,
+      "venue": "IROS",
+      "title": "Survey of sticking effects for micro parts handling",
+      "cites": 404,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Grippers",
+        "Millimeter",
+        "Adhesion",
+        "van der Waals force",
+        "Dielectrophoresis"
+      ],
+      "doi": "10.1109/iros.1995.526162",
+      "coauthors": []
+    },
+    {
+      "year": 2016,
+      "venue": "Sci-Rob",
+      "title": "Robotic vertical jumping agility via series-elastic power modulation",
+      "cites": 364,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Jumping",
+        "Series (stratigraphy)",
+        "Modulation (music)",
+        "Power (physics)",
+        "Computer science"
+      ],
+      "doi": "10.1126/scirobotics.aag2048",
+      "coauthors": [
+        "Mark M. Plecnik",
+        "Justin K. Yim"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IROS",
+      "title": "DASH: A dynamic 16g hexapedal robot",
+      "cites": 275,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Dash",
+        "Kinematics",
+        "Tripod (photography)",
+        "Inverted pendulum",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2009.5354561",
+      "coauthors": [
+        "Paul Birkmeyer",
+        "Kevin C. Peterson"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Wing Transmission for a Micromechanical Flying Insect",
+      "cites": 217,
+      "n_authors": 6,
+      "role": "first",
+      "concepts": [
+        "Wing",
+        "Flapping",
+        "Aerodynamics",
+        "Insect flight",
+        "Rotation (mathematics)"
+      ],
+      "doi": "10.1109/robot.2000.844811",
+      "coauthors": [
+        "Ken H. Chiang",
+        "Michael H. Dickinson",
+        "D. L. Pick",
+        "Metin Sitti",
+        "Joseph Yan"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IROS",
+      "title": "RoACH: An autonomous 2.4g crawling hexapod robot",
+      "cites": 208,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Hexapod",
+        "Robot",
+        "Crawling",
+        "Actuator",
+        "Electronics"
+      ],
+      "doi": "10.1109/iros.2008.4651149",
+      "coauthors": [
+        "Aaron M. Hoover",
+        "Erik Steltz"
+      ]
+    },
+    {
+      "year": 1990,
+      "venue": "IJRR",
+      "title": "Tactile Sensing Mechanisms",
+      "cites": 185,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Tactile sensor",
+        "Deflection (physics)",
+        "Planar",
+        "Contact force",
+        "Sensitivity (control systems)"
+      ],
+      "doi": "10.1177/027836499000900301",
+      "coauthors": []
+    },
+    {
+      "year": 1996,
+      "venue": "ICRA",
+      "title": "A surface micromachined microtactile sensor array",
+      "cites": 182,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Capacitive sensing",
+        "Silicone rubber",
+        "Tactile sensor",
+        "Materials science",
+        "Image resolution"
+      ],
+      "doi": "10.1109/robot.1996.503564",
+      "coauthors": [
+        "Bonnie L. Gray"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "A Compliant Tactile Display for Teletaction",
+      "cites": 181,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Tactile sensor",
+        "Tactile display",
+        "Silicone rubber",
+        "Materials science",
+        "Haptic technology"
+      ],
+      "doi": "10.1109/robot.2000.845247",
+      "coauthors": [
+        "Gabriel Moy",
+        "Christopher R. Wagner"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "ICRA",
+      "title": "Towards flapping Wing Control for a Micromechanical Flying Insect",
+      "cites": 175,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Flapping",
+        "Wing",
+        "Aeronautics",
+        "Insect flight",
+        "Aerospace engineering"
+      ],
+      "doi": "10.1109/robot.2001.933225",
+      "coauthors": [
+        "Joseph Yan",
+        "Robert J. Wood",
+        "Srinath Avadhanula",
+        "Metin Sitti"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Ronald S. Fearing: 42년에 걸쳐 115편, 총 6,634회 인용, h=44, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1984년 \"Basic solid mechanics for tactile sensing\"으로 출발.",
+        "초기 토픽: Tactile sensor, Orientation (vector space), Computer science. 최근 토픽: Arboreal locomotion, Torque, Balance (ability). 피벗 점수 0.48 → 점진적 이동형.",
+        "저자수 평균: 초기 1.9명 → 후기 4.3명 (팀 확장).",
+        "최다 인용 논문 \"Insect-scale fast moving and ultrarobust soft robot\" (2019, 491회) — 커리어 후기에 위치.",
+        "제자 후보 추정 30명 — 상위: Duncan W. Haldane(2012~, 우리 마지막저자 10편), Robert J. Wood(2001~, 우리 마지막저자 10편), Erik Steltz(2003~, 우리 마지막저자 9편)."
+      ],
+      "lessons": [
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "30명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Ronald S. Fearing: over 42 years, 115 papers, 6,634 total cites, h=44, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1984 with \"Basic solid mechanics for tactile sensing\".",
+        "Early topics: Tactile sensor, Orientation (vector space), Computer science. Recent topics: Arboreal locomotion, Torque, Balance (ability). Pivot score 0.48 → gradual shift.",
+        "Authors per paper: early 1.9 → late 4.3 (team growth).",
+        "Peak paper \"Insect-scale fast moving and ultrarobust soft robot\" (2019, 491 cites) — fell in late career.",
+        "30 likely students — top: Duncan W. Haldane(2012~, we last-author on 10), Robert J. Wood(2001~, we last-author on 10), Erik Steltz(2003~, we last-author on 9)."
+      ],
+      "lessons": [
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "30 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

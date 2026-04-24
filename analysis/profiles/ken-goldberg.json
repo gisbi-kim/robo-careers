@@ -1,0 +1,1369 @@
+{
+  "name": "Ken Goldberg",
+  "slug": "ken-goldberg",
+  "career_stats": {
+    "first_year": 1997,
+    "last_year": 2025,
+    "span": 29,
+    "total_papers": 132,
+    "total_cites": 9153,
+    "h_index": 44,
+    "i10_index": 89,
+    "seminal_count": 5,
+    "max_cites_single_paper": 1156
+  },
+  "role_distribution": {
+    "last": 94,
+    "middle": 34,
+    "first": 4
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1997,
+      "title": "Analysis of part motion on a longitudinally vibrating plate"
+    },
+    "first_100cite": {
+      "year": 2012,
+      "title": "A robot path planning framework that learns from experience",
+      "cites": 211,
+      "gap_from_first": 15
+    },
+    "first_500cite": {
+      "year": 2014,
+      "title": "Motion planning with sequential convex optimization and convex collision checking",
+      "cites": 826,
+      "gap_from_first": 17
+    },
+    "first_1000cite": {
+      "year": 2017,
+      "title": "Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics",
+      "cites": 1156,
+      "gap_from_first": 20
+    },
+    "peak_paper": {
+      "year": 2017,
+      "title": "Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics",
+      "cites": 1156
+    }
+  },
+  "year_series": {
+    "1997": {
+      "n": 3,
+      "cites": 55,
+      "max_cites": 41
+    },
+    "1998": {
+      "n": 2,
+      "cites": 17,
+      "max_cites": 12
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2001": {
+      "n": 2,
+      "cites": 66,
+      "max_cites": 57
+    },
+    "2002": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2003": {
+      "n": 3,
+      "cites": 131,
+      "max_cites": 77
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2007": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2011": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2012": {
+      "n": 2,
+      "cites": 270,
+      "max_cites": 211
+    },
+    "2013": {
+      "n": 2,
+      "cites": 271,
+      "max_cites": 228
+    },
+    "2014": {
+      "n": 2,
+      "cites": 850,
+      "max_cites": 826
+    },
+    "2015": {
+      "n": 4,
+      "cites": 268,
+      "max_cites": 172
+    },
+    "2016": {
+      "n": 8,
+      "cites": 764,
+      "max_cites": 373
+    },
+    "2017": {
+      "n": 6,
+      "cites": 1545,
+      "max_cites": 1156
+    },
+    "2018": {
+      "n": 5,
+      "cites": 1037,
+      "max_cites": 585
+    },
+    "2019": {
+      "n": 8,
+      "cites": 1189,
+      "max_cites": 573
+    },
+    "2020": {
+      "n": 15,
+      "cites": 1265,
+      "max_cites": 564
+    },
+    "2021": {
+      "n": 16,
+      "cites": 575,
+      "max_cites": 191
+    },
+    "2022": {
+      "n": 13,
+      "cites": 357,
+      "max_cites": 85
+    },
+    "2023": {
+      "n": 10,
+      "cites": 166,
+      "max_cites": 37
+    },
+    "2024": {
+      "n": 16,
+      "cites": 311,
+      "max_cites": 111
+    },
+    "2025": {
+      "n": 15,
+      "cites": 16,
+      "max_cites": 5
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1997,
+      "end": 2001,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.143
+        },
+        {
+          "c": "Robot",
+          "w": 0.086
+        },
+        {
+          "c": "Throughput",
+          "w": 0.057
+        },
+        {
+          "c": "Process (computing)",
+          "w": 0.057
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Frame (networking)",
+          "w": 0.133
+        },
+        {
+          "c": "Brachytherapy",
+          "w": 0.067
+        },
+        {
+          "c": "Finite element method",
+          "w": 0.067
+        },
+        {
+          "c": "Biomedical engineering",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.178
+        },
+        {
+          "c": "Robot",
+          "w": 0.078
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.044
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.044
+        },
+        {
+          "c": "GRASP",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 50,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.181
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.129
+        },
+        {
+          "c": "Robot",
+          "w": 0.069
+        },
+        {
+          "c": "GRASP",
+          "w": 0.06
+        },
+        {
+          "c": "Robotics",
+          "w": 0.028
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 54,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.195
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.136
+        },
+        {
+          "c": "Robot",
+          "w": 0.109
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.039
+        },
+        {
+          "c": "Robotics",
+          "w": 0.039
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1997,
+      "end": 2001,
+      "mix": {
+        "IROS": 4,
+        "ICRA": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "IROS": 3
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 4,
+        "IJRR": 1,
+        "RSS": 1,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "ICRA": 27,
+        "IROS": 6,
+        "Sci-Rob": 5,
+        "RA-L": 5,
+        "IJRR": 4,
+        "RSS": 3
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "ICRA": 27,
+        "IROS": 17,
+        "RSS": 5,
+        "Sci-Rob": 4,
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1997,
+      "end": 2001,
+      "mean_n_authors": 2.43,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Dadi Gudmundsson",
+          2
+        ],
+        [
+          "Dan Reznik",
+          1
+        ],
+        [
+          "John F. Canny",
+          1
+        ],
+        [
+          "Yan Zhuang",
+          1
+        ],
+        [
+          "Mary Pickett",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 3.33,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Dezhen Song",
+          2
+        ],
+        [
+          "Ron Alterovitz",
+          1
+        ],
+        [
+          "Jean Pouliot",
+          1
+        ],
+        [
+          "Richard Tascherau",
+          1
+        ],
+        [
+          "I-Chow Hsu",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 6.11,
+      "unique_coauthors": 52,
+      "top_coauthors": [
+        [
+          "Pieter Abbeel",
+          8
+        ],
+        [
+          "Sachin Patil",
+          7
+        ],
+        [
+          "Florian T. Pokorny",
+          6
+        ],
+        [
+          "Jeffrey Mahler",
+          4
+        ],
+        [
+          "Ben Kehoe",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 7.26,
+      "unique_coauthors": 154,
+      "top_coauthors": [
+        [
+          "Jeffrey Ichnowski",
+          14
+        ],
+        [
+          "Brijen Thananjeyan",
+          11
+        ],
+        [
+          "Joseph E. Gonzalez",
+          10
+        ],
+        [
+          "Jeffrey Mahler",
+          9
+        ],
+        [
+          "Michael Danielczuk",
+          9
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 14.67,
+      "unique_coauthors": 447,
+      "top_coauthors": [
+        [
+          "Jeffrey Ichnowski",
+          15
+        ],
+        [
+          "Huang Huang",
+          13
+        ],
+        [
+          "Justin Kerr",
+          11
+        ],
+        [
+          "Kush Hari",
+          11
+        ],
+        [
+          "Lawrence Yunliang Chen",
+          9
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.329,
+  "top_repeat_coauthors": [
+    {
+      "name": "Jeffrey Ichnowski",
+      "count": 29,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Huang Huang",
+      "count": 16,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Ashwin Balakrishna",
+      "count": 15,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Brijen Thananjeyan",
+      "count": 14,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "Jeffrey Mahler",
+      "count": 13,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Michael Danielczuk",
+      "count": 13,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Pieter Abbeel",
+      "count": 12,
+      "first_year": 2012,
+      "last_year": 2024
+    },
+    {
+      "name": "Joseph E. Gonzalez",
+      "count": 12,
+      "first_year": 2019,
+      "last_year": 2022
+    },
+    {
+      "name": "Animesh Garg",
+      "count": 11,
+      "first_year": 2016,
+      "last_year": 2025
+    },
+    {
+      "name": "Daniel Seita",
+      "count": 11,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Justin Kerr",
+      "count": 11,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Kush Hari",
+      "count": 11,
+      "first_year": 2024,
+      "last_year": 2025
+    },
+    {
+      "name": "Michael Laskey",
+      "count": 10,
+      "first_year": 2016,
+      "last_year": 2022
+    },
+    {
+      "name": "Lawrence Yunliang Chen",
+      "count": 9,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Kaiyuan Chen",
+      "count": 9,
+      "first_year": 2023,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Brijen Thananjeyan",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 14,
+      "student_first_author_count": 4,
+      "we_last_author_count": 14,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Michael Danielczuk",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 13,
+      "student_first_author_count": 3,
+      "we_last_author_count": 12,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jeffrey Mahler",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 13,
+      "student_first_author_count": 5,
+      "we_last_author_count": 11,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Daniel Seita",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 3,
+      "we_last_author_count": 10,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Kaiyuan Chen",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 6,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Huang Huang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 16,
+      "student_first_author_count": 4,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kush Hari",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 1,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Michael Laskey",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Yahav Avigal",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Lawrence Yunliang Chen",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Chung Min Kim",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Justin Kerr",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 11,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ryan Hoque",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Sanjay Krishnan",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Minho Hwang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Florian T. Pokorny",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Letian Fu",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Karthik Dharmarajan",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Matthew Matl",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Vishal Satish",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Tianshuang Qiu",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Priya Sundaresan",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Aditya Ganapathi",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Simeon Adebola",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Samuel Paradis",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Justin Yu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ben Kehoe",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Jingyi Xu",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Vainavi Viswanath",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Raghav Anand",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Kaushik Shivakumar",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Dezhen Song",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Harry Zhang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Dmitry Berenson",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Zachary Tam",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Albert Wilcox",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Adam Rashid",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ziyang Chen",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Nan Tian",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sachin Patil",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Adithyavairavan Murali",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Siddarth Sen",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Abby O&apos",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Shuangyu Xie",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alejandro Escontrela",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "John Schulman",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Abhiram Maddukuri",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alexander Khazatsky",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Alex X. Lee",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2014
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1997,
+      2006
+    ],
+    "early_mean_n_authors": 2.7,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 10.75
+  },
+  "citation_half_life_years": 8,
+  "bursts": {
+    "productivity": [
+      2021,
+      2024
+    ],
+    "impact": [
+      2017,
+      2020
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2017,
+      "venue": "RSS",
+      "title": "Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics",
+      "cites": 1156,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Computer science",
+        "Artificial intelligence",
+        "Point cloud",
+        "Convolutional neural network"
+      ],
+      "doi": "10.15607/rss.2017.xiii.058",
+      "coauthors": [
+        "Jeffrey Mahler",
+        "Jacky Liang",
+        "Sherdil Niyaz",
+        "Michael Laskey",
+        "Richard Doan",
+        "Xinyu Liu",
+        "Juan Aparicio Ojea"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IJRR",
+      "title": "Motion planning with sequential convex optimization and convex collision checking",
+      "cites": 826,
+      "n_authors": 10,
+      "role": "middle",
+      "concepts": [
+        "Motion planning",
+        "Computer science",
+        "Robot",
+        "Regular polygon",
+        "Humanoid robot"
+      ],
+      "doi": "10.1177/0278364914528132",
+      "coauthors": [
+        "John Schulman",
+        "Yan Duan",
+        "Jonathan Ho",
+        "Alex X. Lee",
+        "Ibrahim Awwal",
+        "Henry Bradlow",
+        "Jia Pan",
+        "Sachin Patil",
+        "Pieter Abbeel"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Deep Imitation Learning for Complex Manipulation Tasks from Virtual Reality Teleoperation",
+      "cites": 585,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Teleoperation",
+        "Imitation",
+        "Artificial intelligence",
+        "Virtual reality"
+      ],
+      "doi": "10.1109/icra.2018.8461249",
+      "coauthors": [
+        "Tianhao Zhang",
+        "Zoe McCarthy",
+        "Owen Jow",
+        "Dennis Lee",
+        "Xi Chen",
+        "Pieter Abbeel"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "Learning ambidextrous robot grasping policies",
+      "cites": 573,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Psychology",
+        "Human–computer interaction",
+        "Business"
+      ],
+      "doi": "10.1126/scirobotics.aau4984",
+      "coauthors": [
+        "Matthew Matl",
+        "Vishal Satish",
+        "Michael Danielczuk",
+        "Bill DeRose",
+        "Stephen McKinley"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Combating COVID-19 - The role of robotics in managing public health and infectious diseases",
+      "cites": 564,
+      "n_authors": 13,
+      "role": "middle",
+      "concepts": [
+        "Coronavirus disease 2019 (COVID-19)",
+        "2019-20 coronavirus outbreak",
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "Public health",
+        "Robotics"
+      ],
+      "doi": "10.1126/scirobotics.abb5589",
+      "coauthors": [
+        "Guang-Zhong Yang",
+        "Bradley J. Nelson",
+        "Robin R. Murphy",
+        "Howie Choset",
+        "Henrik I. Christensen",
+        "Steven H. Collins",
+        "Paolo Dario",
+        "Koji Ikuta",
+        "Neil Jacobstein",
+        "Danica Kragic",
+        "Russell H. Taylor",
+        "Marcia McNutt"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "ICRA",
+      "title": "Dex-Net 1.0: A cloud-based network of 3D objects for robust grasp planning using a Multi-Armed Bandit model with correlated rewards",
+      "cites": 373,
+      "n_authors": 10,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Cloud computing",
+        "Computer science",
+        "Artificial intelligence",
+        "Leverage (statistics)"
+      ],
+      "doi": "10.1109/icra.2016.7487342",
+      "coauthors": [
+        "Jeffrey Mahler",
+        "Florian T. Pokorny",
+        "Brian Hou",
+        "Melrose Roderick",
+        "Michael Laskey",
+        "Mathieu Aubry",
+        "Kai Kohlhoff",
+        "Torsten Kröger",
+        "James J. Kuffner"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Dex-Net 3.0: Computing Robust Vacuum Suction Grasp Targets in Point Clouds Using a New Analytic Model and Deep Learning",
+      "cites": 324,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Wrench",
+        "Robustness (evolution)",
+        "Grippers",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2018.8460887",
+      "coauthors": [
+        "Jeffrey Mahler",
+        "Matthew Matl",
+        "Xinyu Liu",
+        "Albert Li",
+        "David V. Gealy"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "Cloud-based robot grasping with the google object recognition engine",
+      "cites": 228,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Cloud computing",
+        "Robot",
+        "Computer science",
+        "Artificial intelligence",
+        "Pose"
+      ],
+      "doi": "10.1109/icra.2013.6631180",
+      "coauthors": [
+        "Ben Kehoe",
+        "Akihiro Matsukawa",
+        "Sal Candido",
+        "James Kuffner"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "A robot path planning framework that learns from experience",
+      "cites": 211,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Heuristics",
+        "Computer science",
+        "Path (computing)",
+        "Motion planning",
+        "Robot"
+      ],
+      "doi": "10.1109/icra.2012.6224742",
+      "coauthors": [
+        "Dmitry Berenson",
+        "Pieter Abbeel"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "Recovery RL: Safe Reinforcement Learning With Learned Recovery Zones",
+      "cites": 191,
+      "n_authors": 10,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Task (project management)",
+        "Constraint (computer-aided design)",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/lra.2021.3070252",
+      "coauthors": [
+        "Brijen Thananjeyan",
+        "Ashwin Balakrishna",
+        "Suraj Nair",
+        "Michael Luo",
+        "Krishnan Srinivasan",
+        "Minho Hwang",
+        "Joseph E. Gonzalez",
+        "Julian Ibarz",
+        "Chelsea Finn"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer-3",
+      "headline": "Ken Goldberg: 29년에 걸쳐 132편, 총 9,153회 인용, h=44, 500+ 블록버스터 5편.",
+      "paragraphs": [
+        "1997년 \"Analysis of part motion on a longitudinally vibrating plate\"으로 출발. 첫 500+ 인용 논문까지 17년 걸림: \"Motion planning with sequential convex optimization and convex collision checking\" (2014, 826회). 1000+ 인용 논문: \"Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics\" (2017, 1,156회).",
+        "초기 토픽: Computer science, Robot, Throughput. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.33 → 점진적 이동형.",
+        "저자수 평균: 초기 2.7명 → 후기 10.8명 (팀 확장).",
+        "최다 인용 논문 \"Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics\" (2017, 1,156회) — 커리어 후기에 위치.",
+        "제자 후보 추정 49명 — 상위: Brijen Thananjeyan(2017~, 우리 마지막저자 14편), Michael Danielczuk(2019~, 우리 마지막저자 12편), Jeffrey Mahler(2014~, 우리 마지막저자 11편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "49명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer-3",
+      "headline": "Ken Goldberg: over 29 years, 132 papers, 9,153 total cites, h=44, 5 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1997 with \"Analysis of part motion on a longitudinally vibrating plate\". First 500+ cite paper came 17 years in: \"Motion planning with sequential convex optimization and convex collision checking\" (2014, 826 cites). 1000+ cite paper: \"Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics\" (2017, 1,156 cites).",
+        "Early topics: Computer science, Robot, Throughput. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.33 → gradual shift.",
+        "Authors per paper: early 2.7 → late 10.8 (team growth).",
+        "Peak paper \"Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics\" (2017, 1,156 cites) — fell in late career.",
+        "49 likely students — top: Brijen Thananjeyan(2017~, we last-author on 14), Michael Danielczuk(2019~, we last-author on 12), Jeffrey Mahler(2014~, we last-author on 11)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "49 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

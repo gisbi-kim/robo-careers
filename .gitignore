@@ -1,0 +1,22 @@
+# External data source (separate repo)
+robopaper-atlas/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# Experimental / peek files
+analysis/_peek_*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

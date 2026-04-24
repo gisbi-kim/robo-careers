@@ -1,0 +1,1253 @@
+{
+  "name": "Tamim Asfour",
+  "slug": "tamim-asfour",
+  "career_stats": {
+    "first_year": 1999,
+    "last_year": 2025,
+    "span": 27,
+    "total_papers": 130,
+    "total_cites": 6108,
+    "h_index": 34,
+    "i10_index": 81,
+    "seminal_count": 2,
+    "max_cites_single_paper": 839
+  },
+  "role_distribution": {
+    "middle": 53,
+    "first": 2,
+    "last": 75
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1999,
+      "title": "ARMAR: An Anthropomorphic Arm for Humanoid Service Robot"
+    },
+    "first_100cite": {
+      "year": 2000,
+      "title": "Design of the TUAT/Karlsruhe humanoid hand",
+      "cites": 230,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2009,
+      "title": "Learning and generalization of motor skills by learning from demonstration",
+      "cites": 710,
+      "gap_from_first": 10
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "Data-Driven Grasp Synthesis - A Survey",
+      "cites": 839
+    }
+  },
+  "year_series": {
+    "1999": {
+      "n": 1,
+      "cites": 25,
+      "max_cites": 25
+    },
+    "2000": {
+      "n": 1,
+      "cites": 230,
+      "max_cites": 230
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2003": {
+      "n": 1,
+      "cites": 162,
+      "max_cites": 162
+    },
+    "2004": {
+      "n": 2,
+      "cites": 143,
+      "max_cites": 129
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 3,
+      "cites": 303,
+      "max_cites": 178
+    },
+    "2007": {
+      "n": 5,
+      "cites": 451,
+      "max_cites": 252
+    },
+    "2008": {
+      "n": 2,
+      "cites": 34,
+      "max_cites": 28
+    },
+    "2009": {
+      "n": 5,
+      "cites": 1052,
+      "max_cites": 710
+    },
+    "2010": {
+      "n": 4,
+      "cites": 521,
+      "max_cites": 357
+    },
+    "2011": {
+      "n": 6,
+      "cites": 191,
+      "max_cites": 49
+    },
+    "2012": {
+      "n": 3,
+      "cites": 108,
+      "max_cites": 99
+    },
+    "2013": {
+      "n": 7,
+      "cites": 274,
+      "max_cites": 152
+    },
+    "2014": {
+      "n": 6,
+      "cites": 937,
+      "max_cites": 839
+    },
+    "2015": {
+      "n": 4,
+      "cites": 185,
+      "max_cites": 69
+    },
+    "2016": {
+      "n": 6,
+      "cites": 199,
+      "max_cites": 114
+    },
+    "2017": {
+      "n": 5,
+      "cites": 84,
+      "max_cites": 29
+    },
+    "2018": {
+      "n": 13,
+      "cites": 340,
+      "max_cites": 94
+    },
+    "2019": {
+      "n": 3,
+      "cites": 93,
+      "max_cites": 57
+    },
+    "2020": {
+      "n": 5,
+      "cites": 60,
+      "max_cites": 24
+    },
+    "2021": {
+      "n": 9,
+      "cites": 115,
+      "max_cites": 19
+    },
+    "2022": {
+      "n": 10,
+      "cites": 229,
+      "max_cites": 85
+    },
+    "2023": {
+      "n": 9,
+      "cites": 247,
+      "max_cites": 206
+    },
+    "2024": {
+      "n": 15,
+      "cites": 90,
+      "max_cites": 21
+    },
+    "2025": {
+      "n": 5,
+      "cites": 35,
+      "max_cites": 32
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Humanoid robot",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.133
+        },
+        {
+          "c": "Service robot",
+          "w": 0.067
+        },
+        {
+          "c": "Flexibility (engineering)",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.183
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.133
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.083
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.083
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.184
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.104
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.096
+        },
+        {
+          "c": "Robot",
+          "w": 0.064
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.056
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 34,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.179
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.101
+        },
+        {
+          "c": "Robot",
+          "w": 0.06
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.054
+        },
+        {
+          "c": "GRASP",
+          "w": 0.048
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 36,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.192
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.124
+        },
+        {
+          "c": "Robot",
+          "w": 0.062
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.045
+        },
+        {
+          "c": "GRASP",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.196
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.113
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.062
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.041
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.041
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "IROS": 2,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "IROS": 7,
+        "ICRA": 5
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 11,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "IROS": 14,
+        "ICRA": 10,
+        "RA-L": 7,
+        "T-RO": 2,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "IROS": 19,
+        "RA-L": 7,
+        "ICRA": 6,
+        "T-RO": 2,
+        "T-Mech": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 7,
+        "RA-L": 2,
+        "RSS": 1,
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 3,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "Rüdiger Dillmann",
+          3
+        ],
+        [
+          "Karsten Berns",
+          1
+        ],
+        [
+          "Naoki Fukaya",
+          1
+        ],
+        [
+          "Shigeki Toyama",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 3.67,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Rüdiger Dillmann",
+          11
+        ],
+        [
+          "Pedram Azad",
+          5
+        ],
+        [
+          "James Kuffner",
+          2
+        ],
+        [
+          "Nikolaus Vahrenkamp",
+          2
+        ],
+        [
+          "Duc Nguyen Ly",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 4.2,
+      "unique_coauthors": 41,
+      "top_coauthors": [
+        [
+          "Rüdiger Dillmann",
+          19
+        ],
+        [
+          "Nikolaus Vahrenkamp",
+          6
+        ],
+        [
+          "Pedram Azad",
+          3
+        ],
+        [
+          "Kai Welke",
+          3
+        ],
+        [
+          "Markus Przybylski",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 4,
+      "unique_coauthors": 66,
+      "top_coauthors": [
+        [
+          "Nikolaus Vahrenkamp",
+          7
+        ],
+        [
+          "Peter Kaiser",
+          6
+        ],
+        [
+          "Christian Mandery",
+          5
+        ],
+        [
+          "You Zhou",
+          4
+        ],
+        [
+          "Martin Do",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 4.19,
+      "unique_coauthors": 78,
+      "top_coauthors": [
+        [
+          "Felix Hundhausen",
+          5
+        ],
+        [
+          "Noémie Jaquier",
+          5
+        ],
+        [
+          "You Zhou",
+          4
+        ],
+        [
+          "Raphael Grimm",
+          4
+        ],
+        [
+          "Jianfeng Gao",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 4.2,
+      "unique_coauthors": 44,
+      "top_coauthors": [
+        [
+          "Noémie Jaquier",
+          6
+        ],
+        [
+          "Franziska Krebs",
+          4
+        ],
+        [
+          "Christoph Pohl",
+          3
+        ],
+        [
+          "Miha Dezman",
+          2
+        ],
+        [
+          "Charlotte Marquardt",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.115,
+  "top_repeat_coauthors": [
+    {
+      "name": "Rüdiger Dillmann",
+      "count": 34,
+      "first_year": 1999,
+      "last_year": 2014
+    },
+    {
+      "name": "Nikolaus Vahrenkamp",
+      "count": 15,
+      "first_year": 2007,
+      "last_year": 2018
+    },
+    {
+      "name": "Noémie Jaquier",
+      "count": 11,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Pedram Azad",
+      "count": 8,
+      "first_year": 2006,
+      "last_year": 2011
+    },
+    {
+      "name": "Peter Kaiser",
+      "count": 8,
+      "first_year": 2011,
+      "last_year": 2018
+    },
+    {
+      "name": "You Zhou",
+      "count": 8,
+      "first_year": 2016,
+      "last_year": 2022
+    },
+    {
+      "name": "Markus Grotz",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2025
+    },
+    {
+      "name": "Felix Hundhausen",
+      "count": 7,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Torsten Kröger",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2024
+    },
+    {
+      "name": "Fabian Paus",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2021
+    },
+    {
+      "name": "Julia Starke",
+      "count": 6,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Christoph Pohl",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Franziska Krebs",
+      "count": 6,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "Ales Ude",
+      "count": 5,
+      "first_year": 2007,
+      "last_year": 2025
+    },
+    {
+      "name": "Martin Do",
+      "count": 5,
+      "first_year": 2010,
+      "last_year": 2016
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "You Zhou",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Christoph Pohl",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Franziska Krebs",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Christian Mandery",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Christian R. G. Dreher",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Felix Hundhausen",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jianfeng Gao",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "André Meixner",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Raphael Grimm",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Fabian Paus",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Markus Grotz",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Julia Starke",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Cornelius Klas",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Pascal Weiner",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Timo Birr",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Rainer Kartmann",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Holger Klein",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Noémie Jaquier",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 11,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Joshua A. Haustein",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Simon Ottenhaus",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Miha Dezman",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Charlotte Marquardt",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jonas Beil",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Fabian Reister",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Peter Kaiser",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Martin Do",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "David Schiebener",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Pedram Azad",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 6,
+      "we_last_author_count": 0,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Nikolaus Vahrenkamp",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 15,
+      "student_first_author_count": 5,
+      "we_last_author_count": 0,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Kai Welke",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Markus Przybylski",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Alexander Cebulla",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Stefan Ulbrich",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Andrej Gams",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Peter Pastor",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1999,
+      2008
+    ],
+    "early_mean_n_authors": 3.53,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.16
+  },
+  "citation_half_life_years": 15.0,
+  "bursts": {
+    "productivity": [
+      2018,
+      2024
+    ],
+    "impact": [
+      2009,
+      2014
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "Data-Driven Grasp Synthesis - A Survey",
+      "cites": 839,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "GRASP",
+        "Artificial intelligence",
+        "Computer science",
+        "Set (abstract data type)",
+        "Matching (statistics)"
+      ],
+      "doi": "10.1109/tro.2013.2289018",
+      "coauthors": [
+        "Jeannette Bohg",
+        "Antonio Morales",
+        "Danica Kragic"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "ICRA",
+      "title": "Learning and generalization of motor skills by learning from demonstration",
+      "cites": 710,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Generalization",
+        "Task (project management)",
+        "Computer science",
+        "Context (archaeology)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/robot.2009.5152385",
+      "coauthors": [
+        "Peter Pastor",
+        "Heiko Hoffmann",
+        "Stefan Schaal"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "T-RO",
+      "title": "Task-Specific Generalization of Discrete and Periodic Dynamic Movement Primitives",
+      "cites": 357,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Generalization",
+        "Humanoid robot",
+        "Artificial intelligence",
+        "Robot"
+      ],
+      "doi": "10.1109/tro.2010.2065430",
+      "coauthors": [
+        "Ales Ude",
+        "Andrej Gams",
+        "Jun Morimoto"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "ICRA",
+      "title": "Manipulation Planning Among Movable Obstacles",
+      "cites": 252,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Object (grammar)",
+        "Dimension (graph theory)",
+        "Motion planning",
+        "Computer science",
+        "Domain (mathematical analysis)"
+      ],
+      "doi": "10.1109/robot.2007.363986",
+      "coauthors": [
+        "Mike Stilman",
+        "Jan-Ullrich Schamburek",
+        "James Kuffner"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "IROS",
+      "title": "Design of the TUAT/Karlsruhe humanoid hand",
+      "cites": 230,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Humanoid robot",
+        "Thumb",
+        "Computer science",
+        "Robot end effector",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros.2000.895225",
+      "coauthors": [
+        "Naoki Fukaya",
+        "Shigeki Toyama",
+        "Rüdiger Dillmann"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "T-RO",
+      "title": "Deep Learning Approaches to Grasp Synthesis: A Review",
+      "cites": 206,
+      "n_authors": 12,
+      "role": "middle",
+      "concepts": [
+        "GRASP",
+        "Artificial intelligence",
+        "Computer science",
+        "Affordance",
+        "Process (computing)"
+      ],
+      "doi": "10.1109/tro.2023.3280597",
+      "coauthors": [
+        "Rhys Newbury",
+        "Morris Gu",
+        "Lachlan Chumbley",
+        "Arsalan Mousavian",
+        "Clemens Eppner",
+        "Jürgen Leitner",
+        "Jeannette Bohg",
+        "Antonio Morales",
+        "Danica Kragic",
+        "Dieter Fox",
+        "Akansel Cosgun"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "An Integrated Approach to Inverse Kinematics and Path Planning for Redundant Manipulators",
+      "cites": 178,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Configuration space",
+        "Workspace",
+        "Motion planning",
+        "Kinematics",
+        "Inverse kinematics"
+      ],
+      "doi": "10.1109/robot.2006.1641979",
+      "coauthors": [
+        "Dominik Bertram",
+        "James Kuffner",
+        "Rüdiger Dillmann"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IROS",
+      "title": "Humanoid motion planning for dual-arm manipulation and re-grasping tasks",
+      "cites": 167,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Humanoid robot",
+        "Motion planning",
+        "Inverse kinematics",
+        "Computer science",
+        "Kinematics"
+      ],
+      "doi": "10.1109/iros.2009.5354625",
+      "coauthors": [
+        "Nikolaus Vahrenkamp",
+        "Dmitry Berenson",
+        "James Kuffner",
+        "Rüdiger Dillmann"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "IROS",
+      "title": "Human-like motion of a humanoid robot arm based on a closed-form solution of the inverse kinematics problem",
+      "cites": 162,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Humanoid robot",
+        "Inverse kinematics",
+        "Workspace",
+        "Kinematics",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros.2003.1248841",
+      "coauthors": [
+        "Rüdiger Dillmann"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "Robot placement based on reachability inversion",
+      "cites": 152,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Reachability",
+        "Computer science",
+        "Workspace",
+        "Robot",
+        "Humanoid robot"
+      ],
+      "doi": "10.1109/icra.2013.6630839",
+      "coauthors": [
+        "Nikolaus Vahrenkamp",
+        "Rüdiger Dillmann"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Tamim Asfour: 27년에 걸쳐 130편, 총 6,108회 인용, h=34, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1999년 \"ARMAR: An Anthropomorphic Arm for Humanoid Service Robot\"으로 출발. 첫 500+ 인용 논문까지 10년 걸림: \"Learning and generalization of motor skills by learning from demonstration\" (2009, 710회).",
+        "초기 토픽: Humanoid robot, Computer science, Artificial intelligence. 최근 토픽: Computer science, Artificial intelligence, Human–computer interaction. 피벗 점수 0.12 → 토픽 지속형.",
+        "저자수 평균: 초기 3.5명 → 후기 4.2명 (팀 확장).",
+        "최다 인용 논문 \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839회) — 커리어 중기에 위치.",
+        "제자 후보 추정 35명 — 상위: You Zhou(2016~, 우리 마지막저자 7편), Christoph Pohl(2020~, 우리 마지막저자 6편), Franziska Krebs(2020~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "35명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Tamim Asfour: over 27 years, 130 papers, 6,108 total cites, h=34, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1999 with \"ARMAR: An Anthropomorphic Arm for Humanoid Service Robot\". First 500+ cite paper came 10 years in: \"Learning and generalization of motor skills by learning from demonstration\" (2009, 710 cites).",
+        "Early topics: Humanoid robot, Computer science, Artificial intelligence. Recent topics: Computer science, Artificial intelligence, Human–computer interaction. Pivot score 0.12 → topic-stable.",
+        "Authors per paper: early 3.5 → late 4.2 (team growth).",
+        "Peak paper \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839 cites) — fell in mid career.",
+        "35 likely students — top: You Zhou(2016~, we last-author on 7), Christoph Pohl(2020~, we last-author on 6), Franziska Krebs(2020~, we last-author on 6)."
+      ],
+      "lessons": [
+        "35 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

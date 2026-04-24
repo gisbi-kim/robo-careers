@@ -1,0 +1,1166 @@
+{
+  "name": "Alessandro De Luca",
+  "slug": "alessandro-de-luca",
+  "career_stats": {
+    "first_year": 1988,
+    "last_year": 2024,
+    "span": 37,
+    "total_papers": 98,
+    "total_cites": 8097,
+    "h_index": 43,
+    "i10_index": 91,
+    "seminal_count": 3,
+    "max_cites_single_paper": 761
+  },
+  "role_distribution": {
+    "first": 41,
+    "middle": 22,
+    "last": 35
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1988,
+      "title": "Dynamic control of robots with joint elasticity"
+    },
+    "first_100cite": {
+      "year": 1988,
+      "title": "Dynamic control of robots with joint elasticity",
+      "cites": 153,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2006,
+      "title": "Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm",
+      "cites": 761,
+      "gap_from_first": 18
+    },
+    "peak_paper": {
+      "year": 2006,
+      "title": "Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm",
+      "cites": 761
+    }
+  },
+  "year_series": {
+    "1988": {
+      "n": 1,
+      "cites": 153,
+      "max_cites": 153
+    },
+    "1989": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1990": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1991": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "1992": {
+      "n": 2,
+      "cites": 107,
+      "max_cites": 79
+    },
+    "1993": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1994": {
+      "n": 1,
+      "cites": 99,
+      "max_cites": 99
+    },
+    "1995": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "1996": {
+      "n": 3,
+      "cites": 120,
+      "max_cites": 60
+    },
+    "1997": {
+      "n": 1,
+      "cites": 47,
+      "max_cites": 47
+    },
+    "1998": {
+      "n": 3,
+      "cites": 263,
+      "max_cites": 191
+    },
+    "1999": {
+      "n": 1,
+      "cites": 246,
+      "max_cites": 246
+    },
+    "2000": {
+      "n": 3,
+      "cites": 219,
+      "max_cites": 161
+    },
+    "2001": {
+      "n": 1,
+      "cites": 20,
+      "max_cites": 20
+    },
+    "2002": {
+      "n": 5,
+      "cites": 185,
+      "max_cites": 129
+    },
+    "2003": {
+      "n": 1,
+      "cites": 287,
+      "max_cites": 287
+    },
+    "2004": {
+      "n": 3,
+      "cites": 97,
+      "max_cites": 65
+    },
+    "2005": {
+      "n": 3,
+      "cites": 468,
+      "max_cites": 383
+    },
+    "2006": {
+      "n": 3,
+      "cites": 851,
+      "max_cites": 761
+    },
+    "2007": {
+      "n": 3,
+      "cites": 162,
+      "max_cites": 80
+    },
+    "2008": {
+      "n": 8,
+      "cites": 1188,
+      "max_cites": 559
+    },
+    "2009": {
+      "n": 3,
+      "cites": 177,
+      "max_cites": 77
+    },
+    "2010": {
+      "n": 2,
+      "cites": 56,
+      "max_cites": 31
+    },
+    "2011": {
+      "n": 4,
+      "cites": 128,
+      "max_cites": 64
+    },
+    "2012": {
+      "n": 4,
+      "cites": 630,
+      "max_cites": 418
+    },
+    "2013": {
+      "n": 4,
+      "cites": 226,
+      "max_cites": 153
+    },
+    "2014": {
+      "n": 5,
+      "cites": 258,
+      "max_cites": 121
+    },
+    "2015": {
+      "n": 5,
+      "cites": 422,
+      "max_cites": 211
+    },
+    "2016": {
+      "n": 6,
+      "cites": 171,
+      "max_cites": 53
+    },
+    "2017": {
+      "n": 6,
+      "cites": 905,
+      "max_cites": 747
+    },
+    "2018": {
+      "n": 2,
+      "cites": 70,
+      "max_cites": 43
+    },
+    "2019": {
+      "n": 3,
+      "cites": 365,
+      "max_cites": 303
+    },
+    "2020": {
+      "n": 2,
+      "cites": 40,
+      "max_cites": 29
+    },
+    "2021": {
+      "n": 1,
+      "cites": 37,
+      "max_cites": 37
+    },
+    "2022": {
+      "n": 3,
+      "cites": 36,
+      "max_cites": 19
+    },
+    "2023": {
+      "n": 3,
+      "cites": 32,
+      "max_cites": 19
+    },
+    "2024": {
+      "n": 1,
+      "cites": 13,
+      "max_cites": 13
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1988,
+      "end": 1992,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.15
+        },
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Iterative learning control",
+          "w": 0.1
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 1993,
+      "end": 1997,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.167
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.1
+        },
+        {
+          "c": "Holonomic",
+          "w": 0.067
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.067
+        },
+        {
+          "c": "Nonholonomic system",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.138
+        },
+        {
+          "c": "Robot",
+          "w": 0.108
+        },
+        {
+          "c": "Underactuation",
+          "w": 0.092
+        },
+        {
+          "c": "Computer science",
+          "w": 0.077
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.077
+        }
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.115
+        },
+        {
+          "c": "Robot",
+          "w": 0.098
+        },
+        {
+          "c": "Computer science",
+          "w": 0.082
+        },
+        {
+          "c": "Actuator",
+          "w": 0.049
+        },
+        {
+          "c": "Acceleration",
+          "w": 0.049
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.114
+        },
+        {
+          "c": "Robot",
+          "w": 0.105
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.086
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.048
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.038
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.152
+        },
+        {
+          "c": "Computer science",
+          "w": 0.152
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.048
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.04
+        },
+        {
+          "c": "Contact force",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.127
+        },
+        {
+          "c": "Robot",
+          "w": 0.127
+        },
+        {
+          "c": "Redundancy (engineering)",
+          "w": 0.091
+        },
+        {
+          "c": "Cartesian coordinate system",
+          "w": 0.073
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.073
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Torque",
+          "w": 0.05
+        },
+        {
+          "c": "Contact force",
+          "w": 0.05
+        },
+        {
+          "c": "Collision",
+          "w": 0.05
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1988,
+      "end": 1992,
+      "mix": {
+        "ICRA": 4
+      }
+    },
+    {
+      "start": 1993,
+      "end": 1997,
+      "mix": {
+        "ICRA": 6
+      }
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 8,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "IROS": 12,
+        "ICRA": 10,
+        "T-RO": 2,
+        "RA-L": 2
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "RA-L": 9,
+        "ICRA": 2
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "mix": {
+        "ICRA": 2,
+        "RA-L": 1,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1988,
+      "end": 1992,
+      "mean_n_authors": 2,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "Francesco Mataloni",
+          1
+        ],
+        [
+          "Leonardo Lanari",
+          1
+        ],
+        [
+          "Giuseppe Oriolo",
+          1
+        ],
+        [
+          "Giovanni Ulivi",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1993,
+      "end": 1997,
+      "mean_n_authors": 2.33,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Giuseppe Oriolo",
+          4
+        ],
+        [
+          "Raffaella Mattone",
+          3
+        ],
+        [
+          "Alberto Bemporad",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 2.31,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Giuseppe Oriolo",
+          6
+        ],
+        [
+          "Stefano Iannitti",
+          4
+        ],
+        [
+          "Pasquale Lucibello",
+          1
+        ],
+        [
+          "Stefano Panzieri",
+          1
+        ],
+        [
+          "Giovanni Ulivi",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 2.62,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Raffaella Mattone",
+          6
+        ],
+        [
+          "Paolo Robuffo Giordano",
+          4
+        ],
+        [
+          "Giuseppe Oriolo",
+          2
+        ],
+        [
+          "Loredana Zollo",
+          1
+        ],
+        [
+          "Bruno Siciliano",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 3.19,
+      "unique_coauthors": 24,
+      "top_coauthors": [
+        [
+          "Fabrizio Flacco",
+          9
+        ],
+        [
+          "Paolo Robuffo Giordano",
+          5
+        ],
+        [
+          "Giuseppe Oriolo",
+          5
+        ],
+        [
+          "Oussama Khatib",
+          3
+        ],
+        [
+          "Alin Albu-Schäffer",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 2.69,
+      "unique_coauthors": 21,
+      "top_coauthors": [
+        [
+          "Fabrizio Flacco",
+          14
+        ],
+        [
+          "Gabriele Buondonno",
+          5
+        ],
+        [
+          "Emanuele Magrini",
+          4
+        ],
+        [
+          "Claudio Gaz",
+          3
+        ],
+        [
+          "Milad Geravand",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 4.55,
+      "unique_coauthors": 33,
+      "top_coauthors": [
+        [
+          "Khaled Al Khudir",
+          4
+        ],
+        [
+          "Claudio Gaz",
+          3
+        ],
+        [
+          "Maram Khatib",
+          2
+        ],
+        [
+          "Leonardo Meli",
+          1
+        ],
+        [
+          "Claudio Pacchierotti",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "mean_n_authors": 4.75,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Pietro Pustina",
+          3
+        ],
+        [
+          "Cosimo Della Santina",
+          3
+        ],
+        [
+          "Dario Zurlo",
+          1
+        ],
+        [
+          "Tom Heitmann",
+          1
+        ],
+        [
+          "Merlin Morlock",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.3,
+  "top_repeat_coauthors": [
+    {
+      "name": "Fabrizio Flacco",
+      "count": 23,
+      "first_year": 2009,
+      "last_year": 2017
+    },
+    {
+      "name": "Giuseppe Oriolo",
+      "count": 19,
+      "first_year": 1992,
+      "last_year": 2022
+    },
+    {
+      "name": "Paolo Robuffo Giordano",
+      "count": 11,
+      "first_year": 2002,
+      "last_year": 2019
+    },
+    {
+      "name": "Raffaella Mattone",
+      "count": 10,
+      "first_year": 1995,
+      "last_year": 2009
+    },
+    {
+      "name": "Claudio Gaz",
+      "count": 6,
+      "first_year": 2014,
+      "last_year": 2022
+    },
+    {
+      "name": "Alin Albu-Schäffer",
+      "count": 5,
+      "first_year": 2006,
+      "last_year": 2021
+    },
+    {
+      "name": "Emanuele Magrini",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "Gabriele Buondonno",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2017
+    },
+    {
+      "name": "Khaled Al Khudir",
+      "count": 5,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "Stefano Iannitti",
+      "count": 4,
+      "first_year": 1999,
+      "last_year": 2002
+    },
+    {
+      "name": "Oussama Khatib",
+      "count": 4,
+      "first_year": 2012,
+      "last_year": 2015
+    },
+    {
+      "name": "Pietro Pustina",
+      "count": 4,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "Cosimo Della Santina",
+      "count": 4,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "Sami Haddadin",
+      "count": 3,
+      "first_year": 2006,
+      "last_year": 2017
+    },
+    {
+      "name": "Gerd Hirzinger",
+      "count": 3,
+      "first_year": 2006,
+      "last_year": 2008
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Fabrizio Flacco",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 18,
+      "total_copubs": 23,
+      "student_first_author_count": 13,
+      "we_last_author_count": 11,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Emanuele Magrini",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Khaled Al Khudir",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Claudio Gaz",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Gabriele Buondonno",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Maram Khatib",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Pietro Pustina",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Milad Geravand",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Sami Haddadin",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2017
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1988,
+      1997
+    ],
+    "early_mean_n_authors": 2.2,
+    "late_window": [
+      2015,
+      2024
+    ],
+    "late_mean_n_authors": 3.69
+  },
+  "citation_half_life_years": 18,
+  "bursts": {
+    "productivity": [
+      2008
+    ],
+    "impact": [
+      2006,
+      2008,
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm",
+      "cites": 761,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Collision",
+        "Workspace",
+        "Collision detection",
+        "Simulation"
+      ],
+      "doi": "10.1109/iros.2006.282053",
+      "coauthors": [
+        "Alin Albu-Schäffer",
+        "Sami Haddadin",
+        "Gerd Hirzinger"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-RO",
+      "title": "Robot Collisions: A Survey on Detection, Isolation, and Identification",
+      "cites": 747,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Context (archaeology)",
+        "Workspace",
+        "Flexibility (engineering)",
+        "Identification (biology)"
+      ],
+      "doi": "10.1109/tro.2017.2723903",
+      "coauthors": [
+        "Sami Haddadin",
+        "Alin Albu-Schäffer"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IROS",
+      "title": "Collision detection and reaction: A contribution to safe physical Human-Robot Interaction",
+      "cites": 559,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Human–robot interaction",
+        "Computer science",
+        "Collision",
+        "Robot",
+        "Collision detection"
+      ],
+      "doi": "10.1109/iros.2008.4650764",
+      "coauthors": [
+        "Sami Haddadin",
+        "Alin Albu-Schäffer",
+        "Gerd Hirzinger"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "Depth space approach to human-robot collision avoidance",
+      "cites": 418,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Collision avoidance",
+        "Robot",
+        "Obstacle avoidance",
+        "Computer science",
+        "Collision"
+      ],
+      "doi": "10.1109/icra.2012.6225245",
+      "coauthors": [
+        "Fabrizio Flacco",
+        "Torsten Kröger",
+        "Oussama Khatib"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Sensorless Robot Collision Detection and Hybrid Force/Motion Control",
+      "cites": 383,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Collision detection",
+        "Fault detection and isolation",
+        "Obstacle",
+        "Collision"
+      ],
+      "doi": "10.1109/robot.2005.1570247",
+      "coauthors": [
+        "Raffaella Mattone"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Dynamic Identification of the Franka Emika Panda Robot With Retrieval of Feasible Parameters Using Penalty-Based Optimization",
+      "cites": 303,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Inverse dynamics",
+        "Computer science",
+        "Mathematical optimization",
+        "Nonlinear system",
+        "Inertia"
+      ],
+      "doi": "10.1109/lra.2019.2931248",
+      "coauthors": [
+        "Claudio Gaz",
+        "Marco Cognetti",
+        "Alexander Antonio Oliva",
+        "Paolo Robuffo Giordano"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "ICRA",
+      "title": "Actuator failure detection and isolation using generalized momenta",
+      "cites": 287,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Actuator",
+        "Robot",
+        "Control theory (sociology)",
+        "Acceleration",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2003.1241665",
+      "coauthors": [
+        "Raffaella Mattone"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "Trajectory Tracking Control of a Four-Wheel Differentially Driven Mobile Robot",
+      "cites": 246,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Control theory (sociology)",
+        "Mobile robot",
+        "Trajectory",
+        "Computer science",
+        "Linearization"
+      ],
+      "doi": "10.1109/robot.1999.773994",
+      "coauthors": [
+        "Luca Caracciolo",
+        "Stefano Iannitti"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "T-RO",
+      "title": "Control of Redundant Robots Under Hard Joint Constraints: Saturation in the Null Space",
+      "cites": 211,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Computer science",
+        "Quadratic programming",
+        "Kinematics",
+        "Norm (philosophy)"
+      ],
+      "doi": "10.1109/tro.2015.2418582",
+      "coauthors": [
+        "Fabrizio Flacco",
+        "Oussama Khatib"
+      ]
+    },
+    {
+      "year": 1998,
+      "venue": "ICRA",
+      "title": "A General Algorithm for Dynamic Feedback Linearization of Robots with Elastic Joints",
+      "cites": 191,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Feedback linearization",
+        "Decoupling (probability)",
+        "Control theory (sociology)",
+        "Linearization",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.1998.677024",
+      "coauthors": [
+        "Pasquale Lucibello"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Alessandro De Luca: 37년에 걸쳐 98편, 총 8,097회 인용, h=43, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "1988년 \"Dynamic control of robots with joint elasticity\"으로 출발. 첫 500+ 인용 논문까지 18년 걸림: \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761회).",
+        "초기 토픽: Control theory (sociology), Computer science, Robot. 최근 토픽: Computer science, Robot, Torque. 피벗 점수 0.30 → 점진적 이동형.",
+        "저자수 평균: 초기 2.2명 → 후기 3.7명 (팀 확장).",
+        "최다 인용 논문 \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761회) — 커리어 중기에 위치.",
+        "제자 후보 추정 9명 — 상위: Fabrizio Flacco(2009~, 우리 마지막저자 11편), Emanuele Magrini(2014~, 우리 마지막저자 5편), Khaled Al Khudir(2017~, 우리 마지막저자 5편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Alessandro De Luca: over 37 years, 98 papers, 8,097 total cites, h=43, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1988 with \"Dynamic control of robots with joint elasticity\". First 500+ cite paper came 18 years in: \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761 cites).",
+        "Early topics: Control theory (sociology), Computer science, Robot. Recent topics: Computer science, Robot, Torque. Pivot score 0.30 → gradual shift.",
+        "Authors per paper: early 2.2 → late 3.7 (team growth).",
+        "Peak paper \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761 cites) — fell in mid career.",
+        "9 likely students — top: Fabrizio Flacco(2009~, we last-author on 11), Emanuele Magrini(2014~, we last-author on 5), Khaled Al Khudir(2017~, we last-author on 5)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader."
+      ]
+    }
+  }
+}

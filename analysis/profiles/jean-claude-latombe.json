@@ -1,0 +1,1008 @@
+{
+  "name": "Jean-Claude Latombe",
+  "slug": "jean-claude-latombe",
+  "career_stats": {
+    "first_year": 1989,
+    "last_year": 2016,
+    "span": 28,
+    "total_papers": 55,
+    "total_cites": 7648,
+    "h_index": 36,
+    "i10_index": 49,
+    "seminal_count": 3,
+    "max_cites_single_paper": 987
+  },
+  "role_distribution": {
+    "last": 39,
+    "first": 2,
+    "middle": 14
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1989,
+      "title": "Contingency-Tolerant Robot Motion Planning and Control"
+    },
+    "first_100cite": {
+      "year": 1990,
+      "title": "A Monte-Carlo algorithm for path planning with many degrees of freedom",
+      "cites": 243,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 1991,
+      "title": "Robot Motion Planning: A Distributed Representation Approach",
+      "cites": 987,
+      "gap_from_first": 2
+    },
+    "peak_paper": {
+      "year": 1991,
+      "title": "Robot Motion Planning: A Distributed Representation Approach",
+      "cites": 987
+    }
+  },
+  "year_series": {
+    "1989": {
+      "n": 2,
+      "cites": 20,
+      "max_cites": 14
+    },
+    "1990": {
+      "n": 3,
+      "cites": 460,
+      "max_cites": 243
+    },
+    "1991": {
+      "n": 5,
+      "cites": 1187,
+      "max_cites": 987
+    },
+    "1992": {
+      "n": 2,
+      "cites": 101,
+      "max_cites": 59
+    },
+    "1993": {
+      "n": 1,
+      "cites": 7,
+      "max_cites": 7
+    },
+    "1994": {
+      "n": 4,
+      "cites": 635,
+      "max_cites": 412
+    },
+    "1995": {
+      "n": 4,
+      "cites": 152,
+      "max_cites": 62
+    },
+    "1996": {
+      "n": 2,
+      "cites": 449,
+      "max_cites": 417
+    },
+    "1997": {
+      "n": 7,
+      "cites": 1267,
+      "max_cites": 546
+    },
+    "1998": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1999": {
+      "n": 1,
+      "cites": 266,
+      "max_cites": 266
+    },
+    "2000": {
+      "n": 1,
+      "cites": 117,
+      "max_cites": 117
+    },
+    "2001": {
+      "n": 1,
+      "cites": 42,
+      "max_cites": 42
+    },
+    "2002": {
+      "n": 6,
+      "cites": 1769,
+      "max_cites": 767
+    },
+    "2003": {
+      "n": 3,
+      "cites": 204,
+      "max_cites": 114
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 3,
+      "cites": 174,
+      "max_cites": 105
+    },
+    "2006": {
+      "n": 4,
+      "cites": 413,
+      "max_cites": 256
+    },
+    "2007": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2008": {
+      "n": 1,
+      "cites": 205,
+      "max_cites": 205
+    },
+    "2009": {
+      "n": 1,
+      "cites": 32,
+      "max_cites": 32
+    },
+    "2010": {
+      "n": 1,
+      "cites": 132,
+      "max_cites": 132
+    },
+    "2011": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2012": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2013": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2014": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "2015": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2016": {
+      "n": 1,
+      "cites": 10,
+      "max_cites": 10
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1989,
+      "end": 1993,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.154
+        },
+        {
+          "c": "Robot",
+          "w": 0.108
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.062
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.062
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.165
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.118
+        },
+        {
+          "c": "Robot",
+          "w": 0.106
+        },
+        {
+          "c": "Path (computing)",
+          "w": 0.059
+        },
+        {
+          "c": "Planner",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Robot",
+          "w": 0.133
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.133
+        },
+        {
+          "c": "Probabilistic roadmap",
+          "w": 0.067
+        },
+        {
+          "c": "Workspace",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.125
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.1
+        },
+        {
+          "c": "Planner",
+          "w": 0.075
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.075
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.133
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.067
+        },
+        {
+          "c": "Terrain",
+          "w": 0.067
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2016,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.2
+        },
+        {
+          "c": "Object detection",
+          "w": 0.1
+        },
+        {
+          "c": "False positive paradox",
+          "w": 0.1
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1989,
+      "end": 1993,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 4,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "mix": {
+        "ICRA": 13,
+        "IJRR": 3,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "ICRA": 8,
+        "IJRR": 4
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "IJRR": 3,
+        "IROS": 2,
+        "ICRA": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "IJRR": 2,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2016,
+      "mix": {
+        "ICRA": 1,
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1989,
+      "end": 1993,
+      "mean_n_authors": 2.46,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Wonyun Choi",
+          3
+        ],
+        [
+          "David Zhu",
+          3
+        ],
+        [
+          "Jérôme Barraquand",
+          3
+        ],
+        [
+          "Shashank Shekhar",
+          2
+        ],
+        [
+          "Anthony Lazanas",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "mean_n_authors": 3.41,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Lydia E. Kavraki",
+          6
+        ],
+        [
+          "Rajeev Motwani",
+          5
+        ],
+        [
+          "Tsai-Yen Li",
+          3
+        ],
+        [
+          "Leonidas J. Guibas",
+          2
+        ],
+        [
+          "Randall H. Wilson",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 2.83,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Stephen M. Rock",
+          4
+        ],
+        [
+          "Gildardo Sánchez-Ante",
+          3
+        ],
+        [
+          "Robert Kindel",
+          2
+        ],
+        [
+          "David Hsu",
+          2
+        ],
+        [
+          "Héctor H. González-Baños",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 3.5,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Mitul Saha",
+          3
+        ],
+        [
+          "Kris K. Hauser",
+          3
+        ],
+        [
+          "Timothy Bretl",
+          3
+        ],
+        [
+          "David Hsu",
+          2
+        ],
+        [
+          "Gildardo Sánchez-Ante",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 4.33,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Kris K. Hauser",
+          2
+        ],
+        [
+          "Benoit Morisset",
+          1
+        ],
+        [
+          "Radu Bogdan Rusu",
+          1
+        ],
+        [
+          "Aravind Sundaresan",
+          1
+        ],
+        [
+          "Motilal Agrawal",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2016,
+      "mean_n_authors": 4,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Israel Becerra",
+          2
+        ],
+        [
+          "Luis M. Valentín-Coronado",
+          2
+        ],
+        [
+          "Rafael Murrieta-Cid",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.305,
+  "top_repeat_coauthors": [
+    {
+      "name": "Lydia E. Kavraki",
+      "count": 6,
+      "first_year": 1994,
+      "last_year": 1997
+    },
+    {
+      "name": "David Hsu",
+      "count": 6,
+      "first_year": 1997,
+      "last_year": 2012
+    },
+    {
+      "name": "Rajeev Motwani",
+      "count": 5,
+      "first_year": 1996,
+      "last_year": 1997
+    },
+    {
+      "name": "Gildardo Sánchez-Ante",
+      "count": 5,
+      "first_year": 2002,
+      "last_year": 2006
+    },
+    {
+      "name": "Kris K. Hauser",
+      "count": 5,
+      "first_year": 2005,
+      "last_year": 2010
+    },
+    {
+      "name": "Jérôme Barraquand",
+      "count": 4,
+      "first_year": 1990,
+      "last_year": 1997
+    },
+    {
+      "name": "Stephen M. Rock",
+      "count": 4,
+      "first_year": 2000,
+      "last_year": 2003
+    },
+    {
+      "name": "Timothy Bretl",
+      "count": 4,
+      "first_year": 2003,
+      "last_year": 2008
+    },
+    {
+      "name": "Mitul Saha",
+      "count": 4,
+      "first_year": 2003,
+      "last_year": 2006
+    },
+    {
+      "name": "Wonyun Choi",
+      "count": 3,
+      "first_year": 1989,
+      "last_year": 1991
+    },
+    {
+      "name": "David Zhu",
+      "count": 3,
+      "first_year": 1989,
+      "last_year": 1991
+    },
+    {
+      "name": "Tsai-Yen Li",
+      "count": 3,
+      "first_year": 1995,
+      "last_year": 1997
+    },
+    {
+      "name": "Héctor H. González-Baños",
+      "count": 3,
+      "first_year": 1997,
+      "last_year": 2002
+    },
+    {
+      "name": "Shashank Shekhar",
+      "count": 2,
+      "first_year": 1989,
+      "last_year": 1991
+    },
+    {
+      "name": "Yoshihito Koga",
+      "count": 2,
+      "first_year": 1992,
+      "last_year": 1994
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Gildardo Sánchez-Ante",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Kris K. Hauser",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Mitul Saha",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Timothy Bretl",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Tsai-Yen Li",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1997
+    },
+    {
+      "name": "Craig Becker",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 1997
+    },
+    {
+      "name": "Steven M. LaValle",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 1997
+    },
+    {
+      "name": "David Hsu",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Leonidas J. Guibas",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 1997
+    },
+    {
+      "name": "Robert Kindel",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2002
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1989,
+      1998
+    ],
+    "early_mean_n_authors": 3,
+    "late_window": [
+      2007,
+      2016
+    ],
+    "late_mean_n_authors": 4.33
+  },
+  "citation_half_life_years": 29.0,
+  "bursts": {
+    "productivity": [
+      1997,
+      2002
+    ],
+    "impact": [
+      1991,
+      1997,
+      2002
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 1991,
+      "venue": "IJRR",
+      "title": "Robot Motion Planning: A Distributed Representation Approach",
+      "cites": 987,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Configuration space",
+        "Motion planning",
+        "Maxima and minima",
+        "Robot",
+        "Computer science"
+      ],
+      "doi": "10.1177/027836499101000604",
+      "coauthors": [
+        "Jérôme Barraquand"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IJRR",
+      "title": "Randomized Kinodynamic Motion Planning with Moving Obstacles",
+      "cites": 767,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Trajectory",
+        "Robot",
+        "Motion planning",
+        "Probabilistic roadmap",
+        "Kinematics"
+      ],
+      "doi": "10.1177/027836402320556421",
+      "coauthors": [
+        "David Hsu",
+        "Robert Kindel",
+        "Stephen M. Rock"
+      ]
+    },
+    {
+      "year": 1997,
+      "venue": "ICRA",
+      "title": "Path planning in expansive configuration spaces",
+      "cites": 546,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Maintainability",
+        "Configuration space",
+        "Expansive",
+        "Computer science",
+        "Motion planning"
+      ],
+      "doi": "10.1109/robot.1997.619371",
+      "coauthors": [
+        "David Hsu",
+        "Rajeev Motwani"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IJRR",
+      "title": "Navigation Strategies for Exploring Indoor Environments",
+      "cites": 451,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Mobile robot",
+        "Artificial intelligence",
+        "Computer science",
+        "Robotics",
+        "Robot"
+      ],
+      "doi": "10.1177/0278364902021010834",
+      "coauthors": [
+        "Héctor H. González-Baños"
+      ]
+    },
+    {
+      "year": 1996,
+      "venue": "ICRA",
+      "title": "Analysis of probabilistic roadmaps for path planning",
+      "cites": 417,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Probabilistic roadmap",
+        "Probabilistic logic",
+        "Motion planning",
+        "Path (computing)",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.1996.509171",
+      "coauthors": [
+        "Lydia E. Kavraki",
+        "Mihail N. Kolountzakis"
+      ]
+    },
+    {
+      "year": 1994,
+      "venue": "ICRA",
+      "title": "Randomized Preprocessing of Configuration Space for Fast Path Planning",
+      "cites": 412,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Preprocessor",
+        "Motion planning",
+        "Computer science",
+        "Robot",
+        "Path (computing)"
+      ],
+      "doi": "10.1109/robot.1994.350966",
+      "coauthors": [
+        "Lydia E. Kavraki"
+      ]
+    },
+    {
+      "year": 1997,
+      "venue": "IJRR",
+      "title": "A Random Sampling Scheme for Path Planning",
+      "cites": 276,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Scheme (mathematics)",
+        "Path (computing)",
+        "Motion planning",
+        "Robot",
+        "Relation (database)"
+      ],
+      "doi": "10.1177/027836499701600604",
+      "coauthors": [
+        "Jérôme Barraquand",
+        "Lydia E. Kavraki",
+        "Tsai-Yen Li",
+        "Rajeev Motwani",
+        "Prabhakar Raghavan"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "IJRR",
+      "title": "Motion Planning: A Journey of Robots, Molecules, Digital Actors, and Other Artifacts",
+      "cites": 266,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Workspace",
+        "Robotics",
+        "Robot",
+        "Motion planning",
+        "Crawling"
+      ],
+      "doi": "10.1177/02783649922067753",
+      "coauthors": []
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "On the Probabilistic Foundations of Probabilistic Roadmap Planning",
+      "cites": 256,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Probabilistic roadmap",
+        "Probabilistic logic",
+        "Workspace",
+        "Planner",
+        "Measure (data warehouse)"
+      ],
+      "doi": "10.1177/0278364906067174",
+      "coauthors": [
+        "David Hsu",
+        "Hanna Kurniawati"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IJRR",
+      "title": "On Delaying Collision Checking in PRM Planning",
+      "cites": 248,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Probabilistic roadmap",
+        "Collision",
+        "Motion planning",
+        "Computer science",
+        "Collision detection"
+      ],
+      "doi": "10.1177/027836402320556458",
+      "coauthors": [
+        "Gildardo Sánchez-Ante"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Jean-Claude Latombe: 28년에 걸쳐 55편, 총 7,648회 인용, h=36, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "1989년 \"Contingency-Tolerant Robot Motion Planning and Control\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"Robot Motion Planning: A Distributed Representation Approach\" (1991, 987회).",
+        "초기 토픽: Computer science, Robot, Motion planning. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.30 → 점진적 이동형.",
+        "저자수 평균: 초기 3.0명 → 후기 4.3명 (팀 확장).",
+        "최다 인용 논문 \"Robot Motion Planning: A Distributed Representation Approach\" (1991, 987회) — 커리어 초기에 위치.",
+        "제자 후보 추정 10명 — 상위: Gildardo Sánchez-Ante(2002~, 우리 마지막저자 4편), Kris K. Hauser(2005~, 우리 마지막저자 3편), Mitul Saha(2003~, 우리 마지막저자 3편)."
+      ],
+      "lessons": [
+        "초기 2년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "10명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Jean-Claude Latombe: over 28 years, 55 papers, 7,648 total cites, h=36, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1989 with \"Contingency-Tolerant Robot Motion Planning and Control\". First 500+ cite paper came 2 years in: \"Robot Motion Planning: A Distributed Representation Approach\" (1991, 987 cites).",
+        "Early topics: Computer science, Robot, Motion planning. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.30 → gradual shift.",
+        "Authors per paper: early 3.0 → late 4.3 (team growth).",
+        "Peak paper \"Robot Motion Planning: A Distributed Representation Approach\" (1991, 987 cites) — fell in early career.",
+        "10 likely students — top: Gildardo Sánchez-Ante(2002~, we last-author on 4), Kris K. Hauser(2005~, we last-author on 3), Mitul Saha(2003~, we last-author on 3)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 2 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "10 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1368 @@
+{
+  "name": "Yoshihiko Nakamura",
+  "slug": "yoshihiko-nakamura",
+  "career_stats": {
+    "first_year": 1987,
+    "last_year": 2025,
+    "span": 39,
+    "total_papers": 191,
+    "total_cites": 8336,
+    "h_index": 47,
+    "i10_index": 133,
+    "seminal_count": 0,
+    "max_cites_single_paper": 460
+  },
+  "role_distribution": {
+    "first": 17,
+    "last": 147,
+    "middle": 27
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1987,
+      "title": "Mechanics of coordinative manipulation by multiple robotic mechanisms"
+    },
+    "first_100cite": {
+      "year": 1987,
+      "title": "Mechanics of coordinative manipulation by multiple robotic mechanisms",
+      "cites": 230,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2002,
+      "title": "Realtime Humanoid Motion Generation through ZMP Manipulation Based on Inverted Pendulum Control",
+      "cites": 460
+    }
+  },
+  "year_series": {
+    "1987": {
+      "n": 1,
+      "cites": 230,
+      "max_cites": 230
+    },
+    "1988": {
+      "n": 1,
+      "cites": 34,
+      "max_cites": 34
+    },
+    "1989": {
+      "n": 3,
+      "cites": 415,
+      "max_cites": 335
+    },
+    "1990": {
+      "n": 2,
+      "cites": 357,
+      "max_cites": 315
+    },
+    "1991": {
+      "n": 4,
+      "cites": 189,
+      "max_cites": 130
+    },
+    "1992": {
+      "n": 2,
+      "cites": 87,
+      "max_cites": 85
+    },
+    "1993": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "1994": {
+      "n": 2,
+      "cites": 156,
+      "max_cites": 86
+    },
+    "1995": {
+      "n": 2,
+      "cites": 78,
+      "max_cites": 62
+    },
+    "1996": {
+      "n": 2,
+      "cites": 88,
+      "max_cites": 57
+    },
+    "1997": {
+      "n": 3,
+      "cites": 50,
+      "max_cites": 34
+    },
+    "1998": {
+      "n": 4,
+      "cites": 32,
+      "max_cites": 18
+    },
+    "1999": {
+      "n": 7,
+      "cites": 305,
+      "max_cites": 230
+    },
+    "2000": {
+      "n": 6,
+      "cites": 169,
+      "max_cites": 57
+    },
+    "2001": {
+      "n": 11,
+      "cites": 586,
+      "max_cites": 246
+    },
+    "2002": {
+      "n": 11,
+      "cites": 1080,
+      "max_cites": 460
+    },
+    "2003": {
+      "n": 6,
+      "cites": 156,
+      "max_cites": 45
+    },
+    "2004": {
+      "n": 6,
+      "cites": 360,
+      "max_cites": 328
+    },
+    "2005": {
+      "n": 11,
+      "cites": 452,
+      "max_cites": 156
+    },
+    "2006": {
+      "n": 5,
+      "cites": 148,
+      "max_cites": 52
+    },
+    "2007": {
+      "n": 8,
+      "cites": 151,
+      "max_cites": 38
+    },
+    "2008": {
+      "n": 13,
+      "cites": 578,
+      "max_cites": 211
+    },
+    "2009": {
+      "n": 16,
+      "cites": 486,
+      "max_cites": 111
+    },
+    "2010": {
+      "n": 13,
+      "cites": 667,
+      "max_cites": 330
+    },
+    "2011": {
+      "n": 8,
+      "cites": 93,
+      "max_cites": 38
+    },
+    "2012": {
+      "n": 8,
+      "cites": 286,
+      "max_cites": 221
+    },
+    "2013": {
+      "n": 8,
+      "cites": 138,
+      "max_cites": 54
+    },
+    "2014": {
+      "n": 5,
+      "cites": 147,
+      "max_cites": 112
+    },
+    "2015": {
+      "n": 7,
+      "cites": 358,
+      "max_cites": 107
+    },
+    "2016": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2017": {
+      "n": 3,
+      "cites": 178,
+      "max_cites": 113
+    },
+    "2018": {
+      "n": 3,
+      "cites": 39,
+      "max_cites": 34
+    },
+    "2019": {
+      "n": 3,
+      "cites": 24,
+      "max_cites": 18
+    },
+    "2020": {
+      "n": 3,
+      "cites": 208,
+      "max_cites": 201
+    },
+    "2021": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2022": {
+      "n": 2,
+      "cites": 6,
+      "max_cites": 4
+    },
+    "2023": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2024": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2025": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1987,
+      "end": 1991,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.127
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.091
+        },
+        {
+          "c": "Nonholonomic system",
+          "w": 0.073
+        },
+        {
+          "c": "Stability (learning theory)",
+          "w": 0.036
+        },
+        {
+          "c": "Redundancy (engineering)",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 1992,
+      "end": 1996,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Nonholonomic system",
+          "w": 0.111
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.111
+        },
+        {
+          "c": "Computer science",
+          "w": 0.067
+        },
+        {
+          "c": "Nonlinear system",
+          "w": 0.044
+        },
+        {
+          "c": "Space (punctuation)",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "n_papers": 31,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.116
+        },
+        {
+          "c": "Robot",
+          "w": 0.065
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.065
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.052
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.045
+        }
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 39,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.154
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.097
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.067
+        },
+        {
+          "c": "Robot",
+          "w": 0.051
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.041
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 58,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.156
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.083
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.073
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.049
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.042
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.143
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.057
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.057
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.043
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.117
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.067
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.05
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.05
+        },
+        {
+          "c": "Inverted pendulum",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Controllability",
+          "w": 0.067
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Actuator",
+          "w": 0.067
+        },
+        {
+          "c": "Mechanism (biology)",
+          "w": 0.067
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1987,
+      "end": 1991,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1992,
+      "end": 1996,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "mix": {
+        "ICRA": 18,
+        "IROS": 13
+      }
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "ICRA": 24,
+        "IROS": 11,
+        "IJRR": 2,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "ICRA": 24,
+        "IROS": 23,
+        "IJRR": 5,
+        "RSS": 3,
+        "T-RO": 3
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 7,
+        "RSS": 3,
+        "IJRR": 3,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "IROS": 7,
+        "ICRA": 3,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "IROS": 2,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1987,
+      "end": 1991,
+      "mean_n_authors": 2.27,
+      "unique_coauthors": 10,
+      "top_coauthors": [
+        [
+          "Kiyoshi Nagai",
+          2
+        ],
+        [
+          "Tsuneo Yoshikawa",
+          2
+        ],
+        [
+          "Modjtaba Ghodoussi",
+          2
+        ],
+        [
+          "Ranjan Mukherjee",
+          2
+        ],
+        [
+          "Ymgti Zu",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1992,
+      "end": 1996,
+      "mean_n_authors": 2.78,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Ole Jakob Sørdalen",
+          2
+        ],
+        [
+          "Woojin Chung",
+          2
+        ],
+        [
+          "K. Yoshimoto",
+          2
+        ],
+        [
+          "Takahiro Suzuki",
+          2
+        ],
+        [
+          "Ranjan Mukherjee",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "mean_n_authors": 3.13,
+      "unique_coauthors": 44,
+      "top_coauthors": [
+        [
+          "Katsu Yamane",
+          7
+        ],
+        [
+          "Masafumi Okada",
+          4
+        ],
+        [
+          "Woojin Chung",
+          3
+        ],
+        [
+          "Qiang Huang",
+          3
+        ],
+        [
+          "Takahiro Suzuki",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 2.87,
+      "unique_coauthors": 37,
+      "top_coauthors": [
+        [
+          "Katsu Yamane",
+          10
+        ],
+        [
+          "Masafumi Okada",
+          7
+        ],
+        [
+          "Tomomichi Sugihara",
+          7
+        ],
+        [
+          "Tetsunari Inamura",
+          4
+        ],
+        [
+          "Yusuke Fujita",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 3,
+      "unique_coauthors": 42,
+      "top_coauthors": [
+        [
+          "Wataru Takano",
+          13
+        ],
+        [
+          "Katsu Yamane",
+          11
+        ],
+        [
+          "Dana Kulic",
+          11
+        ],
+        [
+          "Dongheui Lee",
+          10
+        ],
+        [
+          "Ko Ayusawa",
+          9
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 3.14,
+      "unique_coauthors": 35,
+      "top_coauthors": [
+        [
+          "Quang-Cuong Pham",
+          7
+        ],
+        [
+          "Wataru Takano",
+          5
+        ],
+        [
+          "Hiroshi Kaminaga",
+          4
+        ],
+        [
+          "Stéphane Caron",
+          4
+        ],
+        [
+          "Ko Ayusawa",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 4.83,
+      "unique_coauthors": 31,
+      "top_coauthors": [
+        [
+          "Yosuke Ikegami",
+          4
+        ],
+        [
+          "Quang-Cuong Pham",
+          2
+        ],
+        [
+          "Stéphane Caron",
+          2
+        ],
+        [
+          "Tianyi Ko",
+          2
+        ],
+        [
+          "Ko Ayusawa",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 5.33,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Ko Yamamoto",
+          2
+        ],
+        [
+          "Mitsuo Komagata",
+          1
+        ],
+        [
+          "Yutaro Imashiro",
+          1
+        ],
+        [
+          "Ryoya Suzuki",
+          1
+        ],
+        [
+          "Kento Oishi",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.291,
+  "top_repeat_coauthors": [
+    {
+      "name": "Katsu Yamane",
+      "count": 28,
+      "first_year": 1998,
+      "last_year": 2010
+    },
+    {
+      "name": "Wataru Takano",
+      "count": 21,
+      "first_year": 2006,
+      "last_year": 2019
+    },
+    {
+      "name": "Ko Ayusawa",
+      "count": 14,
+      "first_year": 2008,
+      "last_year": 2018
+    },
+    {
+      "name": "Dongheui Lee",
+      "count": 13,
+      "first_year": 2005,
+      "last_year": 2012
+    },
+    {
+      "name": "Dana Kulic",
+      "count": 12,
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "name": "Masafumi Okada",
+      "count": 11,
+      "first_year": 1998,
+      "last_year": 2005
+    },
+    {
+      "name": "Gentiane Venture",
+      "count": 10,
+      "first_year": 2006,
+      "last_year": 2014
+    },
+    {
+      "name": "Hiroshi Kaminaga",
+      "count": 10,
+      "first_year": 2009,
+      "last_year": 2017
+    },
+    {
+      "name": "Tomomichi Sugihara",
+      "count": 9,
+      "first_year": 2002,
+      "last_year": 2009
+    },
+    {
+      "name": "Quang-Cuong Pham",
+      "count": 9,
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "name": "Christian Ott",
+      "count": 8,
+      "first_year": 2008,
+      "last_year": 2012
+    },
+    {
+      "name": "Akihiko Murai",
+      "count": 7,
+      "first_year": 2004,
+      "last_year": 2018
+    },
+    {
+      "name": "Woojin Chung",
+      "count": 6,
+      "first_year": 1994,
+      "last_year": 2002
+    },
+    {
+      "name": "Tetsunari Inamura",
+      "count": 6,
+      "first_year": 2001,
+      "last_year": 2004
+    },
+    {
+      "name": "Stéphane Caron",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2017
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Wataru Takano",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 21,
+      "student_first_author_count": 9,
+      "we_last_author_count": 14,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Ko Ayusawa",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 14,
+      "student_first_author_count": 6,
+      "we_last_author_count": 11,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Katsu Yamane",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 28,
+      "student_first_author_count": 7,
+      "we_last_author_count": 9,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Dana Kulic",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 12,
+      "student_first_author_count": 7,
+      "we_last_author_count": 9,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Hiroshi Kaminaga",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 6,
+      "we_last_author_count": 9,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Quang-Cuong Pham",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Dongheui Lee",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 13,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Stéphane Caron",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Masafumi Okada",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 11,
+      "student_first_author_count": 7,
+      "we_last_author_count": 5,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Gentiane Venture",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 10,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Tomomichi Sugihara",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 9,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Takahiro Suzuki",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Koji Tatani",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Hiroaki Tanie",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Tetsunari Inamura",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Woojin Chung",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Thomas Nierhoff",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Akinori Sekiguchi",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2001
+    },
+    {
+      "name": "Carlos Santacruz",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Yusuke Goutsu",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Yasuyuki Watanabe",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1998
+    },
+    {
+      "name": "Yusuke Fujita",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Tomohiro Kawakami",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Tianyi Ko",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Hirotoshi Kunori",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Satoshi Oota",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Mihoko Otake",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Anirvan Dasgupta",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 1999
+    },
+    {
+      "name": "Ole Jakob Sørdalen",
+      "student_first_year": 1992,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 1995
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1987,
+      1996
+    ],
+    "early_mean_n_authors": 2.5,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.93
+  },
+  "citation_half_life_years": 22.0,
+  "bursts": {
+    "productivity": [
+      2009
+    ],
+    "impact": [
+      2002
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "Realtime Humanoid Motion Generation through ZMP Manipulation Based on Inverted Pendulum Control",
+      "cites": 460,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Humanoid robot",
+        "Zero moment point",
+        "Inverted pendulum",
+        "Cog",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2002.1014740",
+      "coauthors": [
+        "Tomomichi Sugihara",
+        "Hirochika Inoue"
+      ]
+    },
+    {
+      "year": 1989,
+      "venue": "IJRR",
+      "title": "Dynamics and Stability in Coordination of Multiple Robotic Mechanisms",
+      "cites": 335,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Slipping",
+        "Contact force",
+        "Control theory (sociology)",
+        "Stability (learning theory)",
+        "Norm (philosophy)"
+      ],
+      "doi": "10.1177/027836498900800204",
+      "coauthors": [
+        "Kiyoshi Nagai",
+        "Tsuneo Yoshikawa"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "ICRA",
+      "title": "Unified Impedance and Admittance Control",
+      "cites": 330,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Admittance",
+        "Electrical impedance",
+        "Control theory (sociology)",
+        "Stability (learning theory)",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2010.5509861",
+      "coauthors": [
+        "Christian Ott",
+        "Ranjan Mukherjee"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "IJRR",
+      "title": "Embodied Symbol Emergence Based on Mimesis Theory",
+      "cites": 328,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Embodied cognition",
+        "Imitation",
+        "Abstraction",
+        "Cognition",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364904042199",
+      "coauthors": [
+        "Tetsunari Inamura",
+        "Iwaki Toshima",
+        "Hiroaki Tanie"
+      ]
+    },
+    {
+      "year": 1990,
+      "venue": "ICRA",
+      "title": "Nonholonomic path planning of space robots via bi-directional approach",
+      "cites": 315,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Nonholonomic system",
+        "Motion planning",
+        "Control theory (sociology)",
+        "Trajectory",
+        "Path (computing)"
+      ],
+      "doi": "10.1109/robot.1990.126264",
+      "coauthors": [
+        "Ranjan Mukherjee"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "ICRA",
+      "title": "Heartbeat Synchronization for Robotic Cardiac Surgery",
+      "cites": 246,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Heartbeat",
+        "Robot",
+        "Synchronization (alternating current)",
+        "Master/slave",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2001.932903",
+      "coauthors": [
+        "Kousuke Kishi",
+        "Hiro Kawakami"
+      ]
+    },
+    {
+      "year": 1987,
+      "venue": "ICRA",
+      "title": "Mechanics of coordinative manipulation by multiple robotic mechanisms",
+      "cites": 230,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Internal forces",
+        "Robot",
+        "Computer science",
+        "Control theory (sociology)",
+        "Stability (learning theory)"
+      ],
+      "doi": "10.1109/robot.1987.1087941",
+      "coauthors": [
+        "Kiyoshi Nagai",
+        "Tsuneo Yoshikawa"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "Making Feasible Walking Motion of Humanoid Robots from Human Motion Capture Data",
+      "cites": 230,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Zero moment point",
+        "Humanoid robot",
+        "Trajectory",
+        "Computer science",
+        "Motion (physics)"
+      ],
+      "doi": "10.1109/robot.1999.772454",
+      "coauthors": [
+        "Anirvan Dasgupta"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "Incremental learning of full body motion primitives and their sequencing through human motion observation",
+      "cites": 221,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Motion (physics)",
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Motion capture"
+      ],
+      "doi": "10.1177/0278364911426178",
+      "coauthors": [
+        "Dana Kulic",
+        "Christian Ott",
+        "Dongheui Lee",
+        "Junichi Ishikawa"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IJRR",
+      "title": "Incremental Learning, Clustering and Hierarchy Formation of Whole Body Motion Patterns using Adaptive Hidden Markov Chains",
+      "cites": 211,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Cluster analysis",
+        "Motion (physics)",
+        "Computer science",
+        "Artificial intelligence",
+        "Hierarchy"
+      ],
+      "doi": "10.1177/0278364908091153",
+      "coauthors": [
+        "Dana Kulic",
+        "Wataru Takano"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Yoshihiko Nakamura: 39년에 걸쳐 191편, 총 8,336회 인용, h=47, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1987년 \"Mechanics of coordinative manipulation by multiple robotic mechanisms\"으로 출발.",
+        "초기 토픽: Computer science, Control theory (sociology), Nonholonomic system. 최근 토픽: Computer science, Controllability, Robot. 피벗 점수 0.29 → 점진적 이동형.",
+        "저자수 평균: 초기 2.5명 → 후기 4.9명 (팀 확장).",
+        "최다 인용 논문 \"Realtime Humanoid Motion Generation through ZMP Manipulation Based on Inverted Pendulum Control\" (2002, 460회) — 커리어 중기에 위치.",
+        "제자 후보 추정 29명 — 상위: Wataru Takano(2006~, 우리 마지막저자 14편), Ko Ayusawa(2008~, 우리 마지막저자 11편), Katsu Yamane(1998~, 우리 마지막저자 9편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "29명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Yoshihiko Nakamura: over 39 years, 191 papers, 8,336 total cites, h=47, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1987 with \"Mechanics of coordinative manipulation by multiple robotic mechanisms\".",
+        "Early topics: Computer science, Control theory (sociology), Nonholonomic system. Recent topics: Computer science, Controllability, Robot. Pivot score 0.29 → gradual shift.",
+        "Authors per paper: early 2.5 → late 4.9 (team growth).",
+        "Peak paper \"Realtime Humanoid Motion Generation through ZMP Manipulation Based on Inverted Pendulum Control\" (2002, 460 cites) — fell in mid career.",
+        "29 likely students — top: Wataru Takano(2006~, we last-author on 14), Ko Ayusawa(2008~, we last-author on 11), Katsu Yamane(1998~, we last-author on 9)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "29 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

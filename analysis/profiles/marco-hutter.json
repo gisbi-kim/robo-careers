@@ -1,0 +1,1293 @@
+{
+  "name": "Marco Hutter",
+  "slug": "marco-hutter",
+  "career_stats": {
+    "first_year": 2008,
+    "last_year": 2025,
+    "span": 18,
+    "total_papers": 211,
+    "total_cites": 16282,
+    "h_index": 66,
+    "i10_index": 157,
+    "seminal_count": 6,
+    "max_cites_single_paper": 1377
+  },
+  "role_distribution": {
+    "middle": 45,
+    "first": 11,
+    "last": 155
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2008,
+      "title": "Modeling assembled-MEMS microrobots for wireless magnetic control"
+    },
+    "first_100cite": {
+      "year": 2010,
+      "title": "Haptic terrain classification for legged robots",
+      "cites": 106,
+      "gap_from_first": 2
+    },
+    "first_500cite": {
+      "year": 2015,
+      "title": "Robust visual inertial odometry using a direct EKF-based approach",
+      "cites": 779,
+      "gap_from_first": 7
+    },
+    "first_1000cite": {
+      "year": 2019,
+      "title": "Learning agile and dynamic motor skills for legged robots",
+      "cites": 1377,
+      "gap_from_first": 11
+    },
+    "peak_paper": {
+      "year": 2019,
+      "title": "Learning agile and dynamic motor skills for legged robots",
+      "cites": 1377
+    }
+  },
+  "year_series": {
+    "2008": {
+      "n": 1,
+      "cites": 27,
+      "max_cites": 27
+    },
+    "2009": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "2010": {
+      "n": 3,
+      "cites": 221,
+      "max_cites": 106
+    },
+    "2011": {
+      "n": 1,
+      "cites": 100,
+      "max_cites": 100
+    },
+    "2012": {
+      "n": 3,
+      "cites": 183,
+      "max_cites": 97
+    },
+    "2013": {
+      "n": 5,
+      "cites": 399,
+      "max_cites": 200
+    },
+    "2014": {
+      "n": 5,
+      "cites": 346,
+      "max_cites": 152
+    },
+    "2015": {
+      "n": 3,
+      "cites": 847,
+      "max_cites": 779
+    },
+    "2016": {
+      "n": 6,
+      "cites": 1220,
+      "max_cites": 852
+    },
+    "2017": {
+      "n": 8,
+      "cites": 1294,
+      "max_cites": 505
+    },
+    "2018": {
+      "n": 13,
+      "cites": 1899,
+      "max_cites": 451
+    },
+    "2019": {
+      "n": 23,
+      "cites": 3178,
+      "max_cites": 1377
+    },
+    "2020": {
+      "n": 18,
+      "cites": 1714,
+      "max_cites": 999
+    },
+    "2021": {
+      "n": 17,
+      "cites": 403,
+      "max_cites": 114
+    },
+    "2022": {
+      "n": 31,
+      "cites": 2277,
+      "max_cites": 708
+    },
+    "2023": {
+      "n": 23,
+      "cites": 1204,
+      "max_cites": 227
+    },
+    "2024": {
+      "n": 28,
+      "cites": 900,
+      "max_cites": 205
+    },
+    "2025": {
+      "n": 22,
+      "cites": 65,
+      "max_cites": 12
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.171
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.098
+        },
+        {
+          "c": "Robot",
+          "w": 0.098
+        },
+        {
+          "c": "Control engineering",
+          "w": 0.049
+        },
+        {
+          "c": "Actuator",
+          "w": 0.049
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 27,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.154
+        },
+        {
+          "c": "Robot",
+          "w": 0.115
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.054
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.038
+        },
+        {
+          "c": "Torque",
+          "w": 0.038
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 102,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.165
+        },
+        {
+          "c": "Robot",
+          "w": 0.112
+        },
+        {
+          "c": "Terrain",
+          "w": 0.051
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.039
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 73,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.187
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.103
+        },
+        {
+          "c": "Robot",
+          "w": 0.081
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.028
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.028
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 3,
+        "RSS": 2,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "IROS": 13,
+        "ICRA": 7,
+        "IJRR": 2,
+        "T-Mech": 2,
+        "RA-L": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "RA-L": 43,
+        "IROS": 25,
+        "ICRA": 23,
+        "Sci-Rob": 4,
+        "T-RO": 3,
+        "IJRR": 2,
+        "T-Mech": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "ICRA": 21,
+        "RA-L": 15,
+        "IROS": 15,
+        "Sci-Rob": 8,
+        "T-RO": 7,
+        "RSS": 5,
+        "SoRo": 1,
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 4.67,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "C. David Remy",
+          8
+        ],
+        [
+          "Roland Siegwart",
+          8
+        ],
+        [
+          "Mark A. Höpflinger",
+          3
+        ],
+        [
+          "Mark A. Hoepflinger",
+          3
+        ],
+        [
+          "Christian Gehring",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 5.96,
+      "unique_coauthors": 47,
+      "top_coauthors": [
+        [
+          "Roland Siegwart",
+          18
+        ],
+        [
+          "Christian Gehring",
+          15
+        ],
+        [
+          "Peter Fankhauser",
+          13
+        ],
+        [
+          "Michael Blösch",
+          12
+        ],
+        [
+          "Mark A. Hoepflinger",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 5.2,
+      "unique_coauthors": 208,
+      "top_coauthors": [
+        [
+          "Farbod Farshidian",
+          24
+        ],
+        [
+          "Marko Bjelonic",
+          16
+        ],
+        [
+          "Ruben Grandia",
+          15
+        ],
+        [
+          "Lorenz Wellhausen",
+          14
+        ],
+        [
+          "Hendrik Kolvenbach",
+          10
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 6.19,
+      "unique_coauthors": 234,
+      "top_coauthors": [
+        [
+          "Jonas Frey",
+          11
+        ],
+        [
+          "Takahiro Miki",
+          9
+        ],
+        [
+          "Nikita Rudin",
+          8
+        ],
+        [
+          "Joonho Lee",
+          8
+        ],
+        [
+          "Victor Klemm",
+          7
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.118,
+  "top_repeat_coauthors": [
+    {
+      "name": "Roland Siegwart",
+      "count": 35,
+      "first_year": 2009,
+      "last_year": 2025
+    },
+    {
+      "name": "Farbod Farshidian",
+      "count": 31,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Marko Bjelonic",
+      "count": 20,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Christian Gehring",
+      "count": 19,
+      "first_year": 2012,
+      "last_year": 2018
+    },
+    {
+      "name": "Takahiro Miki",
+      "count": 18,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Peter Fankhauser",
+      "count": 17,
+      "first_year": 2013,
+      "last_year": 2019
+    },
+    {
+      "name": "Ruben Grandia",
+      "count": 17,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Joonho Lee",
+      "count": 16,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Lorenz Wellhausen",
+      "count": 16,
+      "first_year": 2019,
+      "last_year": 2024
+    },
+    {
+      "name": "Michael Blösch",
+      "count": 14,
+      "first_year": 2012,
+      "last_year": 2015
+    },
+    {
+      "name": "C. Dario Bellicoso",
+      "count": 14,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Hendrik Kolvenbach",
+      "count": 14,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Fabian Jenelten",
+      "count": 12,
+      "first_year": 2017,
+      "last_year": 2025
+    },
+    {
+      "name": "Jonas Frey",
+      "count": 12,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Jemin Hwangbo",
+      "count": 11,
+      "first_year": 2014,
+      "last_year": 2022
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Roland Siegwart",
+      "advisor_active_from": 1991,
+      "early_copubs_as_our_first_author": 5,
+      "advisor_last_author_count": 5,
+      "total_copubs": 35
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Ruben Grandia",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 15,
+      "total_copubs": 17,
+      "student_first_author_count": 4,
+      "we_last_author_count": 14,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Marko Bjelonic",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 20,
+      "student_first_author_count": 4,
+      "we_last_author_count": 11,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "C. Dario Bellicoso",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 14,
+      "student_first_author_count": 3,
+      "we_last_author_count": 11,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Jonas Frey",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 11,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Joonho Lee",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 16,
+      "student_first_author_count": 2,
+      "we_last_author_count": 11,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hendrik Kolvenbach",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 14,
+      "student_first_author_count": 2,
+      "we_last_author_count": 11,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Takahiro Miki",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 18,
+      "student_first_author_count": 2,
+      "we_last_author_count": 10,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Nikita Rudin",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 2,
+      "we_last_author_count": 10,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Fabian Jenelten",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Lorenz Wellhausen",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 16,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Julian Nubert",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jemin Hwangbo",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 11,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Jan Carius",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Giorgio Valsecchi",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Maria Vittoria Minniti",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jean-Pierre Sleiman",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Mayank Mittal",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "David Hoeller",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Philip Arm",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Turcan Tuna",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yuntao Ma",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Johannes Pankert",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Edo Jelavic",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Fang Nan",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yves Zimmermann",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Pascal Egli",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Martin Wermelinger",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Dominic Jud",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Vassilios Tsounis",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Timon Homberger",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Alexander Reske",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Filip Bjelonic",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Michael Bloesch",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Michael Sommerhalder",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Pascal Roth",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ryo Watanabe",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Karen Bodie",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Boris Stolz",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Jia-Ruei Chiu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Benjamin Krummenacher",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Lennart Werner",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Filippo A. Spinelli",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Maximum Wilder-Smith",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yvain de Viragh",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Vivian Suzano Medeiros",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Ryan Luke Johns",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Junzhe He",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "René Zurbrügg",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Lukas Bernreiter",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Manthan Patel",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mihir Kulkarni",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Marco Tranzatto",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Andrea Carron",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Elena Arcari",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2008,
+      2017
+    ],
+    "early_mean_n_authors": 5.64,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.63
+  },
+  "citation_half_life_years": 7.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2019
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "Learning agile and dynamic motor skills for legged robots",
+      "cites": 1377,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Robot",
+        "Computer science",
+        "Agile software development",
+        "Legged robot"
+      ],
+      "doi": "10.1126/scirobotics.aau5872",
+      "coauthors": [
+        "Joonho Lee",
+        "Alexey Dosovitskiy",
+        "Dario Bellicoso",
+        "Vassilios Tsounis",
+        "Vladlen Koltun"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Learning quadrupedal locomotion over challenging terrain",
+      "cites": 999,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Robustness (evolution)",
+        "Quadrupedalism",
+        "Terrain",
+        "Computer science",
+        "Robot"
+      ],
+      "doi": "10.1126/scirobotics.abc5986",
+      "coauthors": [
+        "Joonho Lee",
+        "Jemin Hwangbo",
+        "Lorenz Wellhausen",
+        "Vladlen Koltun"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "IROS",
+      "title": "ANYmal - a highly mobile and dynamic quadrupedal robot",
+      "cites": 852,
+      "n_authors": 14,
+      "role": "first",
+      "concepts": [
+        "Robustness (evolution)",
+        "Stairs",
+        "Actuator",
+        "Robot",
+        "Torque"
+      ],
+      "doi": "10.1109/iros.2016.7758092",
+      "coauthors": [
+        "Christian Gehring",
+        "Dominic Jud",
+        "Andreas Lauber",
+        "C. Dario Bellicoso",
+        "Vassilios Tsounis",
+        "Jemin Hwangbo",
+        "Karen Bodie",
+        "Peter Fankhauser",
+        "Michael Bloesch",
+        "Remo Diethelm",
+        "Samuel Bachmann",
+        "Amir Melzer",
+        "Mark A. Höpflinger"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "IROS",
+      "title": "Robust visual inertial odometry using a direct EKF-based approach",
+      "cites": 779,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Odometry",
+        "Initialization",
+        "Robustness (evolution)",
+        "Computer vision",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2015.7353389",
+      "coauthors": [
+        "Michael Blösch",
+        "Sammy Omari",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "Sci-Rob",
+      "title": "Learning robust perceptive locomotion for quadrupedal robots in the wild",
+      "cites": 708,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Terrain",
+        "Computer science",
+        "Artificial intelligence",
+        "Perception"
+      ],
+      "doi": "10.1126/scirobotics.abk2822",
+      "coauthors": [
+        "Takahiro Miki",
+        "Joonho Lee",
+        "Jemin Hwangbo",
+        "Lorenz Wellhausen",
+        "Vladlen Koltun"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "RA-L",
+      "title": "Control of a Quadrotor With Reinforcement Learning",
+      "cites": 505,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Initialization",
+        "Computer science",
+        "Trajectory",
+        "Artificial neural network"
+      ],
+      "doi": "10.1109/lra.2017.2720851",
+      "coauthors": [
+        "Jemin Hwangbo",
+        "Inkyu Sa",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IJRR",
+      "title": "Iterated extended Kalman filter based visual-inertial odometry using direct photometric feedback",
+      "cites": 472,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Artificial intelligence",
+        "Odometry",
+        "Initialization",
+        "Computer vision",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364917728574",
+      "coauthors": [
+        "Michael Bloesch",
+        "Michael Burri",
+        "Sammy Omari",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Gait and Trajectory Optimization for Legged Systems Through Phase-Based End-Effector Parameterization",
+      "cites": 451,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Solver",
+        "Trajectory",
+        "Computer science",
+        "Gait",
+        "Trajectory optimization"
+      ],
+      "doi": "10.1109/lra.2018.2798285",
+      "coauthors": [
+        "Alexander W. Winkler",
+        "C. Dario Bellicoso",
+        "Jonas Buchli"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization",
+      "cites": 296,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Terrain",
+        "Computer science",
+        "Probabilistic logic",
+        "Computer vision",
+        "Mobile robot"
+      ],
+      "doi": "10.1109/lra.2018.2849506",
+      "coauthors": [
+        "Peter Fankhauser",
+        "Michael Bloesch"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Whole-Body Nonlinear Model Predictive Control Through Contacts for Quadrupeds",
+      "cites": 279,
+      "n_authors": 8,
+      "role": "middle",
+      "concepts": [
+        "Solver",
+        "Robustness (evolution)",
+        "Nonlinear system",
+        "Control theory (sociology)",
+        "Model predictive control"
+      ],
+      "doi": "10.1109/lra.2018.2800124",
+      "coauthors": [
+        "Michael Neunert",
+        "Markus Stäuble",
+        "Markus Giftthaler",
+        "Carmine Dario Bellicoso",
+        "Jan Carius",
+        "Christian Gehring",
+        "Jonas Buchli"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Marco Hutter: 18년에 걸쳐 211편, 총 16,282회 인용, h=66, 500+ 블록버스터 6편.",
+      "paragraphs": [
+        "2008년 \"Modeling assembled-MEMS microrobots for wireless magnetic control\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"Robust visual inertial odometry using a direct EKF-based approach\" (2015, 779회). 1000+ 인용 논문: \"Learning agile and dynamic motor skills for legged robots\" (2019, 1,377회).",
+        "초기 토픽: Computer science, Control theory (sociology), Robot. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.12 → 토픽 지속형.",
+        "저자수 평균: 초기 5.6명 → 후기 5.6명 (팀 유지).",
+        "최다 인용 논문 \"Learning agile and dynamic motor skills for legged robots\" (2019, 1,377회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Roland Siegwart. 제자 후보 추정 54명 — 상위: Ruben Grandia(2017~, 우리 마지막저자 14편), Marko Bjelonic(2016~, 우리 마지막저자 11편), C. Dario Bellicoso(2015~, 우리 마지막저자 11편)."
+      ],
+      "lessons": [
+        "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "54명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Roland Siegwart — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Marco Hutter: over 18 years, 211 papers, 16,282 total cites, h=66, 6 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2008 with \"Modeling assembled-MEMS microrobots for wireless magnetic control\". First 500+ cite paper came 7 years in: \"Robust visual inertial odometry using a direct EKF-based approach\" (2015, 779 cites). 1000+ cite paper: \"Learning agile and dynamic motor skills for legged robots\" (2019, 1,377 cites).",
+        "Early topics: Computer science, Control theory (sociology), Robot. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.12 → topic-stable.",
+        "Authors per paper: early 5.6 → late 5.6 (stable team).",
+        "Peak paper \"Learning agile and dynamic motor skills for legged robots\" (2019, 1,377 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Roland Siegwart. 54 likely students — top: Ruben Grandia(2017~, we last-author on 14), Marko Bjelonic(2016~, we last-author on 11), C. Dario Bellicoso(2015~, we last-author on 11)."
+      ],
+      "lessons": [
+        "Consistency builds h-index — one or two blockbusters alone don't get you here.",
+        "Impact through deep specialization — one lane, pushed far.",
+        "54 likely students — mentoring is the real impact.",
+        "Likely advisor: Roland Siegwart — started within their PhD network."
+      ]
+    }
+  }
+}

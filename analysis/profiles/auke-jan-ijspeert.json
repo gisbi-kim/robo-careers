@@ -1,0 +1,1105 @@
+{
+  "name": "Auke Jan Ijspeert",
+  "slug": "auke-jan-ijspeert",
+  "career_stats": {
+    "first_year": 2001,
+    "last_year": 2025,
+    "span": 25,
+    "total_papers": 109,
+    "total_cites": 5960,
+    "h_index": 36,
+    "i10_index": 80,
+    "seminal_count": 1,
+    "max_cites_single_paper": 842
+  },
+  "role_distribution": {
+    "first": 4,
+    "last": 74,
+    "middle": 31
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2001,
+      "title": "Trajectory formation for imitation with nonlinear dynamical systems"
+    },
+    "first_100cite": {
+      "year": 2001,
+      "title": "Trajectory formation for imitation with nonlinear dynamical systems",
+      "cites": 174,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2002,
+      "title": "Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots",
+      "cites": 842,
+      "gap_from_first": 1
+    },
+    "peak_paper": {
+      "year": 2002,
+      "title": "Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots",
+      "cites": 842
+    }
+  },
+  "year_series": {
+    "2001": {
+      "n": 1,
+      "cites": 174,
+      "max_cites": 174
+    },
+    "2002": {
+      "n": 2,
+      "cites": 1023,
+      "max_cites": 842
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 1,
+      "cites": 88,
+      "max_cites": 88
+    },
+    "2006": {
+      "n": 3,
+      "cites": 436,
+      "max_cites": 275
+    },
+    "2007": {
+      "n": 4,
+      "cites": 207,
+      "max_cites": 149
+    },
+    "2008": {
+      "n": 7,
+      "cites": 825,
+      "max_cites": 327
+    },
+    "2009": {
+      "n": 3,
+      "cites": 140,
+      "max_cites": 74
+    },
+    "2010": {
+      "n": 3,
+      "cites": 65,
+      "max_cites": 29
+    },
+    "2011": {
+      "n": 2,
+      "cites": 103,
+      "max_cites": 83
+    },
+    "2012": {
+      "n": 3,
+      "cites": 41,
+      "max_cites": 17
+    },
+    "2013": {
+      "n": 13,
+      "cites": 1128,
+      "max_cites": 420
+    },
+    "2014": {
+      "n": 7,
+      "cites": 477,
+      "max_cites": 210
+    },
+    "2015": {
+      "n": 7,
+      "cites": 230,
+      "max_cites": 93
+    },
+    "2016": {
+      "n": 2,
+      "cites": 29,
+      "max_cites": 23
+    },
+    "2017": {
+      "n": 7,
+      "cites": 195,
+      "max_cites": 107
+    },
+    "2018": {
+      "n": 6,
+      "cites": 138,
+      "max_cites": 44
+    },
+    "2019": {
+      "n": 6,
+      "cites": 100,
+      "max_cites": 44
+    },
+    "2020": {
+      "n": 4,
+      "cites": 51,
+      "max_cites": 22
+    },
+    "2021": {
+      "n": 2,
+      "cites": 135,
+      "max_cites": 135
+    },
+    "2022": {
+      "n": 3,
+      "cites": 110,
+      "max_cites": 101
+    },
+    "2023": {
+      "n": 6,
+      "cites": 149,
+      "max_cites": 84
+    },
+    "2024": {
+      "n": 9,
+      "cites": 90,
+      "max_cites": 23
+    },
+    "2025": {
+      "n": 8,
+      "cites": 26,
+      "max_cites": 11
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.1
+        },
+        {
+          "c": "Attractor",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Nonlinear dynamical systems",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.17
+        },
+        {
+          "c": "Robot",
+          "w": 0.11
+        },
+        {
+          "c": "Central pattern generator",
+          "w": 0.07
+        },
+        {
+          "c": "Modular design",
+          "w": 0.06
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 32,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Robot",
+          "w": 0.119
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.075
+        },
+        {
+          "c": "Modular design",
+          "w": 0.056
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.144
+        },
+        {
+          "c": "Robot",
+          "w": 0.104
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.056
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.048
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.048
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.183
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.056
+        },
+        {
+          "c": "Central pattern generator",
+          "w": 0.048
+        },
+        {
+          "c": "Robot",
+          "w": 0.048
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.04
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "IROS": 2,
+        "ICRA": 2
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "IROS": 12,
+        "ICRA": 5,
+        "RSS": 1,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "IROS": 13,
+        "ICRA": 10,
+        "IJRR": 3,
+        "T-RO": 3,
+        "RSS": 2,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "RA-L": 9,
+        "IROS": 7,
+        "IJRR": 4,
+        "ICRA": 3,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 7,
+        "Sci-Rob": 6,
+        "RA-L": 4,
+        "T-RO": 1,
+        "T-Mech": 1,
+        "RSS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 3.25,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Jun Nakanishi",
+          3
+        ],
+        [
+          "Stefan Schaal",
+          3
+        ],
+        [
+          "Alessandro Crespi",
+          1
+        ],
+        [
+          "André Badertscher",
+          1
+        ],
+        [
+          "André Guignard",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 3.5,
+      "unique_coauthors": 29,
+      "top_coauthors": [
+        [
+          "Alexander Spröwitz",
+          8
+        ],
+        [
+          "Ludovic Righetti",
+          6
+        ],
+        [
+          "Rico Moeckel",
+          3
+        ],
+        [
+          "Masoud Asadpour",
+          3
+        ],
+        [
+          "Jérôme Maye",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 4.69,
+      "unique_coauthors": 57,
+      "top_coauthors": [
+        [
+          "Massimo Vespignani",
+          7
+        ],
+        [
+          "Soha Pouya",
+          6
+        ],
+        [
+          "Stéphane Bonardi",
+          5
+        ],
+        [
+          "Rico Moeckel",
+          5
+        ],
+        [
+          "Andrej Gams",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 3.88,
+      "unique_coauthors": 42,
+      "top_coauthors": [
+        [
+          "Simon Hauser",
+          8
+        ],
+        [
+          "Salman Faraji",
+          7
+        ],
+        [
+          "Mehmet Mutlu",
+          7
+        ],
+        [
+          "Tomislav Horvat",
+          4
+        ],
+        [
+          "Kamilo Melo",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 6.46,
+      "unique_coauthors": 116,
+      "top_coauthors": [
+        [
+          "Guillaume Bellegarda",
+          10
+        ],
+        [
+          "Milad Shafiee",
+          8
+        ],
+        [
+          "Anastasia Bolotnikova",
+          6
+        ],
+        [
+          "Mohamed Bouri",
+          4
+        ],
+        [
+          "Zeynep Özge Orhan",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.209,
+  "top_repeat_coauthors": [
+    {
+      "name": "Alexander Spröwitz",
+      "count": 12,
+      "first_year": 2007,
+      "last_year": 2015
+    },
+    {
+      "name": "Salman Faraji",
+      "count": 11,
+      "first_year": 2013,
+      "last_year": 2019
+    },
+    {
+      "name": "Guillaume Bellegarda",
+      "count": 10,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Simon Hauser",
+      "count": 9,
+      "first_year": 2017,
+      "last_year": 2021
+    },
+    {
+      "name": "Rico Moeckel",
+      "count": 8,
+      "first_year": 2007,
+      "last_year": 2014
+    },
+    {
+      "name": "Kamilo Melo",
+      "count": 8,
+      "first_year": 2015,
+      "last_year": 2023
+    },
+    {
+      "name": "Milad Shafiee",
+      "count": 8,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Soha Pouya",
+      "count": 7,
+      "first_year": 2010,
+      "last_year": 2014
+    },
+    {
+      "name": "Massimo Vespignani",
+      "count": 7,
+      "first_year": 2013,
+      "last_year": 2015
+    },
+    {
+      "name": "Mehmet Mutlu",
+      "count": 7,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Ludovic Righetti",
+      "count": 6,
+      "first_year": 2006,
+      "last_year": 2008
+    },
+    {
+      "name": "Stéphane Bonardi",
+      "count": 6,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "Tomislav Horvat",
+      "count": 6,
+      "first_year": 2015,
+      "last_year": 2023
+    },
+    {
+      "name": "Anastasia Bolotnikova",
+      "count": 6,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Alessandro Crespi",
+      "count": 5,
+      "first_year": 2005,
+      "last_year": 2020
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Stefan Schaal",
+      "advisor_active_from": 1993,
+      "early_copubs_as_our_first_author": 3,
+      "advisor_last_author_count": 3,
+      "total_copubs": 3
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Salman Faraji",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 11,
+      "student_first_author_count": 8,
+      "we_last_author_count": 8,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Simon Hauser",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Massimo Vespignani",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Soha Pouya",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Milad Shafiee",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Stéphane Bonardi",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Ludovic Righetti",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Tomislav Horvat",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Mehmet Mutlu",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Mostafa Ajallooeian",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Rico Moeckel",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Luca Colasanto",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Hamed Razavi",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Sébastien Gay",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Peter Eckert",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Guillaume Bellegarda",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 10,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Konstantinos Karakasiliotis",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Behzad Bayat",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Andrej Gams",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Nicolas Van der Noot",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Mahdi Khoramshahi",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Lixuan Tang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sarah Dégallier",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Matthieu Dujany",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Zeynep Özge Orhan",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Andrea Dal Prete",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2001,
+      2010
+    ],
+    "early_mean_n_authors": 3.46,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.25
+  },
+  "citation_half_life_years": 15.0,
+  "bursts": {
+    "productivity": [
+      2013
+    ],
+    "impact": [
+      2002,
+      2013
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots",
+      "cites": 842,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Humanoid robot",
+        "Trajectory",
+        "Attractor",
+        "Movement (music)",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.2002.1014739",
+      "coauthors": [
+        "Jun Nakanishi",
+        "Stefan Schaal"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IJRR",
+      "title": "Towards dynamic trot gait locomotion: Design, control, and experiments with Cheetah-cub, a compliant quadruped robot",
+      "cites": 420,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Simulation",
+        "Robot locomotion",
+        "Gait",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1177/0278364913489205",
+      "coauthors": [
+        "Alexander Spröwitz",
+        "Alexandre Tuleu",
+        "Massimo Vespignani",
+        "Mostafa Ajallooeian",
+        "Emilie Badri"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "Online Optimization of Swimming and Crawling in an Amphibious Snake Robot",
+      "cites": 327,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Crawling",
+        "Robot",
+        "Robot locomotion",
+        "Controller (irrigation)",
+        "Process (computing)"
+      ],
+      "doi": "10.1109/tro.2008.915426",
+      "coauthors": [
+        "Alessandro Crespi"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Programmable Central Pattern Generators: an Application to Biped Locomotion Control",
+      "cites": 275,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Central pattern generator",
+        "Control (management)",
+        "Control engineering",
+        "Engineering"
+      ],
+      "doi": "10.1109/robot.2006.1641933",
+      "coauthors": [
+        "Ludovic Righetti"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "T-RO",
+      "title": "Salamandra Robotica II: An Amphibious Robot to Study Salamander-Like Swimming and Walking Gaits",
+      "cites": 262,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Kinematics",
+        "Gait",
+        "Computer science",
+        "Fish locomotion"
+      ],
+      "doi": "10.1109/tro.2012.2234311",
+      "coauthors": [
+        "Alessandro Crespi",
+        "Konstantinos Karakasiliotis",
+        "André Guignard"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "ICRA",
+      "title": "Pattern generators with sensory feedback for the control of quadruped locomotion",
+      "cites": 247,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Central pattern generator",
+        "Robot",
+        "Computer science",
+        "Control theory (sociology)",
+        "Swing"
+      ],
+      "doi": "10.1109/robot.2008.4543306",
+      "coauthors": [
+        "Ludovic Righetti"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "Coupling Movement Primitives: Interaction With the Environment and Bimanual Tasks",
+      "cites": 210,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Kinematics",
+        "Computer science",
+        "Coupling (piping)",
+        "Trajectory",
+        "Stability (learning theory)"
+      ],
+      "doi": "10.1109/tro.2014.2304775",
+      "coauthors": [
+        "Andrej Gams",
+        "Bojan Nemec",
+        "Ales Ude"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IROS",
+      "title": "Learning rhythmic movements by demonstration using nonlinear oscillators",
+      "cites": 181,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Attractor",
+        "Limit cycle",
+        "Computer science",
+        "Dynamical systems theory",
+        "Workspace"
+      ],
+      "doi": "10.1109/irds.2002.1041514",
+      "coauthors": [
+        "Jun Nakanishi",
+        "Stefan Schaal"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "IROS",
+      "title": "Trajectory formation for imitation with nonlinear dynamical systems",
+      "cites": 174,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Trajectory",
+        "Nonlinear dynamical systems",
+        "Nonlinear system",
+        "Computer science",
+        "Imitation"
+      ],
+      "doi": "10.1109/iros.2001.976259",
+      "coauthors": [
+        "Jun Nakanishi",
+        "Stefan Schaal"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "ICRA",
+      "title": "Online trajectory generation in an amphibious snake robot using a lamprey-like central pattern generator model",
+      "cites": 149,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Central pattern generator",
+        "Lamprey",
+        "Limit cycle",
+        "Control theory (sociology)",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.2007.363797",
+      "coauthors": [
+        "Alessandro Crespi"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Auke Jan Ijspeert: 25년에 걸쳐 109편, 총 5,960회 인용, h=36, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "2001년 \"Trajectory formation for imitation with nonlinear dynamical systems\"으로 출발. 첫 500+ 인용 논문까지 1년 걸림: \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842회).",
+        "초기 토픽: Computer science, Trajectory, Attractor. 최근 토픽: Computer science, Artificial intelligence, Central pattern generator. 피벗 점수 0.21 → 토픽 지속형.",
+        "저자수 평균: 초기 3.5명 → 후기 5.2명 (팀 확장).",
+        "최다 인용 논문 \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Stefan Schaal. 제자 후보 추정 26명 — 상위: Salman Faraji(2013~, 우리 마지막저자 8편), Simon Hauser(2017~, 우리 마지막저자 7편), Massimo Vespignani(2013~, 우리 마지막저자 7편)."
+      ],
+      "lessons": [
+        "초기 1년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "26명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Stefan Schaal — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Auke Jan Ijspeert: over 25 years, 109 papers, 5,960 total cites, h=36, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2001 with \"Trajectory formation for imitation with nonlinear dynamical systems\". First 500+ cite paper came 1 years in: \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842 cites).",
+        "Early topics: Computer science, Trajectory, Attractor. Recent topics: Computer science, Artificial intelligence, Central pattern generator. Pivot score 0.21 → topic-stable.",
+        "Authors per paper: early 3.5 → late 5.2 (team growth).",
+        "Peak paper \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Stefan Schaal. 26 likely students — top: Salman Faraji(2013~, we last-author on 8), Simon Hauser(2017~, we last-author on 7), Massimo Vespignani(2013~, we last-author on 7)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 1 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "26 likely students — mentoring is the real impact.",
+        "Likely advisor: Stefan Schaal — started within their PhD network."
+      ]
+    }
+  }
+}

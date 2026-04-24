@@ -1,0 +1,1663 @@
+{
+  "name": "Paolo Dario",
+  "slug": "paolo-dario",
+  "career_stats": {
+    "first_year": 1985,
+    "last_year": 2025,
+    "span": 41,
+    "total_papers": 172,
+    "total_cites": 7459,
+    "h_index": 47,
+    "i10_index": 118,
+    "seminal_count": 2,
+    "max_cites_single_paper": 564
+  },
+  "role_distribution": {
+    "first": 22,
+    "last": 90,
+    "middle": 60
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1985,
+      "title": "Tendon actuated exploratory finger with polymeric, skin-like tactile sensor"
+    },
+    "first_100cite": {
+      "year": 1997,
+      "title": "A microrobotic system for colonoscopy",
+      "cites": 104,
+      "gap_from_first": 12
+    },
+    "first_500cite": {
+      "year": 2017,
+      "title": "Biohybrid actuators for robotics: A review of devices actuated by living cells",
+      "cites": 511,
+      "gap_from_first": 32
+    },
+    "peak_paper": {
+      "year": 2020,
+      "title": "Combating COVID-19 - The role of robotics in managing public health and infectious diseases",
+      "cites": 564
+    }
+  },
+  "year_series": {
+    "1985": {
+      "n": 1,
+      "cites": 24,
+      "max_cites": 24
+    },
+    "1986": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1987": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1988": {
+      "n": 2,
+      "cites": 19,
+      "max_cites": 18
+    },
+    "1989": {
+      "n": 3,
+      "cites": 139,
+      "max_cites": 81
+    },
+    "1990": {
+      "n": 2,
+      "cites": 45,
+      "max_cites": 23
+    },
+    "1991": {
+      "n": 2,
+      "cites": 8,
+      "max_cites": 6
+    },
+    "1992": {
+      "n": 2,
+      "cites": 77,
+      "max_cites": 52
+    },
+    "1993": {
+      "n": 3,
+      "cites": 43,
+      "max_cites": 25
+    },
+    "1994": {
+      "n": 8,
+      "cites": 135,
+      "max_cites": 62
+    },
+    "1995": {
+      "n": 4,
+      "cites": 152,
+      "max_cites": 72
+    },
+    "1996": {
+      "n": 1,
+      "cites": 55,
+      "max_cites": 55
+    },
+    "1997": {
+      "n": 4,
+      "cites": 214,
+      "max_cites": 104
+    },
+    "1998": {
+      "n": 6,
+      "cites": 136,
+      "max_cites": 53
+    },
+    "1999": {
+      "n": 2,
+      "cites": 10,
+      "max_cites": 7
+    },
+    "2000": {
+      "n": 2,
+      "cites": 58,
+      "max_cites": 34
+    },
+    "2001": {
+      "n": 1,
+      "cites": 17,
+      "max_cites": 17
+    },
+    "2002": {
+      "n": 11,
+      "cites": 638,
+      "max_cites": 332
+    },
+    "2003": {
+      "n": 12,
+      "cites": 437,
+      "max_cites": 134
+    },
+    "2004": {
+      "n": 10,
+      "cites": 685,
+      "max_cites": 159
+    },
+    "2005": {
+      "n": 9,
+      "cites": 217,
+      "max_cites": 79
+    },
+    "2006": {
+      "n": 8,
+      "cites": 233,
+      "max_cites": 70
+    },
+    "2007": {
+      "n": 16,
+      "cites": 746,
+      "max_cites": 330
+    },
+    "2008": {
+      "n": 4,
+      "cites": 297,
+      "max_cites": 159
+    },
+    "2009": {
+      "n": 6,
+      "cites": 405,
+      "max_cites": 269
+    },
+    "2010": {
+      "n": 8,
+      "cites": 469,
+      "max_cites": 173
+    },
+    "2011": {
+      "n": 6,
+      "cites": 180,
+      "max_cites": 55
+    },
+    "2012": {
+      "n": 11,
+      "cites": 403,
+      "max_cites": 77
+    },
+    "2013": {
+      "n": 3,
+      "cites": 87,
+      "max_cites": 49
+    },
+    "2014": {
+      "n": 2,
+      "cites": 94,
+      "max_cites": 53
+    },
+    "2015": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "2016": {
+      "n": 3,
+      "cites": 65,
+      "max_cites": 34
+    },
+    "2017": {
+      "n": 6,
+      "cites": 611,
+      "max_cites": 511
+    },
+    "2018": {
+      "n": 2,
+      "cites": 62,
+      "max_cites": 38
+    },
+    "2019": {
+      "n": 2,
+      "cites": 41,
+      "max_cites": 36
+    },
+    "2020": {
+      "n": 1,
+      "cites": 564,
+      "max_cites": 564
+    },
+    "2021": {
+      "n": 3,
+      "cites": 84,
+      "max_cites": 63
+    },
+    "2022": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    },
+    "2023": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    },
+    "2024": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2025": {
+      "n": 2,
+      "cites": 0,
+      "max_cites": 0
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.179
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.107
+        },
+        {
+          "c": "Tactile sensor",
+          "w": 0.071
+        },
+        {
+          "c": "Robot",
+          "w": 0.071
+        },
+        {
+          "c": "Robotic hand",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.16
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.111
+        },
+        {
+          "c": "Robot",
+          "w": 0.099
+        },
+        {
+          "c": "Robotics",
+          "w": 0.074
+        },
+        {
+          "c": "Tactile sensor",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.16
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.049
+        },
+        {
+          "c": "Tactile sensor",
+          "w": 0.037
+        },
+        {
+          "c": "Interface (matter)",
+          "w": 0.037
+        },
+        {
+          "c": "Robot",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 36,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.153
+        },
+        {
+          "c": "Robot",
+          "w": 0.08
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.045
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.04
+        },
+        {
+          "c": "Robotics",
+          "w": 0.023
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 43,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.116
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.037
+        },
+        {
+          "c": "Robot",
+          "w": 0.037
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.033
+        },
+        {
+          "c": "Robotics",
+          "w": 0.028
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 30,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.14
+        },
+        {
+          "c": "Robot",
+          "w": 0.12
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.033
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.027
+        },
+        {
+          "c": "Mechanism (biology)",
+          "w": 0.027
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.114
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.057
+        },
+        {
+          "c": "Robotics",
+          "w": 0.057
+        },
+        {
+          "c": "Actuator",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.088
+        },
+        {
+          "c": "Robotics",
+          "w": 0.059
+        },
+        {
+          "c": "Computer science",
+          "w": 0.059
+        },
+        {
+          "c": "Coronavirus disease 2019 (COVID-19)",
+          "w": 0.029
+        },
+        {
+          "c": "2019-20 coronavirus outbreak",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Fish locomotion",
+          "w": 0.1
+        },
+        {
+          "c": "Traveling wave",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Underwater",
+          "w": 0.1
+        },
+        {
+          "c": "Degree (music)",
+          "w": 0.1
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "IROS": 15,
+        "ICRA": 2
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 6,
+        "T-Mech": 3
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 16,
+        "IROS": 16,
+        "T-Mech": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "ICRA": 22,
+        "IROS": 10,
+        "T-Mech": 5,
+        "T-RO": 4,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 14,
+        "T-Mech": 8,
+        "IROS": 5,
+        "T-RO": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "Sci-Rob": 7,
+        "IROS": 3,
+        "RA-L": 2,
+        "ICRA": 1,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "Sci-Rob": 3,
+        "SoRo": 2,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "ICRA": 1,
+        "T-Mech": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mean_n_authors": 3.67,
+      "unique_coauthors": 10,
+      "top_coauthors": [
+        [
+          "Antonio Bicchi",
+          3
+        ],
+        [
+          "Massimo Bergamasco",
+          3
+        ],
+        [
+          "Pier Carlo Pinotti",
+          2
+        ],
+        [
+          "Angelo M. Sabatini",
+          2
+        ],
+        [
+          "F. Vivaldi",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 3.82,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Benedetto Allotta",
+          6
+        ],
+        [
+          "Michele Rucci",
+          5
+        ],
+        [
+          "Giorgio C. Buttazzo",
+          4
+        ],
+        [
+          "Eugenio Guglielmelli",
+          4
+        ],
+        [
+          "Angelo M. Sabatini",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 4.47,
+      "unique_coauthors": 34,
+      "top_coauthors": [
+        [
+          "Maria Chiara Carrozza",
+          7
+        ],
+        [
+          "Davide Taddeucci",
+          5
+        ],
+        [
+          "Roberto Lazzarini",
+          3
+        ],
+        [
+          "Cecilia Laschi",
+          3
+        ],
+        [
+          "Eugenio Guglielmelli",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 6.03,
+      "unique_coauthors": 83,
+      "top_coauthors": [
+        [
+          "Cecilia Laschi",
+          12
+        ],
+        [
+          "Arianna Menciassi",
+          12
+        ],
+        [
+          "Eugenio Guglielmelli",
+          11
+        ],
+        [
+          "Maria Chiara Carrozza",
+          9
+        ],
+        [
+          "Giancarlo Teti",
+          8
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 5.93,
+      "unique_coauthors": 108,
+      "top_coauthors": [
+        [
+          "Arianna Menciassi",
+          15
+        ],
+        [
+          "Maria Chiara Carrozza",
+          10
+        ],
+        [
+          "Eugenio Guglielmelli",
+          9
+        ],
+        [
+          "Cecilia Laschi",
+          7
+        ],
+        [
+          "Cesare Stefanini",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 6.4,
+      "unique_coauthors": 87,
+      "top_coauthors": [
+        [
+          "Arianna Menciassi",
+          17
+        ],
+        [
+          "Cecilia Laschi",
+          10
+        ],
+        [
+          "Barbara Mazzolai",
+          8
+        ],
+        [
+          "Pietro Valdastri",
+          7
+        ],
+        [
+          "Edoardo Sinibaldi",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 6.07,
+      "unique_coauthors": 54,
+      "top_coauthors": [
+        [
+          "Toshio Fukuda",
+          3
+        ],
+        [
+          "Cecilia Laschi",
+          3
+        ],
+        [
+          "Filippo Cavallo",
+          2
+        ],
+        [
+          "Huaping Wang",
+          2
+        ],
+        [
+          "Qing Shi",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 8.14,
+      "unique_coauthors": 44,
+      "top_coauthors": [
+        [
+          "Guang-Zhong Yang",
+          2
+        ],
+        [
+          "Steven H. Collins",
+          2
+        ],
+        [
+          "Ken Goldberg",
+          2
+        ],
+        [
+          "Marcia McNutt",
+          2
+        ],
+        [
+          "Zhibin Song",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 7,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Gianluca Manduca",
+          1
+        ],
+        [
+          "Luca Padovani",
+          1
+        ],
+        [
+          "Gaspare Santaera",
+          1
+        ],
+        [
+          "Giorgio Graziani",
+          1
+        ],
+        [
+          "Donato Romano",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.354,
+  "top_repeat_coauthors": [
+    {
+      "name": "Arianna Menciassi",
+      "count": 48,
+      "first_year": 1998,
+      "last_year": 2021
+    },
+    {
+      "name": "Cecilia Laschi",
+      "count": 38,
+      "first_year": 1994,
+      "last_year": 2021
+    },
+    {
+      "name": "Maria Chiara Carrozza",
+      "count": 27,
+      "first_year": 1996,
+      "last_year": 2013
+    },
+    {
+      "name": "Eugenio Guglielmelli",
+      "count": 26,
+      "first_year": 1993,
+      "last_year": 2007
+    },
+    {
+      "name": "Cesare Stefanini",
+      "count": 17,
+      "first_year": 1997,
+      "last_year": 2025
+    },
+    {
+      "name": "Barbara Mazzolai",
+      "count": 12,
+      "first_year": 2007,
+      "last_year": 2018
+    },
+    {
+      "name": "Giancarlo Teti",
+      "count": 11,
+      "first_year": 2000,
+      "last_year": 2006
+    },
+    {
+      "name": "Pietro Valdastri",
+      "count": 11,
+      "first_year": 2003,
+      "last_year": 2012
+    },
+    {
+      "name": "Stefano Roccella",
+      "count": 9,
+      "first_year": 2002,
+      "last_year": 2008
+    },
+    {
+      "name": "Atsuo Takanishi",
+      "count": 9,
+      "first_year": 2003,
+      "last_year": 2012
+    },
+    {
+      "name": "Benedetto Allotta",
+      "count": 8,
+      "first_year": 1990,
+      "last_year": 1996
+    },
+    {
+      "name": "Massimiliano Zecca",
+      "count": 8,
+      "first_year": 2000,
+      "last_year": 2007
+    },
+    {
+      "name": "Loredana Zollo",
+      "count": 8,
+      "first_year": 2001,
+      "last_year": 2007
+    },
+    {
+      "name": "Angelo M. Sabatini",
+      "count": 6,
+      "first_year": 1988,
+      "last_year": 1995
+    },
+    {
+      "name": "Davide Taddeucci",
+      "count": 6,
+      "first_year": 1997,
+      "last_year": 2000
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Barbara Mazzolai",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 12,
+      "student_first_author_count": 1,
+      "we_last_author_count": 8,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Arianna Menciassi",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 48,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Loredana Zollo",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Giancarlo Teti",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Gabriele Ferri",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Silvestro Micera",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Luca Ascari",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Stefano Roccella",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 9,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Virgilio Mattoli",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Massimiliano Simi",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Umberto Scarfogliero",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Marco Quirini",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Maria Chiara Carrozza",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 27,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Lucia Beccai",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Marco Piccigallo",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Eugenio Guglielmelli",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 26,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Michele Rucci",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1994
+    },
+    {
+      "name": "Vincenzo Genovese",
+      "student_first_year": 1991,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1995
+    },
+    {
+      "name": "Simona D&apos",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Dino Accoto",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Gioel Asuni",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Anna Eisinberg",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Giuseppe Tortora",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Carlo Colombo",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1995
+    },
+    {
+      "name": "Taimoor Hassan",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Roberto Lazzarini",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Kanako Harada",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Ulisse Bertocchi",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Dimitris P. Tsakiris",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Gianni La Spina",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Francesco Focacci",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Davide Taddeucci",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 1,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Byungkyu Kim",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Marco Salerno",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Benedetto Allotta",
+      "student_first_year": 1990,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 1996
+    },
+    {
+      "name": "Hiroyasu Miwa",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Domenico Campolo",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Matteo Cianchetti",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Bruno Massa",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Keith Houston",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Stefano Mintchev",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Raffaele Limosani",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Gianluca Manduca",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Edoardo Datteri",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Xuyang Ren",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Fabio Leoni",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Kazuko Itoh",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Francesco Patane",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Pasquale Ciarletta",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2009
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1985,
+      1994
+    ],
+    "early_mean_n_authors": 3.78,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 6.73
+  },
+  "citation_half_life_years": 19,
+  "bursts": {
+    "productivity": [
+      2003,
+      2007
+    ],
+    "impact": [
+      2002,
+      2004,
+      2007
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Combating COVID-19 - The role of robotics in managing public health and infectious diseases",
+      "cites": 564,
+      "n_authors": 13,
+      "role": "middle",
+      "concepts": [
+        "Coronavirus disease 2019 (COVID-19)",
+        "2019-20 coronavirus outbreak",
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "Public health",
+        "Robotics"
+      ],
+      "doi": "10.1126/scirobotics.abb5589",
+      "coauthors": [
+        "Guang-Zhong Yang",
+        "Bradley J. Nelson",
+        "Robin R. Murphy",
+        "Howie Choset",
+        "Henrik I. Christensen",
+        "Steven H. Collins",
+        "Ken Goldberg",
+        "Koji Ikuta",
+        "Neil Jacobstein",
+        "Danica Kragic",
+        "Russell H. Taylor",
+        "Marcia McNutt"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "Sci-Rob",
+      "title": "Biohybrid actuators for robotics: A review of devices actuated by living cells",
+      "cites": 511,
+      "n_authors": 9,
+      "role": "middle",
+      "concepts": [
+        "Interfacing",
+        "Bottleneck",
+        "Exploit",
+        "Computer science",
+        "Actuator"
+      ],
+      "doi": "10.1126/scirobotics.aaq0495",
+      "coauthors": [
+        "Barry Trimmer",
+        "Adam W. Feinberg",
+        "Ritu Raman",
+        "Kevin Kit Parker",
+        "Rashid Bashir",
+        "Metin Sitti",
+        "Sylvain Martel",
+        "Arianna Menciassi"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "Design and Development of an Underactuated Prosthetic Hand",
+      "cites": 332,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Underactuation",
+        "Grippers",
+        "Prosthetic hand",
+        "Mechatronics",
+        "Thumb"
+      ],
+      "doi": "10.1109/robot.2002.1014232",
+      "coauthors": [
+        "Bruno Massa",
+        "Stefano Roccella",
+        "Maria Chiara Carrozza"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-Mech",
+      "title": "Biomechatronic Design and Control of an Anthropomorphic Artificial Hand for Prosthetic and Robotic Applications",
+      "cites": 330,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Thumb",
+        "GRASP",
+        "Robotics",
+        "Underactuation",
+        "Kinematics"
+      ],
+      "doi": "10.1109/tmech.2007.901936",
+      "coauthors": [
+        "Loredana Zollo",
+        "Stefano Roccella",
+        "Eugenio Guglielmelli",
+        "Maria Chiara Carrozza"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "T-RO",
+      "title": "A New Mechanism for Mesoscale Legged Locomotion in Compliant Tubular Environments",
+      "cites": 269,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Mechanism (biology)",
+        "Legged robot",
+        "Traverse",
+        "Kinematics",
+        "Mesoscale meteorology"
+      ],
+      "doi": "10.1109/tro.2009.2014127",
+      "coauthors": [
+        "Pietro Valdastri",
+        "Robert J. Webster III",
+        "Claudio Quaglia",
+        "Marco Quirini",
+        "Arianna Menciassi"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "T-Mech",
+      "title": "Design of a Novel Bimanual Robotic System for Single-Port Laparoscopy",
+      "cites": 173,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Teleoperation",
+        "Port (circuit theory)",
+        "Simulation",
+        "Wrist",
+        "Engineering"
+      ],
+      "doi": "10.1109/tmech.2010.2078512",
+      "coauthors": [
+        "Marco Piccigallo",
+        "Umberto Scarfogliero",
+        "Claudio Quaglia",
+        "Gianluigi Petroni",
+        "Pietro Valdastri",
+        "Arianna Menciassi"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "T-Mech",
+      "title": "Design, Fabrication, and Testing of a Capsule With Hybrid Locomotion for Gastrointestinal Tract Exploration",
+      "cites": 160,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Mechanism (biology)",
+        "Magnet",
+        "Capsule",
+        "Computer science",
+        "Wireless"
+      ],
+      "doi": "10.1109/tmech.2010.2041244",
+      "coauthors": [
+        "Massimiliano Simi",
+        "Pietro Valdastri",
+        "Claudio Quaglia",
+        "Arianna Menciassi"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "ICRA",
+      "title": "A SMA Actuated Artificial Earthworm",
+      "cites": 159,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Earthworm",
+        "SMA*",
+        "Propulsion",
+        "Replication (statistics)",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.2004.1308760",
+      "coauthors": [
+        "Arianna Menciassi",
+        "Samuele Gorini",
+        "G. Pernorio"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-Mech",
+      "title": "Design and Fabrication of a Motor Legged Capsule for the Active Exploration of the Gastrointestinal Tract",
+      "cites": 159,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Mechanism (biology)",
+        "Capsule",
+        "Set (abstract data type)",
+        "Computer science",
+        "Digestive tract"
+      ],
+      "doi": "10.1109/tmech.2008.918491",
+      "coauthors": [
+        "Marco Quirini",
+        "Arianna Menciassi",
+        "S. Scapellato",
+        "Cesare Stefanini"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "T-Mech",
+      "title": "From “Macro” to “Micro” Manipulation: Models and Experiments",
+      "cites": 137,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Macro",
+        "Micro level",
+        "Computer science",
+        "Domain (mathematical analysis)",
+        "Macro level"
+      ],
+      "doi": "10.1109/tmech.2004.828657",
+      "coauthors": [
+        "Arianna Menciassi",
+        "A. Eisinberg",
+        "Ivano Izzo"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Paolo Dario: 41년에 걸쳐 172편, 총 7,459회 인용, h=47, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1985년 \"Tendon actuated exploratory finger with polymeric, skin-like tactile sensor\"으로 출발. 첫 500+ 인용 논문까지 32년 걸림: \"Biohybrid actuators for robotics: A review of devices actuated by living cells\" (2017, 511회).",
+        "초기 토픽: Computer science, Artificial intelligence, Tactile sensor. 최근 토픽: Fish locomotion, Traveling wave, Robot. 피벗 점수 0.35 → 점진적 이동형.",
+        "저자수 평균: 초기 3.8명 → 후기 6.7명 (팀 확장).",
+        "최다 인용 논문 \"Combating COVID-19 - The role of robotics in managing public health and infectious diseases\" (2020, 564회) — 커리어 후기에 위치.",
+        "제자 후보 추정 49명 — 상위: Barbara Mazzolai(2007~, 우리 마지막저자 8편), Arianna Menciassi(1998~, 우리 마지막저자 7편), Loredana Zollo(2001~, 우리 마지막저자 5편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "49명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Paolo Dario: over 41 years, 172 papers, 7,459 total cites, h=47, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1985 with \"Tendon actuated exploratory finger with polymeric, skin-like tactile sensor\". First 500+ cite paper came 32 years in: \"Biohybrid actuators for robotics: A review of devices actuated by living cells\" (2017, 511 cites).",
+        "Early topics: Computer science, Artificial intelligence, Tactile sensor. Recent topics: Fish locomotion, Traveling wave, Robot. Pivot score 0.35 → gradual shift.",
+        "Authors per paper: early 3.8 → late 6.7 (team growth).",
+        "Peak paper \"Combating COVID-19 - The role of robotics in managing public health and infectious diseases\" (2020, 564 cites) — fell in late career.",
+        "49 likely students — top: Barbara Mazzolai(2007~, we last-author on 8), Arianna Menciassi(1998~, we last-author on 7), Loredana Zollo(2001~, we last-author on 5)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "49 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1024 @@
+{
+  "name": "Giorgio Grisetti",
+  "slug": "giorgio-grisetti",
+  "career_stats": {
+    "first_year": 2002,
+    "last_year": 2025,
+    "span": 24,
+    "total_papers": 74,
+    "total_cites": 9588,
+    "h_index": 34,
+    "i10_index": 61,
+    "seminal_count": 4,
+    "max_cites_single_paper": 2397
+  },
+  "role_distribution": {
+    "first": 9,
+    "middle": 33,
+    "last": 32
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2002,
+      "title": "Global Hough Localization for Mobile Robots in Polygonal Environments"
+    },
+    "first_100cite": {
+      "year": 2005,
+      "title": "Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling",
+      "cites": 732,
+      "gap_from_first": 3
+    },
+    "first_500cite": {
+      "year": 2005,
+      "title": "Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling",
+      "cites": 732,
+      "gap_from_first": 3
+    },
+    "first_1000cite": {
+      "year": 2007,
+      "title": "Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters",
+      "cites": 2397,
+      "gap_from_first": 5
+    },
+    "peak_paper": {
+      "year": 2007,
+      "title": "Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters",
+      "cites": 2397
+    }
+  },
+  "year_series": {
+    "2002": {
+      "n": 1,
+      "cites": 20,
+      "max_cites": 20
+    },
+    "2003": {
+      "n": 1,
+      "cites": 20,
+      "max_cites": 20
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 4,
+      "cites": 1431,
+      "max_cites": 732
+    },
+    "2006": {
+      "n": 1,
+      "cites": 14,
+      "max_cites": 14
+    },
+    "2007": {
+      "n": 6,
+      "cites": 2842,
+      "max_cites": 2397
+    },
+    "2008": {
+      "n": 3,
+      "cites": 173,
+      "max_cites": 81
+    },
+    "2009": {
+      "n": 6,
+      "cites": 479,
+      "max_cites": 243
+    },
+    "2010": {
+      "n": 5,
+      "cites": 819,
+      "max_cites": 394
+    },
+    "2011": {
+      "n": 5,
+      "cites": 2102,
+      "max_cites": 1959
+    },
+    "2012": {
+      "n": 3,
+      "cites": 473,
+      "max_cites": 388
+    },
+    "2013": {
+      "n": 1,
+      "cites": 88,
+      "max_cites": 88
+    },
+    "2014": {
+      "n": 1,
+      "cites": 26,
+      "max_cites": 26
+    },
+    "2015": {
+      "n": 1,
+      "cites": 323,
+      "max_cites": 323
+    },
+    "2016": {
+      "n": 3,
+      "cites": 74,
+      "max_cites": 53
+    },
+    "2017": {
+      "n": 2,
+      "cites": 222,
+      "max_cites": 171
+    },
+    "2018": {
+      "n": 5,
+      "cites": 195,
+      "max_cites": 64
+    },
+    "2019": {
+      "n": 8,
+      "cites": 91,
+      "max_cites": 38
+    },
+    "2020": {
+      "n": 2,
+      "cites": 13,
+      "max_cites": 12
+    },
+    "2021": {
+      "n": 2,
+      "cites": 53,
+      "max_cites": 31
+    },
+    "2022": {
+      "n": 4,
+      "cites": 56,
+      "max_cites": 22
+    },
+    "2023": {
+      "n": 3,
+      "cites": 37,
+      "max_cites": 20
+    },
+    "2024": {
+      "n": 3,
+      "cites": 32,
+      "max_cites": 15
+    },
+    "2025": {
+      "n": 4,
+      "cites": 5,
+      "max_cites": 2
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.212
+        },
+        {
+          "c": "Particle filter",
+          "w": 0.121
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.091
+        },
+        {
+          "c": "Hough transform",
+          "w": 0.061
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.061
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.184
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.104
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.072
+        },
+        {
+          "c": "Robot",
+          "w": 0.064
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.056
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.089
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.067
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.189
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.095
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.063
+        },
+        {
+          "c": "Graph",
+          "w": 0.053
+        },
+        {
+          "c": "Point cloud",
+          "w": 0.042
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.114
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.086
+        },
+        {
+          "c": "Odometry",
+          "w": 0.057
+        },
+        {
+          "c": "Lidar",
+          "w": 0.057
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "ICRA": 5,
+        "IROS": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "IROS": 12,
+        "ICRA": 8,
+        "RSS": 2,
+        "T-RO": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 3,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "RA-L": 7,
+        "IROS": 7,
+        "ICRA": 3,
+        "RSS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "RA-L": 9,
+        "IROS": 2,
+        "ICRA": 2,
+        "RSS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 3.57,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Cyrill Stachniss",
+          4
+        ],
+        [
+          "Wolfram Burgard",
+          4
+        ],
+        [
+          "Luca Iocchi",
+          3
+        ],
+        [
+          "Daniele Nardi",
+          3
+        ],
+        [
+          "Alessandro Farinelli",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 4.44,
+      "unique_coauthors": 29,
+      "top_coauthors": [
+        [
+          "Wolfram Burgard",
+          23
+        ],
+        [
+          "Cyrill Stachniss",
+          12
+        ],
+        [
+          "Bastian Steder",
+          8
+        ],
+        [
+          "Rainer Kümmerle",
+          7
+        ],
+        [
+          "Slawomir Grzonka",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 3.44,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Wolfram Burgard",
+          3
+        ],
+        [
+          "Rainer Kümmerle",
+          2
+        ],
+        [
+          "Jacopo Serafin",
+          2
+        ],
+        [
+          "Slawomir Grzonka",
+          1
+        ],
+        [
+          "Michael Ruhnke",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 3.68,
+      "unique_coauthors": 29,
+      "top_coauthors": [
+        [
+          "Bartolomeo Della Corte",
+          8
+        ],
+        [
+          "Irvin Aloise",
+          5
+        ],
+        [
+          "Dominik Schlegel",
+          4
+        ],
+        [
+          "Mirco Colosi",
+          3
+        ],
+        [
+          "Federico Nardi",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 5.21,
+      "unique_coauthors": 32,
+      "top_coauthors": [
+        [
+          "Tiziano Guadagnino",
+          7
+        ],
+        [
+          "Luca Di Giammarino",
+          6
+        ],
+        [
+          "Cyrill Stachniss",
+          5
+        ],
+        [
+          "Leonardo Brizi",
+          5
+        ],
+        [
+          "Jens Behley",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.16,
+  "top_repeat_coauthors": [
+    {
+      "name": "Wolfram Burgard",
+      "count": 30,
+      "first_year": 2005,
+      "last_year": 2014
+    },
+    {
+      "name": "Cyrill Stachniss",
+      "count": 24,
+      "first_year": 2005,
+      "last_year": 2025
+    },
+    {
+      "name": "Rainer Kümmerle",
+      "count": 10,
+      "first_year": 2009,
+      "last_year": 2019
+    },
+    {
+      "name": "Bartolomeo Della Corte",
+      "count": 9,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Tiziano Guadagnino",
+      "count": 9,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Bastian Steder",
+      "count": 8,
+      "first_year": 2007,
+      "last_year": 2010
+    },
+    {
+      "name": "Luca Di Giammarino",
+      "count": 7,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Slawomir Grzonka",
+      "count": 6,
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "name": "Michael Ruhnke",
+      "count": 5,
+      "first_year": 2009,
+      "last_year": 2012
+    },
+    {
+      "name": "Dominik Schlegel",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Irvin Aloise",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2021
+    },
+    {
+      "name": "Leonardo Brizi",
+      "count": 5,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Daniele Nardi",
+      "count": 4,
+      "first_year": 2002,
+      "last_year": 2018
+    },
+    {
+      "name": "Luca Iocchi",
+      "count": 3,
+      "first_year": 2002,
+      "last_year": 2005
+    },
+    {
+      "name": "Gian Diego Tipaldi",
+      "count": 3,
+      "first_year": 2006,
+      "last_year": 2014
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Wolfram Burgard",
+      "advisor_active_from": 1996,
+      "early_copubs_as_our_first_author": 5,
+      "advisor_last_author_count": 4,
+      "total_copubs": 30
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Bartolomeo Della Corte",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 9,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Luca Di Giammarino",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Dominik Schlegel",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Tiziano Guadagnino",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Irvin Aloise",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Leonardo Brizi",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mirco Colosi",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Federico Nardi",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Jacopo Serafin",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Barbara Bazzana",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Simone Ferrari",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Maurilio Di Cicco",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Henrik Kretzschmar",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Bastian Steder",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Michael Ruhnke",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Rainer Kümmerle",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Slawomir Grzonka",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2002,
+      2011
+    ],
+    "early_mean_n_authors": 4.25,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.19
+  },
+  "citation_half_life_years": 17.0,
+  "bursts": {
+    "productivity": [
+      2019
+    ],
+    "impact": [
+      2007,
+      2011
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2007,
+      "venue": "T-RO",
+      "title": "Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters",
+      "cites": 2397,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Particle filter",
+        "Resampling",
+        "Monte Carlo localization",
+        "Grid",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2006.889486",
+      "coauthors": [
+        "Cyrill Stachniss",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "G2o: A general framework for graph optimization",
+      "cites": 1959,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Graph",
+        "Artificial intelligence",
+        "Range (aeronautics)",
+        "Code (set theory)"
+      ],
+      "doi": "10.1109/icra.2011.5979949",
+      "coauthors": [
+        "Rainer Kümmerle",
+        "Hauke Strasdat",
+        "Kurt Konolige",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling",
+      "cites": 732,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Particle filter",
+        "Resampling",
+        "Monte Carlo localization",
+        "Grid",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2005.1570477",
+      "coauthors": [
+        "Cyrill Stachniss",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "RSS",
+      "title": "Information Gain-based Exploration Using Rao-Blackwellized Particle Filters",
+      "cites": 535,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Particle filter",
+        "Computer science",
+        "Particle (ecology)",
+        "Artificial intelligence",
+        "Kalman filter"
+      ],
+      "doi": "10.15607/rss.2005.i.009",
+      "coauthors": [
+        "Cyrill Stachniss",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IROS",
+      "title": "Efficient Sparse Pose Adjustment for 2D mapping",
+      "cites": 394,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Bottleneck",
+        "Computer science",
+        "Simultaneous localization and mapping",
+        "Computation",
+        "Robot"
+      ],
+      "doi": "10.1109/iros.2010.5649043",
+      "coauthors": [
+        "Kurt Konolige",
+        "Rainer Kümmerle",
+        "Wolfram Burgard",
+        "Benson Limketkai",
+        "Régis Vincent"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "T-RO",
+      "title": "A Fully Autonomous Indoor Quadrotor",
+      "cites": 388,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "Global Positioning System",
+        "Set (abstract data type)",
+        "Mobile robot"
+      ],
+      "doi": "10.1109/tro.2011.2162999",
+      "coauthors": [
+        "Slawomir Grzonka",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "IROS",
+      "title": "NICP: Dense normal based point cloud registration",
+      "cites": 323,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Point cloud",
+        "Iterative closest point",
+        "Benchmark (surveying)",
+        "Normal",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2015.7353455",
+      "coauthors": [
+        "Jacopo Serafin"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "ICRA",
+      "title": "Towards a navigation system for autonomous indoor flying",
+      "cites": 243,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "Open source",
+        "Real-time computing",
+        "Mobile robot"
+      ],
+      "doi": "10.1109/robot.2009.5152446",
+      "coauthors": [
+        "Slawomir Grzonka",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "RSS",
+      "title": "A Tree Parameterization for Efficiently Computing Maximum Likelihood Maps using Gradient Descent",
+      "cites": 217,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Gradient descent",
+        "Tree (set theory)",
+        "Maximum likelihood",
+        "Algorithm"
+      ],
+      "doi": "10.15607/rss.2007.iii.009",
+      "coauthors": [
+        "Cyrill Stachniss",
+        "Slawomir Grzonka",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "ICRA",
+      "title": "Hierarchical optimization on manifolds for online 2D and 3D mapping",
+      "cites": 198,
+      "n_authors": 5,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Gravitational singularity",
+        "Manifold (fluid mechanics)",
+        "Representation (politics)",
+        "Graph"
+      ],
+      "doi": "10.1109/robot.2010.5509407",
+      "coauthors": [
+        "Rainer Kümmerle",
+        "Cyrill Stachniss",
+        "Udo Frese",
+        "Christoph Hertzberg"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Giorgio Grisetti: 24년에 걸쳐 74편, 총 9,588회 인용, h=34, 500+ 블록버스터 4편.",
+      "paragraphs": [
+        "2002년 \"Global Hough Localization for Mobile Robots in Polygonal Environments\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling\" (2005, 732회). 1000+ 인용 논문: \"Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters\" (2007, 2,397회).",
+        "초기 토픽: Computer science, Particle filter, Artificial intelligence. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.16 → 토픽 지속형.",
+        "저자수 평균: 초기 4.2명 → 후기 4.2명 (팀 유지).",
+        "최다 인용 논문 \"Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters\" (2007, 2,397회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Wolfram Burgard. 제자 후보 추정 17명 — 상위: Bartolomeo Della Corte(2016~, 우리 마지막저자 9편), Luca Di Giammarino(2021~, 우리 마지막저자 6편), Dominik Schlegel(2016~, 우리 마지막저자 5편)."
+      ],
+      "lessons": [
+        "초기 3년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "17명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Wolfram Burgard — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Giorgio Grisetti: over 24 years, 74 papers, 9,588 total cites, h=34, 4 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2002 with \"Global Hough Localization for Mobile Robots in Polygonal Environments\". First 500+ cite paper came 3 years in: \"Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling\" (2005, 732 cites). 1000+ cite paper: \"Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters\" (2007, 2,397 cites).",
+        "Early topics: Computer science, Particle filter, Artificial intelligence. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.16 → topic-stable.",
+        "Authors per paper: early 4.2 → late 4.2 (stable team).",
+        "Peak paper \"Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters\" (2007, 2,397 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Wolfram Burgard. 17 likely students — top: Bartolomeo Della Corte(2016~, we last-author on 9), Luca Di Giammarino(2021~, we last-author on 6), Dominik Schlegel(2016~, we last-author on 5)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 3 years. First-5-year topic choice is decisive.",
+        "17 likely students — mentoring is the real impact.",
+        "Likely advisor: Wolfram Burgard — started within their PhD network."
+      ]
+    }
+  }
+}

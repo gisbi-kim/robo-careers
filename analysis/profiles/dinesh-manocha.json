@@ -1,0 +1,1479 @@
+{
+  "name": "Dinesh Manocha",
+  "slug": "dinesh-manocha",
+  "career_stats": {
+    "first_year": 1992,
+    "last_year": 2025,
+    "span": 34,
+    "total_papers": 184,
+    "total_cites": 8801,
+    "h_index": 45,
+    "i10_index": 118,
+    "seminal_count": 2,
+    "max_cites_single_paper": 1682
+  },
+  "role_distribution": {
+    "first": 2,
+    "last": 152,
+    "middle": 30
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1992,
+      "title": "Real time inverse kinematics for general 6R manipulators"
+    },
+    "first_100cite": {
+      "year": 2000,
+      "title": "Fast Distance Queries with Rectangular Swept Sphere Volumes",
+      "cites": 275,
+      "gap_from_first": 8
+    },
+    "first_500cite": {
+      "year": 2008,
+      "title": "Reciprocal Velocity Obstacles for real-time multi-agent navigation",
+      "cites": 1682,
+      "gap_from_first": 16
+    },
+    "first_1000cite": {
+      "year": 2008,
+      "title": "Reciprocal Velocity Obstacles for real-time multi-agent navigation",
+      "cites": 1682,
+      "gap_from_first": 16
+    },
+    "peak_paper": {
+      "year": 2008,
+      "title": "Reciprocal Velocity Obstacles for real-time multi-agent navigation",
+      "cites": 1682
+    }
+  },
+  "year_series": {
+    "1992": {
+      "n": 1,
+      "cites": 76,
+      "max_cites": 76
+    },
+    "1993": {
+      "n": 1,
+      "cites": 27,
+      "max_cites": 27
+    },
+    "1994": {
+      "n": 2,
+      "cites": 78,
+      "max_cites": 46
+    },
+    "1995": {
+      "n": 1,
+      "cites": 10,
+      "max_cites": 10
+    },
+    "1996": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1997": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1998": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 2,
+      "cites": 369,
+      "max_cites": 275
+    },
+    "2001": {
+      "n": 1,
+      "cites": 103,
+      "max_cites": 103
+    },
+    "2002": {
+      "n": 1,
+      "cites": 75,
+      "max_cites": 75
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 4,
+      "cites": 158,
+      "max_cites": 68
+    },
+    "2006": {
+      "n": 4,
+      "cites": 69,
+      "max_cites": 22
+    },
+    "2007": {
+      "n": 4,
+      "cites": 174,
+      "max_cites": 56
+    },
+    "2008": {
+      "n": 3,
+      "cites": 1829,
+      "max_cites": 1682
+    },
+    "2009": {
+      "n": 6,
+      "cites": 640,
+      "max_cites": 243
+    },
+    "2010": {
+      "n": 7,
+      "cites": 297,
+      "max_cites": 130
+    },
+    "2011": {
+      "n": 3,
+      "cites": 750,
+      "max_cites": 445
+    },
+    "2012": {
+      "n": 6,
+      "cites": 856,
+      "max_cites": 532
+    },
+    "2013": {
+      "n": 2,
+      "cites": 116,
+      "max_cites": 78
+    },
+    "2014": {
+      "n": 2,
+      "cites": 46,
+      "max_cites": 39
+    },
+    "2015": {
+      "n": 3,
+      "cites": 136,
+      "max_cites": 113
+    },
+    "2016": {
+      "n": 6,
+      "cites": 263,
+      "max_cites": 72
+    },
+    "2017": {
+      "n": 9,
+      "cites": 194,
+      "max_cites": 73
+    },
+    "2018": {
+      "n": 8,
+      "cites": 463,
+      "max_cites": 207
+    },
+    "2019": {
+      "n": 15,
+      "cites": 664,
+      "max_cites": 207
+    },
+    "2020": {
+      "n": 17,
+      "cites": 234,
+      "max_cites": 65
+    },
+    "2021": {
+      "n": 11,
+      "cites": 361,
+      "max_cites": 123
+    },
+    "2022": {
+      "n": 15,
+      "cites": 412,
+      "max_cites": 139
+    },
+    "2023": {
+      "n": 13,
+      "cites": 166,
+      "max_cites": 23
+    },
+    "2024": {
+      "n": 19,
+      "cites": 172,
+      "max_cites": 63
+    },
+    "2025": {
+      "n": 18,
+      "cites": 63,
+      "max_cites": 34
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1992,
+      "end": 1996,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.12
+        },
+        {
+          "c": "Inverse kinematics",
+          "w": 0.08
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.08
+        },
+        {
+          "c": "Algorithm",
+          "w": 0.08
+        },
+        {
+          "c": "Polytope",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Computation",
+          "w": 0.133
+        },
+        {
+          "c": "Voronoi diagram",
+          "w": 0.133
+        },
+        {
+          "c": "Centroidal Voronoi tessellation",
+          "w": 0.133
+        },
+        {
+          "c": "Bounding overwatch",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Motion planning",
+          "w": 0.133
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Robot",
+          "w": 0.111
+        },
+        {
+          "c": "Algorithm",
+          "w": 0.044
+        },
+        {
+          "c": "Path (computing)",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 23,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.114
+        },
+        {
+          "c": "Robot",
+          "w": 0.088
+        },
+        {
+          "c": "Computation",
+          "w": 0.053
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.053
+        },
+        {
+          "c": "Obstacle",
+          "w": 0.053
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.179
+        },
+        {
+          "c": "Computation",
+          "w": 0.063
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.063
+        },
+        {
+          "c": "Collision",
+          "w": 0.053
+        },
+        {
+          "c": "Algorithm",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 60,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.187
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.06
+        },
+        {
+          "c": "Robot",
+          "w": 0.047
+        },
+        {
+          "c": "Collision avoidance",
+          "w": 0.033
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.03
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 65,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.194
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.135
+        },
+        {
+          "c": "Robot",
+          "w": 0.069
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.053
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.022
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1992,
+      "end": 1996,
+      "mix": {
+        "ICRA": 5
+      }
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "mix": {
+        "ICRA": 2,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "ICRA": 4,
+        "RSS": 3,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 7,
+        "RSS": 3,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "ICRA": 11,
+        "IJRR": 4,
+        "IROS": 2,
+        "T-RO": 1,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "ICRA": 18,
+        "IROS": 17,
+        "RA-L": 17,
+        "RSS": 3,
+        "T-RO": 2,
+        "Sci-Rob": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "IROS": 25,
+        "ICRA": 23,
+        "RA-L": 15,
+        "RSS": 1,
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1992,
+      "end": 1996,
+      "mean_n_authors": 2.6,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "John F. Canny",
+          3
+        ],
+        [
+          "Ming C. Lin",
+          2
+        ],
+        [
+          "Aaron S. Wallack",
+          1
+        ],
+        [
+          "Yunshan Zhu",
+          1
+        ],
+        [
+          "Madhav K. Ponamgi",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "mean_n_authors": 4.33,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Ming C. Lin",
+          3
+        ],
+        [
+          "Eric Larsen",
+          1
+        ],
+        [
+          "Stefan Gottschalk",
+          1
+        ],
+        [
+          "Kenneth E. Hoff III",
+          1
+        ],
+        [
+          "Tim Culver",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 3.44,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Gokul Varadhan",
+          5
+        ],
+        [
+          "Ming C. Lin",
+          4
+        ],
+        [
+          "Young J. Kim",
+          3
+        ],
+        [
+          "Shankar Krishnan",
+          3
+        ],
+        [
+          "Russell Gayle",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 3.39,
+      "unique_coauthors": 20,
+      "top_coauthors": [
+        [
+          "Liangjun Zhang",
+          7
+        ],
+        [
+          "Ming C. Lin",
+          7
+        ],
+        [
+          "Young J. Kim",
+          5
+        ],
+        [
+          "Jur P. van den Berg",
+          5
+        ],
+        [
+          "Jamie Snape",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 3.58,
+      "unique_coauthors": 31,
+      "top_coauthors": [
+        [
+          "Jia Pan",
+          9
+        ],
+        [
+          "Aniket Bera",
+          3
+        ],
+        [
+          "Sachin Chitta",
+          2
+        ],
+        [
+          "David Wilkie",
+          2
+        ],
+        [
+          "Stephen J. Guy",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 4.65,
+      "unique_coauthors": 113,
+      "top_coauthors": [
+        [
+          "Aniket Bera",
+          11
+        ],
+        [
+          "Zherong Pan",
+          10
+        ],
+        [
+          "Jia Pan",
+          9
+        ],
+        [
+          "Jae Sung Park",
+          6
+        ],
+        [
+          "Rohan Chandra",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 5.58,
+      "unique_coauthors": 131,
+      "top_coauthors": [
+        [
+          "Kasun Weerakoon",
+          16
+        ],
+        [
+          "Jing Liang",
+          16
+        ],
+        [
+          "Tianrui Guan",
+          13
+        ],
+        [
+          "Adarsh Jagan Sathyamoorthy",
+          12
+        ],
+        [
+          "Mohamed Elnoor",
+          10
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.332,
+  "top_repeat_coauthors": [
+    {
+      "name": "Ming C. Lin",
+      "count": 22,
+      "first_year": 1994,
+      "last_year": 2024
+    },
+    {
+      "name": "Jia Pan",
+      "count": 21,
+      "first_year": 2010,
+      "last_year": 2020
+    },
+    {
+      "name": "Jing Liang",
+      "count": 19,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Tianrui Guan",
+      "count": 17,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Adarsh Jagan Sathyamoorthy",
+      "count": 16,
+      "first_year": 2019,
+      "last_year": 2024
+    },
+    {
+      "name": "Kasun Weerakoon",
+      "count": 16,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Aniket Bera",
+      "count": 15,
+      "first_year": 2014,
+      "last_year": 2023
+    },
+    {
+      "name": "Zherong Pan",
+      "count": 14,
+      "first_year": 2016,
+      "last_year": 2023
+    },
+    {
+      "name": "Senthil Hariharan Arul",
+      "count": 13,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Liangjun Zhang",
+      "count": 11,
+      "first_year": 2006,
+      "last_year": 2022
+    },
+    {
+      "name": "Rohan Chandra",
+      "count": 11,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Young J. Kim",
+      "count": 10,
+      "first_year": 2002,
+      "last_year": 2015
+    },
+    {
+      "name": "Mohamed Elnoor",
+      "count": 10,
+      "first_year": 2024,
+      "last_year": 2025
+    },
+    {
+      "name": "Chonhyon Park",
+      "count": 7,
+      "first_year": 2013,
+      "last_year": 2019
+    },
+    {
+      "name": "Amrit Singh Bedi",
+      "count": 7,
+      "first_year": 2022,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Adarsh Jagan Sathyamoorthy",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 16,
+      "total_copubs": 16,
+      "student_first_author_count": 7,
+      "we_last_author_count": 16,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Tianrui Guan",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 17,
+      "total_copubs": 17,
+      "student_first_author_count": 4,
+      "we_last_author_count": 15,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kasun Weerakoon",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 16,
+      "total_copubs": 16,
+      "student_first_author_count": 4,
+      "we_last_author_count": 15,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jing Liang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 19,
+      "total_copubs": 19,
+      "student_first_author_count": 8,
+      "we_last_author_count": 14,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Rohan Chandra",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 8,
+      "we_last_author_count": 11,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Zherong Pan",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 14,
+      "student_first_author_count": 5,
+      "we_last_author_count": 11,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Senthil Hariharan Arul",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 13,
+      "student_first_author_count": 9,
+      "we_last_author_count": 10,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mohamed Elnoor",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 10,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jia Pan",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 21,
+      "student_first_author_count": 7,
+      "we_last_author_count": 9,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Aniket Bera",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 15,
+      "student_first_author_count": 5,
+      "we_last_author_count": 9,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Liangjun Zhang",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 11,
+      "student_first_author_count": 6,
+      "we_last_author_count": 8,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Russell Gayle",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Jae Sung Park",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Utsav Patel",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Gokul Varadhan",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Jamie Snape",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Chonhyon Park",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Biao Jia",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Young J. Kim",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 10,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Tanmay Randhavane",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Zhe Hu",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Tingxiang Fan",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Xijun Wang",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Liang He",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Yu-Ping Wang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Jur van den Berg",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Jur P. van den Berg",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Gershom Seneviratne",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "James F. Mullen Jr.",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Qiaoyun Wu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Min Tang",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Andrew Best",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Aakriti Agrawal",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Qingyang Tan",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "David Wilkie",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Amirreza Payandeh",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sujeong Kim",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Divya Kothandaraman",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Yu Zheng",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Vishnu Sashank Dorbala",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xiyang Wu",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Shivang Patel",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Souradip Chakraborty",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jaehoon Choi",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Inkyu An",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Christopher Maxey",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yangzhe Kong",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1992,
+      2001
+    ],
+    "early_mean_n_authors": 3.25,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.05
+  },
+  "citation_half_life_years": 15,
+  "bursts": {
+    "productivity": [
+      2020,
+      2024,
+      2025
+    ],
+    "impact": [
+      2008
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2008,
+      "venue": "ICRA",
+      "title": "Reciprocal Velocity Obstacles for real-time multi-agent navigation",
+      "cites": 1682,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Obstacle",
+        "Reciprocal",
+        "Computer science",
+        "Obstacle avoidance",
+        "Scalability"
+      ],
+      "doi": "10.1109/robot.2008.4543489",
+      "coauthors": [
+        "Jur P. van den Berg",
+        "Ming C. Lin"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "FCL: A general purpose library for collision and proximity queries",
+      "cites": 532,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Collision",
+        "Computation",
+        "Collision detection",
+        "Set (abstract data type)"
+      ],
+      "doi": "10.1109/icra.2012.6225337",
+      "coauthors": [
+        "Jia Pan",
+        "Sachin Chitta"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "T-RO",
+      "title": "The Hybrid Reciprocal Velocity Obstacle",
+      "cites": 445,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Reciprocal",
+        "Robot",
+        "Obstacle",
+        "Mobile robot",
+        "Collision"
+      ],
+      "doi": "10.1109/tro.2011.2120810",
+      "coauthors": [
+        "Jamie Snape",
+        "Jur P. van den Berg",
+        "Stephen J. Guy"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "Reciprocal collision avoidance with acceleration-velocity obstacles",
+      "cites": 286,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Holonomic",
+        "Robot",
+        "Acceleration",
+        "Collision avoidance",
+        "Workspace"
+      ],
+      "doi": "10.1109/icra.2011.5980408",
+      "coauthors": [
+        "Jur P. van den Berg",
+        "Jamie Snape",
+        "Stephen J. Guy"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Fast Distance Queries with Rectangular Swept Sphere Volumes",
+      "cites": 275,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Bounding overwatch",
+        "Tree traversal",
+        "Computer science",
+        "Computation",
+        "Bounding volume"
+      ],
+      "doi": "10.1109/robot.2000.845311",
+      "coauthors": [
+        "Eric Larsen",
+        "Stefan Gottschalk",
+        "Ming C. Lin"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IROS",
+      "title": "Generalized velocity obstacles",
+      "cites": 243,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Obstacle",
+        "Robot",
+        "Collision",
+        "Computer science",
+        "Point (geometry)"
+      ],
+      "doi": "10.1109/iros.2009.5354175",
+      "coauthors": [
+        "David Wilkie",
+        "Jur P. van den Berg"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "PORCA: Modeling and Planning for Autonomous Driving Among Many Pedestrians",
+      "cites": 207,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Pedestrian",
+        "Computer science",
+        "Collision avoidance",
+        "Key (lock)",
+        "Process (computing)"
+      ],
+      "doi": "10.1109/lra.2018.2852793",
+      "coauthors": [
+        "Yuanfu Luo",
+        "Panpan Cai",
+        "Aniket Bera",
+        "David Hsu",
+        "Wee Sun Lee"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "AADS: Augmented autonomous driving simulation using data-driven algorithms",
+      "cites": 207,
+      "n_authors": 14,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Scalability",
+        "Fidelity",
+        "Viewpoints",
+        "Computer graphics"
+      ],
+      "doi": "10.1126/scirobotics.aaw0863",
+      "coauthors": [
+        "Wei Li",
+        "Chengwei Pan",
+        "Rong Zhang",
+        "Jiaping Ren",
+        "Yuexin Ma",
+        "Jin Fang",
+        "Feilong Yan",
+        "Qichuan Geng",
+        "Xinyu Huang",
+        "Huajun Gong",
+        "Weiwei Xu",
+        "Guoping Wang",
+        "Ruigang Yang"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "RSS",
+      "title": "Centralized path planning for multiple robots: Optimal decoupling into sequential plans",
+      "cites": 179,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Decoupling (probability)",
+        "Motion planning",
+        "Computer science",
+        "Robot",
+        "Path (computing)"
+      ],
+      "doi": "10.15607/rss.2009.v.018",
+      "coauthors": [
+        "Jur van den Berg",
+        "Jack Snoeyink",
+        "Ming C. Lin"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "T-RO",
+      "title": "An Efficient Acyclic Contact Planner for Multiped Robots",
+      "cites": 144,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Reachability",
+        "Motion planning",
+        "Computer science",
+        "Robotics"
+      ],
+      "doi": "10.1109/tro.2018.2819658",
+      "coauthors": [
+        "Steve Tonneau",
+        "Andrea Del Prete",
+        "Julien Pettré",
+        "Chonhyon Park",
+        "Nicolas Mansard"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Dinesh Manocha: 34년에 걸쳐 184편, 총 8,801회 인용, h=45, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1992년 \"Real time inverse kinematics for general 6R manipulators\"으로 출발. 첫 500+ 인용 논문까지 16년 걸림: \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682회). 1000+ 인용 논문: \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682회).",
+        "초기 토픽: Computer science, Inverse kinematics, Kinematics. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.33 → 점진적 이동형.",
+        "저자수 평균: 초기 3.2명 → 후기 5.0명 (팀 확장).",
+        "최다 인용 논문 \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682회) — 커리어 중기에 위치.",
+        "제자 후보 추정 47명 — 상위: Adarsh Jagan Sathyamoorthy(2019~, 우리 마지막저자 16편), Tianrui Guan(2020~, 우리 마지막저자 15편), Kasun Weerakoon(2022~, 우리 마지막저자 15편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "47명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Dinesh Manocha: over 34 years, 184 papers, 8,801 total cites, h=45, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1992 with \"Real time inverse kinematics for general 6R manipulators\". First 500+ cite paper came 16 years in: \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682 cites). 1000+ cite paper: \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682 cites).",
+        "Early topics: Computer science, Inverse kinematics, Kinematics. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.33 → gradual shift.",
+        "Authors per paper: early 3.2 → late 5.0 (team growth).",
+        "Peak paper \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682 cites) — fell in mid career.",
+        "47 likely students — top: Adarsh Jagan Sathyamoorthy(2019~, we last-author on 16), Tianrui Guan(2020~, we last-author on 15), Kasun Weerakoon(2022~, we last-author on 15)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "47 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

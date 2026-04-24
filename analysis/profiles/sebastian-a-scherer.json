@@ -1,0 +1,1155 @@
+{
+  "name": "Sebastian A. Scherer",
+  "slug": "sebastian-a-scherer",
+  "career_stats": {
+    "first_year": 2006,
+    "last_year": 2025,
+    "span": 20,
+    "total_papers": 136,
+    "total_cites": 8483,
+    "h_index": 37,
+    "i10_index": 82,
+    "seminal_count": 1,
+    "max_cites_single_paper": 3548
+  },
+  "role_distribution": {
+    "middle": 29,
+    "first": 7,
+    "last": 100
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2006,
+      "title": "Learning to Drive Among Obstacles"
+    },
+    "first_100cite": {
+      "year": 2007,
+      "title": "Flying Fast and Low Among Obstacles",
+      "cites": 100,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2015,
+      "title": "VoxNet: A 3D Convolutional Neural Network for real-time object recognition",
+      "cites": 3548,
+      "gap_from_first": 9
+    },
+    "first_1000cite": {
+      "year": 2015,
+      "title": "VoxNet: A 3D Convolutional Neural Network for real-time object recognition",
+      "cites": 3548,
+      "gap_from_first": 9
+    },
+    "peak_paper": {
+      "year": 2015,
+      "title": "VoxNet: A 3D Convolutional Neural Network for real-time object recognition",
+      "cites": 3548
+    }
+  },
+  "year_series": {
+    "2006": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "2007": {
+      "n": 1,
+      "cites": 100,
+      "max_cites": 100
+    },
+    "2008": {
+      "n": 1,
+      "cites": 187,
+      "max_cites": 187
+    },
+    "2009": {
+      "n": 1,
+      "cites": 21,
+      "max_cites": 21
+    },
+    "2010": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2011": {
+      "n": 3,
+      "cites": 83,
+      "max_cites": 38
+    },
+    "2012": {
+      "n": 2,
+      "cites": 54,
+      "max_cites": 40
+    },
+    "2013": {
+      "n": 5,
+      "cites": 345,
+      "max_cites": 152
+    },
+    "2014": {
+      "n": 2,
+      "cites": 33,
+      "max_cites": 18
+    },
+    "2015": {
+      "n": 10,
+      "cites": 3885,
+      "max_cites": 3548
+    },
+    "2016": {
+      "n": 4,
+      "cites": 298,
+      "max_cites": 153
+    },
+    "2017": {
+      "n": 9,
+      "cites": 391,
+      "max_cites": 105
+    },
+    "2018": {
+      "n": 4,
+      "cites": 21,
+      "max_cites": 7
+    },
+    "2019": {
+      "n": 11,
+      "cites": 855,
+      "max_cites": 427
+    },
+    "2020": {
+      "n": 10,
+      "cites": 557,
+      "max_cites": 341
+    },
+    "2021": {
+      "n": 13,
+      "cites": 503,
+      "max_cites": 182
+    },
+    "2022": {
+      "n": 14,
+      "cites": 346,
+      "max_cites": 72
+    },
+    "2023": {
+      "n": 14,
+      "cites": 331,
+      "max_cites": 55
+    },
+    "2024": {
+      "n": 16,
+      "cites": 428,
+      "max_cites": 162
+    },
+    "2025": {
+      "n": 15,
+      "cites": 41,
+      "max_cites": 18
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Collision avoidance",
+          "w": 0.1
+        },
+        {
+          "c": "Terrain",
+          "w": 0.1
+        },
+        {
+          "c": "Obstacle avoidance",
+          "w": 0.1
+        },
+        {
+          "c": "Focus (optics)",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.181
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.086
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.057
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.038
+        },
+        {
+          "c": "Robot",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 38,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.189
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.121
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.089
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.026
+        },
+        {
+          "c": "Visual odometry",
+          "w": 0.021
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 72,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.184
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.133
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.065
+        },
+        {
+          "c": "Robot",
+          "w": 0.031
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.02
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "ICRA": 2,
+        "IROS": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 15,
+        "IROS": 6,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "IROS": 20,
+        "ICRA": 13,
+        "RA-L": 2,
+        "RSS": 1,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "ICRA": 24,
+        "IROS": 20,
+        "RA-L": 17,
+        "T-RO": 6,
+        "IJRR": 2,
+        "RSS": 2,
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 3.5,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Sanjiv Singh",
+          4
+        ],
+        [
+          "Lyle Chamberlain",
+          2
+        ],
+        [
+          "Bradley Hamner",
+          1
+        ],
+        [
+          "Srikanth Saripalli",
+          1
+        ],
+        [
+          "Mike Elgersma",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 3.14,
+      "unique_coauthors": 22,
+      "top_coauthors": [
+        [
+          "Sanjiv Singh",
+          7
+        ],
+        [
+          "Sanjiban Choudhury",
+          6
+        ],
+        [
+          "Sankalp Arora",
+          4
+        ],
+        [
+          "Stephen Nuske",
+          3
+        ],
+        [
+          "Lyle Chamberlain",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 3.95,
+      "unique_coauthors": 61,
+      "top_coauthors": [
+        [
+          "Shichao Yang",
+          7
+        ],
+        [
+          "Sanjiban Choudhury",
+          6
+        ],
+        [
+          "Weikun Zhen",
+          6
+        ],
+        [
+          "Michael Kaess",
+          5
+        ],
+        [
+          "Wenshan Wang",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 5.93,
+      "unique_coauthors": 198,
+      "top_coauthors": [
+        [
+          "Wenshan Wang",
+          14
+        ],
+        [
+          "Peng Yin",
+          11
+        ],
+        [
+          "Chen Wang",
+          10
+        ],
+        [
+          "Brady G. Moon",
+          9
+        ],
+        [
+          "Samuel Triest",
+          7
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.184,
+  "top_repeat_coauthors": [
+    {
+      "name": "Wenshan Wang",
+      "count": 19,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Sanjiban Choudhury",
+      "count": 12,
+      "first_year": 2013,
+      "last_year": 2019
+    },
+    {
+      "name": "Sanjiv Singh",
+      "count": 11,
+      "first_year": 2006,
+      "last_year": 2013
+    },
+    {
+      "name": "Chen Wang",
+      "count": 11,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Peng Yin",
+      "count": 11,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Brady G. Moon",
+      "count": 10,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Sankalp Arora",
+      "count": 8,
+      "first_year": 2013,
+      "last_year": 2018
+    },
+    {
+      "name": "Weikun Zhen",
+      "count": 8,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "Yaoyu Hu",
+      "count": 8,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Yuheng Qiu",
+      "count": 8,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Shichao Yang",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2019
+    },
+    {
+      "name": "Shibo Zhao",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Rogerio Bonatti",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2021
+    },
+    {
+      "name": "Cherie Ho",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Ji Zhang",
+      "count": 7,
+      "first_year": 2020,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Sanjiv Singh",
+      "advisor_active_from": 1986,
+      "early_copubs_as_our_first_author": 4,
+      "advisor_last_author_count": 2,
+      "total_copubs": 11
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Wenshan Wang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 19,
+      "student_first_author_count": 2,
+      "we_last_author_count": 14,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Peng Yin",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 5,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Brady G. Moon",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Shichao Yang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 6,
+      "we_last_author_count": 7,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Yuheng Qiu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yaoyu Hu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sankalp Arora",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Weikun Zhen",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Samuel Triest",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Matthew Sivaprakasam",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sanjiban Choudhury",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 12,
+      "student_first_author_count": 7,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Rogerio Bonatti",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Daniel Maturana",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Huai Yu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jay Patrikar",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Seungchan Kim",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mohammadreza Mousaei",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Shiqi Zhao",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Azarakhsh Keipour",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Shibo Zhao",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zheng Fang",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Ratnesh Madaan",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Cherie Ho",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yafei Hu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mateo Guaman Castro",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Andrew Jong",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Geetesh Dubey",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Guanqi He",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Nikhil Varma Keetha",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Micah Nye",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xiangwei Wang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Yao He",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Devansh Dhrafani",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Haowen Lai",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Junbin Yuan",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xiaofeng Guo",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Arthur Bucker",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Eric Dexheimer",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2006,
+      2015
+    ],
+    "early_mean_n_authors": 3.19,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.25
+  },
+  "citation_half_life_years": 11,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2015
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2015,
+      "venue": "IROS",
+      "title": "VoxNet: A 3D Convolutional Neural Network for real-time object recognition",
+      "cites": 3548,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Point cloud",
+        "Occupancy grid mapping",
+        "Convolutional neural network",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros.2015.7353481",
+      "coauthors": [
+        "Daniel Maturana"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "T-RO",
+      "title": "CubeSLAM: Monocular 3-D Object SLAM",
+      "cites": 427,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer vision",
+        "Bundle adjustment",
+        "Visual odometry",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2019.2909168",
+      "coauthors": [
+        "Shichao Yang"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "IROS",
+      "title": "TartanAir: A Dataset to Push the Limits of Visual SLAM",
+      "cites": 341,
+      "n_authors": 9,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Point cloud",
+        "Artificial intelligence",
+        "Computer vision",
+        "Ground truth"
+      ],
+      "doi": "10.1109/iros45743.2020.9341801",
+      "coauthors": [
+        "Wenshan Wang",
+        "Delong Zhu",
+        "Xiangwei Wang",
+        "Yaoyu Hu",
+        "Yuheng Qiu",
+        "Chen Wang",
+        "Yafei Hu",
+        "Ashish Kapoor"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "3D Convolutional Neural Networks for landing zone detection from LiDAR",
+      "cites": 217,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Lidar",
+        "Point cloud",
+        "Convolutional neural network",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra.2015.7139679",
+      "coauthors": [
+        "Daniel Maturana"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IJRR",
+      "title": "Flying Fast and Low Among Obstacles: Methodology and Experiments",
+      "cites": 187,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Collision avoidance",
+        "Terrain",
+        "Obstacle avoidance",
+        "Computer science",
+        "Motion planning"
+      ],
+      "doi": "10.1177/0278364908090949",
+      "coauthors": [
+        "Sanjiv Singh",
+        "Lyle Chamberlain",
+        "Mike Elgersma"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "IROS",
+      "title": "Super Odometry: IMU-centric LiDAR-Visual-Inertial Estimator for Challenging Environments",
+      "cites": 182,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Odometry",
+        "Inertial measurement unit",
+        "Lidar",
+        "Computer vision",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros51168.2021.9635862",
+      "coauthors": [
+        "Shibo Zhao",
+        "Hengrui Zhang",
+        "Peng Wang",
+        "Lucas Nogueira"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "T-RO",
+      "title": "Present and Future of SLAM in Extreme Environments: The DARPA SubT Challenge",
+      "cites": 162,
+      "n_authors": 31,
+      "role": "middle",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Robotics",
+        "Robot",
+        "Artificial intelligence",
+        "Competition (biology)"
+      ],
+      "doi": "10.1109/tro.2023.3323938",
+      "coauthors": [
+        "Kamak Ebadi",
+        "Lukas Bernreiter",
+        "Harel Biggie",
+        "Gavin Catt",
+        "Yun Chang",
+        "Arghya Chatterjee",
+        "Christopher E. Denniston",
+        "Simon-Pierre Deschênes",
+        "Kyle Harlow",
+        "Shehryar Khattak",
+        "Lucas Nogueira",
+        "Matteo Palieri",
+        "Pavel Petrácek",
+        "Matej Petrlík",
+        "Andrzej Reinke",
+        "Vít Krátký",
+        "Shibo Zhao",
+        "Ali-akbar Agha-mohammadi",
+        "Kostas Alexis",
+        "Christoffer Heckman",
+        "Kasra Khosoussi",
+        "Navinda Kottege",
+        "Benjamin Morrell",
+        "Marco Hutter",
+        "Fred Pauling",
+        "François Pomerleau",
+        "Martin Saska",
+        "Roland Siegwart",
+        "Jason L. Williams",
+        "Luca Carlone"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "IROS",
+      "title": "Pop-up SLAM: Semantic monocular plane SLAM for low-texture environments",
+      "cites": 153,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Robustness (evolution)",
+        "Simultaneous localization and mapping"
+      ],
+      "doi": "10.1109/iros.2016.7759204",
+      "coauthors": [
+        "Shichao Yang",
+        "Yu Song",
+        "Michael Kaess"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "First results in detecting and avoiding frontal obstacles from a monocular camera for micro unmanned aerial vehicles",
+      "cites": 152,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Obstacle",
+        "Optical flow",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2013.6630807",
+      "coauthors": [
+        "Tomoyuki Mori"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "RA-L",
+      "title": "AnyLoc: Towards Universal Visual Place Recognition",
+      "cites": 152,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Psychology"
+      ],
+      "doi": "10.1109/lra.2023.3343602",
+      "coauthors": [
+        "Nikhil Varma Keetha",
+        "Avneesh Mishra",
+        "Jay Karhade",
+        "Krishna Murthy Jatavallabhula",
+        "Madhava Krishna",
+        "Sourav Garg"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Sebastian A. Scherer: 20년에 걸쳐 136편, 총 8,483회 인용, h=37, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "2006년 \"Learning to Drive Among Obstacles\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548회). 1000+ 인용 논문: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548회).",
+        "초기 토픽: Computer science, Collision avoidance, Terrain. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.18 → 토픽 지속형.",
+        "저자수 평균: 초기 3.2명 → 후기 5.2명 (팀 확장).",
+        "최다 인용 논문 \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Sanjiv Singh. 제자 후보 추정 38명 — 상위: Wenshan Wang(2019~, 우리 마지막저자 14편), Peng Yin(2018~, 우리 마지막저자 9편), Brady G. Moon(2020~, 우리 마지막저자 9편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "38명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Sanjiv Singh — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Sebastian A. Scherer: over 20 years, 136 papers, 8,483 total cites, h=37, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2006 with \"Learning to Drive Among Obstacles\". First 500+ cite paper came 9 years in: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548 cites). 1000+ cite paper: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548 cites).",
+        "Early topics: Computer science, Collision avoidance, Terrain. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.18 → topic-stable.",
+        "Authors per paper: early 3.2 → late 5.2 (team growth).",
+        "Peak paper \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Sanjiv Singh. 38 likely students — top: Wenshan Wang(2019~, we last-author on 14), Peng Yin(2018~, we last-author on 9), Brady G. Moon(2020~, we last-author on 9)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "38 likely students — mentoring is the real impact.",
+        "Likely advisor: Sanjiv Singh — started within their PhD network."
+      ]
+    }
+  }
+}

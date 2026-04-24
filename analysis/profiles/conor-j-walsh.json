@@ -1,0 +1,750 @@
+{
+  "name": "Conor J. Walsh",
+  "slug": "conor-j-walsh",
+  "career_stats": {
+    "first_year": 2013,
+    "last_year": 2025,
+    "span": 13,
+    "total_papers": 60,
+    "total_cites": 7759,
+    "h_index": 37,
+    "i10_index": 49,
+    "seminal_count": 3,
+    "max_cites_single_paper": 875
+  },
+  "role_distribution": {
+    "last": 42,
+    "middle": 18
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2013,
+      "title": "A lightweight soft exosuit for gait assistance"
+    },
+    "first_100cite": {
+      "year": 2013,
+      "title": "A lightweight soft exosuit for gait assistance",
+      "cites": 344,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2013,
+      "title": "Towards a soft pneumatic glove for hand rehabilitation",
+      "cites": 520,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2015,
+      "title": "Modeling of Soft Fiber-Reinforced Bending Actuators",
+      "cites": 875
+    }
+  },
+  "year_series": {
+    "2013": {
+      "n": 4,
+      "cites": 1047,
+      "max_cites": 520
+    },
+    "2014": {
+      "n": 4,
+      "cites": 707,
+      "max_cites": 411
+    },
+    "2015": {
+      "n": 6,
+      "cites": 2178,
+      "max_cites": 875
+    },
+    "2016": {
+      "n": 5,
+      "cites": 444,
+      "max_cites": 189
+    },
+    "2017": {
+      "n": 8,
+      "cites": 813,
+      "max_cites": 369
+    },
+    "2018": {
+      "n": 11,
+      "cites": 1153,
+      "max_cites": 608
+    },
+    "2019": {
+      "n": 4,
+      "cites": 686,
+      "max_cites": 377
+    },
+    "2020": {
+      "n": 3,
+      "cites": 156,
+      "max_cites": 93
+    },
+    "2021": {
+      "n": 5,
+      "cites": 396,
+      "max_cites": 142
+    },
+    "2022": {
+      "n": 3,
+      "cites": 76,
+      "max_cites": 47
+    },
+    "2023": {
+      "n": 3,
+      "cites": 24,
+      "max_cites": 19
+    },
+    "2024": {
+      "n": 3,
+      "cites": 79,
+      "max_cites": 71
+    },
+    "2025": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 27,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.111
+        },
+        {
+          "c": "Actuator",
+          "w": 0.089
+        },
+        {
+          "c": "Powered exoskeleton",
+          "w": 0.059
+        },
+        {
+          "c": "Soft robotics",
+          "w": 0.059
+        },
+        {
+          "c": "Exoskeleton",
+          "w": 0.052
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.085
+        },
+        {
+          "c": "Actuator",
+          "w": 0.077
+        },
+        {
+          "c": "Powered exoskeleton",
+          "w": 0.054
+        },
+        {
+          "c": "Wearable computer",
+          "w": 0.054
+        },
+        {
+          "c": "Robot",
+          "w": 0.046
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.114
+        },
+        {
+          "c": "Wearable computer",
+          "w": 0.086
+        },
+        {
+          "c": "Robot",
+          "w": 0.057
+        },
+        {
+          "c": "Exoskeleton",
+          "w": 0.057
+        },
+        {
+          "c": "Regeneration (biology)",
+          "w": 0.029
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 12,
+        "IROS": 5,
+        "SoRo": 3,
+        "Sci-Rob": 3,
+        "IJRR": 2,
+        "T-RO": 1,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "ICRA": 10,
+        "RA-L": 5,
+        "Sci-Rob": 4,
+        "SoRo": 3,
+        "T-RO": 2,
+        "IROS": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "Sci-Rob": 2,
+        "ICRA": 2,
+        "SoRo": 2,
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 6.37,
+      "unique_coauthors": 76,
+      "top_coauthors": [
+        [
+          "Robert J. Wood",
+          12
+        ],
+        [
+          "Joshua B. Gafford",
+          6
+        ],
+        [
+          "Panagiotis Polygerinos",
+          6
+        ],
+        [
+          "Ignacio Galiana",
+          6
+        ],
+        [
+          "Alan T. Asbeck",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 7.5,
+      "unique_coauthors": 112,
+      "top_coauthors": [
+        [
+          "Robert J. Wood",
+          6
+        ],
+        [
+          "Sangjun Lee",
+          5
+        ],
+        [
+          "Neill",
+          5
+        ],
+        [
+          "Ciarán T. O&apos",
+          4
+        ],
+        [
+          "Cameron J. Hohimer",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 7.71,
+      "unique_coauthors": 43,
+      "top_coauthors": [
+        [
+          "Harrison T. Young",
+          2
+        ],
+        [
+          "Cameron J. Hohimer",
+          2
+        ],
+        [
+          "Tommaso Proietti",
+          2
+        ],
+        [
+          "Santiago Canete",
+          2
+        ],
+        [
+          "Stephanie L. McNamara",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.243,
+  "top_repeat_coauthors": [
+    {
+      "name": "Robert J. Wood",
+      "count": 19,
+      "first_year": 2013,
+      "last_year": 2023
+    },
+    {
+      "name": "Ignacio Galiana",
+      "count": 9,
+      "first_year": 2014,
+      "last_year": 2018
+    },
+    {
+      "name": "Joshua B. Gafford",
+      "count": 8,
+      "first_year": 2013,
+      "last_year": 2018
+    },
+    {
+      "name": "Sangjun Lee",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2022
+    },
+    {
+      "name": "Panagiotis Polygerinos",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "name": "Yu Meng Zhou",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Neill",
+      "count": 6,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Cameron J. Hohimer",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Alan T. Asbeck",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Diana Wagner",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2024
+    },
+    {
+      "name": "Ciarán T. O&apos",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Tommaso Proietti",
+      "count": 5,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Robert D. Howe",
+      "count": 4,
+      "first_year": 2014,
+      "last_year": 2021
+    },
+    {
+      "name": "Katia Bertoldi",
+      "count": 4,
+      "first_year": 2015,
+      "last_year": 2021
+    },
+    {
+      "name": "Kevin C. Galloway",
+      "count": 4,
+      "first_year": 2015,
+      "last_year": 2018
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Ciarán T. O&apos",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Ciaran O’Neill",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Yichu Jin",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Myles Cooper",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Richard W. Nuckols",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2013,
+      2022
+    ],
+    "early_mean_n_authors": 6.92,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 7.24
+  },
+  "citation_half_life_years": 11,
+  "bursts": {
+    "productivity": [
+      2018
+    ],
+    "impact": [
+      2015
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2015,
+      "venue": "T-RO",
+      "title": "Modeling of Soft Fiber-Reinforced Bending Actuators",
+      "cites": 875,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Actuator",
+        "Soft robotics",
+        "Robotics",
+        "Finite element method",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2015.2428504",
+      "coauthors": [
+        "Panagiotis Polygerinos",
+        "Zheng Wang",
+        "Johannes T. B. Overvelde",
+        "Kevin C. Galloway",
+        "Robert J. Wood",
+        "Katia Bertoldi"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "Sci-Rob",
+      "title": "Human-in-the-loop optimization of hip assistance with a soft exosuit during walking",
+      "cites": 608,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Powered exoskeleton",
+        "Human-in-the-loop",
+        "Loop (graph theory)",
+        "Physical medicine and rehabilitation",
+        "Exoskeleton"
+      ],
+      "doi": "10.1126/scirobotics.aar5438",
+      "coauthors": [
+        "Myunghee Kim",
+        "Scott Kuindersma"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IROS",
+      "title": "Towards a soft pneumatic glove for hand rehabilitation",
+      "cites": 520,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Actuator",
+        "Finite element method",
+        "Soft robotics",
+        "Bending",
+        "Mechanical engineering"
+      ],
+      "doi": "10.1109/iros.2013.6696549",
+      "coauthors": [
+        "Panagiotis Polygerinos",
+        "Stacey Lyne",
+        "Zheng Wang",
+        "Luis Fernando Nicolini",
+        "Bobak Mosadegh",
+        "George M. Whitesides"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "SoRo",
+      "title": "Mechanical Programming of Soft Actuators by Varying Fiber Angle",
+      "cites": 494,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Actuator",
+        "Fluidics",
+        "Soft robotics",
+        "Mechanical engineering",
+        "Fiber"
+      ],
+      "doi": "10.1089/soro.2015.0001",
+      "coauthors": [
+        "Fionnuala Connolly",
+        "Panagiotis Polygerinos",
+        "Katia Bertoldi"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "IJRR",
+      "title": "A biologically inspired soft exosuit for walking assistance",
+      "cites": 431,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Exoskeleton",
+        "Powered exoskeleton",
+        "Kinematics",
+        "Computer science",
+        "Simulation"
+      ],
+      "doi": "10.1177/0278364914562476",
+      "coauthors": [
+        "Alan T. Asbeck",
+        "Stefano Marco Maria De Rossi",
+        "Kenneth G. Holt"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IJRR",
+      "title": "Wearable soft sensing suit for human gait measurement",
+      "cites": 411,
+      "n_authors": 10,
+      "role": "last",
+      "concepts": [
+        "Wearable computer",
+        "Kinematics",
+        "Motion capture",
+        "Robustness (evolution)",
+        "Soft robotics"
+      ],
+      "doi": "10.1177/0278364914543793",
+      "coauthors": [
+        "Yigit Mengüç",
+        "Yong-Lae Park",
+        "Hao Pei",
+        "Daniel M. Vogt",
+        "Patrick M. Aubin",
+        "Ethan Winchell",
+        "Lowell Fluke",
+        "Leia Stirling",
+        "Robert J. Wood"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "T-RO",
+      "title": "Robotic Artificial Muscles: Current Progress and Future Perspectives",
+      "cites": 377,
+      "n_authors": 9,
+      "role": "middle",
+      "concepts": [
+        "Artificial muscle",
+        "Robot",
+        "Actuator",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2019.2894371",
+      "coauthors": [
+        "Jun Zhang",
+        "Jun Sheng",
+        "Ciarán T. O&apos",
+        "Neill",
+        "Robert J. Wood",
+        "Jee-Hwan Ryu",
+        "Jaydev P. Desai",
+        "Michael C. Yip"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "Sci-Rob",
+      "title": "Assistance magnitude versus metabolic cost reductions for a tethered multiarticular soft exosuit",
+      "cites": 369,
+      "n_authors": 10,
+      "role": "last",
+      "concepts": [
+        "Powered exoskeleton",
+        "Metabolic cost",
+        "Exoskeleton",
+        "Computer science",
+        "Physical medicine and rehabilitation"
+      ],
+      "doi": "10.1126/scirobotics.aah4416",
+      "coauthors": [
+        "Sangjun Lee",
+        "Philippe Malcolm",
+        "Denise M. Rossi",
+        "Martin Grimmer",
+        "Christopher Siviy",
+        "Nikos Karavas",
+        "Diana Wagner",
+        "Alan T. Asbeck",
+        "Ignacio Galiana"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "A lightweight soft exosuit for gait assistance",
+      "cites": 344,
+      "n_authors": 9,
+      "role": "last",
+      "concepts": [
+        "Exoskeleton",
+        "Powered exoskeleton",
+        "Actuator",
+        "Kinematics",
+        "Ankle"
+      ],
+      "doi": "10.1109/icra.2013.6631046",
+      "coauthors": [
+        "Michael F. Wehner",
+        "Brendan Quinlivan",
+        "Patrick M. Aubin",
+        "Ernesto Martinez-Villalpando",
+        "Michael Baumann",
+        "Leia Stirling",
+        "Kenneth G. Holt",
+        "Robert J. Wood"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Soft robotic glove for hand rehabilitation and task specific training",
+      "cites": 236,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Soft robotics",
+        "Actuator",
+        "Computer science",
+        "GRASP",
+        "Wired glove"
+      ],
+      "doi": "10.1109/icra.2015.7139597",
+      "coauthors": [
+        "Panagiotis Polygerinos",
+        "Kevin C. Galloway",
+        "Emily Savage",
+        "Maxwell Herman",
+        "Kathleen O&apos",
+        "Donnell"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Conor J. Walsh: 13년에 걸쳐 60편, 총 7,759회 인용, h=37, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "2013년 \"A lightweight soft exosuit for gait assistance\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Towards a soft pneumatic glove for hand rehabilitation\" (2013, 520회).",
+        "초기 토픽: Computer science, Actuator, Powered exoskeleton. 최근 토픽: Computer science, Wearable computer, Robot. 피벗 점수 0.24 → 토픽 지속형.",
+        "저자수 평균: 초기 6.9명 → 후기 7.2명 (팀 유지).",
+        "최다 인용 논문 \"Modeling of Soft Fiber-Reinforced Bending Actuators\" (2015, 875회) — 커리어 초기에 위치.",
+        "제자 후보 추정 5명 — 상위: Ciarán T. O&apos(2019~, 우리 마지막저자 3편), Ciaran O’Neill(2021~, 우리 마지막저자 2편), Yichu Jin(2020~, 우리 마지막저자 2편)."
+      ],
+      "lessons": [
+        "초기 0년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Conor J. Walsh: over 13 years, 60 papers, 7,759 total cites, h=37, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2013 with \"A lightweight soft exosuit for gait assistance\". First 500+ cite paper came 0 years in: \"Towards a soft pneumatic glove for hand rehabilitation\" (2013, 520 cites).",
+        "Early topics: Computer science, Actuator, Powered exoskeleton. Recent topics: Computer science, Wearable computer, Robot. Pivot score 0.24 → topic-stable.",
+        "Authors per paper: early 6.9 → late 7.2 (stable team).",
+        "Peak paper \"Modeling of Soft Fiber-Reinforced Bending Actuators\" (2015, 875 cites) — fell in early career.",
+        "5 likely students — top: Ciarán T. O&apos(2019~, we last-author on 3), Ciaran O’Neill(2021~, we last-author on 2), Yichu Jin(2020~, we last-author on 2)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 0 years. First-5-year topic choice is decisive."
+      ]
+    }
+  }
+}

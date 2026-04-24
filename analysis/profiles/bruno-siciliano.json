@@ -1,0 +1,1268 @@
+{
+  "name": "Bruno Siciliano",
+  "slug": "bruno-siciliano",
+  "career_stats": {
+    "first_year": 1986,
+    "last_year": 2025,
+    "span": 40,
+    "total_papers": 95,
+    "total_cites": 5226,
+    "h_index": 36,
+    "i10_index": 78,
+    "seminal_count": 1,
+    "max_cites_single_paper": 539
+  },
+  "role_distribution": {
+    "last": 53,
+    "first": 6,
+    "middle": 36
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1986,
+      "title": "An inverse kinematic solution algorithm for robots with two-by-two intersecting axes at the end effector"
+    },
+    "first_100cite": {
+      "year": 1988,
+      "title": "A Singular Perturbation Approach to Control of Lightweight Flexible Manipulators",
+      "cites": 539,
+      "gap_from_first": 2
+    },
+    "first_500cite": {
+      "year": 1988,
+      "title": "A Singular Perturbation Approach to Control of Lightweight Flexible Manipulators",
+      "cites": 539,
+      "gap_from_first": 2
+    },
+    "peak_paper": {
+      "year": 1988,
+      "title": "A Singular Perturbation Approach to Control of Lightweight Flexible Manipulators",
+      "cites": 539
+    }
+  },
+  "year_series": {
+    "1986": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "1987": {
+      "n": 2,
+      "cites": 83,
+      "max_cites": 62
+    },
+    "1988": {
+      "n": 2,
+      "cites": 540,
+      "max_cites": 539
+    },
+    "1989": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1990": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1991": {
+      "n": 2,
+      "cites": 345,
+      "max_cites": 301
+    },
+    "1992": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "1993": {
+      "n": 1,
+      "cites": 11,
+      "max_cites": 11
+    },
+    "1994": {
+      "n": 1,
+      "cites": 11,
+      "max_cites": 11
+    },
+    "1995": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1996": {
+      "n": 1,
+      "cites": 28,
+      "max_cites": 28
+    },
+    "1997": {
+      "n": 2,
+      "cites": 90,
+      "max_cites": 82
+    },
+    "1998": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "1999": {
+      "n": 2,
+      "cites": 254,
+      "max_cites": 225
+    },
+    "2000": {
+      "n": 1,
+      "cites": 7,
+      "max_cites": 7
+    },
+    "2001": {
+      "n": 3,
+      "cites": 73,
+      "max_cites": 44
+    },
+    "2002": {
+      "n": 5,
+      "cites": 49,
+      "max_cites": 17
+    },
+    "2003": {
+      "n": 4,
+      "cites": 155,
+      "max_cites": 125
+    },
+    "2004": {
+      "n": 2,
+      "cites": 43,
+      "max_cites": 32
+    },
+    "2005": {
+      "n": 2,
+      "cites": 20,
+      "max_cites": 12
+    },
+    "2006": {
+      "n": 2,
+      "cites": 43,
+      "max_cites": 24
+    },
+    "2007": {
+      "n": 2,
+      "cites": 216,
+      "max_cites": 174
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 1,
+      "cites": 7,
+      "max_cites": 7
+    },
+    "2011": {
+      "n": 3,
+      "cites": 91,
+      "max_cites": 56
+    },
+    "2012": {
+      "n": 5,
+      "cites": 113,
+      "max_cites": 37
+    },
+    "2013": {
+      "n": 4,
+      "cites": 161,
+      "max_cites": 110
+    },
+    "2014": {
+      "n": 4,
+      "cites": 469,
+      "max_cites": 187
+    },
+    "2015": {
+      "n": 6,
+      "cites": 769,
+      "max_cites": 432
+    },
+    "2016": {
+      "n": 4,
+      "cites": 105,
+      "max_cites": 33
+    },
+    "2017": {
+      "n": 2,
+      "cites": 121,
+      "max_cites": 75
+    },
+    "2018": {
+      "n": 9,
+      "cites": 614,
+      "max_cites": 225
+    },
+    "2019": {
+      "n": 6,
+      "cites": 251,
+      "max_cites": 87
+    },
+    "2020": {
+      "n": 8,
+      "cites": 248,
+      "max_cites": 58
+    },
+    "2021": {
+      "n": 3,
+      "cites": 189,
+      "max_cites": 185
+    },
+    "2022": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2023": {
+      "n": 2,
+      "cites": 97,
+      "max_cites": 61
+    },
+    "2024": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2025": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.12
+        },
+        {
+          "c": "Computer science",
+          "w": 0.12
+        },
+        {
+          "c": "Inverse kinematics",
+          "w": 0.08
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.08
+        },
+        {
+          "c": "Robot end effector",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Inverse kinematics",
+          "w": 0.12
+        },
+        {
+          "c": "Computer science",
+          "w": 0.12
+        },
+        {
+          "c": "Jacobian matrix and determinant",
+          "w": 0.08
+        },
+        {
+          "c": "Transpose",
+          "w": 0.08
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.086
+        },
+        {
+          "c": "Position (finance)",
+          "w": 0.057
+        },
+        {
+          "c": "Jacobian matrix and determinant",
+          "w": 0.057
+        },
+        {
+          "c": "Quaternion",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.092
+        },
+        {
+          "c": "Robot",
+          "w": 0.079
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.066
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.066
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.066
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer vision",
+          "w": 0.16
+        },
+        {
+          "c": "Orientation (vector space)",
+          "w": 0.12
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.08
+        },
+        {
+          "c": "Computer science",
+          "w": 0.08
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.127
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.064
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.055
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.045
+        },
+        {
+          "c": "GRASP",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.152
+        },
+        {
+          "c": "Robot",
+          "w": 0.055
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.041
+        },
+        {
+          "c": "GRASP",
+          "w": 0.034
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.034
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.1
+        },
+        {
+          "c": "Human–robot interaction",
+          "w": 0.067
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.067
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "mix": {
+        "ICRA": 4,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "mix": {
+        "ICRA": 3,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "ICRA": 5,
+        "T-Mech": 2
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 6,
+        "T-Mech": 2
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "ICRA": 2,
+        "IROS": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "IROS": 9,
+        "ICRA": 7,
+        "T-RO": 4,
+        "T-Mech": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "RA-L": 12,
+        "IROS": 8,
+        "ICRA": 4,
+        "T-Mech": 2,
+        "SoRo": 1,
+        "T-RO": 1,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "RA-L": 2,
+        "T-RO": 2,
+        "ICRA": 1,
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "mean_n_authors": 2,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Lorenzo Sciavicco",
+          3
+        ],
+        [
+          "Giuseppe De Maria",
+          1
+        ],
+        [
+          "Wayne J. Book",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "mean_n_authors": 2.8,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "Pasquale Chiacchio",
+          3
+        ],
+        [
+          "Stefano Chiaverini",
+          3
+        ],
+        [
+          "Lorenzo Sciavicco",
+          2
+        ],
+        [
+          "Luigi Villani",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 3.14,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Luigi Villani",
+          6
+        ],
+        [
+          "Ciro Natale",
+          3
+        ],
+        [
+          "Stefano Chiaverini",
+          2
+        ],
+        [
+          "Fabrizio Caccavale",
+          2
+        ],
+        [
+          "S. Chiaverini",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 3.38,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Luigi Villani",
+          9
+        ],
+        [
+          "Vincenzo Lippiello",
+          6
+        ],
+        [
+          "Loredana Zollo",
+          5
+        ],
+        [
+          "Paolo Dario",
+          4
+        ],
+        [
+          "Cecilia Laschi",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 3.2,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Vincenzo Lippiello",
+          5
+        ],
+        [
+          "Luigi Villani",
+          5
+        ],
+        [
+          "Fabio Ruggiero",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 4.27,
+      "unique_coauthors": 35,
+      "top_coauthors": [
+        [
+          "Vincenzo Lippiello",
+          11
+        ],
+        [
+          "Luigi Villani",
+          10
+        ],
+        [
+          "Fanny Ficuciello",
+          5
+        ],
+        [
+          "Hamid Sadeghian",
+          4
+        ],
+        [
+          "Mehdi Keshmiri",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 4.86,
+      "unique_coauthors": 52,
+      "top_coauthors": [
+        [
+          "Fanny Ficuciello",
+          12
+        ],
+        [
+          "Vincenzo Lippiello",
+          10
+        ],
+        [
+          "Giuseppe Andrea Fontanelli",
+          10
+        ],
+        [
+          "Luigi Villani",
+          9
+        ],
+        [
+          "Mario Selvaggio",
+          7
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 4.5,
+      "unique_coauthors": 20,
+      "top_coauthors": [
+        [
+          "Fanny Ficuciello",
+          2
+        ],
+        [
+          "Mario Selvaggio",
+          1
+        ],
+        [
+          "Marco Cognetti",
+          1
+        ],
+        [
+          "Stefanos Nikolaidis",
+          1
+        ],
+        [
+          "Serena Ivaldi",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.441,
+  "top_repeat_coauthors": [
+    {
+      "name": "Luigi Villani",
+      "count": 40,
+      "first_year": 1994,
+      "last_year": 2020
+    },
+    {
+      "name": "Vincenzo Lippiello",
+      "count": 32,
+      "first_year": 2002,
+      "last_year": 2020
+    },
+    {
+      "name": "Fanny Ficuciello",
+      "count": 19,
+      "first_year": 2011,
+      "last_year": 2025
+    },
+    {
+      "name": "Giuseppe Andrea Fontanelli",
+      "count": 10,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Fabio Ruggiero",
+      "count": 9,
+      "first_year": 2010,
+      "last_year": 2019
+    },
+    {
+      "name": "Mario Selvaggio",
+      "count": 8,
+      "first_year": 2018,
+      "last_year": 2021
+    },
+    {
+      "name": "Loredana Zollo",
+      "count": 7,
+      "first_year": 2001,
+      "last_year": 2016
+    },
+    {
+      "name": "Lorenzo Sciavicco",
+      "count": 5,
+      "first_year": 1986,
+      "last_year": 1991
+    },
+    {
+      "name": "Stefano Chiaverini",
+      "count": 5,
+      "first_year": 1991,
+      "last_year": 2000
+    },
+    {
+      "name": "Fabrizio Caccavale",
+      "count": 5,
+      "first_year": 1997,
+      "last_year": 2005
+    },
+    {
+      "name": "Ciro Natale",
+      "count": 5,
+      "first_year": 1998,
+      "last_year": 2023
+    },
+    {
+      "name": "Paolo Dario",
+      "count": 4,
+      "first_year": 2001,
+      "last_year": 2003
+    },
+    {
+      "name": "Hamid Sadeghian",
+      "count": 4,
+      "first_year": 2011,
+      "last_year": 2014
+    },
+    {
+      "name": "Mehdi Keshmiri",
+      "count": 4,
+      "first_year": 2011,
+      "last_year": 2014
+    },
+    {
+      "name": "Luca Rosario Buonocore",
+      "count": 4,
+      "first_year": 2017,
+      "last_year": 2020
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Giuseppe Andrea Fontanelli",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 6,
+      "we_last_author_count": 10,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Mario Selvaggio",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Fanny Ficuciello",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 19,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hamid Sadeghian",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Pasquale Chiacchio",
+      "student_first_year": 1991,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 1992
+    },
+    {
+      "name": "Pierluigi Arpenti",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Riccardo Caccavale",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Fabrizio Caccavale",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Loredana Zollo",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Rocco Moccia",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Giuseppe Loianno",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Mario Daniele Fiore",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "S. Chiaverini",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 1999
+    },
+    {
+      "name": "Vincenzo Lippiello",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 32,
+      "student_first_author_count": 9,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Ciro Natale",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Francesca Cordella",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2016
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1986,
+      1995
+    ],
+    "early_mean_n_authors": 2.4,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.8
+  },
+  "citation_half_life_years": 12.0,
+  "bursts": {
+    "productivity": [
+      2018,
+      2020
+    ],
+    "impact": [
+      1988,
+      2015,
+      2018
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 1988,
+      "venue": "IJRR",
+      "title": "A Singular Perturbation Approach to Control of Lightweight Flexible Manipulators",
+      "cites": 539,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Control theory (sociology)",
+        "Singular perturbation",
+        "Nonlinear system",
+        "Control engineering",
+        "Perturbation (astronomy)"
+      ],
+      "doi": "10.1177/027836498800700404",
+      "coauthors": [
+        "Wayne J. Book"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "T-RO",
+      "title": "Variable Impedance Control of Redundant Manipulators for Intuitive Human-Robot Physical Interaction",
+      "cites": 432,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Impedance control",
+        "Redundancy (engineering)",
+        "Cartesian coordinate system",
+        "Electrical impedance",
+        "Robot"
+      ],
+      "doi": "10.1109/tro.2015.2430053",
+      "coauthors": [
+        "Fanny Ficuciello",
+        "Luigi Villani"
+      ]
+    },
+    {
+      "year": 1991,
+      "venue": "IJRR",
+      "title": "Closed-Loop Inverse Kinematics Schemes for Constrained Redundant Manipulators with Task Space Augmentation and Task Priority Strategy",
+      "cites": 301,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Jacobian matrix and determinant",
+        "Moore–Penrose pseudoinverse",
+        "Inverse kinematics",
+        "Transpose",
+        "Computer science"
+      ],
+      "doi": "10.1177/027836499101000409",
+      "coauthors": [
+        "Pasquale Chiacchio",
+        "Stefano Chiaverini",
+        "Lorenzo Sciavicco"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "T-Mech",
+      "title": "A survey of robot interaction control schemes with experimental comparison",
+      "cites": 225,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Compensation (psychology)",
+        "Control theory (sociology)",
+        "Control engineering",
+        "Transient (computer programming)"
+      ],
+      "doi": "10.1109/3516.789685",
+      "coauthors": [
+        "S. Chiaverini",
+        "Luigi Villani"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "SoRo",
+      "title": "A Geometrically Exact Model for Soft Continuum Robots: The Finite Element Deformation Space Formulation",
+      "cites": 225,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Finite element method",
+        "Robot",
+        "Discretization",
+        "Torsion (gastropod)",
+        "Computer science"
+      ],
+      "doi": "10.1089/soro.2018.0047",
+      "coauthors": [
+        "Stanislao Grazioso",
+        "Giuseppe Di Gironimo"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "Task-Space Control of Robot Manipulators With Null-Space Compliance",
+      "cites": 187,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Task (project management)",
+        "Space (punctuation)",
+        "Robot",
+        "Robot control",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/tro.2013.2291630",
+      "coauthors": [
+        "Hamid Sadeghian",
+        "Luigi Villani",
+        "Mehdi Keshmiri"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "Autonomy in Physical Human-Robot Interaction: A Brief Survey",
+      "cites": 185,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Autonomy",
+        "Human–computer interaction",
+        "Computer science",
+        "Workload",
+        "Human–robot interaction"
+      ],
+      "doi": "10.1109/lra.2021.3100603",
+      "coauthors": [
+        "Mario Selvaggio",
+        "Marco Cognetti",
+        "Stefanos Nikolaidis",
+        "Serena Ivaldi"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IJRR",
+      "title": "The DEXMART hand: Mechatronic design and experimental evaluation of synergy-based control for human-like grasping",
+      "cites": 178,
+      "n_authors": 13,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Mechatronics",
+        "Computer science",
+        "Artificial intelligence",
+        "Kinematics"
+      ],
+      "doi": "10.1177/0278364913519897",
+      "coauthors": [
+        "Gianluca Palli",
+        "Claudio Melchiorri",
+        "Gabriele Vassura",
+        "U. Scarcia",
+        "Lorenzo Moriello",
+        "Giovanni Berselli",
+        "Alberto Cavallo",
+        "Giuseppe De Maria",
+        "Ciro Natale",
+        "Salvatore Pirozzi",
+        "Chris May",
+        "Fanny Ficuciello"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-RO",
+      "title": "Position-Based Visual Servoing in Industrial Multirobot Cells Using a Hybrid Camera Configuration",
+      "cites": 174,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Visual servoing",
+        "Artificial intelligence",
+        "Computer vision",
+        "Robustness (evolution)",
+        "Kalman filter"
+      ],
+      "doi": "10.1109/tro.2006.886832",
+      "coauthors": [
+        "Vincenzo Lippiello",
+        "Luigi Villani"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "A multilayer control for multirotor UAVs equipped with a servo robot arm",
+      "cites": 157,
+      "n_authors": 9,
+      "role": "last",
+      "concepts": [
+        "Multirotor",
+        "Control theory (sociology)",
+        "Robotic arm",
+        "Statics",
+        "Servo"
+      ],
+      "doi": "10.1109/icra.2015.7139760",
+      "coauthors": [
+        "Fabio Ruggiero",
+        "Miguel Angel Trujillo",
+        "Raul Cano",
+        "H. Ascorbe",
+        "Antidio Viguria",
+        "C. Peréz",
+        "Vincenzo Lippiello",
+        "Aníbal Ollero"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer-3",
+      "headline": "Bruno Siciliano: 40년에 걸쳐 95편, 총 5,226회 인용, h=36, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "1986년 \"An inverse kinematic solution algorithm for robots with two-by-two intersecting axes at the end effector\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"A Singular Perturbation Approach to Control of Lightweight Flexible Manipulators\" (1988, 539회).",
+        "초기 토픽: Control theory (sociology), Computer science, Inverse kinematics. 최근 토픽: Computer science, Control theory (sociology), Human–robot interaction. 피벗 점수 0.44 → 점진적 이동형.",
+        "저자수 평균: 초기 2.4명 → 후기 4.8명 (팀 확장).",
+        "최다 인용 논문 \"A Singular Perturbation Approach to Control of Lightweight Flexible Manipulators\" (1988, 539회) — 커리어 초기에 위치.",
+        "제자 후보 추정 16명 — 상위: Giuseppe Andrea Fontanelli(2017~, 우리 마지막저자 10편), Mario Selvaggio(2016~, 우리 마지막저자 6편), Fanny Ficuciello(2010~, 우리 마지막저자 5편)."
+      ],
+      "lessons": [
+        "초기 2년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "16명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer-3",
+      "headline": "Bruno Siciliano: over 40 years, 95 papers, 5,226 total cites, h=36, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1986 with \"An inverse kinematic solution algorithm for robots with two-by-two intersecting axes at the end effector\". First 500+ cite paper came 2 years in: \"A Singular Perturbation Approach to Control of Lightweight Flexible Manipulators\" (1988, 539 cites).",
+        "Early topics: Control theory (sociology), Computer science, Inverse kinematics. Recent topics: Computer science, Control theory (sociology), Human–robot interaction. Pivot score 0.44 → gradual shift.",
+        "Authors per paper: early 2.4 → late 4.8 (team growth).",
+        "Peak paper \"A Singular Perturbation Approach to Control of Lightweight Flexible Manipulators\" (1988, 539 cites) — fell in early career.",
+        "16 likely students — top: Giuseppe Andrea Fontanelli(2017~, we last-author on 10), Mario Selvaggio(2016~, we last-author on 6), Fanny Ficuciello(2010~, we last-author on 5)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 2 years. First-5-year topic choice is decisive.",
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "16 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

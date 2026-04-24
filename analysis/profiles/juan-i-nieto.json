@@ -1,0 +1,1147 @@
+{
+  "name": "Juan I. Nieto",
+  "slug": "juan-i-nieto",
+  "career_stats": {
+    "first_year": 2003,
+    "last_year": 2023,
+    "span": 21,
+    "total_papers": 97,
+    "total_cites": 7483,
+    "h_index": 48,
+    "i10_index": 76,
+    "seminal_count": 2,
+    "max_cites_single_paper": 584
+  },
+  "role_distribution": {
+    "middle": 55,
+    "first": 4,
+    "last": 38
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2003,
+      "title": "Multiple target tracking using Sequential Monte Carlo Methods and statistical data association"
+    },
+    "first_100cite": {
+      "year": 2003,
+      "title": "Real time data association for FastSLAM",
+      "cites": 122,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2006,
+      "title": "Consistency of the EKF-SLAM Algorithm",
+      "cites": 564,
+      "gap_from_first": 3
+    },
+    "peak_paper": {
+      "year": 2017,
+      "title": "Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board MAV planning",
+      "cites": 584
+    }
+  },
+  "year_series": {
+    "2003": {
+      "n": 2,
+      "cites": 179,
+      "max_cites": 122
+    },
+    "2004": {
+      "n": 3,
+      "cites": 134,
+      "max_cites": 80
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 4,
+      "cites": 836,
+      "max_cites": 564
+    },
+    "2007": {
+      "n": 1,
+      "cites": 49,
+      "max_cites": 49
+    },
+    "2008": {
+      "n": 2,
+      "cites": 15,
+      "max_cites": 11
+    },
+    "2009": {
+      "n": 2,
+      "cites": 89,
+      "max_cites": 55
+    },
+    "2010": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "2011": {
+      "n": 4,
+      "cites": 202,
+      "max_cites": 127
+    },
+    "2012": {
+      "n": 1,
+      "cites": 83,
+      "max_cites": 83
+    },
+    "2013": {
+      "n": 2,
+      "cites": 121,
+      "max_cites": 97
+    },
+    "2014": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2015": {
+      "n": 2,
+      "cites": 104,
+      "max_cites": 88
+    },
+    "2016": {
+      "n": 5,
+      "cites": 483,
+      "max_cites": 245
+    },
+    "2017": {
+      "n": 14,
+      "cites": 2036,
+      "max_cites": 584
+    },
+    "2018": {
+      "n": 13,
+      "cites": 1129,
+      "max_cites": 355
+    },
+    "2019": {
+      "n": 12,
+      "cites": 669,
+      "max_cites": 217
+    },
+    "2020": {
+      "n": 13,
+      "cites": 882,
+      "max_cites": 289
+    },
+    "2021": {
+      "n": 13,
+      "cites": 328,
+      "max_cites": 151
+    },
+    "2022": {
+      "n": 1,
+      "cites": 68,
+      "max_cites": 68
+    },
+    "2023": {
+      "n": 2,
+      "cites": 61,
+      "max_cites": 57
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.16
+        },
+        {
+          "c": "Data association",
+          "w": 0.04
+        },
+        {
+          "c": "Particle filter",
+          "w": 0.04
+        },
+        {
+          "c": "Landmark",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.06
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.04
+        },
+        {
+          "c": "Global Positioning System",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 23,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.191
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.113
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.087
+        },
+        {
+          "c": "Calibration",
+          "w": 0.043
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 52,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.181
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.108
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.05
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.027
+        },
+        {
+          "c": "Robot",
+          "w": 0.023
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2023,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Merge (version control)",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Cluster analysis",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 5,
+        "IROS": 3,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "IROS": 4,
+        "ICRA": 4,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "IROS": 11,
+        "ICRA": 10,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "RA-L": 20,
+        "ICRA": 15,
+        "IROS": 10,
+        "IJRR": 4,
+        "RSS": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2023,
+      "mix": {
+        "IJRR": 1,
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 3.9,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "José E. Guivant",
+          8
+        ],
+        [
+          "Eduardo Mario Nebot",
+          8
+        ],
+        [
+          "Tim Bailey",
+          3
+        ],
+        [
+          "Oliver Frank",
+          1
+        ],
+        [
+          "Steve Scheding",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 3.4,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Eduardo Mario Nebot",
+          7
+        ],
+        [
+          "Gabriel Agamennoni",
+          5
+        ],
+        [
+          "Roman Katz",
+          2
+        ],
+        [
+          "Karl Granström",
+          2
+        ],
+        [
+          "Fabio T. Ramos",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 4.87,
+      "unique_coauthors": 44,
+      "top_coauthors": [
+        [
+          "Roland Siegwart",
+          17
+        ],
+        [
+          "Zachary Taylor",
+          7
+        ],
+        [
+          "Igor Gilitschenski",
+          4
+        ],
+        [
+          "Michael Burri",
+          3
+        ],
+        [
+          "Enric Galceran",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 6.06,
+      "unique_coauthors": 104,
+      "top_coauthors": [
+        [
+          "Roland Siegwart",
+          51
+        ],
+        [
+          "Cesar Cadena",
+          18
+        ],
+        [
+          "Lionel Ott",
+          7
+        ],
+        [
+          "Jen Jen Chung",
+          6
+        ],
+        [
+          "Helen Oleynikova",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2023,
+      "mean_n_authors": 7.5,
+      "unique_coauthors": 10,
+      "top_coauthors": [
+        [
+          "Marius Fehr",
+          2
+        ],
+        [
+          "Cesar Cadena",
+          2
+        ],
+        [
+          "Roland Siegwart",
+          2
+        ],
+        [
+          "Fadri Furrer",
+          1
+        ],
+        [
+          "Tonci Novkovic",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.268,
+  "top_repeat_coauthors": [
+    {
+      "name": "Roland Siegwart",
+      "count": 70,
+      "first_year": 2016,
+      "last_year": 2023
+    },
+    {
+      "name": "Cesar Cadena",
+      "count": 23,
+      "first_year": 2017,
+      "last_year": 2023
+    },
+    {
+      "name": "Eduardo Mario Nebot",
+      "count": 15,
+      "first_year": 2003,
+      "last_year": 2012
+    },
+    {
+      "name": "Zachary Taylor",
+      "count": 11,
+      "first_year": 2013,
+      "last_year": 2020
+    },
+    {
+      "name": "José E. Guivant",
+      "count": 8,
+      "first_year": 2003,
+      "last_year": 2006
+    },
+    {
+      "name": "Mina Kamel",
+      "count": 8,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Helen Oleynikova",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Tonci Novkovic",
+      "count": 7,
+      "first_year": 2017,
+      "last_year": 2023
+    },
+    {
+      "name": "Lionel Ott",
+      "count": 7,
+      "first_year": 2020,
+      "last_year": 2021
+    },
+    {
+      "name": "Gabriel Agamennoni",
+      "count": 6,
+      "first_year": 2009,
+      "last_year": 2016
+    },
+    {
+      "name": "Igor Gilitschenski",
+      "count": 6,
+      "first_year": 2016,
+      "last_year": 2018
+    },
+    {
+      "name": "Abel Gawel",
+      "count": 6,
+      "first_year": 2016,
+      "last_year": 2019
+    },
+    {
+      "name": "Renaud Dubé",
+      "count": 6,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Hannes Sommer",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Daniel Dugas",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2021
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Eduardo Mario Nebot",
+      "advisor_active_from": 1996,
+      "early_copubs_as_our_first_author": 3,
+      "advisor_last_author_count": 2,
+      "total_copubs": 15
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Zachary Taylor",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Tonci Novkovic",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Mina Kamel",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Fadri Furrer",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Margarita Grinvald",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Maximilian Brunner",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Michael Pantic",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Helen Oleynikova",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Abel Gawel",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Florian Tschopp",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Karen Bodie",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Renaud Dubé",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Weixuan Zhang",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Andrea Tagliabue",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Hannes Sommer",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Raghav Khanna",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Michel Breyer",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Lukas Bernreiter",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Marija Popovic",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Mark Pfeiffer",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Anurag Sai Vempati",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Lukas Schmid",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Andrei Cramariuc",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Alexander Millane",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Karl Granström",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Victor Reijgwart",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Thomas Schneider",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Gabriel Agamennoni",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Daniel Dugas",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Sundara Tejaswi Digumarti",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Marcin Dymczyk",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2003,
+      2012
+    ],
+    "early_mean_n_authors": 3.65,
+    "late_window": [
+      2014,
+      2023
+    ],
+    "late_mean_n_authors": 5.79
+  },
+  "citation_half_life_years": 9,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2017,
+      "venue": "IROS",
+      "title": "Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board MAV planning",
+      "cites": 584,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Signed distance function",
+        "Trajectory",
+        "Computer vision",
+        "Euclidean distance",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2017.8202315",
+      "coauthors": [
+        "Helen Oleynikova",
+        "Zachary Taylor",
+        "Marius Fehr",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "Consistency of the EKF-SLAM Algorithm",
+      "cites": 564,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Extended Kalman filter",
+        "Heading (navigation)",
+        "Simultaneous localization and mapping",
+        "Noise (video)",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2006.281644",
+      "coauthors": [
+        "Tim Bailey",
+        "José E. Guivant",
+        "Michael Stevens",
+        "Eduardo Mario Nebot"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots",
+      "cites": 423,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "End-to-end principle",
+        "Motion planning",
+        "Planner"
+      ],
+      "doi": "10.1109/icra.2017.7989182",
+      "coauthors": [
+        "Mark Pfeiffer",
+        "Michael Schaeuble",
+        "Roland Siegwart",
+        "Cesar Cadena"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "weedNet: Dense Semantic Weed Classification Using Multispectral Images and MAV for Smart Farming",
+      "cites": 355,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Multispectral image",
+        "Computer science",
+        "Artificial intelligence",
+        "Weed",
+        "Convolutional neural network"
+      ],
+      "doi": "10.1109/lra.2017.2774979",
+      "coauthors": [
+        "Inkyu Sa",
+        "Zetao Chen",
+        "Marija Popovic",
+        "Raghav Khanna",
+        "Frank Liebisch",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "SegMatch: Segment based place recognition in 3D point clouds",
+      "cites": 319,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Robustness (evolution)",
+        "Artificial intelligence",
+        "Point cloud",
+        "Computer vision"
+      ],
+      "doi": "10.1109/icra.2017.7989618",
+      "coauthors": [
+        "Renaud Dubé",
+        "Daniel Dugas",
+        "Elena Stumm",
+        "Roland Siegwart",
+        "Cesar Cadena"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "An Efficient Sampling-Based Method for Online Informative Path Planning in Unknown Environments",
+      "cites": 289,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Motion planning",
+        "Maxima and minima",
+        "Context (archaeology)",
+        "Path (computing)"
+      ],
+      "doi": "10.1109/lra.2020.2969191",
+      "coauthors": [
+        "Lukas Schmid",
+        "Michael Pantic",
+        "Raghav Khanna",
+        "Lionel Ott",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "IROS",
+      "title": "Continuous-time trajectory optimization for online UAV replanning",
+      "cites": 245,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Multirotor",
+        "Trajectory",
+        "Computer science",
+        "Collision avoidance",
+        "Trajectory optimization"
+      ],
+      "doi": "10.1109/iros.2016.7759784",
+      "coauthors": [
+        "Helen Oleynikova",
+        "Michael Burri",
+        "Zachary Taylor",
+        "Roland Siegwart",
+        "Enric Galceran"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Volumetric Instance-Aware Semantic Mapping and 3D Object Discovery",
+      "cites": 217,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Semantic mapping",
+        "Computer science",
+        "Artificial intelligence",
+        "Object (grammar)",
+        "Segmentation"
+      ],
+      "doi": "10.1109/lra.2019.2923960",
+      "coauthors": [
+        "Margarita Grinvald",
+        "Fadri Furrer",
+        "Tonci Novkovic",
+        "Jen Jen Chung",
+        "Cesar Cadena",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Consistency of the FastSLAM Algorithm",
+      "cites": 203,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Particle filter",
+        "Consistency (knowledge bases)",
+        "Simultaneous localization and mapping",
+        "Kalman filter",
+        "Term (time)"
+      ],
+      "doi": "10.1109/robot.2006.1641748",
+      "coauthors": [
+        "Tim Bailey",
+        "Eduardo Mario Nebot"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Reinforced Imitation: Sample Efficient Deep Reinforcement Learning for Mapless Navigation by Leveraging Prior Demonstrations",
+      "cites": 196,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Sample (material)",
+        "Imitation"
+      ],
+      "doi": "10.1109/lra.2018.2869644",
+      "coauthors": [
+        "Mark Pfeiffer",
+        "Samarth Shukla",
+        "Matteo Turchetta",
+        "Cesar Cadena",
+        "Andreas Krause",
+        "Roland Siegwart"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer-3",
+      "headline": "Juan I. Nieto: 21년에 걸쳐 97편, 총 7,483회 인용, h=48, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "2003년 \"Multiple target tracking using Sequential Monte Carlo Methods and statistical data association\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"Consistency of the EKF-SLAM Algorithm\" (2006, 564회).",
+        "초기 토픽: Computer science, Simultaneous localization and mapping, Data association. 최근 토픽: Computer science, Merge (version control), Artificial intelligence. 피벗 점수 0.27 → 점진적 이동형.",
+        "저자수 평균: 초기 3.6명 → 후기 5.8명 (팀 확장).",
+        "최다 인용 논문 \"Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board MAV planning\" (2017, 584회) — 커리어 후기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Eduardo Mario Nebot. 제자 후보 추정 31명 — 상위: Zachary Taylor(2013~, 우리 마지막저자 6편), Tonci Novkovic(2017~, 우리 마지막저자 6편), Mina Kamel(2016~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "초기 3년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "31명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Eduardo Mario Nebot — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer-3",
+      "headline": "Juan I. Nieto: over 21 years, 97 papers, 7,483 total cites, h=48, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2003 with \"Multiple target tracking using Sequential Monte Carlo Methods and statistical data association\". First 500+ cite paper came 3 years in: \"Consistency of the EKF-SLAM Algorithm\" (2006, 564 cites).",
+        "Early topics: Computer science, Simultaneous localization and mapping, Data association. Recent topics: Computer science, Merge (version control), Artificial intelligence. Pivot score 0.27 → gradual shift.",
+        "Authors per paper: early 3.6 → late 5.8 (team growth).",
+        "Peak paper \"Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board MAV planning\" (2017, 584 cites) — fell in late career.",
+        "Likely advisor(s) (first-5y first-author pattern): Eduardo Mario Nebot. 31 likely students — top: Zachary Taylor(2013~, we last-author on 6), Tonci Novkovic(2017~, we last-author on 6), Mina Kamel(2016~, we last-author on 6)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 3 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "31 likely students — mentoring is the real impact.",
+        "Likely advisor: Eduardo Mario Nebot — started within their PhD network."
+      ]
+    }
+  }
+}

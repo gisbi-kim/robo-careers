@@ -1,0 +1,1131 @@
+{
+  "name": "Frank Dellaert",
+  "slug": "frank-dellaert",
+  "career_stats": {
+    "first_year": 1998,
+    "last_year": 2024,
+    "span": 27,
+    "total_papers": 94,
+    "total_cites": 12398,
+    "h_index": 44,
+    "i10_index": 74,
+    "seminal_count": 7,
+    "max_cites_single_paper": 1607
+  },
+  "role_distribution": {
+    "first": 8,
+    "middle": 21,
+    "last": 65
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1998,
+      "title": "Model-Based Car Tracking Integrated with a Road-Follower"
+    },
+    "first_100cite": {
+      "year": 1999,
+      "title": "MINERVA: A Second-Generation Museum Tour-Guide Robot",
+      "cites": 695,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 1999,
+      "title": "MINERVA: A Second-Generation Museum Tour-Guide Robot",
+      "cites": 695,
+      "gap_from_first": 1
+    },
+    "first_1000cite": {
+      "year": 1999,
+      "title": "Monte Carlo Localization for Mobile Robots",
+      "cites": 1607,
+      "gap_from_first": 1
+    },
+    "peak_paper": {
+      "year": 1999,
+      "title": "Monte Carlo Localization for Mobile Robots",
+      "cites": 1607
+    }
+  },
+  "year_series": {
+    "1998": {
+      "n": 2,
+      "cites": 70,
+      "max_cites": 36
+    },
+    "1999": {
+      "n": 2,
+      "cites": 2302,
+      "max_cites": 1607
+    },
+    "2000": {
+      "n": 1,
+      "cites": 521,
+      "max_cites": 521
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 1,
+      "cites": 38,
+      "max_cites": 38
+    },
+    "2003": {
+      "n": 3,
+      "cites": 103,
+      "max_cites": 73
+    },
+    "2004": {
+      "n": 2,
+      "cites": 85,
+      "max_cites": 56
+    },
+    "2005": {
+      "n": 5,
+      "cites": 237,
+      "max_cites": 111
+    },
+    "2006": {
+      "n": 4,
+      "cites": 1054,
+      "max_cites": 914
+    },
+    "2007": {
+      "n": 4,
+      "cites": 373,
+      "max_cites": 123
+    },
+    "2008": {
+      "n": 2,
+      "cites": 1064,
+      "max_cites": 1056
+    },
+    "2009": {
+      "n": 2,
+      "cites": 109,
+      "max_cites": 59
+    },
+    "2010": {
+      "n": 6,
+      "cites": 435,
+      "max_cites": 155
+    },
+    "2011": {
+      "n": 4,
+      "cites": 378,
+      "max_cites": 249
+    },
+    "2012": {
+      "n": 3,
+      "cites": 1421,
+      "max_cites": 1308
+    },
+    "2013": {
+      "n": 5,
+      "cites": 293,
+      "max_cites": 169
+    },
+    "2014": {
+      "n": 12,
+      "cites": 434,
+      "max_cites": 90
+    },
+    "2015": {
+      "n": 10,
+      "cites": 1176,
+      "max_cites": 486
+    },
+    "2016": {
+      "n": 3,
+      "cites": 247,
+      "max_cites": 115
+    },
+    "2017": {
+      "n": 4,
+      "cites": 1663,
+      "max_cites": 1392
+    },
+    "2018": {
+      "n": 2,
+      "cites": 244,
+      "max_cites": 212
+    },
+    "2019": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2020": {
+      "n": 2,
+      "cites": 4,
+      "max_cites": 2
+    },
+    "2021": {
+      "n": 4,
+      "cites": 25,
+      "max_cites": 16
+    },
+    "2022": {
+      "n": 5,
+      "cites": 60,
+      "max_cites": 22
+    },
+    "2023": {
+      "n": 3,
+      "cites": 56,
+      "max_cites": 42
+    },
+    "2024": {
+      "n": 3,
+      "cites": 6,
+      "max_cites": 4
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Robot",
+          "w": 0.133
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Traverse",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.067
+        },
+        {
+          "c": "Robot",
+          "w": 0.044
+        },
+        {
+          "c": "Smoothing",
+          "w": 0.044
+        },
+        {
+          "c": "Particle filter",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.176
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.082
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.071
+        },
+        {
+          "c": "Robot",
+          "w": 0.047
+        },
+        {
+          "c": "Odometry",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 34,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.183
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.083
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.053
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.047
+        },
+        {
+          "c": "Mathematical optimization",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.138
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.092
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.046
+        },
+        {
+          "c": "Gaussian process",
+          "w": 0.031
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.067
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.067
+        },
+        {
+          "c": "Mathematical optimization",
+          "w": 0.067
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 4,
+        "RSS": 4,
+        "T-RO": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 6,
+        "IJRR": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 17,
+        "IROS": 9,
+        "IJRR": 3,
+        "RSS": 3,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 5,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "mix": {
+        "ICRA": 4,
+        "RA-L": 1,
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 5.83,
+      "unique_coauthors": 15,
+      "top_coauthors": [
+        [
+          "Sebastian Thrun",
+          4
+        ],
+        [
+          "Wolfram Burgard",
+          3
+        ],
+        [
+          "Dieter Fox",
+          3
+        ],
+        [
+          "Maren Bennewitz",
+          2
+        ],
+        [
+          "Armin B. Cremers",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 2.67,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Ananth Ranganathan",
+          7
+        ],
+        [
+          "Michael Kaess",
+          4
+        ],
+        [
+          "Zia Khan",
+          2
+        ],
+        [
+          "Tucker R. Balch",
+          2
+        ],
+        [
+          "Eric Beowulf Martinson",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 3.88,
+      "unique_coauthors": 26,
+      "top_coauthors": [
+        [
+          "Michael Kaess",
+          5
+        ],
+        [
+          "Ananth Ranganathan",
+          4
+        ],
+        [
+          "Kai Ni",
+          4
+        ],
+        [
+          "Viorela Ila",
+          4
+        ],
+        [
+          "Richard Roberts",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 4.06,
+      "unique_coauthors": 53,
+      "top_coauthors": [
+        [
+          "Luca Carlone",
+          14
+        ],
+        [
+          "Vadim Indelman",
+          9
+        ],
+        [
+          "Siddharth Choudhary",
+          5
+        ],
+        [
+          "Henrik I. Christensen",
+          5
+        ],
+        [
+          "Jing Dong",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 4.23,
+      "unique_coauthors": 30,
+      "top_coauthors": [
+        [
+          "Gerry Chen",
+          4
+        ],
+        [
+          "Yetong Zhang",
+          4
+        ],
+        [
+          "Jing Dong",
+          3
+        ],
+        [
+          "Seth Hutchinson",
+          3
+        ],
+        [
+          "Mustafa Mukadam",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "mean_n_authors": 4.33,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Gerry Chen",
+          4
+        ],
+        [
+          "Varun Agrawal",
+          3
+        ],
+        [
+          "Seth Hutchinson",
+          2
+        ],
+        [
+          "Harsh Muriki",
+          1
+        ],
+        [
+          "Andrew Sharkey",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.239,
+  "top_repeat_coauthors": [
+    {
+      "name": "Luca Carlone",
+      "count": 14,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Ananth Ranganathan",
+      "count": 11,
+      "first_year": 2004,
+      "last_year": 2011
+    },
+    {
+      "name": "Michael Kaess",
+      "count": 11,
+      "first_year": 2005,
+      "last_year": 2022
+    },
+    {
+      "name": "Vadim Indelman",
+      "count": 9,
+      "first_year": 2013,
+      "last_year": 2015
+    },
+    {
+      "name": "Gerry Chen",
+      "count": 8,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Jing Dong",
+      "count": 7,
+      "first_year": 2015,
+      "last_year": 2021
+    },
+    {
+      "name": "Wolfram Burgard",
+      "count": 5,
+      "first_year": 1999,
+      "last_year": 2012
+    },
+    {
+      "name": "Kai Ni",
+      "count": 5,
+      "first_year": 2007,
+      "last_year": 2011
+    },
+    {
+      "name": "Richard Roberts",
+      "count": 5,
+      "first_year": 2008,
+      "last_year": 2014
+    },
+    {
+      "name": "Siddharth Choudhary",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Henrik I. Christensen",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Byron Boots",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2018
+    },
+    {
+      "name": "Seth Hutchinson",
+      "count": 5,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Yetong Zhang",
+      "count": 5,
+      "first_year": 2021,
+      "last_year": 2023
+    },
+    {
+      "name": "Sebastian Thrun",
+      "count": 4,
+      "first_year": 1998,
+      "last_year": 2000
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Ananth Ranganathan",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 11,
+      "student_first_author_count": 6,
+      "we_last_author_count": 9,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Vadim Indelman",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 9,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Luca Carlone",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 14,
+      "student_first_author_count": 5,
+      "we_last_author_count": 8,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Gerry Chen",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Siddharth Choudhary",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Yetong Zhang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Alexander Cunningham",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Kai Ni",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Jing Dong",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Pablo Fernández Alcantarilla",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Yong-Dian Jian",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Chris Beall",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Duy-Nguyen Ta",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Mustafa Mukadam",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Eric Beowulf Martinson",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Zia Khan",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Han-Pang Chiu",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Kyel Ok",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Christian Forster",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2017
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1998,
+      2007
+    ],
+    "early_mean_n_authors": 3.46,
+    "late_window": [
+      2015,
+      2024
+    ],
+    "late_mean_n_authors": 4.25
+  },
+  "citation_half_life_years": 16.0,
+  "bursts": {
+    "productivity": [
+      2014,
+      2015
+    ],
+    "impact": [
+      1999,
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "Monte Carlo Localization for Mobile Robots",
+      "cites": 1607,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Monte Carlo localization",
+        "Mobile robot",
+        "Particle filter",
+        "Computer science",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.1999.772544",
+      "coauthors": [
+        "Dieter Fox",
+        "Wolfram Burgard",
+        "Sebastian Thrun"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-RO",
+      "title": "On-Manifold Preintegration for Real-Time Visual-Inertial Odometry",
+      "cites": 1392,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Odometry",
+        "Computer vision",
+        "Artificial intelligence",
+        "Visual odometry",
+        "Inertial frame of reference"
+      ],
+      "doi": "10.1109/tro.2016.2597321",
+      "coauthors": [
+        "Christian Forster",
+        "Luca Carlone",
+        "Davide Scaramuzza"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "iSAM2: Incremental smoothing and mapping using the Bayes tree",
+      "cites": 1308,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Bayes' theorem",
+        "Tree (set theory)",
+        "Computer science",
+        "Algorithm",
+        "Inference"
+      ],
+      "doi": "10.1177/0278364911430419",
+      "coauthors": [
+        "Michael Kaess",
+        "Hordur Johannsson",
+        "Richard Roberts",
+        "Viorela Ila",
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "iSAM: Incremental Smoothing and Mapping",
+      "cites": 1056,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Smoothing",
+        "Computer science",
+        "Matrix decomposition",
+        "Algorithm",
+        "Matrix (chemical analysis)"
+      ],
+      "doi": "10.1109/tro.2008.2006706",
+      "coauthors": [
+        "Michael Kaess",
+        "Ananth Ranganathan"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Square Root SAM: Simultaneous Localization and Mapping via Square Root Information Smoothing",
+      "cites": 914,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Extended Kalman filter",
+        "Smoothing",
+        "Square root",
+        "Jacobian matrix and determinant"
+      ],
+      "doi": "10.1177/0278364906072768",
+      "coauthors": [
+        "Michael Kaess"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "MINERVA: A Second-Generation Museum Tour-Guide Robot",
+      "cites": 695,
+      "n_authors": 11,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Traverse",
+        "Computer science",
+        "Human–computer interaction",
+        "Software"
+      ],
+      "doi": "10.1109/robot.1999.770401",
+      "coauthors": [
+        "Sebastian Thrun",
+        "Maren Bennewitz",
+        "Wolfram Burgard",
+        "Armin B. Cremers",
+        "Dieter Fox",
+        "Dirk Hähnel",
+        "Charles R. Rosenberg",
+        "Nicholas Roy",
+        "Jamieson Schulte",
+        "Dirk Schulz"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "IJRR",
+      "title": "Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot Minerva",
+      "cites": 521,
+      "n_authors": 12,
+      "role": "middle",
+      "concepts": [
+        "Probabilistic logic",
+        "Robot",
+        "Traverse",
+        "Computer science",
+        "Software"
+      ],
+      "doi": "10.1177/02783640022067922",
+      "coauthors": [
+        "Sebastian Thrun",
+        "Michael Beetz",
+        "Maren Bennewitz",
+        "Wolfram Burgard",
+        "Armin B. Cremers",
+        "Dieter Fox",
+        "Dirk Hähnel",
+        "Charles R. Rosenberg",
+        "Nicholas Roy",
+        "Jamieson Schulte",
+        "Dirk Schulz"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "RSS",
+      "title": "IMU Preintegration on Manifold for Efficient Visual-Inertial Maximum-a-Posteriori Estimation",
+      "cites": 486,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Inertial measurement unit",
+        "Computer science",
+        "Inertial frame of reference",
+        "Computer vision",
+        "Artificial intelligence"
+      ],
+      "doi": "10.15607/rss.2015.xi.006",
+      "coauthors": [
+        "Christian Forster",
+        "Luca Carlone",
+        "Davide Scaramuzza"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "iSAM2: Incremental smoothing and mapping with fluid relinearization and incremental variable reordering",
+      "cites": 249,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Smoothing",
+        "Computer science",
+        "Algorithm",
+        "Variable (mathematics)",
+        "Sparse matrix"
+      ],
+      "doi": "10.1109/icra.2011.5979641",
+      "coauthors": [
+        "Michael Kaess",
+        "Hordur Johannsson",
+        "Richard Roberts",
+        "Viorela Ila",
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Initialization techniques for 3D SLAM: A survey on rotation estimation and its use in pose graph optimization",
+      "cites": 235,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Pose",
+        "Initialization",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2015.7139836",
+      "coauthors": [
+        "Luca Carlone",
+        "Roberto Tron",
+        "Kostas Daniilidis"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Frank Dellaert: 27년에 걸쳐 94편, 총 12,398회 인용, h=44, 500+ 블록버스터 7편.",
+      "paragraphs": [
+        "1998년 \"Model-Based Car Tracking Integrated with a Road-Follower\"으로 출발. 첫 500+ 인용 논문까지 1년 걸림: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회). 1000+ 인용 논문: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회).",
+        "초기 토픽: Computer science, Robot, Computer vision. 최근 토픽: Computer science, Robot, Computer vision. 피벗 점수 0.24 → 토픽 지속형.",
+        "저자수 평균: 초기 3.5명 → 후기 4.2명 (팀 확장).",
+        "최다 인용 논문 \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회) — 커리어 초기에 위치.",
+        "제자 후보 추정 19명 — 상위: Ananth Ranganathan(2003~, 우리 마지막저자 9편), Vadim Indelman(2011~, 우리 마지막저자 9편), Luca Carlone(2010~, 우리 마지막저자 8편)."
+      ],
+      "lessons": [
+        "초기 1년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "19명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Frank Dellaert: over 27 years, 94 papers, 12,398 total cites, h=44, 7 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1998 with \"Model-Based Car Tracking Integrated with a Road-Follower\". First 500+ cite paper came 1 years in: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695 cites). 1000+ cite paper: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607 cites).",
+        "Early topics: Computer science, Robot, Computer vision. Recent topics: Computer science, Robot, Computer vision. Pivot score 0.24 → topic-stable.",
+        "Authors per paper: early 3.5 → late 4.2 (team growth).",
+        "Peak paper \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607 cites) — fell in early career.",
+        "19 likely students — top: Ananth Ranganathan(2003~, we last-author on 9), Vadim Indelman(2011~, we last-author on 9), Luca Carlone(2010~, we last-author on 8)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 1 years. First-5-year topic choice is decisive.",
+        "19 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

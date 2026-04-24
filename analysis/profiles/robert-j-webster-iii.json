@@ -1,0 +1,1105 @@
+{
+  "name": "Robert J. Webster III",
+  "slug": "robert-j-webster-iii",
+  "career_stats": {
+    "first_year": 2002,
+    "last_year": 2025,
+    "span": 24,
+    "total_papers": 73,
+    "total_cites": 8080,
+    "h_index": 39,
+    "i10_index": 62,
+    "seminal_count": 3,
+    "max_cites_single_paper": 2185
+  },
+  "role_distribution": {
+    "first": 7,
+    "middle": 30,
+    "last": 36
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2002,
+      "title": "The Electronic Ball Boy: A Reactive Visually Guided Mobile Robot for the Tennis Court"
+    },
+    "first_100cite": {
+      "year": 2005,
+      "title": "Design Considerations for Robotic Needle Steering",
+      "cites": 189,
+      "gap_from_first": 3
+    },
+    "first_500cite": {
+      "year": 2006,
+      "title": "Nonholonomic Modeling of Needle Steering",
+      "cites": 619,
+      "gap_from_first": 4
+    },
+    "first_1000cite": {
+      "year": 2010,
+      "title": "Design and Kinematic Modeling of Constant Curvature Continuum Robots: A Review",
+      "cites": 2185,
+      "gap_from_first": 8
+    },
+    "peak_paper": {
+      "year": 2010,
+      "title": "Design and Kinematic Modeling of Constant Curvature Continuum Robots: A Review",
+      "cites": 2185
+    }
+  },
+  "year_series": {
+    "2002": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2003": {
+      "n": 1,
+      "cites": 90,
+      "max_cites": 90
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 1,
+      "cites": 189,
+      "max_cites": 189
+    },
+    "2006": {
+      "n": 2,
+      "cites": 871,
+      "max_cites": 619
+    },
+    "2007": {
+      "n": 3,
+      "cites": 135,
+      "max_cites": 78
+    },
+    "2008": {
+      "n": 1,
+      "cites": 45,
+      "max_cites": 45
+    },
+    "2009": {
+      "n": 4,
+      "cites": 824,
+      "max_cites": 474
+    },
+    "2010": {
+      "n": 8,
+      "cites": 3067,
+      "max_cites": 2185
+    },
+    "2011": {
+      "n": 4,
+      "cites": 873,
+      "max_cites": 608
+    },
+    "2012": {
+      "n": 2,
+      "cites": 177,
+      "max_cites": 106
+    },
+    "2013": {
+      "n": 4,
+      "cites": 206,
+      "max_cites": 101
+    },
+    "2014": {
+      "n": 3,
+      "cites": 280,
+      "max_cites": 148
+    },
+    "2015": {
+      "n": 8,
+      "cites": 519,
+      "max_cites": 132
+    },
+    "2016": {
+      "n": 7,
+      "cites": 257,
+      "max_cites": 74
+    },
+    "2017": {
+      "n": 3,
+      "cites": 136,
+      "max_cites": 84
+    },
+    "2018": {
+      "n": 3,
+      "cites": 54,
+      "max_cites": 27
+    },
+    "2019": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2020": {
+      "n": 4,
+      "cites": 155,
+      "max_cites": 57
+    },
+    "2021": {
+      "n": 3,
+      "cites": 93,
+      "max_cites": 57
+    },
+    "2022": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "2023": {
+      "n": 2,
+      "cites": 53,
+      "max_cites": 42
+    },
+    "2024": {
+      "n": 4,
+      "cites": 44,
+      "max_cites": 31
+    },
+    "2025": {
+      "n": 3,
+      "cites": 4,
+      "max_cites": 3
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.182
+        },
+        {
+          "c": "Robot",
+          "w": 0.091
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.091
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.045
+        },
+        {
+          "c": "Ball (mathematics)",
+          "w": 0.045
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Kinematics",
+          "w": 0.11
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Computer science",
+          "w": 0.08
+        },
+        {
+          "c": "Cannula",
+          "w": 0.06
+        },
+        {
+          "c": "Torsion (gastropod)",
+          "w": 0.03
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.133
+        },
+        {
+          "c": "Computer science",
+          "w": 0.092
+        },
+        {
+          "c": "Concentric",
+          "w": 0.067
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.058
+        },
+        {
+          "c": "Imaging phantom",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.114
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.071
+        },
+        {
+          "c": "Magnet",
+          "w": 0.029
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Robot",
+          "w": 0.12
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.08
+        },
+        {
+          "c": "Automation",
+          "w": 0.04
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.04
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "ICRA": 3,
+        "IJRR": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "ICRA": 11,
+        "T-RO": 4,
+        "IROS": 3,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 6,
+        "T-RO": 4,
+        "RA-L": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "RA-L": 6,
+        "T-RO": 3,
+        "IROS": 2,
+        "ICRA": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "IROS": 3,
+        "RA-L": 2,
+        "T-RO": 2,
+        "Sci-Rob": 1,
+        "IJRR": 1,
+        "ICRA": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 3.6,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Allison M. Okamura",
+          4
+        ],
+        [
+          "Noah J. Cowan",
+          2
+        ],
+        [
+          "Alan S. Brannon",
+          1
+        ],
+        [
+          "Jason T. Nolin",
+          1
+        ],
+        [
+          "K. W. Johnson",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 3.45,
+      "unique_coauthors": 26,
+      "top_coauthors": [
+        [
+          "D. Caleb Rucker",
+          10
+        ],
+        [
+          "Joseph M. Romano",
+          4
+        ],
+        [
+          "Arianna Menciassi",
+          3
+        ],
+        [
+          "Paolo Dario",
+          3
+        ],
+        [
+          "Noah J. Cowan",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 4.58,
+      "unique_coauthors": 40,
+      "top_coauthors": [
+        [
+          "Hunter B. Gilbert",
+          11
+        ],
+        [
+          "Philip J. Swaney",
+          8
+        ],
+        [
+          "Ron Alterovitz",
+          5
+        ],
+        [
+          "Richard J. Hendrick",
+          5
+        ],
+        [
+          "Luis G. Torres",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 6.86,
+      "unique_coauthors": 45,
+      "top_coauthors": [
+        [
+          "Alan Kuntz",
+          5
+        ],
+        [
+          "Ron Alterovitz",
+          5
+        ],
+        [
+          "Patrick L. Anderson",
+          3
+        ],
+        [
+          "Katherine E. Riojas",
+          3
+        ],
+        [
+          "Mengyu Fu",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 8,
+      "unique_coauthors": 46,
+      "top_coauthors": [
+        [
+          "Alan Kuntz",
+          5
+        ],
+        [
+          "Ron Alterovitz",
+          4
+        ],
+        [
+          "Janine Hoelscher",
+          3
+        ],
+        [
+          "Inbar Fried",
+          3
+        ],
+        [
+          "Jason A. Akulian",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.26,
+  "top_repeat_coauthors": [
+    {
+      "name": "Ron Alterovitz",
+      "count": 16,
+      "first_year": 2009,
+      "last_year": 2025
+    },
+    {
+      "name": "D. Caleb Rucker",
+      "count": 14,
+      "first_year": 2009,
+      "last_year": 2024
+    },
+    {
+      "name": "Hunter B. Gilbert",
+      "count": 12,
+      "first_year": 2011,
+      "last_year": 2016
+    },
+    {
+      "name": "Alan Kuntz",
+      "count": 12,
+      "first_year": 2015,
+      "last_year": 2025
+    },
+    {
+      "name": "Philip J. Swaney",
+      "count": 9,
+      "first_year": 2011,
+      "last_year": 2016
+    },
+    {
+      "name": "Richard J. Hendrick",
+      "count": 7,
+      "first_year": 2014,
+      "last_year": 2024
+    },
+    {
+      "name": "Patrick L. Anderson",
+      "count": 6,
+      "first_year": 2016,
+      "last_year": 2024
+    },
+    {
+      "name": "Allison M. Okamura",
+      "count": 5,
+      "first_year": 2003,
+      "last_year": 2007
+    },
+    {
+      "name": "Noah J. Cowan",
+      "count": 5,
+      "first_year": 2006,
+      "last_year": 2010
+    },
+    {
+      "name": "Andria A. Remirez",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2021
+    },
+    {
+      "name": "Arthur W. Mahoney",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2018
+    },
+    {
+      "name": "Fabien Maldonado",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2023
+    },
+    {
+      "name": "Mengyu Fu",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Janine Hoelscher",
+      "count": 5,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Inbar Fried",
+      "count": 5,
+      "first_year": 2021,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Allison M. Okamura",
+      "advisor_active_from": 1997,
+      "early_copubs_as_our_first_author": 3,
+      "advisor_last_author_count": 2,
+      "total_copubs": 5
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Hunter B. Gilbert",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 4,
+      "we_last_author_count": 11,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "D. Caleb Rucker",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 14,
+      "student_first_author_count": 8,
+      "we_last_author_count": 10,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Philip J. Swaney",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Richard J. Hendrick",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Arthur W. Mahoney",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Jessica Burgner",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Trevor L. Bruns",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Patrick L. Anderson",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ray A. Lathrop",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Jessica Burgner-Kahrs",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Katherine E. Riojas",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Neal P. Dillon",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Loris Fichera",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Joseph M. Romano",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Margaret Rox",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Isuru S. Godage",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Josephine Granna",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Alan Kuntz",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Janine Hoelscher",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Federico Campisano",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Luis G. Torres",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Lisa A. Lyons",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Inbar Fried",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mengyu Fu",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Marco Quirini",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Brian Y. Cho",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2002,
+      2011
+    ],
+    "early_mean_n_authors": 3.48,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 6.61
+  },
+  "citation_half_life_years": 16.0,
+  "bursts": {
+    "productivity": [
+      2010,
+      2015
+    ],
+    "impact": [
+      2010
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2010,
+      "venue": "IJRR",
+      "title": "Design and Kinematic Modeling of Constant Curvature Continuum Robots: A Review",
+      "cites": 2185,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Constant curvature",
+        "Kinematics",
+        "Rotation formalisms in three dimensions",
+        "Robot",
+        "Robotics"
+      ],
+      "doi": "10.1177/0278364910368147",
+      "coauthors": [
+        "Bryan A. Jones"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Nonholonomic Modeling of Needle Steering",
+      "cites": 619,
+      "n_authors": 5,
+      "role": "first",
+      "concepts": [
+        "Bevel",
+        "Nonholonomic system",
+        "Kinematics",
+        "Computer science",
+        "Motion planning"
+      ],
+      "doi": "10.1177/0278364906065388",
+      "coauthors": [
+        "Jin Seob Kim",
+        "Noah J. Cowan",
+        "Gregory S. Chirikjian",
+        "Allison M. Okamura"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "T-RO",
+      "title": "Statics and Dynamics of Continuum Robots With General Tendon Routing and External Loading",
+      "cites": 608,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Statics",
+        "Robot",
+        "Workspace",
+        "Robot kinematics",
+        "Engineering"
+      ],
+      "doi": "10.1109/tro.2011.2160469",
+      "coauthors": [
+        "D. Caleb Rucker"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "T-RO",
+      "title": "Mechanics of Precurved-Tube Continuum Robots",
+      "cites": 474,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Traverse",
+        "Cannula",
+        "Mechanics",
+        "Kinematics",
+        "Robot"
+      ],
+      "doi": "10.1109/tro.2008.2006868",
+      "coauthors": [
+        "Joseph M. Romano",
+        "Noah J. Cowan"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "T-RO",
+      "title": "A Geometrically Exact Model for Externally Loaded Concentric-Tube Continuum Robots",
+      "cites": 447,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Concentric",
+        "Wrench",
+        "Kinematics",
+        "Point (geometry)"
+      ],
+      "doi": "10.1109/tro.2010.2062570",
+      "coauthors": [
+        "D. Caleb Rucker",
+        "Bryan A. Jones"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "T-RO",
+      "title": "A New Mechanism for Mesoscale Legged Locomotion in Compliant Tubular Environments",
+      "cites": 269,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Mechanism (biology)",
+        "Legged robot",
+        "Traverse",
+        "Kinematics",
+        "Mesoscale meteorology"
+      ],
+      "doi": "10.1109/tro.2009.2014127",
+      "coauthors": [
+        "Pietro Valdastri",
+        "Claudio Quaglia",
+        "Marco Quirini",
+        "Arianna Menciassi",
+        "Paolo Dario"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "Toward Active Cannulas: Miniature Snake-Like Surgical Robots",
+      "cites": 252,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Surgical robot",
+        "Kinematics",
+        "Miniaturization",
+        "Robot",
+        "Cannula"
+      ],
+      "doi": "10.1109/iros.2006.282073",
+      "coauthors": [
+        "Allison M. Okamura",
+        "Noah J. Cowan"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IJRR",
+      "title": "Equilibrium Conformations of Concentric-tube Continuum Robots",
+      "cites": 215,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Torsion (gastropod)",
+        "Concentric",
+        "Piecewise",
+        "Robot",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364910367543",
+      "coauthors": [
+        "D. Caleb Rucker",
+        "Gregory S. Chirikjian",
+        "Noah J. Cowan"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Design Considerations for Robotic Needle Steering",
+      "cites": 189,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/robot.2005.1570666",
+      "coauthors": [
+        "Jasenka Memisevic",
+        "Allison M. Okamura"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "Needle Steering in 3-D Via Rapid Replanning",
+      "cites": 148,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Kinematics",
+        "Computer vision",
+        "Metric (unit)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2014.2307633",
+      "coauthors": [
+        "Sachin Patil",
+        "Jessica Burgner",
+        "Ron Alterovitz"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak",
+      "headline": "Robert J. Webster III: 24년에 걸쳐 73편, 총 8,080회 인용, h=39, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "2002년 \"The Electronic Ball Boy: A Reactive Visually Guided Mobile Robot for the Tennis Court\"으로 출발. 첫 500+ 인용 논문까지 4년 걸림: \"Nonholonomic Modeling of Needle Steering\" (2006, 619회). 1000+ 인용 논문: \"Design and Kinematic Modeling of Constant Curvature Continuum Robots: A Review\" (2010, 2,185회).",
+        "초기 토픽: Computer science, Robot, Kinematics. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.26 → 점진적 이동형.",
+        "저자수 평균: 초기 3.5명 → 후기 6.6명 (팀 확장).",
+        "최다 인용 논문 \"Design and Kinematic Modeling of Constant Curvature Continuum Robots: A Review\" (2010, 2,185회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Allison M. Okamura. 제자 후보 추정 26명 — 상위: Hunter B. Gilbert(2011~, 우리 마지막저자 11편), D. Caleb Rucker(2009~, 우리 마지막저자 10편), Philip J. Swaney(2011~, 우리 마지막저자 8편)."
+      ],
+      "lessons": [
+        "초기 4년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "26명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Allison M. Okamura — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak",
+      "headline": "Robert J. Webster III: over 24 years, 73 papers, 8,080 total cites, h=39, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2002 with \"The Electronic Ball Boy: A Reactive Visually Guided Mobile Robot for the Tennis Court\". First 500+ cite paper came 4 years in: \"Nonholonomic Modeling of Needle Steering\" (2006, 619 cites). 1000+ cite paper: \"Design and Kinematic Modeling of Constant Curvature Continuum Robots: A Review\" (2010, 2,185 cites).",
+        "Early topics: Computer science, Robot, Kinematics. Recent topics: Computer science, Robot, Artificial intelligence. Pivot score 0.26 → gradual shift.",
+        "Authors per paper: early 3.5 → late 6.6 (team growth).",
+        "Peak paper \"Design and Kinematic Modeling of Constant Curvature Continuum Robots: A Review\" (2010, 2,185 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Allison M. Okamura. 26 likely students — top: Hunter B. Gilbert(2011~, we last-author on 11), D. Caleb Rucker(2009~, we last-author on 10), Philip J. Swaney(2011~, we last-author on 8)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 4 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "26 likely students — mentoring is the real impact.",
+        "Likely advisor: Allison M. Okamura — started within their PhD network."
+      ]
+    }
+  }
+}

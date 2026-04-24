@@ -1,0 +1,1053 @@
+{
+  "name": "Sebastian Thrun",
+  "slug": "sebastian-thrun",
+  "career_stats": {
+    "first_year": 1994,
+    "last_year": 2016,
+    "span": 23,
+    "total_papers": 94,
+    "total_cites": 19874,
+    "h_index": 59,
+    "i10_index": 90,
+    "seminal_count": 13,
+    "max_cites_single_paper": 1607
+  },
+  "role_distribution": {
+    "first": 16,
+    "last": 61,
+    "middle": 17
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1994,
+      "title": "A Lifelong Learning Perspective for Mobile Robot Control"
+    },
+    "first_100cite": {
+      "year": 1994,
+      "title": "A lifelong learning perspective for mobile robot control",
+      "cites": 114,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 1999,
+      "title": "MINERVA: A Second-Generation Museum Tour-Guide Robot",
+      "cites": 695,
+      "gap_from_first": 5
+    },
+    "first_1000cite": {
+      "year": 1999,
+      "title": "Monte Carlo Localization for Mobile Robots",
+      "cites": 1607,
+      "gap_from_first": 5
+    },
+    "peak_paper": {
+      "year": 1999,
+      "title": "Monte Carlo Localization for Mobile Robots",
+      "cites": 1607
+    }
+  },
+  "year_series": {
+    "1994": {
+      "n": 2,
+      "cites": 161,
+      "max_cites": 114
+    },
+    "1995": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1996": {
+      "n": 1,
+      "cites": 57,
+      "max_cites": 57
+    },
+    "1997": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1998": {
+      "n": 5,
+      "cites": 372,
+      "max_cites": 118
+    },
+    "1999": {
+      "n": 5,
+      "cites": 2720,
+      "max_cites": 1607
+    },
+    "2000": {
+      "n": 5,
+      "cites": 2077,
+      "max_cites": 757
+    },
+    "2001": {
+      "n": 4,
+      "cites": 797,
+      "max_cites": 488
+    },
+    "2002": {
+      "n": 8,
+      "cites": 693,
+      "max_cites": 314
+    },
+    "2003": {
+      "n": 10,
+      "cites": 2650,
+      "max_cites": 574
+    },
+    "2004": {
+      "n": 9,
+      "cites": 1430,
+      "max_cites": 648
+    },
+    "2005": {
+      "n": 7,
+      "cites": 762,
+      "max_cites": 406
+    },
+    "2006": {
+      "n": 6,
+      "cites": 1261,
+      "max_cites": 676
+    },
+    "2007": {
+      "n": 3,
+      "cites": 1076,
+      "max_cites": 591
+    },
+    "2008": {
+      "n": 3,
+      "cites": 236,
+      "max_cites": 121
+    },
+    "2009": {
+      "n": 3,
+      "cites": 1578,
+      "max_cites": 1408
+    },
+    "2010": {
+      "n": 6,
+      "cites": 2654,
+      "max_cites": 926
+    },
+    "2011": {
+      "n": 4,
+      "cites": 546,
+      "max_cites": 217
+    },
+    "2012": {
+      "n": 3,
+      "cites": 103,
+      "max_cites": 54
+    },
+    "2013": {
+      "n": 5,
+      "cites": 493,
+      "max_cites": 322
+    },
+    "2014": {
+      "n": 2,
+      "cites": 80,
+      "max_cites": 65
+    },
+    "2015": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2016": {
+      "n": 3,
+      "cites": 128,
+      "max_cites": 46
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.15
+        },
+        {
+          "c": "Robot",
+          "w": 0.15
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Lifelong learning",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 32,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.188
+        },
+        {
+          "c": "Robot",
+          "w": 0.144
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.119
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.05
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.184
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.125
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.081
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.037
+        },
+        {
+          "c": "Robot",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.19
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.095
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.076
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.048
+        },
+        {
+          "c": "Calibration",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2016,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.12
+        },
+        {
+          "c": "Tracking (education)",
+          "w": 0.08
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.08
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "mix": {
+        "IROS": 4,
+        "ICRA": 4
+      }
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "ICRA": 20,
+        "IROS": 10,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "ICRA": 9,
+        "RSS": 9,
+        "IJRR": 6,
+        "IROS": 3,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "ICRA": 12,
+        "RSS": 4,
+        "IROS": 3,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2016,
+      "mix": {
+        "RSS": 2,
+        "IROS": 1,
+        "IJRR": 1,
+        "ICRA": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "mean_n_authors": 2.38,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "Dieter Fox",
+          3
+        ],
+        [
+          "Wolfram Burgard",
+          3
+        ],
+        [
+          "Armin B. Cremers",
+          1
+        ],
+        [
+          "Frank Dellaert",
+          1
+        ],
+        [
+          "Chuck Thorpe",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 4,
+      "unique_coauthors": 47,
+      "top_coauthors": [
+        [
+          "Wolfram Burgard",
+          14
+        ],
+        [
+          "Dieter Fox",
+          8
+        ],
+        [
+          "Maren Bennewitz",
+          7
+        ],
+        [
+          "Nicholas Roy",
+          6
+        ],
+        [
+          "Dirk Hähnel",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 4.07,
+      "unique_coauthors": 64,
+      "top_coauthors": [
+        [
+          "Andrew Y. Ng",
+          5
+        ],
+        [
+          "Michael Montemerlo",
+          5
+        ],
+        [
+          "Dirk Hähnel",
+          2
+        ],
+        [
+          "Yufeng Liu",
+          2
+        ],
+        [
+          "Rosemary Emery-Montemerlo",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 3.38,
+      "unique_coauthors": 31,
+      "top_coauthors": [
+        [
+          "Jesse Levinson",
+          6
+        ],
+        [
+          "Alex Teichman",
+          6
+        ],
+        [
+          "Dmitri Dolgov",
+          3
+        ],
+        [
+          "Dirk Hähnel",
+          2
+        ],
+        [
+          "Christian Plagemann",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2016,
+      "mean_n_authors": 3.6,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "David Held",
+          4
+        ],
+        [
+          "Silvio Savarese",
+          4
+        ],
+        [
+          "Jesse Levinson",
+          2
+        ],
+        [
+          "Jake T. Lussier",
+          1
+        ],
+        [
+          "Devin Guillory",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.141,
+  "top_repeat_coauthors": [
+    {
+      "name": "Wolfram Burgard",
+      "count": 20,
+      "first_year": 1996,
+      "last_year": 2009
+    },
+    {
+      "name": "Dieter Fox",
+      "count": 11,
+      "first_year": 1996,
+      "last_year": 2003
+    },
+    {
+      "name": "Michael Montemerlo",
+      "count": 10,
+      "first_year": 2002,
+      "last_year": 2010
+    },
+    {
+      "name": "Dirk Hähnel",
+      "count": 9,
+      "first_year": 1999,
+      "last_year": 2009
+    },
+    {
+      "name": "Jesse Levinson",
+      "count": 9,
+      "first_year": 2007,
+      "last_year": 2016
+    },
+    {
+      "name": "Maren Bennewitz",
+      "count": 8,
+      "first_year": 1999,
+      "last_year": 2005
+    },
+    {
+      "name": "Nicholas Roy",
+      "count": 6,
+      "first_year": 1999,
+      "last_year": 2003
+    },
+    {
+      "name": "Andrew Y. Ng",
+      "count": 6,
+      "first_year": 2004,
+      "last_year": 2010
+    },
+    {
+      "name": "Alex Teichman",
+      "count": 6,
+      "first_year": 2011,
+      "last_year": 2013
+    },
+    {
+      "name": "David Held",
+      "count": 6,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Dmitri Dolgov",
+      "count": 5,
+      "first_year": 2008,
+      "last_year": 2010
+    },
+    {
+      "name": "Frank Dellaert",
+      "count": 4,
+      "first_year": 1998,
+      "last_year": 2000
+    },
+    {
+      "name": "David Stavens",
+      "count": 4,
+      "first_year": 2005,
+      "last_year": 2011
+    },
+    {
+      "name": "Silvio Savarese",
+      "count": 4,
+      "first_year": 2014,
+      "last_year": 2016
+    },
+    {
+      "name": "Armin B. Cremers",
+      "count": 3,
+      "first_year": 1998,
+      "last_year": 2000
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Alex Teichman",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Maren Bennewitz",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Jesse Levinson",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Michael Montemerlo",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Dmitri Dolgov",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Dirk Hähnel",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "David Held",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 6,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Rahul Biswas",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Pieter Abbeel",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Aaron Morris",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Andrew Lookingbill",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "David Lieb",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Christian Plagemann",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Stephen Miller",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Chieh-Chih Wang",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Anna Petrovskaya",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Jamieson Schulte",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Yufeng Liu",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Christian Martin",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Christopher R. Baker",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Rosemary Emery-Montemerlo",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2005
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1994,
+      2003
+    ],
+    "early_mean_n_authors": 3.67,
+    "late_window": [
+      2007,
+      2016
+    ],
+    "late_mean_n_authors": 3.47
+  },
+  "citation_half_life_years": 22.0,
+  "bursts": {
+    "productivity": [
+      2003
+    ],
+    "impact": [
+      1999,
+      2010
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "Monte Carlo Localization for Mobile Robots",
+      "cites": 1607,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Monte Carlo localization",
+        "Mobile robot",
+        "Particle filter",
+        "Computer science",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.1999.772544",
+      "coauthors": [
+        "Frank Dellaert",
+        "Dieter Fox",
+        "Wolfram Burgard"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "RSS",
+      "title": "Generalized-ICP",
+      "cites": 1408,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robustness (evolution)",
+        "Probabilistic logic",
+        "Iterative closest point",
+        "Outlier",
+        "Algorithm"
+      ],
+      "doi": "10.15607/rss.2009.v.021",
+      "coauthors": [
+        "Aleksandr Segal",
+        "Dirk Hähnel"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IJRR",
+      "title": "Path Planning for Autonomous Vehicles in Unknown Semi-structured Environments",
+      "cites": 926,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Motion planning",
+        "Planner",
+        "Path (computing)",
+        "Trajectory",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364909359210",
+      "coauthors": [
+        "Dmitri Dolgov",
+        "Michael Montemerlo",
+        "James Diebel"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "ICRA",
+      "title": "Optimal trajectory generation for dynamic street scenarios in a Frenét Frame",
+      "cites": 764,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Trajectory",
+        "Frame (networking)",
+        "Computer science",
+        "Collision avoidance",
+        "Layer (electronics)"
+      ],
+      "doi": "10.1109/robot.2010.5509799",
+      "coauthors": [
+        "Moritz Werling",
+        "Julius Ziegler",
+        "Sören Kammel"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Collaborative Multi-Robot Exploration",
+      "cites": 757,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Computer science",
+        "Probabilistic logic",
+        "Artificial intelligence",
+        "Point (geometry)"
+      ],
+      "doi": "10.1109/robot.2000.844100",
+      "coauthors": [
+        "Wolfram Burgard",
+        "Mark Moors",
+        "Dieter Fox",
+        "Reid G. Simmons"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "MINERVA: A Second-Generation Museum Tour-Guide Robot",
+      "cites": 695,
+      "n_authors": 11,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Traverse",
+        "Computer science",
+        "Human–computer interaction",
+        "Software"
+      ],
+      "doi": "10.1109/robot.1999.770401",
+      "coauthors": [
+        "Maren Bennewitz",
+        "Wolfram Burgard",
+        "Armin B. Cremers",
+        "Frank Dellaert",
+        "Dieter Fox",
+        "Dirk Hähnel",
+        "Charles R. Rosenberg",
+        "Nicholas Roy",
+        "Jamieson Schulte",
+        "Dirk Schulz"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "A Real-Time Algorithm for Mobile Robot Mapping With Applications to Multi-Robot and 3D Mapping",
+      "cites": 690,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Mobile robot",
+        "Computer vision",
+        "Artificial intelligence",
+        "Probabilistic logic"
+      ],
+      "doi": "10.1109/robot.2000.844077",
+      "coauthors": [
+        "Wolfram Burgard",
+        "Dieter Fox"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "The Graph SLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures",
+      "cites": 676,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Data association",
+        "Graph",
+        "Computer science",
+        "Greedy algorithm"
+      ],
+      "doi": "10.1177/0278364906065387",
+      "coauthors": [
+        "Michael Montemerlo"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "IJRR",
+      "title": "Simultaneous Localization and Mapping with Sparse Extended Information Filters",
+      "cites": 648,
+      "n_authors": 6,
+      "role": "first",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Extended Kalman filter",
+        "Computer science",
+        "Benchmark (surveying)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1177/0278364904045479",
+      "coauthors": [
+        "Yufeng Liu",
+        "Daphne Koller",
+        "Andrew Y. Ng",
+        "Zoubin Ghahramani",
+        "Hugh F. Durrant-Whyte"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "IJRR",
+      "title": "Simultaneous Localization, Mapping and Moving Object Tracking",
+      "cites": 591,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Computer vision",
+        "Artificial intelligence",
+        "Object (grammar)",
+        "Tracking (education)"
+      ],
+      "doi": "10.1177/0278364907081229",
+      "coauthors": [
+        "Chieh-Chih Wang",
+        "Charles E. Thorpe",
+        "Martial Hebert",
+        "Hugh F. Durrant-Whyte"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Sebastian Thrun: 23년에 걸쳐 94편, 총 19,874회 인용, h=59, 500+ 블록버스터 13편.",
+      "paragraphs": [
+        "1994년 \"A Lifelong Learning Perspective for Mobile Robot Control\"으로 출발. 첫 500+ 인용 논문까지 5년 걸림: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회). 1000+ 인용 논문: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회).",
+        "초기 토픽: Computer science, Mobile robot, Robot. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.14 → 토픽 지속형.",
+        "저자수 평균: 초기 3.7명 → 후기 3.5명 (팀 유지).",
+        "최다 인용 논문 \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회) — 커리어 초기에 위치.",
+        "제자 후보 추정 21명 — 상위: Alex Teichman(2008~, 우리 마지막저자 6편), Maren Bennewitz(1999~, 우리 마지막저자 5편), Jesse Levinson(2007~, 우리 마지막저자 5편)."
+      ],
+      "lessons": [
+        "초기 5년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "21명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Sebastian Thrun: over 23 years, 94 papers, 19,874 total cites, h=59, 13 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1994 with \"A Lifelong Learning Perspective for Mobile Robot Control\". First 500+ cite paper came 5 years in: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695 cites). 1000+ cite paper: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607 cites).",
+        "Early topics: Computer science, Mobile robot, Robot. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.14 → topic-stable.",
+        "Authors per paper: early 3.7 → late 3.5 (stable team).",
+        "Peak paper \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607 cites) — fell in early career.",
+        "21 likely students — top: Alex Teichman(2008~, we last-author on 6), Maren Bennewitz(1999~, we last-author on 5), Jesse Levinson(2007~, we last-author on 5)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 5 years. First-5-year topic choice is decisive.",
+        "21 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

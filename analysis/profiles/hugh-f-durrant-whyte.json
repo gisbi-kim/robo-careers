@@ -1,0 +1,1103 @@
+{
+  "name": "Hugh F. Durrant-Whyte",
+  "slug": "hugh-f-durrant-whyte",
+  "career_stats": {
+    "first_year": 1985,
+    "last_year": 2012,
+    "span": 28,
+    "total_papers": 99,
+    "total_cites": 8005,
+    "h_index": 44,
+    "i10_index": 78,
+    "seminal_count": 3,
+    "max_cites_single_paper": 791
+  },
+  "role_distribution": {
+    "first": 9,
+    "last": 73,
+    "middle": 17
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1985,
+      "title": "Practical adaptive control of actuated spatial mechanisms"
+    },
+    "first_100cite": {
+      "year": 1987,
+      "title": "Uncertain geometry in robotics",
+      "cites": 205,
+      "gap_from_first": 2
+    },
+    "first_500cite": {
+      "year": 1991,
+      "title": "Simultaneous map building and localization for an autonomous mobile robot",
+      "cites": 791,
+      "gap_from_first": 6
+    },
+    "peak_paper": {
+      "year": 1991,
+      "title": "Simultaneous map building and localization for an autonomous mobile robot",
+      "cites": 791
+    }
+  },
+  "year_series": {
+    "1985": {
+      "n": 1,
+      "cites": 26,
+      "max_cites": 26
+    },
+    "1986": {
+      "n": 1,
+      "cites": 48,
+      "max_cites": 48
+    },
+    "1987": {
+      "n": 1,
+      "cites": 205,
+      "max_cites": 205
+    },
+    "1988": {
+      "n": 2,
+      "cites": 359,
+      "max_cites": 345
+    },
+    "1989": {
+      "n": 1,
+      "cites": 39,
+      "max_cites": 39
+    },
+    "1990": {
+      "n": 3,
+      "cites": 353,
+      "max_cites": 131
+    },
+    "1991": {
+      "n": 3,
+      "cites": 806,
+      "max_cites": 791
+    },
+    "1992": {
+      "n": 1,
+      "cites": 87,
+      "max_cites": 87
+    },
+    "1993": {
+      "n": 6,
+      "cites": 431,
+      "max_cites": 308
+    },
+    "1994": {
+      "n": 3,
+      "cites": 163,
+      "max_cites": 98
+    },
+    "1995": {
+      "n": 3,
+      "cites": 79,
+      "max_cites": 30
+    },
+    "1996": {
+      "n": 2,
+      "cites": 202,
+      "max_cites": 166
+    },
+    "1997": {
+      "n": 5,
+      "cites": 252,
+      "max_cites": 115
+    },
+    "1998": {
+      "n": 7,
+      "cites": 287,
+      "max_cites": 103
+    },
+    "1999": {
+      "n": 3,
+      "cites": 105,
+      "max_cites": 88
+    },
+    "2000": {
+      "n": 7,
+      "cites": 655,
+      "max_cites": 234
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 5,
+      "cites": 1018,
+      "max_cites": 442
+    },
+    "2003": {
+      "n": 7,
+      "cites": 398,
+      "max_cites": 171
+    },
+    "2004": {
+      "n": 7,
+      "cites": 886,
+      "max_cites": 648
+    },
+    "2005": {
+      "n": 2,
+      "cites": 5,
+      "max_cites": 3
+    },
+    "2006": {
+      "n": 4,
+      "cites": 261,
+      "max_cites": 212
+    },
+    "2007": {
+      "n": 4,
+      "cites": 731,
+      "max_cites": 591
+    },
+    "2008": {
+      "n": 1,
+      "cites": 16,
+      "max_cites": 16
+    },
+    "2009": {
+      "n": 2,
+      "cites": 132,
+      "max_cites": 74
+    },
+    "2010": {
+      "n": 8,
+      "cites": 165,
+      "max_cites": 85
+    },
+    "2011": {
+      "n": 9,
+      "cites": 262,
+      "max_cites": 81
+    },
+    "2012": {
+      "n": 1,
+      "cites": 34,
+      "max_cites": 34
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.067
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.033
+        },
+        {
+          "c": "Actuator",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.177
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.076
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.063
+        },
+        {
+          "c": "Sonar",
+          "w": 0.038
+        },
+        {
+          "c": "Robot",
+          "w": 0.038
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.173
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.051
+        },
+        {
+          "c": "Real-time computing",
+          "w": 0.041
+        },
+        {
+          "c": "Global Positioning System",
+          "w": 0.041
+        },
+        {
+          "c": "Sonar",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.184
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.048
+        },
+        {
+          "c": "Process (computing)",
+          "w": 0.04
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.04
+        },
+        {
+          "c": "Scalability",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.169
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.108
+        },
+        {
+          "c": "Tracking (education)",
+          "w": 0.046
+        },
+        {
+          "c": "Isomap",
+          "w": 0.031
+        },
+        {
+          "c": "Representation (politics)",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2012,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.202
+        },
+        {
+          "c": "Terrain",
+          "w": 0.06
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.048
+        },
+        {
+          "c": "Gaussian process",
+          "w": 0.048
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.048
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mix": {
+        "ICRA": 4,
+        "IJRR": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "IROS": 11,
+        "ICRA": 3,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "ICRA": 19,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 15,
+        "IROS": 6,
+        "IJRR": 5
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "IROS": 6,
+        "ICRA": 4,
+        "RSS": 1,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2012,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 4,
+        "IJRR": 3,
+        "RSS": 2
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mean_n_authors": 1.5,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Alec Cameron",
+          1
+        ],
+        [
+          "Ron W. Daniel",
+          1
+        ],
+        [
+          "John J. Leonard",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 2.31,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "B. S. Y. Rao",
+          3
+        ],
+        [
+          "John J. Leonard",
+          2
+        ],
+        [
+          "James M. Manyika",
+          2
+        ],
+        [
+          "Wu Wen",
+          2
+        ],
+        [
+          "Billur Barshan",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 3.4,
+      "unique_coauthors": 24,
+      "top_coauthors": [
+        [
+          "Eduardo Mario Nebot",
+          10
+        ],
+        [
+          "Gamini Dissanayake",
+          6
+        ],
+        [
+          "Steve Scheding",
+          4
+        ],
+        [
+          "David C. Rye",
+          3
+        ],
+        [
+          "Michael Stevens",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 3.69,
+      "unique_coauthors": 31,
+      "top_coauthors": [
+        [
+          "Gamini Dissanayake",
+          10
+        ],
+        [
+          "Stefan B. Williams",
+          9
+        ],
+        [
+          "Tomonari Furukawa",
+          7
+        ],
+        [
+          "Frédéric Bourgault",
+          6
+        ],
+        [
+          "Alexei Makarenko",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 3.77,
+      "unique_coauthors": 24,
+      "top_coauthors": [
+        [
+          "Fabio T. Ramos",
+          6
+        ],
+        [
+          "Ben Upcroft",
+          4
+        ],
+        [
+          "Suresh Kumar",
+          3
+        ],
+        [
+          "Tomonari Furukawa",
+          2
+        ],
+        [
+          "Benjamin Lavis",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2012,
+      "mean_n_authors": 3.83,
+      "unique_coauthors": 34,
+      "top_coauthors": [
+        [
+          "Fabio T. Ramos",
+          5
+        ],
+        [
+          "Eric Nettleton",
+          5
+        ],
+        [
+          "Surya P. N. Singh",
+          4
+        ],
+        [
+          "Shrihari Vasudevan",
+          3
+        ],
+        [
+          "Fabio Ramos",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.26,
+  "top_repeat_coauthors": [
+    {
+      "name": "Gamini Dissanayake",
+      "count": 16,
+      "first_year": 1997,
+      "last_year": 2004
+    },
+    {
+      "name": "Eduardo Mario Nebot",
+      "count": 11,
+      "first_year": 1996,
+      "last_year": 2000
+    },
+    {
+      "name": "Fabio T. Ramos",
+      "count": 11,
+      "first_year": 2006,
+      "last_year": 2011
+    },
+    {
+      "name": "Tomonari Furukawa",
+      "count": 10,
+      "first_year": 2003,
+      "last_year": 2010
+    },
+    {
+      "name": "Stefan B. Williams",
+      "count": 9,
+      "first_year": 2000,
+      "last_year": 2004
+    },
+    {
+      "name": "Eric Nettleton",
+      "count": 8,
+      "first_year": 1999,
+      "last_year": 2011
+    },
+    {
+      "name": "Salah Sukkarieh",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2012
+    },
+    {
+      "name": "Frédéric Bourgault",
+      "count": 7,
+      "first_year": 2002,
+      "last_year": 2006
+    },
+    {
+      "name": "Tim Bailey",
+      "count": 5,
+      "first_year": 2000,
+      "last_year": 2011
+    },
+    {
+      "name": "Alexei Makarenko",
+      "count": 5,
+      "first_year": 2002,
+      "last_year": 2004
+    },
+    {
+      "name": "David C. Rye",
+      "count": 4,
+      "first_year": 1997,
+      "last_year": 2000
+    },
+    {
+      "name": "Steve Scheding",
+      "count": 4,
+      "first_year": 1997,
+      "last_year": 1998
+    },
+    {
+      "name": "Ben Grocholsky",
+      "count": 4,
+      "first_year": 2000,
+      "last_year": 2004
+    },
+    {
+      "name": "Suresh Kumar",
+      "count": 4,
+      "first_year": 2004,
+      "last_year": 2008
+    },
+    {
+      "name": "Ben Upcroft",
+      "count": 4,
+      "first_year": 2005,
+      "last_year": 2008
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Fabio T. Ramos",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 4,
+      "we_last_author_count": 9,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Gamini Dissanayake",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 16,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Eduardo Mario Nebot",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 1,
+      "we_last_author_count": 8,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Frédéric Bourgault",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Tomonari Furukawa",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Salah Sukkarieh",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Alexei Makarenko",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Suresh Kumar",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Shrihari Vasudevan",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Ben Grocholsky",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Steve Scheding",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 1998
+    },
+    {
+      "name": "Wu Wen",
+      "student_first_year": 1991,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1992
+    },
+    {
+      "name": "Simon Timothy O&apos",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Stephen Borthwick",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1994
+    },
+    {
+      "name": "Stefan B. Williams",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 9,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "James M. Manyika",
+      "student_first_year": 1991,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 1993
+    },
+    {
+      "name": "Paul M. Newman",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Raj Madhavan",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Tim Bailey",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "John Vial",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1985,
+      1994
+    ],
+    "early_mean_n_authors": 2.09,
+    "late_window": [
+      2003,
+      2012
+    ],
+    "late_mean_n_authors": 3.8
+  },
+  "citation_half_life_years": 26,
+  "bursts": {
+    "productivity": [
+      2011
+    ],
+    "impact": [
+      2002,
+      2004
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 1991,
+      "venue": "IROS",
+      "title": "Simultaneous map building and localization for an autonomous mobile robot",
+      "cites": 791,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Mobile robot",
+        "Artificial intelligence",
+        "Sonar",
+        "Computer science",
+        "Robotics"
+      ],
+      "doi": "10.1109/iros.1991.174711",
+      "coauthors": [
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "IJRR",
+      "title": "Simultaneous Localization and Mapping with Sparse Extended Information Filters",
+      "cites": 648,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Extended Kalman filter",
+        "Computer science",
+        "Benchmark (surveying)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1177/0278364904045479",
+      "coauthors": [
+        "Sebastian Thrun",
+        "Yufeng Liu",
+        "Daphne Koller",
+        "Andrew Y. Ng",
+        "Zoubin Ghahramani"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "IJRR",
+      "title": "Simultaneous Localization, Mapping and Moving Object Tracking",
+      "cites": 591,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Computer vision",
+        "Artificial intelligence",
+        "Object (grammar)",
+        "Tracking (education)"
+      ],
+      "doi": "10.1177/0278364907081229",
+      "coauthors": [
+        "Chieh-Chih Wang",
+        "Charles E. Thorpe",
+        "Sebastian Thrun",
+        "Martial Hebert"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IROS",
+      "title": "Information based adaptive robotic exploration",
+      "cites": 442,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Occupancy grid mapping",
+        "Simultaneous localization and mapping",
+        "Computer science",
+        "Artificial intelligence",
+        "Process (computing)"
+      ],
+      "doi": "10.1109/irds.2002.1041446",
+      "coauthors": [
+        "Frédéric Bourgault",
+        "Alexei Makarenko",
+        "Stefan B. Williams",
+        "Ben Grocholsky"
+      ]
+    },
+    {
+      "year": 1988,
+      "venue": "IJRR",
+      "title": "Sensor Models and Multisensor Integration",
+      "cites": 345,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Soft sensor",
+        "Computer science",
+        "A priori and a posteriori",
+        "Abstraction",
+        "Sensor fusion"
+      ],
+      "doi": "10.1177/027836498800700608",
+      "coauthors": []
+    },
+    {
+      "year": 1993,
+      "venue": "IJRR",
+      "title": "A Fully Decentralized Multi-Sensor System For Tracking and Surveillance",
+      "cites": 308,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Single point of failure",
+        "Sensor fusion",
+        "Real-time computing",
+        "Synchronization (alternating current)"
+      ],
+      "doi": "10.1177/027836499301200102",
+      "coauthors": [
+        "B. S. Y. Rao",
+        "J. A. Sheen"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IROS",
+      "title": "An experiment in integrated exploration",
+      "cites": 305,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Metric (unit)",
+        "Computer science",
+        "Coupling (piping)",
+        "Motion (physics)",
+        "Covariance"
+      ],
+      "doi": "10.1109/irds.2002.1041445",
+      "coauthors": [
+        "Alexei Makarenko",
+        "Stefan B. Williams",
+        "Frédéric Bourgault"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "A Computationally Efficient Solution to the Simultaneous Localisation and Map Building (SLAM) Problem",
+      "cites": 234,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Landmark",
+        "Simultaneous localization and mapping",
+        "Computer science",
+        "Implementation",
+        "Process (computing)"
+      ],
+      "doi": "10.1109/robot.2000.844732",
+      "coauthors": [
+        "Gamini Dissanayake",
+        "Tim Bailey"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Recursive Bayesian Search-and-tracking using Coordinated UAVs for Lost Targets",
+      "cites": 212,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Recursive Bayesian estimation",
+        "Tracking (education)",
+        "Bayesian probability",
+        "Search and rescue"
+      ],
+      "doi": "10.1109/robot.2006.1642081",
+      "coauthors": [
+        "Tomonari Furukawa",
+        "Frédéric Bourgault",
+        "Benjamin Lavis"
+      ]
+    },
+    {
+      "year": 1987,
+      "venue": "ICRA",
+      "title": "Uncertain geometry in robotics",
+      "cites": 205,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Parameterized complexity",
+        "Robotics",
+        "Robot",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/robot.1987.1087810",
+      "coauthors": []
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Hugh F. Durrant-Whyte: 28년에 걸쳐 99편, 총 8,005회 인용, h=44, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "1985년 \"Practical adaptive control of actuated spatial mechanisms\"으로 출발. 첫 500+ 인용 논문까지 6년 걸림: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791회).",
+        "초기 토픽: Computer science, Artificial intelligence, Computer vision. 최근 토픽: Computer science, Terrain, Motion planning. 피벗 점수 0.26 → 점진적 이동형.",
+        "저자수 평균: 초기 2.1명 → 후기 3.8명 (팀 확장).",
+        "최다 인용 논문 \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791회) — 커리어 초기에 위치.",
+        "제자 후보 추정 20명 — 상위: Fabio T. Ramos(2005~, 우리 마지막저자 9편), Gamini Dissanayake(1997~, 우리 마지막저자 8편), Eduardo Mario Nebot(1996~, 우리 마지막저자 8편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "20명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Hugh F. Durrant-Whyte: over 28 years, 99 papers, 8,005 total cites, h=44, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1985 with \"Practical adaptive control of actuated spatial mechanisms\". First 500+ cite paper came 6 years in: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791 cites).",
+        "Early topics: Computer science, Artificial intelligence, Computer vision. Recent topics: Computer science, Terrain, Motion planning. Pivot score 0.26 → gradual shift.",
+        "Authors per paper: early 2.1 → late 3.8 (team growth).",
+        "Peak paper \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791 cites) — fell in early career.",
+        "20 likely students — top: Fabio T. Ramos(2005~, we last-author on 9), Gamini Dissanayake(1997~, we last-author on 8), Eduardo Mario Nebot(1996~, we last-author on 8)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "20 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

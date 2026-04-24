@@ -1,0 +1,1276 @@
+{
+  "name": "Jonathan P. How",
+  "slug": "jonathan-p-how",
+  "career_stats": {
+    "first_year": 2000,
+    "last_year": 2025,
+    "span": 26,
+    "total_papers": 135,
+    "total_cites": 5963,
+    "h_index": 38,
+    "i10_index": 83,
+    "seminal_count": 2,
+    "max_cites_single_paper": 1023
+  },
+  "role_distribution": {
+    "last": 104,
+    "middle": 30,
+    "first": 1
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2000,
+      "title": "An Indoor Absolute Positioning System with No Line of Sight Restrictions and Building-Wide Coverage"
+    },
+    "first_100cite": {
+      "year": 2008,
+      "title": "Motion planning for urban driving using RRT",
+      "cites": 214,
+      "gap_from_first": 8
+    },
+    "first_500cite": {
+      "year": 2009,
+      "title": "Consensus-Based Decentralized Auctions for Robust Task Allocation",
+      "cites": 1023,
+      "gap_from_first": 9
+    },
+    "first_1000cite": {
+      "year": 2009,
+      "title": "Consensus-Based Decentralized Auctions for Robust Task Allocation",
+      "cites": 1023,
+      "gap_from_first": 9
+    },
+    "peak_paper": {
+      "year": 2009,
+      "title": "Consensus-Based Decentralized Auctions for Robust Task Allocation",
+      "cites": 1023
+    }
+  },
+  "year_series": {
+    "2000": {
+      "n": 1,
+      "cites": 9,
+      "max_cites": 9
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2007": {
+      "n": 1,
+      "cites": 55,
+      "max_cites": 55
+    },
+    "2008": {
+      "n": 2,
+      "cites": 220,
+      "max_cites": 214
+    },
+    "2009": {
+      "n": 2,
+      "cites": 1177,
+      "max_cites": 1023
+    },
+    "2010": {
+      "n": 3,
+      "cites": 174,
+      "max_cites": 66
+    },
+    "2011": {
+      "n": 3,
+      "cites": 126,
+      "max_cites": 76
+    },
+    "2012": {
+      "n": 1,
+      "cites": 14,
+      "max_cites": 14
+    },
+    "2013": {
+      "n": 3,
+      "cites": 68,
+      "max_cites": 24
+    },
+    "2014": {
+      "n": 5,
+      "cites": 285,
+      "max_cites": 145
+    },
+    "2015": {
+      "n": 10,
+      "cites": 588,
+      "max_cites": 159
+    },
+    "2016": {
+      "n": 7,
+      "cites": 298,
+      "max_cites": 84
+    },
+    "2017": {
+      "n": 13,
+      "cites": 1271,
+      "max_cites": 704
+    },
+    "2018": {
+      "n": 7,
+      "cites": 109,
+      "max_cites": 44
+    },
+    "2019": {
+      "n": 9,
+      "cites": 199,
+      "max_cites": 73
+    },
+    "2020": {
+      "n": 12,
+      "cites": 284,
+      "max_cites": 120
+    },
+    "2021": {
+      "n": 12,
+      "cites": 227,
+      "max_cites": 74
+    },
+    "2022": {
+      "n": 12,
+      "cites": 515,
+      "max_cites": 232
+    },
+    "2023": {
+      "n": 15,
+      "cites": 215,
+      "max_cites": 39
+    },
+    "2024": {
+      "n": 12,
+      "cites": 117,
+      "max_cites": 33
+    },
+    "2025": {
+      "n": 5,
+      "cites": 12,
+      "max_cites": 8
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Beacon",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Sight",
+          "w": 0.2
+        },
+        {
+          "c": "Indoor positioning system",
+          "w": 0.2
+        },
+        {
+          "c": "Real-time computing",
+          "w": 0.2
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Testbed",
+          "w": 0.04
+        },
+        {
+          "c": "Flight test",
+          "w": 0.04
+        },
+        {
+          "c": "Real-time computing",
+          "w": 0.04
+        },
+        {
+          "c": "Architecture",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.187
+        },
+        {
+          "c": "Markov decision process",
+          "w": 0.067
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.053
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.053
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 46,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.197
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.052
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.044
+        },
+        {
+          "c": "Robot",
+          "w": 0.044
+        },
+        {
+          "c": "Partially observable Markov decision process",
+          "w": 0.026
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 63,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.19
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.079
+        },
+        {
+          "c": "Robot",
+          "w": 0.041
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.032
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.15
+        },
+        {
+          "c": "Traverse",
+          "w": 0.05
+        },
+        {
+          "c": "Terrain",
+          "w": 0.05
+        },
+        {
+          "c": "Distribution (mathematics)",
+          "w": 0.05
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 3,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 22,
+        "IROS": 15,
+        "T-RO": 3,
+        "RSS": 3,
+        "IJRR": 3
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "ICRA": 20,
+        "IROS": 17,
+        "RA-L": 12,
+        "T-RO": 11,
+        "IJRR": 2,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "RA-L": 2,
+        "ICRA": 2,
+        "RSS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 2,
+      "unique_coauthors": 1,
+      "top_coauthors": [
+        [
+          "Eric Prigge",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 4.8,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Adrian A. Frank",
+          2
+        ],
+        [
+          "James S. McGrew",
+          2
+        ],
+        [
+          "Spencer Ahrens",
+          2
+        ],
+        [
+          "Mario J. Valenti",
+          1
+        ],
+        [
+          "Brett Bethke",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 4.8,
+      "unique_coauthors": 46,
+      "top_coauthors": [
+        [
+          "Mark Cutler",
+          4
+        ],
+        [
+          "Girish Chowdhary",
+          3
+        ],
+        [
+          "Brandon Luders",
+          2
+        ],
+        [
+          "Nicholas Roy",
+          2
+        ],
+        [
+          "Aditya Undurti",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 4.63,
+      "unique_coauthors": 77,
+      "top_coauthors": [
+        [
+          "Christopher Amato",
+          10
+        ],
+        [
+          "Shayegan Omidshafiei",
+          8
+        ],
+        [
+          "Yu Fan Chen",
+          7
+        ],
+        [
+          "Miao Liu",
+          7
+        ],
+        [
+          "Shih-Yuan Liu",
+          7
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 4.25,
+      "unique_coauthors": 90,
+      "top_coauthors": [
+        [
+          "Parker C. Lusk",
+          12
+        ],
+        [
+          "Andrea Tagliabue",
+          10
+        ],
+        [
+          "Yulun Tian",
+          10
+        ],
+        [
+          "Michael Everett",
+          9
+        ],
+        [
+          "Xiaoyi Cai",
+          8
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 6.2,
+      "unique_coauthors": 23,
+      "top_coauthors": [
+        [
+          "Annika Thomas",
+          2
+        ],
+        [
+          "Parker C. Lusk",
+          2
+        ],
+        [
+          "Mason B. Peterson",
+          2
+        ],
+        [
+          "Aneesa Sonawalla",
+          1
+        ],
+        [
+          "Alex Rose",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.286,
+  "top_repeat_coauthors": [
+    {
+      "name": "Michael Everett",
+      "count": 16,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Parker C. Lusk",
+      "count": 14,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Yulun Tian",
+      "count": 12,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Kasra Khosoussi",
+      "count": 11,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Andrea Tagliabue",
+      "count": 11,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Christopher Amato",
+      "count": 10,
+      "first_year": 2015,
+      "last_year": 2018
+    },
+    {
+      "name": "Shayegan Omidshafiei",
+      "count": 9,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "Xiaoyi Cai",
+      "count": 9,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "John Vian",
+      "count": 8,
+      "first_year": 2007,
+      "last_year": 2017
+    },
+    {
+      "name": "Mark Cutler",
+      "count": 8,
+      "first_year": 2011,
+      "last_year": 2016
+    },
+    {
+      "name": "Brett T. Lopez",
+      "count": 8,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "Jesus Tordesillas",
+      "count": 8,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Yu Fan Chen",
+      "count": 7,
+      "first_year": 2015,
+      "last_year": 2018
+    },
+    {
+      "name": "John J. Leonard",
+      "count": 7,
+      "first_year": 2015,
+      "last_year": 2024
+    },
+    {
+      "name": "Miao Liu",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2017
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Parker C. Lusk",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 14,
+      "student_first_author_count": 6,
+      "we_last_author_count": 14,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Michael Everett",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 16,
+      "student_first_author_count": 3,
+      "we_last_author_count": 10,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Xiaoyi Cai",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 6,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mark Cutler",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 8,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Jesus Tordesillas",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Brett T. Lopez",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Yulun Tian",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 12,
+      "student_first_author_count": 8,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yu Fan Chen",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Kota Kondo",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Justin Miller",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Annika Thomas",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Shayegan Omidshafiei",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Andrea Tagliabue",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 11,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Macheng Shen",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Lakshay Sharma",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Mason B. Peterson",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kaveh Fathian",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Christopher Amato",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Kristoffer M. Frey",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Bernard Michini",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Chuangchuang Sun",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Matthew Giamou",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Aleix Paris",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Beipeng Mu",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Andrew Fishberg",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Aditya Undurti",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Lena M. Downes",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Ali-akbar Agha-mohammadi",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Samir Wadhwania",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "N. Kemal Ure",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Girish Chowdhary",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Spencer Ahrens",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Suhan Kim",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Stewart Jamieson",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Qiangqiang Huang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Yun Chang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Matthew C. Graham",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2000,
+      2009
+    ],
+    "early_mean_n_authors": 4.33,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.51
+  },
+  "citation_half_life_years": 10,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2009,
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2009,
+      "venue": "T-RO",
+      "title": "Consensus-Based Decentralized Auctions for Robust Task Allocation",
+      "cites": 1023,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Convergence (economics)",
+        "Common value auction",
+        "Task (project management)",
+        "Auction algorithm"
+      ],
+      "doi": "10.1109/tro.2009.2022423",
+      "coauthors": [
+        "Han-Lim Choi",
+        "Luc Brunet"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IROS",
+      "title": "Socially aware motion planning with deep reinforcement learning",
+      "cites": 704,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Human–computer interaction",
+        "Pedestrian"
+      ],
+      "doi": "10.1109/iros.2017.8202312",
+      "coauthors": [
+        "Yu Fan Chen",
+        "Michael Everett",
+        "Miao Liu"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Duckietown: An open, inexpensive and flexible platform for autonomy education and research",
+      "cites": 232,
+      "n_authors": 30,
+      "role": "middle",
+      "concepts": [
+        "Signage",
+        "Raspberry pi",
+        "Autonomy",
+        "Computer science",
+        "Open research"
+      ],
+      "doi": "10.1109/icra.2017.7989179",
+      "coauthors": [
+        "Liam Paull",
+        "Jacopo Tani",
+        "Heejin Ahn",
+        "Javier Alonso-Mora",
+        "Luca Carlone",
+        "Michal Cáp",
+        "Yu Fan Chen",
+        "Changhyun Choi",
+        "Jeff Dusek",
+        "Yajun Fang",
+        "Daniel Hoehener",
+        "Shih-Yuan Liu",
+        "Michael Novitzky",
+        "Igor Franzoni Okuyama",
+        "Jason Pazis",
+        "Guy Rosman",
+        "Valerio Varricchio",
+        "Hsueh-Cheng Wang",
+        "Dmitry S. Yershov",
+        "Hang Zhao",
+        "Michael Benjamin",
+        "Christopher Carr",
+        "Maria T. Zuber",
+        "Sertac Karaman",
+        "Emilio Frazzoli",
+        "Domitilla Del Vecchio",
+        "Daniela Rus",
+        "John J. Leonard",
+        "Andrea Censi"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "T-RO",
+      "title": "Kimera-Multi: Robust, Distributed, Dense Metric-Semantic SLAM for Multi-Robot Systems",
+      "cites": 232,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Notation",
+        "Computer science",
+        "Robustness (evolution)",
+        "Simultaneous localization and mapping"
+      ],
+      "doi": "10.1109/tro.2021.3137751",
+      "coauthors": [
+        "Yulun Tian",
+        "Yun Chang",
+        "Fernando Herrera Arias",
+        "Carlos Nieto-Granda",
+        "Luca Carlone"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IROS",
+      "title": "Motion planning for urban driving using RRT",
+      "cites": 214,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Motion planning",
+        "Computer science",
+        "Motion (physics)",
+        "Random tree",
+        "Face (sociological concept)"
+      ],
+      "doi": "10.1109/iros.2008.4651075",
+      "coauthors": [
+        "Yoshiaki Kuwata",
+        "Gaston A. Fiore",
+        "Justin Teo",
+        "Emilio Frazzoli"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Decoupled multiagent path planning via incremental sequential convex programming",
+      "cites": 159,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Mathematical optimization",
+        "Computer science",
+        "Path (computing)",
+        "Motion planning",
+        "Sequence (biology)"
+      ],
+      "doi": "10.1109/icra.2015.7140034",
+      "coauthors": [
+        "Yu Fan Chen",
+        "Mark Cutler"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "ICRA",
+      "title": "Vision-based guidance and control of a hovering vehicle in unknown, GPS-denied environments",
+      "cites": 154,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Payload (computing)",
+        "Global Positioning System",
+        "Computer science",
+        "Obstacle avoidance",
+        "Obstacle"
+      ],
+      "doi": "10.1109/robot.2009.5152680",
+      "coauthors": [
+        "Spencer Ahrens",
+        "Daniel S. Levine",
+        "Gregory Andrews"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "T-RO",
+      "title": "FASTER: Fast and Safe Trajectory Planner for Navigation in Unknown Environments",
+      "cites": 152,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Trajectory",
+        "Planner",
+        "Computer science",
+        "Motion planning",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2021.3100142",
+      "coauthors": [
+        "Jesus Tordesillas",
+        "Brett T. Lopez",
+        "Michael Everett"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-Mech",
+      "title": "An Automated Battery Management System to Enable Persistent Missions With Multiple Aerial Vehicles",
+      "cites": 145,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Downtime",
+        "Battery (electricity)",
+        "Probabilistic logic",
+        "Computer science",
+        "Throttle"
+      ],
+      "doi": "10.1109/tmech.2013.2294805",
+      "coauthors": [
+        "Nazım Kemal Üre",
+        "Girish Chowdhary",
+        "Tuna Toksoz",
+        "Matthew A. Vavrina",
+        "John Vian"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Aggressive 3-D collision avoidance for high-speed navigation",
+      "cites": 129,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Collision avoidance",
+        "Computer science",
+        "Motion planning",
+        "Computation",
+        "Collision"
+      ],
+      "doi": "10.1109/icra.2017.7989677",
+      "coauthors": [
+        "Brett T. Lopez"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Jonathan P. How: 26년에 걸쳐 135편, 총 5,963회 인용, h=38, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "2000년 \"An Indoor Absolute Positioning System with No Line of Sight Restrictions and Building-Wide Coverage\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"Consensus-Based Decentralized Auctions for Robust Task Allocation\" (2009, 1,023회). 1000+ 인용 논문: \"Consensus-Based Decentralized Auctions for Robust Task Allocation\" (2009, 1,023회).",
+        "초기 토픽: Beacon, Computer science, Sight. 최근 토픽: Computer science, Artificial intelligence, Traverse. 피벗 점수 0.29 → 점진적 이동형.",
+        "저자수 평균: 초기 4.3명 → 후기 4.5명 (팀 유지).",
+        "최다 인용 논문 \"Consensus-Based Decentralized Auctions for Robust Task Allocation\" (2009, 1,023회) — 커리어 중기에 위치.",
+        "제자 후보 추정 37명 — 상위: Parker C. Lusk(2020~, 우리 마지막저자 14편), Michael Everett(2017~, 우리 마지막저자 10편), Xiaoyi Cai(2020~, 우리 마지막저자 9편)."
+      ],
+      "lessons": [
+        "37명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Jonathan P. How: over 26 years, 135 papers, 5,963 total cites, h=38, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2000 with \"An Indoor Absolute Positioning System with No Line of Sight Restrictions and Building-Wide Coverage\". First 500+ cite paper came 9 years in: \"Consensus-Based Decentralized Auctions for Robust Task Allocation\" (2009, 1,023 cites). 1000+ cite paper: \"Consensus-Based Decentralized Auctions for Robust Task Allocation\" (2009, 1,023 cites).",
+        "Early topics: Beacon, Computer science, Sight. Recent topics: Computer science, Artificial intelligence, Traverse. Pivot score 0.29 → gradual shift.",
+        "Authors per paper: early 4.3 → late 4.5 (stable team).",
+        "Peak paper \"Consensus-Based Decentralized Auctions for Robust Task Allocation\" (2009, 1,023 cites) — fell in mid career.",
+        "37 likely students — top: Parker C. Lusk(2020~, we last-author on 14), Michael Everett(2017~, we last-author on 10), Xiaoyi Cai(2020~, we last-author on 9)."
+      ],
+      "lessons": [
+        "37 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

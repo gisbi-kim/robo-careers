@@ -1,0 +1,1151 @@
+{
+  "name": "Fumio Kanehiro",
+  "slug": "fumio-kanehiro",
+  "career_stats": {
+    "first_year": 1994,
+    "last_year": 2025,
+    "span": 32,
+    "total_papers": 107,
+    "total_cites": 10839,
+    "h_index": 50,
+    "i10_index": 91,
+    "seminal_count": 3,
+    "max_cites_single_paper": 2075
+  },
+  "role_distribution": {
+    "middle": 70,
+    "first": 17,
+    "last": 20
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1994,
+      "title": "Vision-Based Adaptive and Interactive Behaviors in Mechanical Animals Using the Remote-Brained Approach"
+    },
+    "first_100cite": {
+      "year": 2000,
+      "title": "Design and development of research platform for perception-action integration in humanoid robot: H6",
+      "cites": 189,
+      "gap_from_first": 6
+    },
+    "first_500cite": {
+      "year": 2001,
+      "title": "The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation",
+      "cites": 1034,
+      "gap_from_first": 7
+    },
+    "first_1000cite": {
+      "year": 2001,
+      "title": "The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation",
+      "cites": 1034,
+      "gap_from_first": 7
+    },
+    "peak_paper": {
+      "year": 2003,
+      "title": "Biped walking pattern generation by using preview control of zero-moment point",
+      "cites": 2075
+    }
+  },
+  "year_series": {
+    "1994": {
+      "n": 2,
+      "cites": 10,
+      "max_cites": 9
+    },
+    "1995": {
+      "n": 2,
+      "cites": 79,
+      "max_cites": 57
+    },
+    "1996": {
+      "n": 2,
+      "cites": 51,
+      "max_cites": 31
+    },
+    "1997": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "1998": {
+      "n": 1,
+      "cites": 21,
+      "max_cites": 21
+    },
+    "1999": {
+      "n": 2,
+      "cites": 17,
+      "max_cites": 11
+    },
+    "2000": {
+      "n": 2,
+      "cites": 251,
+      "max_cites": 189
+    },
+    "2001": {
+      "n": 3,
+      "cites": 1112,
+      "max_cites": 1034
+    },
+    "2002": {
+      "n": 8,
+      "cites": 1041,
+      "max_cites": 311
+    },
+    "2003": {
+      "n": 7,
+      "cites": 2896,
+      "max_cites": 2075
+    },
+    "2004": {
+      "n": 10,
+      "cites": 1490,
+      "max_cites": 749
+    },
+    "2005": {
+      "n": 8,
+      "cites": 571,
+      "max_cites": 115
+    },
+    "2006": {
+      "n": 5,
+      "cites": 440,
+      "max_cites": 188
+    },
+    "2007": {
+      "n": 9,
+      "cites": 643,
+      "max_cites": 151
+    },
+    "2008": {
+      "n": 5,
+      "cites": 569,
+      "max_cites": 294
+    },
+    "2009": {
+      "n": 2,
+      "cites": 140,
+      "max_cites": 99
+    },
+    "2010": {
+      "n": 5,
+      "cites": 548,
+      "max_cites": 432
+    },
+    "2011": {
+      "n": 4,
+      "cites": 373,
+      "max_cites": 212
+    },
+    "2012": {
+      "n": 2,
+      "cites": 30,
+      "max_cites": 19
+    },
+    "2013": {
+      "n": 3,
+      "cites": 83,
+      "max_cites": 41
+    },
+    "2014": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2015": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2016": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2017": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2018": {
+      "n": 3,
+      "cites": 55,
+      "max_cites": 22
+    },
+    "2019": {
+      "n": 2,
+      "cites": 162,
+      "max_cites": 149
+    },
+    "2020": {
+      "n": 3,
+      "cites": 24,
+      "max_cites": 10
+    },
+    "2021": {
+      "n": 6,
+      "cites": 132,
+      "max_cites": 62
+    },
+    "2022": {
+      "n": 2,
+      "cites": 31,
+      "max_cites": 30
+    },
+    "2023": {
+      "n": 2,
+      "cites": 44,
+      "max_cites": 24
+    },
+    "2024": {
+      "n": 4,
+      "cites": 14,
+      "max_cites": 9
+    },
+    "2025": {
+      "n": 2,
+      "cites": 8,
+      "max_cites": 7
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Interfacing",
+          "w": 0.075
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.075
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.191
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.155
+        },
+        {
+          "c": "Robot",
+          "w": 0.136
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.064
+        },
+        {
+          "c": "Robotics",
+          "w": 0.055
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 37,
+      "top_concepts": [
+        {
+          "c": "Humanoid robot",
+          "w": 0.173
+        },
+        {
+          "c": "Computer science",
+          "w": 0.135
+        },
+        {
+          "c": "Robot",
+          "w": 0.124
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.038
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.027
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.138
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.138
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.062
+        },
+        {
+          "c": "Slip (aerodynamics)",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Humanoid robot",
+          "w": 0.2
+        },
+        {
+          "c": "Torque",
+          "w": 0.133
+        },
+        {
+          "c": "Robot",
+          "w": 0.133
+        },
+        {
+          "c": "Contact force",
+          "w": 0.067
+        },
+        {
+          "c": "Moment (physics)",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.122
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.095
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.068
+        },
+        {
+          "c": "Robot",
+          "w": 0.041
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.041
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.207
+        },
+        {
+          "c": "Robot",
+          "w": 0.103
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.069
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.069
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.069
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "mix": {
+        "IROS": 6,
+        "ICRA": 2
+      }
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "IROS": 11,
+        "ICRA": 10,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "IROS": 16,
+        "ICRA": 14,
+        "IJRR": 4,
+        "T-Mech": 2,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "IROS": 8,
+        "ICRA": 6,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "IROS": 2,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "RA-L": 9,
+        "IROS": 4,
+        "T-RO": 1,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "RA-L": 3,
+        "IROS": 1,
+        "ICRA": 1,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "mean_n_authors": 5.25,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Masayuki Inaba",
+          8
+        ],
+        [
+          "Hirochika Inoue",
+          8
+        ],
+        [
+          "Satoshi Kagami",
+          6
+        ],
+        [
+          "Tatsuya Ishikawa",
+          2
+        ],
+        [
+          "Koji Takeda",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 6.5,
+      "unique_coauthors": 39,
+      "top_coauthors": [
+        [
+          "Shuuji Kajita",
+          15
+        ],
+        [
+          "Kenji Kaneko",
+          13
+        ],
+        [
+          "Hirohisa Hirukawa",
+          12
+        ],
+        [
+          "Kazuhito Yokoi",
+          12
+        ],
+        [
+          "Kiyoshi Fujiwara",
+          10
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 6.27,
+      "unique_coauthors": 38,
+      "top_coauthors": [
+        [
+          "Hirohisa Hirukawa",
+          28
+        ],
+        [
+          "Kenji Kaneko",
+          26
+        ],
+        [
+          "Shuuji Kajita",
+          25
+        ],
+        [
+          "Kensuke Harada",
+          21
+        ],
+        [
+          "Kiyoshi Fujiwara",
+          20
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 6.12,
+      "unique_coauthors": 28,
+      "top_coauthors": [
+        [
+          "Kenji Kaneko",
+          10
+        ],
+        [
+          "Kanako Miura",
+          9
+        ],
+        [
+          "Mitsuharu Morisawa",
+          9
+        ],
+        [
+          "Shuuji Kajita",
+          8
+        ],
+        [
+          "Kazuhito Yokoi",
+          8
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 8,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Mitsuharu Morisawa",
+          3
+        ],
+        [
+          "Mehdi Benallegue",
+          2
+        ],
+        [
+          "Pierre Gergondet",
+          2
+        ],
+        [
+          "Abderrahmane Kheddar",
+          2
+        ],
+        [
+          "Herve Audrerr",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 5.07,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Mitsuharu Morisawa",
+          11
+        ],
+        [
+          "Mehdi Benallegue",
+          8
+        ],
+        [
+          "Iori Kumagai",
+          7
+        ],
+        [
+          "Masaki Murooka",
+          5
+        ],
+        [
+          "Adrien Escande",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 5,
+      "unique_coauthors": 20,
+      "top_coauthors": [
+        [
+          "Hiroshi Kaminaga",
+          2
+        ],
+        [
+          "Abderrahmane Kheddar",
+          2
+        ],
+        [
+          "Masaki Murooka",
+          2
+        ],
+        [
+          "Mitsuharu Morisawa",
+          2
+        ],
+        [
+          "J. Rogelio Guadarrama-Olvera",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.212,
+  "top_repeat_coauthors": [
+    {
+      "name": "Kenji Kaneko",
+      "count": 52,
+      "first_year": 2001,
+      "last_year": 2019
+    },
+    {
+      "name": "Shuuji Kajita",
+      "count": 50,
+      "first_year": 2001,
+      "last_year": 2024
+    },
+    {
+      "name": "Hirohisa Hirukawa",
+      "count": 40,
+      "first_year": 2001,
+      "last_year": 2007
+    },
+    {
+      "name": "Mitsuharu Morisawa",
+      "count": 40,
+      "first_year": 2005,
+      "last_year": 2025
+    },
+    {
+      "name": "Kiyoshi Fujiwara",
+      "count": 30,
+      "first_year": 2001,
+      "last_year": 2007
+    },
+    {
+      "name": "Kensuke Harada",
+      "count": 30,
+      "first_year": 2003,
+      "last_year": 2021
+    },
+    {
+      "name": "Kazuhito Yokoi",
+      "count": 26,
+      "first_year": 2001,
+      "last_year": 2013
+    },
+    {
+      "name": "Masayuki Inaba",
+      "count": 14,
+      "first_year": 1994,
+      "last_year": 2002
+    },
+    {
+      "name": "Hirochika Inoue",
+      "count": 14,
+      "first_year": 1994,
+      "last_year": 2002
+    },
+    {
+      "name": "Shinichiro Nakaoka",
+      "count": 12,
+      "first_year": 2005,
+      "last_year": 2018
+    },
+    {
+      "name": "Eiichi Yoshida",
+      "count": 12,
+      "first_year": 2008,
+      "last_year": 2024
+    },
+    {
+      "name": "Mehdi Benallegue",
+      "count": 11,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Kanako Miura",
+      "count": 9,
+      "first_year": 2009,
+      "last_year": 2013
+    },
+    {
+      "name": "Iori Kumagai",
+      "count": 9,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Satoshi Kagami",
+      "count": 8,
+      "first_year": 1994,
+      "last_year": 2000
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Hirochika Inoue",
+      "advisor_active_from": 1988,
+      "early_copubs_as_our_first_author": 4,
+      "advisor_last_author_count": 4,
+      "total_copubs": 14
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Rafael Cisneros",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Rafael Cisneros Limón",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Mitsuharu Morisawa",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 20,
+      "total_copubs": 40,
+      "student_first_author_count": 5,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kiyoshi Fujiwara",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 26,
+      "total_copubs": 30,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Shinichiro Nakaoka",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Wael Suleiman",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Ee Sian Neo",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Antonin Dallard",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kazuhiko Yokoyama",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Oussama Kanoun",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2009
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1994,
+      2003
+    ],
+    "early_mean_n_authors": 6.17,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.42
+  },
+  "citation_half_life_years": 23,
+  "bursts": {
+    "productivity": [
+      2004,
+      2007
+    ],
+    "impact": [
+      2003
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2003,
+      "venue": "ICRA",
+      "title": "Biped walking pattern generation by using preview control of zero-moment point",
+      "cites": 2075,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Zero moment point",
+        "Control theory (sociology)",
+        "Computer science",
+        "Controller (irrigation)",
+        "Moment (physics)"
+      ],
+      "doi": "10.1109/robot.2003.1241826",
+      "coauthors": [
+        "Shuuji Kajita",
+        "Kenji Kaneko",
+        "Kiyoshi Fujiwara",
+        "Kensuke Harada",
+        "Kazuhito Yokoi",
+        "Hirohisa Hirukawa"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "IROS",
+      "title": "The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation",
+      "cites": 1034,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Inverted pendulum",
+        "Control theory (sociology)",
+        "Double inverted pendulum",
+        "Computer science",
+        "Simple (philosophy)"
+      ],
+      "doi": "10.1109/iros.2001.973365",
+      "coauthors": [
+        "Shuuji Kajita",
+        "Kenji Kaneko",
+        "Kazuhito Yokoi",
+        "Hirohisa Hirukawa"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "ICRA",
+      "title": "Humanoid Robot HRP-2",
+      "cites": 749,
+      "n_authors": 8,
+      "role": "middle",
+      "concepts": [
+        "Humanoid robot",
+        "Robotics",
+        "Computer science",
+        "Artificial intelligence",
+        "Christian ministry"
+      ],
+      "doi": "10.1109/robot.2004.1307969",
+      "coauthors": [
+        "Kenji Kaneko",
+        "Shuuji Kajita",
+        "Hirohisa Hirukawa",
+        "Toshikazu Kawasaki",
+        "Masaru Hirata",
+        "Kazuhiko Akachi",
+        "Takakatsu Isozumi"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "IROS",
+      "title": "Resolved momentum control: humanoid motion planning based on the linear and angular momentum",
+      "cites": 463,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Humanoid robot",
+        "Angular momentum",
+        "Momentum (technical analysis)",
+        "Physics",
+        "Motion (physics)"
+      ],
+      "doi": "10.1109/iros.2003.1248880",
+      "coauthors": [
+        "Shuuji Kajita",
+        "Kenji Kaneko",
+        "Kiyoshi Fujiwara",
+        "Kensuke Harada",
+        "Kazuhito Yokoi",
+        "Hirohisa Hirukawa"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IROS",
+      "title": "Biped walking stabilization based on linear inverted pendulum tracking",
+      "cites": 432,
+      "n_authors": 8,
+      "role": "middle",
+      "concepts": [
+        "Inverted pendulum",
+        "Control theory (sociology)",
+        "Humanoid robot",
+        "Robot",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/iros.2010.5651082",
+      "coauthors": [
+        "Shuuji Kajita",
+        "Mitsuharu Morisawa",
+        "Kanako Miura",
+        "Shinichiro Nakaoka",
+        "Kensuke Harada",
+        "Kenji Kaneko",
+        "Kazuhito Yokoi"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IROS",
+      "title": "Design of prototype humanoid robotics platform for HRP",
+      "cites": 311,
+      "n_authors": 8,
+      "role": "middle",
+      "concepts": [
+        "Humanoid robot",
+        "Robotics",
+        "Artificial intelligence",
+        "Computer science",
+        "Robot"
+      ],
+      "doi": "10.1109/irds.2002.1041632",
+      "coauthors": [
+        "Kenji Kaneko",
+        "Shuuji Kajita",
+        "Kazuhiko Yokoyama",
+        "Kazuhiko Akachi",
+        "Toshikazu Kawasaki",
+        "Shigehiko Ota",
+        "Takakatsu Isozumi"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "A Realtime Pattern Generator for Biped Walking",
+      "cites": 305,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Inverted pendulum",
+        "Control theory (sociology)",
+        "Digital pattern generator",
+        "Biped robot",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2002.1013335",
+      "coauthors": [
+        "Shuuji Kajita",
+        "Kenji Kaneko",
+        "Kiyoshi Fujiwara",
+        "Kazuhito Yokoi",
+        "Hirohisa Hirukawa"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IROS",
+      "title": "Humanoid robot HRP-3",
+      "cites": 294,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Humanoid robot",
+        "Computer science",
+        "Artificial intelligence",
+        "Robotics",
+        "Robot"
+      ],
+      "doi": "10.1109/iros.2008.4650604",
+      "coauthors": [
+        "Kenji Kaneko",
+        "Kensuke Harada",
+        "Gou Miyamori",
+        "Kazuhiko Akachi"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "IJRR",
+      "title": "OpenHRP: Open Architecture Humanoid Robotics Platform",
+      "cites": 238,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Humanoid robot",
+        "Robotics",
+        "Artificial intelligence",
+        "Computer science",
+        "Software"
+      ],
+      "doi": "10.1177/0278364904041324",
+      "coauthors": [
+        "Hirohisa Hirukawa",
+        "Shuuji Kajita"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "IROS",
+      "title": "Humanoid robot HRP-4 - Humanoid robotics platform with lightweight and slim body -",
+      "cites": 212,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Humanoid robot",
+        "Robotics",
+        "Computer science",
+        "Artificial intelligence",
+        "Software"
+      ],
+      "doi": "10.1109/iros.2011.6094465",
+      "coauthors": [
+        "Kenji Kaneko",
+        "Mitsuharu Morisawa",
+        "Kazuhiko Akachi",
+        "Gou Miyamori",
+        "Atsushi Hayashi",
+        "Noriyuki Kanehira"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Fumio Kanehiro: 32년에 걸쳐 107편, 총 10,839회 인용, h=50, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "1994년 \"Vision-Based Adaptive and Interactive Behaviors in Mechanical Animals Using the Remote-Brained Approach\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation\" (2001, 1,034회). 1000+ 인용 논문: \"The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation\" (2001, 1,034회).",
+        "초기 토픽: Robot, Computer science, Interfacing. 최근 토픽: Computer science, Robot, Control theory (sociology). 피벗 점수 0.21 → 토픽 지속형.",
+        "저자수 평균: 초기 6.2명 → 후기 5.4명 (팀 축소).",
+        "최다 인용 논문 \"Biped walking pattern generation by using preview control of zero-moment point\" (2003, 2,075회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Hirochika Inoue. 제자 후보 추정 10명 — 상위: Rafael Cisneros(2020~, 우리 마지막저자 3편), Rafael Cisneros Limón(2015~, 우리 마지막저자 2편), Mitsuharu Morisawa(2005~, 우리 마지막저자 0편)."
+      ],
+      "lessons": [
+        "10명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Hirochika Inoue — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Fumio Kanehiro: over 32 years, 107 papers, 10,839 total cites, h=50, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1994 with \"Vision-Based Adaptive and Interactive Behaviors in Mechanical Animals Using the Remote-Brained Approach\". First 500+ cite paper came 7 years in: \"The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation\" (2001, 1,034 cites). 1000+ cite paper: \"The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation\" (2001, 1,034 cites).",
+        "Early topics: Robot, Computer science, Interfacing. Recent topics: Computer science, Robot, Control theory (sociology). Pivot score 0.21 → topic-stable.",
+        "Authors per paper: early 6.2 → late 5.4 (team shrink).",
+        "Peak paper \"Biped walking pattern generation by using preview control of zero-moment point\" (2003, 2,075 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Hirochika Inoue. 10 likely students — top: Rafael Cisneros(2020~, we last-author on 3), Rafael Cisneros Limón(2015~, we last-author on 2), Mitsuharu Morisawa(2005~, we last-author on 0)."
+      ],
+      "lessons": [
+        "10 likely students — mentoring is the real impact.",
+        "Likely advisor: Hirochika Inoue — started within their PhD network."
+      ]
+    }
+  }
+}

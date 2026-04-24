@@ -1,0 +1,1785 @@
+{
+  "name": "Masayuki Inaba",
+  "slug": "masayuki-inaba",
+  "career_stats": {
+    "first_year": 1990,
+    "last_year": 2025,
+    "span": 36,
+    "total_papers": 305,
+    "total_cites": 7925,
+    "h_index": 44,
+    "i10_index": 181,
+    "seminal_count": 0,
+    "max_cites_single_paper": 260
+  },
+  "role_distribution": {
+    "last": 214,
+    "first": 11,
+    "middle": 80
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1990,
+      "title": "Design and implementation of a system that generates assembly programs from visual recognition of human action sequences"
+    },
+    "first_100cite": {
+      "year": 1992,
+      "title": "Robot vision system with a correlation chip for real-time tracking, optical flow and depth map generation",
+      "cites": 148,
+      "gap_from_first": 2
+    },
+    "peak_paper": {
+      "year": 2002,
+      "title": "Online generation of humanoid walking motion based on a fast generation method of motion pattern that follows desired ZMP",
+      "cites": 260
+    }
+  },
+  "year_series": {
+    "1990": {
+      "n": 1,
+      "cites": 53,
+      "max_cites": 53
+    },
+    "1991": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "1992": {
+      "n": 2,
+      "cites": 186,
+      "max_cites": 148
+    },
+    "1993": {
+      "n": 2,
+      "cites": 236,
+      "max_cites": 155
+    },
+    "1994": {
+      "n": 2,
+      "cites": 10,
+      "max_cites": 9
+    },
+    "1995": {
+      "n": 3,
+      "cites": 103,
+      "max_cites": 57
+    },
+    "1996": {
+      "n": 9,
+      "cites": 479,
+      "max_cites": 212
+    },
+    "1997": {
+      "n": 6,
+      "cites": 119,
+      "max_cites": 40
+    },
+    "1998": {
+      "n": 6,
+      "cites": 96,
+      "max_cites": 36
+    },
+    "1999": {
+      "n": 5,
+      "cites": 123,
+      "max_cites": 89
+    },
+    "2000": {
+      "n": 9,
+      "cites": 449,
+      "max_cites": 189
+    },
+    "2001": {
+      "n": 10,
+      "cites": 670,
+      "max_cites": 192
+    },
+    "2002": {
+      "n": 9,
+      "cites": 773,
+      "max_cites": 260
+    },
+    "2003": {
+      "n": 9,
+      "cites": 372,
+      "max_cites": 101
+    },
+    "2004": {
+      "n": 8,
+      "cites": 138,
+      "max_cites": 51
+    },
+    "2005": {
+      "n": 4,
+      "cites": 117,
+      "max_cites": 40
+    },
+    "2006": {
+      "n": 4,
+      "cites": 185,
+      "max_cites": 105
+    },
+    "2007": {
+      "n": 6,
+      "cites": 116,
+      "max_cites": 43
+    },
+    "2008": {
+      "n": 6,
+      "cites": 130,
+      "max_cites": 51
+    },
+    "2009": {
+      "n": 3,
+      "cites": 17,
+      "max_cites": 13
+    },
+    "2010": {
+      "n": 6,
+      "cites": 217,
+      "max_cites": 111
+    },
+    "2011": {
+      "n": 1,
+      "cites": 9,
+      "max_cites": 9
+    },
+    "2012": {
+      "n": 8,
+      "cites": 230,
+      "max_cites": 49
+    },
+    "2013": {
+      "n": 6,
+      "cites": 147,
+      "max_cites": 61
+    },
+    "2014": {
+      "n": 6,
+      "cites": 144,
+      "max_cites": 55
+    },
+    "2015": {
+      "n": 10,
+      "cites": 306,
+      "max_cites": 56
+    },
+    "2016": {
+      "n": 10,
+      "cites": 273,
+      "max_cites": 173
+    },
+    "2017": {
+      "n": 18,
+      "cites": 530,
+      "max_cites": 118
+    },
+    "2018": {
+      "n": 26,
+      "cites": 603,
+      "max_cites": 194
+    },
+    "2019": {
+      "n": 19,
+      "cites": 298,
+      "max_cites": 62
+    },
+    "2020": {
+      "n": 23,
+      "cites": 296,
+      "max_cites": 56
+    },
+    "2021": {
+      "n": 20,
+      "cites": 177,
+      "max_cites": 52
+    },
+    "2022": {
+      "n": 15,
+      "cites": 101,
+      "max_cites": 22
+    },
+    "2023": {
+      "n": 12,
+      "cites": 99,
+      "max_cites": 40
+    },
+    "2024": {
+      "n": 19,
+      "cites": 121,
+      "max_cites": 30
+    },
+    "2025": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.075
+        },
+        {
+          "c": "Robot",
+          "w": 0.075
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.186
+        },
+        {
+          "c": "Robot",
+          "w": 0.097
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.076
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.055
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.055
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 45,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.164
+        },
+        {
+          "c": "Robot",
+          "w": 0.111
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.111
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.062
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 23,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.183
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.157
+        },
+        {
+          "c": "Robot",
+          "w": 0.078
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.035
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 27,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.17
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.096
+        },
+        {
+          "c": "Robot",
+          "w": 0.081
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.037
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 83,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.154
+        },
+        {
+          "c": "Robot",
+          "w": 0.104
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.075
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.053
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.034
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 89,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.147
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.061
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.061
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.034
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Maximization",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.2
+        },
+        {
+          "c": "Domain (mathematical analysis)",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "IROS": 6,
+        "ICRA": 2
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "IROS": 16,
+        "ICRA": 12,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "IROS": 23,
+        "ICRA": 21,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "IROS": 18,
+        "ICRA": 5
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "IROS": 16,
+        "ICRA": 11
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "IROS": 58,
+        "ICRA": 13,
+        "RA-L": 9,
+        "IJRR": 2,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "IROS": 41,
+        "RA-L": 25,
+        "ICRA": 20,
+        "IJRR": 1,
+        "T-Mech": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 3.62,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Hirochika Inoue",
+          8
+        ],
+        [
+          "Yasuo Kuniyoshi",
+          2
+        ],
+        [
+          "Satoshi Kagami",
+          2
+        ],
+        [
+          "Tatsuya Ishikawa",
+          2
+        ],
+        [
+          "Fumio Kanehiro",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 4.86,
+      "unique_coauthors": 36,
+      "top_coauthors": [
+        [
+          "Hirochika Inoue",
+          28
+        ],
+        [
+          "Satoshi Kagami",
+          10
+        ],
+        [
+          "Yoshio Matsumoto",
+          9
+        ],
+        [
+          "Fumio Kanehiro",
+          8
+        ],
+        [
+          "Ken&apos",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 4.84,
+      "unique_coauthors": 39,
+      "top_coauthors": [
+        [
+          "Hirochika Inoue",
+          45
+        ],
+        [
+          "Satoshi Kagami",
+          21
+        ],
+        [
+          "Koichi Nishiwaki",
+          16
+        ],
+        [
+          "Kei Okada",
+          11
+        ],
+        [
+          "Yasuo Kuniyoshi",
+          11
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 4.7,
+      "unique_coauthors": 32,
+      "top_coauthors": [
+        [
+          "Kei Okada",
+          10
+        ],
+        [
+          "Ikuo Mizuuchi",
+          9
+        ],
+        [
+          "Tomoaki Yoshikai",
+          7
+        ],
+        [
+          "Yuto Nakanishi",
+          7
+        ],
+        [
+          "Junichi Urata",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 5.56,
+      "unique_coauthors": 40,
+      "top_coauthors": [
+        [
+          "Kei Okada",
+          24
+        ],
+        [
+          "Shunichi Nozawa",
+          11
+        ],
+        [
+          "Yuto Nakanishi",
+          9
+        ],
+        [
+          "Junichi Urata",
+          8
+        ],
+        [
+          "Youhei Kakiuchi",
+          7
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 6.18,
+      "unique_coauthors": 84,
+      "top_coauthors": [
+        [
+          "Kei Okada",
+          78
+        ],
+        [
+          "Yohei Kakiuchi",
+          28
+        ],
+        [
+          "Shunichi Nozawa",
+          26
+        ],
+        [
+          "Yuki Asano",
+          15
+        ],
+        [
+          "Fumihito Sugai",
+          14
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 5.89,
+      "unique_coauthors": 84,
+      "top_coauthors": [
+        [
+          "Kei Okada",
+          88
+        ],
+        [
+          "Kento Kawaharazuka",
+          41
+        ],
+        [
+          "Kunio Kojima",
+          18
+        ],
+        [
+          "Moju Zhao",
+          15
+        ],
+        [
+          "Koji Kawasaki",
+          15
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 4,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Hirokazu Ishida",
+          1
+        ],
+        [
+          "Naoki Hiraoka",
+          1
+        ],
+        [
+          "Kei Okada",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.158,
+  "top_repeat_coauthors": [
+    {
+      "name": "Kei Okada",
+      "count": 214,
+      "first_year": 1998,
+      "last_year": 2025
+    },
+    {
+      "name": "Hirochika Inoue",
+      "count": 82,
+      "first_year": 1990,
+      "last_year": 2005
+    },
+    {
+      "name": "Kento Kawaharazuka",
+      "count": 53,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Yohei Kakiuchi",
+      "count": 44,
+      "first_year": 2014,
+      "last_year": 2022
+    },
+    {
+      "name": "Shunichi Nozawa",
+      "count": 38,
+      "first_year": 2008,
+      "last_year": 2019
+    },
+    {
+      "name": "Satoshi Kagami",
+      "count": 35,
+      "first_year": 1994,
+      "last_year": 2012
+    },
+    {
+      "name": "Yuki Asano",
+      "count": 32,
+      "first_year": 2012,
+      "last_year": 2021
+    },
+    {
+      "name": "Kunio Kojima",
+      "count": 30,
+      "first_year": 2014,
+      "last_year": 2024
+    },
+    {
+      "name": "Moju Zhao",
+      "count": 28,
+      "first_year": 2013,
+      "last_year": 2024
+    },
+    {
+      "name": "Koji Kawasaki",
+      "count": 27,
+      "first_year": 2013,
+      "last_year": 2023
+    },
+    {
+      "name": "Fumihito Sugai",
+      "count": 22,
+      "first_year": 2016,
+      "last_year": 2022
+    },
+    {
+      "name": "Koichi Nishiwaki",
+      "count": 18,
+      "first_year": 1997,
+      "last_year": 2012
+    },
+    {
+      "name": "Yuto Nakanishi",
+      "count": 17,
+      "first_year": 2004,
+      "last_year": 2014
+    },
+    {
+      "name": "Masaki Murooka",
+      "count": 17,
+      "first_year": 2013,
+      "last_year": 2020
+    },
+    {
+      "name": "Ikuo Mizuuchi",
+      "count": 16,
+      "first_year": 1998,
+      "last_year": 2010
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Kento Kawaharazuka",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 37,
+      "total_copubs": 53,
+      "student_first_author_count": 23,
+      "we_last_author_count": 35,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yohei Kakiuchi",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 31,
+      "total_copubs": 44,
+      "student_first_author_count": 1,
+      "we_last_author_count": 30,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Tomoki Anzai",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 15,
+      "total_copubs": 15,
+      "student_first_author_count": 3,
+      "we_last_author_count": 15,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Fan Shi",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 15,
+      "total_copubs": 16,
+      "student_first_author_count": 5,
+      "we_last_author_count": 14,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Kunio Kojima",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 30,
+      "student_first_author_count": 3,
+      "we_last_author_count": 12,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yuki Asano",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 32,
+      "student_first_author_count": 4,
+      "we_last_author_count": 11,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Xiangyu Chen",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 2,
+      "we_last_author_count": 11,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Masaki Murooka",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 17,
+      "student_first_author_count": 6,
+      "we_last_author_count": 10,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Moju Zhao",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 28,
+      "student_first_author_count": 4,
+      "we_last_author_count": 10,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yuta Kojio",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 13,
+      "student_first_author_count": 3,
+      "we_last_author_count": 10,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Yasunori Toshimitsu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 10,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Naoki Hiraoka",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 12,
+      "student_first_author_count": 1,
+      "we_last_author_count": 10,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Shintaro Noda",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 15,
+      "student_first_author_count": 3,
+      "we_last_author_count": 9,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Toyotaka Kozuki",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 8,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Kentaro Wada",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Koji Kawasaki",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 27,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Shogo Makino",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Shunichi Nozawa",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 38,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Shun Hasegawa",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Tasuku Makabe",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 13,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yuto Nakanishi",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 17,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Yuya Nagamatsu",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Temma Suzuki",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yuya Koga",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Junichi Urata",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 13,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Takuzumi Nishio",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Shingo Kitagawa",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Tomoaki Yoshikai",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Masahiro Bando",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yasuhiro Ishiguro",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Kotaro Nagahama",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Krishneel Chaudhary",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Yoshinao Sodeyama",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Noriaki Takasugi",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Kohei Kimura",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Shinsuke Nakashima",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Shunnosuke Yoshimura",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Naoya Yamaguchi",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Koki Shinjo",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Yuki Furuta",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Mitsuharu Kojima",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Yoshimoto Ribayashi",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Wesley P. Chan",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Shimpei Sato",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Asil Kaan Bozcuoglu",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Marika Hayashi",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Kim-Ngoc-Khanh Nguyen",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Iori Kumagai",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Yoshiki Obinata",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yoichiro Kawamura",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Takuma Hiraoka",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Xiaojun Sun",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Toshiya Maki",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Kosuke Takeuchi",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Hirokazu Ishida",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Takashi Ogura",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Annan Tang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Mirai Hattori",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hiroya Sato",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Takayuki Murooka",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Yuki Omori",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Kazuhiro Miyama",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yuta Sahara",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Matthew K. X. J. Pan",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Masanori Konishi",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yoshio Matsumoto",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 6,
+      "we_last_author_count": 0,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Koichi Nishiwaki",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 18,
+      "student_first_author_count": 5,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "James J. Kuffner Jr.",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 5,
+      "we_last_author_count": 0,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Kei Okada",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 214,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mihoko Otake",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Ikuo Mizuuchi",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 16,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Yukiko Hoshino",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Tetsunari Inamura",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Tomohiro Shibata",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 1998
+    },
+    {
+      "name": "Hiroyuki Nakai",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Tetsushi Oka",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 1997
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1990,
+      1999
+    ],
+    "early_mean_n_authors": 4.59,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 6.01
+  },
+  "citation_half_life_years": 20,
+  "bursts": {
+    "productivity": [
+      2018,
+      2020
+    ],
+    "impact": [
+      2001,
+      2002,
+      2018
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2002,
+      "venue": "IROS",
+      "title": "Online generation of humanoid walking motion based on a fast generation method of motion pattern that follows desired ZMP",
+      "cites": 260,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Humanoid robot",
+        "Joystick",
+        "Motion (physics)",
+        "Computer science",
+        "Motion control"
+      ],
+      "doi": "10.1109/irds.2002.1041675",
+      "coauthors": [
+        "Koichi Nishiwaki",
+        "Satoshi Kagami",
+        "Yasuo Kuniyoshi",
+        "Hirochika Inoue"
+      ]
+    },
+    {
+      "year": 1996,
+      "venue": "ICRA",
+      "title": "Visual navigation using view-sequenced route representation",
+      "cites": 212,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision",
+        "Representation (politics)",
+        "Mobile robot"
+      ],
+      "doi": "10.1109/robot.1996.503577",
+      "coauthors": [
+        "Yoshio Matsumoto",
+        "Hirochika Inoue"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Design, Modeling, and Control of an Aerial Robot DRAGON: A Dual-Rotor-Embedded Multilink Robot With the Ability of Multi-Degree-of-Freedom Aerial Transformation",
+      "cites": 194,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Gimbal",
+        "Control theory (sociology)",
+        "Thrust",
+        "Robot",
+        "Transformation (genetics)"
+      ],
+      "doi": "10.1109/lra.2018.2793344",
+      "coauthors": [
+        "Moju Zhao",
+        "Tomoki Anzai",
+        "Fan Shi",
+        "Xiangyu Chen",
+        "Kei Okada"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "IROS",
+      "title": "Footstep planning among obstacles for biped robots",
+      "cites": 192,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Traverse",
+        "Computer science",
+        "Heuristics",
+        "Obstacle",
+        "Humanoid robot"
+      ],
+      "doi": "10.1109/iros.2001.973406",
+      "coauthors": [
+        "James J. Kuffner Jr.",
+        "Koichi Nishiwaki",
+        "Satoshi Kagami",
+        "Hirochika Inoue"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "IROS",
+      "title": "Design and development of research platform for perception-action integration in humanoid robot: H6",
+      "cites": 189,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Humanoid robot",
+        "Robot",
+        "Computer science",
+        "Ethernet",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/iros.2000.895195",
+      "coauthors": [
+        "Koichi Nishiwaki",
+        "Tomomichi Sugihara",
+        "Satoshi Kagami",
+        "Fumio Kanehiro",
+        "Hirochika Inoue"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "IROS",
+      "title": "Development of an autonomous tomato harvesting robot with rotational plucking gripper",
+      "cites": 173,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "GRASP",
+        "Robustness (evolution)",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2016.7759122",
+      "coauthors": [
+        "Hiroaki Yaguchi",
+        "Kotaro Nagahama",
+        "Takaomi Hasegawa"
+      ]
+    },
+    {
+      "year": 1993,
+      "venue": "IROS",
+      "title": "Pivoting: A new method of graspless manipulation of object by robot fingers",
+      "cites": 155,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Object (grammar)",
+        "Computer science",
+        "Robot",
+        "Computer vision",
+        "Position (finance)"
+      ],
+      "doi": "10.1109/iros.1993.583091",
+      "coauthors": [
+        "Yasumichi Aiyama",
+        "Hirochika Inoue"
+      ]
+    },
+    {
+      "year": 1992,
+      "venue": "ICRA",
+      "title": "Robot vision system with a correlation chip for real-time tracking, optical flow and depth map generation",
+      "cites": 148,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Transputer",
+        "Computer science",
+        "Computer vision",
+        "Artificial intelligence",
+        "Machine vision"
+      ],
+      "doi": "10.1109/robot.1992.220020",
+      "coauthors": [
+        "Hirochika Inoue",
+        "Tetsuya Tachikawa"
+      ]
+    },
+    {
+      "year": 1996,
+      "venue": "IROS",
+      "title": "A full-body tactile sensor suit using electrically conductive fabric and strings",
+      "cites": 137,
+      "n_authors": 7,
+      "role": "first",
+      "concepts": [
+        "Tactile sensor",
+        "Electrical conductor",
+        "Electrical engineering",
+        "Electrically conductive",
+        "Tactile display"
+      ],
+      "doi": "10.1109/iros.1996.570816",
+      "coauthors": [
+        "Yukiko Hoshino",
+        "Ken&apos",
+        "ichiro Nagasaka",
+        "Tetsuo Ninomiya",
+        "Satoshi Kagami",
+        "Hirochika Inoue"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "ICRA",
+      "title": "Plane Segment Finder: Algorithm, Implementation and Applications",
+      "cites": 134,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Hough transform",
+        "Plane (geometry)",
+        "Computer science",
+        "Planar",
+        "Boundary (topology)"
+      ],
+      "doi": "10.1109/robot.2001.932920",
+      "coauthors": [
+        "Kei Okada",
+        "Satoshi Kagami",
+        "Hirochika Inoue"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Masayuki Inaba: 36년에 걸쳐 305편, 총 7,925회 인용, h=44, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1990년 \"Design and implementation of a system that generates assembly programs from visual recognition of human action sequences\"으로 출발.",
+        "초기 토픽: Computer science, Computer vision, Artificial intelligence. 최근 토픽: Maximization, Computer science, Motion planning. 피벗 점수 0.16 → 토픽 지속형.",
+        "저자수 평균: 초기 4.6명 → 후기 6.0명 (팀 확장).",
+        "최다 인용 논문 \"Online generation of humanoid walking motion based on a fast generation method of motion pattern that follows desired ZMP\" (2002, 260회) — 커리어 중기에 위치.",
+        "제자 후보 추정 76명 — 상위: Kento Kawaharazuka(2017~, 우리 마지막저자 35편), Yohei Kakiuchi(2014~, 우리 마지막저자 30편), Tomoki Anzai(2017~, 우리 마지막저자 15편)."
+      ],
+      "lessons": [
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "76명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Masayuki Inaba: over 36 years, 305 papers, 7,925 total cites, h=44, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1990 with \"Design and implementation of a system that generates assembly programs from visual recognition of human action sequences\".",
+        "Early topics: Computer science, Computer vision, Artificial intelligence. Recent topics: Maximization, Computer science, Motion planning. Pivot score 0.16 → topic-stable.",
+        "Authors per paper: early 4.6 → late 6.0 (team growth).",
+        "Peak paper \"Online generation of humanoid walking motion based on a fast generation method of motion pattern that follows desired ZMP\" (2002, 260 cites) — fell in mid career.",
+        "76 likely students — top: Kento Kawaharazuka(2017~, we last-author on 35), Yohei Kakiuchi(2014~, we last-author on 30), Tomoki Anzai(2017~, we last-author on 15)."
+      ],
+      "lessons": [
+        "Impact through deep specialization — one lane, pushed far.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "76 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

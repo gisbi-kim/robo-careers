@@ -1,0 +1,1206 @@
+{
+  "name": "Steven M. LaValle",
+  "slug": "steven-m-lavalle",
+  "career_stats": {
+    "first_year": 1994,
+    "last_year": 2024,
+    "span": 31,
+    "total_papers": 98,
+    "total_cites": 12308,
+    "h_index": 40,
+    "i10_index": 76,
+    "seminal_count": 3,
+    "max_cites_single_paper": 3418
+  },
+  "role_distribution": {
+    "first": 17,
+    "last": 70,
+    "middle": 11
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1994,
+      "title": "An objective-based stochastic framework for manipulation planning"
+    },
+    "first_100cite": {
+      "year": 1997,
+      "title": "Finding an unpredictable target in a workspace with obstacles",
+      "cites": 149,
+      "gap_from_first": 3
+    },
+    "first_500cite": {
+      "year": 1999,
+      "title": "Randomized Kinodynamic Planning",
+      "cites": 666,
+      "gap_from_first": 5
+    },
+    "first_1000cite": {
+      "year": 2000,
+      "title": "RRT-Connect: An Efficient Approach to Single-Query Path Planning",
+      "cites": 3418,
+      "gap_from_first": 6
+    },
+    "peak_paper": {
+      "year": 2000,
+      "title": "RRT-Connect: An Efficient Approach to Single-Query Path Planning",
+      "cites": 3418
+    }
+  },
+  "year_series": {
+    "1994": {
+      "n": 2,
+      "cites": 46,
+      "max_cites": 25
+    },
+    "1995": {
+      "n": 2,
+      "cites": 28,
+      "max_cites": 16
+    },
+    "1996": {
+      "n": 2,
+      "cites": 36,
+      "max_cites": 30
+    },
+    "1997": {
+      "n": 3,
+      "cites": 412,
+      "max_cites": 208
+    },
+    "1998": {
+      "n": 1,
+      "cites": 48,
+      "max_cites": 48
+    },
+    "1999": {
+      "n": 3,
+      "cites": 838,
+      "max_cites": 666
+    },
+    "2000": {
+      "n": 3,
+      "cites": 3471,
+      "max_cites": 3418
+    },
+    "2001": {
+      "n": 5,
+      "cites": 3589,
+      "max_cites": 3221
+    },
+    "2002": {
+      "n": 4,
+      "cites": 219,
+      "max_cites": 113
+    },
+    "2003": {
+      "n": 4,
+      "cites": 152,
+      "max_cites": 64
+    },
+    "2004": {
+      "n": 8,
+      "cites": 837,
+      "max_cites": 426
+    },
+    "2005": {
+      "n": 4,
+      "cites": 446,
+      "max_cites": 256
+    },
+    "2006": {
+      "n": 4,
+      "cites": 97,
+      "max_cites": 39
+    },
+    "2007": {
+      "n": 7,
+      "cites": 322,
+      "max_cites": 117
+    },
+    "2008": {
+      "n": 5,
+      "cites": 210,
+      "max_cites": 65
+    },
+    "2009": {
+      "n": 5,
+      "cites": 240,
+      "max_cites": 76
+    },
+    "2010": {
+      "n": 3,
+      "cites": 175,
+      "max_cites": 165
+    },
+    "2011": {
+      "n": 10,
+      "cites": 249,
+      "max_cites": 55
+    },
+    "2012": {
+      "n": 2,
+      "cites": 32,
+      "max_cites": 25
+    },
+    "2013": {
+      "n": 6,
+      "cites": 238,
+      "max_cites": 191
+    },
+    "2014": {
+      "n": 3,
+      "cites": 222,
+      "max_cites": 207
+    },
+    "2015": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2016": {
+      "n": 1,
+      "cites": 338,
+      "max_cites": 338
+    },
+    "2017": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "2018": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2019": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2020": {
+      "n": 2,
+      "cites": 20,
+      "max_cites": 20
+    },
+    "2021": {
+      "n": 3,
+      "cites": 21,
+      "max_cites": 10
+    },
+    "2022": {
+      "n": 2,
+      "cites": 7,
+      "max_cites": 4
+    },
+    "2023": {
+      "n": 2,
+      "cites": 6,
+      "max_cites": 5
+    },
+    "2024": {
+      "n": 1,
+      "cites": 3,
+      "max_cites": 3
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Robot",
+          "w": 0.12
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.12
+        },
+        {
+          "c": "Mathematical optimization",
+          "w": 0.08
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.137
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.074
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.042
+        },
+        {
+          "c": "Robot",
+          "w": 0.042
+        },
+        {
+          "c": "Probabilistic roadmap",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.121
+        },
+        {
+          "c": "Robot",
+          "w": 0.093
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.043
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.043
+        },
+        {
+          "c": "Sampling (signal processing)",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Robot",
+          "w": 0.071
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.055
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.039
+        },
+        {
+          "c": "Path (computing)",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.12
+        },
+        {
+          "c": "Landmark",
+          "w": 0.04
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.04
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.111
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.067
+        },
+        {
+          "c": "Virtual reality",
+          "w": 0.067
+        },
+        {
+          "c": "Visibility",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2024,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Characterization (materials science)",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robot manipulator",
+          "w": 0.2
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "mix": {
+        "ICRA": 7,
+        "IJRR": 2,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "ICRA": 14,
+        "IROS": 3,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "ICRA": 14,
+        "IJRR": 5,
+        "T-RO": 5,
+        "IROS": 2,
+        "RSS": 2
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "ICRA": 14,
+        "IJRR": 4,
+        "IROS": 4,
+        "RSS": 2,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "ICRA": 3,
+        "T-RO": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 2,
+        "RA-L": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2024,
+      "mix": {
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "mean_n_authors": 2.5,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Seth Hutchinson",
+          5
+        ],
+        [
+          "Rajeev Sharma",
+          3
+        ],
+        [
+          "Jean-Claude Latombe",
+          2
+        ],
+        [
+          "David Lin",
+          1
+        ],
+        [
+          "Leonidas J. Guibas",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 2.42,
+      "unique_coauthors": 17,
+      "top_coauthors": [
+        [
+          "James J. Kuffner Jr.",
+          3
+        ],
+        [
+          "Libo Yang",
+          3
+        ],
+        [
+          "Peng Cheng",
+          3
+        ],
+        [
+          "Borislav H. Simov",
+          2
+        ],
+        [
+          "Giora Slutzki",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 2.89,
+      "unique_coauthors": 23,
+      "top_coauthors": [
+        [
+          "Jason M. O&apos",
+          8
+        ],
+        [
+          "Kane",
+          8
+        ],
+        [
+          "Stephen R. Lindemann",
+          5
+        ],
+        [
+          "Anna Yershova",
+          4
+        ],
+        [
+          "Benjamín Tovar",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 2.69,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Lawrence H. Erickson",
+          5
+        ],
+        [
+          "Jingjin Yu",
+          5
+        ],
+        [
+          "Benjamín Tovar",
+          3
+        ],
+        [
+          "Max Katsev",
+          3
+        ],
+        [
+          "Dmitry S. Yershov",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 3.6,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "Guillermo Laguna",
+          1
+        ],
+        [
+          "Rafael Murrieta-Cid",
+          1
+        ],
+        [
+          "Héctor M. Becerra",
+          1
+        ],
+        [
+          "Rigoberto Lopez-Padilla",
+          1
+        ],
+        [
+          "Anna Yershova",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 4.33,
+      "unique_coauthors": 17,
+      "top_coauthors": [
+        [
+          "Markku Suomalainen",
+          4
+        ],
+        [
+          "Basak Sakçak",
+          4
+        ],
+        [
+          "Israel Becerra",
+          3
+        ],
+        [
+          "Katherine J. Mimnaugh",
+          3
+        ],
+        [
+          "Eliezer Lozano",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2024,
+      "mean_n_authors": 4,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Basak Sakçak",
+          1
+        ],
+        [
+          "Kalle G. Timperi",
+          1
+        ],
+        [
+          "Vadim Weinstein",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.266,
+  "top_repeat_coauthors": [
+    {
+      "name": "Benjamín Tovar",
+      "count": 9,
+      "first_year": 2003,
+      "last_year": 2011
+    },
+    {
+      "name": "Jason M. O&apos",
+      "count": 8,
+      "first_year": 2004,
+      "last_year": 2008
+    },
+    {
+      "name": "Kane",
+      "count": 8,
+      "first_year": 2004,
+      "last_year": 2008
+    },
+    {
+      "name": "Stephen R. Lindemann",
+      "count": 7,
+      "first_year": 2003,
+      "last_year": 2009
+    },
+    {
+      "name": "Anna Yershova",
+      "count": 7,
+      "first_year": 2004,
+      "last_year": 2014
+    },
+    {
+      "name": "Jingjin Yu",
+      "count": 7,
+      "first_year": 2008,
+      "last_year": 2016
+    },
+    {
+      "name": "Rafael Murrieta-Cid",
+      "count": 6,
+      "first_year": 2003,
+      "last_year": 2021
+    },
+    {
+      "name": "Lawrence H. Erickson",
+      "count": 6,
+      "first_year": 2008,
+      "last_year": 2013
+    },
+    {
+      "name": "Seth Hutchinson",
+      "count": 5,
+      "first_year": 1994,
+      "last_year": 1998
+    },
+    {
+      "name": "Peng Cheng",
+      "count": 5,
+      "first_year": 2001,
+      "last_year": 2008
+    },
+    {
+      "name": "Basak Sakçak",
+      "count": 5,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Libo Yang",
+      "count": 4,
+      "first_year": 2000,
+      "last_year": 2004
+    },
+    {
+      "name": "Hamid Reza Chitsaz",
+      "count": 4,
+      "first_year": 2004,
+      "last_year": 2009
+    },
+    {
+      "name": "Max Katsev",
+      "count": 4,
+      "first_year": 2011,
+      "last_year": 2014
+    },
+    {
+      "name": "Israel Becerra",
+      "count": 4,
+      "first_year": 2017,
+      "last_year": 2021
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Seth Hutchinson",
+      "advisor_active_from": 1986,
+      "early_copubs_as_our_first_author": 5,
+      "advisor_last_author_count": 5,
+      "total_copubs": 5
+    },
+    {
+      "name": "Jean-Claude Latombe",
+      "advisor_active_from": 1989,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 1,
+      "total_copubs": 2
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Jason M. O&apos",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 8,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Lawrence H. Erickson",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 6,
+      "we_last_author_count": 6,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Jingjin Yu",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Stephen R. Lindemann",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Basak Sakçak",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Peng Cheng",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Benjamín Tovar",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Anna Yershova",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Libo Yang",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Max Katsev",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Dmitry S. Yershov",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Leonardo Bobadilla",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Alexandra Q. Nilles",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Markku Suomalainen",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Katherine J. Mimnaugh",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hamid Reza Chitsaz",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Borislav H. Simov",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "James J. Kuffner Jr.",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2001
+    },
+    {
+      "name": "Stjepan Rajko",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Leonard Jaillet",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2005
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1994,
+      2003
+    ],
+    "early_mean_n_authors": 2.45,
+    "late_window": [
+      2015,
+      2024
+    ],
+    "late_mean_n_authors": 4
+  },
+  "citation_half_life_years": 25.0,
+  "bursts": {
+    "productivity": [
+      2004,
+      2011
+    ],
+    "impact": [
+      2000,
+      2001
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "RRT-Connect: An Efficient Approach to Single-Query Path Planning",
+      "cites": 3418,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Workspace",
+        "Motion planning",
+        "Computer science",
+        "Animation",
+        "Heuristic"
+      ],
+      "doi": "10.1109/robot.2000.844730",
+      "coauthors": [
+        "James J. Kuffner Jr."
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "IJRR",
+      "title": "Randomized Kinodynamic Planning",
+      "cites": 3221,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Motion planning",
+        "State space",
+        "Configuration space",
+        "Trajectory",
+        "Robot"
+      ],
+      "doi": "10.1177/02783640122067453",
+      "coauthors": [
+        "James J. Kuffner Jr."
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "Randomized Kinodynamic Planning",
+      "cites": 666,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Motion planning",
+        "State space",
+        "Nonholonomic system",
+        "State (computer science)",
+        "Mathematics"
+      ],
+      "doi": "10.1109/robot.1999.770022",
+      "coauthors": [
+        "James J. Kuffner Jr."
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "IJRR",
+      "title": "On the Relationship between Classical Grid Search and Probabilistic Roadmaps",
+      "cites": 426,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Grid",
+        "Probabilistic logic",
+        "Computer science",
+        "Monte Carlo method",
+        "Sampling (signal processing)"
+      ],
+      "doi": "10.1177/0278364904045481",
+      "coauthors": [
+        "Michael S. Branicky",
+        "Stephen R. Lindemann"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "T-RO",
+      "title": "Optimal Multirobot Path Planning on Graphs: Complete Algorithms and Effective Heuristics",
+      "cites": 338,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Heuristics",
+        "Job shop scheduling",
+        "Mathematical optimization",
+        "Computer science",
+        "Integer programming"
+      ],
+      "doi": "10.1109/tro.2016.2593448",
+      "coauthors": [
+        "Jingjin Yu"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Dynamic-Domain RRTs: Efficient Exploration by Controlling the Sampling Domain",
+      "cites": 256,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Planner",
+        "Domain (mathematical analysis)",
+        "Computer science",
+        "Motion planning",
+        "Sampling (signal processing)"
+      ],
+      "doi": "10.1109/robot.2005.1570709",
+      "coauthors": [
+        "Anna Yershova",
+        "Leonard Jaillet",
+        "Thierry Siméon"
+      ]
+    },
+    {
+      "year": 1997,
+      "venue": "ICRA",
+      "title": "Motion strategies for maintaining visibility of a moving target",
+      "cites": 208,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Visibility",
+        "Workspace",
+        "Computer science",
+        "Motion planning",
+        "Computer vision"
+      ],
+      "doi": "10.1109/robot.1997.620122",
+      "coauthors": [
+        "Héctor H. González-Baños",
+        "Craig Becker",
+        "Jean-Claude Latombe"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "Head tracking for the Oculus Rift",
+      "cites": 207,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Headset",
+        "Gyroscope",
+        "Compensation (psychology)",
+        "Tracking (education)"
+      ],
+      "doi": "10.1109/icra.2014.6906608",
+      "coauthors": [
+        "Anna Yershova",
+        "Max Katsev",
+        "Michael Antonov"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "Planning optimal paths for multiple robots on graphs",
+      "cites": 191,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Mathematical optimization",
+        "Integer programming",
+        "Heuristic",
+        "Computer science",
+        "Motion planning"
+      ],
+      "doi": "10.1109/icra.2013.6631084",
+      "coauthors": [
+        "Jingjin Yu"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "ICRA",
+      "title": "Quasi-Randomized Path Planning",
+      "cites": 168,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Probabilistic roadmap",
+        "Computer science",
+        "Probabilistic logic",
+        "Computation",
+        "Sampling (signal processing)"
+      ],
+      "doi": "10.1109/robot.2001.932820",
+      "coauthors": [
+        "Michael S. Branicky",
+        "Kari Olson",
+        "Libo Yang"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Steven M. LaValle: 31년에 걸쳐 98편, 총 12,308회 인용, h=40, 500+ 블록버스터 3편.",
+      "paragraphs": [
+        "1994년 \"An objective-based stochastic framework for manipulation planning\"으로 출발. 첫 500+ 인용 논문까지 5년 걸림: \"Randomized Kinodynamic Planning\" (1999, 666회). 1000+ 인용 논문: \"RRT-Connect: An Efficient Approach to Single-Query Path Planning\" (2000, 3,418회).",
+        "초기 토픽: Computer science, Robot, Motion planning. 최근 토픽: Characterization (materials science), Robot, Artificial intelligence. 피벗 점수 0.27 → 점진적 이동형.",
+        "저자수 평균: 초기 2.5명 → 후기 4.0명 (팀 확장).",
+        "최다 인용 논문 \"RRT-Connect: An Efficient Approach to Single-Query Path Planning\" (2000, 3,418회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Seth Hutchinson, Jean-Claude Latombe. 제자 후보 추정 20명 — 상위: Jason M. O&apos(2004~, 우리 마지막저자 8편), Lawrence H. Erickson(2008~, 우리 마지막저자 6편), Jingjin Yu(2008~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "초기 5년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "20명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Seth Hutchinson — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Steven M. LaValle: over 31 years, 98 papers, 12,308 total cites, h=40, 3 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1994 with \"An objective-based stochastic framework for manipulation planning\". First 500+ cite paper came 5 years in: \"Randomized Kinodynamic Planning\" (1999, 666 cites). 1000+ cite paper: \"RRT-Connect: An Efficient Approach to Single-Query Path Planning\" (2000, 3,418 cites).",
+        "Early topics: Computer science, Robot, Motion planning. Recent topics: Characterization (materials science), Robot, Artificial intelligence. Pivot score 0.27 → gradual shift.",
+        "Authors per paper: early 2.5 → late 4.0 (team growth).",
+        "Peak paper \"RRT-Connect: An Efficient Approach to Single-Query Path Planning\" (2000, 3,418 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Seth Hutchinson, Jean-Claude Latombe. 20 likely students — top: Jason M. O&apos(2004~, we last-author on 8), Lawrence H. Erickson(2008~, we last-author on 6), Jingjin Yu(2008~, we last-author on 6)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 5 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "20 likely students — mentoring is the real impact.",
+        "Likely advisor: Seth Hutchinson — started within their PhD network."
+      ]
+    }
+  }
+}

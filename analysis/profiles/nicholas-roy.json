@@ -1,0 +1,1247 @@
+{
+  "name": "Nicholas Roy",
+  "slug": "nicholas-roy",
+  "career_stats": {
+    "first_year": 1996,
+    "last_year": 2025,
+    "span": 30,
+    "total_papers": 103,
+    "total_cites": 6902,
+    "h_index": 42,
+    "i10_index": 72,
+    "seminal_count": 2,
+    "max_cites_single_paper": 695
+  },
+  "role_distribution": {
+    "first": 7,
+    "middle": 31,
+    "last": 65
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1996,
+      "title": "Surface sensing and classification for efficient mobile robot navigation"
+    },
+    "first_100cite": {
+      "year": 1999,
+      "title": "Coastal Navigation: Mobile Robot Navigation with Uncertainty in Dynamic Environments",
+      "cites": 220,
+      "gap_from_first": 3
+    },
+    "first_500cite": {
+      "year": 1999,
+      "title": "MINERVA: A Second-Generation Museum Tour-Guide Robot",
+      "cites": 695,
+      "gap_from_first": 3
+    },
+    "peak_paper": {
+      "year": 1999,
+      "title": "MINERVA: A Second-Generation Museum Tour-Guide Robot",
+      "cites": 695
+    }
+  },
+  "year_series": {
+    "1996": {
+      "n": 1,
+      "cites": 25,
+      "max_cites": 25
+    },
+    "1997": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1998": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1999": {
+      "n": 3,
+      "cites": 1045,
+      "max_cites": 695
+    },
+    "2000": {
+      "n": 1,
+      "cites": 521,
+      "max_cites": 521
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 1,
+      "cites": 28,
+      "max_cites": 28
+    },
+    "2003": {
+      "n": 1,
+      "cites": 326,
+      "max_cites": 326
+    },
+    "2004": {
+      "n": 1,
+      "cites": 56,
+      "max_cites": 56
+    },
+    "2005": {
+      "n": 2,
+      "cites": 284,
+      "max_cites": 239
+    },
+    "2006": {
+      "n": 2,
+      "cites": 139,
+      "max_cites": 114
+    },
+    "2007": {
+      "n": 3,
+      "cites": 158,
+      "max_cites": 107
+    },
+    "2008": {
+      "n": 4,
+      "cites": 489,
+      "max_cites": 222
+    },
+    "2009": {
+      "n": 5,
+      "cites": 446,
+      "max_cites": 272
+    },
+    "2010": {
+      "n": 8,
+      "cites": 545,
+      "max_cites": 180
+    },
+    "2011": {
+      "n": 4,
+      "cites": 545,
+      "max_cites": 446
+    },
+    "2012": {
+      "n": 5,
+      "cites": 385,
+      "max_cites": 167
+    },
+    "2013": {
+      "n": 3,
+      "cites": 64,
+      "max_cites": 26
+    },
+    "2014": {
+      "n": 5,
+      "cites": 338,
+      "max_cites": 165
+    },
+    "2015": {
+      "n": 3,
+      "cites": 230,
+      "max_cites": 160
+    },
+    "2016": {
+      "n": 5,
+      "cites": 240,
+      "max_cites": 90
+    },
+    "2017": {
+      "n": 2,
+      "cites": 181,
+      "max_cites": 172
+    },
+    "2018": {
+      "n": 9,
+      "cites": 164,
+      "max_cites": 59
+    },
+    "2019": {
+      "n": 2,
+      "cites": 114,
+      "max_cites": 73
+    },
+    "2020": {
+      "n": 7,
+      "cites": 226,
+      "max_cites": 120
+    },
+    "2021": {
+      "n": 8,
+      "cites": 71,
+      "max_cites": 43
+    },
+    "2022": {
+      "n": 3,
+      "cites": 49,
+      "max_cites": 24
+    },
+    "2023": {
+      "n": 2,
+      "cites": 22,
+      "max_cites": 18
+    },
+    "2024": {
+      "n": 8,
+      "cites": 192,
+      "max_cites": 69
+    },
+    "2025": {
+      "n": 5,
+      "cites": 19,
+      "max_cites": 9
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.12
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.08
+        },
+        {
+          "c": "Traverse",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.08
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.08
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.08
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.073
+        },
+        {
+          "c": "Robot",
+          "w": 0.064
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.045
+        },
+        {
+          "c": "Robotics",
+          "w": 0.027
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.202
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.096
+        },
+        {
+          "c": "Robot",
+          "w": 0.043
+        },
+        {
+          "c": "Robotics",
+          "w": 0.032
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.184
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.144
+        },
+        {
+          "c": "Robot",
+          "w": 0.04
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.032
+        },
+        {
+          "c": "Machine learning",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.102
+        },
+        {
+          "c": "Robot",
+          "w": 0.031
+        },
+        {
+          "c": "Planner",
+          "w": 0.023
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.023
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "ICRA": 4,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 5,
+        "IJRR": 5,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 10,
+        "RSS": 4,
+        "IJRR": 4,
+        "IROS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "ICRA": 14,
+        "IJRR": 4,
+        "RSS": 3,
+        "IROS": 3,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "ICRA": 14,
+        "RA-L": 5,
+        "RSS": 3,
+        "IROS": 3,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 6.4,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "Sebastian Thrun",
+          4
+        ],
+        [
+          "Wolfram Burgard",
+          3
+        ],
+        [
+          "Dieter Fox",
+          3
+        ],
+        [
+          "Maren Bennewitz",
+          2
+        ],
+        [
+          "Armin B. Cremers",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 2.4,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Sebastian Thrun",
+          2
+        ],
+        [
+          "Robert Sim",
+          2
+        ],
+        [
+          "Michael Montemerlo",
+          1
+        ],
+        [
+          "Gregory Dudek",
+          1
+        ],
+        [
+          "Emma Brunskill",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 4.36,
+      "unique_coauthors": 49,
+      "top_coauthors": [
+        [
+          "Thomas Kollar",
+          8
+        ],
+        [
+          "Abraham Bachrach",
+          5
+        ],
+        [
+          "Ruijie He",
+          4
+        ],
+        [
+          "Emma Brunskill",
+          3
+        ],
+        [
+          "Sam Prentice",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 3.95,
+      "unique_coauthors": 42,
+      "top_coauthors": [
+        [
+          "Adam Bry",
+          4
+        ],
+        [
+          "Abraham Bachrach",
+          4
+        ],
+        [
+          "Stefanie Tellex",
+          3
+        ],
+        [
+          "Sachithra Hemachandra",
+          2
+        ],
+        [
+          "Thomas Kollar",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 4.04,
+      "unique_coauthors": 43,
+      "top_coauthors": [
+        [
+          "Kyel Ok",
+          5
+        ],
+        [
+          "William Vega-Brown",
+          5
+        ],
+        [
+          "W. Nicholas Greene",
+          4
+        ],
+        [
+          "Genevieve Flaspohler",
+          4
+        ],
+        [
+          "Yogesh A. Girdhar",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 5.54,
+      "unique_coauthors": 87,
+      "top_coauthors": [
+        [
+          "Philip R. Osteen",
+          5
+        ],
+        [
+          "Michael Noseworthy",
+          3
+        ],
+        [
+          "Sebastian Castro",
+          3
+        ],
+        [
+          "Katherine Liu",
+          3
+        ],
+        [
+          "Chuchu Fan",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.189,
+  "top_repeat_coauthors": [
+    {
+      "name": "Thomas Kollar",
+      "count": 10,
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "name": "Abraham Bachrach",
+      "count": 9,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "William Vega-Brown",
+      "count": 8,
+      "first_year": 2013,
+      "last_year": 2022
+    },
+    {
+      "name": "Kyel Ok",
+      "count": 8,
+      "first_year": 2015,
+      "last_year": 2021
+    },
+    {
+      "name": "Katherine Liu",
+      "count": 7,
+      "first_year": 2018,
+      "last_year": 2021
+    },
+    {
+      "name": "Sebastian Thrun",
+      "count": 6,
+      "first_year": 1999,
+      "last_year": 2003
+    },
+    {
+      "name": "Jonathan P. How",
+      "count": 6,
+      "first_year": 2010,
+      "last_year": 2025
+    },
+    {
+      "name": "Thomas M. Howard",
+      "count": 6,
+      "first_year": 2014,
+      "last_year": 2025
+    },
+    {
+      "name": "W. Nicholas Greene",
+      "count": 6,
+      "first_year": 2016,
+      "last_year": 2021
+    },
+    {
+      "name": "Wolfram Burgard",
+      "count": 5,
+      "first_year": 1999,
+      "last_year": 2008
+    },
+    {
+      "name": "Dieter Fox",
+      "count": 5,
+      "first_year": 1999,
+      "last_year": 2025
+    },
+    {
+      "name": "Ruijie He",
+      "count": 5,
+      "first_year": 2008,
+      "last_year": 2012
+    },
+    {
+      "name": "Jonathan Kelly",
+      "count": 5,
+      "first_year": 2013,
+      "last_year": 2022
+    },
+    {
+      "name": "Jacob Arkin",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2024
+    },
+    {
+      "name": "Yogesh A. Girdhar",
+      "count": 5,
+      "first_year": 2017,
+      "last_year": 2024
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Thomas Kollar",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Abraham Bachrach",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Katherine Liu",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "W. Nicholas Greene",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Ruijie He",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Adam Bry",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "William Vega-Brown",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Kyel Ok",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Emma Brunskill",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Stefanie Tellex",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Michael Noseworthy",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Charles Richter",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Gregory J. Stein",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Samuel Prentice",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Joshua Mason Joseph",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Jared Glover",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Albert S. Huang",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Martina Stadler",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Siddharth Ancha",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "John Ware",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Caris Moses",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Christopher Bradley",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Erick Fuentes",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ethan Fahnestock",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Genevieve Flaspohler",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Valentin Peretroukhin",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Andrew Messing",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Vasileios Vasilopoulos",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sachithra Hemachandra",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Yongchao Chen",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Xiaoyi Cai",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jacob Arkin",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1996,
+      2005
+    ],
+    "early_mean_n_authors": 4.4,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.8
+  },
+  "citation_half_life_years": 17.0,
+  "bursts": {
+    "productivity": [
+      2018
+    ],
+    "impact": [
+      1999
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "MINERVA: A Second-Generation Museum Tour-Guide Robot",
+      "cites": 695,
+      "n_authors": 11,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Traverse",
+        "Computer science",
+        "Human–computer interaction",
+        "Software"
+      ],
+      "doi": "10.1109/robot.1999.770401",
+      "coauthors": [
+        "Sebastian Thrun",
+        "Maren Bennewitz",
+        "Wolfram Burgard",
+        "Armin B. Cremers",
+        "Frank Dellaert",
+        "Dieter Fox",
+        "Dirk Hähnel",
+        "Charles R. Rosenberg",
+        "Jamieson Schulte",
+        "Dirk Schulz"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "IJRR",
+      "title": "Probabilistic Algorithms and the Interactive Museum Tour-Guide Robot Minerva",
+      "cites": 521,
+      "n_authors": 12,
+      "role": "middle",
+      "concepts": [
+        "Probabilistic logic",
+        "Robot",
+        "Traverse",
+        "Computer science",
+        "Software"
+      ],
+      "doi": "10.1177/02783640022067922",
+      "coauthors": [
+        "Sebastian Thrun",
+        "Michael Beetz",
+        "Maren Bennewitz",
+        "Wolfram Burgard",
+        "Armin B. Cremers",
+        "Frank Dellaert",
+        "Dieter Fox",
+        "Dirk Hähnel",
+        "Charles R. Rosenberg",
+        "Jamieson Schulte",
+        "Dirk Schulz"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "Rapidly-exploring Random Belief Trees for motion planning under uncertainty",
+      "cites": 446,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Motion planning",
+        "Mathematical optimization",
+        "Computer science",
+        "Graph",
+        "State space"
+      ],
+      "doi": "10.1109/icra.2011.5980508",
+      "coauthors": [
+        "Adam Bry"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "IROS",
+      "title": "Perspectives on standardization in mobile robot programming: the Carnegie Mellon Navigation (CARMEN) Toolkit",
+      "cites": 326,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Standardization",
+        "Computer science",
+        "Robot",
+        "Focus (optics)",
+        "Mobile robot"
+      ],
+      "doi": "10.1109/iros.2003.1249235",
+      "coauthors": [
+        "Michael Montemerlo",
+        "Sebastian Thrun"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IJRR",
+      "title": "The Belief Roadmap: Efficient Planning in Belief Space by Factoring the Covariance",
+      "cites": 272,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Probabilistic logic",
+        "Computer science",
+        "Position (finance)",
+        "Mathematical optimization",
+        "Covariance matrix"
+      ],
+      "doi": "10.1177/0278364909341659",
+      "coauthors": [
+        "Samuel Prentice"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Global A-Optimal Robot Exploration in SLAM",
+      "cites": 239,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Convergence (economics)",
+        "Computer science",
+        "Limit (mathematics)",
+        "Motion planning"
+      ],
+      "doi": "10.1109/robot.2005.1570193",
+      "coauthors": [
+        "Robert Sim"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "ICRA",
+      "title": "Planning in information space for a quadrotor helicopter in a GPS-denied environment",
+      "cites": 222,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Global Positioning System",
+        "Computer science",
+        "Space (punctuation)",
+        "Aeronautics",
+        "Aerospace engineering"
+      ],
+      "doi": "10.1109/robot.2008.4543471",
+      "coauthors": [
+        "Ruijie He",
+        "Sam Prentice"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "Coastal Navigation: Mobile Robot Navigation with Uncertainty in Dynamic Environments",
+      "cites": 220,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Mobile robot",
+        "Mobile robot navigation",
+        "Robot",
+        "Computer science",
+        "Global Positioning System"
+      ],
+      "doi": "10.1109/robot.1999.769927",
+      "coauthors": [
+        "Wolfram Burgard",
+        "Dieter Fox",
+        "Sebastian Thrun"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "ICRA",
+      "title": "Multiple relative pose graphs for robust cooperative mapping",
+      "cites": 180,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Robot",
+        "Initialization",
+        "Computer science",
+        "Smoothing"
+      ],
+      "doi": "10.1109/robot.2010.5509154",
+      "coauthors": [
+        "Been Kim",
+        "Michael Kaess",
+        "Luke Fletcher",
+        "John J. Leonard",
+        "Abraham Bachrach",
+        "Seth J. Teller"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "RSS",
+      "title": "Safe Visual Navigation via Deep Learning and Novelty Detection",
+      "cites": 172,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Novelty",
+        "Computer science",
+        "Novelty detection",
+        "Artificial intelligence",
+        "Deep learning"
+      ],
+      "doi": "10.15607/rss.2017.xiii.064",
+      "coauthors": [
+        "Charles Richter"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Nicholas Roy: 30년에 걸쳐 103편, 총 6,902회 인용, h=42, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1996년 \"Surface sensing and classification for efficient mobile robot navigation\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회).",
+        "초기 토픽: Computer science, Robot, Mobile robot. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.19 → 토픽 지속형.",
+        "저자수 평균: 초기 4.4명 → 후기 4.8명 (팀 유지).",
+        "최다 인용 논문 \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회) — 커리어 초기에 위치.",
+        "제자 후보 추정 32명 — 상위: Thomas Kollar(2006~, 우리 마지막저자 8편), Abraham Bachrach(2010~, 우리 마지막저자 8편), Katherine Liu(2018~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "초기 3년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "32명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Nicholas Roy: over 30 years, 103 papers, 6,902 total cites, h=42, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1996 with \"Surface sensing and classification for efficient mobile robot navigation\". First 500+ cite paper came 3 years in: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695 cites).",
+        "Early topics: Computer science, Robot, Mobile robot. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.19 → topic-stable.",
+        "Authors per paper: early 4.4 → late 4.8 (stable team).",
+        "Peak paper \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695 cites) — fell in early career.",
+        "32 likely students — top: Thomas Kollar(2006~, we last-author on 8), Abraham Bachrach(2010~, we last-author on 8), Katherine Liu(2018~, we last-author on 6)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 3 years. First-5-year topic choice is decisive.",
+        "32 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

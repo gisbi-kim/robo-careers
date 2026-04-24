@@ -1,0 +1,1242 @@
+{
+  "name": "Chelsea Finn",
+  "slug": "chelsea-finn",
+  "career_stats": {
+    "first_year": 2015,
+    "last_year": 2025,
+    "span": 11,
+    "total_papers": 49,
+    "total_cites": 3800,
+    "h_index": 25,
+    "i10_index": 38,
+    "seminal_count": 2,
+    "max_cites_single_paper": 623
+  },
+  "role_distribution": {
+    "middle": 29,
+    "first": 2,
+    "last": 18
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2015,
+      "title": "Beyond lowest-warping cost action selection in trajectory transfer"
+    },
+    "first_100cite": {
+      "year": 2017,
+      "title": "Deep visual foresight for planning robot motion",
+      "cites": 623,
+      "gap_from_first": 2
+    },
+    "first_500cite": {
+      "year": 2017,
+      "title": "Deep visual foresight for planning robot motion",
+      "cites": 623,
+      "gap_from_first": 2
+    },
+    "peak_paper": {
+      "year": 2017,
+      "title": "Deep visual foresight for planning robot motion",
+      "cites": 623
+    }
+  },
+  "year_series": {
+    "2015": {
+      "n": 2,
+      "cites": 32,
+      "max_cites": 28
+    },
+    "2016": {
+      "n": 2,
+      "cites": 119,
+      "max_cites": 90
+    },
+    "2017": {
+      "n": 2,
+      "cites": 647,
+      "max_cites": 623
+    },
+    "2018": {
+      "n": 2,
+      "cites": 34,
+      "max_cites": 26
+    },
+    "2019": {
+      "n": 5,
+      "cites": 429,
+      "max_cites": 208
+    },
+    "2020": {
+      "n": 4,
+      "cites": 90,
+      "max_cites": 60
+    },
+    "2021": {
+      "n": 5,
+      "cites": 758,
+      "max_cites": 527
+    },
+    "2022": {
+      "n": 2,
+      "cites": 101,
+      "max_cites": 80
+    },
+    "2023": {
+      "n": 6,
+      "cites": 1007,
+      "max_cites": 477
+    },
+    "2024": {
+      "n": 9,
+      "cites": 393,
+      "max_cites": 111
+    },
+    "2025": {
+      "n": 10,
+      "cites": 190,
+      "max_cites": 104
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.203
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.188
+        },
+        {
+          "c": "Robot",
+          "w": 0.078
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.078
+        },
+        {
+          "c": "Machine learning",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.205
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.165
+        },
+        {
+          "c": "Robot",
+          "w": 0.087
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.063
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.047
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.14
+        },
+        {
+          "c": "Robot",
+          "w": 0.12
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.06
+        },
+        {
+          "c": "Affordance",
+          "w": 0.02
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 7,
+        "RSS": 4,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "RSS": 13,
+        "ICRA": 8,
+        "IROS": 2,
+        "RA-L": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "RSS": 4,
+        "ICRA": 3,
+        "IROS": 2,
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 5.15,
+      "unique_coauthors": 36,
+      "top_coauthors": [
+        [
+          "Sergey Levine",
+          10
+        ],
+        [
+          "Pieter Abbeel",
+          6
+        ],
+        [
+          "Tianhe Yu",
+          3
+        ],
+        [
+          "Annie Xie",
+          2
+        ],
+        [
+          "Frederik Ebert",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 22.69,
+      "unique_coauthors": 370,
+      "top_coauthors": [
+        [
+          "Sergey Levine",
+          14
+        ],
+        [
+          "Suraj Nair",
+          9
+        ],
+        [
+          "Dorsa Sadigh",
+          7
+        ],
+        [
+          "Ted Xiao",
+          6
+        ],
+        [
+          "Karl Pertsch",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 8.3,
+      "unique_coauthors": 61,
+      "top_coauthors": [
+        [
+          "Karl Pertsch",
+          3
+        ],
+        [
+          "Sergey Levine",
+          3
+        ],
+        [
+          "Laura Smith",
+          2
+        ],
+        [
+          "Brian Ichter",
+          2
+        ],
+        [
+          "Danny Driess",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.078,
+  "top_repeat_coauthors": [
+    {
+      "name": "Sergey Levine",
+      "count": 27,
+      "first_year": 2016,
+      "last_year": 2025
+    },
+    {
+      "name": "Suraj Nair",
+      "count": 11,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Dorsa Sadigh",
+      "count": 9,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Pieter Abbeel",
+      "count": 8,
+      "first_year": 2015,
+      "last_year": 2024
+    },
+    {
+      "name": "Karl Pertsch",
+      "count": 8,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Annie Xie",
+      "count": 7,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Quan Vuong",
+      "count": 7,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Tianhe Yu",
+      "count": 6,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Tony Z. Zhao",
+      "count": 6,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Ted Xiao",
+      "count": 6,
+      "first_year": 2023,
+      "last_year": 2024
+    },
+    {
+      "name": "Archit Sharma",
+      "count": 5,
+      "first_year": 2024,
+      "last_year": 2024
+    },
+    {
+      "name": "Julian Ibarz",
+      "count": 4,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Sudeep Dasari",
+      "count": 4,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Frederik Ebert",
+      "count": 4,
+      "first_year": 2019,
+      "last_year": 2022
+    },
+    {
+      "name": "Stephen Tian",
+      "count": 4,
+      "first_year": 2019,
+      "last_year": 2024
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Tony Z. Zhao",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Annie S. Chen",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Karl Pertsch",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Maximilian Du",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jingyun Yang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Olivia Y. Lee",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kevin Black",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jensen Gao",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Suvir Mirchandani",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alexander Khazatsky",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "David D. Yuan",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jonathan Heewon Yang",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Lucy Xiaoyang Shi",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Gaoyue Zhou",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Anthony Brohan",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2015,
+      2024
+    ],
+    "early_mean_n_authors": 16.85,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 15.47
+  },
+  "citation_half_life_years": 5.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2023
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Deep visual foresight for planning robot motion",
+      "cites": 623,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Robot",
+        "Reinforcement learning",
+        "Set (abstract data type)"
+      ],
+      "doi": "10.1109/icra.2017.7989324",
+      "coauthors": [
+        "Sergey Levine"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "IJRR",
+      "title": "How to train your robot with deep reinforcement learning: lessons we have learned",
+      "cites": 527,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Reinforcement learning",
+        "Artificial intelligence",
+        "Robotics",
+        "Deep learning",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364920987859",
+      "coauthors": [
+        "Julian Ibarz",
+        "Jie Tan",
+        "Mrinal Kalakrishnan",
+        "Peter Pastor",
+        "Sergey Levine"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "RSS",
+      "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
+      "cites": 477,
+      "n_authors": 51,
+      "role": "middle",
+      "concepts": [
+        "Robotics",
+        "Artificial intelligence",
+        "Transformer",
+        "Computer science",
+        "Scale (ratio)"
+      ],
+      "doi": "10.15607/rss.2023.xix.025",
+      "coauthors": [
+        "Anthony Brohan",
+        "Noah Brown",
+        "Justice Carbajal",
+        "Yevgen Chebotar",
+        "Joseph Dabis",
+        "Keerthana Gopalakrishnan",
+        "Karol Hausman",
+        "Alexander Herzog",
+        "Jasmine Hsu",
+        "Julian Ibarz",
+        "Brian Ichter",
+        "Alex Irpan",
+        "Tomas Jackson",
+        "Sally Jesmonth",
+        "Nikhil J. Joshi",
+        "Ryan Julian",
+        "Dmitry Kalashnikov",
+        "Yuheng Kuang",
+        "Isabel Leal",
+        "Kuang-Huei Lee",
+        "Sergey Levine",
+        "Yao Lu",
+        "Utsav Malla",
+        "Deeksha Manjunath",
+        "Igor Mordatch",
+        "Ofir Nachum",
+        "Carolina Parada",
+        "Jodilyn Peralta",
+        "Emily Perez",
+        "Karl Pertsch",
+        "Jornell Quiambao",
+        "Kanishka Rao",
+        "Michael S. Ryoo",
+        "Grecia Salazar",
+        "Pannag R. Sanketi",
+        "Kevin Sayed",
+        "Jaspiar Singh",
+        "Sumedh Sontakke",
+        "Austin Stone",
+        "Clayton Tan",
+        "Huong T. Tran",
+        "Vincent Vanhoucke",
+        "Steve Vega",
+        "Quan Vuong",
+        "Fei Xia",
+        "Ted Xiao",
+        "Peng Xu",
+        "Sichun Xu",
+        "Tianhe Yu",
+        "Brianna Zitkovich"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "RSS",
+      "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware",
+      "cites": 421,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Computer hardware",
+        "Human–computer interaction",
+        "Embedded system",
+        "Computer architecture"
+      ],
+      "doi": "10.15607/rss.2023.xix.016",
+      "coauthors": [
+        "Tony Z. Zhao",
+        "Vikash Kumar",
+        "Sergey Levine"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RSS",
+      "title": "End-To-End Robotic Reinforcement Learning without Reward Engineering",
+      "cites": 208,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Reinforcement learning",
+        "Computer science",
+        "Reinforcement",
+        "Artificial intelligence",
+        "End-to-end principle"
+      ],
+      "doi": "10.15607/rss.2019.xv.073",
+      "coauthors": [
+        "Avi Singh",
+        "Larry Yang",
+        "Sergey Levine"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "Recovery RL: Safe Reinforcement Learning With Learned Recovery Zones",
+      "cites": 191,
+      "n_authors": 10,
+      "role": "middle",
+      "concepts": [
+        "Reinforcement learning",
+        "Task (project management)",
+        "Constraint (computer-aided design)",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/lra.2021.3070252",
+      "coauthors": [
+        "Brijen Thananjeyan",
+        "Ashwin Balakrishna",
+        "Suraj Nair",
+        "Michael Luo",
+        "Krishnan Srinivasan",
+        "Minho Hwang",
+        "Joseph E. Gonzalez",
+        "Julian Ibarz",
+        "Ken Goldberg"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "ICRA",
+      "title": "Manipulation by Feel: Touch-Based Control with Deep Predictive Models",
+      "cites": 120,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Tactile sensor",
+        "Computer science",
+        "Artificial intelligence",
+        "Leverage (statistics)",
+        "Robot"
+      ],
+      "doi": "10.1109/icra.2019.8794219",
+      "coauthors": [
+        "Stephen Tian",
+        "Frederik Ebert",
+        "Dinesh Jayaraman",
+        "Mayur Mudigonda",
+        "Roberto Calandra",
+        "Sergey Levine"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "ICRA",
+      "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration",
+      "cites": 111,
+      "n_authors": 280,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Computer graphics (images)",
+        "Artificial intelligence",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/icra57147.2024.10611477",
+      "coauthors": [
+        "Abby O&apos",
+        "Neill",
+        "Abdul Rehman",
+        "Abhiram Maddukuri",
+        "Abhishek Gupta",
+        "Abhishek Padalkar",
+        "Abraham Lee",
+        "Acorn Pooley",
+        "Agrim Gupta",
+        "Ajay Mandlekar",
+        "Ajinkya Jain",
+        "Albert Tung",
+        "Alex Bewley",
+        "Alexander Herzog",
+        "Alex Irpan",
+        "Alexander Khazatsky",
+        "Anant Rai",
+        "Anchit Gupta",
+        "Andrew E. Wang",
+        "Anikait Singh",
+        "Animesh Garg",
+        "Aniruddha Kembhavi",
+        "Annie Xie",
+        "Anthony Brohan",
+        "Antonin Raffin",
+        "Archit Sharma",
+        "Arefeh Yavary",
+        "Arhan Jain",
+        "Ashwin Balakrishna",
+        "Ayzaan Wahid",
+        "Ben Burgess-Limerick",
+        "Beomjoon Kim",
+        "Bernhard Schölkopf",
+        "Blake Wulfe",
+        "Brian Ichter",
+        "Cewu Lu",
+        "Charles Xu",
+        "Charlotte Le",
+        "Chen Wang",
+        "Chenfeng Xu",
+        "Cheng Chi",
+        "Chenguang Huang",
+        "Christine Chan",
+        "Christopher Agia",
+        "Chuer Pan",
+        "Chuyuan Fu",
+        "Coline Devin",
+        "Danfei Xu",
+        "Daniel Morton",
+        "Danny Driess",
+        "Daphne Chen",
+        "Deepak Pathak",
+        "Dhruv Shah",
+        "Dieter Büchler",
+        "Dinesh Jayaraman",
+        "Dmitry Kalashnikov",
+        "Dorsa Sadigh",
+        "Edward Johns",
+        "Ethan Paul Foster",
+        "Fangchen Liu",
+        "Federico Ceola",
+        "Fei Xia",
+        "Feiyu Zhao",
+        "Freek Stulp",
+        "Gaoyue Zhou",
+        "Gaurav S. Sukhatme",
+        "Gautam Salhotra",
+        "Ge Yan",
+        "Gilbert Feng",
+        "Giulio Schiavi",
+        "Glen Berseth",
+        "Gregory Kahn",
+        "Guanzhi Wang",
+        "Hao Su",
+        "Haoshu Fang",
+        "Haochen Shi",
+        "Henghui Bao",
+        "Heni Ben Amor",
+        "Henrik I. Christensen",
+        "Hiroki Furuta",
+        "Homer Walke",
+        "Hongjie Fang",
+        "Huy Ha",
+        "Igor Mordatch",
+        "Ilija Radosavovic",
+        "Isabel Leal",
+        "Jacky Liang",
+        "Jad Abou-Chakra",
+        "Jaehyung Kim",
+        "Jaimyn Drake",
+        "Jan Peters",
+        "Jan Schneider",
+        "Jasmine Hsu",
+        "Jeannette Bohg",
+        "Jeffrey T. Bingham",
+        "Jeffrey Wu",
+        "Jensen Gao",
+        "Jiaheng Hu",
+        "Jiajun Wu",
+        "Jialin Wu",
+        "Jiankai Sun",
+        "Jianlan Luo",
+        "Jiayuan Gu",
+        "Jie Tan",
+        "Jihoon Oh",
+        "Jimmy Wu",
+        "Jingpei Lu",
+        "Jingyun Yang",
+        "Jitendra Malik",
+        "João Silvério",
+        "Joey Hejna",
+        "Jonathan Booher",
+        "Jonathan Tompson",
+        "Jonathan Yang",
+        "Jordi Salvador",
+        "Joseph J. Lim",
+        "Junhyek Han",
+        "Kaiyuan Wang",
+        "Kanishka Rao",
+        "Karl Pertsch",
+        "Karol Hausman",
+        "Keegan Go",
+        "Keerthana Gopalakrishnan",
+        "Ken Goldberg",
+        "Kendra Byrne",
+        "Kenneth Oslund",
+        "Kento Kawaharazuka",
+        "Kevin Black",
+        "Kevin Lin",
+        "Kevin Zhang",
+        "Kiana Ehsani",
+        "Kiran Lekkala",
+        "Kirsty Ellis",
+        "Krishan Rana",
+        "Krishnan Srinivasan",
+        "Kuan Fang",
+        "Kunal Pratap Singh",
+        "Kuo-Hao Zeng",
+        "Kyle Hatch",
+        "Kyle Hsu",
+        "Laurent Itti",
+        "Lawrence Yunliang Chen",
+        "Lerrel Pinto",
+        "Li Fei-Fei",
+        "Liam Tan",
+        "Linxi Jim Fan",
+        "Lionel Ott",
+        "Lisa Lee",
+        "Luca Weihs",
+        "Magnum Chen",
+        "Marion Lepert",
+        "Marius Memmel",
+        "Masayoshi Tomizuka",
+        "Masha Itkina",
+        "Mateo Guaman Castro",
+        "Max Spero",
+        "Maximilian Du",
+        "Michael Ahn",
+        "Michael C. Yip",
+        "Mingtong Zhang",
+        "Mingyu Ding",
+        "Minho Heo",
+        "Mohan Kumar Srirama",
+        "Mohit Sharma",
+        "Moo Jin Kim",
+        "Naoaki Kanazawa",
+        "Nicklas Hansen",
+        "Nicolas Heess",
+        "Nikhil J. Joshi",
+        "Niko Sünderhauf",
+        "Ning Liu",
+        "Norman Di Palo",
+        "Nur Muhammad (Mahi) Shafiullah",
+        "Oier Mees",
+        "Oliver Kroemer",
+        "Osbert Bastani",
+        "Pannag R. Sanketi",
+        "Patrick Tree Miller",
+        "Patrick Yin",
+        "Paul Wohlhart",
+        "Peng Xu",
+        "Peter David Fagan",
+        "Peter Mitrano",
+        "Pierre Sermanet",
+        "Pieter Abbeel",
+        "Priya Sundaresan",
+        "Qiuyu Chen",
+        "Quan Vuong",
+        "Rafael Rafailov",
+        "Ran Tian",
+        "Ria Doshi",
+        "Roberto Martín-Martín",
+        "Rohan Baijal",
+        "Rosario Scalise",
+        "Rose Hendrix",
+        "Roy Lin",
+        "Runjia Qian",
+        "Ruohan Zhang",
+        "Russell Mendonca",
+        "Rutav Shah",
+        "Ryan Hoque",
+        "Ryan Julian",
+        "Samuel Bustamante-Gomez",
+        "Sean Kirmani",
+        "Sergey Levine",
+        "Shan Lin",
+        "Sherry Moore",
+        "Shikhar Bahl",
+        "Shivin Dass",
+        "Shubham D. Sonawani",
+        "Shuran Song",
+        "Sichun Xu",
+        "Siddhant Haldar",
+        "Siddharth Karamcheti",
+        "Simeon Adebola",
+        "Simon Guist",
+        "Soroush Nasiriany",
+        "Stefan Schaal",
+        "Stefan Welker",
+        "Stephen Tian",
+        "Subramanian Ramamoorthy",
+        "Sudeep Dasari",
+        "Suneel Belkhale",
+        "Sungjae Park",
+        "Suraj Nair",
+        "Suvir Mirchandani",
+        "Takayuki Osa",
+        "Tanmay Gupta",
+        "Tatsuya Harada",
+        "Tatsuya Matsushima",
+        "Ted Xiao",
+        "Thomas Kollar",
+        "Tianhe Yu",
+        "Tianli Ding",
+        "Todor Davchev",
+        "Tony Z. Zhao",
+        "Travis Armstrong",
+        "Trevor Darrell",
+        "Trinity Chung",
+        "Vidhi Jain",
+        "Vincent Vanhoucke",
+        "Wei Zhan",
+        "Wenxuan Zhou",
+        "Wolfram Burgard",
+        "Xi Chen",
+        "Xiaolong Wang",
+        "Xinghao Zhu",
+        "Xinyang Geng",
+        "Xiyuan Liu",
+        "Liangwei Xu",
+        "Xuanlin Li",
+        "Yao Lu",
+        "Yecheng Jason Ma",
+        "Yejin Kim",
+        "Yevgen Chebotar",
+        "Yifan Zhou",
+        "Yifeng Zhu",
+        "Yilin Wu",
+        "Ying Xu",
+        "Yixuan Wang",
+        "Yonatan Bisk",
+        "Yoonyoung Cho",
+        "Youngwoon Lee",
+        "Yuchen Cui",
+        "Yue Cao",
+        "Yueh-Hua Wu",
+        "Yujin Tang",
+        "Yuke Zhu",
+        "Yunchu Zhang",
+        "Yunfan Jiang",
+        "Yunshuang Li",
+        "Yunzhu Li",
+        "Yusuke Iwasawa",
+        "Yutaka Matsuo",
+        "Zehan Ma",
+        "Zhuo Xu",
+        "Zichen Jeff Cui",
+        "Zichen Zhang",
+        "Zipeng Lin"
+      ]
+    },
+    {
+      "year": 2025,
+      "venue": "RSS",
+      "title": "π₀: A Vision-Language-Action Flow Model for General Robot Control",
+      "cites": 104,
+      "n_authors": 25,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Control theory (sociology)",
+        "Robot",
+        "Control engineering",
+        "Control (management)"
+      ],
+      "doi": "10.15607/rss.2025.xxi.010",
+      "coauthors": [
+        "Kevin Black",
+        "Noah Brown",
+        "Danny Driess",
+        "A. Esmail",
+        "Michael Equi",
+        "Niccolo Fusai",
+        "Lachy Groom",
+        "Karol Hausman",
+        "Brian Ichter",
+        "Szymon Jakubczak",
+        "Tim Jones",
+        "Liyiming Ke",
+        "Sergey Levine",
+        "Adrian Li-Bell",
+        "Mohith Mothukuri",
+        "Suraj Nair",
+        "Karl Pertsch",
+        "Lucy Shi",
+        "Laura Smith",
+        "James Tanner",
+        "Quan Vuong",
+        "Anna Walling",
+        "Huamin Wang",
+        "Ury Zhilinsky"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "RSS",
+      "title": "DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset",
+      "cites": 100,
+      "n_authors": 99,
+      "role": "last",
+      "concepts": [
+        "Scale (ratio)",
+        "Robot",
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision"
+      ],
+      "doi": "10.15607/rss.2024.xx.120",
+      "coauthors": [
+        "Alexander Khazatsky",
+        "Karl Pertsch",
+        "Suraj Nair",
+        "Ashwin Balakrishna",
+        "Sudeep Dasari",
+        "Siddharth Karamcheti",
+        "Soroush Nasiriany",
+        "Mohan Kumar Srirama",
+        "Lawrence Yunliang Chen",
+        "Kirsty Ellis",
+        "Peter David Fagan",
+        "Joey Hejna",
+        "Masha Itkina",
+        "Marion Lepert",
+        "Yecheng Jason Ma",
+        "Patrick Tree Miller",
+        "Jimmy Wu",
+        "Suneel Belkhale",
+        "Shivin Dass",
+        "Huy Ha",
+        "Arhan Jain",
+        "Abraham Lee",
+        "Youngwoon Lee",
+        "Marius Memmel",
+        "Sungjae Park",
+        "Ilija Radosavovic",
+        "Kaiyuan Wang",
+        "Albert Zhan",
+        "Kevin Black",
+        "Cheng Chi",
+        "Kyle Beltran Hatch",
+        "Shan Lin",
+        "Jingpei Lu",
+        "Jean Mercat",
+        "Abdul Rehman",
+        "Pannag R. Sanketi",
+        "Archit Sharma",
+        "Cody Simpson",
+        "Quan Vuong",
+        "Homer Rich Walke",
+        "Blake Wulfe",
+        "Ted Xiao",
+        "Jonathan Heewon Yang",
+        "Arefeh Yavary",
+        "Tony Z. Zhao",
+        "Christopher Agia",
+        "Rohan Baijal",
+        "Mateo Guaman Castro",
+        "Daphne Chen",
+        "Qiuyu Chen",
+        "Trinity Chung",
+        "Jaimyn Drake",
+        "Ethan Paul Foster",
+        "Jensen Gao",
+        "David Antonio Herrera",
+        "Minho Heo",
+        "Kyle Hsu",
+        "Jiaheng Hu",
+        "Donovon Jackson",
+        "Charlotte Le",
+        "Yunshuang Li",
+        "Roy Lin",
+        "Zehan Ma",
+        "Abhiram Maddukuri",
+        "Suvir Mirchandani",
+        "Daniel Morton",
+        "Tony Nguyen",
+        "Abigail O&apos",
+        "Neill",
+        "Rosario Scalise",
+        "Derick Seale",
+        "Victor Son",
+        "Stephen Tian",
+        "Emi Tran",
+        "Andrew E. Wang",
+        "Yilin Wu",
+        "Annie Xie",
+        "Jingyun Yang",
+        "Patrick Yin",
+        "Yunchu Zhang",
+        "Osbert Bastani",
+        "Glen Berseth",
+        "Jeannette Bohg",
+        "Ken Goldberg",
+        "Abhinav Gupta",
+        "Abhishek Gupta",
+        "Dinesh Jayaraman",
+        "Joseph J. Lim",
+        "Jitendra Malik",
+        "Roberto Martín-Martín",
+        "Subramanian Ramamoorthy",
+        "Dorsa Sadigh",
+        "Shuran Song",
+        "Jiajun Wu",
+        "Michael C. Yip",
+        "Yuke Zhu",
+        "Thomas Kollar",
+        "Sergey Levine"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Chelsea Finn: 11년에 걸쳐 49편, 총 3,800회 인용, h=25, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "2015년 \"Beyond lowest-warping cost action selection in trajectory transfer\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"Deep visual foresight for planning robot motion\" (2017, 623회).",
+        "초기 토픽: Computer science, Artificial intelligence, Robot. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.08 → 토픽 지속형.",
+        "저자수 평균: 초기 16.9명 → 후기 15.5명 (팀 축소).",
+        "최다 인용 논문 \"Deep visual foresight for planning robot motion\" (2017, 623회) — 커리어 초기에 위치.",
+        "제자 후보 추정 15명 — 상위: Tony Z. Zhao(2021~, 우리 마지막저자 4편), Annie S. Chen(2021~, 우리 마지막저자 3편), Karl Pertsch(2023~, 우리 마지막저자 3편)."
+      ],
+      "lessons": [
+        "초기 2년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "15명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Chelsea Finn: over 11 years, 49 papers, 3,800 total cites, h=25, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2015 with \"Beyond lowest-warping cost action selection in trajectory transfer\". First 500+ cite paper came 2 years in: \"Deep visual foresight for planning robot motion\" (2017, 623 cites).",
+        "Early topics: Computer science, Artificial intelligence, Robot. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.08 → topic-stable.",
+        "Authors per paper: early 16.9 → late 15.5 (team shrink).",
+        "Peak paper \"Deep visual foresight for planning robot motion\" (2017, 623 cites) — fell in early career.",
+        "15 likely students — top: Tony Z. Zhao(2021~, we last-author on 4), Annie S. Chen(2021~, we last-author on 3), Karl Pertsch(2023~, we last-author on 3)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 2 years. First-5-year topic choice is decisive.",
+        "15 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

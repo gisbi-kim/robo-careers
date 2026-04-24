@@ -1,0 +1,1488 @@
+{
+  "name": "Yun-Hui Liu",
+  "slug": "yun-hui-liu",
+  "career_stats": {
+    "first_year": 1989,
+    "last_year": 2025,
+    "span": 37,
+    "total_papers": 159,
+    "total_cites": 3709,
+    "h_index": 31,
+    "i10_index": 84,
+    "seminal_count": 0,
+    "max_cites_single_paper": 309
+  },
+  "role_distribution": {
+    "first": 23,
+    "middle": 59,
+    "last": 77
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1989,
+      "title": "A practical algorithm for planning collision-free coordinated motion of multiple mobile robots"
+    },
+    "first_100cite": {
+      "year": 2000,
+      "title": "Computing n-Finger Form-Closure Grasps on Polygonal Objects",
+      "cites": 124,
+      "gap_from_first": 11
+    },
+    "peak_paper": {
+      "year": 2006,
+      "title": "Uncalibrated visual servoing of robots using a depth-independent interaction matrix",
+      "cites": 309
+    }
+  },
+  "year_series": {
+    "1989": {
+      "n": 1,
+      "cites": 52,
+      "max_cites": 52
+    },
+    "1990": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1991": {
+      "n": 2,
+      "cites": 67,
+      "max_cites": 66
+    },
+    "1992": {
+      "n": 1,
+      "cites": 3,
+      "max_cites": 3
+    },
+    "1993": {
+      "n": 2,
+      "cites": 84,
+      "max_cites": 79
+    },
+    "1994": {
+      "n": 2,
+      "cites": 21,
+      "max_cites": 21
+    },
+    "1995": {
+      "n": 2,
+      "cites": 46,
+      "max_cites": 36
+    },
+    "1996": {
+      "n": 2,
+      "cites": 26,
+      "max_cites": 18
+    },
+    "1997": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "1998": {
+      "n": 5,
+      "cites": 135,
+      "max_cites": 92
+    },
+    "1999": {
+      "n": 3,
+      "cites": 21,
+      "max_cites": 14
+    },
+    "2000": {
+      "n": 7,
+      "cites": 263,
+      "max_cites": 124
+    },
+    "2001": {
+      "n": 8,
+      "cites": 103,
+      "max_cites": 35
+    },
+    "2002": {
+      "n": 6,
+      "cites": 94,
+      "max_cites": 24
+    },
+    "2003": {
+      "n": 4,
+      "cites": 42,
+      "max_cites": 16
+    },
+    "2004": {
+      "n": 3,
+      "cites": 143,
+      "max_cites": 131
+    },
+    "2005": {
+      "n": 6,
+      "cites": 64,
+      "max_cites": 15
+    },
+    "2006": {
+      "n": 3,
+      "cites": 333,
+      "max_cites": 309
+    },
+    "2007": {
+      "n": 6,
+      "cites": 151,
+      "max_cites": 116
+    },
+    "2008": {
+      "n": 4,
+      "cites": 181,
+      "max_cites": 156
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2011": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2012": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2013": {
+      "n": 1,
+      "cites": 120,
+      "max_cites": 120
+    },
+    "2014": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2015": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2016": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2017": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2018": {
+      "n": 8,
+      "cites": 378,
+      "max_cites": 138
+    },
+    "2019": {
+      "n": 15,
+      "cites": 449,
+      "max_cites": 85
+    },
+    "2020": {
+      "n": 11,
+      "cites": 145,
+      "max_cites": 33
+    },
+    "2021": {
+      "n": 9,
+      "cites": 337,
+      "max_cites": 140
+    },
+    "2022": {
+      "n": 10,
+      "cites": 202,
+      "max_cites": 52
+    },
+    "2023": {
+      "n": 14,
+      "cites": 166,
+      "max_cites": 28
+    },
+    "2024": {
+      "n": 12,
+      "cites": 60,
+      "max_cites": 10
+    },
+    "2025": {
+      "n": 10,
+      "cites": 18,
+      "max_cites": 17
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1989,
+      "end": 1993,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.067
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.067
+        },
+        {
+          "c": "Computer science",
+          "w": 0.067
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.15
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.067
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.05
+        },
+        {
+          "c": "Exponential stability",
+          "w": 0.05
+        },
+        {
+          "c": "Lyapunov function",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.094
+        },
+        {
+          "c": "Closure (psychology)",
+          "w": 0.058
+        },
+        {
+          "c": "GRASP",
+          "w": 0.05
+        },
+        {
+          "c": "Wrench",
+          "w": 0.05
+        },
+        {
+          "c": "Robot",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.118
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.082
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.073
+        },
+        {
+          "c": "Visual servoing",
+          "w": 0.064
+        },
+        {
+          "c": "Jacobian matrix and determinant",
+          "w": 0.045
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Image plane",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Observer (physics)",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.1
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.075
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 59,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.166
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.102
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.064
+        },
+        {
+          "c": "Robot",
+          "w": 0.054
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.034
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.171
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.095
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.076
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.029
+        },
+        {
+          "c": "Visual servoing",
+          "w": 0.029
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1989,
+      "end": 1993,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 3
+      }
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "ICRA": 16,
+        "IROS": 11,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "ICRA": 12,
+        "T-RO": 6,
+        "IROS": 4
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "IROS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 2,
+        "T-RO": 2,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "ICRA": 23,
+        "IROS": 17,
+        "RA-L": 10,
+        "T-RO": 6,
+        "IJRR": 2,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 6,
+        "RA-L": 6,
+        "SoRo": 2,
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1989,
+      "end": 1993,
+      "mean_n_authors": 3,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "Suguru Arimoto",
+          5
+        ],
+        [
+          "Tomohide Naniwa",
+          2
+        ],
+        [
+          "Shigeo Kuroda",
+          1
+        ],
+        [
+          "Hiroshi Noborio",
+          1
+        ],
+        [
+          "Yoshifumi Kawaguchi",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1994,
+      "end": 1998,
+      "mean_n_authors": 2.5,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Suguru Arimoto",
+          6
+        ],
+        [
+          "Vicente Parra-Vega",
+          3
+        ],
+        [
+          "Kosei Kitagaki",
+          2
+        ],
+        [
+          "Yangsheng Xu",
+          2
+        ],
+        [
+          "Tsukasa Ogasawara",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 3.46,
+      "unique_coauthors": 23,
+      "top_coauthors": [
+        [
+          "Dan Ding",
+          10
+        ],
+        [
+          "Yantao Shen",
+          8
+        ],
+        [
+          "Ning Xi",
+          7
+        ],
+        [
+          "Imad H. Elhajj",
+          5
+        ],
+        [
+          "Shuguo Wang",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 2.64,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Hesheng Wang",
+          9
+        ],
+        [
+          "Min Li",
+          4
+        ],
+        [
+          "Miu-Ling Lam",
+          4
+        ],
+        [
+          "Kinkwan Lam",
+          3
+        ],
+        [
+          "Lo Ming Fok",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 3.5,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Hesheng Wang",
+          1
+        ],
+        [
+          "Weidong Chen",
+          1
+        ],
+        [
+          "David Navarro-Alarcon",
+          1
+        ],
+        [
+          "José Guadalupe Romero",
+          1
+        ],
+        [
+          "Peng Li",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 5,
+      "unique_coauthors": 24,
+      "top_coauthors": [
+        [
+          "Hesheng Wang",
+          3
+        ],
+        [
+          "Xiang Li",
+          3
+        ],
+        [
+          "Zhe Liu",
+          2
+        ],
+        [
+          "Weidong Chen",
+          2
+        ],
+        [
+          "Zerui Wang",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 6.44,
+      "unique_coauthors": 140,
+      "top_coauthors": [
+        [
+          "Qi Dou",
+          14
+        ],
+        [
+          "Zhe Liu",
+          12
+        ],
+        [
+          "Shunbo Zhou",
+          10
+        ],
+        [
+          "Wen Chen",
+          10
+        ],
+        [
+          "Pheng-Ann Heng",
+          10
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 7.32,
+      "unique_coauthors": 96,
+      "top_coauthors": [
+        [
+          "Qi Dou",
+          4
+        ],
+        [
+          "Jianshu Zhou",
+          4
+        ],
+        [
+          "Linzhu Yue",
+          3
+        ],
+        [
+          "Yichuan Li",
+          3
+        ],
+        [
+          "Rui Cao",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.361,
+  "top_repeat_coauthors": [
+    {
+      "name": "Hesheng Wang",
+      "count": 21,
+      "first_year": 2005,
+      "last_year": 2021
+    },
+    {
+      "name": "Qi Dou",
+      "count": 18,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Zhe Liu",
+      "count": 14,
+      "first_year": 2018,
+      "last_year": 2020
+    },
+    {
+      "name": "Pheng-Ann Heng",
+      "count": 12,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Suguru Arimoto",
+      "count": 11,
+      "first_year": 1989,
+      "last_year": 1998
+    },
+    {
+      "name": "Dan Ding",
+      "count": 11,
+      "first_year": 1999,
+      "last_year": 2004
+    },
+    {
+      "name": "Shunbo Zhou",
+      "count": 11,
+      "first_year": 2018,
+      "last_year": 2021
+    },
+    {
+      "name": "Zerui Wang",
+      "count": 10,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Fangxun Zhong",
+      "count": 10,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Wen Chen",
+      "count": 10,
+      "first_year": 2019,
+      "last_year": 2021
+    },
+    {
+      "name": "Bo Lu",
+      "count": 10,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Bin Li",
+      "count": 10,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Hongchao Zhao",
+      "count": 9,
+      "first_year": 2018,
+      "last_year": 2021
+    },
+    {
+      "name": "Wei Chen",
+      "count": 9,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Yantao Shen",
+      "count": 8,
+      "first_year": 2000,
+      "last_year": 2002
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Zhe Liu",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 14,
+      "student_first_author_count": 4,
+      "we_last_author_count": 12,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Shunbo Zhou",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 4,
+      "we_last_author_count": 11,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Wen Chen",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 10,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Haoang Li",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Linzhu Yue",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zerui Wang",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yiang Lu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Min Li",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Guangli Sun",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Bo Lu",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 10,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Zhitao Song",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Wang Tai Lo",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Congying Sui",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Yang Zhou",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Xuanqi Zeng",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Hesheng Wang",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 21,
+      "student_first_author_count": 6,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Imad H. Elhajj",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Fangxun Zhong",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Miu-Ling Lam",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Wai-Keung Fung",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Rui Cao",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yichuan Li",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ruofeng Wei",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Fan Zheng",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Xiaoman Wang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Dan Ding",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 6,
+      "we_last_author_count": 1,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Yantao Shen",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 1,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Biqi Yang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Kai Chen",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jiaqi Xu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Zheng Wu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yonghao Long",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jia-Hui Pan",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Lo Ming Fok",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Farshid Alambeigi",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Guoliang Xiang",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Xianzhi Li",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Vicente Parra-Vega",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 1996
+    },
+    {
+      "name": "Yidan Feng",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Ge Fang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Huayu Zhang",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xiaomei Wang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1989,
+      1998
+    ],
+    "early_mean_n_authors": 2.67,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 6.53
+  },
+  "citation_half_life_years": 13,
+  "bursts": {
+    "productivity": [
+      2019,
+      2023
+    ],
+    "impact": [
+      2018,
+      2019,
+      2021
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2006,
+      "venue": "T-RO",
+      "title": "Uncalibrated visual servoing of robots using a depth-independent interaction matrix",
+      "cites": 309,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Visual servoing",
+        "Robot",
+        "Computer vision",
+        "Controller (irrigation)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2006.878788",
+      "coauthors": [
+        "Hesheng Wang",
+        "Chengyou Wang",
+        "Kinkwan Lam"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "Adaptive Visual Servoing Using Point and Line Features With an Uncalibrated Eye-in-Hand Camera",
+      "cites": 156,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Visual servoing",
+        "Computer vision",
+        "Artificial intelligence",
+        "Jacobian matrix and determinant",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2008.2001356",
+      "coauthors": [
+        "Hesheng Wang",
+        "Dongxiang Zhou"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "Sci-Rob",
+      "title": "Soft robotic manipulator for intraoperative MRI-guided transoral laser microsurgery",
+      "cites": 140,
+      "n_authors": 14,
+      "role": "middle",
+      "concepts": [
+        "Transoral laser microsurgery",
+        "Microsurgery",
+        "Magnetic resonance imaging",
+        "Medicine",
+        "Laser"
+      ],
+      "doi": "10.1126/scirobotics.abg5575",
+      "coauthors": [
+        "Ge Fang",
+        "Marco C. K. Chow",
+        "Justin D. L. Ho",
+        "Zhuoliang He",
+        "Kui Wang",
+        "T. C. Ng",
+        "James K. H. Tsoi",
+        "Po-Ling Chan",
+        "Hing-Chiu Chang",
+        "Danny Tat-Ming Chan",
+        "F. Christopher Holsinger",
+        "Jason Ying-Kuen Chan",
+        "Ka-Wai Kwok"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "T-RO",
+      "title": "Fourier-Based Shape Servoing: A New Feedback Method to Actively Deform Soft Objects into Desired 2-D Image Contours",
+      "cites": 138,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence",
+        "Fourier series",
+        "Visual servoing"
+      ],
+      "doi": "10.1109/tro.2017.2765333",
+      "coauthors": [
+        "David Navarro-Alarcon"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "T-RO",
+      "title": "A complete and efficient algorithm for searching 3-D form-closure grasps in the discrete domain",
+      "cites": 131,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "GRASP",
+        "Mathematics",
+        "Closure (psychology)",
+        "Algorithm",
+        "Search tree"
+      ],
+      "doi": "10.1109/tro.2004.829500",
+      "coauthors": [
+        "Miu-Ling Lam",
+        "Dan Ding"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "T-RO",
+      "title": "Formation Control of Nonholonomic Mobile Robots Without Position and Velocity Measurements",
+      "cites": 128,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Control theory (sociology)",
+        "Mobile robot",
+        "Kinematics",
+        "Computer science",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/tro.2017.2776304",
+      "coauthors": [
+        "Xinwu Liang",
+        "Hesheng Wang",
+        "Weidong Chen",
+        "Tao Liu"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "IJRR",
+      "title": "Computing n-Finger Form-Closure Grasps on Polygonal Objects",
+      "cites": 124,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Closure (psychology)",
+        "GRASP",
+        "Polytope",
+        "Regular polygon",
+        "Polygon (computer graphics)"
+      ],
+      "doi": "10.1177/02783640022066798",
+      "coauthors": []
+    },
+    {
+      "year": 2013,
+      "venue": "T-RO",
+      "title": "Model-Free Visually Servoed Deformation Control of Elastic Objects by Robot Manipulators",
+      "cites": 120,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Jacobian matrix and determinant",
+        "Control theory (sociology)",
+        "Controller (irrigation)",
+        "Computer science",
+        "Robotics"
+      ],
+      "doi": "10.1109/tro.2013.2275651",
+      "coauthors": [
+        "David Navarro-Alarcon",
+        "José Guadalupe Romero",
+        "Peng Li"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-RO",
+      "title": "Dynamic Visual Tracking for Manipulators Using an Uncalibrated Fixed Camera",
+      "cites": 116,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Jacobian matrix and determinant",
+        "Moore–Penrose pseudoinverse",
+        "Control theory (sociology)",
+        "Image plane",
+        "Visual servoing"
+      ],
+      "doi": "10.1109/tro.2007.895091",
+      "coauthors": [
+        "Hesheng Wang",
+        "Dongxiang Zhou"
+      ]
+    },
+    {
+      "year": 1998,
+      "venue": "IJRR",
+      "title": "Decentralized Adaptive and Nonadaptive Position/Force Controllers for Redundant Manipulators in Cooperations",
+      "cites": 92,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Control theory (sociology)",
+        "Position (finance)",
+        "Controller (irrigation)",
+        "Decoupling (probability)",
+        "Computer science"
+      ],
+      "doi": "10.1177/027836499801700302",
+      "coauthors": [
+        "Suguru Arimoto"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Yun-Hui Liu: 37년에 걸쳐 159편, 총 3,709회 인용, h=31, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1989년 \"A practical algorithm for planning collision-free coordinated motion of multiple mobile robots\"으로 출발.",
+        "초기 토픽: Robot, Mobile robot, Motion planning. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.36 → 점진적 이동형.",
+        "저자수 평균: 초기 2.7명 → 후기 6.5명 (팀 확장).",
+        "최다 인용 논문 \"Uncalibrated visual servoing of robots using a depth-independent interaction matrix\" (2006, 309회) — 커리어 중기에 위치.",
+        "제자 후보 추정 42명 — 상위: Zhe Liu(2015~, 우리 마지막저자 12편), Shunbo Zhou(2018~, 우리 마지막저자 11편), Wen Chen(2019~, 우리 마지막저자 10편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "42명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Yun-Hui Liu: over 37 years, 159 papers, 3,709 total cites, h=31, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1989 with \"A practical algorithm for planning collision-free coordinated motion of multiple mobile robots\".",
+        "Early topics: Robot, Mobile robot, Motion planning. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.36 → gradual shift.",
+        "Authors per paper: early 2.7 → late 6.5 (team growth).",
+        "Peak paper \"Uncalibrated visual servoing of robots using a depth-independent interaction matrix\" (2006, 309 cites) — fell in mid career.",
+        "42 likely students — top: Zhe Liu(2015~, we last-author on 12), Shunbo Zhou(2018~, we last-author on 11), Wen Chen(2019~, we last-author on 10)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "42 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

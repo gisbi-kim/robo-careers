@@ -1,0 +1,1352 @@
+{
+  "name": "Ian D. Walker",
+  "slug": "ian-d-walker",
+  "career_stats": {
+    "first_year": 1988,
+    "last_year": 2024,
+    "span": 37,
+    "total_papers": 120,
+    "total_cites": 6210,
+    "h_index": 39,
+    "i10_index": 92,
+    "seminal_count": 1,
+    "max_cites_single_paper": 934
+  },
+  "role_distribution": {
+    "first": 7,
+    "middle": 39,
+    "last": 74
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1988,
+      "title": "Dynamic task distribution for multiple cooperating robot manipulators"
+    },
+    "first_100cite": {
+      "year": 1990,
+      "title": "The use of kinematic redundancy in reducing impact and contact effects in manipulation",
+      "cites": 131,
+      "gap_from_first": 2
+    },
+    "first_500cite": {
+      "year": 2006,
+      "title": "Kinematics for multisection continuum robots",
+      "cites": 934,
+      "gap_from_first": 18
+    },
+    "peak_paper": {
+      "year": 2006,
+      "title": "Kinematics for multisection continuum robots",
+      "cites": 934
+    }
+  },
+  "year_series": {
+    "1988": {
+      "n": 1,
+      "cites": 37,
+      "max_cites": 37
+    },
+    "1989": {
+      "n": 1,
+      "cites": 40,
+      "max_cites": 40
+    },
+    "1990": {
+      "n": 1,
+      "cites": 131,
+      "max_cites": 131
+    },
+    "1991": {
+      "n": 2,
+      "cites": 228,
+      "max_cites": 196
+    },
+    "1992": {
+      "n": 2,
+      "cites": 67,
+      "max_cites": 66
+    },
+    "1993": {
+      "n": 8,
+      "cites": 186,
+      "max_cites": 46
+    },
+    "1994": {
+      "n": 3,
+      "cites": 34,
+      "max_cites": 24
+    },
+    "1995": {
+      "n": 3,
+      "cites": 24,
+      "max_cites": 10
+    },
+    "1996": {
+      "n": 2,
+      "cites": 16,
+      "max_cites": 15
+    },
+    "1997": {
+      "n": 2,
+      "cites": 69,
+      "max_cites": 61
+    },
+    "1998": {
+      "n": 4,
+      "cites": 43,
+      "max_cites": 16
+    },
+    "1999": {
+      "n": 2,
+      "cites": 41,
+      "max_cites": 37
+    },
+    "2000": {
+      "n": 5,
+      "cites": 323,
+      "max_cites": 144
+    },
+    "2001": {
+      "n": 4,
+      "cites": 97,
+      "max_cites": 29
+    },
+    "2002": {
+      "n": 3,
+      "cites": 78,
+      "max_cites": 52
+    },
+    "2003": {
+      "n": 3,
+      "cites": 375,
+      "max_cites": 345
+    },
+    "2004": {
+      "n": 3,
+      "cites": 176,
+      "max_cites": 103
+    },
+    "2005": {
+      "n": 4,
+      "cites": 454,
+      "max_cites": 233
+    },
+    "2006": {
+      "n": 7,
+      "cites": 1637,
+      "max_cites": 934
+    },
+    "2007": {
+      "n": 5,
+      "cites": 436,
+      "max_cites": 187
+    },
+    "2008": {
+      "n": 1,
+      "cites": 56,
+      "max_cites": 56
+    },
+    "2009": {
+      "n": 1,
+      "cites": 3,
+      "max_cites": 3
+    },
+    "2010": {
+      "n": 2,
+      "cites": 16,
+      "max_cites": 11
+    },
+    "2011": {
+      "n": 4,
+      "cites": 236,
+      "max_cites": 88
+    },
+    "2012": {
+      "n": 5,
+      "cites": 95,
+      "max_cites": 38
+    },
+    "2013": {
+      "n": 4,
+      "cites": 108,
+      "max_cites": 49
+    },
+    "2014": {
+      "n": 3,
+      "cites": 59,
+      "max_cites": 33
+    },
+    "2015": {
+      "n": 4,
+      "cites": 152,
+      "max_cites": 86
+    },
+    "2016": {
+      "n": 3,
+      "cites": 134,
+      "max_cites": 96
+    },
+    "2017": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2018": {
+      "n": 5,
+      "cites": 199,
+      "max_cites": 110
+    },
+    "2019": {
+      "n": 7,
+      "cites": 153,
+      "max_cites": 48
+    },
+    "2020": {
+      "n": 7,
+      "cites": 360,
+      "max_cites": 206
+    },
+    "2021": {
+      "n": 1,
+      "cites": 86,
+      "max_cites": 86
+    },
+    "2022": {
+      "n": 4,
+      "cites": 48,
+      "max_cites": 16
+    },
+    "2023": {
+      "n": 2,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "2024": {
+      "n": 2,
+      "cites": 9,
+      "max_cites": 8
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1988,
+      "end": 1992,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.171
+        },
+        {
+          "c": "Manipulator (device)",
+          "w": 0.086
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.086
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.086
+        },
+        {
+          "c": "Robot",
+          "w": 0.086
+        }
+      ]
+    },
+    {
+      "start": 1993,
+      "end": 1997,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.122
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.056
+        },
+        {
+          "c": "Robot",
+          "w": 0.044
+        },
+        {
+          "c": "Jacobian matrix and determinant",
+          "w": 0.033
+        },
+        {
+          "c": "Inverse kinematics",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Robot",
+          "w": 0.144
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.089
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.033
+        },
+        {
+          "c": "Robot manipulator",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.164
+        },
+        {
+          "c": "Computer science",
+          "w": 0.145
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.055
+        },
+        {
+          "c": "Actuator",
+          "w": 0.055
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.045
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.108
+        },
+        {
+          "c": "Robot",
+          "w": 0.108
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.062
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.046
+        },
+        {
+          "c": "Robot kinematics",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.143
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.086
+        },
+        {
+          "c": "Robot",
+          "w": 0.071
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.057
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.117
+        },
+        {
+          "c": "Computer science",
+          "w": 0.108
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.05
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.033
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.1
+        },
+        {
+          "c": "Computer science",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Robot end effector",
+          "w": 0.05
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1988,
+      "end": 1992,
+      "mix": {
+        "ICRA": 5,
+        "IJRR": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1993,
+      "end": 1997,
+      "mix": {
+        "ICRA": 15,
+        "IROS": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "ICRA": 12,
+        "IROS": 6
+      }
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "IROS": 8,
+        "ICRA": 7,
+        "T-RO": 6,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "IROS": 10,
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 5,
+        "SoRo": 2
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "ICRA": 8,
+        "RA-L": 5,
+        "IROS": 4,
+        "T-Mech": 2,
+        "IJRR": 2,
+        "T-RO": 1,
+        "SoRo": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "mix": {
+        "ICRA": 2,
+        "IROS": 1,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1988,
+      "end": 1992,
+      "mean_n_authors": 2.71,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "Robert A. Freeman",
+          4
+        ],
+        [
+          "Steven I. Marcus",
+          3
+        ],
+        [
+          "Byung-Ju Yi",
+          1
+        ],
+        [
+          "Delbert Tesar",
+          1
+        ],
+        [
+          "Arati S. Deo",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1993,
+      "end": 1997,
+      "mean_n_authors": 2.22,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Yu-Che Chen",
+          5
+        ],
+        [
+          "Arati S. Deo",
+          3
+        ],
+        [
+          "Joseph R. Cavallaro",
+          3
+        ],
+        [
+          "Monica L. Visinsky",
+          2
+        ],
+        [
+          "Deirdre L. Hamilton",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 2.56,
+      "unique_coauthors": 15,
+      "top_coauthors": [
+        [
+          "Ian A. Gravagne",
+          7
+        ],
+        [
+          "Ann M. Ramos",
+          2
+        ],
+        [
+          "Joseph R. Cavallaro",
+          2
+        ],
+        [
+          "Martin L. Leuschen",
+          2
+        ],
+        [
+          "Warren E. Dixon",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 4,
+      "unique_coauthors": 26,
+      "top_coauthors": [
+        [
+          "Bryan A. Jones",
+          11
+        ],
+        [
+          "Darren M. Dawson",
+          7
+        ],
+        [
+          "William McMahan",
+          6
+        ],
+        [
+          "Christopher D. Rahn",
+          4
+        ],
+        [
+          "Matthew A. Csencsits",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 5,
+      "unique_coauthors": 37,
+      "top_coauthors": [
+        [
+          "Bryan Willimon",
+          4
+        ],
+        [
+          "Stan Birchfield",
+          4
+        ],
+        [
+          "Apoorva Kapadia",
+          3
+        ],
+        [
+          "Keith Evan Green",
+          3
+        ],
+        [
+          "Henrique Houayek",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 3.71,
+      "unique_coauthors": 26,
+      "top_coauthors": [
+        [
+          "Isuru S. Godage",
+          6
+        ],
+        [
+          "Bryan Willimon",
+          3
+        ],
+        [
+          "Apoorva Kapadia",
+          3
+        ],
+        [
+          "Stan Birchfield",
+          2
+        ],
+        [
+          "Manas M. Tonapi",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 5.62,
+      "unique_coauthors": 61,
+      "top_coauthors": [
+        [
+          "Chase G. Frazelle",
+          7
+        ],
+        [
+          "S. M. Hadi Sadati",
+          6
+        ],
+        [
+          "Kaspar Althoefer",
+          6
+        ],
+        [
+          "Apoorva D. Kapadia",
+          4
+        ],
+        [
+          "D. P. Thrishantha Nanayakkara",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2024,
+      "mean_n_authors": 4.25,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Manu Srivastava",
+          2
+        ],
+        [
+          "Richard Groff",
+          1
+        ],
+        [
+          "Chenghao Yang",
+          1
+        ],
+        [
+          "David T. Branson",
+          1
+        ],
+        [
+          "Jian S. Dai",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.238,
+  "top_repeat_coauthors": [
+    {
+      "name": "Bryan A. Jones",
+      "count": 12,
+      "first_year": 2005,
+      "last_year": 2008
+    },
+    {
+      "name": "Isuru S. Godage",
+      "count": 10,
+      "first_year": 2014,
+      "last_year": 2020
+    },
+    {
+      "name": "Darren M. Dawson",
+      "count": 9,
+      "first_year": 2000,
+      "last_year": 2007
+    },
+    {
+      "name": "Chase G. Frazelle",
+      "count": 8,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Ian A. Gravagne",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2002
+    },
+    {
+      "name": "Apoorva Kapadia",
+      "count": 7,
+      "first_year": 2010,
+      "last_year": 2018
+    },
+    {
+      "name": "Bryan Willimon",
+      "count": 7,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "S. M. Hadi Sadati",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2021
+    },
+    {
+      "name": "Kaspar Althoefer",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2021
+    },
+    {
+      "name": "Yu-Che Chen",
+      "count": 6,
+      "first_year": 1992,
+      "last_year": 1995
+    },
+    {
+      "name": "William McMahan",
+      "count": 6,
+      "first_year": 2005,
+      "last_year": 2007
+    },
+    {
+      "name": "Stan Birchfield",
+      "count": 6,
+      "first_year": 2010,
+      "last_year": 2013
+    },
+    {
+      "name": "Joseph R. Cavallaro",
+      "count": 5,
+      "first_year": 1993,
+      "last_year": 2002
+    },
+    {
+      "name": "Christopher D. Rahn",
+      "count": 5,
+      "first_year": 2001,
+      "last_year": 2007
+    },
+    {
+      "name": "Yanfei Liu",
+      "count": 5,
+      "first_year": 2001,
+      "last_year": 2006
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Bryan A. Jones",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 6,
+      "we_last_author_count": 10,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Ian A. Gravagne",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 6,
+      "we_last_author_count": 7,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Chase G. Frazelle",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Isuru S. Godage",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Apoorva Kapadia",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Yanfei Liu",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "William McMahan",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Bryan Willimon",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 6,
+      "we_last_author_count": 3,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Manu Srivastava",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Phanideep S. Gonthina",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Matthew A. Csencsits",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "S. M. Hadi Sadati",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Michael B. Wooten",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Ann M. Ramos",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1999
+    },
+    {
+      "name": "Michael W. Hannan",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Michael L. McIntyre",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Manas M. Tonapi",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Ali Shiva",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Srinivas Neppalli",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Martin L. Leuschen",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Warren E. Dixon",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Enver Tatlicioglu",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Monica L. Visinsky",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 1994
+    },
+    {
+      "name": "Deirdre L. Hamilton",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 1996
+    },
+    {
+      "name": "Chenghao Yang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jessica Merino",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Anthony Threatt",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1988,
+      1997
+    ],
+    "early_mean_n_authors": 2.36,
+    "late_window": [
+      2015,
+      2024
+    ],
+    "late_mean_n_authors": 5.17
+  },
+  "citation_half_life_years": 20.0,
+  "bursts": {
+    "productivity": [
+      1993
+    ],
+    "impact": [
+      2006
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2006,
+      "venue": "T-RO",
+      "title": "Kinematics for multisection continuum robots",
+      "cites": 934,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Kinematics",
+        "Workspace",
+        "Cartesian coordinate system",
+        "Robot",
+        "Actuator"
+      ],
+      "doi": "10.1109/tro.2005.861458",
+      "coauthors": [
+        "Bryan A. Jones"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Field Trials and Testing of the OctArm Continuum Manipulator",
+      "cites": 412,
+      "n_authors": 10,
+      "role": "middle",
+      "concepts": [
+        "Software deployment",
+        "Robot",
+        "Computer science",
+        "Robot manipulator",
+        "Series (stratigraphy)"
+      ],
+      "doi": "10.1109/robot.2006.1642051",
+      "coauthors": [
+        "William McMahan",
+        "Vilas K. Chitrakaran",
+        "Matthew A. Csencsits",
+        "Darren M. Dawson",
+        "Bryan A. Jones",
+        "Michael B. Pritts",
+        "D. Dienno",
+        "Michael D. Grissom",
+        "Christopher D. Rahn"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "T-Mech",
+      "title": "Large deflection dynamics and control for planar continuum robots",
+      "cites": 345,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Deflection (physics)",
+        "Planar",
+        "Kinematics",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/tmech.2003.812829",
+      "coauthors": [
+        "Ian Gravagne",
+        "Christopher D. Rahn"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "T-RO",
+      "title": "Practical Kinematics for Real-Time Implementation of Continuum Robots",
+      "cites": 237,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Workspace",
+        "Kinematics",
+        "Actuator",
+        "Configuration space"
+      ],
+      "doi": "10.1109/tro.2006.886268",
+      "coauthors": [
+        "Bryan A. Jones"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "IROS",
+      "title": "Design and implementation of a multi-section continuum robot: Air-Octor",
+      "cites": 233,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Kinematics",
+        "Section (typography)",
+        "Extension (predicate logic)",
+        "Stiffness"
+      ],
+      "doi": "10.1109/iros.2005.1545487",
+      "coauthors": [
+        "William McMahan",
+        "Bryan A. Jones"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "IJRR",
+      "title": "Geometric constraint-based modeling and analysis of a novel continuum robot with Shape Memory Alloy initiated variable stiffness",
+      "cites": 206,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Stiffness",
+        "Shape-memory alloy",
+        "Compliant mechanism",
+        "Robot",
+        "Mechanism (biology)"
+      ],
+      "doi": "10.1177/0278364920913929",
+      "coauthors": [
+        "Chenghao Yang",
+        "Shineng Geng",
+        "David T. Branson",
+        "Jinguo Liu",
+        "Jian S. Dai",
+        "Rongjie Kang"
+      ]
+    },
+    {
+      "year": 1991,
+      "venue": "IJRR",
+      "title": "Analysis of Motion and Internal Loading of Objects Grasped by Multiple Cooperating Manipulators",
+      "cites": 196,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Object (grammar)",
+        "Motion (physics)",
+        "Representation (politics)",
+        "Computer science",
+        "Manipulator (device)"
+      ],
+      "doi": "10.1177/027836499101000408",
+      "coauthors": [
+        "Robert A. Freeman",
+        "Steven I. Marcus"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-RO",
+      "title": "A Neural Network Controller for Continuum Robots",
+      "cites": 187,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Feed forward",
+        "Robot",
+        "Artificial neural network",
+        "Component (thermodynamics)",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/tro.2007.906248",
+      "coauthors": [
+        "David Braganza",
+        "Darren M. Dawson",
+        "Nitendra Nath"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "On the Kinematics of Remotely-Actuated Continuum Robots",
+      "cites": 144,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Kinematics",
+        "Robot",
+        "Computer science",
+        "Robot kinematics",
+        "Class (philosophy)"
+      ],
+      "doi": "10.1109/robot.2000.846411",
+      "coauthors": [
+        "Ian A. Gravagne"
+      ]
+    },
+    {
+      "year": 1990,
+      "venue": "ICRA",
+      "title": "The use of kinematic redundancy in reducing impact and contact effects in manipulation",
+      "cites": 131,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Redundancy (engineering)",
+        "Kinematics",
+        "Robot manipulator",
+        "Computer science",
+        "Robot"
+      ],
+      "doi": "10.1109/robot.1990.126016",
+      "coauthors": []
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Ian D. Walker: 37년에 걸쳐 120편, 총 6,210회 인용, h=39, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "1988년 \"Dynamic task distribution for multiple cooperating robot manipulators\"으로 출발. 첫 500+ 인용 논문까지 18년 걸림: \"Kinematics for multisection continuum robots\" (2006, 934회).",
+        "초기 토픽: Computer science, Manipulator (device), Object (grammar). 최근 토픽: Robot, Kinematics, Computer science. 피벗 점수 0.24 → 토픽 지속형.",
+        "저자수 평균: 초기 2.4명 → 후기 5.2명 (팀 확장).",
+        "최다 인용 논문 \"Kinematics for multisection continuum robots\" (2006, 934회) — 커리어 중기에 위치.",
+        "제자 후보 추정 27명 — 상위: Bryan A. Jones(2005~, 우리 마지막저자 10편), Ian A. Gravagne(1998~, 우리 마지막저자 7편), Chase G. Frazelle(2016~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "27명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Ian D. Walker: over 37 years, 120 papers, 6,210 total cites, h=39, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1988 with \"Dynamic task distribution for multiple cooperating robot manipulators\". First 500+ cite paper came 18 years in: \"Kinematics for multisection continuum robots\" (2006, 934 cites).",
+        "Early topics: Computer science, Manipulator (device), Object (grammar). Recent topics: Robot, Kinematics, Computer science. Pivot score 0.24 → topic-stable.",
+        "Authors per paper: early 2.4 → late 5.2 (team growth).",
+        "Peak paper \"Kinematics for multisection continuum robots\" (2006, 934 cites) — fell in mid career.",
+        "27 likely students — top: Bryan A. Jones(2005~, we last-author on 10), Ian A. Gravagne(1998~, we last-author on 7), Chase G. Frazelle(2016~, we last-author on 6)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "27 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

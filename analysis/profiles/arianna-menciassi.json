@@ -1,0 +1,1240 @@
+{
+  "name": "Arianna Menciassi",
+  "slug": "arianna-menciassi",
+  "career_stats": {
+    "first_year": 1998,
+    "last_year": 2025,
+    "span": 28,
+    "total_papers": 98,
+    "total_cites": 6501,
+    "h_index": 41,
+    "i10_index": 79,
+    "seminal_count": 2,
+    "max_cites_single_paper": 520
+  },
+  "role_distribution": {
+    "middle": 58,
+    "first": 9,
+    "last": 31
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1998,
+      "title": "Manipulating Biological and Mechanical Micro-Objects using LIGA-microfabricated End-Effectors"
+    },
+    "first_100cite": {
+      "year": 2003,
+      "title": "Force sensing microinstrument for measuring tissue properties and pulse in microsurgery",
+      "cites": 134,
+      "gap_from_first": 5
+    },
+    "first_500cite": {
+      "year": 2014,
+      "title": "Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach",
+      "cites": 520,
+      "gap_from_first": 16
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach",
+      "cites": 520
+    }
+  },
+  "year_series": {
+    "1998": {
+      "n": 1,
+      "cites": 51,
+      "max_cites": 51
+    },
+    "1999": {
+      "n": 1,
+      "cites": 7,
+      "max_cites": 7
+    },
+    "2000": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2001": {
+      "n": 1,
+      "cites": 70,
+      "max_cites": 70
+    },
+    "2002": {
+      "n": 4,
+      "cites": 146,
+      "max_cites": 67
+    },
+    "2003": {
+      "n": 4,
+      "cites": 177,
+      "max_cites": 134
+    },
+    "2004": {
+      "n": 4,
+      "cites": 440,
+      "max_cites": 159
+    },
+    "2005": {
+      "n": 2,
+      "cites": 55,
+      "max_cites": 42
+    },
+    "2006": {
+      "n": 2,
+      "cites": 75,
+      "max_cites": 70
+    },
+    "2007": {
+      "n": 6,
+      "cites": 129,
+      "max_cites": 78
+    },
+    "2008": {
+      "n": 1,
+      "cites": 159,
+      "max_cites": 159
+    },
+    "2009": {
+      "n": 4,
+      "cites": 318,
+      "max_cites": 269
+    },
+    "2010": {
+      "n": 5,
+      "cites": 402,
+      "max_cites": 173
+    },
+    "2011": {
+      "n": 3,
+      "cites": 98,
+      "max_cites": 46
+    },
+    "2012": {
+      "n": 7,
+      "cites": 189,
+      "max_cites": 77
+    },
+    "2013": {
+      "n": 6,
+      "cites": 389,
+      "max_cites": 287
+    },
+    "2014": {
+      "n": 5,
+      "cites": 885,
+      "max_cites": 520
+    },
+    "2015": {
+      "n": 3,
+      "cites": 223,
+      "max_cites": 109
+    },
+    "2016": {
+      "n": 5,
+      "cites": 645,
+      "max_cites": 247
+    },
+    "2017": {
+      "n": 2,
+      "cites": 725,
+      "max_cites": 511
+    },
+    "2018": {
+      "n": 3,
+      "cites": 86,
+      "max_cites": 51
+    },
+    "2019": {
+      "n": 2,
+      "cites": 117,
+      "max_cites": 103
+    },
+    "2020": {
+      "n": 4,
+      "cites": 141,
+      "max_cites": 65
+    },
+    "2021": {
+      "n": 5,
+      "cites": 587,
+      "max_cites": 465
+    },
+    "2022": {
+      "n": 7,
+      "cites": 195,
+      "max_cites": 44
+    },
+    "2023": {
+      "n": 7,
+      "cites": 181,
+      "max_cites": 57
+    },
+    "2024": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "2025": {
+      "n": 3,
+      "cites": 5,
+      "max_cites": 4
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.161
+        },
+        {
+          "c": "Materials science",
+          "w": 0.097
+        },
+        {
+          "c": "Engineering",
+          "w": 0.065
+        },
+        {
+          "c": "LIGA",
+          "w": 0.032
+        },
+        {
+          "c": "Mechanical engineering",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Robot",
+          "w": 0.056
+        },
+        {
+          "c": "Biomedical engineering",
+          "w": 0.033
+        },
+        {
+          "c": "Simulation",
+          "w": 0.033
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.12
+        },
+        {
+          "c": "Robot",
+          "w": 0.09
+        },
+        {
+          "c": "Mechanism (biology)",
+          "w": 0.05
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.04
+        },
+        {
+          "c": "Magnet",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.105
+        },
+        {
+          "c": "Actuator",
+          "w": 0.048
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.029
+        },
+        {
+          "c": "Miniaturization",
+          "w": 0.029
+        },
+        {
+          "c": "Robot",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.124
+        },
+        {
+          "c": "Actuator",
+          "w": 0.057
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.048
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.038
+        },
+        {
+          "c": "Robot",
+          "w": 0.038
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.182
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.091
+        },
+        {
+          "c": "Robot",
+          "w": 0.055
+        },
+        {
+          "c": "Actuator",
+          "w": 0.036
+        },
+        {
+          "c": "Robotics",
+          "w": 0.036
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 3
+      }
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 3,
+        "T-Mech": 3,
+        "IJRR": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 10,
+        "T-Mech": 6,
+        "T-RO": 3,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 5,
+        "T-Mech": 5,
+        "IROS": 3,
+        "SoRo": 3,
+        "T-RO": 2,
+        "IJRR": 1,
+        "RA-L": 1,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "SoRo": 7,
+        "RA-L": 6,
+        "ICRA": 3,
+        "IROS": 2,
+        "Sci-Rob": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "RA-L": 6,
+        "T-RO": 4,
+        "ICRA": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 5.14,
+      "unique_coauthors": 20,
+      "top_coauthors": [
+        [
+          "Paolo Dario",
+          6
+        ],
+        [
+          "Maria Chiara Carrozza",
+          2
+        ],
+        [
+          "Anna Eisinberg",
+          2
+        ],
+        [
+          "Samuele Gorini",
+          2
+        ],
+        [
+          "Jong-Oh Park",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 4.83,
+      "unique_coauthors": 35,
+      "top_coauthors": [
+        [
+          "Paolo Dario",
+          18
+        ],
+        [
+          "Cesare Stefanini",
+          4
+        ],
+        [
+          "Byungkyu Kim",
+          3
+        ],
+        [
+          "Samuele Gorini",
+          3
+        ],
+        [
+          "Ivano Izzo",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 5.7,
+      "unique_coauthors": 48,
+      "top_coauthors": [
+        [
+          "Paolo Dario",
+          18
+        ],
+        [
+          "Pietro Valdastri",
+          9
+        ],
+        [
+          "Massimiliano Simi",
+          4
+        ],
+        [
+          "Claudio Quaglia",
+          3
+        ],
+        [
+          "Kanako Harada",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 5.67,
+      "unique_coauthors": 63,
+      "top_coauthors": [
+        [
+          "Tommaso Ranzani",
+          7
+        ],
+        [
+          "Matteo Cianchetti",
+          7
+        ],
+        [
+          "Marco Salerno",
+          5
+        ],
+        [
+          "Paolo Dario",
+          5
+        ],
+        [
+          "Giada Gerboni",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 6.43,
+      "unique_coauthors": 83,
+      "top_coauthors": [
+        [
+          "Linda Paternò",
+          5
+        ],
+        [
+          "Veronica Iacovacci",
+          5
+        ],
+        [
+          "Giuseppe Tortora",
+          3
+        ],
+        [
+          "Edoardo Sinibaldi",
+          3
+        ],
+        [
+          "Leonardo Ricotti",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 6.27,
+      "unique_coauthors": 42,
+      "top_coauthors": [
+        [
+          "Veronica Iacovacci",
+          3
+        ],
+        [
+          "Elena De Momi",
+          3
+        ],
+        [
+          "Emmanuel B. Vander Poorten",
+          3
+        ],
+        [
+          "Linda Paternò",
+          2
+        ],
+        [
+          "Giovanni Faoro",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.291,
+  "top_repeat_coauthors": [
+    {
+      "name": "Paolo Dario",
+      "count": 48,
+      "first_year": 1998,
+      "last_year": 2021
+    },
+    {
+      "name": "Pietro Valdastri",
+      "count": 13,
+      "first_year": 2003,
+      "last_year": 2021
+    },
+    {
+      "name": "Tommaso Ranzani",
+      "count": 9,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Veronica Iacovacci",
+      "count": 9,
+      "first_year": 2014,
+      "last_year": 2024
+    },
+    {
+      "name": "Cesare Stefanini",
+      "count": 7,
+      "first_year": 2003,
+      "last_year": 2025
+    },
+    {
+      "name": "Giuseppe Tortora",
+      "count": 7,
+      "first_year": 2010,
+      "last_year": 2021
+    },
+    {
+      "name": "Edoardo Sinibaldi",
+      "count": 7,
+      "first_year": 2010,
+      "last_year": 2022
+    },
+    {
+      "name": "Matteo Cianchetti",
+      "count": 7,
+      "first_year": 2013,
+      "last_year": 2017
+    },
+    {
+      "name": "Linda Paternò",
+      "count": 7,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Marco Salerno",
+      "count": 6,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Elena De Momi",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Samuele Gorini",
+      "count": 5,
+      "first_year": 2002,
+      "last_year": 2005
+    },
+    {
+      "name": "Gastone Ciuti",
+      "count": 5,
+      "first_year": 2012,
+      "last_year": 2022
+    },
+    {
+      "name": "Giada Gerboni",
+      "count": 5,
+      "first_year": 2013,
+      "last_year": 2017
+    },
+    {
+      "name": "Mouloud Ourak",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2023
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Paolo Dario",
+      "advisor_active_from": 1985,
+      "early_copubs_as_our_first_author": 4,
+      "advisor_last_author_count": 3,
+      "total_copubs": 48
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Tommaso Ranzani",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Linda Paternò",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Matteo Cianchetti",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Giada Gerboni",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Marco Salerno",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Giovanni Faoro",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Stefano Pane",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Veronica Iacovacci",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Canberk Sozer",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Gastone Ciuti",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Izadyar Tamadon",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Giada Casagrande",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Tommaso Mazzocchi",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Michele Ibrahimi",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Giuseppe Tortora",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Massimiliano Simi",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Xuan Thao Ha",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Marco Quirini",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Stefano Palagi",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Ameya Pore",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Kanako Harada",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Andrea Mariani",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Dimitris P. Tsakiris",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Gianni La Spina",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Martina Finocchiaro",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Tommaso Da Col",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Angela Peloso",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xiu Zhang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1998,
+      2007
+    ],
+    "early_mean_n_authors": 4.92,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 6.38
+  },
+  "citation_half_life_years": 12,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2014,
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "SoRo",
+      "title": "Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach",
+      "cites": 520,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Invasive surgery",
+        "Robotics",
+        "Soft robotics",
+        "Minimally invasive procedures",
+        "Haptic technology"
+      ],
+      "doi": "10.1089/soro.2014.0001",
+      "coauthors": [
+        "Matteo Cianchetti",
+        "Tommaso Ranzani",
+        "Giada Gerboni",
+        "Thrishantha Nanayakkara",
+        "Kaspar Althoefer",
+        "Prokar Dasgupta"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "Sci-Rob",
+      "title": "Biohybrid actuators for robotics: A review of devices actuated by living cells",
+      "cites": 511,
+      "n_authors": 9,
+      "role": "last",
+      "concepts": [
+        "Interfacing",
+        "Bottleneck",
+        "Exploit",
+        "Computer science",
+        "Actuator"
+      ],
+      "doi": "10.1126/scirobotics.aaq0495",
+      "coauthors": [
+        "Barry Trimmer",
+        "Adam W. Feinberg",
+        "Ritu Raman",
+        "Kevin Kit Parker",
+        "Rashid Bashir",
+        "Metin Sitti",
+        "Sylvain Martel",
+        "Paolo Dario"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "Sci-Rob",
+      "title": "A decade retrospective of medical robotics research from 2010 to 2020",
+      "cites": 465,
+      "n_authors": 10,
+      "role": "middle",
+      "concepts": [
+        "Robotics",
+        "Artificial intelligence",
+        "Commercialization",
+        "Engineering ethics",
+        "Data science"
+      ],
+      "doi": "10.1126/scirobotics.abi8017",
+      "coauthors": [
+        "Pierre E. Dupont",
+        "Bradley J. Nelson",
+        "Michael Goldfarb",
+        "Blake Hannaford",
+        "Marcia K. O&apos",
+        "Malley",
+        "Nabil Simaan",
+        "Pietro Valdastri",
+        "Guang-Zhong Yang"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IROS",
+      "title": "STIFF-FLOP surgical manipulator: Mechanical design and experimental characterization of the single module",
+      "cites": 287,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Jamming",
+        "Bending",
+        "Actuator",
+        "Bending stiffness",
+        "Stiffness"
+      ],
+      "doi": "10.1109/iros.2013.6696866",
+      "coauthors": [
+        "Matteo Cianchetti",
+        "Tommaso Ranzani",
+        "Giada Gerboni",
+        "Iris De Falco",
+        "Cecilia Laschi"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "T-RO",
+      "title": "A New Mechanism for Mesoscale Legged Locomotion in Compliant Tubular Environments",
+      "cites": 269,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Mechanism (biology)",
+        "Legged robot",
+        "Traverse",
+        "Kinematics",
+        "Mesoscale meteorology"
+      ],
+      "doi": "10.1109/tro.2009.2014127",
+      "coauthors": [
+        "Pietro Valdastri",
+        "Robert J. Webster III",
+        "Claudio Quaglia",
+        "Marco Quirini",
+        "Paolo Dario"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "T-RO",
+      "title": "A Soft Modular Manipulator for Minimally Invasive Surgery: Design and Characterization of a Single Module",
+      "cites": 247,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Modular design",
+        "Fluidics",
+        "Actuator",
+        "Jamming",
+        "Mechanism (biology)"
+      ],
+      "doi": "10.1109/tro.2015.2507160",
+      "coauthors": [
+        "Tommaso Ranzani",
+        "Matteo Cianchetti",
+        "Giada Gerboni",
+        "Iris De Falco"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "SoRo",
+      "title": "Finite Element Analysis and Design Optimization of a Pneumatically Actuating Silicone Module for Robotic Surgery Applications",
+      "cites": 214,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "Finite element method",
+        "Bending",
+        "Parametric statistics",
+        "Mechanical engineering",
+        "Design of experiments"
+      ],
+      "doi": "10.1089/soro.2014.0016",
+      "coauthors": [
+        "Yahya Elsayed",
+        "Augusto Vincensi",
+        "Constantina Lekakou",
+        "Tao Geng",
+        "Chakravarthini M. Saaj",
+        "Tommaso Ranzani",
+        "Matteo Cianchetti"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-Mech",
+      "title": "Feedback Control of Soft Robot Actuators via Commercial Flex Bend Sensors",
+      "cites": 214,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Actuator",
+        "Soft robotics",
+        "Robotics",
+        "Modular design",
+        "FLEX"
+      ],
+      "doi": "10.1109/tmech.2017.2699677",
+      "coauthors": [
+        "Giada Gerboni",
+        "Alessandro Diodato",
+        "Gastone Ciuti",
+        "Matteo Cianchetti"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "RA-L",
+      "title": "Tendon-Based Stiffening for a Pneumatically Actuated Soft Manipulator",
+      "cites": 204,
+      "n_authors": 10,
+      "role": "middle",
+      "concepts": [
+        "Stiffening",
+        "Tendon",
+        "Biomedical engineering",
+        "Materials science",
+        "Manipulator (device)"
+      ],
+      "doi": "10.1109/lra.2016.2523120",
+      "coauthors": [
+        "Ali Shiva",
+        "Agostino Stilli",
+        "Yohan Noh",
+        "Angela Faragasso",
+        "Iris De Falco",
+        "Giada Gerboni",
+        "Matteo Cianchetti",
+        "Kaspar Althoefer",
+        "Helge A. Wurdemann"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "T-Mech",
+      "title": "Design of a Novel Bimanual Robotic System for Single-Port Laparoscopy",
+      "cites": 173,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Teleoperation",
+        "Port (circuit theory)",
+        "Simulation",
+        "Wrist",
+        "Engineering"
+      ],
+      "doi": "10.1109/tmech.2010.2078512",
+      "coauthors": [
+        "Marco Piccigallo",
+        "Umberto Scarfogliero",
+        "Claudio Quaglia",
+        "Gianluigi Petroni",
+        "Pietro Valdastri",
+        "Paolo Dario"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Arianna Menciassi: 28년에 걸쳐 98편, 총 6,501회 인용, h=41, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1998년 \"Manipulating Biological and Mechanical Micro-Objects using LIGA-microfabricated End-Effectors\"으로 출발. 첫 500+ 인용 논문까지 16년 걸림: \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520회).",
+        "초기 토픽: Computer science, Materials science, Engineering. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.29 → 점진적 이동형.",
+        "저자수 평균: 초기 4.9명 → 후기 6.4명 (팀 확장).",
+        "최다 인용 논문 \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Paolo Dario. 제자 후보 추정 28명 — 상위: Tommaso Ranzani(2012~, 우리 마지막저자 7편), Linda Paternò(2018~, 우리 마지막저자 7편), Matteo Cianchetti(2012~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "28명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Paolo Dario — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Arianna Menciassi: over 28 years, 98 papers, 6,501 total cites, h=41, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1998 with \"Manipulating Biological and Mechanical Micro-Objects using LIGA-microfabricated End-Effectors\". First 500+ cite paper came 16 years in: \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520 cites).",
+        "Early topics: Computer science, Materials science, Engineering. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.29 → gradual shift.",
+        "Authors per paper: early 4.9 → late 6.4 (team growth).",
+        "Peak paper \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Paolo Dario. 28 likely students — top: Tommaso Ranzani(2012~, we last-author on 7), Linda Paternò(2018~, we last-author on 7), Matteo Cianchetti(2012~, we last-author on 6)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "28 likely students — mentoring is the real impact.",
+        "Likely advisor: Paolo Dario — started within their PhD network."
+      ]
+    }
+  }
+}

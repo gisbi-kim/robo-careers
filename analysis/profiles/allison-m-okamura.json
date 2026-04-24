@@ -1,0 +1,1377 @@
+{
+  "name": "Allison M. Okamura",
+  "slug": "allison-m-okamura",
+  "career_stats": {
+    "first_year": 1997,
+    "last_year": 2025,
+    "span": 29,
+    "total_papers": 135,
+    "total_cites": 9018,
+    "h_index": 48,
+    "i10_index": 107,
+    "seminal_count": 2,
+    "max_cites_single_paper": 914
+  },
+  "role_distribution": {
+    "first": 8,
+    "middle": 45,
+    "last": 82
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1997,
+      "title": "Haptic exploration of objects with rolling and sliding"
+    },
+    "first_100cite": {
+      "year": 1998,
+      "title": "Vibration Feedback Models for Virtual Environments",
+      "cites": 201,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2006,
+      "title": "Nonholonomic Modeling of Needle Steering",
+      "cites": 619,
+      "gap_from_first": 9
+    },
+    "peak_paper": {
+      "year": 2017,
+      "title": "A soft robot that navigates its environment through growth",
+      "cites": 914
+    }
+  },
+  "year_series": {
+    "1997": {
+      "n": 1,
+      "cites": 85,
+      "max_cites": 85
+    },
+    "1998": {
+      "n": 1,
+      "cites": 201,
+      "max_cites": 201
+    },
+    "1999": {
+      "n": 1,
+      "cites": 46,
+      "max_cites": 46
+    },
+    "2000": {
+      "n": 1,
+      "cites": 464,
+      "max_cites": 464
+    },
+    "2001": {
+      "n": 4,
+      "cites": 427,
+      "max_cites": 228
+    },
+    "2002": {
+      "n": 3,
+      "cites": 301,
+      "max_cites": 195
+    },
+    "2003": {
+      "n": 5,
+      "cites": 371,
+      "max_cites": 103
+    },
+    "2004": {
+      "n": 3,
+      "cites": 309,
+      "max_cites": 260
+    },
+    "2005": {
+      "n": 6,
+      "cites": 1054,
+      "max_cites": 239
+    },
+    "2006": {
+      "n": 4,
+      "cites": 947,
+      "max_cites": 619
+    },
+    "2007": {
+      "n": 5,
+      "cites": 180,
+      "max_cites": 59
+    },
+    "2008": {
+      "n": 1,
+      "cites": 12,
+      "max_cites": 12
+    },
+    "2009": {
+      "n": 6,
+      "cites": 364,
+      "max_cites": 100
+    },
+    "2010": {
+      "n": 4,
+      "cites": 413,
+      "max_cites": 306
+    },
+    "2011": {
+      "n": 2,
+      "cites": 24,
+      "max_cites": 15
+    },
+    "2012": {
+      "n": 2,
+      "cites": 35,
+      "max_cites": 27
+    },
+    "2013": {
+      "n": 4,
+      "cites": 130,
+      "max_cites": 66
+    },
+    "2014": {
+      "n": 5,
+      "cites": 123,
+      "max_cites": 42
+    },
+    "2015": {
+      "n": 9,
+      "cites": 239,
+      "max_cites": 75
+    },
+    "2016": {
+      "n": 8,
+      "cites": 450,
+      "max_cites": 135
+    },
+    "2017": {
+      "n": 8,
+      "cites": 1331,
+      "max_cites": 914
+    },
+    "2018": {
+      "n": 12,
+      "cites": 586,
+      "max_cites": 224
+    },
+    "2019": {
+      "n": 4,
+      "cites": 103,
+      "max_cites": 45
+    },
+    "2020": {
+      "n": 12,
+      "cites": 563,
+      "max_cites": 144
+    },
+    "2021": {
+      "n": 3,
+      "cites": 19,
+      "max_cites": 13
+    },
+    "2022": {
+      "n": 11,
+      "cites": 151,
+      "max_cites": 33
+    },
+    "2023": {
+      "n": 2,
+      "cites": 17,
+      "max_cites": 13
+    },
+    "2024": {
+      "n": 4,
+      "cites": 72,
+      "max_cites": 30
+    },
+    "2025": {
+      "n": 4,
+      "cites": 1,
+      "max_cites": 1
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1997,
+      "end": 2001,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Feature (linguistics)",
+          "w": 0.075
+        }
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.127
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.049
+        },
+        {
+          "c": "Robot",
+          "w": 0.039
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.039
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.1
+        },
+        {
+          "c": "Bevel",
+          "w": 0.078
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.044
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.044
+        },
+        {
+          "c": "Curvature",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.136
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.079
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.071
+        },
+        {
+          "c": "Robot",
+          "w": 0.064
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 39,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.154
+        },
+        {
+          "c": "Robot",
+          "w": 0.103
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.082
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.046
+        },
+        {
+          "c": "Actuator",
+          "w": 0.036
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Haptic technology",
+          "w": 0.114
+        },
+        {
+          "c": "Computer science",
+          "w": 0.114
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Actuator",
+          "w": 0.057
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.038
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1997,
+      "end": 2001,
+      "mix": {
+        "ICRA": 5,
+        "IJRR": 1,
+        "T-Mech": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "ICRA": 12,
+        "IROS": 5,
+        "T-RO": 2,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "ICRA": 12,
+        "IJRR": 2,
+        "IROS": 2,
+        "T-RO": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "ICRA": 16,
+        "IROS": 3,
+        "IJRR": 3,
+        "T-RO": 2,
+        "RSS": 1,
+        "T-Mech": 1,
+        "Sci-Rob": 1,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "ICRA": 18,
+        "RA-L": 11,
+        "IROS": 4,
+        "Sci-Rob": 2,
+        "T-RO": 2,
+        "SoRo": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "IROS": 7,
+        "RA-L": 5,
+        "ICRA": 3,
+        "T-RO": 3,
+        "SoRo": 2,
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1997,
+      "end": 2001,
+      "mean_n_authors": 2.75,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Mark R. Cutkosky",
+          6
+        ],
+        [
+          "Michael L. Turner",
+          1
+        ],
+        [
+          "Stanford Dennerlein",
+          1
+        ],
+        [
+          "Robert D. Howe",
+          1
+        ],
+        [
+          "Niels Smaby",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 3.76,
+      "unique_coauthors": 33,
+      "top_coauthors": [
+        [
+          "Panadda Marayong",
+          5
+        ],
+        [
+          "Gregory D. Hager",
+          5
+        ],
+        [
+          "Robert J. Webster III",
+          4
+        ],
+        [
+          "Alessandro Bettini",
+          3
+        ],
+        [
+          "Jake J. Abbott",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 4.61,
+      "unique_coauthors": 53,
+      "top_coauthors": [
+        [
+          "Kyle B. Reed",
+          3
+        ],
+        [
+          "Gregory D. Hager",
+          2
+        ],
+        [
+          "Mohsen Mahvash",
+          2
+        ],
+        [
+          "Panadda Marayong",
+          2
+        ],
+        [
+          "David D. Yuh",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 3.89,
+      "unique_coauthors": 53,
+      "top_coauthors": [
+        [
+          "Ilana Nisky",
+          5
+        ],
+        [
+          "Nick Colonnese",
+          4
+        ],
+        [
+          "Kirk A. Nichols",
+          4
+        ],
+        [
+          "Zhan Fan Quek",
+          4
+        ],
+        [
+          "Yuhang Che",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 4.13,
+      "unique_coauthors": 70,
+      "top_coauthors": [
+        [
+          "Laura H. Blumenschein",
+          10
+        ],
+        [
+          "Elliot Wright Hawkes",
+          8
+        ],
+        [
+          "Joseph D. Greer",
+          5
+        ],
+        [
+          "Elliot W. Hawkes",
+          5
+        ],
+        [
+          "Nathan S. Usevitch",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 5.29,
+      "unique_coauthors": 71,
+      "top_coauthors": [
+        [
+          "Brian H. Do",
+          3
+        ],
+        [
+          "O. Godson Osele",
+          3
+        ],
+        [
+          "Hojung Choi",
+          3
+        ],
+        [
+          "Mark R. Cutkosky",
+          3
+        ],
+        [
+          "Mine Sarac",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.252,
+  "top_repeat_coauthors": [
+    {
+      "name": "Laura H. Blumenschein",
+      "count": 12,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "Elliot Wright Hawkes",
+      "count": 11,
+      "first_year": 2014,
+      "last_year": 2022
+    },
+    {
+      "name": "Mark R. Cutkosky",
+      "count": 10,
+      "first_year": 1997,
+      "last_year": 2025
+    },
+    {
+      "name": "Gregory D. Hager",
+      "count": 8,
+      "first_year": 2001,
+      "last_year": 2008
+    },
+    {
+      "name": "Panadda Marayong",
+      "count": 7,
+      "first_year": 2002,
+      "last_year": 2008
+    },
+    {
+      "name": "Joseph D. Greer",
+      "count": 6,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Robert J. Webster III",
+      "count": 5,
+      "first_year": 2003,
+      "last_year": 2007
+    },
+    {
+      "name": "Nick Colonnese",
+      "count": 5,
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "name": "Ilana Nisky",
+      "count": 5,
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "name": "Yuhang Che",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Elliot W. Hawkes",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2020
+    },
+    {
+      "name": "Nathan S. Usevitch",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Margaret M. Coad",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Margaret Koehler",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Brian H. Do",
+      "count": 5,
+      "first_year": 2020,
+      "last_year": 2022
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Mark R. Cutkosky",
+      "advisor_active_from": 1986,
+      "early_copubs_as_our_first_author": 6,
+      "advisor_last_author_count": 5,
+      "total_copubs": 10
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Laura H. Blumenschein",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Nick Colonnese",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Jake J. Abbott",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Joseph D. Greer",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Kirk A. Nichols",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Ilana Nisky",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Yuhang Che",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Zhan Fan Quek",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Robert J. Webster III",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Margaret Koehler",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Zonghe Chua",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Nathan S. Usevitch",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Mine Sarac",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Cosima du Pasquier",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Panadda Marayong",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Julie M. Walker",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Brian H. Do",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Ron Alterovitz",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Tania K. Morimoto",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Mohsen Mahvash",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Jacob M. Suchoski",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Sarthak Misra",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Ann Majewicz",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Dana D. Damian",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Margaret M. Coad",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hojung Choi",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Christina Simone",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Thomas R. Wedlick",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Samuel B. Schorr",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Andrew A. Stanley",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Sean M. Sketch",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Troy K. Adebar",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Jasmin E. Palmer",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "O. Godson Osele",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kyle B. Reed",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Michael Raitor",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Nathaniel Agharese",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Nima Enayati",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Fabio Stroppa",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Carine Rognon",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Cara M. Nunez",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Sophia R. Williams",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Wooram Park",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Amy A. Blank",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Negin Heravi",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Lucia T. Gan",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1997,
+      2006
+    ],
+    "early_mean_n_authors": 3.48,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.4
+  },
+  "citation_half_life_years": 17.0,
+  "bursts": {
+    "productivity": [
+      2018,
+      2020
+    ],
+    "impact": [
+      2005,
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2017,
+      "venue": "Sci-Rob",
+      "title": "A soft robot that navigates its environment through growth",
+      "cites": 914,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Computer science",
+        "Human–computer interaction",
+        "Materials science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1126/scirobotics.aan3028",
+      "coauthors": [
+        "Laura H. Blumenschein",
+        "Joseph D. Greer"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Nonholonomic Modeling of Needle Steering",
+      "cites": 619,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Bevel",
+        "Nonholonomic system",
+        "Kinematics",
+        "Computer science",
+        "Motion planning"
+      ],
+      "doi": "10.1177/0278364906065388",
+      "coauthors": [
+        "Robert J. Webster III",
+        "Jin Seob Kim",
+        "Noah J. Cowan",
+        "Gregory S. Chirikjian"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "An Overview of Dexterous Manipulation",
+      "cites": 464,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "GRASP",
+        "Computer science",
+        "Robotics",
+        "Kinematics",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/robot.2000.844067",
+      "coauthors": [
+        "Niels Smaby",
+        "Mark R. Cutkosky"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IJRR",
+      "title": "Mechanics of Flexible Needles Robotically Steered through Soft Tissue",
+      "cites": 306,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Bevel",
+        "Deflection (physics)",
+        "Curvature",
+        "Kinematics",
+        "Radius of curvature"
+      ],
+      "doi": "10.1177/0278364910369714",
+      "coauthors": [
+        "Sarthak Misra",
+        "Kyle B. Reed",
+        "Benjamin W. Schafer",
+        "K. T. Ramesh"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "T-RO",
+      "title": "Vision-assisted control for manipulation using virtual fixtures",
+      "cites": 260,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Fixture",
+        "Trajectory",
+        "Haptic technology",
+        "Robot"
+      ],
+      "doi": "10.1109/tro.2004.829483",
+      "coauthors": [
+        "Alessandro Bettini",
+        "Panadda Marayong",
+        "Samuel Lang",
+        "Gregory D. Hager"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "Toward Active Cannulas: Miniature Snake-Like Surgical Robots",
+      "cites": 252,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Surgical robot",
+        "Kinematics",
+        "Miniaturization",
+        "Robot",
+        "Cannula"
+      ],
+      "doi": "10.1109/iros.2006.282073",
+      "coauthors": [
+        "Robert J. Webster III",
+        "Noah J. Cowan"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Planning for Steerable Bevel-tip Needle Insertion Through 2D Soft Tissue with Obstacles",
+      "cites": 239,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Bevel",
+        "Soft tissue",
+        "Computer science",
+        "Orientation (vector space)",
+        "Finite element method"
+      ],
+      "doi": "10.1109/robot.2005.1570348",
+      "coauthors": [
+        "Ron Alterovitz",
+        "Kenneth Y. Goldberg"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "T-Mech",
+      "title": "Reality-based models for vibration feedback in virtual environments",
+      "cites": 228,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Haptic technology",
+        "Virtual reality",
+        "Stylus",
+        "Vibration",
+        "Computer science"
+      ],
+      "doi": "10.1109/3516.951362",
+      "coauthors": [
+        "Mark R. Cutkosky",
+        "Jack T. Dennerlein"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "SoRo",
+      "title": "A Soft, Steerable Continuum Robot That Grows via Tip Extension",
+      "cites": 224,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Kinematics",
+        "Cartesian coordinate robot",
+        "Bang-bang robot",
+        "Soft robotics"
+      ],
+      "doi": "10.1089/soro.2018.0034",
+      "coauthors": [
+        "Joseph A. Greer",
+        "Tania K. Morimoto",
+        "Elliot W. Hawkes"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "T-RO",
+      "title": "Effects of position quantization and sampling rate on virtual-wall passivity",
+      "cites": 205,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Haptic technology",
+        "Passivity",
+        "Control theory (sociology)",
+        "Actuator",
+        "Encoder"
+      ],
+      "doi": "10.1109/tro.2005.851377",
+      "coauthors": [
+        "Jake J. Abbott"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Allison M. Okamura: 29년에 걸쳐 135편, 총 9,018회 인용, h=48, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1997년 \"Haptic exploration of objects with rolling and sliding\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"Nonholonomic Modeling of Needle Steering\" (2006, 619회).",
+        "초기 토픽: Computer science, Haptic technology, Computer vision. 최근 토픽: Haptic technology, Computer science, Robot. 피벗 점수 0.25 → 점진적 이동형.",
+        "저자수 평균: 초기 3.5명 → 후기 4.4명 (팀 확장).",
+        "최다 인용 논문 \"A soft robot that navigates its environment through growth\" (2017, 914회) — 커리어 후기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Mark R. Cutkosky. 제자 후보 추정 46명 — 상위: Laura H. Blumenschein(2017~, 우리 마지막저자 7편), Nick Colonnese(2012~, 우리 마지막저자 5편), Jake J. Abbott(2003~, 우리 마지막저자 4편)."
+      ],
+      "lessons": [
+        "46명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Mark R. Cutkosky — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Allison M. Okamura: over 29 years, 135 papers, 9,018 total cites, h=48, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1997 with \"Haptic exploration of objects with rolling and sliding\". First 500+ cite paper came 9 years in: \"Nonholonomic Modeling of Needle Steering\" (2006, 619 cites).",
+        "Early topics: Computer science, Haptic technology, Computer vision. Recent topics: Haptic technology, Computer science, Robot. Pivot score 0.25 → gradual shift.",
+        "Authors per paper: early 3.5 → late 4.4 (team growth).",
+        "Peak paper \"A soft robot that navigates its environment through growth\" (2017, 914 cites) — fell in late career.",
+        "Likely advisor(s) (first-5y first-author pattern): Mark R. Cutkosky. 46 likely students — top: Laura H. Blumenschein(2017~, we last-author on 7), Nick Colonnese(2012~, we last-author on 5), Jake J. Abbott(2003~, we last-author on 4)."
+      ],
+      "lessons": [
+        "46 likely students — mentoring is the real impact.",
+        "Likely advisor: Mark R. Cutkosky — started within their PhD network."
+      ]
+    }
+  }
+}

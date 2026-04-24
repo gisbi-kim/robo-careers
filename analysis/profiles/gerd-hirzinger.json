@@ -1,0 +1,1454 @@
+{
+  "name": "Gerd Hirzinger",
+  "slug": "gerd-hirzinger",
+  "career_stats": {
+    "first_year": 1985,
+    "last_year": 2013,
+    "span": 29,
+    "total_papers": 214,
+    "total_cites": 16778,
+    "h_index": 64,
+    "i10_index": 186,
+    "seminal_count": 5,
+    "max_cites_single_paper": 812
+  },
+  "role_distribution": {
+    "first": 14,
+    "last": 183,
+    "middle": 17
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1985,
+      "title": "Sensory feedback structures for robots with supervised learning"
+    },
+    "first_100cite": {
+      "year": 1994,
+      "title": "ROTEX - The First Remotely Controlled Robot in Space",
+      "cites": 187,
+      "gap_from_first": 9
+    },
+    "first_500cite": {
+      "year": 2001,
+      "title": "DLR-Hand II Next Generation of a Dextrous Robot Hand",
+      "cites": 812,
+      "gap_from_first": 16
+    },
+    "peak_paper": {
+      "year": 2001,
+      "title": "DLR-Hand II Next Generation of a Dextrous Robot Hand",
+      "cites": 812
+    }
+  },
+  "year_series": {
+    "1985": {
+      "n": 1,
+      "cites": 96,
+      "max_cites": 96
+    },
+    "1986": {
+      "n": 1,
+      "cites": 48,
+      "max_cites": 48
+    },
+    "1987": {
+      "n": 1,
+      "cites": 20,
+      "max_cites": 20
+    },
+    "1988": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1989": {
+      "n": 1,
+      "cites": 99,
+      "max_cites": 99
+    },
+    "1990": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1991": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "1992": {
+      "n": 1,
+      "cites": 35,
+      "max_cites": 35
+    },
+    "1993": {
+      "n": 1,
+      "cites": 65,
+      "max_cites": 65
+    },
+    "1994": {
+      "n": 5,
+      "cites": 246,
+      "max_cites": 187
+    },
+    "1995": {
+      "n": 1,
+      "cites": 31,
+      "max_cites": 31
+    },
+    "1996": {
+      "n": 3,
+      "cites": 85,
+      "max_cites": 35
+    },
+    "1997": {
+      "n": 6,
+      "cites": 183,
+      "max_cites": 95
+    },
+    "1998": {
+      "n": 5,
+      "cites": 310,
+      "max_cites": 120
+    },
+    "1999": {
+      "n": 6,
+      "cites": 312,
+      "max_cites": 171
+    },
+    "2000": {
+      "n": 8,
+      "cites": 392,
+      "max_cites": 101
+    },
+    "2001": {
+      "n": 6,
+      "cites": 1336,
+      "max_cites": 812
+    },
+    "2002": {
+      "n": 7,
+      "cites": 639,
+      "max_cites": 286
+    },
+    "2003": {
+      "n": 13,
+      "cites": 897,
+      "max_cites": 276
+    },
+    "2004": {
+      "n": 9,
+      "cites": 721,
+      "max_cites": 179
+    },
+    "2005": {
+      "n": 6,
+      "cites": 367,
+      "max_cites": 233
+    },
+    "2006": {
+      "n": 20,
+      "cites": 1783,
+      "max_cites": 761
+    },
+    "2007": {
+      "n": 17,
+      "cites": 2007,
+      "max_cites": 802
+    },
+    "2008": {
+      "n": 19,
+      "cites": 2636,
+      "max_cites": 559
+    },
+    "2009": {
+      "n": 16,
+      "cites": 1159,
+      "max_cites": 428
+    },
+    "2010": {
+      "n": 21,
+      "cites": 826,
+      "max_cites": 131
+    },
+    "2011": {
+      "n": 25,
+      "cites": 1597,
+      "max_cites": 430
+    },
+    "2012": {
+      "n": 10,
+      "cites": 661,
+      "max_cites": 227
+    },
+    "2013": {
+      "n": 4,
+      "cites": 222,
+      "max_cites": 118
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Torque",
+          "w": 0.1
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.1
+        },
+        {
+          "c": "Telerobotics",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.125
+        },
+        {
+          "c": "Robot",
+          "w": 0.125
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.075
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.155
+        },
+        {
+          "c": "Robot",
+          "w": 0.078
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.068
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.058
+        },
+        {
+          "c": "Torque",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 43,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.098
+        },
+        {
+          "c": "Robot",
+          "w": 0.084
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.061
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.061
+        },
+        {
+          "c": "Robotics",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 78,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.131
+        },
+        {
+          "c": "Robot",
+          "w": 0.079
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.049
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.028
+        },
+        {
+          "c": "Robotics",
+          "w": 0.021
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2013,
+      "n_papers": 60,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.154
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Torque",
+          "w": 0.037
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.037
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.037
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mix": {
+        "ICRA": 4
+      }
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "IROS": 6,
+        "ICRA": 2
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "ICRA": 14,
+        "IROS": 6,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 23,
+        "IROS": 17,
+        "IJRR": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "IROS": 38,
+        "ICRA": 36,
+        "IJRR": 2,
+        "RSS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2013,
+      "mix": {
+        "ICRA": 35,
+        "IROS": 22,
+        "IJRR": 2,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mean_n_authors": 2,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Klaus Landzettel",
+          2
+        ],
+        [
+          "Johannes Dietrich",
+          1
+        ],
+        [
+          "Johann Heindl",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 3.12,
+      "unique_coauthors": 10,
+      "top_coauthors": [
+        [
+          "Bernhard Brunner",
+          4
+        ],
+        [
+          "Johann Heindl",
+          3
+        ],
+        [
+          "Klaus Landzettel",
+          3
+        ],
+        [
+          "Gunleiv Skofteland",
+          1
+        ],
+        [
+          "Andreas Baader",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 2.81,
+      "unique_coauthors": 23,
+      "top_coauthors": [
+        [
+          "Max Fischer",
+          4
+        ],
+        [
+          "Friedrich Lange",
+          3
+        ],
+        [
+          "Ralf Koeppe",
+          3
+        ],
+        [
+          "Patrick Wunsch",
+          3
+        ],
+        [
+          "Hong Liu",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 4.53,
+      "unique_coauthors": 72,
+      "top_coauthors": [
+        [
+          "Alin Albu-Schäffer",
+          11
+        ],
+        [
+          "Max Fischer",
+          7
+        ],
+        [
+          "Jörg Butterfaß",
+          6
+        ],
+        [
+          "Hong Liu",
+          6
+        ],
+        [
+          "Ralf Koeppe",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 4.65,
+      "unique_coauthors": 121,
+      "top_coauthors": [
+        [
+          "Alin Albu-Schäffer",
+          26
+        ],
+        [
+          "Thomas Wimböck",
+          11
+        ],
+        [
+          "Christian Ott",
+          10
+        ],
+        [
+          "Sami Haddadin",
+          10
+        ],
+        [
+          "Carsten Preusche",
+          10
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2013,
+      "mean_n_authors": 5.35,
+      "unique_coauthors": 140,
+      "top_coauthors": [
+        [
+          "Alin Albu-Schäffer",
+          13
+        ],
+        [
+          "Thomas Wimböck",
+          12
+        ],
+        [
+          "Christoph Borst",
+          8
+        ],
+        [
+          "Sami Haddadin",
+          8
+        ],
+        [
+          "Maxime Chalon",
+          6
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.172,
+  "top_repeat_coauthors": [
+    {
+      "name": "Alin Albu-Schäffer",
+      "count": 51,
+      "first_year": 1998,
+      "last_year": 2012
+    },
+    {
+      "name": "Thomas Wimböck",
+      "count": 23,
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "name": "Christoph Borst",
+      "count": 20,
+      "first_year": 1999,
+      "last_year": 2012
+    },
+    {
+      "name": "Christian Ott",
+      "count": 18,
+      "first_year": 2001,
+      "last_year": 2012
+    },
+    {
+      "name": "Sami Haddadin",
+      "count": 18,
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "name": "Carsten Preusche",
+      "count": 17,
+      "first_year": 2002,
+      "last_year": 2012
+    },
+    {
+      "name": "Markus Grebenstein",
+      "count": 16,
+      "first_year": 1999,
+      "last_year": 2012
+    },
+    {
+      "name": "Hong Liu",
+      "count": 14,
+      "first_year": 1998,
+      "last_year": 2008
+    },
+    {
+      "name": "Max Fischer",
+      "count": 11,
+      "first_year": 1997,
+      "last_year": 2004
+    },
+    {
+      "name": "Klaus Landzettel",
+      "count": 10,
+      "first_year": 1985,
+      "last_year": 2011
+    },
+    {
+      "name": "Friedrich Lange",
+      "count": 10,
+      "first_year": 1996,
+      "last_year": 2012
+    },
+    {
+      "name": "Ralf Koeppe",
+      "count": 10,
+      "first_year": 1996,
+      "last_year": 2006
+    },
+    {
+      "name": "Jörg Butterfaß",
+      "count": 10,
+      "first_year": 1998,
+      "last_year": 2011
+    },
+    {
+      "name": "Roberto Lampariello",
+      "count": 9,
+      "first_year": 2000,
+      "last_year": 2013
+    },
+    {
+      "name": "Franziska Zacharias",
+      "count": 9,
+      "first_year": 2006,
+      "last_year": 2011
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Thomas Wimböck",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 20,
+      "total_copubs": 23,
+      "student_first_author_count": 6,
+      "we_last_author_count": 19,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Sami Haddadin",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 17,
+      "total_copubs": 18,
+      "student_first_author_count": 12,
+      "we_last_author_count": 17,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Christian Ott",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 18,
+      "student_first_author_count": 4,
+      "we_last_author_count": 10,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Carsten Preusche",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 17,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Andreas Tobergte",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Alin Albu-Schäffer",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 51,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Rainer Konietschke",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Ralf Koeppe",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Wolfgang Sepp",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Christoph Borst",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 20,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Alexander Dietrich",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Steffen Haidacher",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Michael Suppa",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Thomas Hulin",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Matthias Fuchs",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Oliver Eiberger",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Jordi Artigas",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Rui Cortesão",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Franziska Zacharias",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Maxime Chalon",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Máximo A. Roa",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Jörg Butterfaß",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Luc Le Tien",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Katharina Hertkorn",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Günter Schreiber",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Werner Friedl",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Andreas Kugi",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Max Fischer",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 11,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Klaus H. Strobl",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Patrick Wunsch",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 1998
+    },
+    {
+      "name": "Jingdong Zhao",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Sebastian Wolf",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Philipp Kremer",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Tim Bodenmüller",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Ran Wei",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Ulrich Seibold",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Martin Gröger",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Florian Petit",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Renat Iskakov",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Eleni Ralli",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1997
+    },
+    {
+      "name": "Martin Görner",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Tobias Bellmann",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Simon Kriegel",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Udo Frese",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "X. H. Gao",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "P. He",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Michael Strohmayr",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Robert Burger",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Sophie Thielmann",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Bernhard Brunner",
+      "student_first_year": 1992,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Hong Liu",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 14,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Roberto Lampariello",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 9,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Jee-Hwan Ryu",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Claudio Castellini",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Andre Schiele",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1985,
+      1994
+    ],
+    "early_mean_n_authors": 2.75,
+    "late_window": [
+      2004,
+      2013
+    ],
+    "late_mean_n_authors": 4.97
+  },
+  "citation_half_life_years": 19.0,
+  "bursts": {
+    "productivity": [
+      2011
+    ],
+    "impact": [
+      2007,
+      2008
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2001,
+      "venue": "ICRA",
+      "title": "DLR-Hand II Next Generation of a Dextrous Robot Hand",
+      "cites": 812,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Actuator",
+        "Impedance control",
+        "Robotic hand",
+        "Computer science",
+        "Torque"
+      ],
+      "doi": "10.1109/robot.2001.932538",
+      "coauthors": [
+        "Jörg Butterfaß",
+        "Markus Grebenstein",
+        "Hong Liu"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "IJRR",
+      "title": "A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots",
+      "cites": 802,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Passivity",
+        "Control theory (sociology)",
+        "Torque",
+        "Impedance control",
+        "Control engineering"
+      ],
+      "doi": "10.1177/0278364907073776",
+      "coauthors": [
+        "Alin Albu-Schäffer",
+        "Christian Ott"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IROS",
+      "title": "Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm",
+      "cites": 761,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Collision",
+        "Workspace",
+        "Collision detection",
+        "Simulation"
+      ],
+      "doi": "10.1109/iros.2006.282053",
+      "coauthors": [
+        "Alessandro De Luca",
+        "Alin Albu-Schäffer",
+        "Sami Haddadin"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IROS",
+      "title": "Collision detection and reaction: A contribution to safe physical Human-Robot Interaction",
+      "cites": 559,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Human–robot interaction",
+        "Computer science",
+        "Collision",
+        "Robot",
+        "Collision detection"
+      ],
+      "doi": "10.1109/iros.2008.4650764",
+      "coauthors": [
+        "Sami Haddadin",
+        "Alin Albu-Schäffer",
+        "Alessandro De Luca"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "ICRA",
+      "title": "A new variable stiffness design: Matching requirements of the next robot generation",
+      "cites": 529,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Robustness (evolution)",
+        "Stiffness",
+        "Joint stiffness",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2008.4543452",
+      "coauthors": [
+        "Sebastian Wolf"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "The DLR hand arm system",
+      "cites": 430,
+      "n_authors": 21,
+      "role": "last",
+      "concepts": [
+        "Robustness (evolution)",
+        "Robot",
+        "Robotic arm",
+        "Stiffness",
+        "Hammer"
+      ],
+      "doi": "10.1109/icra.2011.5980371",
+      "coauthors": [
+        "Markus Grebenstein",
+        "Alin Albu-Schäffer",
+        "Thomas Bahls",
+        "Maxime Chalon",
+        "Oliver Eiberger",
+        "Werner Friedl",
+        "Robin Gruber",
+        "Sami Haddadin",
+        "Ulrich Hagn",
+        "Robert Haslinger",
+        "Hannes Höppner",
+        "Stefan Jörg",
+        "Mathias Nickl",
+        "Alexander Nothhelfer",
+        "Florian Petit",
+        "Josef Reill",
+        "Nikolaus Seitz",
+        "Thomas Wimböck",
+        "Sebastian Wolf",
+        "Tilo Wüsthoff"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IJRR",
+      "title": "Requirements for Safe Robots: Measurements, Analysis and New Insights",
+      "cites": 428,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Robotics",
+        "Artificial intelligence",
+        "Human–robot interaction",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364909343970",
+      "coauthors": [
+        "Sami Haddadin",
+        "Alin Albu-Schäffer"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "On the Passivity-Based Impedance Controlof Flexible Joint Robots",
+      "cites": 414,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Control theory (sociology)",
+        "Impedance control",
+        "Passivity",
+        "Torque",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/tro.2008.915438",
+      "coauthors": [
+        "Andreas Kugi",
+        "Christian Ott",
+        "Alin Albu-Schäffer"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "IROS",
+      "title": "Multisensory five-finger dexterous hand: The DLR/HIT Hand II",
+      "cites": 350,
+      "n_authors": 10,
+      "role": "middle",
+      "concepts": [
+        "Actuator",
+        "Computer science",
+        "Field-programmable gate array",
+        "Robot hand",
+        "Robotic hand"
+      ],
+      "doi": "10.1109/iros.2008.4650624",
+      "coauthors": [
+        "Hong Liu",
+        "Ke Wu",
+        "Peter Meusel",
+        "Nikolaus Seitz",
+        "M. H. Jin",
+        "Yiwei Liu",
+        "Shaowei Fan",
+        "T. Lan",
+        "Zhaopeng Chen"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "ICRA",
+      "title": "On a New Generation of Torque Controlled Light-Weight Robots",
+      "cites": 302,
+      "n_authors": 5,
+      "role": "first",
+      "concepts": [
+        "Mechatronics",
+        "Torque",
+        "Robot",
+        "Robotics",
+        "Electronics"
+      ],
+      "doi": "10.1109/robot.2001.933136",
+      "coauthors": [
+        "Alin Albu-Schäffer",
+        "Matthias Hähnle",
+        "Ingo Schäfer",
+        "Norbert Sporer"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Gerd Hirzinger: 29년에 걸쳐 214편, 총 16,778회 인용, h=64, 500+ 블록버스터 5편.",
+      "paragraphs": [
+        "1985년 \"Sensory feedback structures for robots with supervised learning\"으로 출발. 첫 500+ 인용 논문까지 16년 걸림: \"DLR-Hand II Next Generation of a Dextrous Robot Hand\" (2001, 812회).",
+        "초기 토픽: Robot, Computer science, Torque. 최근 토픽: Computer science, Robot, Torque. 피벗 점수 0.17 → 토픽 지속형.",
+        "저자수 평균: 초기 2.8명 → 후기 5.0명 (팀 확장).",
+        "최다 인용 논문 \"DLR-Hand II Next Generation of a Dextrous Robot Hand\" (2001, 812회) — 커리어 중기에 위치.",
+        "제자 후보 추정 55명 — 상위: Thomas Wimböck(2006~, 우리 마지막저자 19편), Sami Haddadin(2006~, 우리 마지막저자 17편), Christian Ott(2001~, 우리 마지막저자 10편)."
+      ],
+      "lessons": [
+        "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "55명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Gerd Hirzinger: over 29 years, 214 papers, 16,778 total cites, h=64, 5 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1985 with \"Sensory feedback structures for robots with supervised learning\". First 500+ cite paper came 16 years in: \"DLR-Hand II Next Generation of a Dextrous Robot Hand\" (2001, 812 cites).",
+        "Early topics: Robot, Computer science, Torque. Recent topics: Computer science, Robot, Torque. Pivot score 0.17 → topic-stable.",
+        "Authors per paper: early 2.8 → late 5.0 (team growth).",
+        "Peak paper \"DLR-Hand II Next Generation of a Dextrous Robot Hand\" (2001, 812 cites) — fell in mid career.",
+        "55 likely students — top: Thomas Wimböck(2006~, we last-author on 19), Sami Haddadin(2006~, we last-author on 17), Christian Ott(2001~, we last-author on 10)."
+      ],
+      "lessons": [
+        "Consistency builds h-index — one or two blockbusters alone don't get you here.",
+        "Impact through deep specialization — one lane, pushed far.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "55 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

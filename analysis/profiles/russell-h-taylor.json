@@ -1,0 +1,1351 @@
+{
+  "name": "Russell H. Taylor",
+  "slug": "russell-h-taylor",
+  "career_stats": {
+    "first_year": 1986,
+    "last_year": 2025,
+    "span": 40,
+    "total_papers": 88,
+    "total_cites": 6740,
+    "h_index": 34,
+    "i10_index": 70,
+    "seminal_count": 4,
+    "max_cites_single_paper": 1122
+  },
+  "role_distribution": {
+    "middle": 57,
+    "first": 2,
+    "last": 29
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1986,
+      "title": "A configurable system for automation programming and control"
+    },
+    "first_100cite": {
+      "year": 1992,
+      "title": "Force sensing and control for a surgical robot",
+      "cites": 108,
+      "gap_from_first": 6
+    },
+    "first_500cite": {
+      "year": 1999,
+      "title": "A Steady-Hand Robotic System for Microsurgical Augmentation",
+      "cites": 518,
+      "gap_from_first": 13
+    },
+    "first_1000cite": {
+      "year": 2018,
+      "title": "The grand challenges of Science Robotics",
+      "cites": 1122,
+      "gap_from_first": 32
+    },
+    "peak_paper": {
+      "year": 2018,
+      "title": "The grand challenges of Science Robotics",
+      "cites": 1122
+    }
+  },
+  "year_series": {
+    "1986": {
+      "n": 1,
+      "cites": 26,
+      "max_cites": 26
+    },
+    "1987": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1988": {
+      "n": 1,
+      "cites": 14,
+      "max_cites": 14
+    },
+    "1989": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1990": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1991": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1992": {
+      "n": 2,
+      "cites": 176,
+      "max_cites": 108
+    },
+    "1993": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "1994": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1995": {
+      "n": 1,
+      "cites": 31,
+      "max_cites": 31
+    },
+    "1996": {
+      "n": 1,
+      "cites": 40,
+      "max_cites": 40
+    },
+    "1997": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1998": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1999": {
+      "n": 1,
+      "cites": 518,
+      "max_cites": 518
+    },
+    "2000": {
+      "n": 1,
+      "cites": 94,
+      "max_cites": 94
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2003": {
+      "n": 2,
+      "cites": 62,
+      "max_cites": 50
+    },
+    "2004": {
+      "n": 4,
+      "cites": 435,
+      "max_cites": 313
+    },
+    "2005": {
+      "n": 2,
+      "cites": 44,
+      "max_cites": 34
+    },
+    "2006": {
+      "n": 1,
+      "cites": 71,
+      "max_cites": 71
+    },
+    "2007": {
+      "n": 2,
+      "cites": 293,
+      "max_cites": 168
+    },
+    "2008": {
+      "n": 1,
+      "cites": 23,
+      "max_cites": 23
+    },
+    "2009": {
+      "n": 2,
+      "cites": 452,
+      "max_cites": 409
+    },
+    "2010": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2011": {
+      "n": 4,
+      "cites": 229,
+      "max_cites": 147
+    },
+    "2012": {
+      "n": 1,
+      "cites": 52,
+      "max_cites": 52
+    },
+    "2013": {
+      "n": 3,
+      "cites": 70,
+      "max_cites": 30
+    },
+    "2014": {
+      "n": 7,
+      "cites": 655,
+      "max_cites": 492
+    },
+    "2015": {
+      "n": 3,
+      "cites": 109,
+      "max_cites": 50
+    },
+    "2016": {
+      "n": 3,
+      "cites": 92,
+      "max_cites": 37
+    },
+    "2017": {
+      "n": 5,
+      "cites": 825,
+      "max_cites": 662
+    },
+    "2018": {
+      "n": 4,
+      "cites": 1219,
+      "max_cites": 1122
+    },
+    "2019": {
+      "n": 4,
+      "cites": 82,
+      "max_cites": 36
+    },
+    "2020": {
+      "n": 5,
+      "cites": 702,
+      "max_cites": 564
+    },
+    "2021": {
+      "n": 7,
+      "cites": 128,
+      "max_cites": 46
+    },
+    "2022": {
+      "n": 5,
+      "cites": 169,
+      "max_cites": 43
+    },
+    "2023": {
+      "n": 6,
+      "cites": 67,
+      "max_cites": 20
+    },
+    "2024": {
+      "n": 4,
+      "cites": 30,
+      "max_cites": 11
+    },
+    "2025": {
+      "n": 4,
+      "cites": 27,
+      "max_cites": 17
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Automation",
+          "w": 0.1
+        },
+        {
+          "c": "Control flow analysis",
+          "w": 0.1
+        },
+        {
+          "c": "Inductive programming",
+          "w": 0.1
+        },
+        {
+          "c": "Programming language",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Surgical robot",
+          "w": 0.15
+        },
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Broaching",
+          "w": 0.05
+        },
+        {
+          "c": "Femur",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Algorithm",
+          "w": 0.067
+        },
+        {
+          "c": "Path (computing)",
+          "w": 0.067
+        },
+        {
+          "c": "Interference (communication)",
+          "w": 0.067
+        },
+        {
+          "c": "Displacement (psychology)",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.075
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.075
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.167
+        },
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Microsurgery",
+          "w": 0.067
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.067
+        },
+        {
+          "c": "Surgical robot",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.144
+        },
+        {
+          "c": "Robot",
+          "w": 0.089
+        },
+        {
+          "c": "Simulation",
+          "w": 0.056
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.033
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.086
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.057
+        },
+        {
+          "c": "Robot",
+          "w": 0.057
+        },
+        {
+          "c": "Robotics",
+          "w": 0.048
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.154
+        },
+        {
+          "c": "Robot",
+          "w": 0.077
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.046
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.038
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.031
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "mix": {
+        "ICRA": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "mix": {
+        "ICRA": 4
+      }
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "IJRR": 2,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "IROS": 4,
+        "ICRA": 4
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "ICRA": 4,
+        "T-RO": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 12,
+        "IROS": 6
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "IROS": 6,
+        "RA-L": 5,
+        "Sci-Rob": 4,
+        "ICRA": 3,
+        "T-Mech": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "RA-L": 7,
+        "T-Mech": 5,
+        "ICRA": 5,
+        "IROS": 5,
+        "T-RO": 2,
+        "Sci-Rob": 2
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1986,
+      "end": 1990,
+      "mean_n_authors": 3,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "James U. Korein",
+          1
+        ],
+        [
+          "Georg E. Maier",
+          1
+        ],
+        [
+          "Lawrence F. Durfee",
+          1
+        ],
+        [
+          "V. T. Rajan",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1991,
+      "end": 1995,
+      "mean_n_authors": 5,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Peter Kazanzides",
+          2
+        ],
+        [
+          "Joel F. Zuhars",
+          2
+        ],
+        [
+          "Howard A. Paul",
+          1
+        ],
+        [
+          "Brent Mittlestadt",
+          1
+        ],
+        [
+          "William L. Bargar",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 6.33,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Patrick S. Jensen",
+          2
+        ],
+        [
+          "Louis L. Whitcomb",
+          2
+        ],
+        [
+          "Aaron C. Barnes",
+          2
+        ],
+        [
+          "Rajesh Kumar",
+          2
+        ],
+        [
+          "Puneet K. Gupta",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 3,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Ming Li",
+          4
+        ],
+        [
+          "Ankur Kapoor",
+          2
+        ],
+        [
+          "Xiaohui Wu",
+          1
+        ],
+        [
+          "Rajesh Kumar",
+          1
+        ],
+        [
+          "Nabil Simaan",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 4.83,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Ankur Kapoor",
+          4
+        ],
+        [
+          "Ming Li",
+          2
+        ],
+        [
+          "Iulian Iordachita",
+          2
+        ],
+        [
+          "Peter Kazanzides",
+          2
+        ],
+        [
+          "James Handa",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 5,
+      "unique_coauthors": 41,
+      "top_coauthors": [
+        [
+          "Iulian Iordachita",
+          10
+        ],
+        [
+          "Peter Gehlbach",
+          7
+        ],
+        [
+          "James Handa",
+          5
+        ],
+        [
+          "Berk Gonenc",
+          4
+        ],
+        [
+          "Peter Kazanzides",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 8.19,
+      "unique_coauthors": 96,
+      "top_coauthors": [
+        [
+          "Iulian Iordachita",
+          8
+        ],
+        [
+          "Mehran Armand",
+          6
+        ],
+        [
+          "Peter Kazanzides",
+          6
+        ],
+        [
+          "Farshid Alambeigi",
+          6
+        ],
+        [
+          "Preetham Chalasani",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 7.04,
+      "unique_coauthors": 108,
+      "top_coauthors": [
+        [
+          "Iulian Iordachita",
+          8
+        ],
+        [
+          "Kwok Wai Samuel Au",
+          7
+        ],
+        [
+          "Adnan Munawar",
+          6
+        ],
+        [
+          "Peter Kazanzides",
+          6
+        ],
+        [
+          "Peter Gehlbach",
+          4
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.356,
+  "top_repeat_coauthors": [
+    {
+      "name": "Iulian Iordachita",
+      "count": 28,
+      "first_year": 2007,
+      "last_year": 2025
+    },
+    {
+      "name": "Peter Kazanzides",
+      "count": 19,
+      "first_year": 1992,
+      "last_year": 2025
+    },
+    {
+      "name": "Peter Gehlbach",
+      "count": 14,
+      "first_year": 2012,
+      "last_year": 2025
+    },
+    {
+      "name": "Mehran Armand",
+      "count": 12,
+      "first_year": 2011,
+      "last_year": 2025
+    },
+    {
+      "name": "Ankur Kapoor",
+      "count": 7,
+      "first_year": 2003,
+      "last_year": 2011
+    },
+    {
+      "name": "James Handa",
+      "count": 7,
+      "first_year": 2007,
+      "last_year": 2014
+    },
+    {
+      "name": "Kwok Wai Samuel Au",
+      "count": 7,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Ming Li",
+      "count": 6,
+      "first_year": 2004,
+      "last_year": 2007
+    },
+    {
+      "name": "Anton Deguet",
+      "count": 6,
+      "first_year": 2014,
+      "last_year": 2023
+    },
+    {
+      "name": "Farshid Alambeigi",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Shahriar Sefati",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2023
+    },
+    {
+      "name": "Adnan Munawar",
+      "count": 6,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Berk Gonenc",
+      "count": 5,
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "name": "Ryan J. Murphy",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2018
+    },
+    {
+      "name": "Preetham Chalasani",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2019
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Ming Li",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Ankur Kapoor",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Preetham Chalasani",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Hisashi Ishida",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Rajesh Kumar",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Zhaoshuo Li",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Zerui Wang",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Leo Joskowicz",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1996
+    },
+    {
+      "name": "Yanzhou Wang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Zihan Chen",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Berk Gonenc",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Xingchi He",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Shahriar Sefati",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Farshid Alambeigi",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Ali Ebrahimi",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Xuchen Wang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ryan J. Murphy",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Mojtaba Esfandiari",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Peiyao Zhang",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yuanpei Cai",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2021
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1986,
+      1995
+    ],
+    "early_mean_n_authors": 4.33,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 7.55
+  },
+  "citation_half_life_years": 11.0,
+  "bursts": {
+    "productivity": [
+      2014,
+      2021
+    ],
+    "impact": [
+      2017,
+      2018
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2018,
+      "venue": "Sci-Rob",
+      "title": "The grand challenges of Science Robotics",
+      "cites": 1122,
+      "n_authors": 16,
+      "role": "middle",
+      "concepts": [
+        "Grand Challenges",
+        "Robotics",
+        "Grand strategy",
+        "Engineering ethics",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1126/scirobotics.aar7650",
+      "coauthors": [
+        "James G. Bellingham",
+        "Pierre E. Dupont",
+        "Peer Fischer",
+        "Luciano Floridi",
+        "Robert J. Full",
+        "Neil Jacobstein",
+        "Vijay Kumar",
+        "Marcia McNutt",
+        "Robert D. Merrifield",
+        "Bradley J. Nelson",
+        "Brian Scassellati",
+        "Mariarosaria Taddeo",
+        "Manuela M. Veloso",
+        "Zhong Lin Wang",
+        "Robert J. Wood"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "Sci-Rob",
+      "title": "Medical robotics - Regulatory, ethical, and legal considerations for increasing levels of autonomy",
+      "cites": 662,
+      "n_authors": 11,
+      "role": "last",
+      "concepts": [
+        "Autonomy",
+        "Robotics",
+        "Artificial intelligence",
+        "Engineering ethics",
+        "Political science"
+      ],
+      "doi": "10.1126/scirobotics.aam8638",
+      "coauthors": [
+        "James Cambias",
+        "Kevin Cleary",
+        "Eric Daimler",
+        "James M. Drake",
+        "Pierre E. Dupont",
+        "Nobuhiko Hata",
+        "Peter Kazanzides",
+        "Sylvain Martel",
+        "Rajni V. Patel",
+        "Veronica J. Santos"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Combating COVID-19 - The role of robotics in managing public health and infectious diseases",
+      "cites": 564,
+      "n_authors": 13,
+      "role": "middle",
+      "concepts": [
+        "Coronavirus disease 2019 (COVID-19)",
+        "2019-20 coronavirus outbreak",
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "Public health",
+        "Robotics"
+      ],
+      "doi": "10.1126/scirobotics.abb5589",
+      "coauthors": [
+        "Guang-Zhong Yang",
+        "Bradley J. Nelson",
+        "Robin R. Murphy",
+        "Howie Choset",
+        "Henrik I. Christensen",
+        "Steven H. Collins",
+        "Paolo Dario",
+        "Ken Goldberg",
+        "Koji Ikuta",
+        "Neil Jacobstein",
+        "Danica Kragic",
+        "Marcia McNutt"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "IJRR",
+      "title": "A Steady-Hand Robotic System for Microsurgical Augmentation",
+      "cites": 518,
+      "n_authors": 10,
+      "role": "first",
+      "concepts": [
+        "Controller (irrigation)",
+        "Transparency (behavior)",
+        "Computer science",
+        "Eye–hand coordination",
+        "Control engineering"
+      ],
+      "doi": "10.1177/02783649922067807",
+      "coauthors": [
+        "Patrick S. Jensen",
+        "Louis L. Whitcomb",
+        "Aaron C. Barnes",
+        "Rajesh Kumar",
+        "Dan Stoianovici",
+        "Puneet K. Gupta",
+        "Zhengxian Wang",
+        "Eugene de Juan",
+        "Louis R. Kavoussi"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "An open-source research kit for the da Vinci® Surgical System",
+      "cites": 492,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Embedded system",
+        "Field-programmable gate array",
+        "Software",
+        "Operating system",
+        "Electronics"
+      ],
+      "doi": "10.1109/icra.2014.6907809",
+      "coauthors": [
+        "Peter Kazanzides",
+        "Zihan Chen",
+        "Anton Deguet",
+        "Gregory S. Fischer",
+        "Simon P. DiMaio"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IJRR",
+      "title": "Design and Integration of a Telerobotic System for Minimally Invasive Surgery of the Throat",
+      "cites": 409,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Backlash",
+        "Kinematics",
+        "Control engineering",
+        "Control theory (sociology)",
+        "Robot"
+      ],
+      "doi": "10.1177/0278364908104278",
+      "coauthors": [
+        "Nabil Simaan",
+        "Kai Xu",
+        "Wei Wei",
+        "Ankur Kapoor",
+        "Peter Kazanzides",
+        "Paul Flint"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "ICRA",
+      "title": "A Dexterous System for Laryngeal Surgery",
+      "cites": 313,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Kinematics",
+        "Computer science",
+        "Redundancy (engineering)",
+        "Scalability",
+        "Simulation"
+      ],
+      "doi": "10.1109/robot.2004.1307175",
+      "coauthors": [
+        "Nabil Simaan",
+        "Paul Flint"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "ICRA",
+      "title": "Development and Application of a New Steady-Hand Manipulator for Retinal Surgery",
+      "cites": 168,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "Flexibility (engineering)",
+        "Microsurgery",
+        "Controller (irrigation)",
+        "Robot",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2007.363056",
+      "coauthors": [
+        "Ben Mitchell",
+        "John Koo",
+        "Iulian Iordachita",
+        "Peter Kazanzides",
+        "Ankur Kapoor",
+        "James Handa",
+        "Gregory D. Hager"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "Design of a new cable-driven manipulator with a large open lumen: Preliminary applications in the minimally-invasive removal of osteolysis",
+      "cites": 147,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Kinematics",
+        "Manipulator (device)",
+        "Stiffness",
+        "Bending",
+        "Parallel manipulator"
+      ],
+      "doi": "10.1109/icra.2011.5980285",
+      "coauthors": [
+        "Michael Dennis Mays Kutzer",
+        "Sean M. Segreti",
+        "Christopher Y. Brown",
+        "Mehran Armand",
+        "Simon C. Mears"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-RO",
+      "title": "Spatial Motion Constraints Using Virtual Fixtures Generated by Anatomy",
+      "cites": 125,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Teleoperation",
+        "Computer science",
+        "Task (project management)",
+        "Computer vision",
+        "Robot"
+      ],
+      "doi": "10.1109/tro.2006.886838",
+      "coauthors": [
+        "Ming Li",
+        "Masaru Ishii"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Russell H. Taylor: 40년에 걸쳐 88편, 총 6,740회 인용, h=34, 500+ 블록버스터 4편.",
+      "paragraphs": [
+        "1986년 \"A configurable system for automation programming and control\"으로 출발. 첫 500+ 인용 논문까지 13년 걸림: \"A Steady-Hand Robotic System for Microsurgical Augmentation\" (1999, 518회). 1000+ 인용 논문: \"The grand challenges of Science Robotics\" (2018, 1,122회).",
+        "초기 토픽: Computer science, Automation, Control flow analysis. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.36 → 점진적 이동형.",
+        "저자수 평균: 초기 4.3명 → 후기 7.5명 (팀 확장).",
+        "최다 인용 논문 \"The grand challenges of Science Robotics\" (2018, 1,122회) — 커리어 후기에 위치.",
+        "제자 후보 추정 20명 — 상위: Ming Li(2003~, 우리 마지막저자 5편), Ankur Kapoor(2003~, 우리 마지막저자 5편), Preetham Chalasani(2014~, 우리 마지막저자 3편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "20명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Russell H. Taylor: over 40 years, 88 papers, 6,740 total cites, h=34, 4 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1986 with \"A configurable system for automation programming and control\". First 500+ cite paper came 13 years in: \"A Steady-Hand Robotic System for Microsurgical Augmentation\" (1999, 518 cites). 1000+ cite paper: \"The grand challenges of Science Robotics\" (2018, 1,122 cites).",
+        "Early topics: Computer science, Automation, Control flow analysis. Recent topics: Computer science, Robot, Artificial intelligence. Pivot score 0.36 → gradual shift.",
+        "Authors per paper: early 4.3 → late 7.5 (team growth).",
+        "Peak paper \"The grand challenges of Science Robotics\" (2018, 1,122 cites) — fell in late career.",
+        "20 likely students — top: Ming Li(2003~, we last-author on 5), Ankur Kapoor(2003~, we last-author on 5), Preetham Chalasani(2014~, we last-author on 3)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "20 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1174 @@
+{
+  "name": "Guang-Zhong Yang",
+  "slug": "guang-zhong-yang",
+  "career_stats": {
+    "first_year": 2008,
+    "last_year": 2025,
+    "span": 18,
+    "total_papers": 165,
+    "total_cites": 6898,
+    "h_index": 35,
+    "i10_index": 119,
+    "seminal_count": 2,
+    "max_cites_single_paper": 1827
+  },
+  "role_distribution": {
+    "last": 145,
+    "middle": 16,
+    "first": 4
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2008,
+      "title": "Gaze contingent articulated robot control for robot assisted minimally invasive surgery"
+    },
+    "first_100cite": {
+      "year": 2011,
+      "title": "An articulated universal joint based flexible access robot for minimally invasive surgery",
+      "cites": 153,
+      "gap_from_first": 3
+    },
+    "first_500cite": {
+      "year": 2019,
+      "title": "XAI - Explainable artificial intelligence",
+      "cites": 1827,
+      "gap_from_first": 11
+    },
+    "first_1000cite": {
+      "year": 2019,
+      "title": "XAI - Explainable artificial intelligence",
+      "cites": 1827,
+      "gap_from_first": 11
+    },
+    "peak_paper": {
+      "year": 2019,
+      "title": "XAI - Explainable artificial intelligence",
+      "cites": 1827
+    }
+  },
+  "year_series": {
+    "2008": {
+      "n": 1,
+      "cites": 44,
+      "max_cites": 44
+    },
+    "2009": {
+      "n": 5,
+      "cites": 71,
+      "max_cites": 55
+    },
+    "2010": {
+      "n": 3,
+      "cites": 52,
+      "max_cites": 31
+    },
+    "2011": {
+      "n": 4,
+      "cites": 193,
+      "max_cites": 153
+    },
+    "2012": {
+      "n": 7,
+      "cites": 262,
+      "max_cites": 102
+    },
+    "2013": {
+      "n": 10,
+      "cites": 346,
+      "max_cites": 88
+    },
+    "2014": {
+      "n": 10,
+      "cites": 187,
+      "max_cites": 43
+    },
+    "2015": {
+      "n": 10,
+      "cites": 233,
+      "max_cites": 36
+    },
+    "2016": {
+      "n": 10,
+      "cites": 134,
+      "max_cites": 23
+    },
+    "2017": {
+      "n": 21,
+      "cites": 440,
+      "max_cites": 73
+    },
+    "2018": {
+      "n": 15,
+      "cites": 379,
+      "max_cites": 73
+    },
+    "2019": {
+      "n": 24,
+      "cites": 2629,
+      "max_cites": 1827
+    },
+    "2020": {
+      "n": 17,
+      "cites": 1003,
+      "max_cites": 564
+    },
+    "2021": {
+      "n": 8,
+      "cites": 616,
+      "max_cites": 465
+    },
+    "2022": {
+      "n": 7,
+      "cites": 90,
+      "max_cites": 49
+    },
+    "2023": {
+      "n": 4,
+      "cites": 19,
+      "max_cites": 9
+    },
+    "2024": {
+      "n": 4,
+      "cites": 200,
+      "max_cites": 157
+    },
+    "2025": {
+      "n": 5,
+      "cites": 0,
+      "max_cites": 0
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.14
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.08
+        },
+        {
+          "c": "Robot",
+          "w": 0.05
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.05
+        },
+        {
+          "c": "Invasive surgery",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 61,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.145
+        },
+        {
+          "c": "Robot",
+          "w": 0.089
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.066
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.056
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 71,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.153
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.099
+        },
+        {
+          "c": "Robot",
+          "w": 0.062
+        },
+        {
+          "c": "Segmentation",
+          "w": 0.028
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.025
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.169
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.123
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.062
+        },
+        {
+          "c": "Robot",
+          "w": 0.062
+        },
+        {
+          "c": "Biomedical engineering",
+          "w": 0.031
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "IROS": 15,
+        "ICRA": 5
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "IROS": 27,
+        "ICRA": 25,
+        "RA-L": 4,
+        "Sci-Rob": 3,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "IROS": 23,
+        "ICRA": 20,
+        "RA-L": 18,
+        "Sci-Rob": 10
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 5,
+        "T-RO": 1,
+        "Sci-Rob": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 5.35,
+      "unique_coauthors": 55,
+      "top_coauthors": [
+        [
+          "Ara Darzi",
+          6
+        ],
+        [
+          "Christopher J. Payne",
+          6
+        ],
+        [
+          "David P. Noonan",
+          5
+        ],
+        [
+          "Ka-Wai Kwok",
+          4
+        ],
+        [
+          "George P. Mylonas",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 4.38,
+      "unique_coauthors": 70,
+      "top_coauthors": [
+        [
+          "Konrad Leibrandt",
+          14
+        ],
+        [
+          "Petros Giataganas",
+          13
+        ],
+        [
+          "Valentina Vitiello",
+          10
+        ],
+        [
+          "Piyamate Wisanuvej",
+          10
+        ],
+        [
+          "Jindong Liu",
+          9
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 5.42,
+      "unique_coauthors": 154,
+      "top_coauthors": [
+        [
+          "Celia V. Riga",
+          10
+        ],
+        [
+          "Dandan Zhang",
+          10
+        ],
+        [
+          "Jindong Liu",
+          9
+        ],
+        [
+          "Yao Guo",
+          8
+        ],
+        [
+          "Anzhu Gao",
+          8
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 6.54,
+      "unique_coauthors": 49,
+      "top_coauthors": [
+        [
+          "Yao Guo",
+          6
+        ],
+        [
+          "Yuxuan Liu",
+          5
+        ],
+        [
+          "Jianxin Yang",
+          4
+        ],
+        [
+          "Yun Gu",
+          3
+        ],
+        [
+          "Jinkai Li",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.126,
+  "top_repeat_coauthors": [
+    {
+      "name": "Jindong Liu",
+      "count": 19,
+      "first_year": 2011,
+      "last_year": 2020
+    },
+    {
+      "name": "Konrad Leibrandt",
+      "count": 17,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "Petros Giataganas",
+      "count": 14,
+      "first_year": 2013,
+      "last_year": 2018
+    },
+    {
+      "name": "Yao Guo",
+      "count": 14,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Ara Darzi",
+      "count": 13,
+      "first_year": 2008,
+      "last_year": 2017
+    },
+    {
+      "name": "Valentina Vitiello",
+      "count": 13,
+      "first_year": 2009,
+      "last_year": 2017
+    },
+    {
+      "name": "Christopher J. Payne",
+      "count": 13,
+      "first_year": 2011,
+      "last_year": 2017
+    },
+    {
+      "name": "Jianzhong Shang",
+      "count": 12,
+      "first_year": 2011,
+      "last_year": 2018
+    },
+    {
+      "name": "Celia V. Riga",
+      "count": 12,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Piyamate Wisanuvej",
+      "count": 11,
+      "first_year": 2014,
+      "last_year": 2018
+    },
+    {
+      "name": "Gauthier Gras",
+      "count": 11,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "Carlo A. Seneci",
+      "count": 11,
+      "first_year": 2014,
+      "last_year": 2018
+    },
+    {
+      "name": "Lin Zhang",
+      "count": 10,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "Dandan Zhang",
+      "count": 10,
+      "first_year": 2019,
+      "last_year": 2022
+    },
+    {
+      "name": "Anzhu Gao",
+      "count": 10,
+      "first_year": 2020,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Konrad Leibrandt",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 17,
+      "total_copubs": 17,
+      "student_first_author_count": 6,
+      "we_last_author_count": 17,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Petros Giataganas",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 14,
+      "student_first_author_count": 1,
+      "we_last_author_count": 14,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Gauthier Gras",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 5,
+      "we_last_author_count": 11,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Piyamate Wisanuvej",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 4,
+      "we_last_author_count": 11,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Carlo A. Seneci",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 4,
+      "we_last_author_count": 11,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Lin Zhang",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 9,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Pierre Berthet-Rayne",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 8,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Yang Hu",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Yao Guo",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 14,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xiao-Yun Zhou",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Wenqiang Chi",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Mohamed E. M. K. Abdelaziz",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Maria Grammatikopoulou",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Maura Power",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Ning Liu",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Zicong Wu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Alessandro Vandini",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Andreas Schmitz",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Yun Gu",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jianxin Yang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Mali Shen",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Junhong Chen",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Ya-Yen Tsai",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Bidan Huang",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jian-Qing Zheng",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Shaoping Huang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Xiao Gu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Peichao Li",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Yuxuan Liu",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Siyang Zuo",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Rejin John Varghese",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Junyang Wu",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jinkai Li",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Edoardo Lopez",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Anh Nguyen",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Wuzhou Hong",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Yating Luo",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Francesco Cursi",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Xinyao Zhou",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zecai Lin",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2008,
+      2017
+    ],
+    "early_mean_n_authors": 4.62,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.29
+  },
+  "citation_half_life_years": 7.0,
+  "bursts": {
+    "productivity": [
+      2019
+    ],
+    "impact": [
+      2019
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "XAI - Explainable artificial intelligence",
+      "cites": 1827,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Artificial Intelligence System",
+        "Data science"
+      ],
+      "doi": "10.1126/scirobotics.aay7120",
+      "coauthors": [
+        "David Gunning",
+        "Mark Stefik",
+        "Jaesik Choi",
+        "Timothy Miller",
+        "Simone Stumpf"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Combating COVID-19 - The role of robotics in managing public health and infectious diseases",
+      "cites": 564,
+      "n_authors": 13,
+      "role": "first",
+      "concepts": [
+        "Coronavirus disease 2019 (COVID-19)",
+        "2019-20 coronavirus outbreak",
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)",
+        "Public health",
+        "Robotics"
+      ],
+      "doi": "10.1126/scirobotics.abb5589",
+      "coauthors": [
+        "Bradley J. Nelson",
+        "Robin R. Murphy",
+        "Howie Choset",
+        "Henrik I. Christensen",
+        "Steven H. Collins",
+        "Paolo Dario",
+        "Ken Goldberg",
+        "Koji Ikuta",
+        "Neil Jacobstein",
+        "Danica Kragic",
+        "Russell H. Taylor",
+        "Marcia McNutt"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "Sci-Rob",
+      "title": "A decade retrospective of medical robotics research from 2010 to 2020",
+      "cites": 465,
+      "n_authors": 10,
+      "role": "last",
+      "concepts": [
+        "Robotics",
+        "Artificial intelligence",
+        "Commercialization",
+        "Engineering ethics",
+        "Data science"
+      ],
+      "doi": "10.1126/scirobotics.abi8017",
+      "coauthors": [
+        "Pierre E. Dupont",
+        "Bradley J. Nelson",
+        "Michael Goldfarb",
+        "Blake Hannaford",
+        "Arianna Menciassi",
+        "Marcia K. O&apos",
+        "Malley",
+        "Nabil Simaan",
+        "Pietro Valdastri"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "Sci-Rob",
+      "title": "Magnetic soft microfiberbots for robotic embolization",
+      "cites": 157,
+      "n_authors": 19,
+      "role": "middle",
+      "concepts": [
+        "Neurovascular bundle",
+        "Embolization",
+        "Biomedical engineering",
+        "Radiology",
+        "Aneurysm"
+      ],
+      "doi": "10.1126/scirobotics.adh2479",
+      "coauthors": [
+        "Xurui Liu",
+        "Liu Wang",
+        "Yuanzhuo Xiang",
+        "Fan Liao",
+        "Na Li",
+        "Jiyu Li",
+        "Jiaxin Wang",
+        "Qingyang Wu",
+        "Cheng Zhou",
+        "Youzhou Yang",
+        "Yuanshi Kou",
+        "Yueying Yang",
+        "Hanchuan Tang",
+        "Ning Zhou",
+        "Chidan Wan",
+        "Zhouping Yin",
+        "Guangming Tao",
+        "Jianfeng Zang"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "An articulated universal joint based flexible access robot for minimally invasive surgery",
+      "cites": 153,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Invasive surgery",
+        "Computer science",
+        "Degrees of freedom (physics and chemistry)",
+        "Robot",
+        "Computer vision"
+      ],
+      "doi": "10.1109/icra.2011.5980261",
+      "coauthors": [
+        "Jianzhong Shang",
+        "David P. Noonan",
+        "Christopher J. Payne",
+        "James Clark",
+        "Mikael Hans Sodergren",
+        "Ara Darzi"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "Sci-Rob",
+      "title": "Progress in robotics for combating infectious diseases",
+      "cites": 114,
+      "n_authors": 15,
+      "role": "last",
+      "concepts": [
+        "Robotics",
+        "Coronavirus disease 2019 (COVID-19)",
+        "Artificial intelligence",
+        "2019-20 coronavirus outbreak",
+        "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)"
+      ],
+      "doi": "10.1126/scirobotics.abf1462",
+      "coauthors": [
+        "Anzhu Gao",
+        "Robin R. Murphy",
+        "Weidong Chen",
+        "Giulio Dagnino",
+        "Peer Fischer",
+        "Maximiliano G. Gutierrez",
+        "Dennis Kundrat",
+        "Bradley J. Nelson",
+        "Naveen Shamsudhin",
+        "Hao Su",
+        "Jingen Xia",
+        "Ajmal Zemmar",
+        "Dandan Zhang",
+        "Chen Wang"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Normalization in Training U-Net for 2-D Biomedical Semantic Segmentation",
+      "cites": 107,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Segmentation",
+        "Normalization (sociology)",
+        "Artificial intelligence",
+        "Convolutional neural network",
+        "Computer science"
+      ],
+      "doi": "10.1109/lra.2019.2896518",
+      "coauthors": [
+        "Xiao-Yun Zhou"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "ICRA",
+      "title": "Collaborative Robot-Assisted Endovascular Catheterization with Generative Adversarial Imitation Learning",
+      "cites": 106,
+      "n_authors": 9,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Workload",
+        "Pulsatile flow",
+        "Artificial intelligence",
+        "Automation"
+      ],
+      "doi": "10.1109/icra40945.2020.9196912",
+      "coauthors": [
+        "Wenqiang Chi",
+        "Giulio Dagnino",
+        "Trevor M. Y. Kwok",
+        "Anh Nguyen",
+        "Dennis Kundrat",
+        "Mohamed E. M. K. Abdelaziz",
+        "Celia V. Riga",
+        "Colin D. Bicknell"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IROS",
+      "title": "A force feedback system for endovascular catheterisation",
+      "cites": 102,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Haptic technology",
+        "Computer science",
+        "Imaging phantom",
+        "Simulation",
+        "Reduction (mathematics)"
+      ],
+      "doi": "10.1109/iros.2012.6386149",
+      "coauthors": [
+        "Christopher J. Payne",
+        "Hedyeh Rafii-Tari"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Design and Fabrication of a 3-D Printed Metallic Flexible Joint for Snake-Like Surgical Robot",
+      "cites": 92,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Mechanism (biology)",
+        "Joint (building)",
+        "Robot",
+        "Kinematics",
+        "Compliant mechanism"
+      ],
+      "doi": "10.1109/lra.2019.2896475",
+      "coauthors": [
+        "Yang Hu",
+        "Lin Zhang",
+        "Wei Li"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer-3",
+      "headline": "Guang-Zhong Yang: 18년에 걸쳐 165편, 총 6,898회 인용, h=35, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "2008년 \"Gaze contingent articulated robot control for robot assisted minimally invasive surgery\"으로 출발. 첫 500+ 인용 논문까지 11년 걸림: \"XAI - Explainable artificial intelligence\" (2019, 1,827회). 1000+ 인용 논문: \"XAI - Explainable artificial intelligence\" (2019, 1,827회).",
+        "초기 토픽: Computer science, Artificial intelligence, Robot. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.13 → 토픽 지속형.",
+        "저자수 평균: 초기 4.6명 → 후기 5.3명 (팀 확장).",
+        "최다 인용 논문 \"XAI - Explainable artificial intelligence\" (2019, 1,827회) — 커리어 중기에 위치.",
+        "제자 후보 추정 40명 — 상위: Konrad Leibrandt(2014~, 우리 마지막저자 17편), Petros Giataganas(2013~, 우리 마지막저자 14편), Gauthier Gras(2014~, 우리 마지막저자 11편)."
+      ],
+      "lessons": [
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "40명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer-3",
+      "headline": "Guang-Zhong Yang: over 18 years, 165 papers, 6,898 total cites, h=35, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2008 with \"Gaze contingent articulated robot control for robot assisted minimally invasive surgery\". First 500+ cite paper came 11 years in: \"XAI - Explainable artificial intelligence\" (2019, 1,827 cites). 1000+ cite paper: \"XAI - Explainable artificial intelligence\" (2019, 1,827 cites).",
+        "Early topics: Computer science, Artificial intelligence, Robot. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.13 → topic-stable.",
+        "Authors per paper: early 4.6 → late 5.3 (team growth).",
+        "Peak paper \"XAI - Explainable artificial intelligence\" (2019, 1,827 cites) — fell in mid career.",
+        "40 likely students — top: Konrad Leibrandt(2014~, we last-author on 17), Petros Giataganas(2013~, we last-author on 14), Gauthier Gras(2014~, we last-author on 11)."
+      ],
+      "lessons": [
+        "Impact through deep specialization — one lane, pushed far.",
+        "40 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

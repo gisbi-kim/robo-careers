@@ -1,0 +1,1060 @@
+{
+  "name": "Sangbae Kim",
+  "slug": "sangbae-kim",
+  "career_stats": {
+    "first_year": 2005,
+    "last_year": 2025,
+    "span": 21,
+    "total_papers": 86,
+    "total_cites": 10326,
+    "h_index": 43,
+    "i10_index": 69,
+    "seminal_count": 6,
+    "max_cites_single_paper": 707
+  },
+  "role_distribution": {
+    "middle": 19,
+    "first": 4,
+    "last": 63
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2005,
+      "title": "Scaling hard vertical surfaces with compliant microspine arrays"
+    },
+    "first_100cite": {
+      "year": 2006,
+      "title": "Scaling Hard Vertical Surfaces with Compliant Microspine Arrays",
+      "cites": 321,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2008,
+      "title": "Smooth Vertical Surface Climbing With Directional Adhesion",
+      "cites": 644,
+      "gap_from_first": 3
+    },
+    "peak_paper": {
+      "year": 2018,
+      "title": "Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control",
+      "cites": 707
+    }
+  },
+  "year_series": {
+    "2005": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "2006": {
+      "n": 2,
+      "cites": 602,
+      "max_cites": 321
+    },
+    "2007": {
+      "n": 2,
+      "cites": 332,
+      "max_cites": 255
+    },
+    "2008": {
+      "n": 2,
+      "cites": 740,
+      "max_cites": 644
+    },
+    "2009": {
+      "n": 1,
+      "cites": 147,
+      "max_cites": 147
+    },
+    "2010": {
+      "n": 1,
+      "cites": 168,
+      "max_cites": 168
+    },
+    "2011": {
+      "n": 2,
+      "cites": 78,
+      "max_cites": 55
+    },
+    "2012": {
+      "n": 7,
+      "cites": 617,
+      "max_cites": 232
+    },
+    "2013": {
+      "n": 4,
+      "cites": 1545,
+      "max_cites": 653
+    },
+    "2014": {
+      "n": 9,
+      "cites": 1306,
+      "max_cites": 500
+    },
+    "2015": {
+      "n": 9,
+      "cites": 675,
+      "max_cites": 308
+    },
+    "2016": {
+      "n": 4,
+      "cites": 130,
+      "max_cites": 74
+    },
+    "2017": {
+      "n": 6,
+      "cites": 833,
+      "max_cites": 448
+    },
+    "2018": {
+      "n": 8,
+      "cites": 1815,
+      "max_cites": 707
+    },
+    "2019": {
+      "n": 6,
+      "cites": 858,
+      "max_cites": 538
+    },
+    "2020": {
+      "n": 4,
+      "cites": 225,
+      "max_cites": 106
+    },
+    "2021": {
+      "n": 1,
+      "cites": 41,
+      "max_cites": 41
+    },
+    "2022": {
+      "n": 4,
+      "cites": 89,
+      "max_cites": 38
+    },
+    "2023": {
+      "n": 5,
+      "cites": 44,
+      "max_cites": 20
+    },
+    "2024": {
+      "n": 4,
+      "cites": 59,
+      "max_cites": 37
+    },
+    "2025": {
+      "n": 4,
+      "cites": 7,
+      "max_cites": 6
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Climbing",
+          "w": 0.128
+        },
+        {
+          "c": "Robot",
+          "w": 0.103
+        },
+        {
+          "c": "Adhesive",
+          "w": 0.077
+        },
+        {
+          "c": "Adhesion",
+          "w": 0.077
+        },
+        {
+          "c": "Computer science",
+          "w": 0.051
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 23,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.078
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.061
+        },
+        {
+          "c": "Actuator",
+          "w": 0.052
+        },
+        {
+          "c": "Robot",
+          "w": 0.052
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 33,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.154
+        },
+        {
+          "c": "Robot",
+          "w": 0.111
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.062
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.043
+        },
+        {
+          "c": "Actuator",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.17
+        },
+        {
+          "c": "Robot",
+          "w": 0.091
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.057
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.045
+        },
+        {
+          "c": "Model predictive control",
+          "w": 0.045
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.067
+        },
+        {
+          "c": "Perspective (graphical)",
+          "w": 0.067
+        },
+        {
+          "c": "Dynamics (music)",
+          "w": 0.067
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.067
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "ICRA": 3,
+        "IJRR": 2,
+        "RSS": 1,
+        "T-RO": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "IROS": 9,
+        "ICRA": 7,
+        "T-Mech": 3,
+        "T-RO": 2,
+        "SoRo": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 14,
+        "IROS": 7,
+        "IJRR": 3,
+        "T-RO": 3,
+        "RA-L": 3,
+        "RSS": 1,
+        "SoRo": 1,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "ICRA": 11,
+        "IROS": 5,
+        "RA-L": 2
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "RA-L": 2,
+        "T-RO": 1,
+        "ICRA": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 5,
+      "unique_coauthors": 17,
+      "top_coauthors": [
+        [
+          "Mark R. Cutkosky",
+          6
+        ],
+        [
+          "Daniel Santos",
+          3
+        ],
+        [
+          "Matthew Spenko",
+          3
+        ],
+        [
+          "Barrett Heyneman",
+          3
+        ],
+        [
+          "Alan T. Asbeck",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 4.22,
+      "unique_coauthors": 40,
+      "top_coauthors": [
+        [
+          "Sangok Seok",
+          7
+        ],
+        [
+          "Meng Yee Chuah",
+          4
+        ],
+        [
+          "Jongwoo Lee",
+          4
+        ],
+        [
+          "Dong Jin Hyun",
+          4
+        ],
+        [
+          "Daniela Rus",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 3.91,
+      "unique_coauthors": 45,
+      "top_coauthors": [
+        [
+          "Patrick M. Wensing",
+          9
+        ],
+        [
+          "João Ramos",
+          7
+        ],
+        [
+          "Gerardo Bledt",
+          6
+        ],
+        [
+          "Sehyuk Yim",
+          5
+        ],
+        [
+          "Daniela Rus",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 3.83,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Matthew Chignoli",
+          5
+        ],
+        [
+          "Andrew SaLoutos",
+          4
+        ],
+        [
+          "Donghyun Kim",
+          4
+        ],
+        [
+          "Elijah Stanger-Jones",
+          4
+        ],
+        [
+          "Charles Khazoom",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 3.75,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Se Hwan Jeon",
+          2
+        ],
+        [
+          "Ho Jae Lee",
+          2
+        ],
+        [
+          "Matthew Chignoli",
+          1
+        ],
+        [
+          "Nicholas Adrian",
+          1
+        ],
+        [
+          "Patrick M. Wensing",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.376,
+  "top_repeat_coauthors": [
+    {
+      "name": "Patrick M. Wensing",
+      "count": 10,
+      "first_year": 2015,
+      "last_year": 2025
+    },
+    {
+      "name": "Gerardo Bledt",
+      "count": 9,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Sangok Seok",
+      "count": 8,
+      "first_year": 2010,
+      "last_year": 2017
+    },
+    {
+      "name": "Daniela Rus",
+      "count": 8,
+      "first_year": 2010,
+      "last_year": 2018
+    },
+    {
+      "name": "Albert Wang",
+      "count": 7,
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "name": "João Ramos",
+      "count": 7,
+      "first_year": 2015,
+      "last_year": 2019
+    },
+    {
+      "name": "Mark R. Cutkosky",
+      "count": 6,
+      "first_year": 2006,
+      "last_year": 2008
+    },
+    {
+      "name": "Benjamin Katz",
+      "count": 6,
+      "first_year": 2018,
+      "last_year": 2020
+    },
+    {
+      "name": "Matthew Chignoli",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Robert J. Wood",
+      "count": 5,
+      "first_year": 2009,
+      "last_year": 2015
+    },
+    {
+      "name": "Meng Yee Chuah",
+      "count": 5,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Jongwoo Lee",
+      "count": 5,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Dong Jin Hyun",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2016
+    },
+    {
+      "name": "Sehyuk Yim",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2018
+    },
+    {
+      "name": "Jared Di Carlo",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2020
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Mark R. Cutkosky",
+      "advisor_active_from": 1986,
+      "early_copubs_as_our_first_author": 3,
+      "advisor_last_author_count": 3,
+      "total_copubs": 6
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Gerardo Bledt",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 5,
+      "we_last_author_count": 9,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "João Ramos",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 7,
+      "we_last_author_count": 7,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Sangok Seok",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 6,
+      "we_last_author_count": 7,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Albert Wang",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Benjamin Katz",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Matthew Chignoli",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Meng Yee Chuah",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Jared Di Carlo",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Se Hwan Jeon",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Charles Khazoom",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Andrew SaLoutos",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Dong Jin Hyun",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Donghyun Kim",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Jongwoo Lee",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Hae-Won Park",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Ho Jae Lee",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xu Sun",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Matt Haberland",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Meng Yee Michael Chuah",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Lindsay Epstein",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "J. G. Daniël Karssen",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2005,
+      2014
+    ],
+    "early_mean_n_authors": 4.42,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.8
+  },
+  "citation_half_life_years": 12.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2013,
+      2018
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2018,
+      "venue": "IROS",
+      "title": "Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control",
+      "cites": 707,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Ground reaction force",
+        "Robot",
+        "Model predictive control",
+        "Torque",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/iros.2018.8594448",
+      "coauthors": [
+        "Jared Di Carlo",
+        "Patrick M. Wensing",
+        "Benjamin Katz",
+        "Gerardo Bledt"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "IROS",
+      "title": "MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot",
+      "cites": 700,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Climb",
+        "Modular design",
+        "Computer science",
+        "Gait"
+      ],
+      "doi": "10.1109/iros.2018.8593885",
+      "coauthors": [
+        "Gerardo Bledt",
+        "Matthew J. Powell",
+        "Benjamin Katz",
+        "Jared Di Carlo",
+        "Patrick M. Wensing"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "T-Mech",
+      "title": "Meshworm: A Peristaltic Soft Robot With Antagonistic Nickel Titanium Coil Actuators",
+      "cites": 653,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Nickel titanium",
+        "Actuator",
+        "Peristalsis",
+        "Coil spring",
+        "Shape-memory alloy"
+      ],
+      "doi": "10.1109/tmech.2012.2204070",
+      "coauthors": [
+        "Sangok Seok",
+        "Çağdaş D. Önal",
+        "Kyu‐Jin Cho",
+        "Robert J. Wood",
+        "Daniela Rus"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "Smooth Vertical Surface Climbing With Directional Adhesion",
+      "cites": 644,
+      "n_authors": 6,
+      "role": "first",
+      "concepts": [
+        "Climbing",
+        "Robot",
+        "Adhesion",
+        "Surface (topology)",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2007.909786",
+      "coauthors": [
+        "Matthew Spenko",
+        "Salomon Trujillo",
+        "Barrett Heyneman",
+        "Daniel Santos",
+        "Mark R. Cutkosky"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "ICRA",
+      "title": "Mini Cheetah: A Platform for Pushing the Limits of Dynamic Quadruped Control",
+      "cites": 538,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Modular design",
+        "Robustness (evolution)",
+        "Robot locomotion",
+        "Actuator"
+      ],
+      "doi": "10.1109/icra.2019.8793865",
+      "coauthors": [
+        "Benjamin Katz",
+        "Jared Di Carlo"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-Mech",
+      "title": "Design Principles for Energy-Efficient Legged Locomotion and Implementation on the MIT Cheetah Robot",
+      "cites": 500,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "Flywheel",
+        "Automotive engineering",
+        "Robot",
+        "Energy consumption",
+        "Torque"
+      ],
+      "doi": "10.1109/tmech.2014.2339013",
+      "coauthors": [
+        "Sangok Seok",
+        "Albert Wang",
+        "Meng Yee Chuah",
+        "Dong Jin Hyun",
+        "Jongwoo Lee",
+        "David M. Otten",
+        "Jeffrey H. Lang"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "T-RO",
+      "title": "Proprioceptive Actuator Design in the MIT Cheetah: Impact Mitigation and High-Bandwidth Physical Interaction for Dynamic Legged Robots",
+      "cites": 448,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Actuator",
+        "Robot",
+        "Bandwidth (computing)",
+        "Computer science",
+        "Mobile robot"
+      ],
+      "doi": "10.1109/tro.2016.2640183",
+      "coauthors": [
+        "Patrick M. Wensing",
+        "Albert Wang",
+        "Sangok Seok",
+        "David Otten",
+        "Jeffrey H. Lang"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "Design principles for highly efficient quadrupeds and implementation on the MIT Cheetah robot",
+      "cites": 430,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Torque",
+        "Actuator",
+        "Computer science",
+        "Transmission (telecommunications)"
+      ],
+      "doi": "10.1109/icra.2013.6631038",
+      "coauthors": [
+        "Sangok Seok",
+        "Albert Wang",
+        "Meng Yee Chuah",
+        "David Otten",
+        "Jeffrey H. Lang"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "T-RO",
+      "title": "A Novel Layer Jamming Mechanism With Tunable Stiffness Capability for Minimally Invasive Surgery",
+      "cites": 419,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Jamming",
+        "Stiffness",
+        "Mechanism (biology)",
+        "Layer (electronics)",
+        "Materials science"
+      ],
+      "doi": "10.1109/tro.2013.2256313",
+      "coauthors": [
+        "Yong-Jae Kim",
+        "Shanbao Cheng",
+        "Karl Iagnemma"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Scaling Hard Vertical Surfaces with Compliant Microspine Arrays",
+      "cites": 321,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Climbing",
+        "Robot",
+        "Climb",
+        "Payload (computing)",
+        "Surface roughness"
+      ],
+      "doi": "10.1177/0278364906072511",
+      "coauthors": [
+        "Alan T. Asbeck",
+        "Mark R. Cutkosky",
+        "William R. Provancher",
+        "Michele Lanzetta"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Sangbae Kim: 21년에 걸쳐 86편, 총 10,326회 인용, h=43, 500+ 블록버스터 6편.",
+      "paragraphs": [
+        "2005년 \"Scaling hard vertical surfaces with compliant microspine arrays\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"Smooth Vertical Surface Climbing With Directional Adhesion\" (2008, 644회).",
+        "초기 토픽: Climbing, Robot, Adhesive. 최근 토픽: Computer science, Kinematics, Perspective (graphical). 피벗 점수 0.38 → 점진적 이동형.",
+        "저자수 평균: 초기 4.4명 → 후기 3.8명 (팀 축소).",
+        "최다 인용 논문 \"Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control\" (2018, 707회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Mark R. Cutkosky. 제자 후보 추정 21명 — 상위: Gerardo Bledt(2017~, 우리 마지막저자 9편), João Ramos(2015~, 우리 마지막저자 7편), Sangok Seok(2010~, 우리 마지막저자 7편)."
+      ],
+      "lessons": [
+        "초기 3년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "21명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Mark R. Cutkosky — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Sangbae Kim: over 21 years, 86 papers, 10,326 total cites, h=43, 6 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2005 with \"Scaling hard vertical surfaces with compliant microspine arrays\". First 500+ cite paper came 3 years in: \"Smooth Vertical Surface Climbing With Directional Adhesion\" (2008, 644 cites).",
+        "Early topics: Climbing, Robot, Adhesive. Recent topics: Computer science, Kinematics, Perspective (graphical). Pivot score 0.38 → gradual shift.",
+        "Authors per paper: early 4.4 → late 3.8 (team shrink).",
+        "Peak paper \"Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control\" (2018, 707 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Mark R. Cutkosky. 21 likely students — top: Gerardo Bledt(2017~, we last-author on 9), João Ramos(2015~, we last-author on 7), Sangok Seok(2010~, we last-author on 7)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 3 years. First-5-year topic choice is decisive.",
+        "21 likely students — mentoring is the real impact.",
+        "Likely advisor: Mark R. Cutkosky — started within their PhD network."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1548 @@
+{
+  "name": "Gaurav S. Sukhatme",
+  "slug": "gaurav-s-sukhatme",
+  "career_stats": {
+    "first_year": 1993,
+    "last_year": 2025,
+    "span": 33,
+    "total_papers": 227,
+    "total_cites": 12931,
+    "h_index": 62,
+    "i10_index": 165,
+    "seminal_count": 2,
+    "max_cites_single_paper": 547
+  },
+  "role_distribution": {
+    "middle": 64,
+    "first": 3,
+    "last": 160
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1993,
+      "title": "Control philosophy and simulation of a robotic hand as a model for prosthetic hands"
+    },
+    "first_100cite": {
+      "year": 1998,
+      "title": "Sensor fault detection and identification in a mobile robot",
+      "cites": 139,
+      "gap_from_first": 5
+    },
+    "first_500cite": {
+      "year": 2004,
+      "title": "Constrained Coverage for Mobile Sensor Networks",
+      "cites": 547,
+      "gap_from_first": 11
+    },
+    "peak_paper": {
+      "year": 2004,
+      "title": "Constrained Coverage for Mobile Sensor Networks",
+      "cites": 547
+    }
+  },
+  "year_series": {
+    "1993": {
+      "n": 1,
+      "cites": 13,
+      "max_cites": 13
+    },
+    "1994": {
+      "n": 1,
+      "cites": 20,
+      "max_cites": 20
+    },
+    "1995": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "1996": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1997": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "1998": {
+      "n": 2,
+      "cites": 231,
+      "max_cites": 139
+    },
+    "1999": {
+      "n": 4,
+      "cites": 495,
+      "max_cites": 173
+    },
+    "2000": {
+      "n": 2,
+      "cites": 152,
+      "max_cites": 150
+    },
+    "2001": {
+      "n": 4,
+      "cites": 694,
+      "max_cites": 414
+    },
+    "2002": {
+      "n": 15,
+      "cites": 1458,
+      "max_cites": 362
+    },
+    "2003": {
+      "n": 9,
+      "cites": 771,
+      "max_cites": 338
+    },
+    "2004": {
+      "n": 14,
+      "cites": 1275,
+      "max_cites": 547
+    },
+    "2005": {
+      "n": 9,
+      "cites": 520,
+      "max_cites": 215
+    },
+    "2006": {
+      "n": 5,
+      "cites": 642,
+      "max_cites": 277
+    },
+    "2007": {
+      "n": 10,
+      "cites": 401,
+      "max_cites": 93
+    },
+    "2008": {
+      "n": 5,
+      "cites": 186,
+      "max_cites": 105
+    },
+    "2009": {
+      "n": 9,
+      "cites": 503,
+      "max_cites": 136
+    },
+    "2010": {
+      "n": 6,
+      "cites": 459,
+      "max_cites": 205
+    },
+    "2011": {
+      "n": 13,
+      "cites": 868,
+      "max_cites": 529
+    },
+    "2012": {
+      "n": 9,
+      "cites": 341,
+      "max_cites": 139
+    },
+    "2013": {
+      "n": 13,
+      "cites": 582,
+      "max_cites": 153
+    },
+    "2014": {
+      "n": 7,
+      "cites": 479,
+      "max_cites": 329
+    },
+    "2015": {
+      "n": 10,
+      "cites": 479,
+      "max_cites": 110
+    },
+    "2016": {
+      "n": 6,
+      "cites": 221,
+      "max_cites": 75
+    },
+    "2017": {
+      "n": 11,
+      "cites": 926,
+      "max_cites": 412
+    },
+    "2018": {
+      "n": 8,
+      "cites": 445,
+      "max_cites": 305
+    },
+    "2019": {
+      "n": 7,
+      "cites": 183,
+      "max_cites": 60
+    },
+    "2020": {
+      "n": 7,
+      "cites": 8,
+      "max_cites": 2
+    },
+    "2021": {
+      "n": 4,
+      "cites": 83,
+      "max_cites": 52
+    },
+    "2022": {
+      "n": 14,
+      "cites": 245,
+      "max_cites": 42
+    },
+    "2023": {
+      "n": 7,
+      "cites": 69,
+      "max_cites": 40
+    },
+    "2024": {
+      "n": 9,
+      "cites": 146,
+      "max_cites": 111
+    },
+    "2025": {
+      "n": 4,
+      "cites": 28,
+      "max_cites": 12
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1993,
+      "end": 1997,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robotic hand",
+          "w": 0.1
+        },
+        {
+          "c": "Prosthetic hand",
+          "w": 0.1
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.1
+        },
+        {
+          "c": "Control (management)",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 27,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.187
+        },
+        {
+          "c": "Robot",
+          "w": 0.127
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.112
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.037
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 47,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Robot",
+          "w": 0.094
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.034
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.03
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.03
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 42,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Underwater",
+          "w": 0.052
+        },
+        {
+          "c": "Robot",
+          "w": 0.048
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.043
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 47,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.192
+        },
+        {
+          "c": "Robot",
+          "w": 0.047
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.038
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.034
+        },
+        {
+          "c": "Underwater",
+          "w": 0.026
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 40,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.194
+        },
+        {
+          "c": "Robot",
+          "w": 0.071
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.026
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.026
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.02
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.209
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.066
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.033
+        },
+        {
+          "c": "Robot",
+          "w": 0.033
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.033
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1993,
+      "end": 1997,
+      "mix": {
+        "IROS": 2,
+        "ICRA": 2
+      }
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "IROS": 15,
+        "ICRA": 12
+      }
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 26,
+        "IROS": 15,
+        "RSS": 4,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 24,
+        "IROS": 8,
+        "IJRR": 5,
+        "T-RO": 4,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 19,
+        "IROS": 12,
+        "IJRR": 6,
+        "T-RO": 6,
+        "RSS": 3,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "IROS": 13,
+        "ICRA": 10,
+        "RA-L": 8,
+        "IJRR": 5,
+        "T-RO": 3,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 4,
+        "RSS": 3,
+        "RA-L": 2,
+        "T-RO": 2,
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1993,
+      "end": 1997,
+      "mean_n_authors": 3.5,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "George A. Bekey",
+          4
+        ],
+        [
+          "Thea Iberall",
+          2
+        ],
+        [
+          "Denise Beattie",
+          2
+        ],
+        [
+          "M. Anthony Lewis",
+          1
+        ],
+        [
+          "Scott Brizius",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 3.19,
+      "unique_coauthors": 30,
+      "top_coauthors": [
+        [
+          "Maja J. Mataric",
+          9
+        ],
+        [
+          "Stergios I. Roumeliotis",
+          7
+        ],
+        [
+          "George A. Bekey",
+          4
+        ],
+        [
+          "Andrew Howard",
+          4
+        ],
+        [
+          "Puneet Goel",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 3.26,
+      "unique_coauthors": 54,
+      "top_coauthors": [
+        [
+          "Maxim A. Batalin",
+          8
+        ],
+        [
+          "Maja J. Mataric",
+          6
+        ],
+        [
+          "Srikanth Saripalli",
+          5
+        ],
+        [
+          "Stefan Hrabar",
+          5
+        ],
+        [
+          "Andrew Howard",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 4.29,
+      "unique_coauthors": 67,
+      "top_coauthors": [
+        [
+          "Maxim A. Batalin",
+          7
+        ],
+        [
+          "William J. Kaiser",
+          7
+        ],
+        [
+          "Jnaneshwar Das",
+          6
+        ],
+        [
+          "Per Henrik Borgstrom",
+          6
+        ],
+        [
+          "Brett L. Jordan",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 3.85,
+      "unique_coauthors": 75,
+      "top_coauthors": [
+        [
+          "Ryan K. Williams",
+          9
+        ],
+        [
+          "Karol Hausman",
+          9
+        ],
+        [
+          "Geoffrey A. Hollinger",
+          6
+        ],
+        [
+          "Andrea Gasparri",
+          5
+        ],
+        [
+          "James A. Preiss",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 4.53,
+      "unique_coauthors": 90,
+      "top_coauthors": [
+        [
+          "Eric Heiden",
+          8
+        ],
+        [
+          "James A. Preiss",
+          7
+        ],
+        [
+          "Ragesh K. Ramachandran",
+          6
+        ],
+        [
+          "Christopher E. Denniston",
+          4
+        ],
+        [
+          "Lantao Liu",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 18.6,
+      "unique_coauthors": 336,
+      "top_coauthors": [
+        [
+          "Christopher E. Denniston",
+          3
+        ],
+        [
+          "Baskin Senbaslar",
+          3
+        ],
+        [
+          "Shashank Hegde",
+          2
+        ],
+        [
+          "David Millard",
+          2
+        ],
+        [
+          "Bingjie Tang",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.152,
+  "top_repeat_coauthors": [
+    {
+      "name": "Maja J. Mataric",
+      "count": 15,
+      "first_year": 2001,
+      "last_year": 2004
+    },
+    {
+      "name": "Maxim A. Batalin",
+      "count": 15,
+      "first_year": 2003,
+      "last_year": 2010
+    },
+    {
+      "name": "Karol Hausman",
+      "count": 13,
+      "first_year": 2015,
+      "last_year": 2024
+    },
+    {
+      "name": "William J. Kaiser",
+      "count": 11,
+      "first_year": 2004,
+      "last_year": 2010
+    },
+    {
+      "name": "Ryan K. Williams",
+      "count": 11,
+      "first_year": 2011,
+      "last_year": 2017
+    },
+    {
+      "name": "James A. Preiss",
+      "count": 11,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "Andrew Howard",
+      "count": 9,
+      "first_year": 2001,
+      "last_year": 2006
+    },
+    {
+      "name": "Stefan Schaal",
+      "count": 9,
+      "first_year": 2005,
+      "last_year": 2024
+    },
+    {
+      "name": "Geoffrey A. Hollinger",
+      "count": 9,
+      "first_year": 2011,
+      "last_year": 2015
+    },
+    {
+      "name": "Eric Heiden",
+      "count": 9,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "George A. Bekey",
+      "count": 8,
+      "first_year": 1993,
+      "last_year": 1999
+    },
+    {
+      "name": "Jnaneshwar Das",
+      "count": 8,
+      "first_year": 2008,
+      "last_year": 2015
+    },
+    {
+      "name": "Stergios I. Roumeliotis",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2000
+    },
+    {
+      "name": "Srikanth Saripalli",
+      "count": 7,
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "name": "Per Henrik Borgstrom",
+      "count": 7,
+      "first_year": 2007,
+      "last_year": 2010
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "George A. Bekey",
+      "advisor_active_from": 1985,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 2,
+      "total_copubs": 8
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Ryan K. Williams",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 9,
+      "we_last_author_count": 9,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Andrew Howard",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 6,
+      "we_last_author_count": 8,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Maxim A. Batalin",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 15,
+      "student_first_author_count": 7,
+      "we_last_author_count": 6,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Eric Heiden",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 7,
+      "we_last_author_count": 6,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "James A. Preiss",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Srikanth Saripalli",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Karol Hausman",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 13,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jnaneshwar Das",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Ryan N. Smith",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Christopher E. Denniston",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jonathan Binney",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Ragesh K. Ramachandran",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "David Millard",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Stefan Hrabar",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Hordur Kristinn Heidarsson",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Arvind Pereira",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Baskin Senbaslar",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Stergios I. Roumeliotis",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Marin Kobilarov",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Denis F. Wolf",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Puneet Goel",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Artem Molchanov",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Sameera Poduri",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Gautam Salhotra",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Boyoon Jung",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Stephanie Kemna",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Attilio Priolo",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Ashley Tews",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Megha Gupta",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Esben Hallundbæk Østergaard",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Torbjørn S. Dahl",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Karthik Dantu",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "David Inkyu Kim",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Max Pflueger",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Kai-Chieh Ma",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Shashank Hegde",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "K. R. Zentner",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Marcos Augusto M. Vieira",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Wolfgang Hönig",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Ryan Julian",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Zhehui Huang",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Isabel M. Rayas Fernández",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Ran Gong",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Ragesh Kumar Ramachandran",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Mohammad H. Rahimi",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Brian P. Gerkey",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Gabe Sibley",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Amit Dhariwal",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Bin Zhang",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Shoubhik Debnath",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Luis Mejías",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Per Henrik Borgstrom",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 7,
+      "we_last_author_count": 0,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Bingjie Tang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Richard T. Vaughan",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Subhrajit Bhattacharya",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Soonkyum Kim",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1993,
+      2002
+    ],
+    "early_mean_n_authors": 3.23,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 8.1
+  },
+  "citation_half_life_years": 19,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2002,
+      2004
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2004,
+      "venue": "ICRA",
+      "title": "Constrained Coverage for Mobile Sensor Networks",
+      "cites": 547,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Scalability",
+        "Software deployment",
+        "Wireless sensor network",
+        "Constraint (computer-aided design)"
+      ],
+      "doi": "10.1109/robot.2004.1307146",
+      "coauthors": [
+        "Sameera Poduri"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "IJRR",
+      "title": "Visual-Inertial Sensor Fusion: Localization, Mapping and Sensor-to-Sensor Self-calibration",
+      "cites": 529,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Inertial measurement unit",
+        "Computer vision",
+        "Artificial intelligence",
+        "Gyroscope",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364910382802",
+      "coauthors": [
+        "Jonathan Kelly"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "IROS",
+      "title": "Most valuable player: a robot device server for distributed control",
+      "cites": 414,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "Abstraction",
+        "Protocol (science)",
+        "Task (project management)"
+      ],
+      "doi": "10.1109/iros.2001.977150",
+      "coauthors": [
+        "Brian P. Gerkey",
+        "Richard T. Vaughan",
+        "Kasper Støy",
+        "Andrew Howard",
+        "Maja J. Mataric"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Crazyswarm: A large nano-quadcopter swarm",
+      "cites": 412,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Quadcopter",
+        "Computer science",
+        "Swarm behaviour",
+        "Real-time computing",
+        "Trajectory"
+      ],
+      "doi": "10.1109/icra.2017.7989376",
+      "coauthors": [
+        "James A. Preiss",
+        "Wolfgang Hönig",
+        "Nora Ayanian"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "Robomote: A Tiny Mobile Robot Platform for Large-Scale Ad-Hoc Sensor Networks",
+      "cites": 362,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "Robotics",
+        "Mobile robot",
+        "Suite"
+      ],
+      "doi": "10.1109/robot.2002.1014697",
+      "coauthors": [
+        "Gabe Sibley",
+        "Mohammad H. Rahimi"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "ICRA",
+      "title": "Studying the Feasibility of Energy Harvesting in a Mobile Sensor Network",
+      "cites": 338,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Energy harvesting",
+        "Energy consumption",
+        "Wireless sensor network",
+        "Energy (signal processing)",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2003.1241567",
+      "coauthors": [
+        "Mohammad H. Rahimi",
+        "Hardik Shah",
+        "John S. Heidemann",
+        "Deborah Estrin"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IJRR",
+      "title": "Sampling-based robotic information gathering algorithms",
+      "cites": 329,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Submodular set function",
+        "Computer science",
+        "Sampling (signal processing)",
+        "Pruning",
+        "Algorithm"
+      ],
+      "doi": "10.1177/0278364914533443",
+      "coauthors": [
+        "Geoffrey A. Hollinger"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "Vision-Based Autonomous Landing of an Unmanned Aerial Vehicle",
+      "cites": 322,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence",
+        "Global Positioning System",
+        "Position (finance)"
+      ],
+      "doi": "10.1109/robot.2002.1013656",
+      "coauthors": [
+        "Srikanth Saripalli",
+        "James F. Montgomery"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "T-RO",
+      "title": "Trajectory Planning for Quadrotor Swarms",
+      "cites": 305,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Trajectory",
+        "Obstacle",
+        "Computer science",
+        "Motion planning",
+        "Robot"
+      ],
+      "doi": "10.1109/tro.2018.2853613",
+      "coauthors": [
+        "Wolfgang Hönig",
+        "James A. Preiss",
+        "T. K. Satish Kumar",
+        "Nora Ayanian"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Experiments with a Large Heterogeneous Mobile Robot Team: Exploration, Mapping, Deployment and Detection",
+      "cites": 277,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Software deployment",
+        "Key (lock)",
+        "Robotics",
+        "Sketch"
+      ],
+      "doi": "10.1177/0278364906065378",
+      "coauthors": [
+        "Andrew Howard",
+        "Lynne E. Parker"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Gaurav S. Sukhatme: 33년에 걸쳐 227편, 총 12,931회 인용, h=62, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1993년 \"Control philosophy and simulation of a robotic hand as a model for prosthetic hands\"으로 출발. 첫 500+ 인용 논문까지 11년 걸림: \"Constrained Coverage for Mobile Sensor Networks\" (2004, 547회).",
+        "초기 토픽: Computer science, Robotic hand, Prosthetic hand. 최근 토픽: Computer science, Artificial intelligence, Reinforcement learning. 피벗 점수 0.15 → 토픽 지속형.",
+        "저자수 평균: 초기 3.2명 → 후기 8.1명 (팀 확장).",
+        "최다 인용 논문 \"Constrained Coverage for Mobile Sensor Networks\" (2004, 547회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): George A. Bekey. 제자 후보 추정 56명 — 상위: Ryan K. Williams(2011~, 우리 마지막저자 9편), Andrew Howard(2001~, 우리 마지막저자 8편), Maxim A. Batalin(2003~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
+        "한 우물 깊게 파는 전략으로 임팩트 달성.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "56명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: George A. Bekey — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Gaurav S. Sukhatme: over 33 years, 227 papers, 12,931 total cites, h=62, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1993 with \"Control philosophy and simulation of a robotic hand as a model for prosthetic hands\". First 500+ cite paper came 11 years in: \"Constrained Coverage for Mobile Sensor Networks\" (2004, 547 cites).",
+        "Early topics: Computer science, Robotic hand, Prosthetic hand. Recent topics: Computer science, Artificial intelligence, Reinforcement learning. Pivot score 0.15 → topic-stable.",
+        "Authors per paper: early 3.2 → late 8.1 (team growth).",
+        "Peak paper \"Constrained Coverage for Mobile Sensor Networks\" (2004, 547 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): George A. Bekey. 56 likely students — top: Ryan K. Williams(2011~, we last-author on 9), Andrew Howard(2001~, we last-author on 8), Maxim A. Batalin(2003~, we last-author on 6)."
+      ],
+      "lessons": [
+        "Consistency builds h-index — one or two blockbusters alone don't get you here.",
+        "Impact through deep specialization — one lane, pushed far.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "56 likely students — mentoring is the real impact.",
+        "Likely advisor: George A. Bekey — started within their PhD network."
+      ]
+    }
+  }
+}

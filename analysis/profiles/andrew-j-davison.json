@@ -1,0 +1,981 @@
+{
+  "name": "Andrew J. Davison",
+  "slug": "andrew-j-davison",
+  "career_stats": {
+    "first_year": 2000,
+    "last_year": 2024,
+    "span": 25,
+    "total_papers": 52,
+    "total_cites": 7450,
+    "h_index": 28,
+    "i10_index": 40,
+    "seminal_count": 5,
+    "max_cites_single_paper": 933
+  },
+  "role_distribution": {
+    "first": 1,
+    "middle": 20,
+    "last": 31
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2000,
+      "title": "Active visual localisation for cooperating inspection robots"
+    },
+    "first_100cite": {
+      "year": 2006,
+      "title": "Unified Inverse Depth Parametrization for Monocular SLAM",
+      "cites": 371,
+      "gap_from_first": 6
+    },
+    "first_500cite": {
+      "year": 2008,
+      "title": "Inverse Depth Parametrization for Monocular SLAM",
+      "cites": 769,
+      "gap_from_first": 8
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "A benchmark for RGB-D visual odometry, 3D reconstruction and SLAM",
+      "cites": 933
+    }
+  },
+  "year_series": {
+    "2000": {
+      "n": 1,
+      "cites": 18,
+      "max_cites": 18
+    },
+    "2001": {
+      "n": 1,
+      "cites": 75,
+      "max_cites": 75
+    },
+    "2002": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 4,
+      "cites": 580,
+      "max_cites": 371
+    },
+    "2007": {
+      "n": 3,
+      "cites": 335,
+      "max_cites": 242
+    },
+    "2008": {
+      "n": 2,
+      "cites": 799,
+      "max_cites": 769
+    },
+    "2009": {
+      "n": 3,
+      "cites": 177,
+      "max_cites": 115
+    },
+    "2010": {
+      "n": 2,
+      "cites": 765,
+      "max_cites": 460
+    },
+    "2011": {
+      "n": 1,
+      "cites": 128,
+      "max_cites": 128
+    },
+    "2012": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2013": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2014": {
+      "n": 1,
+      "cites": 933,
+      "max_cites": 933
+    },
+    "2015": {
+      "n": 2,
+      "cites": 910,
+      "max_cites": 804
+    },
+    "2016": {
+      "n": 4,
+      "cites": 965,
+      "max_cites": 695
+    },
+    "2017": {
+      "n": 4,
+      "cites": 716,
+      "max_cites": 651
+    },
+    "2018": {
+      "n": 1,
+      "cites": 71,
+      "max_cites": 71
+    },
+    "2019": {
+      "n": 3,
+      "cites": 269,
+      "max_cites": 210
+    },
+    "2020": {
+      "n": 4,
+      "cites": 450,
+      "max_cites": 297
+    },
+    "2021": {
+      "n": 2,
+      "cites": 65,
+      "max_cites": 52
+    },
+    "2022": {
+      "n": 6,
+      "cites": 49,
+      "max_cites": 24
+    },
+    "2023": {
+      "n": 4,
+      "cites": 108,
+      "max_cites": 47
+    },
+    "2024": {
+      "n": 4,
+      "cites": 37,
+      "max_cites": 23
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Visual inspection",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.15
+        },
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.133
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.1
+        },
+        {
+          "c": "Initialization",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.15
+        },
+        {
+          "c": "Bundle adjustment",
+          "w": 0.1
+        },
+        {
+          "c": "Monocular",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.171
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.114
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.086
+        },
+        {
+          "c": "Benchmarking",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.19
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.16
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.09
+        },
+        {
+          "c": "Robot",
+          "w": 0.04
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.03
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 2,
+        "RSS": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 3,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 2,
+        "RSS": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "RA-L": 10,
+        "ICRA": 8,
+        "IROS": 1,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 2.5,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Nobuyuki Kita",
+          1
+        ],
+        [
+          "Joss Knight",
+          1
+        ],
+        [
+          "Ian D. Reid",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 3.75,
+      "unique_coauthors": 20,
+      "top_coauthors": [
+        [
+          "J. M. M. Montiel",
+          7
+        ],
+        [
+          "Javier Civera",
+          6
+        ],
+        [
+          "Olivier Stasse",
+          2
+        ],
+        [
+          "Kazuhito Yokoi",
+          2
+        ],
+        [
+          "Teresa A. Vidal-Calleja",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 3.25,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "Hauke Strasdat",
+          2
+        ],
+        [
+          "J. M. M. Montiel",
+          2
+        ],
+        [
+          "Gerardo Carrera",
+          1
+        ],
+        [
+          "Adrien Angeli",
+          1
+        ],
+        [
+          "Ankur Handa",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 6.5,
+      "unique_coauthors": 35,
+      "top_coauthors": [
+        [
+          "Stefan Leutenegger",
+          9
+        ],
+        [
+          "Paul H. J. Kelly",
+          6
+        ],
+        [
+          "Bruno Bodin",
+          5
+        ],
+        [
+          "Luigi Nardi",
+          4
+        ],
+        [
+          "Sajad Saeedi",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 3.65,
+      "unique_coauthors": 28,
+      "top_coauthors": [
+        [
+          "Stephen James",
+          5
+        ],
+        [
+          "Edgar Sucar",
+          4
+        ],
+        [
+          "Stefan Leutenegger",
+          3
+        ],
+        [
+          "Tristan Laidlow",
+          3
+        ],
+        [
+          "Hidenobu Matsuki",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.252,
+  "top_repeat_coauthors": [
+    {
+      "name": "Stefan Leutenegger",
+      "count": 12,
+      "first_year": 2015,
+      "last_year": 2022
+    },
+    {
+      "name": "J. M. M. Montiel",
+      "count": 9,
+      "first_year": 2006,
+      "last_year": 2010
+    },
+    {
+      "name": "Paul H. J. Kelly",
+      "count": 8,
+      "first_year": 2015,
+      "last_year": 2024
+    },
+    {
+      "name": "Javier Civera",
+      "count": 6,
+      "first_year": 2006,
+      "last_year": 2009
+    },
+    {
+      "name": "Bruno Bodin",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2019
+    },
+    {
+      "name": "Stephen James",
+      "count": 5,
+      "first_year": 2020,
+      "last_year": 2022
+    },
+    {
+      "name": "Luigi Nardi",
+      "count": 4,
+      "first_year": 2015,
+      "last_year": 2018
+    },
+    {
+      "name": "Sajad Saeedi",
+      "count": 4,
+      "first_year": 2017,
+      "last_year": 2019
+    },
+    {
+      "name": "Edgar Sucar",
+      "count": 4,
+      "first_year": 2022,
+      "last_year": 2023
+    },
+    {
+      "name": "Thomas Whelan",
+      "count": 3,
+      "first_year": 2014,
+      "last_year": 2016
+    },
+    {
+      "name": "Andy Nisbet",
+      "count": 3,
+      "first_year": 2015,
+      "last_year": 2019
+    },
+    {
+      "name": "Mikel Luján",
+      "count": 3,
+      "first_year": 2015,
+      "last_year": 2019
+    },
+    {
+      "name": "Michael F. P. O&apos",
+      "count": 3,
+      "first_year": 2015,
+      "last_year": 2019
+    },
+    {
+      "name": "Boyle",
+      "count": 3,
+      "first_year": 2015,
+      "last_year": 2019
+    },
+    {
+      "name": "Binbin Xu",
+      "count": 3,
+      "first_year": 2019,
+      "last_year": 2022
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Stephen James",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hidenobu Matsuki",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Riku Murai",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Thomas Whelan",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Kentaro Wada",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Hauke Strasdat",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Aalok Patwardhan",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Bruno Bodin",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Luigi Nardi",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Raluca Scona",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Joseph Ortiz",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Javier Civera",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 1,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Ankur Handa",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "M. Zeeshan Zia",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Binbin Xu",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2000,
+      2009
+    ],
+    "early_mean_n_authors": 3.57,
+    "late_window": [
+      2015,
+      2024
+    ],
+    "late_mean_n_authors": 4.82
+  },
+  "citation_half_life_years": 12.0,
+  "bursts": {
+    "productivity": [
+      2022
+    ],
+    "impact": []
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "A benchmark for RGB-D visual odometry, 3D reconstruction and SLAM",
+      "cites": 933,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Visual odometry",
+        "Artificial intelligence",
+        "Ground truth",
+        "RGB color model",
+        "Computer vision"
+      ],
+      "doi": "10.1109/icra.2014.6907054",
+      "coauthors": [
+        "Ankur Handa",
+        "Thomas Whelan",
+        "John McDonald"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "RSS",
+      "title": "ElasticFusion: Dense SLAM Without A Pose Graph",
+      "cites": 804,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Simultaneous localization and mapping",
+        "RGB color model"
+      ],
+      "doi": "10.15607/rss.2015.xi.001",
+      "coauthors": [
+        "Thomas Whelan",
+        "Stefan Leutenegger",
+        "Renato F. Salas-Moreno",
+        "Ben Glocker"
+      ]
+    },
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "Inverse Depth Parametrization for Monocular SLAM",
+      "cites": 769,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Parametrization (atmospheric modeling)",
+        "Initialization",
+        "Simultaneous localization and mapping",
+        "Parallax",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2008.2003276",
+      "coauthors": [
+        "Javier Civera",
+        "J. M. M. Montiel"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "IJRR",
+      "title": "ElasticFusion: Real-time dense SLAM and light source estimation",
+      "cites": 695,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Computer vision",
+        "Artificial intelligence",
+        "Rendering (computer graphics)",
+        "Robustness (evolution)"
+      ],
+      "doi": "10.1177/0278364916669237",
+      "coauthors": [
+        "Thomas Whelan",
+        "Renato F. Salas-Moreno",
+        "Ben Glocker",
+        "Stefan Leutenegger"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "SemanticFusion: Dense 3D semantic mapping with convolutional neural networks",
+      "cites": 651,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Convolutional neural network",
+        "Semantics (computer science)",
+        "Frame (networking)"
+      ],
+      "doi": "10.1109/icra.2017.7989538",
+      "coauthors": [
+        "John McCormac",
+        "Ankur Handa",
+        "Stefan Leutenegger"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "ICRA",
+      "title": "Real-time monocular SLAM: Why filter?",
+      "cites": 460,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Bundle adjustment",
+        "Monocular",
+        "Artificial intelligence",
+        "Filter (signal processing)"
+      ],
+      "doi": "10.1109/robot.2010.5509636",
+      "coauthors": [
+        "Hauke Strasdat",
+        "J. M. M. Montiel"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "RSS",
+      "title": "Unified Inverse Depth Parametrization for Monocular SLAM",
+      "cites": 371,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Initialization",
+        "Parametrization (atmospheric modeling)",
+        "Extended Kalman filter",
+        "Computer vision",
+        "Simultaneous localization and mapping"
+      ],
+      "doi": "10.15607/rss.2006.ii.011",
+      "coauthors": [
+        "J. M. M. Montiel",
+        "Javier Civera"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "RSS",
+      "title": "Scale Drift-Aware Large Scale Monocular SLAM",
+      "cites": 305,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Scale (ratio)",
+        "Computer science",
+        "Artificial intelligence",
+        "Monocular",
+        "Computer vision"
+      ],
+      "doi": "10.15607/rss.2010.vi.010",
+      "coauthors": [
+        "Hauke Strasdat",
+        "J. M. M. Montiel"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "RLBench: The Robot Learning Benchmark & Learning Environment",
+      "cites": 297,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Benchmark (surveying)",
+        "Task (project management)",
+        "Robot learning"
+      ],
+      "doi": "10.1109/lra.2020.2974707",
+      "coauthors": [
+        "Stephen James",
+        "Zicong Ma",
+        "David Rovick Arrojo"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "RSS",
+      "title": "Mapping Large Loops with a Single Hand-Held Camera",
+      "cites": 242,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Computer vision",
+        "Single camera",
+        "Artificial intelligence",
+        "Computer graphics (images)"
+      ],
+      "doi": "10.15607/rss.2007.iii.038",
+      "coauthors": [
+        "Laura A. Clemente",
+        "Ian D. Reid",
+        "José Neira",
+        "Juan D. Tardós"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Andrew J. Davison: 25년에 걸쳐 52편, 총 7,450회 인용, h=28, 500+ 블록버스터 5편.",
+      "paragraphs": [
+        "2000년 \"Active visual localisation for cooperating inspection robots\"으로 출발. 첫 500+ 인용 논문까지 8년 걸림: \"Inverse Depth Parametrization for Monocular SLAM\" (2008, 769회).",
+        "초기 토픽: Computer science, Robot, Computer vision. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.25 → 점진적 이동형.",
+        "저자수 평균: 초기 3.6명 → 후기 4.8명 (팀 확장).",
+        "최다 인용 논문 \"A benchmark for RGB-D visual odometry, 3D reconstruction and SLAM\" (2014, 933회) — 커리어 중기에 위치.",
+        "제자 후보 추정 15명 — 상위: Stephen James(2020~, 우리 마지막저자 5편), Hidenobu Matsuki(2018~, 우리 마지막저자 3편), Riku Murai(2020~, 우리 마지막저자 3편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "15명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Andrew J. Davison: over 25 years, 52 papers, 7,450 total cites, h=28, 5 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2000 with \"Active visual localisation for cooperating inspection robots\". First 500+ cite paper came 8 years in: \"Inverse Depth Parametrization for Monocular SLAM\" (2008, 769 cites).",
+        "Early topics: Computer science, Robot, Computer vision. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.25 → gradual shift.",
+        "Authors per paper: early 3.6 → late 4.8 (team growth).",
+        "Peak paper \"A benchmark for RGB-D visual odometry, 3D reconstruction and SLAM\" (2014, 933 cites) — fell in mid career.",
+        "15 likely students — top: Stephen James(2020~, we last-author on 5), Hidenobu Matsuki(2018~, we last-author on 3), Riku Murai(2020~, we last-author on 3)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "15 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

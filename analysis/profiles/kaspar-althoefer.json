@@ -1,0 +1,1277 @@
+{
+  "name": "Kaspar Althoefer",
+  "slug": "kaspar-althoefer",
+  "career_stats": {
+    "first_year": 1999,
+    "last_year": 2025,
+    "span": 27,
+    "total_papers": 136,
+    "total_cites": 5245,
+    "h_index": 41,
+    "i10_index": 99,
+    "seminal_count": 1,
+    "max_cites_single_paper": 520
+  },
+  "role_distribution": {
+    "middle": 68,
+    "last": 67,
+    "first": 1
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1999,
+      "title": "Use of artificial neural networks for the monitoring of screw insertions"
+    },
+    "first_100cite": {
+      "year": 2011,
+      "title": "Miniature 3-Axis Distal Force Sensor for Minimally Invasive Surgical Palpation",
+      "cites": 243,
+      "gap_from_first": 12
+    },
+    "first_500cite": {
+      "year": 2014,
+      "title": "Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach",
+      "cites": 520,
+      "gap_from_first": 15
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach",
+      "cites": 520
+    }
+  },
+  "year_series": {
+    "1999": {
+      "n": 2,
+      "cites": 9,
+      "max_cites": 5
+    },
+    "2000": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 4,
+      "cites": 85,
+      "max_cites": 57
+    },
+    "2003": {
+      "n": 6,
+      "cites": 163,
+      "max_cites": 89
+    },
+    "2004": {
+      "n": 5,
+      "cites": 70,
+      "max_cites": 36
+    },
+    "2005": {
+      "n": 2,
+      "cites": 61,
+      "max_cites": 51
+    },
+    "2006": {
+      "n": 2,
+      "cites": 82,
+      "max_cites": 54
+    },
+    "2007": {
+      "n": 5,
+      "cites": 86,
+      "max_cites": 41
+    },
+    "2008": {
+      "n": 5,
+      "cites": 121,
+      "max_cites": 59
+    },
+    "2009": {
+      "n": 4,
+      "cites": 96,
+      "max_cites": 45
+    },
+    "2010": {
+      "n": 5,
+      "cites": 202,
+      "max_cites": 85
+    },
+    "2011": {
+      "n": 2,
+      "cites": 334,
+      "max_cites": 243
+    },
+    "2012": {
+      "n": 10,
+      "cites": 513,
+      "max_cites": 170
+    },
+    "2013": {
+      "n": 6,
+      "cites": 186,
+      "max_cites": 59
+    },
+    "2014": {
+      "n": 12,
+      "cites": 1105,
+      "max_cites": 520
+    },
+    "2015": {
+      "n": 9,
+      "cites": 493,
+      "max_cites": 109
+    },
+    "2016": {
+      "n": 13,
+      "cites": 634,
+      "max_cites": 204
+    },
+    "2017": {
+      "n": 3,
+      "cites": 227,
+      "max_cites": 125
+    },
+    "2018": {
+      "n": 8,
+      "cites": 297,
+      "max_cites": 110
+    },
+    "2019": {
+      "n": 5,
+      "cites": 89,
+      "max_cites": 46
+    },
+    "2020": {
+      "n": 6,
+      "cites": 134,
+      "max_cites": 46
+    },
+    "2021": {
+      "n": 2,
+      "cites": 110,
+      "max_cites": 86
+    },
+    "2022": {
+      "n": 2,
+      "cites": 42,
+      "max_cites": 34
+    },
+    "2023": {
+      "n": 6,
+      "cites": 62,
+      "max_cites": 33
+    },
+    "2024": {
+      "n": 6,
+      "cites": 23,
+      "max_cites": 5
+    },
+    "2025": {
+      "n": 5,
+      "cites": 15,
+      "max_cites": 15
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.169
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.092
+        },
+        {
+          "c": "Automation",
+          "w": 0.062
+        },
+        {
+          "c": "Artificial neural network",
+          "w": 0.062
+        },
+        {
+          "c": "Excavator",
+          "w": 0.046
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.074
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.053
+        },
+        {
+          "c": "Materials science",
+          "w": 0.042
+        },
+        {
+          "c": "Terrain",
+          "w": 0.042
+        },
+        {
+          "c": "Estimation theory",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 27,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.111
+        },
+        {
+          "c": "Biomedical engineering",
+          "w": 0.052
+        },
+        {
+          "c": "Palpation",
+          "w": 0.037
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.037
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 45,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.111
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.049
+        },
+        {
+          "c": "Robot",
+          "w": 0.044
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.04
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.031
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.105
+        },
+        {
+          "c": "Computer science",
+          "w": 0.105
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.048
+        },
+        {
+          "c": "Tactile sensor",
+          "w": 0.048
+        },
+        {
+          "c": "Actuator",
+          "w": 0.038
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.16
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Tactile sensor",
+          "w": 0.08
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.04
+        },
+        {
+          "c": "Robot",
+          "w": 0.04
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 5,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 7,
+        "T-RO": 1,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "IROS": 11,
+        "ICRA": 11,
+        "T-Mech": 4,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "IROS": 17,
+        "ICRA": 15,
+        "SoRo": 5,
+        "RA-L": 5,
+        "T-RO": 2,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "ICRA": 8,
+        "RA-L": 5,
+        "IROS": 5,
+        "SoRo": 1,
+        "RSS": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "IROS": 6,
+        "T-RO": 3,
+        "RA-L": 2
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 3.15,
+      "unique_coauthors": 10,
+      "top_coauthors": [
+        [
+          "Lakmal D. Seneviratne",
+          12
+        ],
+        [
+          "Yahya H. Zweiri",
+          4
+        ],
+        [
+          "Olga Duran",
+          4
+        ],
+        [
+          "Bruno Lara",
+          2
+        ],
+        [
+          "P. Visuwan",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 3.89,
+      "unique_coauthors": 21,
+      "top_coauthors": [
+        [
+          "Lakmal D. Seneviratne",
+          18
+        ],
+        [
+          "Yahya H. Zweiri",
+          8
+        ],
+        [
+          "Hongbin Liu",
+          5
+        ],
+        [
+          "David P. Noonan",
+          3
+        ],
+        [
+          "Choopar Tan",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 4.7,
+      "unique_coauthors": 34,
+      "top_coauthors": [
+        [
+          "Lakmal D. Seneviratne",
+          19
+        ],
+        [
+          "Hongbin Liu",
+          12
+        ],
+        [
+          "Prokar Dasgupta",
+          7
+        ],
+        [
+          "Xiaojing Song",
+          6
+        ],
+        [
+          "Panagiotis Polygerinos",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 5.49,
+      "unique_coauthors": 70,
+      "top_coauthors": [
+        [
+          "Hongbin Liu",
+          19
+        ],
+        [
+          "Helge A. Wurdemann",
+          14
+        ],
+        [
+          "Yohan Noh",
+          11
+        ],
+        [
+          "Agostino Stilli",
+          10
+        ],
+        [
+          "D. P. Thrishantha Nanayakkara",
+          8
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 5.86,
+      "unique_coauthors": 61,
+      "top_coauthors": [
+        [
+          "Ahmad Ataka",
+          7
+        ],
+        [
+          "Ali Shiva",
+          5
+        ],
+        [
+          "Hareesh Godaba",
+          5
+        ],
+        [
+          "Taqi Abrar",
+          5
+        ],
+        [
+          "Ian D. Walker",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 6.36,
+      "unique_coauthors": 44,
+      "top_coauthors": [
+        [
+          "Ildar Farkhatdinov",
+          3
+        ],
+        [
+          "Wanlin Li",
+          3
+        ],
+        [
+          "Gabriele Giudici",
+          2
+        ],
+        [
+          "Claudio Coppola",
+          2
+        ],
+        [
+          "Lorenzo Jamone",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.338,
+  "top_repeat_coauthors": [
+    {
+      "name": "Lakmal D. Seneviratne",
+      "count": 56,
+      "first_year": 1999,
+      "last_year": 2015
+    },
+    {
+      "name": "Hongbin Liu",
+      "count": 36,
+      "first_year": 2007,
+      "last_year": 2016
+    },
+    {
+      "name": "D. P. Thrishantha Nanayakkara",
+      "count": 15,
+      "first_year": 2012,
+      "last_year": 2020
+    },
+    {
+      "name": "Helge A. Wurdemann",
+      "count": 15,
+      "first_year": 2013,
+      "last_year": 2018
+    },
+    {
+      "name": "Ahmad Ataka",
+      "count": 14,
+      "first_year": 2016,
+      "last_year": 2021
+    },
+    {
+      "name": "Yahya H. Zweiri",
+      "count": 12,
+      "first_year": 2002,
+      "last_year": 2007
+    },
+    {
+      "name": "Prokar Dasgupta",
+      "count": 12,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "Yohan Noh",
+      "count": 12,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "João Bimbo",
+      "count": 10,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Agostino Stilli",
+      "count": 10,
+      "first_year": 2014,
+      "last_year": 2018
+    },
+    {
+      "name": "Ali Shiva",
+      "count": 9,
+      "first_year": 2016,
+      "last_year": 2021
+    },
+    {
+      "name": "Xiaojing Song",
+      "count": 8,
+      "first_year": 2008,
+      "last_year": 2014
+    },
+    {
+      "name": "Lakmal Seneviratne",
+      "count": 7,
+      "first_year": 2003,
+      "last_year": 2015
+    },
+    {
+      "name": "Pinyo Puangmali",
+      "count": 7,
+      "first_year": 2007,
+      "last_year": 2011
+    },
+    {
+      "name": "Angela Faragasso",
+      "count": 7,
+      "first_year": 2014,
+      "last_year": 2016
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Ahmad Ataka",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 14,
+      "student_first_author_count": 8,
+      "we_last_author_count": 12,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Hongbin Liu",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 14,
+      "total_copubs": 36,
+      "student_first_author_count": 7,
+      "we_last_author_count": 7,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Agostino Stilli",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Angela Faragasso",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Xiaojing Song",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Panagiotis Polygerinos",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Taqi Abrar",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Pinyo Puangmali",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "João Bimbo",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Ali Shiva",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Peng Qi",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Sina Sareh",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Hareesh Godaba",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jelizaveta Konstantinova",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Jan Fras",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Cem Suulker",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Allen Jiang",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Ali Shafti",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Suksun Hutangkabodee",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Indika B. Wanninayake",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Abu Bakar Dawood",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Asghar Ataollahi",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Zibin Song",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "S. M. Hadi Sadati",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Shan Luo",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Dinusha Zbyszewski",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Ahmed Hassan",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Faisal Al Jaber",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Junghwan Back",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Wanlin Li",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "David P. Noonan",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Francesca Palermo",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Lukas Lindenroth",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Gabriele Giudici",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Matteo Cianchetti",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2016
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1999,
+      2008
+    ],
+    "early_mean_n_authors": 3.59,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.7
+  },
+  "citation_half_life_years": 12,
+  "bursts": {
+    "productivity": [
+      2014,
+      2016
+    ],
+    "impact": [
+      2014
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "SoRo",
+      "title": "Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach",
+      "cites": 520,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Invasive surgery",
+        "Robotics",
+        "Soft robotics",
+        "Minimally invasive procedures",
+        "Haptic technology"
+      ],
+      "doi": "10.1089/soro.2014.0001",
+      "coauthors": [
+        "Matteo Cianchetti",
+        "Tommaso Ranzani",
+        "Giada Gerboni",
+        "Thrishantha Nanayakkara",
+        "Prokar Dasgupta",
+        "Arianna Menciassi"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "T-Mech",
+      "title": "Miniature 3-Axis Distal Force Sensor for Minimally Invasive Surgical Palpation",
+      "cites": 243,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Palpation",
+        "Surgical instrument",
+        "Invasive surgery",
+        "Biomedical engineering",
+        "Computer science"
+      ],
+      "doi": "10.1109/tmech.2011.2116033",
+      "coauthors": [
+        "Pinyo Puangmali",
+        "Hongbin Liu",
+        "Lakmal Seneviratne",
+        "Prokar Dasgupta"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "RA-L",
+      "title": "Tendon-Based Stiffening for a Pneumatically Actuated Soft Manipulator",
+      "cites": 204,
+      "n_authors": 10,
+      "role": "middle",
+      "concepts": [
+        "Stiffening",
+        "Tendon",
+        "Biomedical engineering",
+        "Materials science",
+        "Manipulator (device)"
+      ],
+      "doi": "10.1109/lra.2016.2523120",
+      "coauthors": [
+        "Ali Shiva",
+        "Agostino Stilli",
+        "Yohan Noh",
+        "Angela Faragasso",
+        "Iris De Falco",
+        "Giada Gerboni",
+        "Matteo Cianchetti",
+        "Arianna Menciassi",
+        "Helge A. Wurdemann"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IROS",
+      "title": "Design of a variable stiffness flexible manipulator with composite granular jamming and membrane coupling",
+      "cites": 170,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Kinematics",
+        "Jamming",
+        "Stiffness",
+        "Actuator",
+        "Rigidity (electromagnetism)"
+      ],
+      "doi": "10.1109/iros.2012.6385696",
+      "coauthors": [
+        "Allen Jiang",
+        "Georgios Xynogalas",
+        "Prokar Dasgupta",
+        "D. P. Thrishantha Nanayakkara"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IROS",
+      "title": "Shrinkable, stiffness-controllable soft manipulator based on a bio-inspired antagonistic actuation principle",
+      "cites": 138,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Stiffness",
+        "Control theory (sociology)",
+        "Actuator",
+        "Manipulator (device)",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2014.6942899",
+      "coauthors": [
+        "Agostino Stilli",
+        "Helge A. Wurdemann"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "T-Mech",
+      "title": "Triaxial Catheter-Tip Force Sensor for MRI-Guided Cardiac Procedures",
+      "cites": 125,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Scanner",
+        "Computer science",
+        "Orientation (vector space)",
+        "Artificial intelligence",
+        "Mathematics"
+      ],
+      "doi": "10.1109/tmech.2011.2181405",
+      "coauthors": [
+        "Panagiotis Polygerinos",
+        "Lakmal Seneviratne",
+        "Reza Razavi",
+        "Tobias Schaeffter"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "SoRo",
+      "title": "Nonparametric Online Learning Control for Soft Continuum Robot: An Enabling Technique for Effective Endoscopic Navigation",
+      "cites": 125,
+      "n_authors": 9,
+      "role": "middle",
+      "concepts": [
+        "Workspace",
+        "Robot",
+        "Computer science",
+        "Control engineering",
+        "Redundancy (engineering)"
+      ],
+      "doi": "10.1089/soro.2016.0065",
+      "coauthors": [
+        "Kit-Hang Lee",
+        "Denny K.C. Fu",
+        "Martin C. W. Leong",
+        "Marco C. K. Chow",
+        "Hing-Choi Fu",
+        "K. Y. Sze",
+        "Chung‐Kwong Yeung",
+        "Ka‐Wai Kwok"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "SoRo",
+      "title": "Robotic Granular Jamming: Does the Membrane Matter?",
+      "cites": 117,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Jamming",
+        "Stiffness",
+        "Membrane",
+        "Granule (geology)",
+        "Materials science"
+      ],
+      "doi": "10.1089/soro.2014.0002",
+      "coauthors": [
+        "Allen Jiang",
+        "Tommaso Ranzani",
+        "Giada Gerboni",
+        "Laura Lekstutyte",
+        "Prokar Dasgupta",
+        "Thrishantha Nanayakkara"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Control Space Reduction and Real-Time Accurate Modeling of Continuum Manipulators Using Ritz and Ritz-Galerkin Methods",
+      "cites": 110,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Ritz method",
+        "Reduction (mathematics)",
+        "Mathematics",
+        "Galerkin method",
+        "Finite element method"
+      ],
+      "doi": "10.1109/lra.2017.2743100",
+      "coauthors": [
+        "S. M. Hadi Sadati",
+        "S. Elnaz Naghibi",
+        "Ian D. Walker",
+        "D. P. Thrishantha Nanayakkara"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "SoRo",
+      "title": "Soft and Stretchable Sensor Using Biocompatible Electrodes and Liquid for Medical Applications",
+      "cites": 109,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Biocompatible material",
+        "Silicone rubber",
+        "Materials science",
+        "Biocompatibility",
+        "Electrode"
+      ],
+      "doi": "10.1089/soro.2015.0011",
+      "coauthors": [
+        "Stefania Russo",
+        "Tommaso Ranzani",
+        "Hongbin Liu",
+        "Samia Nefti‐Meziani",
+        "Arianna Menciassi"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Kaspar Althoefer: 27년에 걸쳐 136편, 총 5,245회 인용, h=41, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "1999년 \"Use of artificial neural networks for the monitoring of screw insertions\"으로 출발. 첫 500+ 인용 논문까지 15년 걸림: \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520회).",
+        "초기 토픽: Computer science, Artificial intelligence, Automation. 최근 토픽: Computer science, Artificial intelligence, Tactile sensor. 피벗 점수 0.34 → 점진적 이동형.",
+        "저자수 평균: 초기 3.6명 → 후기 5.7명 (팀 확장).",
+        "최다 인용 논문 \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520회) — 커리어 중기에 위치.",
+        "제자 후보 추정 35명 — 상위: Ahmad Ataka(2016~, 우리 마지막저자 12편), Hongbin Liu(2007~, 우리 마지막저자 7편), Agostino Stilli(2014~, 우리 마지막저자 7편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "35명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-4",
+      "headline": "Kaspar Althoefer: over 27 years, 136 papers, 5,245 total cites, h=41, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1999 with \"Use of artificial neural networks for the monitoring of screw insertions\". First 500+ cite paper came 15 years in: \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520 cites).",
+        "Early topics: Computer science, Artificial intelligence, Automation. Recent topics: Computer science, Artificial intelligence, Tactile sensor. Pivot score 0.34 → gradual shift.",
+        "Authors per paper: early 3.6 → late 5.7 (team growth).",
+        "Peak paper \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520 cites) — fell in mid career.",
+        "35 likely students — top: Ahmad Ataka(2016~, we last-author on 12), Hongbin Liu(2007~, we last-author on 7), Agostino Stilli(2014~, we last-author on 7)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "35 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

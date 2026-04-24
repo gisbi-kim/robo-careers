@@ -1,0 +1,1383 @@
+{
+  "name": "Ming Liu",
+  "slug": "ming-liu",
+  "career_stats": {
+    "first_year": 1995,
+    "last_year": 2025,
+    "span": 31,
+    "total_papers": 140,
+    "total_cites": 6752,
+    "h_index": 40,
+    "i10_index": 96,
+    "seminal_count": 2,
+    "max_cites_single_paper": 793
+  },
+  "role_distribution": {
+    "first": 16,
+    "last": 84,
+    "middle": 40
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1995,
+      "title": "Conputed Torque Scheme Based Adptive Tracking for Robot Manipulators"
+    },
+    "first_100cite": {
+      "year": 2012,
+      "title": "Challenging data sets for point cloud registration algorithms",
+      "cites": 258,
+      "gap_from_first": 17
+    },
+    "first_500cite": {
+      "year": 2017,
+      "title": "Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation",
+      "cites": 793,
+      "gap_from_first": 22
+    },
+    "peak_paper": {
+      "year": 2017,
+      "title": "Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation",
+      "cites": 793
+    }
+  },
+  "year_series": {
+    "1995": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "1996": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1997": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1998": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2001": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 1,
+      "cites": 17,
+      "max_cites": 17
+    },
+    "2007": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 1,
+      "cites": 44,
+      "max_cites": 44
+    },
+    "2010": {
+      "n": 1,
+      "cites": 35,
+      "max_cites": 35
+    },
+    "2011": {
+      "n": 2,
+      "cites": 119,
+      "max_cites": 77
+    },
+    "2012": {
+      "n": 5,
+      "cites": 391,
+      "max_cites": 258
+    },
+    "2013": {
+      "n": 3,
+      "cites": 163,
+      "max_cites": 84
+    },
+    "2014": {
+      "n": 4,
+      "cites": 165,
+      "max_cites": 62
+    },
+    "2015": {
+      "n": 2,
+      "cites": 39,
+      "max_cites": 31
+    },
+    "2016": {
+      "n": 1,
+      "cites": 208,
+      "max_cites": 208
+    },
+    "2017": {
+      "n": 2,
+      "cites": 802,
+      "max_cites": 793
+    },
+    "2018": {
+      "n": 3,
+      "cites": 35,
+      "max_cites": 15
+    },
+    "2019": {
+      "n": 14,
+      "cites": 1843,
+      "max_cites": 560
+    },
+    "2020": {
+      "n": 18,
+      "cites": 1119,
+      "max_cites": 353
+    },
+    "2021": {
+      "n": 27,
+      "cites": 1055,
+      "max_cites": 156
+    },
+    "2022": {
+      "n": 19,
+      "cites": 389,
+      "max_cites": 121
+    },
+    "2023": {
+      "n": 10,
+      "cites": 150,
+      "max_cites": 43
+    },
+    "2024": {
+      "n": 14,
+      "cites": 128,
+      "max_cites": 40
+    },
+    "2025": {
+      "n": 10,
+      "cites": 44,
+      "max_cites": 30
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.2
+        },
+        {
+          "c": "Adaptive control",
+          "w": 0.2
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.1
+        },
+        {
+          "c": "Convergence (economics)",
+          "w": 0.1
+        },
+        {
+          "c": "Lyapunov function",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.2
+        },
+        {
+          "c": "Set (abstract data type)",
+          "w": 0.2
+        },
+        {
+          "c": "Position (finance)",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Point (geometry)",
+          "w": 0.2
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Autopilot",
+          "w": 0.1
+        },
+        {
+          "c": "Rudder",
+          "w": 0.1
+        },
+        {
+          "c": "Elevator",
+          "w": 0.1
+        },
+        {
+          "c": "Flight dynamics",
+          "w": 0.1
+        },
+        {
+          "c": "Flight test",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.187
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.107
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.093
+        },
+        {
+          "c": "Omnidirectional antenna",
+          "w": 0.067
+        },
+        {
+          "c": "Robot",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.191
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.073
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.036
+        },
+        {
+          "c": "Visible light communication",
+          "w": 0.027
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 88,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.186
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.116
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.055
+        },
+        {
+          "c": "Lidar",
+          "w": 0.03
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.025
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.12
+        },
+        {
+          "c": "Point cloud",
+          "w": 0.04
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.04
+        },
+        {
+          "c": "Engineering",
+          "w": 0.04
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "ICRA": 2
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 5,
+        "T-RO": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "IROS": 11,
+        "RA-L": 6,
+        "ICRA": 5
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "RA-L": 29,
+        "ICRA": 27,
+        "IROS": 21,
+        "T-Mech": 9,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 3,
+        "T-Mech": 2,
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 1,
+      "unique_coauthors": 0,
+      "top_coauthors": []
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 2,
+      "unique_coauthors": 1,
+      "top_coauthors": [
+        [
+          "Nghe Huan Quach",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 4,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Gregory K. Egan",
+          1
+        ],
+        [
+          "YunJian Ge",
+          1
+        ],
+        [
+          "Davide Scaramuzza",
+          1
+        ],
+        [
+          "Cédric Pradalier",
+          1
+        ],
+        [
+          "Roland Siegwart",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 3.67,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Roland Siegwart",
+          13
+        ],
+        [
+          "François Pomerleau",
+          6
+        ],
+        [
+          "Francis Colas",
+          5
+        ],
+        [
+          "Cédric Pradalier",
+          4
+        ],
+        [
+          "Qijun Chen",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 4.14,
+      "unique_coauthors": 37,
+      "top_coauthors": [
+        [
+          "Lei Tai",
+          7
+        ],
+        [
+          "Lujia Wang",
+          4
+        ],
+        [
+          "Yuxiang Sun",
+          4
+        ],
+        [
+          "Haoyang Ye",
+          4
+        ],
+        [
+          "Peng Yun",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 5.32,
+      "unique_coauthors": 137,
+      "top_coauthors": [
+        [
+          "Yuxiang Sun",
+          19
+        ],
+        [
+          "Lujia Wang",
+          18
+        ],
+        [
+          "Jin Wu",
+          17
+        ],
+        [
+          "Jianhao Jiao",
+          17
+        ],
+        [
+          "Huaiyang Huang",
+          12
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 6.1,
+      "unique_coauthors": 33,
+      "top_coauthors": [
+        [
+          "Jun Ma",
+          6
+        ],
+        [
+          "Fulong Ma",
+          5
+        ],
+        [
+          "Yuxuan Liu",
+          4
+        ],
+        [
+          "Guoyang Zhao",
+          4
+        ],
+        [
+          "Weiqing Qi",
+          4
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.424,
+  "top_repeat_coauthors": [
+    {
+      "name": "Lujia Wang",
+      "count": 24,
+      "first_year": 2014,
+      "last_year": 2025
+    },
+    {
+      "name": "Yuxiang Sun",
+      "count": 23,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Jianhao Jiao",
+      "count": 20,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Jin Wu",
+      "count": 18,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Roland Siegwart",
+      "count": 14,
+      "first_year": 2009,
+      "last_year": 2014
+    },
+    {
+      "name": "Huaiyang Huang",
+      "count": 13,
+      "first_year": 2019,
+      "last_year": 2024
+    },
+    {
+      "name": "Yuxuan Liu",
+      "count": 13,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Rui Fan",
+      "count": 12,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Peide Cai",
+      "count": 12,
+      "first_year": 2020,
+      "last_year": 2022
+    },
+    {
+      "name": "Haoyang Ye",
+      "count": 11,
+      "first_year": 2019,
+      "last_year": 2022
+    },
+    {
+      "name": "Hengli Wang",
+      "count": 11,
+      "first_year": 2019,
+      "last_year": 2022
+    },
+    {
+      "name": "Lei Tai",
+      "count": 9,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Fulong Ma",
+      "count": 9,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Jun Ma",
+      "count": 8,
+      "first_year": 2024,
+      "last_year": 2025
+    },
+    {
+      "name": "Chengju Liu",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2024
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Yuxiang Sun",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 23,
+      "total_copubs": 23,
+      "student_first_author_count": 3,
+      "we_last_author_count": 20,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jianhao Jiao",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 19,
+      "total_copubs": 20,
+      "student_first_author_count": 7,
+      "we_last_author_count": 18,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jin Wu",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 18,
+      "total_copubs": 18,
+      "student_first_author_count": 5,
+      "we_last_author_count": 15,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Huaiyang Huang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 13,
+      "student_first_author_count": 4,
+      "we_last_author_count": 12,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Peide Cai",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 4,
+      "we_last_author_count": 11,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Haoyang Ye",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 3,
+      "we_last_author_count": 11,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hengli Wang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 7,
+      "we_last_author_count": 9,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Rui Fan",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 12,
+      "student_first_author_count": 2,
+      "we_last_author_count": 9,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Lei Tai",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Jie Cheng",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Peng Yun",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Yuxuan Liu",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 13,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sukai Wang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Shuyang Zhang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yang Yu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Sheng Wang",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Xiangcheng Hu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Zhenhua Xu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 6,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Fulong Ma",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Bowen Yang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yuying Chen",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Lujia Wang",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 24,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yingbing Chen",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Hexiang Wei",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Qing Liang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Congcong Liu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Ren Xin",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Hongji Liu",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Boyi Liu",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "M. Usman Maqbool Bhutta",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Xuebin Sun",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Kejie Qiu",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Fangyi Zhang",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Zhiqiang Chen",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Shipeng Zhong",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Tianshuai Hu",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Guoyang Zhao",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Weiqing Qi",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "François Pomerleau",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Abbas Alili",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Amirreza Naseri",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jingwei Zhang",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Shu Li",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Qingqing Yan",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Chinmay Shah",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2022
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1995,
+      2004
+    ],
+    "early_mean_n_authors": 1.33,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.2
+  },
+  "citation_half_life_years": 7.0,
+  "bursts": {
+    "productivity": [
+      2021,
+      2022
+    ],
+    "impact": [
+      2019,
+      2020,
+      2021
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2017,
+      "venue": "IROS",
+      "title": "Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation",
+      "cites": 793,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Mobile robot",
+        "Computer science",
+        "Reinforcement learning",
+        "Artificial intelligence",
+        "Computer vision"
+      ],
+      "doi": "10.1109/iros.2017.8202134",
+      "coauthors": [
+        "Lei Tai",
+        "Giuseppe Paolo"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "ICRA",
+      "title": "Tightly Coupled 3D Lidar Inertial Odometry and Mapping",
+      "cites": 560,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Odometry",
+        "Lidar",
+        "Computer science",
+        "Artificial intelligence",
+        "Inertial frame of reference"
+      ],
+      "doi": "10.1109/icra.2019.8793511",
+      "coauthors": [
+        "Haoyang Ye",
+        "Yuying Chen"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes",
+      "cites": 482,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Segmentation",
+        "RGB color model",
+        "Computer vision"
+      ],
+      "doi": "10.1109/lra.2019.2904733",
+      "coauthors": [
+        "Yuxiang Sun",
+        "Weixun Zuo"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "ICRA",
+      "title": "LINS: A Lidar-Inertial State Estimator for Robust and Efficient Navigation",
+      "cites": 353,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Inertial measurement unit",
+        "Odometry",
+        "Robustness (evolution)",
+        "Lidar"
+      ],
+      "doi": "10.1109/icra40945.2020.9197567",
+      "coauthors": [
+        "Chao Qin",
+        "Haoyang Ye",
+        "Christian E. Pranata",
+        "Jun Han",
+        "Shuyang Zhang"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems",
+      "cites": 264,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Reinforcement learning",
+        "Architecture",
+        "Cloud computing",
+        "Lifelong learning",
+        "Computer science"
+      ],
+      "doi": "10.1109/lra.2019.2931179",
+      "coauthors": [
+        "Boyi Liu",
+        "Lujia Wang"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "Challenging data sets for point cloud registration algorithms",
+      "cites": 258,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Point cloud",
+        "Computer science",
+        "Iterative closest point",
+        "Computer vision",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1177/0278364912458814",
+      "coauthors": [
+        "François Pomerleau",
+        "Francis Colas",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "IROS",
+      "title": "A deep-network solution towards model-less obstacle avoidance",
+      "cites": 208,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Obstacle avoidance",
+        "Computer science",
+        "Artificial intelligence",
+        "Obstacle",
+        "Process (computing)"
+      ],
+      "doi": "10.1109/iros.2016.7759428",
+      "coauthors": [
+        "Lei Tai",
+        "Shaohua Li"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "Ground-Aware Monocular 3D Object Detection for Autonomous Driving",
+      "cites": 156,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Monocular",
+        "Computer vision",
+        "Object detection"
+      ],
+      "doi": "10.1109/lra.2021.3052442",
+      "coauthors": [
+        "Yuxuan Liu",
+        "Yixuan Yuan"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "High-Speed Autonomous Drifting With Deep Reinforcement Learning",
+      "cites": 144,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Trajectory",
+        "Controller (irrigation)",
+        "Reinforcement learning",
+        "Generalization",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/lra.2020.2967299",
+      "coauthors": [
+        "Peide Cai",
+        "Xiaodong Mei",
+        "Lei Tai",
+        "Yuxiang Sun"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "Robot Navigation in Crowds by Graph Convolutional Networks With Attention Learned From Human Gaze",
+      "cites": 137,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Crowds",
+        "Computer science",
+        "Reinforcement learning",
+        "Interpretability",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/lra.2020.2972868",
+      "coauthors": [
+        "Yuying Chen",
+        "Congcong Liu",
+        "Bertram E. Shi"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Ming Liu: 31년에 걸쳐 140편, 총 6,752회 인용, h=40, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "1995년 \"Conputed Torque Scheme Based Adptive Tracking for Robot Manipulators\"으로 출발. 첫 500+ 인용 논문까지 22년 걸림: \"Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation\" (2017, 793회).",
+        "초기 토픽: Control theory (sociology), Adaptive control, Controller (irrigation). 최근 토픽: Computer science, Artificial intelligence, Point cloud. 피벗 점수 0.42 → 점진적 이동형.",
+        "저자수 평균: 초기 1.3명 → 후기 5.2명 (팀 확장).",
+        "최다 인용 논문 \"Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation\" (2017, 793회) — 커리어 후기에 위치.",
+        "제자 후보 추정 45명 — 상위: Yuxiang Sun(2018~, 우리 마지막저자 20편), Jianhao Jiao(2019~, 우리 마지막저자 18편), Jin Wu(2020~, 우리 마지막저자 15편)."
+      ],
+      "lessons": [
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "45명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Ming Liu: over 31 years, 140 papers, 6,752 total cites, h=40, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1995 with \"Conputed Torque Scheme Based Adptive Tracking for Robot Manipulators\". First 500+ cite paper came 22 years in: \"Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation\" (2017, 793 cites).",
+        "Early topics: Control theory (sociology), Adaptive control, Controller (irrigation). Recent topics: Computer science, Artificial intelligence, Point cloud. Pivot score 0.42 → gradual shift.",
+        "Authors per paper: early 1.3 → late 5.2 (team growth).",
+        "Peak paper \"Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation\" (2017, 793 cites) — fell in late career.",
+        "45 likely students — top: Yuxiang Sun(2018~, we last-author on 20), Jianhao Jiao(2019~, we last-author on 18), Jin Wu(2020~, we last-author on 15)."
+      ],
+      "lessons": [
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "Late-career team scaling — solo researcher → lab leader.",
+        "45 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

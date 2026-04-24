@@ -1,0 +1,1303 @@
+{
+  "name": "Daniel E. Koditschek",
+  "slug": "daniel-e-koditschek",
+  "career_stats": {
+    "first_year": 1987,
+    "last_year": 2023,
+    "span": 37,
+    "total_papers": 105,
+    "total_cites": 6530,
+    "h_index": 40,
+    "i10_index": 84,
+    "seminal_count": 1,
+    "max_cites_single_paper": 1307
+  },
+  "role_distribution": {
+    "first": 3,
+    "middle": 11,
+    "last": 91
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1987,
+      "title": "Exact robot navigation by means of potential functions: Some topological considerations"
+    },
+    "first_100cite": {
+      "year": 1987,
+      "title": "Exact robot navigation by means of potential functions: Some topological considerations",
+      "cites": 345,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2001,
+      "title": "RHex: A Simple and Highly Mobile Hexapod Robot",
+      "cites": 1307,
+      "gap_from_first": 14
+    },
+    "first_1000cite": {
+      "year": 2001,
+      "title": "RHex: A Simple and Highly Mobile Hexapod Robot",
+      "cites": 1307,
+      "gap_from_first": 14
+    },
+    "peak_paper": {
+      "year": 2001,
+      "title": "RHex: A Simple and Highly Mobile Hexapod Robot",
+      "cites": 1307
+    }
+  },
+  "year_series": {
+    "1987": {
+      "n": 1,
+      "cites": 345,
+      "max_cites": 345
+    },
+    "1988": {
+      "n": 3,
+      "cites": 147,
+      "max_cites": 75
+    },
+    "1989": {
+      "n": 3,
+      "cites": 103,
+      "max_cites": 84
+    },
+    "1990": {
+      "n": 3,
+      "cites": 119,
+      "max_cites": 68
+    },
+    "1991": {
+      "n": 3,
+      "cites": 332,
+      "max_cites": 273
+    },
+    "1992": {
+      "n": 2,
+      "cites": 114,
+      "max_cites": 81
+    },
+    "1993": {
+      "n": 2,
+      "cites": 89,
+      "max_cites": 86
+    },
+    "1994": {
+      "n": 2,
+      "cites": 279,
+      "max_cites": 228
+    },
+    "1995": {
+      "n": 4,
+      "cites": 85,
+      "max_cites": 33
+    },
+    "1996": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1997": {
+      "n": 2,
+      "cites": 27,
+      "max_cites": 25
+    },
+    "1998": {
+      "n": 3,
+      "cites": 123,
+      "max_cites": 97
+    },
+    "1999": {
+      "n": 3,
+      "cites": 510,
+      "max_cites": 453
+    },
+    "2000": {
+      "n": 3,
+      "cites": 120,
+      "max_cites": 115
+    },
+    "2001": {
+      "n": 3,
+      "cites": 1355,
+      "max_cites": 1307
+    },
+    "2002": {
+      "n": 2,
+      "cites": 55,
+      "max_cites": 55
+    },
+    "2003": {
+      "n": 4,
+      "cites": 111,
+      "max_cites": 71
+    },
+    "2004": {
+      "n": 7,
+      "cites": 420,
+      "max_cites": 142
+    },
+    "2005": {
+      "n": 2,
+      "cites": 91,
+      "max_cites": 77
+    },
+    "2006": {
+      "n": 1,
+      "cites": 129,
+      "max_cites": 129
+    },
+    "2007": {
+      "n": 3,
+      "cites": 127,
+      "max_cites": 74
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 2,
+      "cites": 191,
+      "max_cites": 173
+    },
+    "2010": {
+      "n": 1,
+      "cites": 25,
+      "max_cites": 25
+    },
+    "2011": {
+      "n": 1,
+      "cites": 56,
+      "max_cites": 56
+    },
+    "2012": {
+      "n": 3,
+      "cites": 142,
+      "max_cites": 108
+    },
+    "2013": {
+      "n": 2,
+      "cites": 80,
+      "max_cites": 65
+    },
+    "2014": {
+      "n": 2,
+      "cites": 63,
+      "max_cites": 53
+    },
+    "2015": {
+      "n": 4,
+      "cites": 126,
+      "max_cites": 65
+    },
+    "2016": {
+      "n": 8,
+      "cites": 650,
+      "max_cites": 313
+    },
+    "2017": {
+      "n": 4,
+      "cites": 84,
+      "max_cites": 29
+    },
+    "2018": {
+      "n": 7,
+      "cites": 143,
+      "max_cites": 63
+    },
+    "2019": {
+      "n": 3,
+      "cites": 144,
+      "max_cites": 112
+    },
+    "2020": {
+      "n": 5,
+      "cites": 93,
+      "max_cites": 40
+    },
+    "2021": {
+      "n": 2,
+      "cites": 22,
+      "max_cites": 18
+    },
+    "2022": {
+      "n": 2,
+      "cites": 10,
+      "max_cites": 6
+    },
+    "2023": {
+      "n": 3,
+      "cites": 20,
+      "max_cites": 12
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1987,
+      "end": 1991,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.138
+        },
+        {
+          "c": "Computer science",
+          "w": 0.123
+        },
+        {
+          "c": "Bounded function",
+          "w": 0.046
+        },
+        {
+          "c": "Class (philosophy)",
+          "w": 0.046
+        },
+        {
+          "c": "Simple (philosophy)",
+          "w": 0.046
+        }
+      ]
+    },
+    {
+      "start": 1992,
+      "end": 1996,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Robot",
+          "w": 0.16
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.04
+        },
+        {
+          "c": "Control (management)",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.129
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.071
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.043
+        },
+        {
+          "c": "Hexapod",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.125
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.075
+        },
+        {
+          "c": "Robot",
+          "w": 0.075
+        },
+        {
+          "c": "Hexapod",
+          "w": 0.075
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.171
+        },
+        {
+          "c": "Robot",
+          "w": 0.114
+        },
+        {
+          "c": "Climbing",
+          "w": 0.086
+        },
+        {
+          "c": "Hexapod",
+          "w": 0.057
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.179
+        },
+        {
+          "c": "Robot",
+          "w": 0.147
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.053
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.042
+        },
+        {
+          "c": "Climbing",
+          "w": 0.021
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.162
+        },
+        {
+          "c": "Robot",
+          "w": 0.095
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.048
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.029
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2023,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.16
+        },
+        {
+          "c": "Planner",
+          "w": 0.08
+        },
+        {
+          "c": "Reachability",
+          "w": 0.04
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.04
+        },
+        {
+          "c": "Leverage (statistics)",
+          "w": 0.04
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1987,
+      "end": 1991,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1992,
+      "end": 1996,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "mix": {
+        "ICRA": 12,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "ICRA": 7,
+        "IJRR": 4,
+        "T-RO": 3,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "ICRA": 3,
+        "IROS": 2,
+        "RSS": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "IROS": 6,
+        "ICRA": 6,
+        "IJRR": 3,
+        "T-RO": 3,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "ICRA": 9,
+        "IJRR": 4,
+        "RA-L": 4,
+        "IROS": 3,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2023,
+      "mix": {
+        "ICRA": 3,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1987,
+      "end": 1991,
+      "mean_n_authors": 2.08,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Martin Bühler",
+          5
+        ],
+        [
+          "Elon Rimon",
+          3
+        ],
+        [
+          "Louis L. Whitcomb",
+          3
+        ],
+        [
+          "P. J. Kindlmann",
+          2
+        ],
+        [
+          "Alfred A. Rizzi",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1992,
+      "end": 1996,
+      "mean_n_authors": 2.6,
+      "unique_coauthors": 10,
+      "top_coauthors": [
+        [
+          "Alfred A. Rizzi",
+          6
+        ],
+        [
+          "Robert R. Burridge",
+          2
+        ],
+        [
+          "Louis L. Whitcomb",
+          1
+        ],
+        [
+          "João B. D. Cabrera",
+          1
+        ],
+        [
+          "Martin Buehler",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1997,
+      "end": 2001,
+      "mean_n_authors": 2.86,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Uluc Saranli",
+          4
+        ],
+        [
+          "Jun Nakanishi",
+          3
+        ],
+        [
+          "Toshio Fukuda",
+          3
+        ],
+        [
+          "Martin Buehler",
+          3
+        ],
+        [
+          "William J. Schwind",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 2.81,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "Pei-Chun Lin",
+          5
+        ],
+        [
+          "Haldun Komsuoglu",
+          5
+        ],
+        [
+          "Uluc Saranli",
+          3
+        ],
+        [
+          "Richard Altendorfer",
+          3
+        ],
+        [
+          "Philip Holmes",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 4.57,
+      "unique_coauthors": 20,
+      "top_coauthors": [
+        [
+          "Jonathan E. Clark",
+          4
+        ],
+        [
+          "Goran Lynch",
+          2
+        ],
+        [
+          "Haldun Komsuoglu",
+          2
+        ],
+        [
+          "Daniel I. Goldman",
+          1
+        ],
+        [
+          "Pei-Chun Lin",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 2.84,
+      "unique_coauthors": 21,
+      "top_coauthors": [
+        [
+          "Avik De",
+          6
+        ],
+        [
+          "Aaron M. Johnson",
+          5
+        ],
+        [
+          "Ömür Arslan",
+          3
+        ],
+        [
+          "G. Clark Haynes",
+          2
+        ],
+        [
+          "Paul Reverdy",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 3.52,
+      "unique_coauthors": 34,
+      "top_coauthors": [
+        [
+          "Ömür Arslan",
+          6
+        ],
+        [
+          "Vasileios Vasilopoulos",
+          5
+        ],
+        [
+          "Avik De",
+          4
+        ],
+        [
+          "T. Turner Topping",
+          2
+        ],
+        [
+          "Vincent Pacelli",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2023,
+      "mean_n_authors": 4.4,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Vasileios Vasilopoulos",
+          2
+        ],
+        [
+          "Sebastian Castro",
+          1
+        ],
+        [
+          "William Vega-Brown",
+          1
+        ],
+        [
+          "Nicholas Roy",
+          1
+        ],
+        [
+          "Georgios Pavlakos",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.236,
+  "top_repeat_coauthors": [
+    {
+      "name": "Alfred A. Rizzi",
+      "count": 11,
+      "first_year": 1991,
+      "last_year": 2012
+    },
+    {
+      "name": "Avik De",
+      "count": 10,
+      "first_year": 2013,
+      "last_year": 2019
+    },
+    {
+      "name": "Ömür Arslan",
+      "count": 9,
+      "first_year": 2016,
+      "last_year": 2019
+    },
+    {
+      "name": "Haldun Komsuoglu",
+      "count": 8,
+      "first_year": 2001,
+      "last_year": 2007
+    },
+    {
+      "name": "Uluc Saranli",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2004
+    },
+    {
+      "name": "Pei-Chun Lin",
+      "count": 7,
+      "first_year": 2003,
+      "last_year": 2012
+    },
+    {
+      "name": "Vasileios Vasilopoulos",
+      "count": 7,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Aaron M. Johnson",
+      "count": 6,
+      "first_year": 2010,
+      "last_year": 2016
+    },
+    {
+      "name": "Martin Bühler",
+      "count": 5,
+      "first_year": 1988,
+      "last_year": 1991
+    },
+    {
+      "name": "Martin Buehler",
+      "count": 5,
+      "first_year": 1994,
+      "last_year": 2004
+    },
+    {
+      "name": "Jonathan E. Clark",
+      "count": 5,
+      "first_year": 2007,
+      "last_year": 2012
+    },
+    {
+      "name": "Louis L. Whitcomb",
+      "count": 4,
+      "first_year": 1990,
+      "last_year": 1992
+    },
+    {
+      "name": "Gabriel A. D. Lopes",
+      "count": 4,
+      "first_year": 2003,
+      "last_year": 2007
+    },
+    {
+      "name": "P. J. Kindlmann",
+      "count": 3,
+      "first_year": 1988,
+      "last_year": 1994
+    },
+    {
+      "name": "Elon Rimon",
+      "count": 3,
+      "first_year": 1988,
+      "last_year": 1990
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Avik De",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 10,
+      "student_first_author_count": 5,
+      "we_last_author_count": 9,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Uluc Saranli",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Pei-Chun Lin",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 7,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Haldun Komsuoglu",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Gabriel A. D. Lopes",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Jun Nakanishi",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 1999
+    },
+    {
+      "name": "Eric Klavins",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "William J. Schwind",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 1998
+    },
+    {
+      "name": "Robert R. Burridge",
+      "student_first_year": 1995,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 1999
+    },
+    {
+      "name": "Gavin D. Kenneally",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "J. Diego Caporale",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Vasileios Vasilopoulos",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Aaron M. Johnson",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "C. Serkan Karagöz",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Noah J. Cowan",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1999
+    },
+    {
+      "name": "Goran A. Lynch",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Paul Reverdy",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Joel Weingarten",
+      "student_first_year": 2004,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "T. Turner Topping",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Vincent Pacelli",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Richard Altendorfer",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2004
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1987,
+      1996
+    ],
+    "early_mean_n_authors": 2.3,
+    "late_window": [
+      2014,
+      2023
+    ],
+    "late_mean_n_authors": 3.4
+  },
+  "citation_half_life_years": 25.0,
+  "bursts": {
+    "productivity": [
+      2004,
+      2016,
+      2018
+    ],
+    "impact": [
+      2001
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2001,
+      "venue": "IJRR",
+      "title": "RHex: A Simple and Highly Mobile Hexapod Robot",
+      "cites": 1307,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Hexapod",
+        "Traverse",
+        "Computer science",
+        "Tree traversal",
+        "Robot"
+      ],
+      "doi": "10.1177/02783640122067570",
+      "coauthors": [
+        "Uluc Saranli",
+        "Martin Buehler"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "IJRR",
+      "title": "Sequential Composition of Dynamically Dexterous Robot Behaviors",
+      "cites": 453,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Workspace",
+        "Paddle",
+        "Ball (mathematics)",
+        "Robot",
+        "Computer science"
+      ],
+      "doi": "10.1177/02783649922066385",
+      "coauthors": [
+        "Robert R. Burridge",
+        "Alfred A. Rizzi"
+      ]
+    },
+    {
+      "year": 1987,
+      "venue": "ICRA",
+      "title": "Exact robot navigation by means of potential functions: Some topological considerations",
+      "cites": 345,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Bounded function",
+        "Planar",
+        "Topology (electrical circuits)",
+        "Robot",
+        "Differential (mechanical device)"
+      ],
+      "doi": "10.1109/robot.1987.1088038",
+      "coauthors": []
+    },
+    {
+      "year": 2016,
+      "venue": "RA-L",
+      "title": "Design Principles for a Family of Direct-Drive Legged Robots",
+      "cites": 313,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Computer science",
+        "Robustness (evolution)",
+        "Transparency (behavior)",
+        "Legged robot"
+      ],
+      "doi": "10.1109/lra.2016.2528294",
+      "coauthors": [
+        "Gavin D. Kenneally",
+        "Avik De"
+      ]
+    },
+    {
+      "year": 1991,
+      "venue": "IJRR",
+      "title": "Analysis of a Simplified Hopping Robot",
+      "cites": 273,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Nonlinear system",
+        "Computer science",
+        "Ball (mathematics)",
+        "Stability (learning theory)"
+      ],
+      "doi": "10.1177/027836499101000601",
+      "coauthors": [
+        "Martin Bühler"
+      ]
+    },
+    {
+      "year": 1994,
+      "venue": "IJRR",
+      "title": "Planning and Control of Robotic Juggling and Catching Tasks",
+      "cites": 228,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Robotics",
+        "Control (management)",
+        "Robot",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1177/027836499401300201",
+      "coauthors": [
+        "Martin Buehler",
+        "P. J. Kindlmann"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "ICRA",
+      "title": "Rapid pole climbing with a quadrupedal robot",
+      "cites": 173,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Climbing",
+        "Robot",
+        "Legged robot",
+        "Computer science",
+        "Simulation"
+      ],
+      "doi": "10.1109/robot.2009.5152830",
+      "coauthors": [
+        "G. Clark Haynes",
+        "Alex Khripin",
+        "Goran Lynch",
+        "Jonathan Amory",
+        "Aaron Saunders",
+        "Alfred A. Rizzi"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "ICRA",
+      "title": "Automated Gait Adaptation for Legged Robots",
+      "cites": 142,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Gait",
+        "Tripod (photography)",
+        "Computer science",
+        "Adaptation (eye)"
+      ],
+      "doi": "10.1109/robot.2004.1307381",
+      "coauthors": [
+        "Joel Weingarten",
+        "Gabriel A. D. Lopes",
+        "Martin Buehler",
+        "Richard E. Groff"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "T-RO",
+      "title": "Sensor data fusion for body state estimation in a hexapod robot with dynamical gaits",
+      "cites": 129,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Hexapod",
+        "Accelerometer",
+        "Sensor fusion",
+        "Inertial measurement unit",
+        "Kalman filter"
+      ],
+      "doi": "10.1109/tro.2006.878954",
+      "coauthors": [
+        "Pei-Chun Lin",
+        "Haldun Komsuoglu"
+      ]
+    },
+    {
+      "year": 2000,
+      "venue": "ICRA",
+      "title": "Design, Modeling and Preliminary Control of a Compliant Hexapod Robot",
+      "cites": 115,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Hexapod",
+        "Computer science",
+        "Simplicity",
+        "Robot",
+        "Control engineering"
+      ],
+      "doi": "10.1109/robot.2000.846418",
+      "coauthors": [
+        "Uluc Saranli",
+        "Martin Buehler"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Daniel E. Koditschek: 37년에 걸쳐 105편, 총 6,530회 인용, h=40, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "1987년 \"Exact robot navigation by means of potential functions: Some topological considerations\"으로 출발. 첫 500+ 인용 논문까지 14년 걸림: \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307회). 1000+ 인용 논문: \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307회).",
+        "초기 토픽: Robot, Computer science, Bounded function. 최근 토픽: Computer science, Planner, Reachability. 피벗 점수 0.24 → 토픽 지속형.",
+        "저자수 평균: 초기 2.3명 → 후기 3.4명 (팀 확장).",
+        "최다 인용 논문 \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307회) — 커리어 중기에 위치.",
+        "제자 후보 추정 21명 — 상위: Avik De(2013~, 우리 마지막저자 9편), Uluc Saranli(1998~, 우리 마지막저자 6편), Pei-Chun Lin(2003~, 우리 마지막저자 6편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "21명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Daniel E. Koditschek: over 37 years, 105 papers, 6,530 total cites, h=40, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1987 with \"Exact robot navigation by means of potential functions: Some topological considerations\". First 500+ cite paper came 14 years in: \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307 cites). 1000+ cite paper: \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307 cites).",
+        "Early topics: Robot, Computer science, Bounded function. Recent topics: Computer science, Planner, Reachability. Pivot score 0.24 → topic-stable.",
+        "Authors per paper: early 2.3 → late 3.4 (team growth).",
+        "Peak paper \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307 cites) — fell in mid career.",
+        "21 likely students — top: Avik De(2013~, we last-author on 9), Uluc Saranli(1998~, we last-author on 6), Pei-Chun Lin(2003~, we last-author on 6)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "21 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}
