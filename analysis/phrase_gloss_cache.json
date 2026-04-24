@@ -659,5 +659,449 @@
     "display": "Targetless Sensor Extrinsic Calibration",
     "ko": "전용 캘리브레이션 타겟 없이 주행 중 데이터만으로 센서 간 외부 파라미터를 추정.",
     "en": "Estimating extrinsic parameters between sensors from in-the-wild data, with no dedicated calibration target."
+  },
+
+  "industrial insertion": {
+    "display": "Industrial Insertion / Assembly",
+    "ko": "커넥터·부품 끼워 맞추기 같은 공장 조립 태스크 — 접촉 제어와 학습의 대표 벤치마크.",
+    "en": "Factory assembly tasks like connector mating — a canonical benchmark for contact-rich control and robot learning."
+  },
+
+  "square root": {
+    "display": "Square-Root SAM",
+    "ko": "Factor graph SLAM을 QR·Cholesky 분해로 푸는 방식 — iSAM/GTSAM의 수치적 토대 (Dellaert).",
+    "en": "Solving factor-graph SLAM through QR/Cholesky on a square-root information matrix — the numerical backbone of iSAM/GTSAM (Dellaert)."
+  },
+
+  "factor graphs": {
+    "display": "Factor Graphs in Robotics",
+    "ko": "확률적 추정·플래닝 문제를 변수-팩터 이분 그래프로 표현 — SLAM·모션 플래닝의 공용 프레임워크.",
+    "en": "Representing estimation and planning problems as bipartite variable-factor graphs — a shared framework for SLAM and motion planning."
+  },
+
+  "active guide wire": {
+    "display": "Active Guide-Wire (Endovascular)",
+    "ko": "혈관 내에서 선단이 스스로 굽혀 조향되는 능동형 가이드 와이어 — 엔도바스큘러 수술 로봇의 핵심 툴.",
+    "en": "A guide wire whose tip can bend under active control for navigating vessels — a core tool in endovascular surgical robotics."
+  },
+
+  "micro": {
+    "display": "Microrobotics",
+    "ko": "mm/μm 크기의 로봇 — 마이크로 유체·세포 조작·체내 치료 등 초소형 스케일의 로보틱스.",
+    "en": "Robotics at millimeter/micrometer scale — covering microfluidics, cell manipulation, and in-body therapeutics."
+  },
+
+  "microfluidic chip": {
+    "display": "Microfluidic-Chip Robotics",
+    "ko": "마이크로 유체 채널 안에서 자기장·초음파로 작은 로봇을 구동·제어하는 연구.",
+    "en": "Driving and steering tiny robots inside microfluidic channels via magnetic or acoustic fields."
+  },
+
+  "vision-based adaptive interactive": {
+    "display": "Vision-Based Adaptive Behaviors",
+    "ko": "영상 정보로 환경에 적응적으로 반응하는 동물형 로봇 — 1990년대 후반 바이오로보틱스의 고전 모티프.",
+    "en": "Animal-style robots that adapt reactively to visual input — a classic late-1990s biorobotics thread."
+  },
+
+  "human-like walking": {
+    "display": "Human-Like Biped Walking",
+    "ko": "발가락 지지·기울어짐 등 사람 보행 요소를 모방해 휴머노이드 걸음을 자연스럽게 만드는 연구.",
+    "en": "Making humanoid gait feel natural by mimicking features of human walking such as toe support and trunk lean."
+  },
+
+  "dlr hand arm": {
+    "display": "DLR Hand-Arm System",
+    "ko": "DLR의 대표 변동강성·토크제어 팔·손 통합 시스템 — 가변 임피던스 연구의 표준 플랫폼.",
+    "en": "DLR's integrated variable-stiffness, torque-controlled hand-arm platform — a reference testbed for impedance research."
+  },
+
+  "autonomous flight": {
+    "display": "Autonomous UAV Flight",
+    "ko": "무인기가 스스로 목표를 설정·인식·회피하며 비행하는 전체 스택 — 인식·계획·제어 통합.",
+    "en": "The full stack of a UAV flying itself — integrated perception, planning, and control."
+  },
+
+  "trajectory planning": {
+    "display": "Trajectory Planning",
+    "ko": "시간을 포함한 궤적(위치+속도+가속)을 생성하는 문제 — 경로 플래닝의 상위 개념.",
+    "en": "Generating time-parameterized trajectories (position, velocity, acceleration) — the richer superset of path planning."
+  },
+
+  "privacy communication constraints": {
+    "display": "Privacy-/Bandwidth-Aware Multi-Robot SLAM",
+    "ko": "로봇끼리 공유할 데이터를 최소화하면서 공동 지도·추정을 수행하는 분산 SLAM.",
+    "en": "Distributed SLAM where robots exchange as little information as possible while still building a consistent joint map."
+  },
+
+  "sensor planning planar": {
+    "display": "Sensor-Based Planning",
+    "ko": "센서만으로 환경을 점진적으로 이해하며 경로를 확장하는 계획 방식 — 위상 지도(GVG) 기반.",
+    "en": "Incrementally planning paths using sensor readings alone — typically on a topological (GVG) representation."
+  },
+
+  "generalized voronoi graph": {
+    "display": "Generalized Voronoi Graph (GVG)",
+    "ko": "자유 공간의 위상 구조를 Voronoi 다이어그램으로 요약한 모바일 로봇 네비게이션·커버리지 기법.",
+    "en": "A topological representation of free space as a Voronoi diagram, used for navigation and coverage planning."
+  },
+
+  "snake": {
+    "display": "Snake Robots",
+    "ko": "다수의 관절을 이어붙인 가늘고 긴 로봇 — 좁은 공간 탐사·파이프 내부 진입에 특화 (Choset 등).",
+    "en": "Slender, many-jointed robots — specialized for confined-space exploration and pipe-interior traversal (Choset and others)."
+  },
+
+  "randomized preprocessing configuration": {
+    "display": "PRM Preprocessing",
+    "ko": "구성 공간을 사전에 무작위 샘플링해 로드맵을 만들어 두는 Probabilistic Roadmap의 오프라인 단계.",
+    "en": "The offline phase of PRM, where configuration space is randomly sampled to build a reusable roadmap."
+  },
+
+  "twisted string": {
+    "display": "Twisted-String Actuator",
+    "ko": "꼬이는 실의 비선형 변위를 이용해 강한 인장력을 만드는 컴팩트 액추에이터 — 웨어러블·외골격 응용.",
+    "en": "A compact actuator that generates large pulling force by twisting a string — popular in wearable and exoskeleton designs."
+  },
+
+  "odometry mapping": {
+    "display": "LiDAR Odometry & Mapping (LOAM)",
+    "ko": "Ji Zhang의 실시간 LiDAR SLAM 파이프라인 — 저지연 odometry와 고정밀 매핑을 두 단계로 분리.",
+    "en": "Ji Zhang's real-time LiDAR SLAM — a two-rate pipeline that separates low-latency odometry from high-accuracy mapping."
+  },
+
+  "degeneracy optimization-based state": {
+    "display": "Degeneracy in SLAM Estimation",
+    "ko": "센서 정보가 특정 방향으로 부족해 최적화가 undeterminate가 되는 상황을 감지·보정하는 SLAM 주제.",
+    "en": "Detecting and compensating for directions in which optimization-based SLAM becomes under-constrained by the available sensor data."
+  },
+
+  "dynamics computation": {
+    "display": "Parallel Rigid-Body Dynamics",
+    "ko": "다자유도 로봇의 순/역 동역학을 병렬화·가속 계산 — 실시간 MPC·시뮬레이션의 핵심.",
+    "en": "Parallelizing forward/inverse dynamics for many-DoF robots — a prerequisite for real-time MPC and simulation."
+  },
+
+  "mapping": {
+    "display": "Robotic Mapping",
+    "ko": "로봇이 환경의 지도를 만드는 문제 — 점유 격자, 특징점, 시맨틱, 뉴럴 필드 등 여러 표현 방식이 공존.",
+    "en": "Building a map of the environment — occupancy grids, features, semantic maps, and neural fields are all modern variants."
+  },
+
+  "range data": {
+    "display": "Range-Data SLAM",
+    "ko": "레이저·소나처럼 거리값을 측정하는 센서로부터 루프 클로저·지도를 학습하는 연구.",
+    "en": "SLAM that operates directly on range-sensor (laser, sonar) output for mapping and loop closure."
+  },
+
+  "musculoskeletal humanoids": {
+    "display": "Musculoskeletal Humanoids",
+    "ko": "뼈·관절·근육을 모두 모사한 인간형 로봇 — 사람처럼 유연한 움직임을 기계로 구현 (Tokyo JSK).",
+    "en": "Humanoid robots that emulate bones, joints, and muscle actuation to reproduce human-like compliance (Tokyo JSK line)."
+  },
+
+  "pattern generation": {
+    "display": "Walking Pattern Generation",
+    "ko": "ZMP 기반 예측 제어 등으로 이족 보행의 CoM 궤적을 실시간 생성하는 고전 기법 (Kajita).",
+    "en": "Real-time generation of CoM walking trajectories, typically via preview control on the ZMP (Kajita et al.)."
+  },
+
+  "planning control": {
+    "display": "Joint Planning & Control",
+    "ko": "계획과 제어를 분리하지 않고 하나의 루프에서 함께 푸는 접근 — 이벤트 기반·멀티로봇 조율에 쓰임.",
+    "en": "Treating planning and control inside a single loop rather than as separate layers — common in event-based and multi-robot coordination."
+  },
+
+  "state estimation": {
+    "display": "State Estimation",
+    "ko": "센서로부터 로봇의 자세·속도·바이어스 등 내부 상태를 실시간 추정하는 문제.",
+    "en": "Estimating pose, velocity, and sensor biases online from the robot's sensor streams."
+  },
+
+  "flying among obstacles": {
+    "display": "Obstacle-Aware UAV Flight",
+    "ko": "장애물이 밀집한 실내·숲에서 드론이 빠르게 저공 비행 — 실시간 경로 재계획·인식 통합.",
+    "en": "Fast low-altitude flight through cluttered indoor/forest scenes — real-time replanning fused with perception."
+  },
+
+  "prioritized path planning": {
+    "display": "Prioritized Multi-Robot Planning",
+    "ko": "여러 로봇을 우선순위 순으로 각각 계획하며 먼저 계획한 로봇을 동적 장애물로 처리하는 분산 플래닝.",
+    "en": "A decentralized multi-robot scheme where each robot plans in priority order, treating earlier ones as moving obstacles."
+  },
+
+  "structured light": {
+    "display": "Structured-Light Sensing",
+    "ko": "알려진 패턴을 투사하고 카메라로 변형을 읽어 3D 깊이를 복원하는 센싱 — Kinect 1세대의 핵심.",
+    "en": "Projecting a known pattern and reading its deformation with a camera to recover 3D depth — the core of the original Kinect."
+  },
+
+  "within-hand": {
+    "display": "In-Hand Manipulation",
+    "ko": "일단 잡은 물체를 손 안에서 돌리거나 재배치하는 고난도 조작 — 다지 손의 꽃.",
+    "en": "The difficult operation of rotating or repositioning an object already held, inside the same hand — the acid test of multi-fingered hands."
+  },
+
+  "compliance-enabled contact formations": {
+    "display": "Compliance-Based Assembly",
+    "ko": "로봇의 유연성과 접촉 상태 전이를 활용해 조립을 신뢰성 있게 완수하는 접근 — RCC의 현대판.",
+    "en": "Completing assembly robustly by exploiting compliance and structured transitions between contact states — a modern take on RCC."
+  },
+
+  "droidlet modular heterogenous": {
+    "display": "Droidlet (Embodied Agent Framework)",
+    "ko": "다양한 센서·모달리티·스킬을 모듈식으로 조립해 가정용 로봇 에이전트를 만드는 Meta의 오픈 프레임워크.",
+    "en": "An open, modular framework from Meta for composing multi-modal skills into a home-robot embodied agent."
+  },
+
+  "heterogenous multi-modal agents": {
+    "display": "Heterogeneous Multi-Modal Agents",
+    "ko": "여러 센서·액션 공간을 섞어 쓰는 로봇 에이전트 설계 — 정책이 곧 모듈 오케스트레이션.",
+    "en": "Designing robot agents that mix diverse sensors and action spaces — the policy is effectively an orchestration of modules."
+  },
+
+  "dynamic feedback linearization": {
+    "display": "Dynamic Feedback Linearization",
+    "ko": "비선형 동역학을 상위 좌표에서 선형으로 보이게 변환하는 제어 기법 — 쿼드로터·모바일 로봇 제어에 자주 쓰임.",
+    "en": "A control technique that transforms nonlinear dynamics into a linear form in higher-order coordinates — common for quadrotors and mobile robots."
+  },
+
+  "elastic joints": {
+    "display": "Elastic-Joint Robots",
+    "ko": "관절 구동기와 링크 사이에 탄성 요소를 둔 로봇 — 토크 제어·안전 협업의 기반.",
+    "en": "Robots with elastic elements between actuators and links — foundation for torque control and safe collaboration."
+  },
+
+  "actuator failure detection": {
+    "display": "Actuator Fault Isolation",
+    "ko": "다자유도 로봇에서 어느 구동기가 고장났는지 일반화 운동량·모델 불일치로 식별하는 기법.",
+    "en": "Identifying which actuator of a multi-DoF robot has failed via generalized momenta or model-mismatch signatures."
+  },
+
+  "hard bounds joint": {
+    "display": "Redundancy Resolution with Joint Limits",
+    "ko": "관절 한계가 있는 여유 자유도 매니퓰레이터에서 태스크 성능 저하 없이 한계를 지키는 해법.",
+    "en": "Solving redundancy resolution for manipulators with hard joint limits while preserving task performance."
+  },
+
+  "human-robot collaboration": {
+    "display": "Human-Robot Collaboration",
+    "ko": "사람과 로봇이 같은 작업을 공유하며 함께 수행하는 산업·서비스 로봇 시나리오.",
+    "en": "Shared-task scenarios where humans and robots cooperate on the same work, industrial or service."
+  },
+
+  "light weight": {
+    "display": "Light-Weight Torque-Controlled Robots",
+    "ko": "DLR LWR 계열의 경량 토크 제어 매니퓰레이터 — 협업·고감도 접촉 제어의 산업 표준.",
+    "en": "The DLR LWR line of lightweight torque-controlled arms — industry standard for collaborative, contact-sensitive tasks."
+  },
+
+  "torque controlled light-weight": {
+    "display": "Torque-Controlled LWR",
+    "ko": "관절 토크 센서를 내장한 경량 매니퓰레이터 — KUKA iiwa·FR3 등의 기술적 조상.",
+    "en": "Lightweight manipulators with built-in joint torque sensing — the technical ancestor of KUKA iiwa and similar arms."
+  },
+
+  "shared control assistive": {
+    "display": "Shared-Control Assistive Robotics",
+    "ko": "사용자의 의도와 자동화 시스템의 제어를 혼합해 장애인·고령자 보조 로봇을 조작하는 방식.",
+    "en": "Mixing user intent with autonomous control for assistive robots that aid disabled or elderly users."
+  },
+
+  "singularity-robust prioritized whole-body": {
+    "display": "Singularity-Robust Whole-Body Control",
+    "ko": "태스크 우선순위를 지키면서 특이점 근처에서도 견고하게 휴머노이드 전신을 제어하는 방식.",
+    "en": "Humanoid whole-body control that keeps task priorities intact and stays numerically robust near singular configurations."
+  },
+
+  "vibration feedback virtual": {
+    "display": "Vibration-Based Haptic Feedback",
+    "ko": "진동으로 질감·접촉 신호를 재현해 가상 환경 속 상호작용을 몸으로 느끼게 하는 햅틱 기법.",
+    "en": "Rendering texture and contact cues as vibration so users can physically feel interactions in a virtual environment."
+  },
+
+  "rendering virtual": {
+    "display": "Haptic Rendering",
+    "ko": "디지털 객체의 형태·강성·질감을 실시간 힘·촉감으로 변환해 사용자에게 돌려주는 기법.",
+    "en": "Turning a digital object's shape, stiffness, and texture into real-time force and touch the user can feel."
+  },
+
+  "compliant human-machine interfaces": {
+    "display": "Compliant Human-Machine Interfaces",
+    "ko": "인간 사용자의 안전·편의를 위해 내재 유연성을 가진 HMI — 햅틱 가이드 가상 구속 연구의 토대.",
+    "en": "Interfaces with intrinsic mechanical compliance for safety and comfort — the foundation for work on haptic virtual fixtures."
+  },
+
+  "hard inclusions soft": {
+    "display": "Tumor / Inclusion Localization",
+    "ko": "부드러운 조직 속 단단한 종양·이물을 촉진하듯 탐지하는 자동 수술 로봇의 인식 태스크.",
+    "en": "A surgical-robot perception task: locating hard lumps (e.g. tumors) embedded in soft tissue by palpation."
+  },
+
+  "force-controlled skin deformation": {
+    "display": "Skin-Deformation Haptic Display",
+    "ko": "사용자 피부를 힘으로 직접 변형시켜 촉감을 전달하는 햅틱 디바이스.",
+    "en": "Haptic displays that render touch by actively deforming the user's skin under controlled forces."
+  },
+
+  "inverse depth": {
+    "display": "Inverse-Depth Parametrization",
+    "ko": "단안 SLAM에서 깊이 대신 1/거리를 추정 변수로 써서 멀리 있는 점도 잘 초기화하는 고전 기법 (Civera).",
+    "en": "Parametrizing monocular-SLAM landmarks by 1/depth so distant points behave well at initialization (Civera)."
+  },
+
+  "gaussian belief propagation": {
+    "display": "Gaussian Belief Propagation",
+    "ko": "분산 SLAM·플래닝에서 노드끼리 메시지로 확률 정보를 주고받아 공동 추정에 도달하는 기법.",
+    "en": "A message-passing algorithm where nodes exchange Gaussian beliefs for distributed SLAM and planning consensus."
+  },
+
+  "object-level mapping": {
+    "display": "Object-Level (Semantic) Mapping",
+    "ko": "환경 지도를 픽셀·포인트가 아니라 '물체' 단위로 표현 — 지시·조작·추론에 자연스럽다.",
+    "en": "Representing maps at the object level rather than pixels or points — naturally suited for grounding, manipulation, and reasoning."
+  },
+
+  "2d laser rangefinder": {
+    "display": "2D Laser Rangefinder",
+    "ko": "한 평면에서만 거리 측정을 수행하는 레이저 센서 — 모바일 로봇 SLAM·네비게이션의 2000년대 표준.",
+    "en": "Laser range sensors that scan a single plane — the 2000s-era standard sensor for mobile-robot SLAM and navigation."
+  },
+
+  "dual arm": {
+    "display": "Dual-Arm Manipulation",
+    "ko": "두 팔을 협응해 한 팔로는 불가능한 조작(옷 접기·큰 물체 운반)을 수행하는 연구.",
+    "en": "Coordinating two arms to perform tasks a single arm cannot — garment folding, large-object carrying, and similar."
+  },
+
+  "riccati equation": {
+    "display": "Riccati-Equation Control",
+    "ko": "LQR·상태 피드백 최적 제어에서 중심이 되는 행렬 미분방정식 — 해석적 최적 게인의 근원.",
+    "en": "The matrix Riccati equation central to LQR / optimal state-feedback control — the source of analytic optimal gains."
+  },
+
+  "multilateral surgical": {
+    "display": "Multilateral Surgical Cutting",
+    "ko": "여러 날·방향으로 수행되는 외과 절제 동작을 관찰로 학습하는 수술 로봇 연구 (Goldberg).",
+    "en": "Learning multi-way surgical cutting from demonstration (Goldberg and collaborators)."
+  },
+
+  "rocoda counterfactual data": {
+    "display": "Counterfactual Data Augmentation (RoCoDA)",
+    "ko": "한 번 수집한 로봇 데이터에 '만약 ~했다면' 가상 대체물을 합성해 학습 효율을 올리는 기법.",
+    "en": "Augmenting collected robot data with 'what-if' counterfactual variants to raise sample efficiency."
+  },
+
+  "architecture sensor fusion": {
+    "display": "Sensor-Fusion Architectures",
+    "ko": "여러 센서의 정보를 하나의 추정·제어 파이프라인에 통합하는 시스템 아키텍처 설계.",
+    "en": "System architectures that integrate many sensors into a unified estimation/control pipeline."
+  },
+
+  "autonomous mobility": {
+    "display": "High-Speed Autonomous Mobility",
+    "ko": "거친 지형에서 고속으로 주행하는 자율 차량 요구사항 분석 — DARPA Grand Challenge 전초전.",
+    "en": "Requirements analysis for fast autonomous driving over rough terrain — the work that set up DARPA Grand Challenge."
+  },
+
+  "requirements speed rough": {
+    "display": "Rough-Terrain Driving Requirements",
+    "ko": "비정형 야외 고속 주행에 필요한 센싱·연산·기계적 사양 요구.",
+    "en": "The sensing, compute, and mechanical specs required for high-speed unstructured outdoor driving."
+  },
+
+  "market-based": {
+    "display": "Market-Based Multi-Robot Task Allocation",
+    "ko": "로봇들이 입찰 방식으로 태스크를 서로 거래해 분산적으로 역할을 분배하는 협업 프레임워크.",
+    "en": "A decentralized multi-robot framework where robots bid for tasks to divide work among themselves."
+  },
+
+  "dynamic control joint": {
+    "display": "Joint-Elasticity Dynamic Control",
+    "ko": "관절에 탄성이 있는 로봇의 동역학을 명시적으로 다루는 제어 — SEA·flexible joint 계보.",
+    "en": "Control that explicitly handles the dynamics of robots with joint elasticity — the SEA / flexible-joint line."
+  },
+
+  "control redundant cyclic": {
+    "display": "Redundancy on Cyclic Trajectories",
+    "ko": "주기적 경로 위에서 여유 자유도를 이용해 관절 drift 없이 반복 작업을 수행하는 기법.",
+    "en": "Using redundancy on periodic trajectories to complete cyclic tasks without secular joint drift."
+  },
+
+  "local incremental planning": {
+    "display": "Local Incremental Planning",
+    "ko": "비홀로노믹 모바일 로봇이 새로운 관측으로 국지적으로 경로를 조금씩 수정하는 계획 방식.",
+    "en": "Nonholonomic-mobile-robot planning that incrementally revises the path using fresh observations."
+  },
+
+  "control alternatives dynamic": {
+    "display": "Dynamic Cooperation Control Alternatives",
+    "ko": "둘 이상의 로봇이 물체를 공동 조작할 때 제어 구조(master-slave, leader-follower 등)를 비교·분석.",
+    "en": "Comparing control architectures (master-slave, leader-follower, impedance) for multi-robot dynamic cooperation."
+  },
+
+  "interaction industrial equipped": {
+    "display": "Industrial pHRI Admittance",
+    "ko": "산업용 로봇을 어드미턴스 제어로 감싸 사람과 물리적 협업을 가능하게 만드는 연구.",
+    "en": "Wrapping an industrial arm in admittance control to enable physical collaboration with a human worker."
+  },
+
+  "validation functional iterative": {
+    "display": "Iterative Learning Control (ILC)",
+    "ko": "반복 동작을 수행하며 제어 입력을 매 반복마다 수정해 추적 오차를 줄이는 제어 기법.",
+    "en": "Control that repeatedly executes a task and updates the input each iteration to cut tracking error."
+  },
+
+  "learning control one-link": {
+    "display": "Learning Control (Link-Level)",
+    "ko": "단일 링크·관절에서 반복 학습 제어의 수렴·한계를 실험적으로 검증하는 연구.",
+    "en": "Experimental validation of iterative learning control on a single-link or single-joint testbed."
+  },
+
+  "automatic camera range": {
+    "display": "Camera–LiDAR Extrinsic Calibration",
+    "ko": "단 한 번의 측정으로 카메라와 레이저 거리 센서 사이 기하 관계를 자동 추정하는 캘리브레이션.",
+    "en": "Automatic single-shot calibration of the geometry between a camera and a laser range sensor."
+  },
+
+  "localisation cooperating inspection": {
+    "display": "Cooperative Inspection Localization",
+    "ko": "여러 로봇이 서로의 위치를 공유·보정하며 산업 설비·선박 등을 점검하는 협업 로봇 연구.",
+    "en": "Multi-robot teams that share and refine each other's pose estimates while inspecting industrial plants, ships, or large structures."
+  },
+
+  "2d orthotropic": {
+    "display": "Orthotropic-Material Cutting",
+    "ko": "섬유 방향 등 이방성이 있는 유연 재료를 절단하는 학습 기반 수술 로봇 기술.",
+    "en": "Learning-based cutting of anisotropic (orthotropic) soft materials with a surgical robot."
+  },
+
+  "motion control non-structured": {
+    "display": "Unstructured-Environment Motion Control",
+    "ko": "지도·지형이 잘 정의되지 않은 야외·재난 환경에서 모바일 로봇이 움직이는 제어 전략.",
+    "en": "Motion-control strategies for mobile robots in unstructured outdoor or disaster environments where the terrain is not well mapped."
+  },
+
+  "non-structured environments video": {
+    "display": "Vision-Based Navigation (Unstructured)",
+    "ko": "영상 기반으로 자유 공간·장애물을 추정하며 비정형 환경을 주행하는 방법.",
+    "en": "Navigating unstructured environments by inferring free space and obstacles directly from video."
+  },
+
+  "motion compensation object": {
+    "display": "Helicopter Target Tracking",
+    "ko": "이동 중인 비전 플랫폼(헬리콥터·드론)에서 흔들림을 보상하며 목표를 안정적으로 추적.",
+    "en": "Stabilizing target tracking against platform motion from a moving vision system such as a helicopter."
+  },
+
+  "distributed multirobot task": {
+    "display": "Distributed Multi-Robot Task Allocation",
+    "ko": "중앙 관리자 없이 로봇들이 서로 직접 조정해 태스크를 분배하는 알고리즘.",
+    "en": "Algorithms that let robots divide a task pool among themselves without a central coordinator."
+  },
+
+  "range-only mapping": {
+    "display": "Range-Only SLAM",
+    "ko": "각도 정보 없이 거리만 측정 가능한 센서(초음파·RF)로 지도를 만드는 SLAM 변형.",
+    "en": "A SLAM variant using bearingless range-only sensors (ultrasonic, RF) instead of standard laser/camera input."
   }
 }
