@@ -1103,5 +1103,768 @@
     "display": "Range-Only SLAM",
     "ko": "각도 정보 없이 거리만 측정 가능한 센서(초음파·RF)로 지도를 만드는 SLAM 변형.",
     "en": "A SLAM variant using bearingless range-only sensors (ultrasonic, RF) instead of standard laser/camera input."
+  },
+
+  "contact determination": {
+    "display": "Contact Determination",
+    "ko": "강체·폴리토프 기하 표현 사이 접촉 여부·위치를 빠르게 계산하는 충돌 기하의 기본 연산.",
+    "en": "The core geometric primitive of computing whether and where two rigid bodies touch — foundation of collision detection."
+  },
+  "object localisation crossbeam": {
+    "display": "Light-Beam Object Localization",
+    "ko": "직선 광빔 센서 배열을 부품이 통과하며 가려진 빔을 읽어 위치·자세를 역산하는 고전적 조립 로봇용 측위.",
+    "en": "Classical assembly-line localization by reading which of an array of crossed light beams a polyhedral part occludes."
+  },
+
+  "velvet fingers": {
+    "display": "Active-Surface Gripper",
+    "ko": "손가락 표면 자체가 움직여 물체를 잡고 굴리는 새로운 형태의 그리퍼 (Bicchi).",
+    "en": "Grippers whose finger surfaces themselves actively move to grasp and reposition objects (Bicchi)."
+  },
+  "soft hands": {
+    "display": "Soft Robotic Hands",
+    "ko": "유연 관절과 컴플라이언트 소재를 내장한 로봇 손 — 사람 손과 달리 단순 명령으로도 복잡한 물체 적응.",
+    "en": "Robotic hands with compliant joints and soft materials — adapt to complex objects even under simple commands."
+  },
+  "stiffness": {
+    "display": "Variable Stiffness Actuators",
+    "ko": "강성을 가변 제어할 수 있는 액추에이터 — 안전·효율 두 마리 토끼를 잡기 위한 pHRI 핵심 기구.",
+    "en": "Actuators whose compliance is tunable — the mechanical heart of safe and efficient physical human-robot interaction."
+  },
+  "iterative learning": {
+    "display": "Iterative Learning Control",
+    "ko": "반복 동작마다 지난 오차를 누적 반영해 추적 성능을 개선하는 제어 — 소프트 로봇의 모션 제어에도 응용.",
+    "en": "Control that refines tracking by accumulating feedback from past repetitions — also applied to soft-robot motion control."
+  },
+  "grasp like pro": {
+    "display": "Skill-Transfer Grasping",
+    "ko": "숙련된 사람 오퍼레이터의 파지 시연을 따라해 미지 물체도 잘 잡도록 학습하는 프레임워크.",
+    "en": "A framework that learns to grasp unknown objects by imitating a skilled human operator."
+  },
+  "adaptive ankle-foot prosthesis": {
+    "display": "Adaptive Ankle-Foot Prosthesis",
+    "ko": "사람 발의 수동 스프링·근육 구조를 모사한 의족 — 걸음걸이에 따라 강성을 자동 조절.",
+    "en": "Prosthetic ankle-foot that mimics human passive spring-muscle structure, adapting stiffness to gait in real time."
+  },
+  "prosthesis passive agonist-antagonist": {
+    "display": "Agonist-Antagonist Passive Prosthesis",
+    "ko": "길항근 쌍 구조로 탄성을 축적·방출하는 수동 의지 — 전력 없이도 자연스러운 보행.",
+    "en": "Prostheses using passive agonist-antagonist spring pairs to store and release energy for natural gait without active power."
+  },
+  "manipulating biological mechanical": {
+    "display": "Bio-Micro-Manipulation",
+    "ko": "세포·미생물 같은 생체 미세 물체를 로봇 팔과 특수 공구로 조작하는 연구.",
+    "en": "Manipulating biological micro-objects such as cells and organisms with robot-driven specialized tools."
+  },
+  "mechanical micro-objects liga-microfabricated": {
+    "display": "LIGA-Fabricated Micro-Tools",
+    "ko": "LIGA 공정으로 제작한 초소형 도구로 세포·입자를 집고 옮기는 마이크로 로보틱스.",
+    "en": "Micro-tools built with LIGA processes for picking and moving cells or particles at micro scale."
+  },
+  "characterization single module": {
+    "display": "STIFF-FLOP Soft Module",
+    "ko": "모듈식 소프트 수술 매니퓰레이터(STIFF-FLOP)의 단일 세그먼트 특성 평가.",
+    "en": "Experimental characterization of a single module of the STIFF-FLOP modular soft surgical manipulator."
+  },
+  "training assisted surgery": {
+    "display": "Surgical Camera Auto-Navigation",
+    "ko": "복강경 카메라를 자동으로 움직여 수술 훈련·수행을 보조하는 로봇 수술 자동화 연구.",
+    "en": "Autonomous endoscope navigation to assist surgical training and real-time tele-surgery."
+  },
+  "hydraulic soft detrusor": {
+    "display": "Artificial Bladder (Soft Detrusor)",
+    "ko": "유압 소프트 로봇 구조로 방광 수축근을 모사하는 의공학용 인공 근육 — 신경 자극 대안.",
+    "en": "A hydraulic soft-robot artificial detrusor muscle for patients unable to contract their bladder — an alternative to neurostimulation."
+  },
+  "artificial intelligence-aided platform": {
+    "display": "AI-Aided Surgical Platform",
+    "ko": "AI 보조로 혈관 중재 시술의 방사선 노출·수술 난도를 낮추는 수술 로봇 플랫폼 (TCAR 등).",
+    "en": "An AI-assisted robotic platform for vascular interventions like TCAR, reducing radiation exposure and manual difficulty."
+  },
+  "trunk motion": {
+    "display": "Trunk-Stabilized Walking",
+    "ko": "상체(몸통)의 반동 움직임으로 이족 보행의 균형을 만들어내는 제어 — 사람 걸음의 팔·몸통 활용 원리.",
+    "en": "Walking control that stabilizes the biped via compensating trunk motion — exploiting torso dynamics the way humans do."
+  },
+  "antagonistic driven joints": {
+    "display": "Antagonistic Nonlinear Joints",
+    "ko": "길항근 쌍 스프링으로 구동되는 휴머노이드 관절 — 가변 강성과 자연스러운 움직임을 동시에.",
+    "en": "Humanoid joints driven by pairs of nonlinear antagonistic springs — combining variable stiffness with natural-looking motion."
+  },
+  "mouth opening closing": {
+    "display": "Mastication-Training Parallel Robot",
+    "ko": "턱관절 재활·마스터카 훈련을 위한 6자유도 병렬 로봇 — 치의학 응용.",
+    "en": "A 6-DoF parallel robot for training jaw opening/closing in mastication rehabilitation — a dentistry application."
+  },
+  "closing training": {
+    "display": "Mastication-Training Robot",
+    "ko": "턱관절 개폐 훈련용 재활 로봇.",
+    "en": "Rehabilitation robot training jaw opening/closing motions."
+  },
+  "airway management training": {
+    "display": "Airway Training Simulator",
+    "ko": "기도 확보 훈련을 위해 사람 몸을 재현한 로봇 시뮬레이터 — 의료 교육용.",
+    "en": "A human-body-mimicking robotic simulator for airway management training — a medical-education platform."
+  },
+  "ladder climbing motion": {
+    "display": "Ladder-Climbing Robot",
+    "ko": "4다리 로봇이 사다리를 안정적으로 오르내리는 계획·제어 — 재난 현장 응용.",
+    "en": "Stable ladder climbing by four-limbed robots — a disaster-response capability."
+  },
+  "human running": {
+    "display": "Human-Running Knee Mechanism",
+    "ko": "사람 달리기의 무릎 탄성·굽힘 특성을 모사한 다리 관절 설계.",
+    "en": "Designing a knee mechanism that replicates human-running elasticity and flexion behavior."
+  },
+  "hydraulic direct-drive": {
+    "display": "Hydraulic Direct-Drive Legs",
+    "ko": "전동기 대신 고효율 유압 직구동으로 큰 힘·빠른 반응을 얻는 이족 로봇 구동계.",
+    "en": "Biped actuators using high-efficiency hydraulic direct-drive instead of motors, trading compactness for force density."
+  },
+  "interaction environment bimanual": {
+    "display": "Bimanual DMPs with Environment Coupling",
+    "ko": "두 팔과 환경의 접촉까지 함께 고려해 동작 원시(DMP)를 커플링하는 모방 학습 확장.",
+    "en": "Coupling Dynamic Movement Primitives across two arms and environment interaction for bimanual imitation."
+  },
+  "sprawling posture": {
+    "display": "Sprawling-Posture Robot",
+    "ko": "도마뱀처럼 네 다리를 옆으로 뻗은 낮은 자세로 걷는 로봇 — 유연한 척추 제어가 핵심.",
+    "en": "Low, lizard-style quadruped gait with legs spread sideways — driven by active spine control."
+  },
+  "self-reconfigurable modular": {
+    "display": "Self-Reconfigurable Modular Robots",
+    "ko": "여러 단위 로봇이 결합·분리해 상황에 따라 형태를 스스로 바꾸는 시스템.",
+    "en": "Systems of unit robots that join and separate to reshape themselves for varying tasks."
+  },
+  "self-reconfigurable modular roombots": {
+    "display": "Roombots (Self-Reconfigurable)",
+    "ko": "EPFL Ijspeert 그룹의 자기 재구성 모듈러 로봇 — 가구·환경을 로봇 단위로 재구성.",
+    "en": "Ijspeert's self-reconfigurable modular robots that turn furniture and environment into reconfigurable pieces."
+  },
+  "assistive furniture": {
+    "display": "Mobile Assistive Furniture",
+    "ko": "고령·장애인을 돕기 위해 가구 자체가 움직이는 실내 모빌리티 시스템.",
+    "en": "Indoor mobility systems where the furniture itself moves to assist elderly or disabled users."
+  },
+  "increasing tracking region": {
+    "display": "Eye-in-Hand Workspace Extension",
+    "ko": "특이점 회피를 통해 eye-in-hand 시스템의 추적 가능 영역을 확장하는 방법.",
+    "en": "Strategies using singularity avoidance to widen the workspace of eye-in-hand visual-tracking systems."
+  },
+  "mobility enhancements scout": {
+    "display": "Scout Reconnaissance Robot",
+    "ko": "정찰·감시용 소형 로봇(scout)의 이동성 개선 연구.",
+    "en": "Improving the mobility of small reconnaissance/surveillance robots ('scout')."
+  },
+  "miniature reconnaissance": {
+    "display": "Miniature Reconnaissance Robots",
+    "ko": "소형·저비용 정찰 로봇 다수를 대량 배치해 관찰·감시를 수행하는 개념.",
+    "en": "Deploying many tiny low-cost robots for large-area reconnaissance and surveillance."
+  },
+  "investigating protein structure": {
+    "display": "Biomembrane Micro-Force Measurement",
+    "ko": "마이크로 로봇으로 세포막·단백질 구조에 힘을 가해 역학 특성을 측정.",
+    "en": "Microrobots probing cell membranes and protein structures for mechanical characterization."
+  },
+  "wireless resonant": {
+    "display": "Wireless Magnetic Microrobots",
+    "ko": "외부 자기장 공진으로 전원을 공급·제어하는 무선 마이크로 로봇 (Nelson).",
+    "en": "Submillimeter robots powered and steered wirelessly by resonant external magnetic fields (Nelson)."
+  },
+  "rolling microrobot": {
+    "display": "Rolling Microrobot",
+    "ko": "자기장 제어로 마이크로 유체 내 미세물체를 굴러가듯 이동시키는 마이크로 로봇.",
+    "en": "Microrobots steered by magnetic fields to roll through fluidic chambers and manipulate micro-objects."
+  },
+  "crystal harvesting": {
+    "display": "Automated Crystal Harvesting",
+    "ko": "자동 광학 탐지·자석 집게로 단백질 결정을 채집하는 X-ray 결정학 로봇.",
+    "en": "X-ray crystallography automation — robots detecting and harvesting protein crystals with magnetic pickers."
+  },
+  "infectious diseases": {
+    "display": "Robotics for Infectious Disease",
+    "ko": "감염병 관리에서 로봇의 역할 — COVID-19를 계기로 주목된 공중보건 로보틱스.",
+    "en": "The role of robotics in managing infectious-disease risk — a public-health theme reinvigorated by COVID-19."
+  },
+  "neural network calibration": {
+    "display": "Physics-Informed Magnetic Calibration",
+    "ko": "전자기 네비게이션 시스템의 자기장 모델을 물리 기반 신경망으로 교정 — 마이크로·수술 로봇에 응용.",
+    "en": "Calibrating electromagnetic navigation systems with physics-informed neural networks for micro- and surgical-robot control."
+  },
+  "inverse kinematic": {
+    "display": "Inverse Kinematics (Redundant)",
+    "ko": "여유 자유도 매니퓰레이터의 역기구학 — 장애물·관절 제약을 함께 풀어야 하는 고전 문제.",
+    "en": "Inverse kinematics for redundant manipulators — the classical problem of meeting target plus obstacle/joint constraints."
+  },
+  "kinematic two-by-two intersecting": {
+    "display": "Intersecting-Axis IK Algorithm",
+    "ko": "축이 쌍쌍이 교차하는 매니퓰레이터(대부분 산업 팔)에 특화된 해석적 역기구학 알고리즘.",
+    "en": "Closed-form inverse kinematics for manipulators whose axes intersect two-by-two — covers most industrial arms."
+  },
+  "task space": {
+    "display": "Closed-Loop Task-Space IK",
+    "ko": "태스크 오차를 직접 피드백해 역기구학을 닫힌 루프로 푸는 방식.",
+    "en": "Closing the loop on task-space error to solve redundant inverse kinematics online."
+  },
+  "force position": {
+    "display": "Force/Position Hybrid Regulation",
+    "ko": "접촉 방향에서 힘, 자유 방향에서 위치를 동시에 제어하는 접촉 작업 제어.",
+    "en": "Hybrid control that regulates force along contact directions and position along free directions."
+  },
+  "position regulator manipulators": {
+    "display": "Force/Position Regulator",
+    "ko": "속도 측정 없이도 안정한 로봇 팔 힘·위치 동시 제어기.",
+    "en": "A stable force/position regulator for manipulators that does not require velocity measurement."
+  },
+  "position-based visual": {
+    "display": "Position-Based Visual Servoing",
+    "ko": "영상에서 3D 자세를 복원해 그 공간 좌표로 제어하는 visual servoing의 한 부류.",
+    "en": "A class of visual servoing where 3D pose is recovered and used as the control variable."
+  },
+  "estimation multi-camera hybrid": {
+    "display": "Hybrid Multi-Camera Pose Estimation",
+    "ko": "eye-in-hand와 eye-to-hand 카메라를 혼합한 시스템에서 EKF로 3D 자세를 추정.",
+    "en": "3D pose estimation from a hybrid eye-in-hand / eye-to-hand multi-camera rig using EKF."
+  },
+  "nonprehensile planar rolling": {
+    "display": "Nonprehensile Rolling Manipulation",
+    "ko": "물체를 '잡지 않고' 굴리는·치는 방식으로 옮기는 조작 — passivity 기반 제어로 안정화.",
+    "en": "Nonprehensile manipulation — moving objects by rolling/pushing rather than grasping, stabilized via passivity-based control."
+  },
+  "vision adaptation kernelized": {
+    "display": "Vision-Adapted Kernelized Synergies",
+    "ko": "사람 손의 움직임 '시너지'를 커널화해 영상 입력에 맞춰 로봇 손에 전이하는 학습 파지.",
+    "en": "Transferring human-hand synergies, encoded via kernels, to a robot hand conditioned on vision."
+  },
+  "exploration spinal cord": {
+    "display": "Endoscopic Spinal-Cord Exploration",
+    "ko": "뇌척수액 공간을 로봇 내시경으로 탐사하는 의공학 — 영상 분할 알고리즘이 핵심.",
+    "en": "Robotic endoscopy of the sub-arachnoid spinal space — image-segmentation algorithms are the enabling component."
+  },
+  "interface controlling": {
+    "display": "Foot-Based Robot Control Interface",
+    "ko": "발 움직임으로 로봇·메카트로닉 시스템을 조작하는 웨어러블 인터페이스 연구.",
+    "en": "Wearable interfaces that let a user operate robots through voluntary foot motion."
+  },
+  "inverse kinetics": {
+    "display": "Inverse Kinetics (Soft Arm)",
+    "ko": "형상 동역학이 비선형인 케이블 구동 소프트 팔의 역기구학을 신경망으로 학습.",
+    "en": "Learning inverse kinetics for highly nonlinear cable-driven soft manipulators via a feed-forward neural network."
+  },
+  "closed-loop dynamic control": {
+    "display": "Soft-Robot Dynamic Control",
+    "ko": "소프트 매니퓰레이터의 동역학을 직접 다루는 폐루프 제어 — 대부분 기존은 준정적 제어였다.",
+    "en": "Closed-loop dynamic control of soft manipulators — most prior work used static or quasi-static schemes."
+  },
+  "bistable valve electronics-free": {
+    "display": "Bistable-Valve Soft Logic",
+    "ko": "유체 논리로 제어되는 '전자소자 없는' 소프트 로봇의 스위칭 밸브 — 완전 pneumatic 시스템.",
+    "en": "Bistable fluidic valves providing the switching logic for electronics-free, all-pneumatic soft robots."
+  },
+  "recognition 3d point": {
+    "display": "3D Point-Cloud Place Recognition",
+    "ko": "LiDAR 포인트 클라우드의 분할(segment) 기반으로 이전 방문 장소를 재식별 (SegMatch).",
+    "en": "Segment-based place recognition from 3D LiDAR point clouds (SegMatch)."
+  },
+  "point clouds": {
+    "display": "3D Point-Cloud Perception",
+    "ko": "LiDAR/스테레오에서 얻는 점군 데이터를 분석해 인식·지도·탐지를 수행하는 연구 전반.",
+    "en": "Perception tasks (recognition, mapping, detection) operating directly on 3D point clouds from LiDAR or stereo."
+  },
+  "tartanground large-scale dataset": {
+    "display": "TartanGround Dataset",
+    "ko": "지상 로봇 인식·네비게이션용 대규모 멀티모달 시뮬레이션 데이터셋 (CMU Scherer).",
+    "en": "A large-scale multi-modal simulated dataset for ground-robot perception and navigation (CMU Scherer)."
+  },
+  "dataset ground perception": {
+    "display": "Ground-Robot Perception Dataset",
+    "ko": "지상 로봇의 인식·주행을 학습/벤치마킹하기 위한 다양한 환경의 대규모 데이터셋.",
+    "en": "Large-scale diverse-environment datasets for benchmarking ground-robot perception and navigation."
+  },
+  "visual foresight": {
+    "display": "Visual Foresight",
+    "ko": "로봇이 미래 영상을 상상한 뒤 그 예측 위에서 행동을 계획하는 학습 기반 제어.",
+    "en": "Predict future video frames, then plan actions against those imagined outcomes — learning-based visual control."
+  },
+
+  "human figures": {
+    "display": "Humanoid / Animated-Figure Planning",
+    "ko": "휴머노이드와 애니메이션 인간 캐릭터에 모두 쓰이는 실용적 모션 플래너.",
+    "en": "Practical motion planners usable for both humanoid robots and animated human figures."
+  },
+  "human mimetic": {
+    "display": "Human-Mimetic Humanoid",
+    "ko": "뼈·근육·감각기까지 사람을 모사한 휴머노이드 플랫폼 — 사람 운동 연구 도구 (도쿄대 Kengoro).",
+    "en": "A humanoid platform mimicking human bones, muscles, and sensors — built as a research tool for studying human motion (U-Tokyo Kengoro)."
+  },
+  "human motion patterns": {
+    "display": "Human-Motion-Aware Task Scheduling",
+    "ko": "작업자의 움직임 패턴을 학습해 협업 로봇이 조립 순서를 실시간 스케줄링.",
+    "en": "Scheduling cobot assembly actions online by learning the human worker's motion patterns."
+  },
+  "human robert force": {
+    "display": "Human/Robot Force Cooperation",
+    "ko": "사람과 로봇이 힘을 함께 주고받으며 물체를 조작하는 초기형 협업 제어.",
+    "en": "Early-form cooperative force control where a human and a robot share manipulation of the same object."
+  },
+  "human-friendly motion control": {
+    "display": "Human-Friendly Motion Control",
+    "ko": "사람 주변 작업 환경에서 안전·편안하게 움직이는 제어 — 바퀴형 역진자 등의 플랫폼에 적용.",
+    "en": "Control focused on safe and comfortable motion around humans — applied on wheeled inverted-pendulum robots and similar."
+  },
+  "hybrid actuation human-friendly": {
+    "display": "Hybrid-Actuation Human-Friendly Robot",
+    "ko": "강성 모터와 유연 액추에이터를 조합해 사람 옆에서 안전하게 작동하도록 설계한 로봇.",
+    "en": "Robots combining stiff motors with compliant actuators so they can work safely alongside humans."
+  },
+  "hybrid continuum-eversion precise": {
+    "display": "Continuum-Eversion Hybrid Robot",
+    "ko": "앞끝이 자라면서 방향도 굽히는 하이브리드 연속체 로봇 — 방사성 공간 제염에 응용.",
+    "en": "A hybrid continuum-eversion robot that grows while actively steering — used for radiation-site decontamination."
+  },
+  "hybrid metric maps": {
+    "display": "HYbrid Metric Maps (HYMM)",
+    "ko": "특징점 기반 희소 지도와 조밀한 메트릭 지도를 결합한 SLAM 표현.",
+    "en": "A SLAM representation combining sparse feature-based and dense metric maps (HYMM)."
+  },
+  "hybrid ureteroscope tracking": {
+    "display": "Ureteroscope Tracking",
+    "ko": "신장결석 제거 수술에서 요관내시경을 실시간 추적하는 수술 로봇 보조 시스템.",
+    "en": "Real-time tracking of a ureteroscope during robot-assisted retrograde intrarenal stone surgery."
+  },
+  "hyp-despot hybrid parallel": {
+    "display": "HyP-DESPOT (Online POMDP Planner)",
+    "ko": "불확실성 하 온라인 플래닝을 CPU·GPU 병렬로 가속하는 POMDP 알고리즘 (David Hsu).",
+    "en": "A hybrid CPU/GPU parallel online POMDP planner for acting under uncertainty (David Hsu)."
+  },
+  "hysteresis compensator learning-based": {
+    "display": "Learning-Based Hysteresis Compensation",
+    "ko": "케이블 구동 로봇 등 이력현상이 강한 시스템의 관절 각도를 학습 보정해 정확도를 올리는 기법.",
+    "en": "Using learned models to correct hysteresis in cable-driven robots so joint angles can be estimated accurately."
+  },
+  "identification attitude flight": {
+    "display": "UAV Attitude Dynamics ID",
+    "ko": "비정형 UAV의 자세 동역학 시스템 식별 — 모델 기반 비행 제어의 전제.",
+    "en": "System identification of attitude flight dynamics for unconventional UAVs — groundwork for model-based flight control."
+  },
+  "identification parameterized constraints": {
+    "display": "Parameterized-Constraint Identification",
+    "ko": "제약이 파라미터화된 조작 태스크에서 로봇이 직접 파라미터를 식별해가는 접근.",
+    "en": "A robot identifies the parameters of parameterized task constraints on its own."
+  },
+  "image moments": {
+    "display": "Image-Moment Visual Features",
+    "ko": "이미지 모먼트(면적·중심·방향 등) 기반의 visual servoing 특징량 — 국소 특징 대신 전역 요약.",
+    "en": "Image moments (area, centroid, orientation) used as visual-servoing features — a global summary instead of local keypoints."
+  },
+  "image motion": {
+    "display": "Image-Motion-Based Positioning",
+    "ko": "영상의 움직임으로부터 비정형 장면 기준 로봇 위치를 제어하는 2D 기반 visual servoing.",
+    "en": "2D visual servoing that positions a robot using image motion with respect to an unstructured scene."
+  },
+  "imaging catheters": {
+    "display": "Ultrasound Imaging Catheter",
+    "ko": "초음파 카메라가 내장된 도관의 자동 조향·방향 제어 알고리즘.",
+    "en": "Algorithms for automatic pointing and steering of ultrasound imaging catheters."
+  },
+  "imaging device pan": {
+    "display": "Insertable Imaging Tool",
+    "ko": "환자 몸속에 삽입해 팬·틸트·줌·조명까지 제어되는 소형 수술 영상 장비.",
+    "en": "A small surgical imaging device insertable into the body with pan, tilt, zoom, and lighting under control."
+  },
+  "impact resistance multi-dof": {
+    "display": "Impact-Resistant Legged Actuator",
+    "ko": "보행 충격에도 견디는 다자유도 전기 유압(EHA) 다리 로봇 구동 모듈.",
+    "en": "Multi-DoF electro-hydrostatic leg actuators built to withstand walking impacts."
+  },
+  "implicit active": {
+    "display": "Implicit Active Constraints",
+    "ko": "수술 로봇의 허용 영역을 암묵적 표면으로 정의해 유연 기구를 안전하게 가두는 제약 방식.",
+    "en": "Defining surgical safe zones implicitly via level-set surfaces to constrain compliant manipulators."
+  },
+  "improve performance": {
+    "display": "Frequency-Modulated Sidewinding",
+    "ko": "뱀 로봇의 몸 파동 주파수를 변조해 사이드와인딩 이동 성능을 개선하는 기법.",
+    "en": "Modulating body-wave frequency to improve the performance of sidewinding snake robots."
+  },
+  "improving performance sampling-based": {
+    "display": "Symmetry-Based Sampling Planners",
+    "ko": "구조적 대칭성을 활용해 샘플링 기반 모션 플래닝(RRT/PRM)의 성능을 개선.",
+    "en": "Using structural symmetry to boost the performance of sampling-based motion planners."
+  },
+  "in-parallel manipulator": {
+    "display": "In-Parallel (Stewart) Manipulator",
+    "ko": "6자유도 Stewart 플랫폼 설계 원리와 응용.",
+    "en": "Design principles and applications of 6-DoF in-parallel (Stewart) manipulators."
+  },
+  "incremental smoothing": {
+    "display": "iSAM2 (Incremental SAM)",
+    "ko": "Bayes tree를 기반으로 증분 업데이트되는 factor graph SLAM 최적화.",
+    "en": "Incrementally updating SAM optimization over a Bayes tree (iSAM2)."
+  },
+  "incremental trust-region sparse": {
+    "display": "Incremental Trust-Region Least-Squares",
+    "ko": "증분적으로 추가되는 희소 비선형 최적화(SLAM 등)를 trust-region으로 강건하게 풀기.",
+    "en": "Robustly solving incrementally-growing sparse nonlinear least-squares (e.g. SLAM) via trust-region updates."
+  },
+  "individuation rgb-d image": {
+    "display": "RGB-D Object Individuation",
+    "ko": "RGB-D 시퀀스에서 비지도 방식으로 개별 객체를 분리·추적하는 인식.",
+    "en": "Unsupervised separation and tracking of individual objects from RGB-D sequences."
+  },
+  "indoor absolute positioning": {
+    "display": "Indoor Absolute Positioning",
+    "ko": "시야가 막힌 실내에서도 절대 위치를 얻는 측위 시스템 — GPS 대체.",
+    "en": "Indoor positioning systems that work without line-of-sight — substitutes for GPS."
+  },
+  "industrial bin picking": {
+    "display": "Bin Picking (Entangled Wire)",
+    "ko": "뒤엉킨 와이어 하네스를 빈에서 한 개씩 집어내는 학습 정책.",
+    "en": "Learning policies for picking entangled wire harnesses from bulk bins."
+  },
+  "industrial tractor towing": {
+    "display": "Multi-Trailer Tractor Planning",
+    "ko": "여러 트레일러를 끄는 산업용 트랙터의 온라인 궤적 계획.",
+    "en": "Online trajectory planning for industrial tractors towing multiple full trailers."
+  },
+  "inertial effect damping-based": {
+    "display": "Inertial Damping Posture Control",
+    "ko": "이동 매니퓰레이터의 관성 효과를 적극적으로 이용한 댐핑형 자세 제어.",
+    "en": "Posture control for mobile manipulators that leverages inertial effects through a damping-based scheme."
+  },
+  "inertial ring bracelet": {
+    "display": "Wearable Activity Sensing",
+    "ko": "반지·팔찌에 내장된 IMU로 일상 활동을 비지도 학습하는 헬스 모니터링.",
+    "en": "Unsupervised activity recognition from IMUs embedded in wearable rings and bracelets."
+  },
+  "inertial-only optimization visual-inertial": {
+    "display": "VIO Inertial Initialization",
+    "ko": "초기 단계에 IMU만으로 스케일·중력·바이어스를 복원해 visual-inertial 추정을 시작.",
+    "en": "Initializing visual-inertial estimation by solving scale, gravity, and biases from inertial data alone."
+  },
+  "inference networks mixtures": {
+    "display": "Mixture-Model Robust Inference",
+    "ko": "혼합 분포를 사용해 outlier가 있는 SLAM 등에서도 강건하게 추론하는 방법.",
+    "en": "Robust inference (e.g. for SLAM) via explicit mixture distributions to absorb outliers."
+  },
+  "inference resource-constrained": {
+    "display": "Two-Stage Resource-Constrained Planning",
+    "ko": "컴퓨팅이 제한된 로봇을 위해 두 단계로 집중 추론해 충돌 없는 경로를 만드는 계획 방식.",
+    "en": "A two-stage focused-inference planner for resource-constrained robots that still produces collision-free paths."
+  },
+  "infield calibration": {
+    "display": "Multi-Gyroscope In-Field Calibration",
+    "ko": "현장에서 여러 자이로를 서로 참조시켜 간단히 직접 교정하는 알고리즘.",
+    "en": "A direct algorithm that calibrates multiple gyroscopes in the field by cross-referencing them."
+  },
+  "information acquisition": {
+    "display": "Active Information Acquisition",
+    "ko": "여러 로봇이 가장 정보가 많이 들어오는 위치로 스스로 이동해 공동 추정을 수행.",
+    "en": "Multiple robots moving to information-rich locations so the team's joint estimate improves fastest."
+  },
+  "information filters": {
+    "display": "Sparse Information-Form SLAM",
+    "ko": "정보 행렬 형태의 희소 SLAM — 대규모 지도에서도 효율적으로 업데이트.",
+    "en": "SLAM in sparse information-matrix form — efficient updates even on very large maps."
+  },
+  "information gathering": {
+    "display": "Decentralized Active Information Gathering",
+    "ko": "여러 로봇이 분산적으로 전략을 세우며 정보를 수집하는 언타임 플래너.",
+    "en": "Anytime decentralized planning for multi-robot active information gathering."
+  },
+  "information space": {
+    "display": "Information-Space Planning",
+    "ko": "상태 대신 '믿음 분포(belief)' 공간에서 경로를 계획 — GPS 없는 환경에서의 자율 비행 등.",
+    "en": "Planning in belief space rather than state space — e.g. autonomous flight in GPS-denied environments."
+  },
+  "input output force": {
+    "display": "Input/Output Force Analysis",
+    "ko": "병렬 매니퓰레이터의 힘 전달 특성을 입출력 관점에서 해석.",
+    "en": "Analyzing how forces transmit through parallel manipulators, in input/output form."
+  },
+  "input shaping filter": {
+    "display": "Input-Shaping for Flexible Arms",
+    "ko": "긴 유연 팔의 진동을 억제하기 위해 명령 입력 자체를 필터링하는 고전 제어 기법.",
+    "en": "Filtering the command itself to suppress vibration in long flexible-link arms — a classical control trick."
+  },
+  "input-to-state stable": {
+    "display": "ISS Haptic Interaction",
+    "ko": "입력-상태 안정성(ISS)을 기준 삼아 시간 지연 원격조작의 안정성을 보장하는 접근.",
+    "en": "Guaranteeing haptic-interaction stability under delay via an input-to-state stable (ISS) framework."
+  },
+  "insertable surgical imaging": {
+    "display": "Insertable Surgical Imaging",
+    "ko": "작은 절개로 몸에 삽입해 팬/틸트/줌이 되는 소형 수술 영상 장비.",
+    "en": "Small pan/tilt/zoom imaging devices that insert through a tiny incision during surgery."
+  },
+  "inside environmental sem": {
+    "display": "SEM Micro-Manipulation",
+    "ko": "전자현미경(SEM) 내부에서 버클링 나노프로브로 세포 강성을 측정하는 정밀 조작.",
+    "en": "Ultra-fine manipulation inside a scanning electron microscope to measure cell stiffness with buckling nanoprobes."
+  },
+  "integrating operator intention": {
+    "display": "Whole-Body Motion + Operator Intent",
+    "ko": "조작자의 의도와 로봇의 전신 자율성을 하나의 루프에 통합해 움직임을 생성.",
+    "en": "Generating whole-body motion by fusing operator intent with the robot's own autonomy in a single loop."
+  },
+  "interactive perception": {
+    "display": "Interactive Perception",
+    "ko": "로봇이 직접 물체를 만지거나 움직여서 인식 신호를 얻는 접근 (예: 옷을 구겨 분류).",
+    "en": "Gaining perception signal by physically interacting with the scene — e.g. manipulating clothing to classify it."
+  },
+  "interactive surface treatment": {
+    "display": "Robot-Aided Surface Treatment",
+    "ko": "산업 로봇으로 연마·연마·코팅 등 표면 처리 작업을 사람과 상호작용하며 수행.",
+    "en": "Industrial-robot surface treatment (grinding, polishing, coating) performed in interactive collaboration with a human operator."
+  },
+  "interactive visual grounding": {
+    "display": "Interactive Visual Grounding",
+    "ko": "사람 언어 지시가 어느 물체를 가리키는지 로봇이 질문·확인하며 좁혀가는 HRI 인식.",
+    "en": "Grounding human language instructions to specific objects through interactive clarification (HRI perception)."
+  },
+  "interface assistive": {
+    "display": "AR Assistive Grasp UI",
+    "ko": "증강현실 인터페이스로 장애인의 파지 의도를 입력받아 로봇 팔을 조작.",
+    "en": "An augmented-reality interface that lets users express grasp intent to an assistive robot arm."
+  },
+  "intermediate desired value": {
+    "display": "Task-Transition via Intermediate Setpoints",
+    "ko": "로봇 작업이 바뀔 때 킬리매트릭 특이점을 피하도록 중간 목표값을 도입.",
+    "en": "Introducing intermediate target values during task transitions to avoid kinematic singularities."
+  },
+  "internal following control": {
+    "display": "Virtual Internal-Model Following Control",
+    "ko": "가상 내부 모델이 추종하는 참조를 만들어 로봇 팔을 정밀 제어하는 방식.",
+    "en": "A control architecture where a virtual internal model generates the reference the robot follows."
+  },
+  "intersecting convex shapes": {
+    "display": "Convex-Shape Path Planning",
+    "ko": "자유 공간을 교차하는 볼록 도형들의 합으로 근사한 위에서 경로를 계획.",
+    "en": "Path planning on free space approximated as a union of overlapping convex shapes."
+  },
+  "intracerebral hemorrhage": {
+    "display": "ICH Evacuation Robot",
+    "ko": "MR 스캐너 안에서 뇌내 출혈을 제거하는 소형 수술 로봇.",
+    "en": "In-scanner surgical robot for intracerebral hemorrhage evacuation."
+  },
+  "intravascular neurosurgery": {
+    "display": "Tele-Neurosurgery",
+    "ko": "고속 광통신을 이용한 원격 혈관 내 신경외과 수술.",
+    "en": "Tele-neurosurgery (intravascular) using high-speed optical-fiber networks."
+  },
+  "iterative alignment pose": {
+    "display": "Pose-Graph Alignment from Poor Init",
+    "ko": "초기값이 나쁜 pose graph도 수렴시키는 빠른 반복 정렬 알고리즘.",
+    "en": "Fast iterative pose-graph alignment that still converges when given poor initial estimates."
+  },
+  "iterative residual policy": {
+    "display": "Iterative Residual Policy",
+    "ko": "기존 정책에 잔차를 반복 학습해 변형체(천·끈) 조작 정확도를 향상.",
+    "en": "Training residual corrections on top of a base policy to improve deformable-object manipulation."
+  },
+  "joint flexible access": {
+    "display": "Flexible-Access Surgical Robot",
+    "ko": "관절형 유니버설 조인트로 구성한 최소 침습 수술 유연 접근 로봇.",
+    "en": "A minimally invasive surgery robot with articulated universal joints for flexible tissue access."
+  },
+  "jump impact controller": {
+    "display": "Jump-Impact Robust Control",
+    "ko": "매니퓰레이터가 목표를 빠르게 치면서도 접촉 충격에 견디는 강건 제어.",
+    "en": "Robust manipulator control that tolerates impact when striking a target quickly."
+  },
+  "kernelized movement primitives": {
+    "display": "Kernelized Movement Primitives (KMP)",
+    "ko": "비모수 커널로 시연 분포를 표현하는 현대판 DMP — 조건부 생성·전이가 수월.",
+    "en": "A modern DMP using nonparametric kernels to represent demonstration distributions — natural conditioning and adaptation."
+  },
+  "kinematic metric functions": {
+    "display": "Frame-Invariant Kinematic Metrics",
+    "ko": "좌표계 선택에 무관하게 강체 자세를 비교하는 기하적 메트릭 함수 (Park).",
+    "en": "Frame-invariant geometric metrics for comparing rigid-body poses (Park)."
+  },
+  "kinematic path-planning formations": {
+    "display": "Formation Path Planning (Nonholonomic)",
+    "ko": "비홀로노믹 차량 여러 대가 대형을 유지하며 이동하는 기구학 경로 계획.",
+    "en": "Kinematic path planning for a formation of nonholonomic vehicles that keeps the pattern intact."
+  },
+  "kiss-matcher point cloud": {
+    "display": "KISS-Matcher",
+    "ko": "경량 원칙에 충실한 고속 강건 포인트 클라우드 정합 (Stachniss group).",
+    "en": "A minimalist-principled, fast and robust point-cloud registration method (Stachniss group)."
+  },
+  "kitchen environments": {
+    "display": "Semantic Kitchen Mapping",
+    "ko": "부엌 등 실내 3D 포인트 클라우드에 객체 단위 의미 라벨을 부여 — Beetz 스타일 가정용 인지.",
+    "en": "Semantic labelling of objects in indoor (e.g. kitchen) 3D maps — home-robot cognition, Beetz-style."
+  },
+  "knowledge processing cognition-enabled": {
+    "display": "KnowRob Cognitive Framework",
+    "ko": "로봇이 상징적 지식·상황 추론을 사용해 가정용 태스크를 수행하는 프레임워크 (Beetz).",
+    "en": "KnowRob — a symbolic knowledge + contextual reasoning framework for cognition-enabled household robots (Beetz)."
+  },
+  "land vehicle": {
+    "display": "mmWave Radar Ground Navigation",
+    "ko": "밀리미터 웨이브 레이더로 야외 자율 주행을 시도하는 초기 연구.",
+    "en": "Early autonomous ground-vehicle navigation using millimeter-wave radar."
+  },
+  "landmark selection mobile": {
+    "display": "Near-Optimal Landmark Selection",
+    "ko": "모바일 로봇이 네비게이션에 쓸 랜드마크 부분집합을 준최적으로 고르는 문제.",
+    "en": "Selecting a near-optimal subset of landmarks for mobile-robot navigation."
+  },
+  "landmarks": {
+    "display": "Distinguishable-Landmark Placement",
+    "ko": "아트 갤러리 문제 변형 — 서로 구별 가능한 랜드마크 최소 집합을 배치.",
+    "en": "An art-gallery variant — placing the minimal landmark set such that all are visually distinguishable."
+  },
+  "lane-keeping control automated": {
+    "display": "Lane-Keeping Observer Control",
+    "ko": "고정 구조 Luenberger 관측기로 자율주행 차량의 차선 유지 제어기를 설계.",
+    "en": "Designing lane-keeping controllers for automated vehicles using fixed-structure Luenberger observers."
+  },
+  "large scale terrain": {
+    "display": "Non-Stationary GP Terrain Fusion",
+    "ko": "대규모 지형 데이터를 비정상 가우시안 프로세스로 융합하는 지형 추정.",
+    "en": "Large-scale terrain estimation by fusing data with non-stationary Gaussian processes."
+  },
+  "laser-based transducer automated": {
+    "display": "Laser-Based Pipe Inspection",
+    "ko": "레이저 트랜스듀서로 배관 내부를 스캔해 결함을 자동 분석하는 시스템.",
+    "en": "A laser-transducer pipe-inspection system with automated defect analysis."
+  },
+  "leap hand low-cost": {
+    "display": "LEAP Hand",
+    "ko": "저비용·인간형 로봇 손으로 강화·모방 학습을 용이하게 만든 오픈 하드웨어.",
+    "en": "A low-cost anthropomorphic robot hand designed to make reinforcement and imitation learning accessible."
+  },
+  "leaping landing inspired": {
+    "display": "Branch-to-Branch Leaping Robot",
+    "ko": "다람쥐처럼 가지에서 가지로 뛰어 착지하는 1족 로봇.",
+    "en": "A monopedal robot that leaps from branch to branch, inspired by squirrels."
+  },
+  "learning behavioral parameterization": {
+    "display": "Behavioral Parameterization Learning",
+    "ko": "케이스 기반 추론으로 로봇 행동의 최적 파라미터 세트를 학습.",
+    "en": "Case-based reasoning learns the best parameter set for a robot's behavior."
+  },
+  "learning latent graph": {
+    "display": "Latent Graph Dynamics",
+    "ko": "변형체(천·끈)를 잠재 그래프 동역학으로 모델링해 시각 기반 조작.",
+    "en": "Modeling deformable objects as latent graph dynamics for visual manipulation."
+  },
+  "learning nonparametric regression": {
+    "display": "Local Weighted Regression (LWR)",
+    "ko": "로봇 동역학을 로컬 가중 회귀로 학습하는 Schaal 초기 대표 논문의 방법.",
+    "en": "Locally weighted regression — Schaal's early staple method for learning robot dynamics."
+  },
+  "learning off-road": {
+    "display": "Self-Supervised Off-Road Costmap",
+    "ko": "오프로드 주행 feel/데이터로부터 스스로 주행 비용 맵을 학습.",
+    "en": "Self-supervised cost-map learning from off-road driving data."
+  },
+  "learning perspective mobile": {
+    "display": "Lifelong Mobile-Robot Learning",
+    "ko": "장기간 배치되며 끊임없이 갱신하는 평생 학습 관점의 모바일 로봇.",
+    "en": "Long-horizon lifelong-learning perspective on mobile-robot control."
+  },
+  "learning predict resistive": {
+    "display": "Resistive-Force Learning for Digging",
+    "ko": "로봇 굴삭 시 흙·자갈이 주는 저항력을 학습해 제어 입력을 조정.",
+    "en": "Predicting resistive forces during robotic excavation to adapt control inputs."
+  },
+  "learning-assisted multi-step planning": {
+    "display": "Learning-Assisted Multi-Step Planning",
+    "ko": "긴 호라이즌 태스크의 중간 스텝을 학습된 휴리스틱이 안내하는 계획 방식.",
+    "en": "Multi-step long-horizon planning guided by learned step-level heuristics."
+  },
+  "learning-based dimensionality reduction": {
+    "display": "Learned Dimensionality Reduction",
+    "ko": "고차원 로봇 상태를 컴팩트 표현으로 압축하는 데이터 기반 차원 축소.",
+    "en": "Data-driven dimensionality reduction for high-dimensional robot states."
+  },
+  "learning-based multiagent trajectory": {
+    "display": "Perception-Aware Multi-Agent Trajectory",
+    "ko": "불완전한 인식을 감안한 다중 에이전트 궤적을 학습 기반으로 견고하게 계획 (PRIMER).",
+    "en": "Learning-based robust multi-agent trajectory planning that accounts for imperfect perception (PRIMER)."
+  },
+  "leaving flatland 3d": {
+    "display": "Real-Time 3D Navigation",
+    "ko": "2D 평면에서 3D로 확장된 실시간 모바일 로봇 네비게이션.",
+    "en": "Extending real-time mobile-robot navigation from 2D planes to full 3D."
+  },
+  "leg-wheel hybrid structures": {
+    "display": "Leg-Wheel Hybrid Locomotion",
+    "ko": "다리+바퀴를 결합한 하이브리드 구조의 균형·이동 제어 (ZMP 기반).",
+    "en": "Balance and locomotion control of hybrid leg-wheel robots using ZMP-based control."
+  },
+  "lifelong learning": {
+    "display": "Lifelong Robot Learning",
+    "ko": "한 번 배포된 로봇이 평생에 걸쳐 새로운 환경·태스크를 누적 학습.",
+    "en": "Robots that keep accumulating new environment and task knowledge over their lifetime."
+  },
+  "light communication-based indoor": {
+    "display": "Visible-Light Indoor Localization",
+    "ko": "실내 조명(LED)을 통한 가시광 통신으로 로봇 위치를 추정하는 측위.",
+    "en": "Indoor localization via visible-light communication from LED ceilings."
+  },
+  "load distribution": {
+    "display": "Parallel-Haptic Load Distribution",
+    "ko": "병렬 햅틱 장치에서 특이점을 피하며 액추에이터 부하를 나누는 알고리즘.",
+    "en": "Distributing actuator load on a parallel haptic device while avoiding singularities."
+  },
+  "local geometric properties": {
+    "display": "Teleoperated Local-Geometry Learning",
+    "ko": "원격조작 중 수집된 데이터로 조작 대상의 국지 기하 특성을 자동 식별.",
+    "en": "Automatically identifying the local geometric properties of a manipulated object during teleoperation."
+  },
+  "loss high-resolution wearable": {
+    "display": "Low-Loss Wearable Haptic Display",
+    "ko": "기계적 손실이 적고 해상도가 높은 착용형 햅틱 출력 장치.",
+    "en": "A wearable haptic display with low mechanical loss and high spatial resolution."
+  },
+  "lqg-mp optimized path": {
+    "display": "LQG-MP",
+    "ko": "LQG 계획과 모션 플래닝을 결합해 동역학·측정 불확실성 하 최적 경로를 찾는 기법.",
+    "en": "LQG-MP — combining LQG control with motion planning to find optimal paths under dynamics and sensing uncertainty."
+  },
+  "magnetically actuated soft": {
+    "display": "Magnetic Soft Capsule Robot",
+    "ko": "외부 자기장으로 구동되는 소프트 캡슐 로봇 — 체내 다모드 약물 방출에 응용.",
+    "en": "Soft capsule robots magnetically actuated for multimodal in-body drug delivery."
+  },
+  "magnetically driven": {
+    "display": "Magnetic Oocyte Rotation",
+    "ko": "자기 구동으로 난자(소) 같은 세포를 3D로 회전시키는 마이크로 조작.",
+    "en": "Micro-manipulation rotating cells (e.g. bovine oocytes) in 3D via magnetic drive."
+  },
+  "magnetically driven microtool": {
+    "display": "Magnetic Microtool Droplet Control",
+    "ko": "자기로 움직이는 마이크로 툴로 유체 내 마이크로 드롭렛을 온디맨드로 생성.",
+    "en": "Magnetically driven microtools producing microfluidic droplets on demand."
+  },
+  "magnetically modified": {
+    "display": "Magnetic PDMS Microtools",
+    "ko": "자성을 띠도록 개조된 PDMS 마이크로 툴로 세포를 조작.",
+    "en": "Magnetically modified PDMS microtools for manipulating micro particles/cells."
+  },
+  "manipulability cooperating": {
+    "display": "Cooperating-Robot Manipulability",
+    "ko": "수동 관절까지 포함한 협업 매니퓰레이터의 기구학·역학 조작성 지표.",
+    "en": "Manipulability indices for cooperating manipulators that include passive joints."
+  },
+  "planning shortest bounded-curvature": {
+    "display": "Bounded-Curvature Path Planning",
+    "ko": "최소 회전 반경 제약이 있는 비홀로노믹 차량의 최단 경로 계획.",
+    "en": "Planning shortest paths for nonholonomic vehicles subject to bounded trajectory curvature."
+  },
+  "stiffness actuator safe": {
+    "display": "Variable-Stiffness Safety Actuator",
+    "ko": "사람과 빠른 상호작용에서 안전성을 보장하기 위한 가변 강성 액추에이터 설계.",
+    "en": "Variable-stiffness actuator design that guarantees safety during fast physical interaction with humans."
+  },
+  "policy conflict resolution": {
+    "display": "Multi-Vehicle Conflict Resolution",
+    "ko": "다수 차량 간 충돌을 피하며 목표로 유도하는 분산 협력 정책.",
+    "en": "A decentralized cooperative policy that resolves conflicts between multiple vehicles."
   }
 }
