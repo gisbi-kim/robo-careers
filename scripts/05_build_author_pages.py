@@ -27,6 +27,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from common.io import build_author_index, load_papers
 from common.phrases import build_global_idf, distinctive_phrases, prettify
+from common.glossary import lookup_phrases as lookup_glossary
 
 META_PATH = "analysis/meta.json"
 PROFILES_DIR = "analysis/profiles"
@@ -586,12 +587,17 @@ def build_phases(profile, author_papers, idf, max_idf, lang):
         k = (win["start"], win["end"])
         v = v_idx.get(k, {"mix": {}})
         c = c_idx.get(k, {"top_coauthors": [], "mean_n_authors": 0})
-        win_phrases = phrases_for_window(author_papers, win["start"], win["end"], idf, max_idf, k=4)
+        win_phrases = phrases_for_window(author_papers, win["start"], win["end"], idf, max_idf, k=6)
+        # Gloss ONLY what showed up as a distinctive TF-IDF phrase in the
+        # window. Using raw blockbuster titles introduced false positives
+        # (e.g. a stray 'underwater' in a bibliographic string).
+        glossary = lookup_glossary(win_phrases, lang, max_entries=4)
         phases.append({
             "years": f"{win['start']} — {win['end']}",
             "id": ROMAN[i] if i < len(ROMAN) else str(i + 1),
             "title": phase_title(win, win_phrases, i, total, lang),
             "body": phase_body(profile, win, v, c, win_phrases, i, total, lang),
+            "glossary": glossary,
         })
     return phases
 
@@ -1772,6 +1778,28 @@ body {
   color: var(--accent-2);
 }
 .phase-body strong { color: var(--accent); font-weight: 700; }
+.phase-glossary {
+  margin-top: 14px;
+  background: var(--paper-2);
+  border-left: 2px solid var(--accent-2);
+  padding: 10px 14px;
+}
+.phase-glossary h5 {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.66rem; text-transform: uppercase;
+  letter-spacing: 0.12em; color: var(--muted);
+  margin-bottom: 8px;
+}
+.phase-glossary ul { list-style: none; padding: 0; margin: 0; }
+.phase-glossary li {
+  font-size: 0.85rem; line-height: 1.55;
+  padding: 3px 0;
+}
+.phase-glossary li strong {
+  color: var(--accent-2); font-weight: 700;
+  font-family: 'Fraunces', serif;
+  margin-right: 6px;
+}
 
 /* themes */
 .themes {
@@ -2074,16 +2102,18 @@ function render() {
   document.getElementById('venuePlotTitle').textContent = T.venuePlotTitle;
   document.getElementById('venuePlotCaption').textContent = T.venuePlotCaption;
   const vys = d.venue_year_series;
+  // Same palette as robopaper-atlas (matplotlib tab10 variant) so the
+  // venues read identically across the two sites.
   const VENUE_COLORS = {
-    'ICRA':  '#c1440e',
-    'IROS':  '#2d4a3e',
-    'RA-L':  '#4a7c9d',
-    'T-RO':  '#8b5e83',
-    'RSS':   '#c9a96e',
-    'IJRR':  '#6b6259',
-    'Sci-Rob': '#de8a5a',
-    'SoRo':  '#9ab87a',
-    'T-Mech': '#b85450',
+    'ICRA':    '#1f77b4',
+    'IROS':    '#ff7f0e',
+    'RA-L':    '#2ca02c',
+    'T-RO':    '#d62728',
+    'RSS':     '#9467bd',
+    'IJRR':    '#8c564b',
+    'Sci-Rob': '#17becf',
+    'SoRo':    '#e377c2',
+    'T-Mech':  '#bcbd22',
   };
   if (vys && vys.years && vys.years.length) {
     const ctx = document.getElementById('venuePlotCanvas');
@@ -2136,7 +2166,14 @@ function render() {
 
   document.getElementById('phasesLabel').textContent = T.phasesLabel;
   document.getElementById('phasesTitle').textContent = T.phasesTitle;
-  document.getElementById('phasesEl').innerHTML = d.phases.map(ph => `
+  document.getElementById('phasesEl').innerHTML = d.phases.map(ph => {
+    const glossHTML = (ph.glossary && ph.glossary.length)
+      ? `<div class="phase-glossary">
+           <h5>${LANG === 'ko' ? '용어 설명' : 'Terms'}</h5>
+           <ul>${ph.glossary.map(g => `<li><strong>${g.term}</strong> — ${g.gloss}</li>`).join('')}</ul>
+         </div>`
+      : '';
+    return `
     <div class="phase">
       <div class="phase-meta">
         <div class="phase-years">${ph.years}</div>
@@ -2145,8 +2182,10 @@ function render() {
       <div class="phase-body">
         <h4>${ph.title}</h4>
         <p>${ph.body}</p>
+        ${glossHTML}
       </div>
-    </div>`).join('');
+    </div>`;
+  }).join('');
 
   document.getElementById('pullquoteEl').innerHTML = d.pullquote;
 
