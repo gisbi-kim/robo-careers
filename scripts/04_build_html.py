@@ -148,15 +148,16 @@ body {
 .disclaimer {
   background: var(--paper-2);
   border-left: 3px solid var(--accent-2);
-  padding: 12px 16px;
+  padding: 16px 20px;
   margin-bottom: 48px;
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 0.72rem;
-  color: var(--muted);
-  line-height: 1.6;
-  letter-spacing: 0.02em;
+  font-family: 'Noto Serif KR', serif;
+  font-size: 0.95rem;
+  color: var(--ink);
+  line-height: 1.7;
+  letter-spacing: 0;
 }
-.disclaimer strong { color: var(--ink); font-weight: 700; }
+.disclaimer strong { color: var(--accent-2); font-weight: 700; }
+.disclaimer a { color: var(--accent); }
 
 section { margin-bottom: 64px; }
 section h2 {
@@ -339,6 +340,31 @@ section .section-desc {
 }
 .cross-lessons li { margin-bottom: 16px; }
 .cross-lessons li strong { color: var(--accent); }
+.cross-lessons .takeaways-block {
+  border-top: 2px solid var(--ink);
+  margin-top: 28px; padding-top: 20px;
+}
+.cross-lessons .takeaways-block h4 {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem; text-transform: uppercase;
+  letter-spacing: 0.14em; color: var(--accent-2);
+  margin-bottom: 14px;
+}
+.cross-lessons .takeaways-block ul {
+  list-style: none; padding-left: 0; margin-left: 0;
+}
+.cross-lessons .takeaways-block li {
+  position: relative;
+  padding-left: 26px;
+  margin-bottom: 14px;
+  font-size: 0.98rem; line-height: 1.75;
+}
+.cross-lessons .takeaways-block li::before {
+  content: '→';
+  position: absolute; left: 0; top: 0;
+  color: var(--accent); font-weight: 700;
+  font-family: 'JetBrains Mono', monospace;
+}
 .cross-lessons .lesson-hist {
   position: relative;
   width: 100%;
@@ -445,7 +471,32 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       <thead>
         <tr>
           <th data-key="rank">#</th>
-          <th data-key="natural_rank" title="Composite rank if the min-paper filter and force-includes were not applied">nat.</th>
+          <th data-key="natural_rank" title="Composite rank if the min-paper filter were the only gate">nat.</th>
+          <th data-key="name" style="text-align:left">Name</th>
+          <th data-key="archetype" style="text-align:left">Archetype</th>
+          <th data-key="papers">Papers</th>
+          <th data-key="total_cites">Cites</th>
+          <th data-key="h_index">h</th>
+          <th data-key="seminal_count">500+</th>
+          <th data-key="span">Span</th>
+          <th data-key="first_year">First</th>
+          <th data-key="last_year">Last</th>
+          <th data-key="hub_degree">Hub</th>
+          <th data-key="pivot">Pivot</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2 id="editorTitle">Editor's additional survey</h2>
+    <p class="section-desc" id="editorDesc"></p>
+    <table class="rank-table" id="editorTable">
+      <thead>
+        <tr>
+          <th data-key="rank">#</th>
+          <th data-key="natural_rank" title="Rank by composite score alone (ignoring curation)">nat.</th>
           <th data-key="name" style="text-align:left">Name</th>
           <th data-key="archetype" style="text-align:left">Archetype</th>
           <th data-key="papers">Papers</th>
@@ -509,7 +560,7 @@ const I18N = {
     built: "built",
     source: "source:",
     heroKicker: n => `80,000+ papers · 40 years · ${n} trajectories`,
-    heroHeadline: `Where do "master" careers <em>diverge</em>?`,
+    heroHeadline: `Lessons from masters' careers — <em>a broad survey and its statistics for early-career researchers</em>.`,
     heroNote: n => `Across 40 years of major robotics venues — a composite of impact, persistence, hub centrality, blockbuster count, and career span yields the natural <strong>top 100</strong>, plus a hand-curated appendix for sub-field coverage (SLAM, spatial AI, physical AI, Korean roboticists). Data: <a href="https://gisbi-kim.github.io/robopaper-atlas/" target="_blank" style="color:var(--accent);">robopaper-atlas</a> (DBLP + OpenAlex, 81,680 papers).`,
     disclaimer: `<strong>Scope note.</strong> All paper counts, citation counts, coauthor counts and derived metrics below are computed <strong>only over the robopaper-atlas corpus</strong> — the 81,680 papers in ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech. They are <strong>not</strong> these researchers' total publications on Google Scholar / Scopus / Web of Science. Cross-domain work (vision, ML, bio, etc.) published elsewhere is not reflected. <a href="methodology.html" style="color:var(--accent); border-bottom:1px dotted currentColor; text-decoration:none;">Read the full methodology&nbsp;↗</a>`,
     secLessonsTitle: "Lessons",
@@ -517,6 +568,8 @@ const I18N = {
     secLessonsDesc: "Bottom line first. Patterns below are auto-extracted across all profiles.",
     rankTitle: n => `Top 100 + α`,
     secTopDesc: "Composite = z-score sum of total cites, h-index, blockbusters (≥500 cites), career span, and hub degree. Click headers to sort.",
+    editorTitle: "Editor's additional survey",
+    editorDesc: `The researchers below fall below the composite top-100 cutoff within these 9 venues, but were added by a human editor to widen sub-field coverage — SLAM, spatial AI, physical AI, Korean roboticists, and other areas where the atlas's venue mix understates real impact. Split into its own table purely for readability. The whole survey is <a href="https://github.com/gisbi-kim/robo-careers" target="_blank" style="color:var(--accent);">open source</a> — swap in the researchers you care about and re-run if this list isn't what you'd choose.`,
     secArcTitle: "Archetypes",
     secArcSub: "/ CAREER ARC TYPOLOGY",
     secArcDesc: "KMeans over normalized per-year citation curves. Each centroid is a 'shape of mastery'.",
@@ -564,7 +617,7 @@ const I18N = {
     built: "빌드",
     source: "출처:",
     heroKicker: n => `80,000+ 편 · 40년 · ${n}인의 궤적`,
-    heroHeadline: `"대가"의 커리어는 어디서 <em>갈라지는가</em>.`,
+    heroHeadline: `대가들의 커리어에서 배우다 — <em>신진 연구자를 위한 광범위한 조사와 통계</em>.`,
     heroNote: n => `로보틱스 주요 venue 40년치 논문을 통틀어, 영향력·지속성·허브성·블록버스터 생산량·커리어 기간을 합산해 <strong>상위 100인</strong>을 우선 뽑고, 그 아래로 세부 분야(SLAM, Spatial AI, Physical AI, 한국 연구자 등) 대표성 확보를 위한 큐레이션 리스트를 덧붙였다. 데이터 출처: <a href="https://gisbi-kim.github.io/robopaper-atlas/" target="_blank" style="color:var(--accent);">robopaper-atlas</a> (DBLP + OpenAlex, 81,680편).`,
     disclaimer: `<strong>범위 안내.</strong> 아래 모든 논문 수·인용 수·공저자 수·파생 지표는 <strong>robopaper-atlas 코퍼스 내부에서만</strong> 계산된 값입니다 — ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech의 81,680편. 각 연구자의 Google Scholar / Scopus / Web of Science 기준 전체 실적이 <strong>아닙니다</strong>. 비전·ML·생물 등 타 분야 게재 논문은 반영되지 않습니다. <a href="methodology.html#ko" style="color:var(--accent); border-bottom:1px dotted currentColor; text-decoration:none;">상세 방법론 보기&nbsp;↗</a>`,
     secLessonsTitle: "교훈",
@@ -572,6 +625,8 @@ const I18N = {
     secLessonsDesc: "결론부터. 아래는 전체 프로필을 횡단해 자동 추출한 수치·패턴.",
     rankTitle: n => `Top 100 + α`,
     secTopDesc: "합성 점수 = 총 인용 · h-index · 블록버스터(500+인용) 개수 · 커리어 기간 · 허브 연결도의 z-score 합. 헤더 클릭 정렬.",
+    editorTitle: "편집자 관심분야 추가 조사",
+    editorDesc: `아래 인물들은 본 9개 venue 내 합성 점수 기준 top-100 컷 아래에 위치하지만, SLAM / Spatial AI / Physical AI / 한국 연구자 등 atlas가 구조적으로 과소 반영하는 세부 분야의 대표성을 확보하기 위해 편집자가 수동으로 추가 조사한 리스트입니다. 가독성을 위해 별도 테이블로 분리했습니다. 본 조사는 <a href="https://github.com/gisbi-kim/robo-careers" target="_blank" style="color:var(--accent);">오픈소스</a>로 공개되어 있으니, 관심 있는 다른 연구자들로 바꿔 직접 다시 돌려보실 수 있습니다.`,
     secArcTitle: "아키타입",
     secArcSub: "/ CAREER ARC TYPOLOGY",
     secArcDesc: "정규화된 연도별 인용 발생 곡선을 KMeans로 군집화. 각 센트로이드의 모양이 \"대가 커리어의 꼴\".",
@@ -653,6 +708,8 @@ function applyStaticI18n() {
   document.getElementById('secLessonsDesc').textContent = T.secLessonsDesc;
   document.getElementById('rankTitle').textContent = T.rankTitle(n);
   document.getElementById('secTopDesc').textContent = T.secTopDesc;
+  document.getElementById('editorTitle').textContent = T.editorTitle;
+  document.getElementById('editorDesc').innerHTML = T.editorDesc;
   document.getElementById('secArcTitle').textContent = T.secArcTitle;
   document.getElementById('secArcSub').textContent = T.secArcSub;
   document.getElementById('secArcDesc').textContent = T.secArcDesc;
@@ -678,40 +735,43 @@ function applyStaticI18n() {
 
 /* === Top table === */
 function renderTable() {
-  const tbody = document.querySelector('#rankTable tbody');
-  const rows = PROFILES.map(p => ({
-    rank: p._rank_info.rank,
-    natural_rank: p._rank_info.natural_rank,
-    force: !!p._rank_info.force_included,
-    slug: p.slug,
-    name: p.name,
-    archetype: (p.insights && p.insights[LANG]?.archetype) || '—',
-    papers: p.career_stats.total_papers,
-    total_cites: p.career_stats.total_cites,
-    h_index: p.career_stats.h_index,
-    seminal_count: p.career_stats.seminal_count,
-    span: p.career_stats.span,
-    first_year: p.career_stats.first_year,
-    last_year: p.career_stats.last_year,
-    hub_degree: p._rank_info.hub_degree || 0,
-    pivot: p.pivot_score,
-  }));
-  let sortKey = 'rank', sortDir = 1;
-  function paint() {
-    const sorted = [...rows].sort((a,b) => {
-      const av = a[sortKey], bv = b[sortKey];
-      if (av < bv) return -1*sortDir;
-      if (av > bv) return 1*sortDir;
-      return 0;
-    });
-    tbody.innerHTML = sorted.map(r => {
-      const langSuffix = LANG === 'ko' ? '#ko' : '';
-      const star = r.force ? '<span title="force-included for field coverage" style="color:var(--accent); margin-right:3px;">★</span>' : '';
-      return `
+  const mainBody = document.querySelector('#rankTable tbody');
+  const editorBody = document.querySelector('#editorTable tbody');
+  const allRows = PROFILES.map(p => {
+    // A person is an "editor pick" if they were force-included AND fell below
+    // the natural composite top-100 (natural_rank > 100 or null).
+    const force = !!p._rank_info.force_included;
+    const nat = p._rank_info.natural_rank;
+    const isEditor = force && (nat === null || nat === undefined || nat > 100);
+    return {
+      rank: p._rank_info.rank,
+      natural_rank: p._rank_info.natural_rank,
+      isEditor: isEditor,
+      slug: p.slug,
+      name: p.name,
+      archetype: (p.insights && p.insights[LANG]?.archetype) || '—',
+      papers: p.career_stats.total_papers,
+      total_cites: p.career_stats.total_cites,
+      h_index: p.career_stats.h_index,
+      seminal_count: p.career_stats.seminal_count,
+      span: p.career_stats.span,
+      first_year: p.career_stats.first_year,
+      last_year: p.career_stats.last_year,
+      hub_degree: p._rank_info.hub_degree || 0,
+      pivot: p.pivot_score,
+    };
+  });
+  const rows = allRows.filter(r => !r.isEditor);
+  const editorRows = allRows.filter(r => r.isEditor);
+  const state = { main: {key:'rank',dir:1}, editor: {key:'rank',dir:1} };
+  const langSuffix = LANG === 'ko' ? '#ko' : '';
+
+  function rowHTML(r) {
+    return `
       <tr>
         <td class="rank">${r.rank}</td>
         <td class="rank" style="color:var(--muted);">${r.natural_rank || '—'}</td>
-        <td class="name">${star}<a href="authors/${r.slug}.html${langSuffix}" style="color:inherit; text-decoration:none; border-bottom:1px dotted currentColor;">${r.name}</a></td>
+        <td class="name"><a href="authors/${r.slug}.html${langSuffix}" style="color:inherit; text-decoration:none; border-bottom:1px dotted currentColor;">${r.name}</a></td>
         <td class="archetype">${r.archetype}</td>
         <td>${r.papers}</td>
         <td>${r.total_cites.toLocaleString()}</td>
@@ -723,23 +783,38 @@ function renderTable() {
         <td>${r.hub_degree}</td>
         <td>${r.pivot.toFixed(2)}</td>
       </tr>`;
-    }).join('');
-    document.querySelectorAll('#rankTable th').forEach(th => {
+  }
+
+  function paint(tableId, tbody, src, st) {
+    const key = st.key, dir = st.dir;
+    const sorted = [...src].sort((a,b) => {
+      const av = a[key] ?? -Infinity, bv = b[key] ?? -Infinity;
+      if (av < bv) return -1*dir;
+      if (av > bv) return 1*dir;
+      return 0;
+    });
+    tbody.innerHTML = sorted.map(rowHTML).join('');
+    document.querySelectorAll(`#${tableId} th`).forEach(th => {
       th.classList.remove('sort-asc','sort-desc');
-      if (th.dataset.key === sortKey) {
-        th.classList.add(sortDir === 1 ? 'sort-asc' : 'sort-desc');
+      if (th.dataset.key === key) {
+        th.classList.add(dir === 1 ? 'sort-asc' : 'sort-desc');
       }
     });
   }
-  document.querySelectorAll('#rankTable th').forEach(th => {
-    th.onclick = () => {
-      const k = th.dataset.key;
-      if (k === sortKey) sortDir = -sortDir;
-      else { sortKey = k; sortDir = (k === 'rank' || k === 'name' || k === 'archetype' || k === 'first_year') ? 1 : -1; }
-      paint();
-    };
-  });
-  paint();
+  function bindSort(tableId, tbody, src, st) {
+    document.querySelectorAll(`#${tableId} th`).forEach(th => {
+      th.onclick = () => {
+        const k = th.dataset.key;
+        if (k === st.key) st.dir = -st.dir;
+        else { st.key = k; st.dir = (k === 'rank' || k === 'natural_rank' || k === 'name' || k === 'archetype' || k === 'first_year') ? 1 : -1; }
+        paint(tableId, tbody, src, st);
+      };
+    });
+  }
+  paint('rankTable', mainBody, rows, state.main);
+  paint('editorTable', editorBody, editorRows, state.editor);
+  bindSort('rankTable', mainBody, rows, state.main);
+  bindSort('editorTable', editorBody, editorRows, state.editor);
 }
 
 /* === Archetypes === */
@@ -906,7 +981,19 @@ function renderCross() {
   const items = (META.cross_lessons && META.cross_lessons[LANG]) || [];
   const td = META.timing_distributions || {};
 
-  ol.innerHTML = items.map((l, idx) => {
+  const normalItems = [];
+  const takeawayBlocks = [];
+  items.forEach((l, idx) => {
+    const m = /^TAKEAWAYS::(KO|EN)::(.+)$/s.exec(l);
+    if (m) {
+      const bullets = m[2].split('|||').map(s => s.trim()).filter(Boolean);
+      takeawayBlocks.push({ bullets });
+    } else {
+      normalItems.push({ l, idx });
+    }
+  });
+
+  ol.innerHTML = normalItems.map(({ l, idx }) => {
     const match = LESSON_HIST_KEYS.find(k => k.re.test(l));
     const hasDist = match && td[match.key];
     const histBlock = hasDist
@@ -914,6 +1001,18 @@ function renderCross() {
       : '';
     return `<li>${mdBold(l)}${histBlock}</li>`;
   }).join('');
+
+  // Takeaway block(s) rendered outside the <ol>, under the same container
+  const parent = ol.parentElement;
+  // remove any previously appended takeaway block
+  parent.querySelectorAll('.takeaways-block').forEach(n => n.remove());
+  const heading = LANG === 'ko' ? '신진 연구자를 위한 정리 — take-aways' : 'Take-aways for early-career readers';
+  takeawayBlocks.forEach(b => {
+    const div = document.createElement('div');
+    div.className = 'takeaways-block';
+    div.innerHTML = `<h4>${heading}</h4><ul>${b.bullets.map(bx => `<li>${mdBold(bx)}</li>`).join('')}</ul>`;
+    parent.appendChild(div);
+  });
 
   items.forEach((l, idx) => {
     const match = LESSON_HIST_KEYS.find(k => k.re.test(l));

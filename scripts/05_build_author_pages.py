@@ -12,6 +12,7 @@ import glob
 import hashlib
 import json
 import os
+import statistics
 import sys
 
 
@@ -595,7 +596,617 @@ def build_phases(profile, author_papers, idf, max_idf, lang):
     return phases
 
 
-def build_themes(profile, author_papers, idf, max_idf, meta_dynasty, lang):
+JOURNAL_VENUES = {"T-RO", "IJRR", "RA-L", "T-Mech", "Sci-Rob", "SoRo"}
+
+
+# --- scoring functions: return (score [0..1], detail dict)
+def _score_role(p):
+    rd = p.get("role_distribution", {})
+    total = sum(rd.values()) or 1
+    f = {k: v / total for k, v in rd.items()}
+    cands = []
+    if f.get("last", 0) >= 0.68:
+        cands.append((min((f["last"] - 0.5) * 2.5, 1.0), {"kind": "last_dominant", "frac": round(f["last"],2)}))
+    if f.get("first", 0) >= 0.28 and p["career_stats"]["span"] >= 15:
+        cands.append((min((f["first"] - 0.12) * 3, 1.0), {"kind": "still_first", "frac": round(f["first"],2)}))
+    if f.get("solo", 0) >= 0.12:
+        cands.append((min(f["solo"] * 3, 1.0), {"kind": "solo_heavy", "frac": round(f["solo"],2)}))
+    if not cands:
+        return 0.0, {}
+    return max(cands, key=lambda x: x[0])
+
+
+def _score_venue(p):
+    vws = p.get("venue_windows", [])
+    if len(vws) < 3:
+        return 0.0, {}
+    def js(w):
+        mix = w.get("mix", {})
+        tot = sum(mix.values()) or 1
+        return sum(v for k, v in mix.items() if k in JOURNAL_VENUES) / tot
+    early = statistics.mean(js(w) for w in vws[:2])
+    late = statistics.mean(js(w) for w in vws[-2:])
+    shift = late - early
+    if abs(shift) < 0.25:
+        return 0.0, {}
+    # stricter gradient: 0.25 -> 0.5, 0.45 -> 0.75, 0.60+ -> 1.0
+    score = min((abs(shift) - 0.15) / 0.45, 1.0)
+    direction = "conf_to_journal" if shift > 0 else "journal_to_conf"
+    return score, {"early": round(early,2), "late": round(late,2), "shift": round(shift,2), "dir": direction}
+
+
+def _score_blockbuster(p):
+    bbs = p.get("blockbusters", [])
+    if len(bbs) < 3:
+        return 0.0, {}
+    years = [b["year"] for b in bbs[:10] if b.get("year")]
+    cites = [b["cites"] for b in bbs[:10] if b.get("cites")]
+    if not years or not cites:
+        return 0.0, {}
+    yr_spread = max(years) - min(years) + 1
+    span = p["career_stats"]["span"]
+    ratio = cites[0] / cites[1] if len(cites) > 1 and cites[1] > 0 else 1.0
+    if yr_spread <= 5 and len(years) >= 5:
+        return 0.9, {"kind": "concentrated", "years": f"{min(years)}–{max(years)}", "spread": yr_spread}
+    if ratio >= 2.5:
+        return min((ratio - 1.5) / 3, 1.0), {"kind": "single_dominant", "ratio": round(ratio,1), "top_title": bbs[0]["title"][:50]}
+    if yr_spread >= 20:
+        return 0.55, {"kind": "spread", "spread": yr_spread, "span": span}
+    return 0.0, {}
+
+
+def _score_peak(p):
+    ms = p.get("milestones", {})
+    cs = p["career_stats"]
+    peak = ms.get("peak_paper")
+    if not peak or not peak.get("year"):
+        return 0.0, {}
+    rel = (peak["year"] - cs["first_year"]) / max(cs["span"] - 1, 1)
+    if 0.25 <= rel <= 0.66:
+        return 0.0, {}
+    return min(abs(rel - 0.5) * 2, 1.0), {
+        "rel": round(rel, 2),
+        "when": "early" if rel < 0.25 else "late",
+        "year": peak["year"],
+        "title": peak["title"][:70],
+        "cites": peak["cites"],
+    }
+
+
+def _score_half_life(p):
+    hl = p.get("citation_half_life_years")
+    if hl is None:
+        return 0.0, {}
+    diff = abs(hl - 10)
+    if diff < 3:
+        return 0.0, {}
+    return min(diff / 10, 1.0), {"hl": hl, "kind": "young" if hl < 10 else "classic"}
+
+
+def _score_productivity(p):
+    ys = p.get("year_series", {})
+    if not ys:
+        return 0.0, {}
+    years = sorted(int(y) for y in ys.keys())
+    counts = [ys[str(y)]["n"] if str(y) in ys else ys[y]["n"] for y in years]
+    if len(counts) < 5:
+        return 0.0, {}
+    mean = statistics.mean(counts)
+    if mean == 0:
+        return 0.0, {}
+    sd = statistics.pstdev(counts)
+    cv = sd / mean
+    bursts = p.get("bursts", {})
+    n_bursts = len(bursts.get("productivity", [])) + len(bursts.get("impact", []))
+    thirds = max(len(counts) // 3, 1)
+    first_third = sum(counts[:thirds]) / thirds
+    last_third = sum(counts[-thirds:]) / thirds
+    if cv >= 1.0 and n_bursts >= 2:
+        return min(cv / 1.5, 1.0), {"kind": "bursty", "cv": round(cv, 2), "n_bursts": n_bursts}
+    if last_third >= first_third * 3 and first_third >= 0.5:
+        return 0.7, {"kind": "late_surge", "early": round(first_third,1), "late": round(last_third,1)}
+    if first_third >= last_third * 2 and last_third > 0:
+        return 0.55, {"kind": "early_heavy", "early": round(first_third,1), "late": round(last_third,1)}
+    return 0.0, {}
+
+
+def _score_venue_breadth(p):
+    vws = p.get("venue_windows", [])
+    venues = set()
+    for w in vws:
+        for v in w.get("mix", {}).keys():
+            if v:
+                venues.add(v)
+    n = len(venues)
+    if n >= 7:
+        return min((n - 5) / 4, 1.0), {"kind": "generalist", "n": n, "venues": sorted(venues)}
+    if n <= 2:
+        return 0.6, {"kind": "specialist", "n": n, "venues": sorted(venues)}
+    return 0.0, {}
+
+
+def _score_collab(p):
+    """Reserved for careers where collaboration structure is truly extreme —
+    either a tight few-partner core, or a wide one-shot pattern. Most
+    mid-career researchers have a 'top coauthor' relationship that is not
+    itself distinctive, so thresholds are intentionally strict."""
+    tops = p.get("top_repeat_coauthors", [])
+    if len(tops) < 3:
+        return 0.0, {}
+    total = sum(t["count"] for t in tops)
+    top3 = sum(t["count"] for t in tops[:3])
+    share = top3 / total if total > 0 else 0
+    top1 = tops[0]["count"]
+    papers = p["career_stats"]["total_papers"]
+    # require strong share AND strong absolute AND meaningful scale
+    if share >= 0.55 and top1 >= 12 and papers >= 40:
+        score = min((share - 0.35) * 2.2, 1.0)
+        return score, {
+            "kind": "fixed_partners",
+            "share": round(share, 2),
+            "top1": top1,
+            "partners": [t["name"] for t in tops[:3]],
+        }
+    # "rotating": top coauthor appears only a handful of times, many partners
+    if top1 <= 3 and len(tops) >= 15 and papers >= 40:
+        return 0.5, {"kind": "rotating", "top1": top1, "n_partners": len(tops)}
+    return 0.0, {}
+
+
+def _score_centrality(p):
+    ri = p.get("_rank_info", {})
+    hub_rank = ri.get("rank_hub_degree")
+    hub = ri.get("hub_degree")
+    if hub_rank is None or hub is None:
+        return 0.0, {}
+    if hub_rank <= 30:
+        return min((31 - hub_rank) / 30, 1.0), {"kind": "hub", "rank": hub_rank, "hub": hub}
+    if hub <= 15:
+        return 0.35, {"kind": "periphery", "rank": hub_rank, "hub": hub}
+    return 0.0, {}
+
+
+def _score_lineage(p, dynasty_map):
+    students = p.get("likely_students", [])
+    advisors = p.get("likely_advisors", [])
+    topN = dynasty_map.get(p["name"], 0)
+    n = len(students)
+    if topN >= 2:
+        return 0.95, {"kind": "dynasty", "topN": topN, "n_students": n, "top": [s["name"] for s in students[:4]]}
+    if topN == 1:
+        return 0.75, {"kind": "dynasty_x1", "topN": 1, "n_students": n, "top": [s["name"] for s in students[:4]]}
+    if n >= 30:
+        return 0.6, {"kind": "many_students", "n_students": n, "top": [s["name"] for s in students[:4]]}
+    if advisors and n < 5:
+        a = advisors[0]
+        return 0.35, {"kind": "advisor_only", "advisor": a["name"],
+                      "last_author_count": a.get("advisor_last_author_count", 0),
+                      "early_copubs": a.get("early_copubs_as_our_first_author", 0)}
+    return 0.0, {}
+
+
+# --- narrative generators ---
+# Each: (profile, detail, lang) -> {"title", "text"}
+
+def _narrate_role(p, d, lang):
+    kind = d.get("kind")
+    frac = d.get("frac", 0)
+    fam = p["name"].split()[-1]
+    if kind == "last_dominant":
+        if lang == "ko":
+            return {
+                "title": "거의 모든 논문 뒤에 서 있다 — 팀을 움직이는 사람",
+                "text": (f"저자 위치 분포에서 마지막 저자 비율이 {frac:.0%}에 이른다. "
+                         "본인이 직접 쓰기보다, 학생/포닥/협력자의 작업에 뒤에서 서명하고 그들을 앞세우는 방식으로 커리어를 운영해왔다는 뜻이다. "
+                         "PI 전환을 이미 완료한 시그너처 — 신진 연구자에게는 '언제부터, 어떻게 뒤로 물러설 것인가'의 참고선이 된다."),
+            }
+        return {
+            "title": "Last author on nearly everything — the team-mover",
+            "text": (f"Last-author share sits at {frac:.0%}. "
+                     "This career is run by signing at the back of other people's lead work rather than writing it out themselves — a PI-transition that has already closed. "
+                     "For early-career readers: a reference line for when and how to step backwards."),
+        }
+    if kind == "still_first":
+        if lang == "ko":
+            return {
+                "title": f"여전히 본인이 1저자로 쓴다 — 드문 포지션",
+                "text": (f"{p['career_stats']['span']}년째 활동하는 연구자인데도 1저자 비율이 {frac:.0%}에 달한다. "
+                         "랩을 키우는 대신 본인 손으로 계속 쓰는, 흔치 않은 스타일. "
+                         "'시니어가 되어도 손을 놓지 않는다'는 선택이 한 커리어 안에서 어떻게 유지 가능한지의 드문 실증."),
+            }
+        return {
+            "title": "Still the first author — a rare stance",
+            "text": (f"{p['career_stats']['span']} years in, and the first-author share is still {frac:.0%}. "
+                     "Rather than scaling out, this researcher keeps writing by hand. "
+                     "A rare existence proof that you can stay the lead writer deep into a career."),
+        }
+    if kind == "solo_heavy":
+        if lang == "ko":
+            return {
+                "title": "단독 저자 비율이 이례적으로 높다",
+                "text": (f"전체 논문의 {frac:.0%}가 단독 저자다. "
+                         "협업 위주의 로보틱스 커뮤니티에서 상당히 드문 프로파일 — 글 단독으로 밀어붙이는 생산성의 유형이다."),
+            }
+        return {
+            "title": "Unusually high solo-author share",
+            "text": (f"{frac:.0%} of papers carry this name alone. "
+                     "Rare in a collaborative field — a sole-writer pattern of productivity."),
+        }
+    return {"title": "—", "text": ""}
+
+
+def _narrate_venue(p, d, lang):
+    early = d.get("early", 0)
+    late = d.get("late", 0)
+    direction = d.get("dir")
+    if direction == "conf_to_journal":
+        if lang == "ko":
+            return {
+                "title": "컨퍼런스 중심에서 저널 중심으로 이동",
+                "text": (f"초기 논문 중 저널(T-RO/IJRR/RA-L 등) 비중은 {early:.0%}에 불과했지만, 최근 시기에는 {late:.0%}까지 올라왔다. "
+                         "후반기 출판 전략이 '회의장에서의 속도'에서 '저널을 통한 정제'로 전환된 전형적 궤적. "
+                         "신진 연구자에게 자연스러운 순서로 보일 수 있지만, 실제로는 모든 사람이 이 방향을 택하는 건 아니라는 점이 중요하다."),
+            }
+        return {
+            "title": "From conference-driven to journal-driven",
+            "text": (f"Journal share (T-RO/IJRR/RA-L and the like) was {early:.0%} early on; it's {late:.0%} now. "
+                     "A classic late-career shift from conference velocity toward journal refinement — but one that not every strong career chooses."),
+        }
+    # journal_to_conf
+    if lang == "ko":
+        return {
+            "title": "저널에서 출발해 점차 회의장 중심으로 이동",
+            "text": (f"초기엔 저널 비중이 {early:.0%}로 높았지만, 최근은 {late:.0%}까지 내려왔다. "
+                     "요즘 로보틱스가 컨퍼런스 속도에 무게중심을 두는 흐름과 궤를 같이하는 드문 유형이다."),
+        }
+    return {
+        "title": "Gradual slide toward conference venues",
+        "text": (f"Journal share was {early:.0%} early, now {late:.0%}. "
+                 "Less common direction — aligning with the modern robotics preference for conference velocity."),
+    }
+
+
+def _narrate_blockbuster(p, d, lang):
+    kind = d.get("kind")
+    if kind == "concentrated":
+        if lang == "ko":
+            return {
+                "title": f"상위 인용 논문들이 {d['years']}에 집중",
+                "text": (f"최다 인용 논문 10편이 거의 모두 {d['years']} — 단 {d['spread']}년 안에 몰려 있다. "
+                         "한 커리어의 임팩트 기반이 실질적으로 그 짧은 창에서 대부분 만들어졌다는 뜻. "
+                         "'어느 시기에 무엇을 했느냐'가 '얼마나 오래 썼느냐'보다 결정적인 대표 사례."),
+            }
+        return {
+            "title": f"Blockbusters cluster in {d['years']}",
+            "text": (f"Top-10 cited papers fall almost entirely within {d['years']} — a {d['spread']}-year window. "
+                     "The impact base of this career was forged in a narrow slice of time, "
+                     "making it a case where <em>when</em> matters more than <em>how long</em>."),
+        }
+    if kind == "single_dominant":
+        if lang == "ko":
+            return {
+                "title": "한 편에 실린 무게",
+                "text": (f"최다 인용 논문이 2위 논문보다 약 {d['ratio']}배 더 많이 인용되었다 (\"{d['top_title']}…\"). "
+                         "커리어의 중력이 사실상 그 한 편에 집중된 구조. "
+                         "블록버스터가 곧 개인의 정체성이 되는 드문 유형."),
+            }
+        return {
+            "title": "The weight of one paper",
+            "text": (f"The top-cited paper is ~{d['ratio']}× the #2 (\"{d['top_title']}…\"). "
+                     "The gravity of this career sits essentially on that one work — "
+                     "a case where a blockbuster itself becomes the identity."),
+        }
+    if kind == "spread":
+        if lang == "ko":
+            return {
+                "title": f"{d['spread']}년에 걸쳐 블록버스터가 분산",
+                "text": (f"최다 인용 상위 10편이 {d['spread']}년이라는 넓은 창에 퍼져 있다. "
+                         f"한 번의 히트가 아니라 긴 시간 동안 반복적으로 중요한 논문을 낸 드문 커리어다."),
+            }
+        return {
+            "title": f"Blockbusters span {d['spread']} years",
+            "text": (f"The top-10 cited papers are distributed across a {d['spread']}-year window. "
+                     "Not one hit — a career that repeatedly produced significant work across a long span."),
+        }
+    return {"title": "—", "text": ""}
+
+
+def _narrate_peak(p, d, lang):
+    when = d.get("when")
+    rel = d.get("rel", 0)
+    title = d.get("title", "—")
+    cites = d.get("cites", 0)
+    year = d.get("year", "")
+    if when == "early":
+        if lang == "ko":
+            return {
+                "title": f"커리어 {rel:.0%} 지점에 이미 정점",
+                "text": (f"최다 인용 논문(\"{title}\", {year}, {cites:,}회)이 커리어의 앞쪽 {rel:.0%} 지점에 놓여 있다. "
+                         f"이후 {int((1-rel) * p['career_stats']['span'])}년은, 어떤 의미에서는 그 한 논문을 해석하고 확장한 시간으로 읽을 수 있다. "
+                         "초년 블록버스터가 한 사람의 궤적 전체에 드리우는 긴 그림자의 드문 실례."),
+            }
+        return {
+            "title": f"Peak paper at {rel:.0%} into the career",
+            "text": (f"The top-cited paper (\"{title}\", {year}, {cites:,}) sits at {rel:.0%} of the career. "
+                     f"The next {int((1-rel) * p['career_stats']['span'])} years can be read, in part, as an extended conversation with that single paper. "
+                     "A rare case of how an early-career blockbuster casts a shadow over everything after."),
+        }
+    # late
+    if lang == "ko":
+        return {
+            "title": f"커리어 후반({rel:.0%} 지점)에서야 정점",
+            "text": (f"최다 인용 논문이 커리어의 {rel:.0%} 지점에 위치한다 (\"{title}\", {year}, {cites:,}회). "
+                     "전반부가 준비기였고, 결실은 한참 뒤에 찾아온 유형 — "
+                     "지금 초기 PI들에게는 '정점이 반드시 초년에 찍혀야 하는 건 아니다'라는 증거로 읽힌다."),
+        }
+    return {
+        "title": f"Peak arrives late — {rel:.0%} of the way in",
+        "text": (f"The top-cited paper sits at {rel:.0%} of the career (\"{title}\", {year}, {cites:,}). "
+                 "The first half was preparation; the payoff came well later. "
+                 "Evidence, for today's early-career PIs, that the peak is not required to land early."),
+    }
+
+
+def _narrate_half_life(p, d, lang):
+    hl = d.get("hl")
+    kind = d.get("kind")
+    if kind == "classic":
+        if lang == "ko":
+            return {
+                "title": "오래 전 작업이 아직도 인용을 끌어온다 — 고전이 된 유형",
+                "text": (f"받는 인용의 중앙 연령이 {hl}년 — 다시 말해 지금 들어오는 인용의 절반 이상이 {hl}년 이전의 논문에서 나오고 있다. "
+                         "초기작이 '고전'의 지위에 올랐다는 강한 신호. "
+                         "빠르게 소비되는 분야에서 살아남은 드문 경우로, 문제 정의의 견고함이 시간에 대해 복리로 돌아온 셈."),
+            }
+        return {
+            "title": "Old papers still drawing citations — a classic-style career",
+            "text": (f"The median age of citations received is {hl} years — more than half of today's citations come from work that old or older. "
+                     "Strong signal that the early work has reached classic status — problem framing that compounded against time."),
+        }
+    # young
+    if lang == "ko":
+        return {
+            "title": "최근 작업이 지금의 인용을 끌어오고 있다",
+            "text": (f"받는 인용의 중앙 연령이 {hl}년에 불과하다 — 지금이 가장 활발하게 읽히는 시기다. "
+                     "과거에 기대지 않고 현재에서 재생산되고 있는 케이스. "
+                     "후기 커리어가 '유지보수'가 아니라 '재도약'일 수 있다는 실례다."),
+        }
+    return {
+        "title": "Recent work drives today's citations",
+        "text": (f"Median citation age is only {hl} years — this career is most read <em>right now</em>. "
+                 "Not living on the past — reproducing in the present. "
+                 "Evidence that the late part of a career can be a reacceleration, not maintenance."),
+    }
+
+
+def _narrate_productivity(p, d, lang):
+    kind = d.get("kind")
+    if kind == "bursty":
+        if lang == "ko":
+            return {
+                "title": f"쇄도와 숨고르기의 반복 — 간헐적 폭발형",
+                "text": (f"연도별 출판량의 변동 계수(cv)가 {d['cv']}에 이르고, 식별된 피크 해가 {d['n_bursts']}번 있다. "
+                         "매년 같은 속도로 쓰는 대신, 특정 시기에 폭발적으로 쏟아내고 다음 단계로 이동하는 리듬이다. "
+                         "박사/포닥/안식년 경계에서 커리어가 계단식으로 도약한 흔적일 수 있다."),
+            }
+        return {
+            "title": "Bursts and lulls — a discontinuous rhythm",
+            "text": (f"Year-on-year output has a coefficient of variation of {d['cv']}, with {d['n_bursts']} distinct peak years. "
+                     "This career moves in steps, not a steady line — possibly the signature of PhD/postdoc/sabbatical transitions leaving clear marks."),
+        }
+    if kind == "late_surge":
+        if lang == "ko":
+            return {
+                "title": "후반부에 가속된 보기 드문 형태",
+                "text": (f"초기 1/3의 평균 출판량은 연 {d['early']}편, 마지막 1/3은 연 {d['late']}편. "
+                         "대부분의 커리어가 후반에 둔화되는데 반해, 이 사람은 후기에 오히려 폭이 넓어졌다. "
+                         "제자 유입이나 새 주제 장악 때문일 가능성이 높다 — 신진 연구자 입장에서는 '늦게 달리기 시작해도 된다'는 하나의 증거."),
+            }
+        return {
+            "title": "Late-career acceleration — uncommon",
+            "text": (f"Early-third average: {d['early']} papers/year; last-third: {d['late']}/year. "
+                     "Most careers decelerate late; this one widened. "
+                     "Usually the fingerprint of incoming students or a newly captured topic — and, for early-career readers, proof that late starts are fine."),
+        }
+    if kind == "early_heavy":
+        if lang == "ko":
+            return {
+                "title": "초반에 치고 나와 후반부는 선별 모드",
+                "text": (f"초기 1/3 평균 연 {d['early']}편, 후기 1/3 연 {d['late']}편으로 생산량이 뚜렷이 줄어든다. "
+                         "'젊을 때 많이 쓰고, 나이들면서 큐레이션으로 전환'하는 유형의 전형. "
+                         "생산성 감소가 쇠퇴가 아니라 선택일 수 있다는 점을 상기시킨다."),
+            }
+        return {
+            "title": "Front-loaded output, then curation mode",
+            "text": (f"Early-third {d['early']}/yr; late-third {d['late']}/yr — a clear tapering. "
+                     "The 'write a lot young, curate when older' shape. A reminder that lowered output is sometimes a choice, not a decline."),
+        }
+    return {"title": "—", "text": ""}
+
+
+def _narrate_breadth(p, d, lang):
+    kind = d.get("kind")
+    n = d.get("n", 0)
+    venues = ", ".join(d.get("venues", [])[:7])
+    if kind == "generalist":
+        if lang == "ko":
+            return {
+                "title": f"9개 venue 중 {n}개에 논문 — 제너럴리스트 프로파일",
+                "text": (f"등장한 venue: {venues}. "
+                         "특정 커뮤니티 하나에 박혀 있지 않고, 인접 영역까지 꾸준히 교류해온 흔적이다. "
+                         "분야 횡단이 주는 기회와 비용을 모두 감수해야 가능한 드문 스타일."),
+            }
+        return {
+            "title": f"Papers in {n}/9 atlas venues — a generalist",
+            "text": (f"Venues visited: {venues}. "
+                     "Not parked in a single community but cross-publishing into adjacent ones — a style that pays and costs simultaneously."),
+        }
+    if lang == "ko":
+        return {
+            "title": f"단 {n}개 venue에 집중 — 전공 스페셜리스트",
+            "text": (f"{venues} — 이 venue들에만 거의 모든 논문이 실렸다. "
+                     "좁은 커뮤니티에 깊이 박혀 있는 드문 프로파일. "
+                     "그 대신 그 분야 내부에서의 영향력이 집중적이다."),
+        }
+    return {
+        "title": f"Concentrated in only {n} venues",
+        "text": (f"{venues} — almost the entire record sits in these. "
+                 "A specialist embedded deep in a narrow community, trading breadth for concentration of influence."),
+    }
+
+
+def _narrate_collab(p, d, lang):
+    kind = d.get("kind")
+    if kind == "fixed_partners":
+        partners = ", ".join(d.get("partners", []))
+        share = d.get("share", 0)
+        if lang == "ko":
+            return {
+                "title": "고정 파트너 기반의 커리어",
+                "text": (f"상위 3명의 공저자({partners})가 본인의 반복 협업 중 {share:.0%}를 차지한다. "
+                         "커리어의 상당 부분이 소수의 강한 동료 관계에 의해 지탱되었다는 뜻. "
+                         "'누구와 오래 할 것인가'가 '무엇을 할 것인가'만큼 중요함을 보여주는 실례."),
+            }
+        return {
+            "title": "A career built on fixed partnerships",
+            "text": (f"The top three coauthors ({partners}) account for {share:.0%} of repeat collaborations. "
+                     "Much of this career rests on a small set of strong, sustained working relationships — "
+                     "a reminder that <em>who</em> you choose to work with matters as much as <em>what</em> you work on."),
+        }
+    if kind == "rotating":
+        if lang == "ko":
+            return {
+                "title": "반복 공저자가 얕다 — 매번 새 팀",
+                "text": (f"최다 공저자와도 {d['top1']}회밖에 함께 쓰지 않았다. 다수의 단발 협업자와 일하는 스타일. "
+                         "네트워크가 넓지만 깊지는 않은 프로파일. 유행에 맞춰 움직이는 유연한 커리어 모델."),
+            }
+        return {
+            "title": "Thin repeat-collaborators — a rotating cast",
+            "text": (f"Even the most frequent coauthor appears only {d['top1']} times. Lots of one-off partnerships. "
+                     "A wide-but-not-deep network — a flexible career that moves with the field."),
+        }
+    return {"title": "—", "text": ""}
+
+
+def _narrate_centrality(p, d, lang):
+    kind = d.get("kind")
+    if kind == "hub":
+        if lang == "ko":
+            return {
+                "title": "공저자 네트워크의 핵 — 모두가 거쳐간 허브",
+                "text": (f"공저자 네트워크에서 이 사람과 연결된 고유 연구자 수는 {d['hub']}명이며, 이는 natural pool 전체 중 상위 {d['rank']}위에 해당한다. "
+                         "주제보다 사람으로 커리어가 성립한 케이스 — 당대 로보틱스 협업 지도가 이 이름을 거쳐가지 않고는 그려지지 않는다."),
+            }
+        return {
+            "title": "A hub of the coauthor network — everyone passes through",
+            "text": (f"This researcher is connected to {d['hub']} unique coauthors — rank #{d['rank']} in the natural pool. "
+                     "A career that stands more on people than on a single topic — you can't draw a map of the era's collaborations without this name on it."),
+        }
+    if lang == "ko":
+        return {
+            "title": "공저 네트워크 밖의 자체 궤도",
+            "text": (f"공저자 연결 수가 {d['hub']}에 불과한 독립적 프로파일. "
+                     "커뮤니티의 중심을 통과하지 않고도 성립 가능한 커리어의 한 예."),
+        }
+    return {
+        "title": "Own orbit outside the coauthor network",
+        "text": (f"Only {d['hub']} coauthor ties — an independent profile. "
+                 "A reminder that a legitimate career can sit off the community's central graph."),
+    }
+
+
+def _narrate_lineage(p, d, lang):
+    kind = d.get("kind")
+    n = d.get("n_students", 0)
+    if kind in ("dynasty", "dynasty_x1"):
+        topN = d.get("topN", 0)
+        top = ", ".join(d.get("top", []))
+        if lang == "ko":
+            return {
+                "title": f"배출한 제자가 다시 top 순위로 진입 — 학파가 재생산되는 중",
+                "text": (f"공저 패턴으로 추정되는 제자 {n}명 중 {topN}명이 본 랭킹 안에 다시 들어와 있다 (예: {top}). "
+                         "'대가가 대가를 기른다'는 드문 실증 케이스. "
+                         "개인 커리어를 넘어 학맥 자체가 성립해가는 구간이다."),
+            }
+        return {
+            "title": "Students have re-entered the ranking — a dynasty forming",
+            "text": (f"Of the {n} likely students by coauthor signal, {topN} appear again inside this ranking (e.g. {top}). "
+                     "A rare case where mastery has reproduced itself — the career has expanded beyond the individual into a school."),
+        }
+    if kind == "many_students":
+        top = ", ".join(d.get("top", []))
+        if lang == "ko":
+            return {
+                "title": f"추정 제자 {n}명 — 논문이 아닌 사람의 배출로 읽히는 커리어",
+                "text": (f"공저 패턴이 {n}명 규모의 후배 그룹을 지시하며, 대표 이름으로는 {top} 등이 있다. "
+                         "결국 한 연구자가 분야에 남기는 가장 오래 가는 흔적은, 자신이 길러낸 또 다른 연구자들이라는 주장의 실증."),
+            }
+        return {
+            "title": f"{n} likely students — a career read through people, not papers",
+            "text": (f"Coauthor patterns point to a cohort of {n}, including names like {top}. "
+                     "The longest-lasting mark a researcher leaves is, in the end, the other researchers they trained."),
+        }
+    if kind == "advisor_only":
+        a = d.get("advisor", "")
+        if lang == "ko":
+            return {
+                "title": f"{a}의 네트워크 안에서 출발한 연구자",
+                "text": (f"커리어 초기 본인이 1저자인 논문 {d.get('early_copubs', 0)}편 중 {d.get('last_author_count', 0)}편에 {a}가 마지막저자로 서 있다. "
+                         f"이 출발점이 지금까지의 방향을 상당 부분 결정했다는 공저 신호가 뚜렷하다."),
+            }
+        return {
+            "title": f"Launched inside {a}'s network",
+            "text": (f"Of {d.get('early_copubs', 0)} first-author papers in the opening years, {d.get('last_author_count', 0)} carry {a} as last author. "
+                     f"The coauthor signal is unmistakable: this career's direction was set within {a}'s orbit."),
+        }
+    return {"title": "—", "text": ""}
+
+
+THEME_SCORERS = [
+    ("role_signature", _score_role, _narrate_role),
+    ("venue_evolution", _score_venue, _narrate_venue),
+    ("blockbuster_concentration", _score_blockbuster, _narrate_blockbuster),
+    ("peak_position", _score_peak, _narrate_peak),
+    ("citation_half_life", _score_half_life, _narrate_half_life),
+    ("productivity_rhythm", _score_productivity, _narrate_productivity),
+    ("cross_venue_breadth", _score_venue_breadth, _narrate_breadth),
+    ("collaboration_rhythm", _score_collab, _narrate_collab),
+    ("community_centrality", _score_centrality, _narrate_centrality),
+    ("lineage", None, _narrate_lineage),  # scored separately w/ dynasty map
+]
+
+
+def select_secondary_themes(profile, dynasty_map, usage_counter, lang):
+    """Return two theme dicts (title, text) picked from the 10-pool with
+    diversity awareness across the run."""
+    scored = []
+    for key, scorer, narrator in THEME_SCORERS:
+        if scorer is None and key == "lineage":
+            s, det = _score_lineage(profile, dynasty_map)
+        else:
+            s, det = scorer(profile)
+        if s <= 0 or not det:
+            continue
+        # diversity penalty — stronger cap to prevent any single theme from
+        # dominating the secondary slot across the cohort.
+        penalty = min(usage_counter.get(key, 0) * 0.015, 0.35)
+        scored.append((s - penalty, s, key, det, narrator))
+    scored.sort(key=lambda x: -x[0])
+    picks = []
+    for adj, raw, key, det, narrator in scored:
+        if len(picks) >= 2:
+            break
+        blob = narrator(profile, det, lang)
+        if not blob or not blob.get("text"):
+            continue
+        blob["_key"] = key
+        picks.append(blob)
+        usage_counter[key] = usage_counter.get(key, 0) + 1
+    return picks
+
+
+def build_themes(profile, author_papers, idf, max_idf, meta_dynasty, lang,
+                 usage_counter=None):
     themes = []
     cs = profile["career_stats"]
     pivot = profile.get("pivot_score", 0)
@@ -681,165 +1292,16 @@ def build_themes(profile, author_papers, idf, max_idf, meta_dynasty, lang):
                 ),
             })
 
-    # Theme 2: team / lab dynamics
-    early_n = td.get("early_mean_n_authors")
-    late_n = td.get("late_mean_n_authors")
-    if early_n and late_n and late_n - early_n > 1.0:
-        if lang == "ko":
-            themes.append({
-                "num": "02",
-                "title": "혼자 쓰던 사람에서 랩을 이끄는 사람으로",
-                "text": (
-                    f"논문당 평균 저자수가 초기 {early_n:.1f}명에서 후기 {late_n:.1f}명으로 1명 이상 늘어났다. "
-                    "팀을 꾸리고 처리량을 늘리는 전형적인 PI 전환 궤적이다. "
-                    f"공저 패턴으로 추정되는 제자 {len(students)}명이 그 스케일이 실재함을 뒷받침한다. "
-                    "박사 후반부나 PI 초반의 단독 연구자가 그룹 리더로 성장한 전형적 경로."
-                ),
-            })
-        else:
-            themes.append({
-                "num": "02",
-                "title": "From solo author to lab head",
-                "text": (
-                    f"Authors per paper grew from {early_n:.1f} early to {late_n:.1f} late — the canonical PI-scaling arc. "
-                    f"{len(students)} likely students underwrite that scale in the coauthor data. "
-                    "A textbook progression from individual contributor to group leader."
-                ),
-            })
-    elif early_n and late_n and abs(late_n - early_n) < 0.5 and cs["total_papers"] >= 150:
-        if lang == "ko":
-            themes.append({
-                "num": "02",
-                "title": "스케일보다 지속성으로",
-                "text": (
-                    f"논문당 공저자 수는 초기 {early_n:.1f}명에서 후기 {late_n:.1f}명으로 거의 변동이 없다. "
-                    f"팀을 불리는 전략 대신 지속적인 생산성으로 {cs['total_papers']}편이라는 누적을 만들어냈다. "
-                    "이 경력의 시그니처는 규모의 확장이 아니라 시간의 복리."
-                ),
-            })
-        else:
-            themes.append({
-                "num": "02",
-                "title": "Duration over scale",
-                "text": (
-                    f"Coauthor counts barely move — {early_n:.1f} early, {late_n:.1f} late. "
-                    f"Instead of scaling a team, sustained productivity delivered {cs['total_papers']} papers. "
-                    "The signature here is the compounding of time, not expansion of team size."
-                ),
-            })
-    else:
-        if lang == "ko":
-            themes.append({
-                "num": "02",
-                "title": "시간이 누적시킨 것 — 한 편씩",
-                "text": (
-                    f"{cs['span']}년 동안 총 {cs['total_papers']}편, h={cs['h_index']}. "
-                    "소수의 대형 블록버스터도 있지만, 사실 이 h-index를 지탱하는 실체는 "
-                    "꾸준하게 중간층을 채우는 생산성이다. "
-                    "한 편의 히트가 아니라 긴 복리의 결과로 읽어야 한다."
-                ),
-            })
-        else:
-            themes.append({
-                "num": "02",
-                "title": "What time accumulates, one paper at a time",
-                "text": (
-                    f"{cs['total_papers']} papers, h={cs['h_index']}, across {cs['span']} years. "
-                    "The headline blockbusters matter, but the real engine under the h-index is "
-                    "the sustained mid-tier output — a long compounding curve rather than a single hit."
-                ),
-            })
-
-    # Theme 3: lineage / legacy
-    topN_students = meta_dynasty.get(profile["name"], 0)
-    if len(students) >= 10 or topN_students >= 1:
-        if lang == "ko":
-            mentor_part = ""
-            if advisors:
-                mentor_part = f" 본인은 {advisors[0]['name']}의 네트워크 안에서 경력을 시작한 것으로 보이지만, "
-            top_prog = ", ".join(s["name"] for s in students[:4])
-            cont_line = (
-                f"이 가운데 {topN_students}명은 본 집계 안에 다시 진입해 있다 — 학파 재생산이 진행 중이라는 뜻."
-                if topN_students
-                else "top 순위 안에 다시 진입한 제자는 아직 없지만, 규모를 감안하면 시간의 문제에 가깝다."
-            )
-            themes.append({
-                "num": "03",
-                "title": "논문보다 제자 — 대가의 실체는 사람의 배출",
-                "text": (
-                    f"{mentor_part}지금은 공저 패턴 기준으로 {len(students)}명 규모의 제자 후보를 거느린 그룹으로 성장했다. "
-                    f"대표 이름으로는 {top_prog}이 있다. "
-                    f"{cont_line} "
-                    "한 연구자가 주어진 분야에 남기는 것 중 가장 오래 가는 유산은, "
-                    "결국 자신이 길러낸 또 다른 연구자들이다."
-                ),
-            })
-        else:
-            mentor_part = ""
-            if advisors:
-                mentor_part = f"Launched from {advisors[0]['name']}'s network, "
-            top_prog = ", ".join(s["name"] for s in students[:4])
-            cont_line = (
-                f"{topN_students} of them have re-entered this ranking themselves — dynasty reproduction is already underway."
-                if topN_students
-                else "None have yet re-entered the ranking, but at this volume it reads like a matter of time."
-            )
-            themes.append({
-                "num": "03",
-                "title": "Students as the real record — mastery measured in people",
-                "text": (
-                    f"{mentor_part}this researcher now sits atop an estimated {len(students)} likely students by coauthor pattern. "
-                    f"Names on that list include {top_prog}. "
-                    f"{cont_line} "
-                    "The longest-lived legacy of any working scientist is, in the end, the other scientists they trained."
-                ),
-            })
-    elif advisors:
-        a = advisors[0]
-        if lang == "ko":
-            themes.append({
-                "num": "03",
-                "title": f"{a['name']}의 네트워크 안에서 궤도를 잡았다",
-                "text": (
-                    f"초기 5년 사이 본인이 1저자인 논문 {a['early_copubs_as_our_first_author']}편 중 "
-                    f"{a['advisor_last_author_count']}편에 {a['name']}이 마지막저자로 서 있다. "
-                    f"박사 과정을 통과하며 경력의 방향을 정한 사람이 {a['name']}이라는 공저 신호다. "
-                    "그 이후의 모든 변주도 이 출발점의 영향권 안에서 해석된다."
-                ),
-            })
-        else:
-            themes.append({
-                "num": "03",
-                "title": f"Launched under {a['name']}'s umbrella",
-                "text": (
-                    f"Of {a['early_copubs_as_our_first_author']} first-author papers in the opening five years, "
-                    f"{a['advisor_last_author_count']} carry {a['name']} as last author. "
-                    f"The coauthor signal is unmistakable: the direction of this career was set inside {a['name']}'s orbit, "
-                    "and every subsequent variation is legible against that origin."
-                ),
-            })
-    else:
-        if lang == "ko":
-            themes.append({
-                "num": "03",
-                "title": "자체 궤도 — 학파로 환원되지 않는 경력",
-                "text": (
-                    "공저 패턴에서 뚜렷한 멘토나 제자 클러스터가 포착되지 않는다. "
-                    "초기부터 독립적으로 출판한 유형이거나, 관련 사제 관계가 본 데이터 범위 밖에서 진행되었을 수 있다. "
-                    "어느 쪽이든, 이 경력은 학파의 시간표가 아니라 개인의 선택으로 쓰여왔다."
-                ),
-            })
-        else:
-            themes.append({
-                "num": "03",
-                "title": "Own orbit — a career not reducible to a school",
-                "text": (
-                    "The coauthor-pattern heuristics do not surface a distinct mentor or student cluster. "
-                    "Either this researcher operated independently from the start, or the relevant relationships "
-                    "sit outside this dataset's coverage. "
-                    "Either way, the career here reads as an individual trajectory rather than a school's timetable."
-                ),
-            })
+    # Themes 2 & 3: picked from the 10-theme pool, diversity-aware across the run.
+    if usage_counter is None:
+        usage_counter = {}
+    picks = select_secondary_themes(profile, meta_dynasty, usage_counter, lang)
+    for i, p_theme in enumerate(picks, start=2):
+        themes.append({
+            "num": f"0{i}",
+            "title": p_theme["title"],
+            "text": p_theme["text"],
+        })
 
     return themes
 
@@ -1040,6 +1502,32 @@ def build_highlights(profile, k=8):
     ]
 
 
+def build_venue_year_series(author_papers):
+    """Return {'years': [y1,...], 'venues': ['ICRA',...], 'matrix': {venue: [counts by year]}}."""
+    if not author_papers:
+        return {"years": [], "venues": [], "matrix": {}}
+    yrs = [p["year"] for p in author_papers if p.get("year")]
+    if not yrs:
+        return {"years": [], "venues": [], "matrix": {}}
+    y0, y1 = min(yrs), max(yrs)
+    years = list(range(y0, y1 + 1))
+    counts: dict[str, list[int]] = {}
+    for p in author_papers:
+        y = p.get("year")
+        v = (p.get("venue") or "").strip() or "?"
+        if not y or y < y0 or y > y1:
+            continue
+        if v not in counts:
+            counts[v] = [0] * len(years)
+        counts[v][y - y0] += 1
+    # Order venues by total descending so the most prominent venue shows on top
+    venue_totals = [(v, sum(counts[v])) for v in counts]
+    venue_totals.sort(key=lambda x: -x[1])
+    ordered = [v for v, _ in venue_totals]
+    matrix = {v: counts[v] for v in ordered}
+    return {"years": years, "venues": ordered, "matrix": matrix}
+
+
 def build_lineage(profile, lang):
     advisors = profile.get("likely_advisors", [])[:3]
     students = profile.get("likely_students", [])
@@ -1051,17 +1539,20 @@ def build_lineage(profile, lang):
     }
 
 
-def build_page_data(profile, author_papers, idf, max_idf, meta, lang, meta_dynasty):
+def build_page_data(profile, author_papers, idf, max_idf, meta, lang, meta_dynasty,
+                    usage_counter=None):
     archetype_map = {a["name"]: a["archetype"] for a in meta["archetype_assignments"]}
     return {
         "tagline": tagline(profile, lang, author_papers, idf, max_idf),
         "oneLine": one_liner(profile, lang, author_papers, idf, max_idf),
         "facts": build_facts(profile, author_papers, idf, max_idf, archetype_map, lang),
         "phases": build_phases(profile, author_papers, idf, max_idf, lang),
-        "themes": build_themes(profile, author_papers, idf, max_idf, meta_dynasty, lang),
+        "themes": build_themes(profile, author_papers, idf, max_idf, meta_dynasty, lang,
+                               usage_counter=usage_counter),
         "pullquote": pullquote(profile, lang, author_papers, idf, max_idf),
         "highlights": build_highlights(profile),
         "lineage": build_lineage(profile, lang),
+        "venue_year_series": build_venue_year_series(author_papers),
     }
 
 
@@ -1224,6 +1715,20 @@ body {
   letter-spacing: -0.01em;
   margin-bottom: 24px;
   max-width: 40ch;
+}
+
+/* venue-year plot */
+.venue-plot-box {
+  position: relative; width: 100%; height: 300px;
+  background: var(--card); padding: 20px 24px 12px;
+  border-top: 1px solid var(--ink);
+  border-bottom: 1px solid rgba(26,22,20,0.15);
+}
+.venue-plot-caption {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem; color: var(--muted);
+  letter-spacing: 0.06em;
+  margin-top: 8px;
 }
 
 /* phases */
@@ -1393,6 +1898,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 <title>__TITLE__</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,400&family=JetBrains+Mono:wght@400;500;700&family=Noto+Serif+KR:wght@300;400;500;600;700;900&family=Pretendard:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>__CSS__</style>
 </head>
@@ -1422,6 +1928,15 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       <p class="profile-oneline" id="oneLineEl"></p>
     </div>
     <dl class="profile-facts" id="factsEl"></dl>
+  </div>
+
+  <div class="section" id="venuePlotSection">
+    <div class="section-label" id="venuePlotLabel"></div>
+    <h3 class="section-title" id="venuePlotTitle"></h3>
+    <div class="venue-plot-box">
+      <canvas id="venuePlotCanvas"></canvas>
+    </div>
+    <div class="venue-plot-caption" id="venuePlotCaption"></div>
   </div>
 
   <div class="section" id="phasesSection">
@@ -1463,6 +1978,9 @@ const SLUG_TO_NAME = __SLUG_MAP__;
 
 const I18N = {
   en: {
+    venuePlotLabel: "PUBLICATION TIMELINE",
+    venuePlotTitle: "Year-by-year output, colored by venue.",
+    venuePlotCaption: "Counts are atlas-only (ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech).",
     phasesLabel: "BY PERIOD",
     phasesTitle: "Career in 5-year windows.",
     themesLabel: "THROUGH-LINES",
@@ -1480,7 +1998,7 @@ const I18N = {
     moreStudents: n => `+ ${n} more`,
     rankBadge: (rank, natural, composite, archetype, force) => {
       const natPart = (natural && natural !== rank) ? ` · composite rank #${natural}` : '';
-      const forcePart = force ? ` · ★ curated (below composite cutoff — included for field coverage)` : '';
+      const forcePart = force ? ` · editor's pick (curated for sub-field coverage)` : '';
       return `#${rank}${natPart} · composite ${composite.toFixed(2)} · ${archetype}${forcePart}`;
     },
     citesSuffix: "cites",
@@ -1488,6 +2006,9 @@ const I18N = {
     home: "← home",
   },
   ko: {
+    venuePlotLabel: "출판 타임라인",
+    venuePlotTitle: "연도별 출판량, venue 별 색상.",
+    venuePlotCaption: "집계는 atlas 9개 venue 내부(ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech) 기준.",
     phasesLabel: "시기별 궤적",
     phasesTitle: "5년 단위로 본 연구 단계.",
     themesLabel: "관통하는 주제",
@@ -1505,7 +2026,7 @@ const I18N = {
     moreStudents: n => `+ ${n}명 더`,
     rankBadge: (rank, natural, composite, archetype, force) => {
       const natPart = (natural && natural !== rank) ? ` · 합성점수 순위 #${natural}` : '';
-      const forcePart = force ? ` · ★ 큐레이션 포함 (합성점수 기준 컷 아래지만 분야 대표성 확보 위해 포함)` : '';
+      const forcePart = force ? ` · 편집자 추가 조사 (분야 대표성 확보)` : '';
       return `#${rank}${natPart} · 합성점수 ${composite.toFixed(2)} · ${archetype}${forcePart}`;
     },
     citesSuffix: "회 인용",
@@ -1546,6 +2067,72 @@ function render() {
   document.getElementById('nameEl').innerHTML = `<span class="given">${meta.given}</span><span class="family">${meta.family}</span>`;
   document.getElementById('oneLineEl').innerHTML = d.oneLine;
   document.getElementById('factsEl').innerHTML = d.facts.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('');
+
+  // Venue-year chart (destroy old instance before re-render on lang change)
+  if (window._venueChart) { try { window._venueChart.destroy(); } catch(e) {} window._venueChart = null; }
+  document.getElementById('venuePlotLabel').textContent = T.venuePlotLabel;
+  document.getElementById('venuePlotTitle').textContent = T.venuePlotTitle;
+  document.getElementById('venuePlotCaption').textContent = T.venuePlotCaption;
+  const vys = d.venue_year_series;
+  const VENUE_COLORS = {
+    'ICRA':  '#c1440e',
+    'IROS':  '#2d4a3e',
+    'RA-L':  '#4a7c9d',
+    'T-RO':  '#8b5e83',
+    'RSS':   '#c9a96e',
+    'IJRR':  '#6b6259',
+    'Sci-Rob': '#de8a5a',
+    'SoRo':  '#9ab87a',
+    'T-Mech': '#b85450',
+  };
+  if (vys && vys.years && vys.years.length) {
+    const ctx = document.getElementById('venuePlotCanvas');
+    const datasets = vys.venues.map(v => ({
+      label: v,
+      data: vys.matrix[v],
+      borderColor: VENUE_COLORS[v] || '#555',
+      backgroundColor: (VENUE_COLORS[v] || '#555') + '22',
+      borderWidth: 2,
+      tension: 0.25,
+      pointRadius: 0,
+      pointHoverRadius: 3,
+      fill: false,
+    }));
+    window._venueChart = new Chart(ctx, {
+      type: 'line',
+      data: { labels: vys.years, datasets },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        interaction: { mode: 'nearest', axis: 'x', intersect: false },
+        plugins: {
+          legend: {
+            position: 'bottom',
+            labels: {
+              font: { family: "'JetBrains Mono', monospace", size: 10 },
+              color: '#1a1614',
+              boxWidth: 10, boxHeight: 10, padding: 8,
+            },
+          },
+          tooltip: {
+            callbacks: {
+              title: (items) => items[0].label,
+              label: (ctx) => `${ctx.dataset.label}: ${ctx.parsed.y}`,
+            },
+          },
+        },
+        scales: {
+          x: {
+            ticks: { font: { size: 9, family: "'JetBrains Mono', monospace" }, color: '#6b6259', maxRotation: 0, autoSkip: true, maxTicksLimit: 12 },
+            grid: { display: false },
+          },
+          y: {
+            beginAtZero: true, ticks: { font: { size: 9 }, color: '#6b6259' },
+            grid: { color: 'rgba(26,22,20,0.08)' },
+          },
+        },
+      },
+    });
+  }
 
   document.getElementById('phasesLabel').textContent = T.phasesLabel;
   document.getElementById('phasesTitle').textContent = T.phasesTitle;
@@ -1644,6 +2231,10 @@ def main():
 
     today = datetime.date.today().isoformat()
 
+    # Diversity-aware theme usage counters — one per language so picks don't bleed
+    usage_en = {}
+    usage_ko = {}
+
     for p in profiles:
         ri = p.get("_rank_info", {})
         toks = p["name"].split()
@@ -1654,8 +2245,10 @@ def main():
         name_idxs = author_idx.get(p["name"], [])
         author_papers = [papers[i] for i in name_idxs]
 
-        en_data = build_page_data(p, author_papers, idf, max_idf, meta, "en", dynasty_map)
-        ko_data = build_page_data(p, author_papers, idf, max_idf, meta, "ko", dynasty_map)
+        en_data = build_page_data(p, author_papers, idf, max_idf, meta, "en", dynasty_map,
+                                  usage_counter=usage_en)
+        ko_data = build_page_data(p, author_papers, idf, max_idf, meta, "ko", dynasty_map,
+                                  usage_counter=usage_ko)
 
         archetype = dynasty_map  # just reuse; real archetype from meta
         archetype_en = next(

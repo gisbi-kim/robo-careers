@@ -9,6 +9,7 @@ from __future__ import annotations
 import glob
 import json
 import os
+import statistics
 import sys
 
 PROFILES_DIR = "analysis/profiles"
@@ -182,9 +183,59 @@ def _personal(p: dict, archetype: str, lang: str) -> dict:
     }
 
 
+def _compute_timing_from_profiles(profiles):
+    """Recompute timing distributions restricted to the given profile set."""
+    def g(p, path):
+        cur = p
+        for k in path:
+            if not isinstance(cur, dict) or k not in cur:
+                return None
+            cur = cur[k]
+        return cur
+
+    gap_100, gap_500, gap_1000 = [], [], []
+    spans, peak_pos = [], []
+    for p in profiles:
+        cs = p["career_stats"]
+        for key, bucket in (("first_100cite", gap_100), ("first_500cite", gap_500), ("first_1000cite", gap_1000)):
+            gap = g(p, ["milestones", key, "gap_from_first"])
+            if gap is not None:
+                bucket.append(gap)
+        peak_year = g(p, ["milestones", "peak_paper", "year"])
+        if cs.get("first_year") and cs.get("last_year") and peak_year:
+            span = cs["last_year"] - cs["first_year"] + 1
+            spans.append(span)
+            peak_pos.append(round((peak_year - cs["first_year"]) / max(span - 1, 1), 3))
+
+    def stats(xs):
+        if not xs:
+            return None
+        return {
+            "n": len(xs),
+            "min": min(xs),
+            "max": max(xs),
+            "median": statistics.median(xs),
+            "mean": round(statistics.mean(xs), 2),
+            "values": xs,
+        }
+
+    return {
+        "years_to_first_100cite": stats(gap_100),
+        "years_to_first_500cite": stats(gap_500),
+        "years_to_first_1000cite": stats(gap_1000),
+        "peak_paper_relative_position": stats(peak_pos),
+        "career_span_years": stats(spans),
+    }
+
+
 def _cross(profiles: list[dict], meta: dict, lang: str) -> list[str]:
+    # profiles is already restricted to the natural top-100 upstream.
     t = meta["timing_distributions"]
     N = len(profiles)
+    # Insight claims are computed over the natural top-100 only, so we keep
+    # the wording as plain "top 100" here — even though the full displayed
+    # list elsewhere on the site is "top 100+α" (including editor's picks).
+    TOP_LABEL = "top 100"
     lessons = []
 
     def med(d):
@@ -196,9 +247,9 @@ def _cross(profiles: list[dict], meta: dict, lang: str) -> list[str]:
     if m100 is not None:
         mx = t["years_to_first_100cite"]["max"]
         lessons.append(
-            f"첫 100+ 인용 논문까지 중앙값 **{m100}년**. top-{N} 중 가장 늦은 사람도 {mx}년이면 도달."
+            f"첫 100+ 인용 논문까지 중앙값 **{m100}년**. {TOP_LABEL} 중 가장 늦은 사람도 {mx}년이면 도달."
             if lang == "ko"
-            else f"Median time to first 100+ cite paper: **{m100} years**. Even the slowest of top-{N} got there in {mx} years."
+            else f"Median time to first 100+ cite paper: **{m100} years**. Even the slowest of {TOP_LABEL} got there in {mx} years."
         )
     if m500 is not None:
         lo, hi = t["years_to_first_500cite"]["min"], t["years_to_first_500cite"]["max"]
@@ -216,9 +267,9 @@ def _cross(profiles: list[dict], meta: dict, lang: str) -> list[str]:
     peak_pos = med(t.get("peak_paper_relative_position"))
     if peak_pos is not None:
         lessons.append(
-            f"최다 인용 논문의 상대 위치 중앙값 {peak_pos:.0%} — top-{N} 중 절반 이상이 커리어 전반부에 최고점을 찍었음."
+            f"최다 인용 논문의 상대 위치 중앙값 {peak_pos:.0%} — {TOP_LABEL} 중 절반 이상이 커리어 전반부에 최고점을 찍었음."
             if lang == "ko"
-            else f"Peak-paper median position: {peak_pos:.0%} of career — over half of top-{N} hit their peak in the first half."
+            else f"Peak-paper median position: {peak_pos:.0%} of career — over half of {TOP_LABEL} hit their peak in the first half."
         )
     # Archetype mix
     counts = {a["label"]: len(a["members"]) for a in meta["archetypes"]}
@@ -256,9 +307,9 @@ def _cross(profiles: list[dict], meta: dict, lang: str) -> list[str]:
             f"{x['name']}({x['students_in_topN']})" for x in dr_topN[:3]
         )
         lessons.append(
-            f"학파 왕가 — top-{N} 안에서 제자가 다시 top-{N}에 진입한 상위 3인: {top_dyn}. 대가의 진짜 지표는 '대가를 몇 명 길러냈느냐'."
+            f"학파 왕가 — {TOP_LABEL} 안에서 제자가 다시 {TOP_LABEL}에 진입한 상위 3인: {top_dyn}. 대가의 진짜 지표는 '대가를 몇 명 길러냈느냐'."
             if lang == "ko"
-            else f"Academic dynasty — top-{N} researchers whose students also reached top-{N} (top 3): {top_dyn}. The real metric: how many masters did you train?"
+            else f"Academic dynasty — {TOP_LABEL} researchers whose students also reached {TOP_LABEL} (top 3): {top_dyn}. The real metric: how many masters did you train?"
         )
     if dr:
         volume_top = sorted(dr, key=lambda x: -x["total_likely_students"])[:3]
@@ -273,30 +324,37 @@ def _cross(profiles: list[dict], meta: dict, lang: str) -> list[str]:
         es = sorted(edges, key=lambda e: -e["we_last_author_count"])[:5]
         pairs = ", ".join(f"{e['advisor']}→{e['student']}" for e in es)
         lessons.append(
-            f"top-{N} 내 추정 사제 관계(신호 강한 순): {pairs}."
+            f"{TOP_LABEL} 내 추정 사제 관계(신호 강한 순): {pairs}."
             if lang == "ko"
-            else f"Strongest inferred advisor→student pairs inside top-{N}: {pairs}."
+            else f"Strongest inferred advisor→student pairs inside {TOP_LABEL}: {pairs}."
         )
-    td = meta.get("topic_dominance", [])
-    if td:
-        top_c = td[0]
-        who = ", ".join(x["name"] for x in top_c["top_contributors"][:3])
-        lessons.append(
-            f"가장 많이 겹친 주제: **{top_c['concept']}** (주도자: {who}). 여러 대가가 같은 토픽에서 경쟁했다는 뜻."
-            if lang == "ko"
-            else f"Most contested topic: **{top_c['concept']}** (led by: {who}). Many masters competed on the same subject."
-        )
-    # Closer
-    lessons.append(
-        "커리어 인사이트: (1) 첫 5년 안에 '인용 받는 주제'에 착지하라 — 중앙값이 말해준다. "
-        "(2) 피벗러든 직진형이든 성립 가능하지만, 팀 확장 없이 200편+ 찍은 사람은 거의 없다. "
-        f"(3) 아키타입은 혈통이 아니라 환경 — 후기 개화형도 top-{N}에 다수다."
-        if lang == "ko"
-        else
-        "Career takeaways: (1) Land on a 'citation-receiving' topic within your first 5 years — the medians say so. "
-        "(2) Both pivoters and specialists succeed, but almost no one hits 200+ papers without scaling a team. "
-        f"(3) Archetype isn't bloodline, it's circumstance — late bloomers populate top-{N} in numbers."
-    )
+    # Closer — a bulleted list of takeaways for early-career readers.
+    # We emit a single "lesson" string but mark it with a magic prefix so the
+    # HTML renderer can convert it into its own indented bullet list.
+    takeaway_items_ko = [
+        "첫 5년 안에 '인용을 받는 주제'에 착지하라 — 중앙값이 말해준다. 첫 500+ 인용 논문까지 중앙값 **8년**, 빠르면 0년 만에도 나온다.",
+        "피벗러(도구/주제 갈아엎기)와 직진형(한 우물) 둘 다 성립한다. 두 경로 모두 top 100+α 안에 충분히 많다. 본인 성향에 맞는 길을 고르면 된다.",
+        "하지만 **팀 확장 없이 200편+** 찍은 사람은 거의 없다. 생산량을 일정 수준 이상 만들려면 어느 시점에서든 그룹 운영으로의 전환이 필요하다.",
+        "아키타입은 혈통이 아니라 환경의 산물이다. 후기 개화형(late bloomer)도 top 100+α에 다수다 — '정점은 반드시 초년이어야 한다'는 법칙은 없다.",
+        "추정 제자 수와 h-index는 별개 축이다. 두 상위 리스트의 교집합이 생각보다 좁다 — 연구자는 '다작·인용'과 '사람 배출' 중 **무엇을 남길지** 스스로 선택한다.",
+        "컨퍼런스→저널 과반 전환 중앙값은 **20년**. 그 이전까지는 ICRA/IROS 중심이 정상 궤적이라는 뜻 — 조급하게 저널로 밀지 않아도 된다.",
+        "블록버스터는 만들려 해서 나오지 않는다. 그러나 **첫 논문부터 500+ 인용을 받은 사람이 실제로 존재**한다 — 운과 준비가 만나는 자리가 있다.",
+        "학파의 재생산(제자가 다시 top-list에 진입)은 소수에게만 일어난다. 하지만 규모 있는 연구실을 운영하면 그 가능성은 기다려볼 만한 수준으로 올라간다.",
+    ]
+    takeaway_items_en = [
+        "Land on a 'citation-receiving' topic within the first five years — the medians say so. Median time to first 500+ cite paper is **8 years**, and can be as little as zero.",
+        "Both pivoters (rewriting their agenda) and specialists (one question, many years) succeed. Both populate top 100+α well; choose the path that matches your temperament.",
+        "But almost nobody hits **200+ papers without scaling a team**. Sustained high volume requires, at some point, a transition to group leadership.",
+        "Archetype is circumstance, not pedigree. Late bloomers populate top 100+α in numbers — the peak is not required to land early.",
+        "Estimated student count and h-index are essentially independent axes. The overlap between the two top lists is narrower than one might expect — researchers in effect choose whether to leave behind *papers* or *people*.",
+        "Median time to a journal-majority publishing profile is **20 years**. Staying conference-centric well into mid-career is normal — no need to rush to journals.",
+        "Blockbusters rarely come from trying to make them. Yet there exist researchers whose very first paper received 500+ citations — a reminder that preparation meeting luck is a real position on the map.",
+        "Dynasty reproduction (a student of yours re-entering a top list) happens only to a few. But running a group at reasonable scale makes the odds genuinely non-trivial.",
+    ]
+    if lang == "ko":
+        lessons.append("TAKEAWAYS::KO::" + "|||".join(takeaway_items_ko))
+    else:
+        lessons.append("TAKEAWAYS::EN::" + "|||".join(takeaway_items_en))
     return lessons
 
 
@@ -323,9 +381,43 @@ def main():
         with open(fp, encoding="utf-8") as f:
             profiles.append(json.load(f))
 
+    # Identify force-included (editor's additional survey) names and
+    # exclude them from insight computation — top-N claims should come
+    # from the composite-natural top 100 only.
+    top_path = "analysis/top_researchers.json"
+    force_names = set()
+    if os.path.exists(top_path):
+        with open(top_path, encoding="utf-8") as f:
+            tr = json.load(f)
+        for entry in tr.get("top", []):
+            if entry.get("force_included"):
+                force_names.add(entry["name"])
+    natural_profiles = [p for p in profiles if p["name"] not in force_names]
+    natural_names = {p["name"] for p in natural_profiles}
+    print(f"  insights scope: natural top-{len(natural_profiles)} "
+          f"(filtered out {len(profiles) - len(natural_profiles)} editor's picks)", file=sys.stderr)
+
+    # Recompute timing distributions over natural-only so the inline
+    # histograms on the index match the text.
+    meta["timing_distributions"] = _compute_timing_from_profiles(natural_profiles)
+
+    # Filter top-N rankings and lineage edges to natural names only.
+    meta["pivot_ranking"] = [x for x in meta.get("pivot_ranking", [])
+                             if x["name"] in natural_names]
+    new_dynasty = []
+    for x in meta.get("dynasty_ranking", []):
+        if x["name"] not in natural_names:
+            continue
+        kept = [n for n in x.get("students_in_topN_names", []) if n in natural_names]
+        new_dynasty.append({**x, "students_in_topN": len(kept), "students_in_topN_names": kept})
+    new_dynasty.sort(key=lambda x: (-x["students_in_topN"], -x["total_likely_students"]))
+    meta["dynasty_ranking"] = new_dynasty
+    meta["lineage_edges_in_topN"] = [e for e in meta.get("lineage_edges_in_topN", [])
+                                     if e["advisor"] in natural_names and e["student"] in natural_names]
+
     meta["cross_lessons"] = {
-        "ko": _cross(profiles, meta, "ko"),
-        "en": _cross(profiles, meta, "en"),
+        "ko": _cross(natural_profiles, meta, "ko"),
+        "en": _cross(natural_profiles, meta, "en"),
     }
     with open(META_PATH, "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)

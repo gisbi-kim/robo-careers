@@ -1266,31 +1266,26 @@
   ],
   "timing_distributions": {
     "years_to_first_100cite": {
-      "n": 124,
+      "n": 100,
       "min": 0,
       "max": 19,
       "median": 2.0,
-      "mean": 4,
+      "mean": 3.71,
       "values": [
         3,
         0,
-        0,
         2,
         1,
-        0,
         6,
         3,
         0,
-        0,
         5,
         5,
         1,
         0,
-        3,
         4,
         2,
         19,
-        1,
         2,
         2,
         0,
@@ -1302,15 +1297,10 @@
         7,
         0,
         1,
-        0,
         2,
         8,
-        9,
-        9,
-        1,
         0,
         0,
-        3,
         1,
         3,
         6,
@@ -1319,28 +1309,21 @@
         9,
         3,
         3,
-        10,
         7,
         10,
         7,
         2,
-        16,
         2,
-        10,
-        3,
         1,
         1,
         2,
         1,
-        5,
-        8,
         2,
         3,
         1,
         8,
         5,
         0,
-        12,
         12,
         9,
         11,
@@ -1348,11 +1331,8 @@
         15,
         5,
         10,
-        6,
-        0,
         4,
         1,
-        13,
         2,
         0,
         5,
@@ -1373,13 +1353,11 @@
         0,
         12,
         6,
-        0,
         6,
         0,
         1,
         12,
         1,
-        0,
         0,
         0,
         0,
@@ -1389,39 +1367,33 @@
         0,
         3,
         1,
-        9,
         4,
         2,
-        7,
         2,
         0,
         11
       ]
     },
     "years_to_first_500cite": {
-      "n": 96,
+      "n": 86,
       "min": 0,
       "max": 32,
       "median": 8.0,
-      "mean": 9.15,
+      "mean": 9.47,
       "values": [
         5,
-        0,
         18,
         8,
         9,
-        1,
         8,
         26,
         8,
         10,
         16,
         1,
-        9,
         16,
         2,
         24,
-        1,
         2,
         6,
         0,
@@ -1434,7 +1406,6 @@
         9,
         3,
         16,
-        6,
         2,
         1,
         7,
@@ -1452,7 +1423,6 @@
         2,
         19,
         4,
-        8,
         2,
         2,
         9,
@@ -1463,10 +1433,8 @@
         17,
         7,
         10,
-        0,
         6,
         7,
-        17,
         7,
         22,
         19,
@@ -1483,7 +1451,6 @@
         4,
         7,
         13,
-        10,
         13,
         0,
         3,
@@ -1498,24 +1465,20 @@
         9,
         5,
         10,
-        12,
         9,
         3
       ]
     },
     "years_to_first_1000cite": {
-      "n": 53,
+      "n": 46,
       "min": 0,
       "max": 32,
-      "median": 9,
-      "mean": 10.3,
+      "median": 9.5,
+      "mean": 11.24,
       "values": [
         5,
-        0,
-        2,
         15,
         17,
-        1,
         3,
         0,
         14,
@@ -1523,14 +1486,12 @@
         9,
         3,
         16,
-        6,
         1,
         7,
         5,
         11,
         10,
         22,
-        8,
         8,
         23,
         9,
@@ -1539,7 +1500,6 @@
         20,
         7,
         10,
-        0,
         6,
         11,
         9,
@@ -1560,37 +1520,31 @@
         12,
         9,
         6,
-        12,
         11,
         3
       ]
     },
     "peak_paper_relative_position": {
-      "n": 125,
+      "n": 100,
       "min": 0.0,
       "max": 0.875,
-      "median": 0.463,
-      "mean": 0.44,
+      "median": 0.472,
+      "mean": 0.46,
       "values": [
         0.227,
-        0.125,
         0.5,
         0.333,
         0.714,
-        0.143,
         0.583,
         0.788,
-        0.8,
         0.229,
         0.375,
         0.593,
         0.472,
         0.042,
-        0.562,
         0.531,
         0.051,
         0.806,
-        0.1,
         0.2,
         0.25,
         0.167,
@@ -1602,15 +1556,10 @@
         0.697,
         0.393,
         0.55,
-        0.0,
         0.759,
         0.485,
-        0.323,
-        0.636,
-        0.375,
         0.25,
         0.382,
-        0.118,
         0.038,
         0.118,
         0.29,
@@ -1619,28 +1568,21 @@
         0.571,
         0.217,
         0.647,
-        0.478,
         0.241,
         0.667,
         0.688,
         0.222,
-        0.8,
         0.5,
-        0.794,
-        0.318,
         0.4,
         0.074,
         0.6,
         0.267,
-        0.192,
-        0.421,
         0.267,
         0.308,
         0.75,
         0.36,
         0.719,
         0.7,
-        0.448,
         0.577,
         0.575,
         0.6,
@@ -1648,11 +1590,8 @@
         0.714,
         0.36,
         0.312,
-        0.682,
-        0.0,
         0.4,
         0.219,
-        0.63,
         0.647,
         0.564,
         0.6,
@@ -1673,7 +1612,6 @@
         0.708,
         0.735,
         0.854,
-        0.476,
         0.821,
         0.0,
         0.65,
@@ -1682,49 +1620,40 @@
         0.227,
         0.2,
         0.5,
-        0.0,
         0.382,
         0.545,
         0.562,
         0.346,
         0.2,
-        0.0,
         0.577,
-        0.522,
         0.463,
         0.611,
-        0.5,
         0.552,
         0.395,
         0.472
       ]
     },
     "career_span_years": {
-      "n": 125,
-      "min": 5,
+      "n": 100,
+      "min": 9,
       "max": 42,
-      "median": 28,
-      "mean": 27.76,
+      "median": 29.5,
+      "mean": 29.26,
       "values": [
         23,
-        9,
         37,
         28,
         29,
-        15,
         25,
         34,
-        11,
         36,
         41,
         28,
         37,
         25,
-        17,
         33,
         40,
         32,
-        11,
         11,
         25,
         13,
@@ -1736,14 +1665,9 @@
         34,
         29,
         21,
-        5,
         30,
         34,
-        32,
-        23,
-        17,
         9,
-        35,
         35,
         27,
         35,
@@ -1753,28 +1677,21 @@
         29,
         24,
         18,
-        24,
         30,
         19,
         33,
         28,
-        21,
         37,
-        35,
-        23,
         21,
         28,
         41,
         16,
-        27,
-        20,
         16,
         40,
         37,
         26,
         33,
         21,
-        30,
         27,
         41,
         26,
@@ -1782,11 +1699,8 @@
         29,
         26,
         33,
-        23,
-        10,
         16,
         33,
-        28,
         18,
         40,
         41,
@@ -1807,7 +1721,6 @@
         25,
         35,
         42,
-        22,
         40,
         20,
         21,
@@ -1816,18 +1729,14 @@
         23,
         11,
         15,
-        9,
         35,
         23,
         33,
         27,
         31,
-        38,
         27,
-        24,
         42,
         37,
-        35,
         30,
         39,
         37
@@ -3624,32 +3533,12 @@
   },
   "pivot_ranking": [
     {
-      "name": "Sukhan Lee",
-      "pivot_score": 0.616
-    },
-    {
-      "name": "Dong-Soo Kwon",
-      "pivot_score": 0.611
-    },
-    {
-      "name": "Frank C. Park",
-      "pivot_score": 0.599
-    },
-    {
       "name": "Pierre E. Dupont",
       "pivot_score": 0.555
     },
     {
       "name": "Jean-Jacques E. Slotine",
       "pivot_score": 0.511
-    },
-    {
-      "name": "Jun-Ho Oh",
-      "pivot_score": 0.49
-    },
-    {
-      "name": "Hyun Myung",
-      "pivot_score": 0.485
     },
     {
       "name": "Ronald S. Fearing",
@@ -3682,14 +3571,6 @@
     {
       "name": "Bradley J. Nelson",
       "pivot_score": 0.39
-    },
-    {
-      "name": "H. Jin Kim",
-      "pivot_score": 0.389
-    },
-    {
-      "name": "Jaeheung Park",
-      "pivot_score": 0.389
     },
     {
       "name": "Sangbae Kim",
@@ -3732,10 +3613,6 @@
       "pivot_score": 0.332
     },
     {
-      "name": "Il Hong Suh",
-      "pivot_score": 0.331
-    },
-    {
       "name": "Kazuhiro Kosuge",
       "pivot_score": 0.331
     },
@@ -3760,28 +3637,12 @@
       "pivot_score": 0.309
     },
     {
-      "name": "Kyu-Jin Cho",
-      "pivot_score": 0.308
-    },
-    {
-      "name": "Wan Kyun Chung",
-      "pivot_score": 0.306
-    },
-    {
       "name": "Jean-Claude Latombe",
       "pivot_score": 0.305
     },
     {
       "name": "Alessandro De Luca",
       "pivot_score": 0.3
-    },
-    {
-      "name": "Jee-Hwan Ryu",
-      "pivot_score": 0.298
-    },
-    {
-      "name": "Ji Zhang",
-      "pivot_score": 0.292
     },
     {
       "name": "Arianna Menciassi",
@@ -3900,23 +3761,11 @@
       "pivot_score": 0.236
     },
     {
-      "name": "Lerrel Pinto",
-      "pivot_score": 0.234
-    },
-    {
-      "name": "Edwin Olson",
-      "pivot_score": 0.231
-    },
-    {
       "name": "Juan D. Tardós",
       "pivot_score": 0.23
     },
     {
       "name": "Fumio Kanehiro",
-      "pivot_score": 0.212
-    },
-    {
-      "name": "Russ Tedrake",
       "pivot_score": 0.212
     },
     {
@@ -3928,24 +3777,12 @@
       "pivot_score": 0.208
     },
     {
-      "name": "Timothy D. Barfoot",
-      "pivot_score": 0.206
-    },
-    {
-      "name": "Andreas Geiger",
-      "pivot_score": 0.205
-    },
-    {
       "name": "Christian Ott",
       "pivot_score": 0.199
     },
     {
       "name": "Lydia E. Kavraki",
       "pivot_score": 0.193
-    },
-    {
-      "name": "Abhinav Gupta",
-      "pivot_score": 0.191
     },
     {
       "name": "Nicholas Roy",
@@ -3984,14 +3821,6 @@
       "pivot_score": 0.172
     },
     {
-      "name": "Animesh Garg",
-      "pivot_score": 0.163
-    },
-    {
-      "name": "Dongheui Lee",
-      "pivot_score": 0.161
-    },
-    {
       "name": "Giorgio Grisetti",
       "pivot_score": 0.16
     },
@@ -4020,19 +3849,11 @@
       "pivot_score": 0.146
     },
     {
-      "name": "Ayoung Kim",
-      "pivot_score": 0.145
-    },
-    {
       "name": "Sebastian Thrun",
       "pivot_score": 0.141
     },
     {
       "name": "Jeannette Bohg",
-      "pivot_score": 0.136
-    },
-    {
-      "name": "Marc Pollefeys",
       "pivot_score": 0.136
     },
     {
@@ -4046,10 +3867,6 @@
     {
       "name": "Vijay Kumar",
       "pivot_score": 0.134
-    },
-    {
-      "name": "Cesar Cadena",
-      "pivot_score": 0.128
     },
     {
       "name": "Kei Okada",
@@ -4108,43 +3925,33 @@
       "pivot_score": 0.078
     },
     {
-      "name": "Shuran Song",
-      "pivot_score": 0.073
-    },
-    {
       "name": "Sergey Levine",
       "pivot_score": 0.067
     },
     {
       "name": "Wolfram Burgard",
       "pivot_score": 0.064
-    },
-    {
-      "name": "Deepak Pathak",
-      "pivot_score": 0.0
     }
   ],
   "dynasty_ranking": [
     {
       "name": "Gerd Hirzinger",
       "total_likely_students": 55,
-      "students_in_topN": 4,
+      "students_in_topN": 3,
       "students_in_topN_names": [
         "Sami Haddadin",
         "Christian Ott",
-        "Alin Albu-Schäffer",
-        "Jee-Hwan Ryu"
+        "Alin Albu-Schäffer"
       ]
     },
     {
       "name": "Pieter Abbeel",
       "total_likely_students": 45,
-      "students_in_topN": 4,
+      "students_in_topN": 3,
       "students_in_topN_names": [
         "Sergey Levine",
         "Chelsea Finn",
-        "Jia Pan",
-        "Lerrel Pinto"
+        "Jia Pan"
       ]
     },
     {
@@ -4292,30 +4099,6 @@
       ]
     },
     {
-      "name": "John J. Leonard",
-      "total_likely_students": 34,
-      "students_in_topN": 1,
-      "students_in_topN_names": [
-        "Edwin Olson"
-      ]
-    },
-    {
-      "name": "Yoshihiko Nakamura",
-      "total_likely_students": 29,
-      "students_in_topN": 1,
-      "students_in_topN_names": [
-        "Dongheui Lee"
-      ]
-    },
-    {
-      "name": "Oussama Khatib",
-      "total_likely_students": 25,
-      "students_in_topN": 1,
-      "students_in_topN_names": [
-        "Jaeheung Park"
-      ]
-    },
-    {
       "name": "Robert D. Howe",
       "total_likely_students": 22,
       "students_in_topN": 1,
@@ -4337,14 +4120,6 @@
       "students_in_topN": 1,
       "students_in_topN_names": [
         "Luca Carlone"
-      ]
-    },
-    {
-      "name": "Dong-Soo Kwon",
-      "total_likely_students": 16,
-      "students_in_topN": 1,
-      "students_in_topN_names": [
-        "Jee-Hwan Ryu"
       ]
     },
     {
@@ -4466,19 +4241,7 @@
       "students_in_topN_names": []
     },
     {
-      "name": "H. Jin Kim",
-      "total_likely_students": 40,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "Bradley J. Nelson",
-      "total_likely_students": 39,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Wan Kyun Chung",
       "total_likely_students": 39,
       "students_in_topN": 0,
       "students_in_topN_names": []
@@ -4532,6 +4295,12 @@
       "students_in_topN_names": []
     },
     {
+      "name": "John J. Leonard",
+      "total_likely_students": 34,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
       "name": "Aníbal Ollero",
       "total_likely_students": 33,
       "students_in_topN": 0,
@@ -4574,7 +4343,7 @@
       "students_in_topN_names": []
     },
     {
-      "name": "Timothy D. Barfoot",
+      "name": "Yoshihiko Nakamura",
       "total_likely_students": 29,
       "students_in_topN": 0,
       "students_in_topN_names": []
@@ -4628,6 +4397,12 @@
       "students_in_topN_names": []
     },
     {
+      "name": "Oussama Khatib",
+      "total_likely_students": 25,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
       "name": "George J. Pappas",
       "total_likely_students": 25,
       "students_in_topN": 0,
@@ -4640,49 +4415,13 @@
       "students_in_topN_names": []
     },
     {
-      "name": "Russ Tedrake",
-      "total_likely_students": 25,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "Fei Gao",
       "total_likely_students": 24,
       "students_in_topN": 0,
       "students_in_topN_names": []
     },
     {
-      "name": "Il Hong Suh",
-      "total_likely_students": 23,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Jee-Hwan Ryu",
-      "total_likely_students": 23,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Kyu-Jin Cho",
-      "total_likely_students": 22,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Ayoung Kim",
-      "total_likely_students": 21,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "Daniel E. Koditschek",
-      "total_likely_students": 21,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Hyun Myung",
       "total_likely_students": 21,
       "students_in_topN": 0,
       "students_in_topN_names": []
@@ -4742,12 +4481,6 @@
       "students_in_topN_names": []
     },
     {
-      "name": "Jun-Ho Oh",
-      "total_likely_students": 18,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "Luca Carlone",
       "total_likely_students": 18,
       "students_in_topN": 0,
@@ -4778,24 +4511,6 @@
       "students_in_topN_names": []
     },
     {
-      "name": "Dongheui Lee",
-      "total_likely_students": 16,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Jaeheung Park",
-      "total_likely_students": 16,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Marc Pollefeys",
-      "total_likely_students": 16,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "Andrew J. Davison",
       "total_likely_students": 15,
       "students_in_topN": 0,
@@ -4820,12 +4535,6 @@
       "students_in_topN_names": []
     },
     {
-      "name": "Edwin Olson",
-      "total_likely_students": 13,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "Kensuke Harada",
       "total_likely_students": 13,
       "students_in_topN": 0,
@@ -4838,20 +4547,8 @@
       "students_in_topN_names": []
     },
     {
-      "name": "Sukhan Lee",
-      "total_likely_students": 12,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "David Hsu",
       "total_likely_students": 11,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Frank C. Park",
-      "total_likely_students": 10,
       "students_in_topN": 0,
       "students_in_topN_names": []
     },
@@ -4874,18 +4571,6 @@
       "students_in_topN_names": []
     },
     {
-      "name": "Lerrel Pinto",
-      "total_likely_students": 9,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Animesh Garg",
-      "total_likely_students": 7,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "Shuuji Kajita",
       "total_likely_students": 7,
       "students_in_topN": 0,
@@ -4904,44 +4589,8 @@
       "students_in_topN_names": []
     },
     {
-      "name": "Ji Zhang",
-      "total_likely_students": 5,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Cesar Cadena",
-      "total_likely_students": 3,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "Hirohisa Hirukawa",
       "total_likely_students": 3,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Abhinav Gupta",
-      "total_likely_students": 2,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Andreas Geiger",
-      "total_likely_students": 2,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Shuran Song",
-      "total_likely_students": 1,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
-      "name": "Deepak Pathak",
-      "total_likely_students": 0,
       "students_in_topN": 0,
       "students_in_topN_names": []
     }
@@ -4993,15 +4642,6 @@
       "student_first_year": 2010
     },
     {
-      "advisor": "Dong-Soo Kwon",
-      "student": "Jee-Hwan Ryu",
-      "we_last_author_count": 1,
-      "student_first_author_count": 7,
-      "copubs_in_first_5yr": 8,
-      "total_copubs": 10,
-      "student_first_year": 1999
-    },
-    {
       "advisor": "Frank Dellaert",
       "student": "Luca Carlone",
       "we_last_author_count": 8,
@@ -5047,15 +4687,6 @@
       "student_first_year": 1998
     },
     {
-      "advisor": "Gerd Hirzinger",
-      "student": "Jee-Hwan Ryu",
-      "we_last_author_count": 1,
-      "student_first_author_count": 1,
-      "copubs_in_first_5yr": 2,
-      "total_copubs": 3,
-      "student_first_year": 1999
-    },
-    {
       "advisor": "Jean-Claude Latombe",
       "student": "Steven M. LaValle",
       "we_last_author_count": 1,
@@ -5092,15 +4723,6 @@
       "student_first_year": 1998
     },
     {
-      "advisor": "John J. Leonard",
-      "student": "Edwin Olson",
-      "we_last_author_count": 2,
-      "student_first_author_count": 3,
-      "copubs_in_first_5yr": 5,
-      "total_copubs": 5,
-      "student_first_year": 2005
-    },
-    {
       "advisor": "Mark R. Cutkosky",
       "student": "Allison M. Okamura",
       "we_last_author_count": 5,
@@ -5126,15 +4748,6 @@
       "copubs_in_first_5yr": 10,
       "total_copubs": 214,
       "student_first_year": 1998
-    },
-    {
-      "advisor": "Oussama Khatib",
-      "student": "Jaeheung Park",
-      "we_last_author_count": 9,
-      "student_first_author_count": 4,
-      "copubs_in_first_5yr": 10,
-      "total_copubs": 13,
-      "student_first_year": 2003
     },
     {
       "advisor": "Paolo Dario",
@@ -5171,15 +4784,6 @@
       "copubs_in_first_5yr": 3,
       "total_copubs": 3,
       "student_first_year": 2010
-    },
-    {
-      "advisor": "Pieter Abbeel",
-      "student": "Lerrel Pinto",
-      "we_last_author_count": 2,
-      "student_first_author_count": 1,
-      "copubs_in_first_5yr": 2,
-      "total_copubs": 6,
-      "student_first_year": 2016
     },
     {
       "advisor": "Robert D. Howe",
@@ -5315,45 +4919,34 @@
       "copubs_in_first_5yr": 10,
       "total_copubs": 30,
       "student_first_year": 2002
-    },
-    {
-      "advisor": "Yoshihiko Nakamura",
-      "student": "Dongheui Lee",
-      "we_last_author_count": 6,
-      "student_first_author_count": 6,
-      "copubs_in_first_5yr": 6,
-      "total_copubs": 13,
-      "student_first_year": 2003
     }
   ],
   "cross_lessons": {
     "ko": [
-      "첫 100+ 인용 논문까지 중앙값 **2.0년**. top-125 중 가장 늦은 사람도 19년이면 도달.",
+      "첫 100+ 인용 논문까지 중앙값 **2.0년**. top 100 중 가장 늦은 사람도 19년이면 도달.",
       "첫 500+ 인용 논문까지 중앙값 **8.0년**. 범위: 0~32년. 이 숫자가 '대가 후보'의 바닥선.",
-      "첫 1000+ 인용 논문 중앙값 **9년** — 블록버스터는 보통 커리어 중반 전에 나온다.",
-      "최다 인용 논문의 상대 위치 중앙값 46% — top-125 중 절반 이상이 커리어 전반부에 최고점을 찍었음.",
+      "첫 1000+ 인용 논문 중앙값 **9.5년** — 블록버스터는 보통 커리어 중반 전에 나온다.",
+      "최다 인용 논문의 상대 위치 중앙값 47% — top 100 중 절반 이상이 커리어 전반부에 최고점을 찍었음.",
       "커리어 아크 아키타입 분포: early-blockbuster 14명, late-bloomer 32명, mid-career-peak 22명, steady-producer 41명, early-blockbuster-2 1명, mid-career-peak-2 6명, early-blockbuster-3 5명, late-bloomer-2 4명.",
       "컨퍼런스→저널 과반 전환까지 중앙값 20년 (n=63, 나머지는 전 커리어 동안 컨퍼런스 중심).",
-      "토픽 피벗 강도 상위 3인: Sukhan Lee(0.62), Dong-Soo Kwon(0.61), Frank C. Park(0.60). 거장도 재창조는 한다.",
-      "학파 왕가 — top-125 안에서 제자가 다시 top-125에 진입한 상위 3인: Gerd Hirzinger(4), Pieter Abbeel(4), Stefan Schaal(3). 대가의 진짜 지표는 '대가를 몇 명 길러냈느냐'.",
+      "토픽 피벗 강도 상위 3인: Pierre E. Dupont(0.56), Jean-Jacques E. Slotine(0.51), Ronald S. Fearing(0.48). 거장도 재창조는 한다.",
+      "학파 왕가 — top 100 안에서 제자가 다시 top 100에 진입한 상위 3인: Gerd Hirzinger(3), Pieter Abbeel(3), Stefan Schaal(3). 대가의 진짜 지표는 '대가를 몇 명 길러냈느냐'.",
       "제자 추정 총량 상위 3인: Roland Siegwart(122), Daniela Rus(104), Vijay Kumar(98). 양성 규모는 h-index와 별개.",
-      "top-125 내 추정 사제 관계(신호 강한 순): Gerd Hirzinger→Sami Haddadin, Pieter Abbeel→Sergey Levine, Roland Siegwart→Marco Hutter, Wolfram Burgard→Cyrill Stachniss, Shaojie Shen→Fei Gao.",
-      "가장 많이 겹친 주제: **Computer science** (주도자: Roland Siegwart, Daniela Rus, Wolfram Burgard). 여러 대가가 같은 토픽에서 경쟁했다는 뜻.",
-      "커리어 인사이트: (1) 첫 5년 안에 '인용 받는 주제'에 착지하라 — 중앙값이 말해준다. (2) 피벗러든 직진형이든 성립 가능하지만, 팀 확장 없이 200편+ 찍은 사람은 거의 없다. (3) 아키타입은 혈통이 아니라 환경 — 후기 개화형도 top-125에 다수다."
+      "top 100 내 추정 사제 관계(신호 강한 순): Gerd Hirzinger→Sami Haddadin, Pieter Abbeel→Sergey Levine, Roland Siegwart→Marco Hutter, Wolfram Burgard→Cyrill Stachniss, Shaojie Shen→Fei Gao.",
+      "TAKEAWAYS::KO::첫 5년 안에 '인용을 받는 주제'에 착지하라 — 중앙값이 말해준다. 첫 500+ 인용 논문까지 중앙값 **8년**, 빠르면 0년 만에도 나온다.|||피벗러(도구/주제 갈아엎기)와 직진형(한 우물) 둘 다 성립한다. 두 경로 모두 top 100+α 안에 충분히 많다. 본인 성향에 맞는 길을 고르면 된다.|||하지만 **팀 확장 없이 200편+** 찍은 사람은 거의 없다. 생산량을 일정 수준 이상 만들려면 어느 시점에서든 그룹 운영으로의 전환이 필요하다.|||아키타입은 혈통이 아니라 환경의 산물이다. 후기 개화형(late bloomer)도 top 100+α에 다수다 — '정점은 반드시 초년이어야 한다'는 법칙은 없다.|||추정 제자 수와 h-index는 별개 축이다. 두 상위 리스트의 교집합이 생각보다 좁다 — 연구자는 '다작·인용'과 '사람 배출' 중 **무엇을 남길지** 스스로 선택한다.|||컨퍼런스→저널 과반 전환 중앙값은 **20년**. 그 이전까지는 ICRA/IROS 중심이 정상 궤적이라는 뜻 — 조급하게 저널로 밀지 않아도 된다.|||블록버스터는 만들려 해서 나오지 않는다. 그러나 **첫 논문부터 500+ 인용을 받은 사람이 실제로 존재**한다 — 운과 준비가 만나는 자리가 있다.|||학파의 재생산(제자가 다시 top-list에 진입)은 소수에게만 일어난다. 하지만 규모 있는 연구실을 운영하면 그 가능성은 기다려볼 만한 수준으로 올라간다."
     ],
     "en": [
-      "Median time to first 100+ cite paper: **2.0 years**. Even the slowest of top-125 got there in 19 years.",
+      "Median time to first 100+ cite paper: **2.0 years**. Even the slowest of top 100 got there in 19 years.",
       "Median time to first 500+ cite paper: **8.0 years** (range 0-32). This is the floor for 'aspiring master'.",
-      "Median time to first 1000+ cite paper: **9 years** — blockbusters usually hit before mid-career.",
-      "Peak-paper median position: 46% of career — over half of top-125 hit their peak in the first half.",
+      "Median time to first 1000+ cite paper: **9.5 years** — blockbusters usually hit before mid-career.",
+      "Peak-paper median position: 47% of career — over half of top 100 hit their peak in the first half.",
       "Career arc archetype distribution: early-blockbuster (14), late-bloomer (32), mid-career-peak (22), steady-producer (41), early-blockbuster-2 (1), mid-career-peak-2 (6), early-blockbuster-3 (5), late-bloomer-2 (4).",
       "Conference→journal majority transition: median 20 years (n=63; others stayed conference-centric throughout).",
-      "Top 3 topic pivoters: Sukhan Lee(0.62), Dong-Soo Kwon(0.61), Frank C. Park(0.60). Even masters reinvent themselves.",
-      "Academic dynasty — top-125 researchers whose students also reached top-125 (top 3): Gerd Hirzinger(4), Pieter Abbeel(4), Stefan Schaal(3). The real metric: how many masters did you train?",
+      "Top 3 topic pivoters: Pierre E. Dupont(0.56), Jean-Jacques E. Slotine(0.51), Ronald S. Fearing(0.48). Even masters reinvent themselves.",
+      "Academic dynasty — top 100 researchers whose students also reached top 100 (top 3): Gerd Hirzinger(3), Pieter Abbeel(3), Stefan Schaal(3). The real metric: how many masters did you train?",
       "Top 3 by total likely students: Roland Siegwart(122), Daniela Rus(104), Vijay Kumar(98). Mentorship volume is independent of h-index.",
-      "Strongest inferred advisor→student pairs inside top-125: Gerd Hirzinger→Sami Haddadin, Pieter Abbeel→Sergey Levine, Roland Siegwart→Marco Hutter, Wolfram Burgard→Cyrill Stachniss, Shaojie Shen→Fei Gao.",
-      "Most contested topic: **Computer science** (led by: Roland Siegwart, Daniela Rus, Wolfram Burgard). Many masters competed on the same subject.",
-      "Career takeaways: (1) Land on a 'citation-receiving' topic within your first 5 years — the medians say so. (2) Both pivoters and specialists succeed, but almost no one hits 200+ papers without scaling a team. (3) Archetype isn't bloodline, it's circumstance — late bloomers populate top-125 in numbers."
+      "Strongest inferred advisor→student pairs inside top 100: Gerd Hirzinger→Sami Haddadin, Pieter Abbeel→Sergey Levine, Roland Siegwart→Marco Hutter, Wolfram Burgard→Cyrill Stachniss, Shaojie Shen→Fei Gao.",
+      "TAKEAWAYS::EN::Land on a 'citation-receiving' topic within the first five years — the medians say so. Median time to first 500+ cite paper is **8 years**, and can be as little as zero.|||Both pivoters (rewriting their agenda) and specialists (one question, many years) succeed. Both populate top 100+α well; choose the path that matches your temperament.|||But almost nobody hits **200+ papers without scaling a team**. Sustained high volume requires, at some point, a transition to group leadership.|||Archetype is circumstance, not pedigree. Late bloomers populate top 100+α in numbers — the peak is not required to land early.|||Estimated student count and h-index are essentially independent axes. The overlap between the two top lists is narrower than one might expect — researchers in effect choose whether to leave behind *papers* or *people*.|||Median time to a journal-majority publishing profile is **20 years**. Staying conference-centric well into mid-career is normal — no need to rush to journals.|||Blockbusters rarely come from trying to make them. Yet there exist researchers whose very first paper received 500+ citations — a reminder that preparation meeting luck is a real position on the map.|||Dynasty reproduction (a student of yours re-entering a top list) happens only to a few. But running a group at reasonable scale makes the odds genuinely non-trivial."
     ]
   }
 }
