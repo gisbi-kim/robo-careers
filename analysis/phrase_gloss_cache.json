@@ -413,5 +413,251 @@
     "display": "Differentiable Simulation",
     "ko": "시뮬레이터의 출력을 미분 가능하게 만들어 그래디언트로 정책·파라미터를 최적화 — 학습과 물리를 하나의 파이프라인으로 잇는다.",
     "en": "Physics simulators whose outputs are differentiable all the way through — letting gradient-based optimization tune policies and parameters end-to-end."
+  },
+
+  "space control": {
+    "display": "Task-Space Control",
+    "ko": "관절이 아니라 엔드 이펙터(작업공간) 좌표에서 동역학을 제어하는 방식 — 여유자유도의 제약·목표를 자연스럽게 끌어안음.",
+    "en": "Controlling dynamics in end-effector (task) space rather than joint space — the natural place to express redundancy constraints and goals."
+  },
+
+  "learning operational space": {
+    "display": "Learning Operational-Space Control",
+    "ko": "여유 자유도 매니퓰레이터의 작업공간 제어를 해석 대신 데이터·모델 학습으로 푼다 — 복잡한 동역학에서 analytical closed-form이 없을 때 유용.",
+    "en": "Solving operational-space control for redundant manipulators with learned models instead of analytic closed-form — useful when the dynamics are too complex for the classical derivation."
+  },
+
+  "trajectory formation imitation": {
+    "display": "Imitation-Based Trajectory Formation",
+    "ko": "시연으로부터 궤적을 학습하는 한 접근 — 여러 비선형 동역학 시스템의 혼합으로 동작을 표현 (Ijspeert/Schaal).",
+    "en": "Learning to form trajectories from demonstration by representing motion as a mixture of nonlinear dynamical systems (Ijspeert/Schaal)."
+  },
+
+  "biomimetic oculomotor": {
+    "display": "Biomimetic Oculomotor Control",
+    "ko": "사람 눈의 시선 이동·주시 안정화 메커니즘을 모방한 로봇 비전 제어.",
+    "en": "Robot gaze control inspired by human oculomotor mechanisms — saccades, smooth pursuit, vestibulo-ocular stabilization."
+  },
+
+  "biomimetic": {
+    "display": "Biomimetic Design",
+    "ko": "생물학적 메커니즘을 공학적으로 모방한 설계 — 곤충 비행, 물고기 유영, 도마뱀 흡착 등.",
+    "en": "Engineering designs that imitate biological mechanisms — insect flight, fish swimming, lizard adhesion, and so on."
+  },
+
+  "rrt randomized planning": {
+    "display": "Randomized (Sampling-Based) Planning",
+    "ko": "RRT·PRM 류의 샘플링 기반 모션 플래닝 — 고차원 공간에서 충돌 없는 경로를 무작위 탐색으로 찾는다.",
+    "en": "Sampling-based motion planning (RRT/PRM) — finding collision-free paths in high-dimensional configuration spaces via randomization."
+  },
+
+  "tangent space rrt": {
+    "display": "Manifold / Tangent-Space RRT",
+    "ko": "구속 조건이 있는 매니폴드 위에서의 RRT 변형 — 구속에 맞는 샘플을 접공간에서 뽑아 계획.",
+    "en": "A variant of RRT for motion planning on constrained manifolds — samples are drawn in the tangent space so the constraint is preserved."
+  },
+
+  "upper limb": {
+    "display": "Upper-Limb Wearable Robot",
+    "ko": "어깨·팔·손을 보조하는 착용형 로봇 — 재활·일상 지원이 주 응용.",
+    "en": "Wearable robots that support shoulder, arm, and hand motion — mainly for rehabilitation and daily-living assistance."
+  },
+
+  "under-actuated tendon-driven": {
+    "display": "Underactuated Tendon-Driven Hand",
+    "ko": "액추에이터 수가 자유도보다 적은 케이블 구동 로봇 손 — 단순한 메커니즘으로 다양한 파지를 자동 적응.",
+    "en": "Cable-driven robot hands with fewer actuators than joints — simple mechanisms that adaptively fit a wide grasp variety."
+  },
+
+  "small-scale quadruped": {
+    "display": "Small-Scale Quadruped",
+    "ko": "소형 4족 로봇 — 저비용 하드웨어에서 고속 보행 제어를 연구하는 플랫폼.",
+    "en": "Miniature quadruped platforms — testbeds for studying high-speed locomotion on low-cost hardware."
+  },
+
+  "humanoid arm motion": {
+    "display": "Humanoid Arm Motion Planning",
+    "ko": "외란·충격에 로봇이 팔을 휘저어 균형을 유지하는 동작 계획 — 사람이 팔로 넘어짐을 막는 거동 모사.",
+    "en": "Motion planning that uses arm swinging to help a humanoid recover from disturbance — imitating how humans brace themselves with their arms."
+  },
+
+  "swinging lightweight hardware": {
+    "display": "Robotic Table-Tennis Swing",
+    "ko": "경량 라켓 팔과 고속 MPC로 탁구 스윙을 실시간 수행 — 반응 시간 극한을 시험하는 벤치마크.",
+    "en": "Real-time table-tennis swings executed with a lightweight racket arm under fast MPC — a benchmark that stresses reaction-time limits."
+  },
+
+  "end-to-end detection": {
+    "display": "End-to-End Object Detection",
+    "ko": "수작업 단계 없이 입력 영상에서 곧바로 2D/3D 박스·클래스를 뽑아내는 딥러닝 인식.",
+    "en": "Deep-learned perception that maps raw images directly to 2D/3D bounding boxes and classes without hand-designed stages."
+  },
+
+  "point cloud completion": {
+    "display": "Point-Cloud Completion",
+    "ko": "부분 관측된 LiDAR 포인트 클라우드에서 가려진 부분까지 복원 — 인식·추적 정확도를 높인다.",
+    "en": "Reconstructing occluded parts of partially observed LiDAR point clouds, improving downstream perception and tracking."
+  },
+
+  "lightweight lidar": {
+    "display": "Lightweight LiDAR Pipelines",
+    "ko": "자원 제약이 있는 로봇에 맞춰 경량화한 LiDAR 처리·SLAM 파이프라인.",
+    "en": "LiDAR processing and SLAM pipelines stripped down to fit resource-constrained robots."
+  },
+
+  "monocular dense reconstruction": {
+    "display": "Monocular Dense Reconstruction",
+    "ko": "한 대의 카메라만으로 조밀한 3D 구조를 복원하는 문제 — 깊이 학습·멀티뷰 정합을 결합.",
+    "en": "Recovering dense 3D structure from a single moving camera — combining learned depth priors with multi-view fitting."
+  },
+
+  "vimo simultaneous visual": {
+    "display": "VIMO / Simultaneous VIO",
+    "ko": "움직이는 물체 추정과 카메라 자세 추정을 동시에 수행하는 확장된 visual-inertial SLAM.",
+    "en": "An extended visual-inertial SLAM that jointly estimates moving-object states and the camera's own pose."
+  },
+
+  "autonomous drone racing": {
+    "display": "Autonomous Drone Racing",
+    "ko": "게이트 코스를 자율로 통과하는 고속 드론 — 인식과 민첩한 비행 제어의 극한 벤치마크.",
+    "en": "Autonomous drones flying gate courses at high speed — the extreme benchmark for agile perception and flight control."
+  },
+
+  "flight cluttered environments": {
+    "display": "Flight in Cluttered Environments",
+    "ko": "장애물이 많은 실내·숲 환경에서의 드론 자율 비행 — 실시간 경로 생성이 핵심.",
+    "en": "UAV flight through cluttered spaces like indoor rooms or forests — real-time trajectory generation is the core problem."
+  },
+
+  "agile flight": {
+    "display": "Agile UAV Flight",
+    "ko": "빠르고 민첩한 드론 비행 — 시간 최적 궤적과 인식-제어 밀결합이 주 테마.",
+    "en": "Fast, agile UAV flight — time-optimal trajectories and tight perception-control coupling are the main levers."
+  },
+
+  "drone racing": {
+    "display": "Drone Racing",
+    "ko": "관문(gate)을 통과하는 시간 최적 드론 경주 — 비전·플래닝·제어가 극한에서 수렴하는 분야.",
+    "en": "Time-optimal autonomous flight through gates — where vision, planning, and control converge at the extreme of performance."
+  },
+
+  "moving object segmentation": {
+    "display": "Moving Object Segmentation (MOS)",
+    "ko": "LiDAR/영상에서 정적 배경과 움직이는 물체를 분리 — 장기 SLAM·HD 맵의 핵심 전처리.",
+    "en": "Separating moving objects from static background in LiDAR or video — a critical preprocessor for long-term SLAM and HD mapping."
+  },
+
+  "leaf instance segmentation": {
+    "display": "Leaf Instance Segmentation",
+    "ko": "식물의 개별 잎을 픽셀 단위로 분리해 성장 분석·정밀농업에 활용 (Stachniss·Cho 계열).",
+    "en": "Separating individual plant leaves at the pixel level for growth analysis and precision agriculture (a Stachniss/Cho area)."
+  },
+
+  "generalizable learning": {
+    "display": "Generalizable Robot Learning",
+    "ko": "학습한 정책이 새로운 객체·환경·태스크에서도 동작하도록 일반화를 키우는 연구.",
+    "en": "Pushing robot learning so that trained policies generalize across new objects, environments, and tasks."
+  },
+
+  "beyond sight finetuning": {
+    "display": "Beyond-Sight Fine-Tuning",
+    "ko": "시각 외 센서(촉각·근감각 등)까지 함께 파인튜닝해 불투명·가려진 조작을 가능하게 하는 접근.",
+    "en": "Fine-tuning policies across vision and non-visual senses (touch, proprioception) to handle occluded or opaque manipulation."
+  },
+
+  "open x-embodiment": {
+    "display": "Open X-Embodiment",
+    "ko": "여러 로봇 플랫폼에 걸쳐 공유되는 대규모 로봇 학습 데이터셋·모델 (RT-X) — foundation-style 로봇 학습의 전환점.",
+    "en": "A large-scale dataset and model family spanning many robot platforms (RT-X) — a turning point toward foundation-style robot learning."
+  },
+
+  "policy transfer disentangled": {
+    "display": "Disentangled Policy Transfer",
+    "ko": "원천 로봇 정책을 새 로봇으로 옮길 때 형태·동역학 차이를 '얽힘'으로 분리해 전이.",
+    "en": "Transferring policies between different robot embodiments by disentangling what is body-specific from what is skill-specific."
+  },
+
+  "imitation-based trajectory": {
+    "display": "Imitation-Based Trajectory Formation",
+    "ko": "시연 궤적으로부터 일반화 가능한 동작을 학습 — DMP·확률 모델·신경망까지 폭넓게 사용.",
+    "en": "Learning to reproduce and generalize trajectories from demonstrations — covering DMPs, probabilistic models, and neural policies."
+  },
+
+  "finite-time regional verification": {
+    "display": "Regional Finite-Time Verification",
+    "ko": "제어기가 일정 영역 안에서 주어진 시간 내에 목표에 도달함을 수학적으로 증명 — SOS 최적화로 푸는 안전 보장.",
+    "en": "Formally proving that a controller reaches its target within a finite time over a region of state space — typically posed as SOS optimization for safety guarantees."
+  },
+
+  "polynomial occupation measures": {
+    "display": "Occupation-Measure Motion Planning",
+    "ko": "궤적 최적화를 다항식 점유 측도(occupation measure)의 SDP로 공식화하는 Tedrake 계열 기법 — 지역 최소값을 피한다.",
+    "en": "Casting trajectory optimization as an SDP over polynomial occupation measures — a Tedrake-lab technique that dodges local minima."
+  },
+
+  "controller synthesis discrete-time": {
+    "display": "Discrete-Time Controller Synthesis",
+    "ko": "샘플링된 시스템에 대해 안정성·성능을 보장하는 피드백 제어기를 자동 설계.",
+    "en": "Automatically synthesizing feedback controllers for sampled-data systems with stability and performance guarantees."
+  },
+
+  "actuating 3d passive": {
+    "display": "3D Passive-Dynamic Walking",
+    "ko": "3D 공간에서 중력만으로 걷는 수동 보행 로봇에 최소 구동을 붙여 안정화 — Tedrake·McGeer 계보.",
+    "en": "Stabilizing 3D passive-dynamic walkers with minimal actuation — the Tedrake/McGeer line."
+  },
+
+  "inverse kinematics point-foot": {
+    "display": "Point-Foot IK for Legged Robots",
+    "ko": "발 끝이 점으로 접촉하는 다리 로봇의 역기구학 — 발바닥의 회전 자유도가 없어서 접근이 다르다.",
+    "en": "Inverse kinematics for legged robots with point-foot contact — different from flat-foot IK because no foot roll is available."
+  },
+
+  "kinematics point-foot quadruped": {
+    "display": "Point-Foot Quadruped Kinematics",
+    "ko": "점 접촉으로 모델링된 4족 로봇의 기구학·제어 — 간결한 동역학으로 고속 보행 해석에 유리.",
+    "en": "Kinematics and control of quadrupeds modelled with point feet — a simpler dynamics that suits high-speed locomotion analysis."
+  },
+
+  "advanced perception navigation": {
+    "display": "Perception-Driven Autonomy (Underwater)",
+    "ko": "인식·네비게이션·경로 계획을 통합해 수중 로봇이 선체 검사를 자율로 수행하는 스택.",
+    "en": "An integrated perception/navigation/planning stack that lets an underwater robot autonomously inspect a ship hull."
+  },
+
+  "active visual slam": {
+    "display": "Active Visual SLAM",
+    "ko": "불확실성을 줄이기 위해 스스로 시점·경로를 선택하는 visual SLAM — 커버리지와 추정 정밀도를 동시에 개선.",
+    "en": "Visual SLAM that plans its own viewpoints to reduce uncertainty — jointly improving coverage and estimation accuracy."
+  },
+
+  "unsupervised geometry-aware deep": {
+    "display": "Unsupervised Geometry-Aware Deep LiDAR",
+    "ko": "기하 제약을 내재화한 딥 LiDAR 인식 — 라벨 없이 스스로 구조를 학습.",
+    "en": "Self-supervised deep LiDAR perception with geometry built in — learning structure without labels."
+  },
+
+  "geometry-aware deep lidar": {
+    "display": "Geometry-Aware Deep LiDAR",
+    "ko": "LiDAR 포인트의 기하 구조를 명시적으로 활용하는 딥러닝 인식.",
+    "en": "Deep LiDAR perception that explicitly leverages the geometric structure of point clouds."
+  },
+
+  "heterogeneous radar": {
+    "display": "Heterogeneous Radar Perception",
+    "ko": "서로 다른 종류(FMCW·spinning·mmWave)의 레이더를 결합해 악천후에서도 안정된 인식을 얻는 접근.",
+    "en": "Combining heterogeneous radar modalities (FMCW / spinning / mmWave) for perception robust to weather."
+  },
+
+  "transparent object": {
+    "display": "Transparent Object Perception",
+    "ko": "투명·반사 물체를 인식·조작하는 연구 — 기존 깊이 센서가 실패하는 대표 도메인.",
+    "en": "Perceiving and manipulating transparent or reflective objects — a domain where standard depth sensors fail."
+  },
+
+  "pelical targetless extrinsic": {
+    "display": "Targetless Sensor Extrinsic Calibration",
+    "ko": "전용 캘리브레이션 타겟 없이 주행 중 데이터만으로 센서 간 외부 파라미터를 추정.",
+    "en": "Estimating extrinsic parameters between sensors from in-the-wild data, with no dedicated calibration target."
   }
 }

@@ -638,18 +638,13 @@ def build_phases(profile, author_papers, idf, max_idf, lang, enriched=None):
         # window — raw blockbuster titles introduced false positives.
         glossary = lookup_glossary(win_phrases, lang, max_entries=3)
 
-        # Paper-based fallback: the phase title surfaces up to 2 distinctive
-        # phrases. For each of those, if the curated glossary didn't catch it,
-        # attach the highest-cited in-window paper whose title contains all
-        # the phrase's tokens, so readers see at least WHERE the term came
-        # from ("Gel-Made Electro-Active Polymer Gripper, IROS 2018, 45c").
+        # Paper-based fallback: only for phase-title phrases (top 2) that the
+        # curated glossary did NOT already cover. Re-run lookup per-phrase to
+        # get an honest yes/no instead of guessing by token overlap.
         title_phrases = win_phrases[:2]
-        covered = {g["term"].lower() for g in glossary}
         for phr in title_phrases:
-            if any(tok in covered for tok in phr.lower().split()) or phr.lower() in covered:
-                continue
-            # Avoid near-duplicate add if it's already a gloss term
-            if phr.lower() in covered:
+            if lookup_glossary([phr], lang, max_entries=1):
+                # Already glossed via curated cache or generic glossary.
                 continue
             # Find best paper whose title contains all phrase tokens
             tokens = [t for t in phr.lower().replace("-", " ").split() if len(t) > 1]
