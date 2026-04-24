@@ -1310,7 +1310,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Stefan Schaal: 33년에 걸쳐 131편, 총 12,707회 인용, h=58, 500+ 블록버스터 5편.",
       "paragraphs": [
         "1993년 \"Open Loop Stable Control Strategies for Robot Juggling\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842회).",
@@ -1326,7 +1326,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Stefan Schaal: over 33 years, 131 papers, 12,707 total cites, h=58, 5 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1993 with \"Open Loop Stable Control Strategies for Robot Juggling\". First 500+ cite paper came 9 years in: \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842 cites).",

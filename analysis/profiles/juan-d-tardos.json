@@ -1114,7 +1114,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Juan D. Tardós: 33년에 걸쳐 52편, 총 22,566회 인용, h=32, 500+ 블록버스터 6편.",
       "paragraphs": [
         "1992년 \"Representing partial and uncertain sensorial information using the theory of symmetries\"으로 출발. 첫 500+ 인용 논문까지 10년 걸림: \"Robust Mapping and Localization in Indoor Environments Using Sonar Data\" (2002, 529회). 1000+ 인용 논문: \"Bags of Binary Words for Fast Place Recognition in Image Sequences\" (2012, 1,883회).",
@@ -1128,7 +1128,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Juan D. Tardós: over 33 years, 52 papers, 22,566 total cites, h=32, 6 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1992 with \"Representing partial and uncertain sensorial information using the theory of symmetries\". First 500+ cite paper came 10 years in: \"Robust Mapping and Localization in Indoor Environments Using Sonar Data\" (2002, 529 cites). 1000+ cite paper: \"Bags of Binary Words for Fast Place Recognition in Image Sequences\" (2012, 1,883 cites).",

@@ -1105,7 +1105,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Timothy D. Barfoot: 24년에 걸쳐 108편, 총 4,989회 인용, h=32, 500+ 블록버스터 1편.",
       "paragraphs": [
         "2002년 \"Kinematic path-planning for formations of mobile robots with a nonholonomic constraint\"으로 출발. 첫 500+ 인용 논문까지 12년 걸림: \"Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic\" (2014, 1,100회). 1000+ 인용 논문: \"Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic\" (2014, 1,100회).",
@@ -1121,7 +1121,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Timothy D. Barfoot: over 24 years, 108 papers, 4,989 total cites, h=32, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2002 with \"Kinematic path-planning for formations of mobile robots with a nonholonomic constraint\". First 500+ cite paper came 12 years in: \"Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic\" (2014, 1,100 cites). 1000+ cite paper: \"Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic\" (2014, 1,100 cites).",

@@ -1,0 +1,1240 @@
+{
+  "name": "Il Hong Suh",
+  "slug": "il-hong-suh",
+  "career_stats": {
+    "first_year": 1988,
+    "last_year": 2022,
+    "span": 35,
+    "total_papers": 108,
+    "total_cites": 1915,
+    "h_index": 19,
+    "i10_index": 41,
+    "seminal_count": 0,
+    "max_cites_single_paper": 189
+  },
+  "role_distribution": {
+    "first": 10,
+    "middle": 40,
+    "last": 58
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1988,
+      "title": "Coordination of dual robot arms using kinematic redundancy"
+    },
+    "first_100cite": {
+      "year": 1998,
+      "title": "Disturbance Observer Based Force Control of Robot Manipulator without Force Sensor",
+      "cites": 160,
+      "gap_from_first": 10
+    },
+    "peak_paper": {
+      "year": 2015,
+      "title": "Building a 3-D Line-Based Map Using Stereo SLAM",
+      "cites": 189
+    }
+  },
+  "year_series": {
+    "1988": {
+      "n": 1,
+      "cites": 36,
+      "max_cites": 36
+    },
+    "1989": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1990": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1991": {
+      "n": 3,
+      "cites": 18,
+      "max_cites": 10
+    },
+    "1992": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1993": {
+      "n": 2,
+      "cites": 21,
+      "max_cites": 16
+    },
+    "1994": {
+      "n": 3,
+      "cites": 13,
+      "max_cites": 8
+    },
+    "1995": {
+      "n": 3,
+      "cites": 23,
+      "max_cites": 13
+    },
+    "1996": {
+      "n": 2,
+      "cites": 18,
+      "max_cites": 16
+    },
+    "1997": {
+      "n": 5,
+      "cites": 32,
+      "max_cites": 14
+    },
+    "1998": {
+      "n": 6,
+      "cites": 230,
+      "max_cites": 160
+    },
+    "1999": {
+      "n": 5,
+      "cites": 42,
+      "max_cites": 15
+    },
+    "2000": {
+      "n": 8,
+      "cites": 84,
+      "max_cites": 22
+    },
+    "2001": {
+      "n": 6,
+      "cites": 136,
+      "max_cites": 58
+    },
+    "2002": {
+      "n": 4,
+      "cites": 266,
+      "max_cites": 184
+    },
+    "2003": {
+      "n": 2,
+      "cites": 17,
+      "max_cites": 10
+    },
+    "2004": {
+      "n": 5,
+      "cites": 29,
+      "max_cites": 16
+    },
+    "2005": {
+      "n": 3,
+      "cites": 37,
+      "max_cites": 18
+    },
+    "2006": {
+      "n": 3,
+      "cites": 16,
+      "max_cites": 8
+    },
+    "2007": {
+      "n": 3,
+      "cites": 95,
+      "max_cites": 77
+    },
+    "2008": {
+      "n": 5,
+      "cites": 29,
+      "max_cites": 9
+    },
+    "2009": {
+      "n": 5,
+      "cites": 38,
+      "max_cites": 23
+    },
+    "2010": {
+      "n": 2,
+      "cites": 15,
+      "max_cites": 14
+    },
+    "2011": {
+      "n": 2,
+      "cites": 45,
+      "max_cites": 34
+    },
+    "2012": {
+      "n": 5,
+      "cites": 55,
+      "max_cites": 26
+    },
+    "2013": {
+      "n": 5,
+      "cites": 82,
+      "max_cites": 39
+    },
+    "2014": {
+      "n": 4,
+      "cites": 101,
+      "max_cites": 96
+    },
+    "2015": {
+      "n": 3,
+      "cites": 198,
+      "max_cites": 189
+    },
+    "2016": {
+      "n": 5,
+      "cites": 29,
+      "max_cites": 15
+    },
+    "2017": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    },
+    "2018": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2019": {
+      "n": 3,
+      "cites": 24,
+      "max_cites": 14
+    },
+    "2020": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2021": {
+      "n": 2,
+      "cites": 23,
+      "max_cites": 14
+    },
+    "2022": {
+      "n": 1,
+      "cites": 162,
+      "max_cites": 162
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1988,
+      "end": 1992,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Fuzzy logic",
+          "w": 0.1
+        },
+        {
+          "c": "Redundancy (engineering)",
+          "w": 0.05
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 1993,
+      "end": 1997,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.093
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.093
+        },
+        {
+          "c": "Orientation (vector space)",
+          "w": 0.053
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.04
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.097
+        },
+        {
+          "c": "Computer science",
+          "w": 0.069
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.062
+        },
+        {
+          "c": "Mechanism (biology)",
+          "w": 0.048
+        },
+        {
+          "c": "GRASP",
+          "w": 0.041
+        }
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.163
+        },
+        {
+          "c": "Robot",
+          "w": 0.062
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.05
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.05
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.189
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.147
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.053
+        },
+        {
+          "c": "Robot",
+          "w": 0.042
+        },
+        {
+          "c": "Bayes' theorem",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 18,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.167
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.122
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.067
+        },
+        {
+          "c": "Robot",
+          "w": 0.044
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.171
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.143
+        },
+        {
+          "c": "GRASP",
+          "w": 0.114
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.114
+        },
+        {
+          "c": "Avatar",
+          "w": 0.029
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1988,
+      "end": 1992,
+      "mix": {
+        "IROS": 3,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 1993,
+      "end": 1997,
+      "mix": {
+        "IROS": 9,
+        "ICRA": 6
+      }
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "ICRA": 17,
+        "IROS": 11,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "IROS": 8,
+        "ICRA": 7,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "IROS": 10,
+        "ICRA": 9
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "IROS": 10,
+        "ICRA": 7,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "IROS": 4,
+        "RA-L": 2,
+        "ICRA": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1988,
+      "end": 1992,
+      "mean_n_authors": 3.25,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Sang-Rok Oh",
+          2
+        ],
+        [
+          "Kang G. Shin",
+          1
+        ],
+        [
+          "Jong Hyuck Hong",
+          1
+        ],
+        [
+          "Kwang-Bae Kim",
+          1
+        ],
+        [
+          "Woong Keun Hyun",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1993,
+      "end": 1997,
+      "mean_n_authors": 4,
+      "unique_coauthors": 24,
+      "top_coauthors": [
+        [
+          "Sang-Rok Oh",
+          8
+        ],
+        [
+          "Nak Young Chong",
+          4
+        ],
+        [
+          "Donghoon Choi",
+          4
+        ],
+        [
+          "Bum Hee Lee",
+          4
+        ],
+        [
+          "Hee-Joo Yeo",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 4.41,
+      "unique_coauthors": 23,
+      "top_coauthors": [
+        [
+          "Byung-Ju Yi",
+          21
+        ],
+        [
+          "Sang-Rok Oh",
+          18
+        ],
+        [
+          "Jae Hoon Lee",
+          7
+        ],
+        [
+          "Whee Kuk Kim",
+          7
+        ],
+        [
+          "Byoung-Ho Kim",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 4,
+      "unique_coauthors": 24,
+      "top_coauthors": [
+        [
+          "Byung-Ju Yi",
+          9
+        ],
+        [
+          "Sanghoon Lee",
+          6
+        ],
+        [
+          "Wooyoung Kwon",
+          3
+        ],
+        [
+          "Sang-Rok Oh",
+          3
+        ],
+        [
+          "Jae Hoon Lee",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 3,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Guoxuan Zhang",
+          5
+        ],
+        [
+          "Youngbin Park",
+          4
+        ],
+        [
+          "Byung-Uk Choi",
+          3
+        ],
+        [
+          "Gi Hyun Lim",
+          3
+        ],
+        [
+          "Sang-Rok Oh",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 3.78,
+      "unique_coauthors": 28,
+      "top_coauthors": [
+        [
+          "Jongwoo Lim",
+          6
+        ],
+        [
+          "Jin Han Lee",
+          5
+        ],
+        [
+          "Sehyung Lee",
+          5
+        ],
+        [
+          "Sang Hyoung Lee",
+          4
+        ],
+        [
+          "Guoxuan Zhang",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 4.29,
+      "unique_coauthors": 15,
+      "top_coauthors": [
+        [
+          "Sang Hyoung Lee",
+          4
+        ],
+        [
+          "Youngbin Park",
+          3
+        ],
+        [
+          "Nam Jun Cho",
+          2
+        ],
+        [
+          "Hong-Seok Kim",
+          2
+        ],
+        [
+          "Byung-Ju Yi",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.331,
+  "top_repeat_coauthors": [
+    {
+      "name": "Byung-Ju Yi",
+      "count": 36,
+      "first_year": 1997,
+      "last_year": 2019
+    },
+    {
+      "name": "Sang-Rok Oh",
+      "count": 33,
+      "first_year": 1991,
+      "last_year": 2008
+    },
+    {
+      "name": "Wan Kyun Chung",
+      "count": 12,
+      "first_year": 1998,
+      "last_year": 2016
+    },
+    {
+      "name": "Jae Hoon Lee",
+      "count": 11,
+      "first_year": 1998,
+      "last_year": 2011
+    },
+    {
+      "name": "Whee Kuk Kim",
+      "count": 9,
+      "first_year": 1998,
+      "last_year": 2006
+    },
+    {
+      "name": "Sang Hyoung Lee",
+      "count": 9,
+      "first_year": 2009,
+      "last_year": 2021
+    },
+    {
+      "name": "Guoxuan Zhang",
+      "count": 8,
+      "first_year": 2009,
+      "last_year": 2015
+    },
+    {
+      "name": "Sanghoon Lee",
+      "count": 7,
+      "first_year": 2003,
+      "last_year": 2008
+    },
+    {
+      "name": "Youngbin Park",
+      "count": 7,
+      "first_year": 2008,
+      "last_year": 2021
+    },
+    {
+      "name": "Kwang Sik Eom",
+      "count": 6,
+      "first_year": 1994,
+      "last_year": 2001
+    },
+    {
+      "name": "Byoung-Ho Kim",
+      "count": 6,
+      "first_year": 1999,
+      "last_year": 2001
+    },
+    {
+      "name": "Wooyoung Kwon",
+      "count": 6,
+      "first_year": 2003,
+      "last_year": 2014
+    },
+    {
+      "name": "Sehyung Lee",
+      "count": 6,
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "name": "Jin Han Lee",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2022
+    },
+    {
+      "name": "Jongwoo Lim",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2017
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Guoxuan Zhang",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Sehyung Lee",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Jin Han Lee",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Sang Hyoung Lee",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 9,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Nak Young Chong",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 1999
+    },
+    {
+      "name": "Yonghwan Oh",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 1999
+    },
+    {
+      "name": "Jae Hoon Lee",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 11,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Byoung-Ho Kim",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 6,
+      "we_last_author_count": 3,
+      "last_copub_year": 2001
+    },
+    {
+      "name": "Sanghoon Lee",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Youngbin Park",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Hyung Wook Kim",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Gi Hyun Lim",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Jai Hoon Lee",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2001
+    },
+    {
+      "name": "Keehoon Kim",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Dong Wook Ko",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Wooyoung Kwon",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Goo Bong Chung",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Nam Jun Cho",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Chuho Yi",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Joon-Soo Lee",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Kwang Sik Eom",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2001
+    },
+    {
+      "name": "Hee-Joo Yeo",
+      "student_first_year": 1994,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 1997
+    },
+    {
+      "name": "J. H. Kim",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 1997
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1988,
+      1997
+    ],
+    "early_mean_n_authors": 3.84,
+    "late_window": [
+      2013,
+      2022
+    ],
+    "late_mean_n_authors": 3.92
+  },
+  "citation_half_life_years": 22,
+  "bursts": {
+    "productivity": [
+      2000
+    ],
+    "impact": [
+      1998,
+      2002,
+      2015
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2015,
+      "venue": "T-RO",
+      "title": "Building a 3-D Line-Based Map Using Stereo SLAM",
+      "cites": 189,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Computer vision",
+        "Artificial intelligence",
+        "Bundle adjustment",
+        "Initialization"
+      ],
+      "doi": "10.1109/tro.2015.2489498",
+      "coauthors": [
+        "Guoxuan Zhang",
+        "Jin Han Lee",
+        "Jongwoo Lim"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "Design and Experiment of a 3DOF Parallel Micro-Mechanism Utilizing Flexure Hinges",
+      "cites": 184,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Hinge",
+        "Revolute joint",
+        "Kinematics",
+        "Mechanism (biology)",
+        "Stiffness"
+      ],
+      "doi": "10.1109/robot.2002.1014701",
+      "coauthors": [
+        "Byung-Ju Yi",
+        "Heung Youl Na",
+        "Goo Bong Chung",
+        "Whee Kuk Kim"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "RA-L",
+      "title": "Goal-Driven Autonomous Exploration Through Deep Reinforcement Learning",
+      "cites": 162,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Waypoint",
+        "Reinforcement learning",
+        "Computer science",
+        "Mobile robot navigation",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/lra.2021.3133591",
+      "coauthors": [
+        "Reinis Cimurs",
+        "Jin Han Lee"
+      ]
+    },
+    {
+      "year": 1998,
+      "venue": "ICRA",
+      "title": "Disturbance Observer Based Force Control of Robot Manipulator without Force Sensor",
+      "cites": 160,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Control theory (sociology)",
+        "Torque",
+        "Observer (physics)",
+        "Robot",
+        "Estimator"
+      ],
+      "doi": "10.1109/robot.1998.680888",
+      "coauthors": [
+        "Kwang Sik Eom",
+        "Wan Kyun Chung",
+        "Sang-Rok Oh"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "Outdoor place recognition in urban environments using straight lines",
+      "cites": 96,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision",
+        "Line segment",
+        "Line (geometry)"
+      ],
+      "doi": "10.1109/icra.2014.6907675",
+      "coauthors": [
+        "Jin Han Lee",
+        "Sehyung Lee",
+        "Guoxuan Zhang",
+        "Jongwoo Lim",
+        "Wan Kyun Chung"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "IROS",
+      "title": "Ontology-based multi-layered robot knowledge framework (OMRKF) for robot intelligence",
+      "cites": 77,
+      "n_authors": 6,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Ontology",
+        "Axiom",
+        "Robot",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros.2007.4399082",
+      "coauthors": [
+        "Gi Hyun Lim",
+        "Wonil Hwang",
+        "Hyowon Suh",
+        "Jung-Hwa Choi",
+        "Young-Tack Park"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "IJRR",
+      "title": "Design of a Parallel-Type Gripper Mechanism",
+      "cites": 64,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Workspace",
+        "GRASP",
+        "Kinematics",
+        "Mechanism (biology)",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1177/027836402322023240",
+      "coauthors": [
+        "Byung-Ju Yi",
+        "Heung Yeol Na",
+        "Jae Hoon Lee",
+        "Yeh-Sun Hong",
+        "Sang-Rok Oh",
+        "Whee Kuk Kim"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "IROS",
+      "title": "Optimal grasping based on non-dimensionalized performance indices",
+      "cites": 58,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "GRASP",
+        "Computer science",
+        "Object (grammar)",
+        "Measure (data warehouse)",
+        "Point (geometry)"
+      ],
+      "doi": "10.1109/iros.2001.976291",
+      "coauthors": [
+        "Byoung-Ho Kim",
+        "Sang-Rok Oh",
+        "Byung-Ju Yi"
+      ]
+    },
+    {
+      "year": 1998,
+      "venue": "ICRA",
+      "title": "Optimal Design of a Five-Bar Finger with Redundant Actuation",
+      "cites": 44,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Actuator",
+        "Workspace",
+        "Bar (unit)",
+        "Isotropy",
+        "Index finger"
+      ],
+      "doi": "10.1109/robot.1998.680622",
+      "coauthors": [
+        "Jai Hoon Lee",
+        "Byung-Ju Yi",
+        "Sang-Rok Oh"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "Place recognition using straight lines for vision-based SLAM",
+      "cites": 39,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Computer vision",
+        "Simultaneous localization and mapping",
+        "Pattern recognition (psychology)"
+      ],
+      "doi": "10.1109/icra.2013.6631111",
+      "coauthors": [
+        "Jin Han Lee",
+        "Guoxuan Zhang",
+        "Jongwoo Lim"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "steady-producer",
+      "headline": "Il Hong Suh: 35년에 걸쳐 108편, 총 1,915회 인용, h=19, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1988년 \"Coordination of dual robot arms using kinematic redundancy\"으로 출발.",
+        "초기 토픽: Robot, Artificial intelligence, Fuzzy logic. 최근 토픽: Computer science, Artificial intelligence, GRASP. 피벗 점수 0.33 → 점진적 이동형.",
+        "저자수 평균: 초기 3.8명 → 후기 3.9명 (팀 유지).",
+        "최다 인용 논문 \"Building a 3-D Line-Based Map Using Stereo SLAM\" (2015, 189회) — 커리어 후기에 위치.",
+        "제자 후보 추정 23명 — 상위: Guoxuan Zhang(2009~, 본인 마지막저자 7편), Sehyung Lee(2012~, 본인 마지막저자 6편), Jin Han Lee(2013~, 본인 마지막저자 5편)."
+      ],
+      "lessons": [
+        "23명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "steady-producer",
+      "headline": "Il Hong Suh: over 35 years, 108 papers, 1,915 total cites, h=19, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1988 with \"Coordination of dual robot arms using kinematic redundancy\".",
+        "Early topics: Robot, Artificial intelligence, Fuzzy logic. Recent topics: Computer science, Artificial intelligence, GRASP. Pivot score 0.33 → gradual shift.",
+        "Authors per paper: early 3.8 → late 3.9 (stable team).",
+        "Peak paper \"Building a 3-D Line-Based Map Using Stereo SLAM\" (2015, 189 cites) — fell in late career.",
+        "23 likely students — top: Guoxuan Zhang(2009~, we last-author on 7), Sehyung Lee(2012~, we last-author on 6), Jin Han Lee(2013~, we last-author on 5)."
+      ],
+      "lessons": [
+        "23 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

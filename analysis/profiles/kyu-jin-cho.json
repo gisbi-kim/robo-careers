@@ -1,0 +1,1066 @@
+{
+  "name": "Kyu-Jin Cho",
+  "slug": "kyu-jin-cho",
+  "career_stats": {
+    "first_year": 2003,
+    "last_year": 2025,
+    "span": 23,
+    "total_papers": 85,
+    "total_cites": 4474,
+    "h_index": 35,
+    "i10_index": 65,
+    "seminal_count": 0,
+    "max_cites_single_paper": 453
+  },
+  "role_distribution": {
+    "middle": 18,
+    "first": 8,
+    "last": 59
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2003,
+      "title": "Design and control of vast DOF wet SMA array actuators"
+    },
+    "first_100cite": {
+      "year": 2009,
+      "title": "Micro artificial muscle fiber using NiTi spring for soft robotics",
+      "cites": 147,
+      "gap_from_first": 6
+    },
+    "peak_paper": {
+      "year": 2018,
+      "title": "Hygrobot: A self-locomotive ratcheted actuator powered by environmental humidity",
+      "cites": 453
+    }
+  },
+  "year_series": {
+    "2003": {
+      "n": 2,
+      "cites": 26,
+      "max_cites": 14
+    },
+    "2004": {
+      "n": 3,
+      "cites": 68,
+      "max_cites": 60
+    },
+    "2005": {
+      "n": 2,
+      "cites": 38,
+      "max_cites": 32
+    },
+    "2006": {
+      "n": 2,
+      "cites": 56,
+      "max_cites": 29
+    },
+    "2007": {
+      "n": 1,
+      "cites": 38,
+      "max_cites": 38
+    },
+    "2008": {
+      "n": 1,
+      "cites": 53,
+      "max_cites": 53
+    },
+    "2009": {
+      "n": 1,
+      "cites": 147,
+      "max_cites": 147
+    },
+    "2010": {
+      "n": 1,
+      "cites": 54,
+      "max_cites": 54
+    },
+    "2011": {
+      "n": 3,
+      "cites": 29,
+      "max_cites": 21
+    },
+    "2012": {
+      "n": 4,
+      "cites": 419,
+      "max_cites": 272
+    },
+    "2013": {
+      "n": 7,
+      "cites": 294,
+      "max_cites": 72
+    },
+    "2014": {
+      "n": 6,
+      "cites": 355,
+      "max_cites": 206
+    },
+    "2015": {
+      "n": 6,
+      "cites": 280,
+      "max_cites": 80
+    },
+    "2016": {
+      "n": 3,
+      "cites": 266,
+      "max_cites": 161
+    },
+    "2017": {
+      "n": 2,
+      "cites": 149,
+      "max_cites": 134
+    },
+    "2018": {
+      "n": 6,
+      "cites": 1009,
+      "max_cites": 453
+    },
+    "2019": {
+      "n": 4,
+      "cites": 458,
+      "max_cites": 239
+    },
+    "2020": {
+      "n": 5,
+      "cites": 209,
+      "max_cites": 132
+    },
+    "2021": {
+      "n": 7,
+      "cites": 324,
+      "max_cites": 117
+    },
+    "2022": {
+      "n": 3,
+      "cites": 45,
+      "max_cites": 28
+    },
+    "2023": {
+      "n": 3,
+      "cites": 76,
+      "max_cites": 47
+    },
+    "2024": {
+      "n": 7,
+      "cites": 57,
+      "max_cites": 21
+    },
+    "2025": {
+      "n": 6,
+      "cites": 24,
+      "max_cites": 10
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Actuator",
+          "w": 0.2
+        },
+        {
+          "c": "SMA*",
+          "w": 0.16
+        },
+        {
+          "c": "Computer science",
+          "w": 0.16
+        },
+        {
+          "c": "Segmentation",
+          "w": 0.08
+        },
+        {
+          "c": "Shape-memory alloy",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Actuator",
+          "w": 0.18
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Propulsion",
+          "w": 0.04
+        },
+        {
+          "c": "SMA*",
+          "w": 0.04
+        },
+        {
+          "c": "Fin",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.108
+        },
+        {
+          "c": "Actuator",
+          "w": 0.108
+        },
+        {
+          "c": "Mechanism (biology)",
+          "w": 0.05
+        },
+        {
+          "c": "Computer science",
+          "w": 0.042
+        },
+        {
+          "c": "Jumping",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.089
+        },
+        {
+          "c": "Robot",
+          "w": 0.081
+        },
+        {
+          "c": "Actuator",
+          "w": 0.057
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.033
+        },
+        {
+          "c": "Engineering",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.117
+        },
+        {
+          "c": "Robot",
+          "w": 0.065
+        },
+        {
+          "c": "Grippers",
+          "w": 0.052
+        },
+        {
+          "c": "Stiffness",
+          "w": 0.039
+        },
+        {
+          "c": "Tendon",
+          "w": 0.039
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 5,
+        "IROS": 3,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 13,
+        "IROS": 6,
+        "T-RO": 4,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "Sci-Rob": 9,
+        "RA-L": 9,
+        "IROS": 3,
+        "T-RO": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "RA-L": 10,
+        "Sci-Rob": 3,
+        "SoRo": 2,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 2.8,
+      "unique_coauthors": 7,
+      "top_coauthors": [
+        [
+          "H. Harry Asada",
+          9
+        ],
+        [
+          "Stephen A. Mascaro",
+          2
+        ],
+        [
+          "Brian Selden",
+          2
+        ],
+        [
+          "Josiah Rosmarin",
+          2
+        ],
+        [
+          "Samuel Au",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 3.9,
+      "unique_coauthors": 20,
+      "top_coauthors": [
+        [
+          "Je-Sung Koh",
+          6
+        ],
+        [
+          "Seung-Won Kim",
+          3
+        ],
+        [
+          "Elliot Wright Hawkes",
+          2
+        ],
+        [
+          "Robert J. Wood",
+          2
+        ],
+        [
+          "Chris Quinn",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 4.79,
+      "unique_coauthors": 43,
+      "top_coauthors": [
+        [
+          "Je-Sung Koh",
+          8
+        ],
+        [
+          "Gwang-Pil Jung",
+          8
+        ],
+        [
+          "Dae-Young Lee",
+          7
+        ],
+        [
+          "Useok Jeong",
+          6
+        ],
+        [
+          "Ji-Suk Kim",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 5.4,
+      "unique_coauthors": 74,
+      "top_coauthors": [
+        [
+          "Dae-Young Lee",
+          6
+        ],
+        [
+          "Sang-Min Baek",
+          4
+        ],
+        [
+          "Woongbae Kim",
+          4
+        ],
+        [
+          "Hyungmin Choi",
+          4
+        ],
+        [
+          "Sojung Yim",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 5.56,
+      "unique_coauthors": 58,
+      "top_coauthors": [
+        [
+          "Woongbae Kim",
+          4
+        ],
+        [
+          "Sung Yol Yu",
+          4
+        ],
+        [
+          "Byungchul Kim",
+          3
+        ],
+        [
+          "Sangheui Cheon",
+          3
+        ],
+        [
+          "Hyungmin Choi",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.308,
+  "top_repeat_coauthors": [
+    {
+      "name": "Je-Sung Koh",
+      "count": 16,
+      "first_year": 2010,
+      "last_year": 2025
+    },
+    {
+      "name": "Dae-Young Lee",
+      "count": 15,
+      "first_year": 2012,
+      "last_year": 2025
+    },
+    {
+      "name": "Gwang-Pil Jung",
+      "count": 12,
+      "first_year": 2011,
+      "last_year": 2020
+    },
+    {
+      "name": "Useok Jeong",
+      "count": 12,
+      "first_year": 2012,
+      "last_year": 2025
+    },
+    {
+      "name": "H. Harry Asada",
+      "count": 9,
+      "first_year": 2003,
+      "last_year": 2007
+    },
+    {
+      "name": "Woongbae Kim",
+      "count": 8,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Brian Byunghyun Kang",
+      "count": 7,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Hyungmin Choi",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Ji-Suk Kim",
+      "count": 5,
+      "first_year": 2013,
+      "last_year": 2015
+    },
+    {
+      "name": "Sa-Reum Kim",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2025
+    },
+    {
+      "name": "Sung Yol Yu",
+      "count": 5,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Robert J. Wood",
+      "count": 4,
+      "first_year": 2008,
+      "last_year": 2014
+    },
+    {
+      "name": "Seung-Won Kim",
+      "count": 4,
+      "first_year": 2011,
+      "last_year": 2013
+    },
+    {
+      "name": "HyunKi In",
+      "count": 4,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Sun-Pil Jung",
+      "count": 4,
+      "first_year": 2013,
+      "last_year": 2016
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "H. Harry Asada",
+      "advisor_active_from": 1996,
+      "early_copubs_as_our_first_author": 6,
+      "advisor_last_author_count": 6,
+      "total_copubs": 9
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Je-Sung Koh",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 16,
+      "student_first_author_count": 5,
+      "we_last_author_count": 12,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Gwang-Pil Jung",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 12,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Dae-Young Lee",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 15,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Useok Jeong",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Brian Byunghyun Kang",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Woongbae Kim",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Ji-Suk Kim",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "HyunKi In",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Seung-Won Kim",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Sang-Min Baek",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Sa-Reum Kim",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sojung Yim",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Minjo Park",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Junghwan Byun",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Byungchul Kim",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sung-Sik Yun",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Hyungmin Choi",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Minkyun Noh",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Sang-Hun Kim",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Jongeun Lee",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jewoo Lee",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Yoo-Seok Kim",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2014
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2003,
+      2012
+    ],
+    "early_mean_n_authors": 3.35,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.3
+  },
+  "citation_half_life_years": 9.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2018
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2018,
+      "venue": "Sci-Rob",
+      "title": "Hygrobot: A self-locomotive ratcheted actuator powered by environmental humidity",
+      "cites": 453,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Actuator",
+        "Humidity",
+        "Automotive engineering",
+        "Engineering",
+        "Electrical engineering"
+      ],
+      "doi": "10.1126/scirobotics.aar2629",
+      "coauthors": [
+        "Jonghyun Ha",
+        "Minhee Lee",
+        "Keunhwan Park",
+        "Gee Ho Park",
+        "Tae Hyun Choi",
+        "Ho-Young Kim"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "T-RO",
+      "title": "Flea-Inspired Catapult Mechanism for Miniature Jumping Robots",
+      "cites": 272,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Actuator",
+        "Kinematics",
+        "Mechanism (biology)",
+        "Takeoff",
+        "Jumping"
+      ],
+      "doi": "10.1109/tro.2012.2198510",
+      "coauthors": [
+        "Minkyun Noh",
+        "Seung-Won Kim",
+        "Sungmin An",
+        "Je-Sung Koh"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "Sci-Rob",
+      "title": "An origami-inspired, self-locking robotic arm that can be folded flat",
+      "cites": 268,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robotic arm",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1126/scirobotics.aar2915",
+      "coauthors": [
+        "Dae-Young Lee",
+        "Gwang-Pil Jung"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "Sci-Rob",
+      "title": "Bioinspired dual-morphing stretchable origami",
+      "cites": 239,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "Morphing",
+        "Dual (grammatical number)",
+        "Biomimetics",
+        "Materials science",
+        "Nanotechnology"
+      ],
+      "doi": "10.1126/scirobotics.aay3493",
+      "coauthors": [
+        "Woongbae Kim",
+        "Junghwan Byun",
+        "Jae-Kyeong Kim",
+        "Woo-Young Choi",
+        "Kirsten Jakobsen",
+        "Joachim Jakobsen",
+        "Dae-Young Lee"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "Sci-Rob",
+      "title": "Electronic skins for soft, compact, reversible assembly of wirelessly activated fully soft robots",
+      "cites": 236,
+      "n_authors": 9,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Soft materials",
+        "Soft robotics",
+        "Computer science",
+        "Embedded system"
+      ],
+      "doi": "10.1126/scirobotics.aas9020",
+      "coauthors": [
+        "Yoontaek Lee",
+        "Jaeyoung Yoon",
+        "Byeongmoon Lee",
+        "Eunho Oh",
+        "Seungjun Chung",
+        "Takhee Lee",
+        "Jaeha Kim",
+        "Yongtaek Hong"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "Wheel Transformer: A Wheel-Leg Hybrid Robot With Passive Transformable Wheels",
+      "cites": 206,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Climb",
+        "Robot",
+        "Engineering",
+        "Mobile robot",
+        "Actuator"
+      ],
+      "doi": "10.1109/tro.2014.2365651",
+      "coauthors": [
+        "Yoo-Seok Kim",
+        "Gwang-Pil Jung",
+        "Haan Kim",
+        "Chong-Nam Chu"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "ICRA",
+      "title": "Development of a polymer-based tendon-driven wearable robotic hand",
+      "cites": 161,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Wired glove",
+        "GRASP",
+        "Wearable computer",
+        "Thumb",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2016.7487562",
+      "coauthors": [
+        "Brian Byunghyun Kang",
+        "Haemin Lee",
+        "HyunKi In",
+        "Useok Jeong",
+        "Jinwon Chung"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IROS",
+      "title": "Micro artificial muscle fiber using NiTi spring for soft robotics",
+      "cites": 147,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Shape-memory alloy",
+        "Nickel titanium",
+        "Actuator",
+        "Materials science",
+        "Artificial muscle"
+      ],
+      "doi": "10.1109/iros.2009.5354178",
+      "coauthors": [
+        "Sangbae Kim",
+        "Elliot Wright Hawkes",
+        "Matthew Joldaz",
+        "Joseph Timothy Foleyz",
+        "Robert J. Wood"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "RA-L",
+      "title": "Exo-Glove PM: An Easily Customizable Modularized Pneumatic Assistive Glove",
+      "cites": 134,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Soft robotics",
+        "Wired glove",
+        "Actuator",
+        "Pneumatic actuator",
+        "Robot"
+      ],
+      "doi": "10.1109/lra.2017.2678545",
+      "coauthors": [
+        "Sung-Sik Yun",
+        "Brian Byunghyun Kang"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "Sci-Rob",
+      "title": "Ladybird beetle-inspired compliant origami",
+      "cites": 132,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Deformation (meteorology)",
+        "Facet (psychology)",
+        "Nanotechnology",
+        "Geometry",
+        "Materials science"
+      ],
+      "doi": "10.1126/scirobotics.aaz6262",
+      "coauthors": [
+        "Sang-Min Baek",
+        "Sojung Yim",
+        "Soo-Hwan Chae",
+        "Dae-Young Lee"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Kyu-Jin Cho: 23년에 걸쳐 85편, 총 4,474회 인용, h=35, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "2003년 \"Design and control of vast DOF wet SMA array actuators\"으로 출발.",
+        "초기 토픽: Actuator, SMA*, Computer science. 최근 토픽: Computer science, Robot, Grippers. 피벗 점수 0.31 → 점진적 이동형.",
+        "저자수 평균: 초기 3.4명 → 후기 5.3명 (팀 확장).",
+        "최다 인용 논문 \"Hygrobot: A self-locomotive ratcheted actuator powered by environmental humidity\" (2018, 453회) — 커리어 후기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): H. Harry Asada. 제자 후보 추정 22명 — 상위: Je-Sung Koh(2010~, 본인 마지막저자 12편), Gwang-Pil Jung(2011~, 본인 마지막저자 7편), Dae-Young Lee(2012~, 본인 마지막저자 7편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "22명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: H. Harry Asada — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Kyu-Jin Cho: over 23 years, 85 papers, 4,474 total cites, h=35, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2003 with \"Design and control of vast DOF wet SMA array actuators\".",
+        "Early topics: Actuator, SMA*, Computer science. Recent topics: Computer science, Robot, Grippers. Pivot score 0.31 → gradual shift.",
+        "Authors per paper: early 3.4 → late 5.3 (team growth).",
+        "Peak paper \"Hygrobot: A self-locomotive ratcheted actuator powered by environmental humidity\" (2018, 453 cites) — fell in late career.",
+        "Likely advisor(s) (first-5y first-author pattern): H. Harry Asada. 22 likely students — top: Je-Sung Koh(2010~, we last-author on 12), Gwang-Pil Jung(2011~, we last-author on 7), Dae-Young Lee(2012~, we last-author on 7)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "22 likely students — mentoring is the real impact.",
+        "Likely advisor: H. Harry Asada — started within their PhD network."
+      ]
+    }
+  }
+}

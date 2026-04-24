@@ -1,400 +1,310 @@
 {
-  "n_profiles": 114,
+  "n_profiles": 125,
   "arc_length": 40,
   "archetypes": [
     {
       "cluster": 0,
-      "label": "mid-career-peak",
+      "label": "early-blockbuster",
       "centroid": [
-        0.009665551794263703,
-        0.012083687065679265,
-        0.015314328982275712,
-        0.010555738373877802,
-        0.009894212578773914,
-        0.014530232930233786,
-        0.01665833907234836,
-        0.015755608930224943,
-        0.016481822236006492,
-        0.015163960055107806,
-        0.01875723981744615,
-        0.0243752173589914,
-        0.03267984111096782,
-        0.05708315908540382,
-        0.08467106915355817,
-        0.12613860247153955,
-        0.09475846646020965,
-        0.058800618756490834,
-        0.041908175017471294,
-        0.0328688276447752,
-        0.02430691005977108,
-        0.02071315069922874,
-        0.02540355224011542,
-        0.026544930626326815,
-        0.022527712022569632,
-        0.020020698101006453,
-        0.020624903225692062,
-        0.01932161438488323,
-        0.018897080876450742,
-        0.014152334587166575,
-        0.011274276859189792,
-        0.016030557036815423,
-        0.01172952308224711,
-        0.008848762857650086,
-        0.009927269226829459,
-        0.00784042218895509,
-        0.006468808132518255,
-        0.0036996012372062896,
-        0.0021972080668399775,
-        0.0013259855928921236
+        0.017589665063241756,
+        0.015624633485891272,
+        0.017165508668391016,
+        0.02930718092397034,
+        0.054697416590482766,
+        0.0701150986110999,
+        0.04881447318857525,
+        0.041842035137645235,
+        0.066672113233334,
+        0.07028033385133438,
+        0.04151614211001569,
+        0.029377963206812102,
+        0.038793825700461235,
+        0.04524683011950421,
+        0.030231383856444024,
+        0.03586512032794926,
+        0.026373986008516988,
+        0.018595543534161724,
+        0.014815497515825792,
+        0.01234936255345338,
+        0.014943740406919408,
+        0.020447475787147732,
+        0.019295307270404096,
+        0.017691421216087178,
+        0.015684189727699097,
+        0.011689549650024712,
+        0.013605780567607348,
+        0.014267900880748138,
+        0.016238124128439294,
+        0.016844424910480382,
+        0.016235398474209475,
+        0.017090635712282937,
+        0.015394624358758496,
+        0.0144765638241403,
+        0.017578806804726132,
+        0.013728866886124463,
+        0.008766675709882914,
+        0.005078453905143884,
+        0.002943318827412045,
+        0.0027246272646516676
       ],
       "members": [
-        "Daniel E. Koditschek",
-        "Edwin Olson",
-        "François Chaumette",
-        "George J. Pappas",
+        "Cesar Cadena",
+        "Conor J. Walsh",
+        "Cyrill Stachniss",
+        "Dieter Fox",
+        "Dong-Soo Kwon",
+        "Frank C. Park",
+        "Fumihito Arai",
         "Giorgio Grisetti",
-        "Jan Peters",
-        "Ji Zhang",
-        "Kenji Kaneko",
-        "Luca Carlone",
-        "Michael Beetz",
-        "Robert J. Webster III",
-        "Sangbae Kim",
-        "Shuuji Kajita",
-        "Stergios I. Roumeliotis",
-        "Tamim Asfour",
-        "Yoshihiko Nakamura"
+        "Jaeheung Park",
+        "Lydia E. Kavraki",
+        "Sami Haddadin",
+        "Sergey Levine",
+        "Steven M. LaValle",
+        "Sukhan Lee"
       ]
     },
     {
       "cluster": 1,
-      "label": "mid-career-peak-2",
+      "label": "late-bloomer",
       "centroid": [
-        0.0050679976748999305,
-        0.005767278296750823,
-        0.005397963552731613,
-        0.006132454348055376,
-        0.005789903886178317,
-        0.0069040980075244646,
-        0.00876129565754593,
-        0.011892422969294655,
-        0.013348317767360108,
-        0.01596547774985521,
-        0.016266760394231722,
-        0.014474776982431815,
-        0.013817114765199203,
-        0.016311660380992514,
-        0.01925927377564357,
-        0.017517857449164228,
-        0.021308581242358973,
-        0.024843821279954187,
-        0.024196122814022045,
-        0.01869344092687815,
-        0.026940769847654374,
-        0.034937529488848,
-        0.0577389132109835,
-        0.07216713574172329,
-        0.07373178703984928,
-        0.05903725970734053,
-        0.056362486225878194,
-        0.05381035649081176,
-        0.040345220542961385,
-        0.02465860858913939,
-        0.034306957132539,
-        0.046476584555447925,
-        0.03866727851714604,
-        0.02926158319687191,
-        0.0245626304068601,
-        0.02155595719026431,
-        0.015309767276004693,
-        0.009488575787954782,
-        0.006558602640904441,
-        0.002365376489744231
+        0.00395779236357616,
+        0.004202426900807075,
+        0.009898248176123076,
+        0.007400534339046771,
+        0.006708632497762823,
+        0.011102459119775794,
+        0.009559991335950242,
+        0.012198410049725796,
+        0.0137605866985368,
+        0.012331535180487836,
+        0.014250035118752025,
+        0.015124117793227735,
+        0.014892285290992673,
+        0.014187590340374864,
+        0.017804180819960776,
+        0.020746987733414324,
+        0.021521831897620546,
+        0.019570535728502043,
+        0.017928514058346362,
+        0.015055766764661135,
+        0.021326236000169765,
+        0.027998115335602102,
+        0.03401398402719043,
+        0.039192484170736855,
+        0.045793878765525015,
+        0.050213960781257436,
+        0.05413409212104271,
+        0.058842913935641075,
+        0.05673990576988455,
+        0.05183946814411581,
+        0.055271785236587725,
+        0.057875843917599284,
+        0.04892761062027694,
+        0.03799134529156255,
+        0.029831366324925626,
+        0.02717215154375654,
+        0.019061307906358606,
+        0.011826604893577283,
+        0.007479410142921422,
+        0.002265072863623408
       ],
       "members": [
         "Andrew J. Davison",
+        "Aníbal Ollero",
+        "Animesh Garg",
+        "Antonio Bicchi",
         "Arianna Menciassi",
-        "Ayoung Kim",
+        "Bradley J. Nelson",
+        "Bruno Siciliano",
         "Cecilia Laschi",
         "Chelsea Finn",
-        "Danica Kragic",
+        "Daniela Rus",
         "Darwin G. Caldwell",
-        "Davide Scaramuzza",
+        "Gerd Hirzinger",
         "Guang-Zhong Yang",
         "Hirohisa Hirukawa",
+        "Howie Choset",
         "Hugh F. Durrant-Whyte",
+        "Jee-Hwan Ryu",
+        "Jia Pan",
+        "John J. Leonard",
         "Jonathan P. How",
-        "Kaspar Althoefer",
-        "Kazuhito Yokoi",
+        "Juan D. Tardós",
+        "Juan I. Nieto",
+        "Kei Okada",
+        "Ken Goldberg",
+        "Kyu-Jin Cho",
         "Marco Hutter",
         "Mark R. Cutkosky",
         "Masayoshi Tomizuka",
-        "Peter K. Allen",
         "Pierre E. Dupont",
-        "Pieter Abbeel",
-        "Robert D. Howe",
+        "Roland Siegwart",
         "Ronald S. Fearing",
         "Vijay Kumar"
       ]
     },
     {
       "cluster": 2,
-      "label": "late-bloomer",
+      "label": "mid-career-peak",
       "centroid": [
-        0.0021412780130764357,
-        0.0011226290931115324,
-        0.0016035951660862916,
-        0.0008388256415378381,
-        0.0003377218364588458,
-        0.000500119703662056,
-        0.005894638196327247,
-        0.0008573907222329154,
-        0.00020173922153365192,
-        0.001136230930342673,
-        0.002353328816576062,
-        0.002293682281417287,
-        0.003311817982754199,
-        0.01945097252011699,
-        0.01220257696029664,
-        0.004978234087679605,
-        0.005463968819778377,
-        0.008838025496898529,
-        0.019520114232792023,
-        0.009612098775964605,
-        0.008999364742823528,
-        0.020395983094054666,
-        0.02222546985030252,
-        0.03337681321386427,
-        0.018433367987109203,
-        0.02457626986562085,
-        0.01675346229321372,
-        0.01738053862437799,
-        0.04101159222922435,
-        0.036817381354592116,
-        0.0459176410543852,
-        0.11855971182439373,
-        0.1337911940666374,
-        0.13822608807816056,
-        0.10441394328771636,
-        0.046489130611497634,
-        0.035131046052572175,
-        0.01845126644806623,
-        0.01069356171151253,
-        0.005697185111231145
+        0.008135946795355571,
+        0.006652623340134187,
+        0.008570410734338677,
+        0.006384542231446089,
+        0.006623480764250428,
+        0.006476215045108822,
+        0.009525362135532643,
+        0.008301390926093562,
+        0.009372860697628549,
+        0.017849535038356335,
+        0.015053824665270062,
+        0.016326029749460517,
+        0.01517435356354101,
+        0.015189251382149799,
+        0.010015282457889903,
+        0.012032494080088201,
+        0.021176102625597076,
+        0.03499267626756127,
+        0.05393612594458792,
+        0.06964931800515563,
+        0.06422549466970717,
+        0.060490946959786615,
+        0.07369207550022544,
+        0.06814356897504908,
+        0.06151856608467142,
+        0.04201703850785965,
+        0.031787863894557275,
+        0.03371443627336074,
+        0.02850946201303213,
+        0.02166179075219528,
+        0.02658198710393711,
+        0.03204784476242338,
+        0.0257595140681011,
+        0.017762300717823136,
+        0.018538198251259366,
+        0.015529381704969274,
+        0.011610225675572218,
+        0.007928273662959463,
+        0.005022566782532543,
+        0.002020637190431359
       ],
       "members": [
-        "Gerd Hirzinger",
-        "Hyun Myung",
-        "Ming Liu",
-        "Russell H. Taylor",
-        "Sanjiv Singh"
+        "Alessandro De Luca",
+        "Anthony Stentz",
+        "Ayoung Kim",
+        "Danica Kragic",
+        "Davide Scaramuzza",
+        "Dinesh Manocha",
+        "Fei Gao",
+        "H. Jin Kim",
+        "Ian D. Walker",
+        "Jean-Jacques E. Slotine",
+        "Kaspar Althoefer",
+        "Kazuhito Yokoi",
+        "Marc Pollefeys",
+        "Paolo Dario",
+        "Peter K. Allen",
+        "Pieter Abbeel",
+        "Robert D. Howe",
+        "Robert J. Wood",
+        "Sebastian A. Scherer",
+        "Shaojie Shen",
+        "Stefan Schaal",
+        "Timothy D. Barfoot"
       ]
     },
     {
       "cluster": 3,
       "label": "steady-producer",
       "centroid": [
-        0.013069209081664429,
-        0.01503820379411368,
-        0.014303088401398666,
-        0.015421738185503322,
-        0.022443141799492645,
-        0.021629364348872637,
-        0.01887226893507106,
-        0.024468864765435895,
-        0.03431157716948011,
-        0.047289225895157994,
-        0.04383433370754644,
-        0.04765658408259961,
-        0.05214628300926134,
-        0.037300496526159285,
-        0.03494219588091522,
-        0.03245111307355267,
-        0.03067124208296613,
-        0.029329431620487078,
-        0.03454927654042411,
-        0.03378379079074689,
-        0.03159198801635295,
-        0.030293466779377335,
-        0.02910258644215876,
-        0.02185096970025808,
-        0.02329021992147566,
-        0.02420982047458972,
-        0.025225825183085738,
-        0.024471238958347387,
-        0.025890202345841523,
-        0.024714976716675673,
-        0.019357800784394898,
-        0.0203668482042286,
-        0.02202226532998234,
-        0.017370402982297296,
-        0.014483918814381262,
-        0.013817254870182134,
-        0.01079281710658466,
-        0.008625586851540112,
-        0.0060168829962087104,
-        0.0029934978311879413
+        0.010678384534186106,
+        0.01174749316345959,
+        0.014656021023637656,
+        0.014256344047965556,
+        0.016102453222110426,
+        0.01388720252082452,
+        0.014671454001929636,
+        0.02055566156500222,
+        0.020740483622778985,
+        0.028687489568928207,
+        0.03467135834479413,
+        0.04564465257474477,
+        0.05597123200914754,
+        0.0488668357729658,
+        0.05115206942488188,
+        0.05348863615748797,
+        0.04816043244309199,
+        0.0349488978494398,
+        0.037256967117002784,
+        0.03802907065728794,
+        0.032656399818465257,
+        0.03094752546847941,
+        0.03050224149878536,
+        0.023943807045259738,
+        0.025024362866034582,
+        0.025811569584342227,
+        0.026042723668305862,
+        0.024623530633964597,
+        0.02595031130526032,
+        0.021472911610724395,
+        0.015836725156856878,
+        0.020529025277703616,
+        0.020062308634070762,
+        0.01439102652198088,
+        0.01196706695150457,
+        0.010698607576055728,
+        0.00876087020455219,
+        0.006594172499114961,
+        0.005574225392944267,
+        0.004437448663926858
       ],
       "members": [
         "Aaron M. Dollar",
         "Alin Albu-Schäffer",
         "Allison M. Okamura",
-        "Animesh Garg",
         "Atsuo Takanishi",
         "Auke Jan Ijspeert",
         "Christian Ott",
-        "Cyrill Stachniss",
+        "Daniel E. Koditschek",
         "David Hsu",
-        "Dieter Fox",
-        "Fei Gao",
+        "Dongheui Lee",
+        "Edwin Olson",
+        "François Chaumette",
         "Frank Dellaert",
         "Fumio Kanehiro",
         "Gaurav S. Sukhatme",
+        "George J. Pappas",
         "Henrik I. Christensen",
-        "Howie Choset",
+        "Il Hong Suh",
         "Jean-Claude Latombe",
         "Jeannette Bohg",
-        "Jia Pan",
         "Joel W. Burdick",
         "Kazuhiro Kosuge",
+        "Kenji Kaneko",
         "Kensuke Harada",
-        "Lydia E. Kavraki",
         "Masayuki Inaba",
+        "Metin Sitti",
         "Michael Kaess",
         "Nicholas Roy",
         "Ning Xi",
-        "Oussama Khatib",
+        "Robert J. Webster III",
         "Russ Tedrake",
-        "Sami Haddadin",
+        "Sangbae Kim",
         "Sebastian Thrun",
-        "Sergey Levine",
         "Shuran Song",
-        "Steven M. LaValle",
+        "Siddhartha S. Srinivasa",
+        "Stergios I. Roumeliotis",
+        "Tamim Asfour",
         "Toshio Fukuda",
+        "Wan Kyun Chung",
         "Wolfram Burgard",
+        "Yoshihiko Nakamura",
         "Yun-Hui Liu"
       ]
     },
     {
       "cluster": 4,
-      "label": "early-blockbuster",
-      "centroid": [
-        0.07551843043671083,
-        0.07099133455074796,
-        0.06863246482718809,
-        0.06784368991088555,
-        0.07502562476359795,
-        0.07313421096903223,
-        0.06168837932512156,
-        0.04909753393035472,
-        0.038691440562735255,
-        0.02974566905729718,
-        0.021074889710634714,
-        0.018535535855980813,
-        0.017981556662355423,
-        0.01865278312165322,
-        0.01909114381762926,
-        0.022277556812083377,
-        0.022117915224492656,
-        0.024049087836360405,
-        0.023425828902597153,
-        0.018484049122380334,
-        0.014347161200543083,
-        0.01054078509679747,
-        0.00910520839036636,
-        0.009472336840907983,
-        0.01021756219288282,
-        0.011141901528977396,
-        0.011918435748806362,
-        0.010443093383404996,
-        0.011289561655337003,
-        0.012925010478219319,
-        0.011142025700455745,
-        0.01093573055044746,
-        0.01008379784491436,
-        0.00885008357537341,
-        0.007607859894751793,
-        0.006607114133797214,
-        0.00560965398743381,
-        0.00469010586588833,
-        0.00425009408941652,
-        0.0027633524414398224
-      ],
-      "members": [
-        "Abhinav Gupta",
-        "Cesar Cadena",
-        "Conor J. Walsh",
-        "Daniel Cremers",
-        "Deepak Pathak",
-        "Fumihito Arai",
-        "Lerrel Pinto"
-      ]
-    },
-    {
-      "cluster": 5,
-      "label": "mid-career-peak-3",
-      "centroid": [
-        0.007543599659004116,
-        0.004250847497861823,
-        0.01024713680930152,
-        0.00876592686371476,
-        0.007608439731218622,
-        0.006802264912059326,
-        0.007173255944557668,
-        0.0045391266370765175,
-        0.005661713632694796,
-        0.01546938225018502,
-        0.011384415006184498,
-        0.019664704003599452,
-        0.025014689462554904,
-        0.023290065013055413,
-        0.012371353783765193,
-        0.01705938448075234,
-        0.027574634296253914,
-        0.030691050267541847,
-        0.05560991913753071,
-        0.08499582021825539,
-        0.08187364303720378,
-        0.07302059007262066,
-        0.06683362784399309,
-        0.04652228014179631,
-        0.03962685740675123,
-        0.028905290660747908,
-        0.022715102511645012,
-        0.026002338698037142,
-        0.023476572846934756,
-        0.02447548394753758,
-        0.03368202254414127,
-        0.03741143618402563,
-        0.027869218910752162,
-        0.017709988727774694,
-        0.021455819204752802,
-        0.016738426955207882,
-        0.010246448059508702,
-        0.007866605889964276,
-        0.005950305883195056,
-        0.0019002108662422457
-      ],
-      "members": [
-        "Alessandro De Luca",
-        "Anthony Stentz",
-        "Bradley J. Nelson",
-        "Dinesh Manocha",
-        "Ian D. Walker",
-        "Jean-Jacques E. Slotine",
-        "Marc Pollefeys",
-        "Metin Sitti",
-        "Paolo Dario",
-        "Robert J. Wood",
-        "Sebastian A. Scherer",
-        "Shaojie Shen",
-        "Siddhartha S. Srinivasa",
-        "Stefan Schaal",
-        "Timothy D. Barfoot"
-      ]
-    },
-    {
-      "cluster": 6,
       "label": "early-blockbuster-2",
       "centroid": [
         0.005250848468015636,
@@ -421,7 +331,7 @@
         0.006190768126054236,
         0.0058706873776410914,
         0.004585283737188299,
-        0.0029137509399196557,
+        0.002913750939919652,
         0.0012422181426510123,
         0.000748548628564074,
         0.0003454839824141853,
@@ -443,61 +353,162 @@
       ]
     },
     {
+      "cluster": 5,
+      "label": "mid-career-peak-2",
+      "centroid": [
+        0.0024086358819680968,
+        0.012608792258291958,
+        0.011218354751532723,
+        0.00382014860135786,
+        0.0013191224851707324,
+        0.006071905819882123,
+        0.009376646673038273,
+        0.005704708699883664,
+        0.0032726313041582453,
+        0.005864420455613615,
+        0.012926657230680316,
+        0.016620830982431667,
+        0.01932502059120995,
+        0.03526778786277386,
+        0.06809401463241854,
+        0.15432192237042858,
+        0.14351960850409357,
+        0.1105994374309409,
+        0.07053030475237052,
+        0.03854924205521135,
+        0.02886370961836198,
+        0.014780301886964848,
+        0.010893137313748351,
+        0.015069439832025872,
+        0.012113956812468955,
+        0.009155747399126606,
+        0.008484019297763136,
+        0.008128950050465954,
+        0.014765298047675832,
+        0.014309639477621584,
+        0.012585381511768514,
+        0.014053682842947876,
+        0.013069055601127762,
+        0.019349305970506644,
+        0.022201747169689152,
+        0.016721874866341132,
+        0.008685085320046828,
+        0.009547413568145036,
+        0.010902136507205576,
+        0.004899923562541864
+      ],
+      "members": [
+        "Jan Peters",
+        "Ji Zhang",
+        "Jun-Ho Oh",
+        "Luca Carlone",
+        "Michael Beetz",
+        "Shuuji Kajita"
+      ]
+    },
+    {
+      "cluster": 6,
+      "label": "early-blockbuster-3",
+      "centroid": [
+        0.1163878323038344,
+        0.09420770761297444,
+        0.0692376944974202,
+        0.05700689054257286,
+        0.051549480732239195,
+        0.04804422057027797,
+        0.040223164009149014,
+        0.03299616492695692,
+        0.03481495926354143,
+        0.026058814577214585,
+        0.017696075400433883,
+        0.0177804454180756,
+        0.011670008795823309,
+        0.009417425872143302,
+        0.012776580286965253,
+        0.021824940296185598,
+        0.019851141732266882,
+        0.017964337513715706,
+        0.025444618354501215,
+        0.015031755903032646,
+        0.0197539703167176,
+        0.01052197100409576,
+        0.015982687430396963,
+        0.01012831821089924,
+        0.010812686764143962,
+        0.013302916072245173,
+        0.01543804085524635,
+        0.015294510976914266,
+        0.01844933992515533,
+        0.017895782011565706,
+        0.014398299631541253,
+        0.014374594806320608,
+        0.01391330038015395,
+        0.011430904767424843,
+        0.014939057651509817,
+        0.019145036830646937,
+        0.007335353130511852,
+        0.007650772584580162,
+        0.004877690465669289,
+        0.0043705075749365056
+      ],
+      "members": [
+        "Abhinav Gupta",
+        "Daniel Cremers",
+        "Deepak Pathak",
+        "Lerrel Pinto",
+        "Oussama Khatib"
+      ]
+    },
+    {
       "cluster": 7,
       "label": "late-bloomer-2",
       "centroid": [
-        0.003828977762387012,
-        0.0038866499543651067,
-        0.017438592667278863,
-        0.004890468131421544,
-        0.005039234609734844,
-        0.01326775652492929,
-        0.007851259835508299,
-        0.006856183752678508,
-        0.007306393962954455,
-        0.004711214998679852,
-        0.008449602744542114,
-        0.007947125164879942,
-        0.006622161455434414,
-        0.008747566266641128,
-        0.01498459032357331,
-        0.023643732394952835,
-        0.016285002378383213,
-        0.01609992103165263,
-        0.01694085779382032,
-        0.015972411081140933,
-        0.015910122283025924,
-        0.019574572233872236,
-        0.019505451492532046,
-        0.02265921451944005,
-        0.03571954440443685,
-        0.04913072215527206,
-        0.04485607884908443,
-        0.06374910819074428,
-        0.09346985681015435,
-        0.0939156201739065,
-        0.0713423556275776,
-        0.05911874125407849,
-        0.050622460839073694,
-        0.04390581051557213,
-        0.03286795908869644,
-        0.03355352459081251,
-        0.021249051646969115,
-        0.011208589413731969,
-        0.0054828600107183914,
-        0.0013886530653423102
+        0.0016486835009136558,
+        0.0007443671257279499,
+        0.0016212225992897778,
+        0.0008673292607403963,
+        0.0003946973272126661,
+        0.0,
+        0.006634426441122349,
+        0.001070365654373101,
+        0.00021236432279377396,
+        0.0012184946454757706,
+        0.0025092452690359916,
+        0.0022040653658560033,
+        0.0022511452048968213,
+        0.022447052351289028,
+        0.014891639267057815,
+        0.005446091554669803,
+        0.005408617312679463,
+        0.008809128300659438,
+        0.0211854405456129,
+        0.008682090310943167,
+        0.007600989732733755,
+        0.02052013860057426,
+        0.01555009980873244,
+        0.031243102392078587,
+        0.01556215295332802,
+        0.02125743338707657,
+        0.012593595637019978,
+        0.01546346954703608,
+        0.045779811257074504,
+        0.02965170180805681,
+        0.03701420825716984,
+        0.12498289488546897,
+        0.13918687866055282,
+        0.15550657125660788,
+        0.119570309575106,
+        0.04820868072628101,
+        0.028084096457874293,
+        0.011617832200742292,
+        0.007615136267783277,
+        0.004744430228352688
       ],
       "members": [
-        "Aníbal Ollero",
-        "Antonio Bicchi",
-        "Bruno Siciliano",
-        "Daniela Rus",
-        "John J. Leonard",
-        "Juan D. Tardós",
-        "Juan I. Nieto",
-        "Kei Okada",
-        "Ken Goldberg",
-        "Roland Siegwart"
+        "Hyun Myung",
+        "Ming Liu",
+        "Russell H. Taylor",
+        "Sanjiv Singh"
       ]
     }
   ],
@@ -511,14 +522,14 @@
     {
       "name": "Abhinav Gupta",
       "slug": "abhinav-gupta",
-      "cluster": 4,
-      "archetype": "early-blockbuster"
+      "cluster": 6,
+      "archetype": "early-blockbuster-3"
     },
     {
       "name": "Alessandro De Luca",
       "slug": "alessandro-de-luca",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Alin Albu-Schäffer",
@@ -535,44 +546,44 @@
     {
       "name": "Andreas Geiger",
       "slug": "andreas-geiger",
-      "cluster": 6,
+      "cluster": 4,
       "archetype": "early-blockbuster-2"
     },
     {
       "name": "Andrew J. Davison",
       "slug": "andrew-j-davison",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Aníbal Ollero",
       "slug": "anibal-ollero",
-      "cluster": 7,
-      "archetype": "late-bloomer-2"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Animesh Garg",
       "slug": "animesh-garg",
-      "cluster": 3,
-      "archetype": "steady-producer"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Anthony Stentz",
       "slug": "anthony-stentz",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Antonio Bicchi",
       "slug": "antonio-bicchi",
-      "cluster": 7,
-      "archetype": "late-bloomer-2"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Arianna Menciassi",
       "slug": "arianna-menciassi",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Atsuo Takanishi",
@@ -589,38 +600,38 @@
     {
       "name": "Ayoung Kim",
       "slug": "ayoung-kim",
-      "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Bradley J. Nelson",
       "slug": "bradley-j-nelson",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Bruno Siciliano",
       "slug": "bruno-siciliano",
-      "cluster": 7,
-      "archetype": "late-bloomer-2"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Cecilia Laschi",
       "slug": "cecilia-laschi",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Cesar Cadena",
       "slug": "cesar-cadena",
-      "cluster": 4,
+      "cluster": 0,
       "archetype": "early-blockbuster"
     },
     {
       "name": "Chelsea Finn",
       "slug": "chelsea-finn",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Christian Ott",
@@ -631,44 +642,44 @@
     {
       "name": "Conor J. Walsh",
       "slug": "conor-j-walsh",
-      "cluster": 4,
+      "cluster": 0,
       "archetype": "early-blockbuster"
     },
     {
       "name": "Cyrill Stachniss",
       "slug": "cyrill-stachniss",
-      "cluster": 3,
-      "archetype": "steady-producer"
+      "cluster": 0,
+      "archetype": "early-blockbuster"
     },
     {
       "name": "Danica Kragic",
       "slug": "danica-kragic",
-      "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Daniel Cremers",
       "slug": "daniel-cremers",
-      "cluster": 4,
-      "archetype": "early-blockbuster"
+      "cluster": 6,
+      "archetype": "early-blockbuster-3"
     },
     {
       "name": "Daniel E. Koditschek",
       "slug": "daniel-e-koditschek",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 3,
+      "archetype": "steady-producer"
     },
     {
       "name": "Daniela Rus",
       "slug": "daniela-rus",
-      "cluster": 7,
-      "archetype": "late-bloomer-2"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Darwin G. Caldwell",
       "slug": "darwin-g-caldwell",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "David Hsu",
@@ -679,44 +690,62 @@
     {
       "name": "Davide Scaramuzza",
       "slug": "davide-scaramuzza",
-      "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Deepak Pathak",
       "slug": "deepak-pathak",
-      "cluster": 4,
-      "archetype": "early-blockbuster"
+      "cluster": 6,
+      "archetype": "early-blockbuster-3"
     },
     {
       "name": "Dieter Fox",
       "slug": "dieter-fox",
-      "cluster": 3,
-      "archetype": "steady-producer"
+      "cluster": 0,
+      "archetype": "early-blockbuster"
     },
     {
       "name": "Dinesh Manocha",
       "slug": "dinesh-manocha",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
-    },
-    {
-      "name": "Edwin Olson",
-      "slug": "edwin-olson",
-      "cluster": 0,
+      "cluster": 2,
       "archetype": "mid-career-peak"
     },
     {
-      "name": "Fei Gao",
-      "slug": "fei-gao",
+      "name": "Dong-Soo Kwon",
+      "slug": "dong-soo-kwon",
+      "cluster": 0,
+      "archetype": "early-blockbuster"
+    },
+    {
+      "name": "Dongheui Lee",
+      "slug": "dongheui-lee",
       "cluster": 3,
       "archetype": "steady-producer"
     },
     {
+      "name": "Edwin Olson",
+      "slug": "edwin-olson",
+      "cluster": 3,
+      "archetype": "steady-producer"
+    },
+    {
+      "name": "Fei Gao",
+      "slug": "fei-gao",
+      "cluster": 2,
+      "archetype": "mid-career-peak"
+    },
+    {
       "name": "François Chaumette",
       "slug": "francois-chaumette",
+      "cluster": 3,
+      "archetype": "steady-producer"
+    },
+    {
+      "name": "Frank C. Park",
+      "slug": "frank-c-park",
       "cluster": 0,
-      "archetype": "mid-career-peak"
+      "archetype": "early-blockbuster"
     },
     {
       "name": "Frank Dellaert",
@@ -727,7 +756,7 @@
     {
       "name": "Fumihito Arai",
       "slug": "fumihito-arai",
-      "cluster": 4,
+      "cluster": 0,
       "archetype": "early-blockbuster"
     },
     {
@@ -745,26 +774,32 @@
     {
       "name": "George J. Pappas",
       "slug": "george-j-pappas",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 3,
+      "archetype": "steady-producer"
     },
     {
       "name": "Gerd Hirzinger",
       "slug": "gerd-hirzinger",
-      "cluster": 2,
+      "cluster": 1,
       "archetype": "late-bloomer"
     },
     {
       "name": "Giorgio Grisetti",
       "slug": "giorgio-grisetti",
       "cluster": 0,
-      "archetype": "mid-career-peak"
+      "archetype": "early-blockbuster"
     },
     {
       "name": "Guang-Zhong Yang",
       "slug": "guang-zhong-yang",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
+    },
+    {
+      "name": "H. Jin Kim",
+      "slug": "h-jin-kim",
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Henrik I. Christensen",
@@ -776,37 +811,49 @@
       "name": "Hirohisa Hirukawa",
       "slug": "hirohisa-hirukawa",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Howie Choset",
       "slug": "howie-choset",
-      "cluster": 3,
-      "archetype": "steady-producer"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Hugh F. Durrant-Whyte",
       "slug": "hugh-f-durrant-whyte",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Hyun Myung",
       "slug": "hyun-myung",
-      "cluster": 2,
-      "archetype": "late-bloomer"
+      "cluster": 7,
+      "archetype": "late-bloomer-2"
     },
     {
       "name": "Ian D. Walker",
       "slug": "ian-d-walker",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
+    },
+    {
+      "name": "Il Hong Suh",
+      "slug": "il-hong-suh",
+      "cluster": 3,
+      "archetype": "steady-producer"
+    },
+    {
+      "name": "Jaeheung Park",
+      "slug": "jaeheung-park",
+      "cluster": 0,
+      "archetype": "early-blockbuster"
     },
     {
       "name": "Jan Peters",
       "slug": "jan-peters",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 5,
+      "archetype": "mid-career-peak-2"
     },
     {
       "name": "Jean-Claude Latombe",
@@ -817,8 +864,8 @@
     {
       "name": "Jean-Jacques E. Slotine",
       "slug": "jean-jacques-e-slotine",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Jeannette Bohg",
@@ -827,16 +874,22 @@
       "archetype": "steady-producer"
     },
     {
+      "name": "Jee-Hwan Ryu",
+      "slug": "jee-hwan-ryu",
+      "cluster": 1,
+      "archetype": "late-bloomer"
+    },
+    {
       "name": "Ji Zhang",
       "slug": "ji-zhang",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 5,
+      "archetype": "mid-career-peak-2"
     },
     {
       "name": "Jia Pan",
       "slug": "jia-pan",
-      "cluster": 3,
-      "archetype": "steady-producer"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Joel W. Burdick",
@@ -847,32 +900,38 @@
     {
       "name": "John J. Leonard",
       "slug": "john-j-leonard",
-      "cluster": 7,
-      "archetype": "late-bloomer-2"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Jonathan P. How",
       "slug": "jonathan-p-how",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Juan D. Tardós",
       "slug": "juan-d-tardos",
-      "cluster": 7,
-      "archetype": "late-bloomer-2"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Juan I. Nieto",
       "slug": "juan-i-nieto",
-      "cluster": 7,
-      "archetype": "late-bloomer-2"
+      "cluster": 1,
+      "archetype": "late-bloomer"
+    },
+    {
+      "name": "Jun-Ho Oh",
+      "slug": "jun-ho-oh",
+      "cluster": 5,
+      "archetype": "mid-career-peak-2"
     },
     {
       "name": "Kaspar Althoefer",
       "slug": "kaspar-althoefer",
-      "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Kazuhiro Kosuge",
@@ -883,26 +942,26 @@
     {
       "name": "Kazuhito Yokoi",
       "slug": "kazuhito-yokoi",
-      "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Kei Okada",
       "slug": "kei-okada",
-      "cluster": 7,
-      "archetype": "late-bloomer-2"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Ken Goldberg",
       "slug": "ken-goldberg",
-      "cluster": 7,
-      "archetype": "late-bloomer-2"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Kenji Kaneko",
       "slug": "kenji-kaneko",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 3,
+      "archetype": "steady-producer"
     },
     {
       "name": "Kensuke Harada",
@@ -911,46 +970,52 @@
       "archetype": "steady-producer"
     },
     {
+      "name": "Kyu-Jin Cho",
+      "slug": "kyu-jin-cho",
+      "cluster": 1,
+      "archetype": "late-bloomer"
+    },
+    {
       "name": "Lerrel Pinto",
       "slug": "lerrel-pinto",
-      "cluster": 4,
-      "archetype": "early-blockbuster"
+      "cluster": 6,
+      "archetype": "early-blockbuster-3"
     },
     {
       "name": "Luca Carlone",
       "slug": "luca-carlone",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 5,
+      "archetype": "mid-career-peak-2"
     },
     {
       "name": "Lydia E. Kavraki",
       "slug": "lydia-e-kavraki",
-      "cluster": 3,
-      "archetype": "steady-producer"
+      "cluster": 0,
+      "archetype": "early-blockbuster"
     },
     {
       "name": "Marc Pollefeys",
       "slug": "marc-pollefeys",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Marco Hutter",
       "slug": "marco-hutter",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Mark R. Cutkosky",
       "slug": "mark-r-cutkosky",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Masayoshi Tomizuka",
       "slug": "masayoshi-tomizuka",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Masayuki Inaba",
@@ -961,14 +1026,14 @@
     {
       "name": "Metin Sitti",
       "slug": "metin-sitti",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 3,
+      "archetype": "steady-producer"
     },
     {
       "name": "Michael Beetz",
       "slug": "michael-beetz",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 5,
+      "archetype": "mid-career-peak-2"
     },
     {
       "name": "Michael Kaess",
@@ -979,8 +1044,8 @@
     {
       "name": "Ming Liu",
       "slug": "ming-liu",
-      "cluster": 2,
-      "archetype": "late-bloomer"
+      "cluster": 7,
+      "archetype": "late-bloomer-2"
     },
     {
       "name": "Nicholas Roy",
@@ -997,62 +1062,62 @@
     {
       "name": "Oussama Khatib",
       "slug": "oussama-khatib",
-      "cluster": 3,
-      "archetype": "steady-producer"
+      "cluster": 6,
+      "archetype": "early-blockbuster-3"
     },
     {
       "name": "Paolo Dario",
       "slug": "paolo-dario",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Peter K. Allen",
       "slug": "peter-k-allen",
-      "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Pierre E. Dupont",
       "slug": "pierre-e-dupont",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Pieter Abbeel",
       "slug": "pieter-abbeel",
-      "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Robert D. Howe",
       "slug": "robert-d-howe",
-      "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Robert J. Webster III",
       "slug": "robert-j-webster-iii",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 3,
+      "archetype": "steady-producer"
     },
     {
       "name": "Robert J. Wood",
       "slug": "robert-j-wood",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Roland Siegwart",
       "slug": "roland-siegwart",
-      "cluster": 7,
-      "archetype": "late-bloomer-2"
+      "cluster": 1,
+      "archetype": "late-bloomer"
     },
     {
       "name": "Ronald S. Fearing",
       "slug": "ronald-s-fearing",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
     },
     {
       "name": "Russ Tedrake",
@@ -1063,32 +1128,32 @@
     {
       "name": "Russell H. Taylor",
       "slug": "russell-h-taylor",
-      "cluster": 2,
-      "archetype": "late-bloomer"
+      "cluster": 7,
+      "archetype": "late-bloomer-2"
     },
     {
       "name": "Sami Haddadin",
       "slug": "sami-haddadin",
-      "cluster": 3,
-      "archetype": "steady-producer"
+      "cluster": 0,
+      "archetype": "early-blockbuster"
     },
     {
       "name": "Sangbae Kim",
       "slug": "sangbae-kim",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 3,
+      "archetype": "steady-producer"
     },
     {
       "name": "Sanjiv Singh",
       "slug": "sanjiv-singh",
-      "cluster": 2,
-      "archetype": "late-bloomer"
+      "cluster": 7,
+      "archetype": "late-bloomer-2"
     },
     {
       "name": "Sebastian A. Scherer",
       "slug": "sebastian-a-scherer",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Sebastian Thrun",
@@ -1099,14 +1164,14 @@
     {
       "name": "Sergey Levine",
       "slug": "sergey-levine",
-      "cluster": 3,
-      "archetype": "steady-producer"
+      "cluster": 0,
+      "archetype": "early-blockbuster"
     },
     {
       "name": "Shaojie Shen",
       "slug": "shaojie-shen",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Shuran Song",
@@ -1117,44 +1182,50 @@
     {
       "name": "Shuuji Kajita",
       "slug": "shuuji-kajita",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 5,
+      "archetype": "mid-career-peak-2"
     },
     {
       "name": "Siddhartha S. Srinivasa",
       "slug": "siddhartha-s-srinivasa",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
-    },
-    {
-      "name": "Stefan Schaal",
-      "slug": "stefan-schaal",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
-    },
-    {
-      "name": "Stergios I. Roumeliotis",
-      "slug": "stergios-i-roumeliotis",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
-    },
-    {
-      "name": "Steven M. LaValle",
-      "slug": "steven-m-lavalle",
       "cluster": 3,
       "archetype": "steady-producer"
     },
     {
+      "name": "Stefan Schaal",
+      "slug": "stefan-schaal",
+      "cluster": 2,
+      "archetype": "mid-career-peak"
+    },
+    {
+      "name": "Stergios I. Roumeliotis",
+      "slug": "stergios-i-roumeliotis",
+      "cluster": 3,
+      "archetype": "steady-producer"
+    },
+    {
+      "name": "Steven M. LaValle",
+      "slug": "steven-m-lavalle",
+      "cluster": 0,
+      "archetype": "early-blockbuster"
+    },
+    {
+      "name": "Sukhan Lee",
+      "slug": "sukhan-lee",
+      "cluster": 0,
+      "archetype": "early-blockbuster"
+    },
+    {
       "name": "Tamim Asfour",
       "slug": "tamim-asfour",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 3,
+      "archetype": "steady-producer"
     },
     {
       "name": "Timothy D. Barfoot",
       "slug": "timothy-d-barfoot",
-      "cluster": 5,
-      "archetype": "mid-career-peak-3"
+      "cluster": 2,
+      "archetype": "mid-career-peak"
     },
     {
       "name": "Toshio Fukuda",
@@ -1166,7 +1237,13 @@
       "name": "Vijay Kumar",
       "slug": "vijay-kumar",
       "cluster": 1,
-      "archetype": "mid-career-peak-2"
+      "archetype": "late-bloomer"
+    },
+    {
+      "name": "Wan Kyun Chung",
+      "slug": "wan-kyun-chung",
+      "cluster": 3,
+      "archetype": "steady-producer"
     },
     {
       "name": "Wolfram Burgard",
@@ -1177,8 +1254,8 @@
     {
       "name": "Yoshihiko Nakamura",
       "slug": "yoshihiko-nakamura",
-      "cluster": 0,
-      "archetype": "mid-career-peak"
+      "cluster": 3,
+      "archetype": "steady-producer"
     },
     {
       "name": "Yun-Hui Liu",
@@ -1189,11 +1266,11 @@
   ],
   "timing_distributions": {
     "years_to_first_100cite": {
-      "n": 114,
+      "n": 124,
       "min": 0,
       "max": 19,
       "median": 2.0,
-      "mean": 3.7,
+      "mean": 4,
       "values": [
         3,
         0,
@@ -1228,9 +1305,12 @@
         0,
         2,
         8,
+        9,
+        9,
         1,
         0,
         0,
+        3,
         1,
         3,
         6,
@@ -1239,16 +1319,20 @@
         9,
         3,
         3,
+        10,
         7,
         10,
         7,
         2,
         16,
         2,
+        10,
+        3,
         1,
         1,
         2,
         1,
+        5,
         8,
         2,
         3,
@@ -1257,12 +1341,14 @@
         5,
         0,
         12,
+        12,
         9,
         11,
         3,
         15,
         5,
         10,
+        6,
         0,
         4,
         1,
@@ -1306,6 +1392,7 @@
         9,
         4,
         2,
+        7,
         2,
         0,
         11
@@ -1479,11 +1566,11 @@
       ]
     },
     "peak_paper_relative_position": {
-      "n": 114,
+      "n": 125,
       "min": 0.0,
       "max": 0.875,
-      "median": 0.4675,
-      "mean": 0.45,
+      "median": 0.463,
+      "mean": 0.44,
       "values": [
         0.227,
         0.125,
@@ -1518,9 +1605,12 @@
         0.0,
         0.759,
         0.485,
+        0.323,
+        0.636,
         0.375,
         0.25,
         0.382,
+        0.118,
         0.038,
         0.118,
         0.29,
@@ -1529,16 +1619,20 @@
         0.571,
         0.217,
         0.647,
+        0.478,
         0.241,
         0.667,
         0.688,
         0.222,
         0.8,
         0.5,
+        0.794,
+        0.318,
         0.4,
         0.074,
         0.6,
         0.267,
+        0.192,
         0.421,
         0.267,
         0.308,
@@ -1546,6 +1640,7 @@
         0.36,
         0.719,
         0.7,
+        0.448,
         0.577,
         0.575,
         0.6,
@@ -1553,6 +1648,7 @@
         0.714,
         0.36,
         0.312,
+        0.682,
         0.0,
         0.4,
         0.219,
@@ -1592,21 +1688,23 @@
         0.562,
         0.346,
         0.2,
+        0.0,
         0.577,
         0.522,
         0.463,
         0.611,
+        0.5,
         0.552,
         0.395,
         0.472
       ]
     },
     "career_span_years": {
-      "n": 114,
+      "n": 125,
       "min": 5,
       "max": 42,
-      "median": 28.0,
-      "mean": 27.59,
+      "median": 28,
+      "mean": 27.76,
       "values": [
         23,
         9,
@@ -1641,8 +1739,11 @@
         5,
         30,
         34,
+        32,
+        23,
         17,
         9,
+        35,
         35,
         27,
         35,
@@ -1652,16 +1753,20 @@
         29,
         24,
         18,
+        24,
         30,
         19,
         33,
         28,
         21,
         37,
+        35,
+        23,
         21,
         28,
         41,
         16,
+        27,
         20,
         16,
         40,
@@ -1669,6 +1774,7 @@
         26,
         33,
         21,
+        30,
         27,
         41,
         26,
@@ -1676,6 +1782,7 @@
         29,
         26,
         33,
+        23,
         10,
         16,
         33,
@@ -1715,10 +1822,12 @@
         33,
         27,
         31,
+        38,
         27,
         24,
         42,
         37,
+        35,
         30,
         39,
         37
@@ -1728,7 +1837,7 @@
   "topic_dominance": [
     {
       "concept": "Computer science",
-      "total_weight": 2352.62,
+      "total_weight": 2469.65,
       "top_contributors": [
         {
           "name": "Roland Siegwart",
@@ -1754,7 +1863,7 @@
     },
     {
       "concept": "Robot",
-      "total_weight": 921.78,
+      "total_weight": 952.22,
       "top_contributors": [
         {
           "name": "Daniela Rus",
@@ -1780,7 +1889,7 @@
     },
     {
       "concept": "Artificial intelligence",
-      "total_weight": 855.21,
+      "total_weight": 886.47,
       "top_contributors": [
         {
           "name": "Wolfram Burgard",
@@ -1806,7 +1915,7 @@
     },
     {
       "concept": "Computer vision",
-      "total_weight": 339.44,
+      "total_weight": 351.27,
       "top_contributors": [
         {
           "name": "Roland Siegwart",
@@ -1832,11 +1941,15 @@
     },
     {
       "concept": "Control theory (sociology)",
-      "total_weight": 201.0,
+      "total_weight": 246.62,
       "top_contributors": [
         {
           "name": "Christian Ott",
           "weight": 17.02
+        },
+        {
+          "name": "Wan Kyun Chung",
+          "weight": 16.47
         },
         {
           "name": "Darwin G. Caldwell",
@@ -1849,16 +1962,12 @@
         {
           "name": "Toshio Fukuda",
           "weight": 11.78
-        },
-        {
-          "name": "Gerd Hirzinger",
-          "weight": 8.66
         }
       ]
     },
     {
       "concept": "Humanoid robot",
-      "total_weight": 151.17,
+      "total_weight": 158.62,
       "top_contributors": [
         {
           "name": "Masayuki Inaba",
@@ -1884,7 +1993,7 @@
     },
     {
       "concept": "Motion planning",
-      "total_weight": 74.2,
+      "total_weight": 76.2,
       "top_contributors": [
         {
           "name": "Lydia E. Kavraki",
@@ -1905,6 +2014,32 @@
         {
           "name": "Ning Xi",
           "weight": 3.85
+        }
+      ]
+    },
+    {
+      "concept": "Actuator",
+      "total_weight": 72.44,
+      "top_contributors": [
+        {
+          "name": "Robert J. Wood",
+          "weight": 12.48
+        },
+        {
+          "name": "Darwin G. Caldwell",
+          "weight": 10.66
+        },
+        {
+          "name": "Kyu-Jin Cho",
+          "weight": 7.82
+        },
+        {
+          "name": "Conor J. Walsh",
+          "weight": 4.4
+        },
+        {
+          "name": "Jee-Hwan Ryu",
+          "weight": 4.2
         }
       ]
     },
@@ -1935,34 +2070,34 @@
       ]
     },
     {
-      "concept": "Actuator",
-      "total_weight": 57.8,
+      "concept": "Kinematics",
+      "total_weight": 61.79,
       "top_contributors": [
         {
-          "name": "Robert J. Wood",
-          "weight": 12.48
+          "name": "Ian D. Walker",
+          "weight": 7.42
         },
         {
-          "name": "Darwin G. Caldwell",
-          "weight": 10.66
+          "name": "Robert J. Webster III",
+          "weight": 5.04
         },
         {
-          "name": "Conor J. Walsh",
-          "weight": 4.4
+          "name": "Pierre E. Dupont",
+          "weight": 4.63
         },
         {
-          "name": "Antonio Bicchi",
-          "weight": 3.46
+          "name": "Wan Kyun Chung",
+          "weight": 3.62
         },
         {
-          "name": "Ronald S. Fearing",
-          "weight": 2.64
+          "name": "Aaron M. Dollar",
+          "weight": 3.4
         }
       ]
     },
     {
       "concept": "Trajectory",
-      "total_weight": 55.02,
+      "total_weight": 60.01,
       "top_contributors": [
         {
           "name": "Fei Gao",
@@ -1973,22 +2108,22 @@
           "weight": 7.53
         },
         {
+          "name": "H. Jin Kim",
+          "weight": 4.99
+        },
+        {
           "name": "Masayoshi Tomizuka",
           "weight": 3.43
         },
         {
           "name": "Shaojie Shen",
           "weight": 3.41
-        },
-        {
-          "name": "Dinesh Manocha",
-          "weight": 3.0
         }
       ]
     },
     {
       "concept": "GRASP",
-      "total_weight": 54.05,
+      "total_weight": 56.44,
       "top_contributors": [
         {
           "name": "Danica Kragic",
@@ -2013,34 +2148,8 @@
       ]
     },
     {
-      "concept": "Kinematics",
-      "total_weight": 51.35,
-      "top_contributors": [
-        {
-          "name": "Ian D. Walker",
-          "weight": 7.42
-        },
-        {
-          "name": "Robert J. Webster III",
-          "weight": 5.04
-        },
-        {
-          "name": "Pierre E. Dupont",
-          "weight": 4.63
-        },
-        {
-          "name": "Aaron M. Dollar",
-          "weight": 3.4
-        },
-        {
-          "name": "Antonio Bicchi",
-          "weight": 3.3
-        }
-      ]
-    },
-    {
       "concept": "Reinforcement learning",
-      "total_weight": 48.18,
+      "total_weight": 49.98,
       "top_contributors": [
         {
           "name": "Sergey Levine",
@@ -2092,7 +2201,7 @@
     },
     {
       "concept": "Task (project management)",
-      "total_weight": 39.78,
+      "total_weight": 42.25,
       "top_contributors": [
         {
           "name": "Toshio Fukuda",
@@ -2144,7 +2253,7 @@
     },
     {
       "concept": "Object (grammar)",
-      "total_weight": 35.04,
+      "total_weight": 35.64,
       "top_contributors": [
         {
           "name": "Kazuhiro Kosuge",
@@ -2247,8 +2356,34 @@
       ]
     },
     {
+      "concept": "Controller (irrigation)",
+      "total_weight": 30.6,
+      "top_contributors": [
+        {
+          "name": "Christian Ott",
+          "weight": 6.01
+        },
+        {
+          "name": "Masayoshi Tomizuka",
+          "weight": 3.61
+        },
+        {
+          "name": "Alin Albu-Schäffer",
+          "weight": 3.41
+        },
+        {
+          "name": "Jee-Hwan Ryu",
+          "weight": 2.2
+        },
+        {
+          "name": "Toshio Fukuda",
+          "weight": 2.05
+        }
+      ]
+    },
+    {
       "concept": "Robustness (evolution)",
-      "total_weight": 26.23,
+      "total_weight": 27.43,
       "top_contributors": [
         {
           "name": "François Chaumette",
@@ -2273,34 +2408,60 @@
       ]
     },
     {
-      "concept": "Controller (irrigation)",
-      "total_weight": 25.33,
+      "concept": "Teleoperation",
+      "total_weight": 24.46,
       "top_contributors": [
         {
-          "name": "Christian Ott",
-          "weight": 6.01
+          "name": "Jee-Hwan Ryu",
+          "weight": 5.4
         },
         {
-          "name": "Masayoshi Tomizuka",
-          "weight": 3.61
+          "name": "Allison M. Okamura",
+          "weight": 4.57
         },
         {
-          "name": "Alin Albu-Schäffer",
-          "weight": 3.41
+          "name": "Ning Xi",
+          "weight": 2.0
         },
         {
-          "name": "Toshio Fukuda",
-          "weight": 2.05
+          "name": "Wan Kyun Chung",
+          "weight": 1.99
         },
         {
-          "name": "Davide Scaramuzza",
-          "weight": 2.02
+          "name": "Sangbae Kim",
+          "weight": 1.42
+        }
+      ]
+    },
+    {
+      "concept": "Haptic technology",
+      "total_weight": 24.3,
+      "top_contributors": [
+        {
+          "name": "Allison M. Okamura",
+          "weight": 10.43
+        },
+        {
+          "name": "Dong-Soo Kwon",
+          "weight": 3.02
+        },
+        {
+          "name": "Jee-Hwan Ryu",
+          "weight": 2.4
+        },
+        {
+          "name": "Robert D. Howe",
+          "weight": 1.6
+        },
+        {
+          "name": "Darwin G. Caldwell",
+          "weight": 1.41
         }
       ]
     },
     {
       "concept": "Motion (physics)",
-      "total_weight": 19.56,
+      "total_weight": 21.96,
       "top_contributors": [
         {
           "name": "Yoshihiko Nakamura",
@@ -2315,44 +2476,18 @@
           "weight": 2.02
         },
         {
+          "name": "Dongheui Lee",
+          "weight": 2.0
+        },
+        {
           "name": "Fumio Kanehiro",
           "weight": 1.41
-        },
-        {
-          "name": "Kazuhito Yokoi",
-          "weight": 1.4
-        }
-      ]
-    },
-    {
-      "concept": "Haptic technology",
-      "total_weight": 17.28,
-      "top_contributors": [
-        {
-          "name": "Allison M. Okamura",
-          "weight": 10.43
-        },
-        {
-          "name": "Robert D. Howe",
-          "weight": 1.6
-        },
-        {
-          "name": "Darwin G. Caldwell",
-          "weight": 1.41
-        },
-        {
-          "name": "Mark R. Cutkosky",
-          "weight": 1.2
-        },
-        {
-          "name": "Oussama Khatib",
-          "weight": 0.8
         }
       ]
     },
     {
       "concept": "Stiffness",
-      "total_weight": 16.76,
+      "total_weight": 17.99,
       "top_contributors": [
         {
           "name": "Antonio Bicchi",
@@ -2377,34 +2512,34 @@
       ]
     },
     {
-      "concept": "Teleoperation",
-      "total_weight": 16.44,
+      "concept": "Torque",
+      "total_weight": 17.92,
       "top_contributors": [
         {
-          "name": "Allison M. Okamura",
-          "weight": 4.57
+          "name": "Alin Albu-Schäffer",
+          "weight": 3.61
         },
         {
-          "name": "Ning Xi",
+          "name": "Gerd Hirzinger",
+          "weight": 3.23
+        },
+        {
+          "name": "Jaeheung Park",
+          "weight": 2.44
+        },
+        {
+          "name": "Oussama Khatib",
           "weight": 2.0
         },
         {
-          "name": "Sangbae Kim",
-          "weight": 1.42
-        },
-        {
-          "name": "Fumihito Arai",
-          "weight": 1.01
-        },
-        {
-          "name": "Danica Kragic",
-          "weight": 1.0
+          "name": "Sami Haddadin",
+          "weight": 1.2
         }
       ]
     },
     {
       "concept": "Segmentation",
-      "total_weight": 14.29,
+      "total_weight": 15.09,
       "top_contributors": [
         {
           "name": "Cyrill Stachniss",
@@ -2421,38 +2556,16 @@
         {
           "name": "Wolfram Burgard",
           "weight": 1.82
-        }
-      ]
-    },
-    {
-      "concept": "Torque",
-      "total_weight": 14.28,
-      "top_contributors": [
-        {
-          "name": "Alin Albu-Schäffer",
-          "weight": 3.61
         },
         {
-          "name": "Gerd Hirzinger",
-          "weight": 3.23
-        },
-        {
-          "name": "Oussama Khatib",
-          "weight": 2.0
-        },
-        {
-          "name": "Sami Haddadin",
-          "weight": 1.2
-        },
-        {
-          "name": "Marco Hutter",
-          "weight": 1.03
+          "name": "Kyu-Jin Cho",
+          "weight": 0.8
         }
       ]
     },
     {
       "concept": "Probabilistic logic",
-      "total_weight": 12.87,
+      "total_weight": 13.07,
       "top_contributors": [
         {
           "name": "Jan Peters",
@@ -2506,7 +2619,7 @@
   "generational_cohorts": [
     {
       "decade": 1980,
-      "n": 28,
+      "n": 30,
       "members": [
         "Alessandro De Luca",
         "Anthony Stentz",
@@ -2517,6 +2630,7 @@
         "Gerd Hirzinger",
         "Hugh F. Durrant-Whyte",
         "Ian D. Walker",
+        "Il Hong Suh",
         "Jean-Claude Latombe",
         "Jean-Jacques E. Slotine",
         "Joel W. Burdick",
@@ -2532,18 +2646,19 @@
         "Ronald S. Fearing",
         "Russell H. Taylor",
         "Sanjiv Singh",
+        "Sukhan Lee",
         "Toshio Fukuda",
         "Vijay Kumar",
         "Yoshihiko Nakamura",
         "Yun-Hui Liu"
       ],
       "median_h_index": 43.0,
-      "median_total_cites": 7475.5,
-      "median_pivot_score": 0.295
+      "median_total_cites": 7356.0,
+      "median_pivot_score": 0.302
     },
     {
       "decade": 1990,
-      "n": 44,
+      "n": 49,
       "members": [
         "Alin Albu-Schäffer",
         "Allison M. Okamura",
@@ -2557,7 +2672,9 @@
         "David Hsu",
         "Dieter Fox",
         "Dinesh Manocha",
+        "Dong-Soo Kwon",
         "François Chaumette",
+        "Frank C. Park",
         "Frank Dellaert",
         "Fumihito Arai",
         "Fumio Kanehiro",
@@ -2566,7 +2683,9 @@
         "Henrik I. Christensen",
         "Hirohisa Hirukawa",
         "Howie Choset",
+        "Jee-Hwan Ryu",
         "Juan D. Tardós",
+        "Jun-Ho Oh",
         "Kaspar Althoefer",
         "Kei Okada",
         "Ken Goldberg",
@@ -2588,15 +2707,16 @@
         "Stergios I. Roumeliotis",
         "Steven M. LaValle",
         "Tamim Asfour",
+        "Wan Kyun Chung",
         "Wolfram Burgard"
       ],
-      "median_h_index": 44.0,
-      "median_total_cites": 8909.5,
-      "median_pivot_score": 0.245
+      "median_h_index": 41,
+      "median_total_cites": 8283,
+      "median_pivot_score": 0.263
     },
     {
       "decade": 2000,
-      "n": 26,
+      "n": 30,
       "members": [
         "Aaron M. Dollar",
         "Andrew J. Davison",
@@ -2605,14 +2725,18 @@
         "Christian Ott",
         "Cyrill Stachniss",
         "Davide Scaramuzza",
+        "Dongheui Lee",
         "Edwin Olson",
         "Giorgio Grisetti",
         "Guang-Zhong Yang",
+        "H. Jin Kim",
         "Hyun Myung",
+        "Jaeheung Park",
         "Jan Peters",
         "Ji Zhang",
         "Jonathan P. How",
         "Juan I. Nieto",
+        "Kyu-Jin Cho",
         "Marco Hutter",
         "Michael Kaess",
         "Pieter Abbeel",
@@ -2625,9 +2749,9 @@
         "Siddhartha S. Srinivasa",
         "Timothy D. Barfoot"
       ],
-      "median_h_index": 40.0,
-      "median_total_cites": 7781.5,
-      "median_pivot_score": 0.207
+      "median_h_index": 37.5,
+      "median_total_cites": 7233.0,
+      "median_pivot_score": 0.21
     },
     {
       "decade": 2010,
@@ -2873,6 +2997,18 @@
         "years_to_journal_majority": null
       },
       {
+        "name": "Dong-Soo Kwon",
+        "first_year": 1994,
+        "journal_majority_from": 2019,
+        "years_to_journal_majority": 25
+      },
+      {
+        "name": "Dongheui Lee",
+        "first_year": 2003,
+        "journal_majority_from": null,
+        "years_to_journal_majority": null
+      },
+      {
         "name": "Edwin Olson",
         "first_year": 2005,
         "journal_majority_from": null,
@@ -2889,6 +3025,12 @@
         "first_year": 1991,
         "journal_majority_from": 2016,
         "years_to_journal_majority": 25
+      },
+      {
+        "name": "Frank C. Park",
+        "first_year": 1991,
+        "journal_majority_from": 2006,
+        "years_to_journal_majority": 15
       },
       {
         "name": "Frank Dellaert",
@@ -2939,6 +3081,12 @@
         "years_to_journal_majority": null
       },
       {
+        "name": "H. Jin Kim",
+        "first_year": 2002,
+        "journal_majority_from": 2022,
+        "years_to_journal_majority": 20
+      },
+      {
         "name": "Henrik I. Christensen",
         "first_year": 1996,
         "journal_majority_from": null,
@@ -2975,6 +3123,18 @@
         "years_to_journal_majority": null
       },
       {
+        "name": "Il Hong Suh",
+        "first_year": 1988,
+        "journal_majority_from": null,
+        "years_to_journal_majority": null
+      },
+      {
+        "name": "Jaeheung Park",
+        "first_year": 2003,
+        "journal_majority_from": 2018,
+        "years_to_journal_majority": 15
+      },
+      {
         "name": "Jan Peters",
         "first_year": 2005,
         "journal_majority_from": null,
@@ -2997,6 +3157,12 @@
         "first_year": 2010,
         "journal_majority_from": null,
         "years_to_journal_majority": null
+      },
+      {
+        "name": "Jee-Hwan Ryu",
+        "first_year": 1999,
+        "journal_majority_from": 2004,
+        "years_to_journal_majority": 5
       },
       {
         "name": "Ji Zhang",
@@ -3041,6 +3207,12 @@
         "years_to_journal_majority": 20
       },
       {
+        "name": "Jun-Ho Oh",
+        "first_year": 1993,
+        "journal_majority_from": 2018,
+        "years_to_journal_majority": 25
+      },
+      {
         "name": "Kaspar Althoefer",
         "first_year": 1999,
         "journal_majority_from": null,
@@ -3081,6 +3253,12 @@
         "first_year": 1993,
         "journal_majority_from": 2023,
         "years_to_journal_majority": 30
+      },
+      {
+        "name": "Kyu-Jin Cho",
+        "first_year": 2003,
+        "journal_majority_from": 2018,
+        "years_to_journal_majority": 15
       },
       {
         "name": "Lerrel Pinto",
@@ -3317,6 +3495,12 @@
         "years_to_journal_majority": 30
       },
       {
+        "name": "Sukhan Lee",
+        "first_year": 1985,
+        "journal_majority_from": null,
+        "years_to_journal_majority": null
+      },
+      {
         "name": "Tamim Asfour",
         "first_year": 1999,
         "journal_majority_from": null,
@@ -3341,6 +3525,12 @@
         "years_to_journal_majority": null
       },
       {
+        "name": "Wan Kyun Chung",
+        "first_year": 1991,
+        "journal_majority_from": 2016,
+        "years_to_journal_majority": 25
+      },
+      {
         "name": "Wolfram Burgard",
         "first_year": 1996,
         "journal_majority_from": null,
@@ -3360,11 +3550,11 @@
       }
     ],
     "distribution": {
-      "n": 55,
+      "n": 63,
       "min": 5,
       "max": 40,
       "median": 20,
-      "mean": 20.09,
+      "mean": 19.84,
       "values": [
         15,
         30,
@@ -3388,18 +3578,25 @@
         15,
         25,
         25,
+        15,
+        25,
         5,
+        20,
         20,
         5,
         15,
+        15,
+        5,
         5,
         5,
         20,
         20,
+        25,
         35,
         25,
         25,
         30,
+        15,
         10,
         10,
         15,
@@ -3420,11 +3617,24 @@
         30,
         15,
         35,
+        25,
         20
       ]
     }
   },
   "pivot_ranking": [
+    {
+      "name": "Sukhan Lee",
+      "pivot_score": 0.616
+    },
+    {
+      "name": "Dong-Soo Kwon",
+      "pivot_score": 0.611
+    },
+    {
+      "name": "Frank C. Park",
+      "pivot_score": 0.599
+    },
     {
       "name": "Pierre E. Dupont",
       "pivot_score": 0.555
@@ -3432,6 +3642,10 @@
     {
       "name": "Jean-Jacques E. Slotine",
       "pivot_score": 0.511
+    },
+    {
+      "name": "Jun-Ho Oh",
+      "pivot_score": 0.49
     },
     {
       "name": "Hyun Myung",
@@ -3468,6 +3682,14 @@
     {
       "name": "Bradley J. Nelson",
       "pivot_score": 0.39
+    },
+    {
+      "name": "H. Jin Kim",
+      "pivot_score": 0.389
+    },
+    {
+      "name": "Jaeheung Park",
+      "pivot_score": 0.389
     },
     {
       "name": "Sangbae Kim",
@@ -3510,6 +3732,10 @@
       "pivot_score": 0.332
     },
     {
+      "name": "Il Hong Suh",
+      "pivot_score": 0.331
+    },
+    {
       "name": "Kazuhiro Kosuge",
       "pivot_score": 0.331
     },
@@ -3534,12 +3760,24 @@
       "pivot_score": 0.309
     },
     {
+      "name": "Kyu-Jin Cho",
+      "pivot_score": 0.308
+    },
+    {
+      "name": "Wan Kyun Chung",
+      "pivot_score": 0.306
+    },
+    {
       "name": "Jean-Claude Latombe",
       "pivot_score": 0.305
     },
     {
       "name": "Alessandro De Luca",
       "pivot_score": 0.3
+    },
+    {
+      "name": "Jee-Hwan Ryu",
+      "pivot_score": 0.298
     },
     {
       "name": "Ji Zhang",
@@ -3750,6 +3988,10 @@
       "pivot_score": 0.163
     },
     {
+      "name": "Dongheui Lee",
+      "pivot_score": 0.161
+    },
+    {
       "name": "Giorgio Grisetti",
       "pivot_score": 0.16
     },
@@ -3884,6 +4126,17 @@
   ],
   "dynasty_ranking": [
     {
+      "name": "Gerd Hirzinger",
+      "total_likely_students": 55,
+      "students_in_topN": 4,
+      "students_in_topN_names": [
+        "Sami Haddadin",
+        "Christian Ott",
+        "Alin Albu-Schäffer",
+        "Jee-Hwan Ryu"
+      ]
+    },
+    {
       "name": "Pieter Abbeel",
       "total_likely_students": 45,
       "students_in_topN": 4,
@@ -3892,16 +4145,6 @@
         "Chelsea Finn",
         "Jia Pan",
         "Lerrel Pinto"
-      ]
-    },
-    {
-      "name": "Gerd Hirzinger",
-      "total_likely_students": 55,
-      "students_in_topN": 3,
-      "students_in_topN_names": [
-        "Sami Haddadin",
-        "Christian Ott",
-        "Alin Albu-Schäffer"
       ]
     },
     {
@@ -4057,6 +4300,22 @@
       ]
     },
     {
+      "name": "Yoshihiko Nakamura",
+      "total_likely_students": 29,
+      "students_in_topN": 1,
+      "students_in_topN_names": [
+        "Dongheui Lee"
+      ]
+    },
+    {
+      "name": "Oussama Khatib",
+      "total_likely_students": 25,
+      "students_in_topN": 1,
+      "students_in_topN_names": [
+        "Jaeheung Park"
+      ]
+    },
+    {
       "name": "Robert D. Howe",
       "total_likely_students": 22,
       "students_in_topN": 1,
@@ -4078,6 +4337,14 @@
       "students_in_topN": 1,
       "students_in_topN_names": [
         "Luca Carlone"
+      ]
+    },
+    {
+      "name": "Dong-Soo Kwon",
+      "total_likely_students": 16,
+      "students_in_topN": 1,
+      "students_in_topN_names": [
+        "Jee-Hwan Ryu"
       ]
     },
     {
@@ -4199,7 +4466,19 @@
       "students_in_topN_names": []
     },
     {
+      "name": "H. Jin Kim",
+      "total_likely_students": 40,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
       "name": "Bradley J. Nelson",
+      "total_likely_students": 39,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
+      "name": "Wan Kyun Chung",
       "total_likely_students": 39,
       "students_in_topN": 0,
       "students_in_topN_names": []
@@ -4301,12 +4580,6 @@
       "students_in_topN_names": []
     },
     {
-      "name": "Yoshihiko Nakamura",
-      "total_likely_students": 29,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "Arianna Menciassi",
       "total_likely_students": 28,
       "students_in_topN": 0,
@@ -4367,12 +4640,6 @@
       "students_in_topN_names": []
     },
     {
-      "name": "Oussama Khatib",
-      "total_likely_students": 25,
-      "students_in_topN": 0,
-      "students_in_topN_names": []
-    },
-    {
       "name": "Russ Tedrake",
       "total_likely_students": 25,
       "students_in_topN": 0,
@@ -4381,6 +4648,24 @@
     {
       "name": "Fei Gao",
       "total_likely_students": 24,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
+      "name": "Il Hong Suh",
+      "total_likely_students": 23,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
+      "name": "Jee-Hwan Ryu",
+      "total_likely_students": 23,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
+      "name": "Kyu-Jin Cho",
+      "total_likely_students": 22,
       "students_in_topN": 0,
       "students_in_topN_names": []
     },
@@ -4457,6 +4742,12 @@
       "students_in_topN_names": []
     },
     {
+      "name": "Jun-Ho Oh",
+      "total_likely_students": 18,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
       "name": "Luca Carlone",
       "total_likely_students": 18,
       "students_in_topN": 0,
@@ -4482,6 +4773,18 @@
     },
     {
       "name": "Bruno Siciliano",
+      "total_likely_students": 16,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
+      "name": "Dongheui Lee",
+      "total_likely_students": 16,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
+      "name": "Jaeheung Park",
       "total_likely_students": 16,
       "students_in_topN": 0,
       "students_in_topN_names": []
@@ -4535,8 +4838,20 @@
       "students_in_topN_names": []
     },
     {
+      "name": "Sukhan Lee",
+      "total_likely_students": 12,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
       "name": "David Hsu",
       "total_likely_students": 11,
+      "students_in_topN": 0,
+      "students_in_topN_names": []
+    },
+    {
+      "name": "Frank C. Park",
+      "total_likely_students": 10,
       "students_in_topN": 0,
       "students_in_topN_names": []
     },
@@ -4678,6 +4993,15 @@
       "student_first_year": 2010
     },
     {
+      "advisor": "Dong-Soo Kwon",
+      "student": "Jee-Hwan Ryu",
+      "we_last_author_count": 1,
+      "student_first_author_count": 7,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 10,
+      "student_first_year": 1999
+    },
+    {
       "advisor": "Frank Dellaert",
       "student": "Luca Carlone",
       "we_last_author_count": 8,
@@ -4721,6 +5045,15 @@
       "copubs_in_first_5yr": 9,
       "total_copubs": 51,
       "student_first_year": 1998
+    },
+    {
+      "advisor": "Gerd Hirzinger",
+      "student": "Jee-Hwan Ryu",
+      "we_last_author_count": 1,
+      "student_first_author_count": 1,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_year": 1999
     },
     {
       "advisor": "Jean-Claude Latombe",
@@ -4793,6 +5126,15 @@
       "copubs_in_first_5yr": 10,
       "total_copubs": 214,
       "student_first_year": 1998
+    },
+    {
+      "advisor": "Oussama Khatib",
+      "student": "Jaeheung Park",
+      "we_last_author_count": 9,
+      "student_first_author_count": 4,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 13,
+      "student_first_year": 2003
     },
     {
       "advisor": "Paolo Dario",
@@ -4973,36 +5315,45 @@
       "copubs_in_first_5yr": 10,
       "total_copubs": 30,
       "student_first_year": 2002
+    },
+    {
+      "advisor": "Yoshihiko Nakamura",
+      "student": "Dongheui Lee",
+      "we_last_author_count": 6,
+      "student_first_author_count": 6,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 13,
+      "student_first_year": 2003
     }
   ],
   "cross_lessons": {
     "ko": [
-      "첫 100+ 인용 논문까지 중앙값 **2.0년**. top-114 중 가장 늦은 사람도 19년이면 도달.",
+      "첫 100+ 인용 논문까지 중앙값 **2.0년**. top-125 중 가장 늦은 사람도 19년이면 도달.",
       "첫 500+ 인용 논문까지 중앙값 **8.0년**. 범위: 0~32년. 이 숫자가 '대가 후보'의 바닥선.",
       "첫 1000+ 인용 논문 중앙값 **9년** — 블록버스터는 보통 커리어 중반 전에 나온다.",
-      "최다 인용 논문의 상대 위치 중앙값 47% — top-114 중 절반 이상이 커리어 전반부에 최고점을 찍었음.",
-      "커리어 아크 아키타입 분포: mid-career-peak 16명, mid-career-peak-2 23명, late-bloomer 5명, steady-producer 37명, early-blockbuster 7명, mid-career-peak-3 15명, early-blockbuster-2 1명, late-bloomer-2 10명.",
-      "컨퍼런스→저널 과반 전환까지 중앙값 20년 (n=55, 나머지는 전 커리어 동안 컨퍼런스 중심).",
-      "토픽 피벗 강도 상위 3인: Pierre E. Dupont(0.56), Jean-Jacques E. Slotine(0.51), Hyun Myung(0.48). 거장도 재창조는 한다.",
-      "학파 왕가 — top-114 안에서 제자가 다시 top-114에 진입한 상위 3인: Pieter Abbeel(4), Gerd Hirzinger(3), Stefan Schaal(3). 대가의 진짜 지표는 '대가를 몇 명 길러냈느냐'.",
+      "최다 인용 논문의 상대 위치 중앙값 46% — top-125 중 절반 이상이 커리어 전반부에 최고점을 찍었음.",
+      "커리어 아크 아키타입 분포: early-blockbuster 14명, late-bloomer 32명, mid-career-peak 22명, steady-producer 41명, early-blockbuster-2 1명, mid-career-peak-2 6명, early-blockbuster-3 5명, late-bloomer-2 4명.",
+      "컨퍼런스→저널 과반 전환까지 중앙값 20년 (n=63, 나머지는 전 커리어 동안 컨퍼런스 중심).",
+      "토픽 피벗 강도 상위 3인: Sukhan Lee(0.62), Dong-Soo Kwon(0.61), Frank C. Park(0.60). 거장도 재창조는 한다.",
+      "학파 왕가 — top-125 안에서 제자가 다시 top-125에 진입한 상위 3인: Gerd Hirzinger(4), Pieter Abbeel(4), Stefan Schaal(3). 대가의 진짜 지표는 '대가를 몇 명 길러냈느냐'.",
       "제자 추정 총량 상위 3인: Roland Siegwart(122), Daniela Rus(104), Vijay Kumar(98). 양성 규모는 h-index와 별개.",
-      "top-114 내 추정 사제 관계(신호 강한 순): Gerd Hirzinger→Sami Haddadin, Pieter Abbeel→Sergey Levine, Roland Siegwart→Marco Hutter, Wolfram Burgard→Cyrill Stachniss, Shaojie Shen→Fei Gao.",
+      "top-125 내 추정 사제 관계(신호 강한 순): Gerd Hirzinger→Sami Haddadin, Pieter Abbeel→Sergey Levine, Roland Siegwart→Marco Hutter, Wolfram Burgard→Cyrill Stachniss, Shaojie Shen→Fei Gao.",
       "가장 많이 겹친 주제: **Computer science** (주도자: Roland Siegwart, Daniela Rus, Wolfram Burgard). 여러 대가가 같은 토픽에서 경쟁했다는 뜻.",
-      "커리어 인사이트: (1) 첫 5년 안에 '인용 받는 주제'에 착지하라 — 중앙값이 말해준다. (2) 피벗러든 직진형이든 성립 가능하지만, 팀 확장 없이 200편+ 찍은 사람은 거의 없다. (3) 아키타입은 혈통이 아니라 환경 — 후기 개화형도 top-114에 다수다."
+      "커리어 인사이트: (1) 첫 5년 안에 '인용 받는 주제'에 착지하라 — 중앙값이 말해준다. (2) 피벗러든 직진형이든 성립 가능하지만, 팀 확장 없이 200편+ 찍은 사람은 거의 없다. (3) 아키타입은 혈통이 아니라 환경 — 후기 개화형도 top-125에 다수다."
     ],
     "en": [
-      "Median time to first 100+ cite paper: **2.0 years**. Even the slowest of top-114 got there in 19 years.",
+      "Median time to first 100+ cite paper: **2.0 years**. Even the slowest of top-125 got there in 19 years.",
       "Median time to first 500+ cite paper: **8.0 years** (range 0-32). This is the floor for 'aspiring master'.",
       "Median time to first 1000+ cite paper: **9 years** — blockbusters usually hit before mid-career.",
-      "Peak-paper median position: 47% of career — over half of top-114 hit their peak in the first half.",
-      "Career arc archetype distribution: mid-career-peak (16), mid-career-peak-2 (23), late-bloomer (5), steady-producer (37), early-blockbuster (7), mid-career-peak-3 (15), early-blockbuster-2 (1), late-bloomer-2 (10).",
-      "Conference→journal majority transition: median 20 years (n=55; others stayed conference-centric throughout).",
-      "Top 3 topic pivoters: Pierre E. Dupont(0.56), Jean-Jacques E. Slotine(0.51), Hyun Myung(0.48). Even masters reinvent themselves.",
-      "Academic dynasty — top-114 researchers whose students also reached top-114 (top 3): Pieter Abbeel(4), Gerd Hirzinger(3), Stefan Schaal(3). The real metric: how many masters did you train?",
+      "Peak-paper median position: 46% of career — over half of top-125 hit their peak in the first half.",
+      "Career arc archetype distribution: early-blockbuster (14), late-bloomer (32), mid-career-peak (22), steady-producer (41), early-blockbuster-2 (1), mid-career-peak-2 (6), early-blockbuster-3 (5), late-bloomer-2 (4).",
+      "Conference→journal majority transition: median 20 years (n=63; others stayed conference-centric throughout).",
+      "Top 3 topic pivoters: Sukhan Lee(0.62), Dong-Soo Kwon(0.61), Frank C. Park(0.60). Even masters reinvent themselves.",
+      "Academic dynasty — top-125 researchers whose students also reached top-125 (top 3): Gerd Hirzinger(4), Pieter Abbeel(4), Stefan Schaal(3). The real metric: how many masters did you train?",
       "Top 3 by total likely students: Roland Siegwart(122), Daniela Rus(104), Vijay Kumar(98). Mentorship volume is independent of h-index.",
-      "Strongest inferred advisor→student pairs inside top-114: Gerd Hirzinger→Sami Haddadin, Pieter Abbeel→Sergey Levine, Roland Siegwart→Marco Hutter, Wolfram Burgard→Cyrill Stachniss, Shaojie Shen→Fei Gao.",
+      "Strongest inferred advisor→student pairs inside top-125: Gerd Hirzinger→Sami Haddadin, Pieter Abbeel→Sergey Levine, Roland Siegwart→Marco Hutter, Wolfram Burgard→Cyrill Stachniss, Shaojie Shen→Fei Gao.",
       "Most contested topic: **Computer science** (led by: Roland Siegwart, Daniela Rus, Wolfram Burgard). Many masters competed on the same subject.",
-      "Career takeaways: (1) Land on a 'citation-receiving' topic within your first 5 years — the medians say so. (2) Both pivoters and specialists succeed, but almost no one hits 200+ papers without scaling a team. (3) Archetype isn't bloodline, it's circumstance — late bloomers populate top-114 in numbers."
+      "Career takeaways: (1) Land on a 'citation-receiving' topic within your first 5 years — the medians say so. (2) Both pivoters and specialists succeed, but almost no one hits 200+ papers without scaling a team. (3) Archetype isn't bloodline, it's circumstance — late bloomers populate top-125 in numbers."
     ]
   }
 }

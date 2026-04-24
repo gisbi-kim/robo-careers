@@ -1231,7 +1231,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Bruno Siciliano: 40년에 걸쳐 95편, 총 5,226회 인용, h=36, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1986년 \"An inverse kinematic solution algorithm for robots with two-by-two intersecting axes at the end effector\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"A Singular Perturbation Approach to Control of Lightweight Flexible Manipulators\" (1988, 539회).",
@@ -1248,7 +1248,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Bruno Siciliano: over 40 years, 95 papers, 5,226 total cites, h=36, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1986 with \"An inverse kinematic solution algorithm for robots with two-by-two intersecting axes at the end effector\". First 500+ cite paper came 2 years in: \"A Singular Perturbation Approach to Control of Lightweight Flexible Manipulators\" (1988, 539 cites).",

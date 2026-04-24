@@ -1,0 +1,1147 @@
+{
+  "name": "Dong-Soo Kwon",
+  "slug": "dong-soo-kwon",
+  "career_stats": {
+    "first_year": 1994,
+    "last_year": 2025,
+    "span": 32,
+    "total_papers": 75,
+    "total_cites": 1843,
+    "h_index": 22,
+    "i10_index": 44,
+    "seminal_count": 0,
+    "max_cites_single_paper": 387
+  },
+  "role_distribution": {
+    "first": 11,
+    "middle": 25,
+    "last": 39
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1994,
+      "title": "Input Shaping Filter Methods for the Control of Structurally Flexible, Long-Reach Manipulators"
+    },
+    "first_100cite": {
+      "year": 2003,
+      "title": "Mobile robots at your fingertip: Bezier curve on-line trajectory generation for supervisory control",
+      "cites": 100,
+      "gap_from_first": 9
+    },
+    "peak_paper": {
+      "year": 2004,
+      "title": "Stable teleoperation with time-domain passivity control",
+      "cites": 387
+    }
+  },
+  "year_series": {
+    "1994": {
+      "n": 1,
+      "cites": 25,
+      "max_cites": 25
+    },
+    "1995": {
+      "n": 1,
+      "cites": 11,
+      "max_cites": 11
+    },
+    "1996": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1997": {
+      "n": 2,
+      "cites": 16,
+      "max_cites": 8
+    },
+    "1998": {
+      "n": 3,
+      "cites": 103,
+      "max_cites": 69
+    },
+    "1999": {
+      "n": 3,
+      "cites": 76,
+      "max_cites": 62
+    },
+    "2000": {
+      "n": 4,
+      "cites": 58,
+      "max_cites": 30
+    },
+    "2001": {
+      "n": 9,
+      "cites": 228,
+      "max_cites": 56
+    },
+    "2002": {
+      "n": 7,
+      "cites": 180,
+      "max_cites": 51
+    },
+    "2003": {
+      "n": 4,
+      "cites": 114,
+      "max_cites": 100
+    },
+    "2004": {
+      "n": 5,
+      "cites": 541,
+      "max_cites": 387
+    },
+    "2005": {
+      "n": 5,
+      "cites": 70,
+      "max_cites": 22
+    },
+    "2006": {
+      "n": 5,
+      "cites": 142,
+      "max_cites": 66
+    },
+    "2007": {
+      "n": 1,
+      "cites": 16,
+      "max_cites": 16
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "2011": {
+      "n": 2,
+      "cites": 9,
+      "max_cites": 5
+    },
+    "2012": {
+      "n": 2,
+      "cites": 11,
+      "max_cites": 8
+    },
+    "2013": {
+      "n": 2,
+      "cites": 13,
+      "max_cites": 7
+    },
+    "2014": {
+      "n": 2,
+      "cites": 10,
+      "max_cites": 10
+    },
+    "2015": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2016": {
+      "n": 2,
+      "cites": 33,
+      "max_cites": 20
+    },
+    "2017": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2018": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2019": {
+      "n": 4,
+      "cites": 80,
+      "max_cites": 45
+    },
+    "2020": {
+      "n": 2,
+      "cites": 44,
+      "max_cites": 30
+    },
+    "2021": {
+      "n": 4,
+      "cites": 38,
+      "max_cites": 22
+    },
+    "2022": {
+      "n": 3,
+      "cites": 18,
+      "max_cites": 15
+    },
+    "2023": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2024": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2025": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.086
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.086
+        },
+        {
+          "c": "Parallel manipulator",
+          "w": 0.086
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.057
+        },
+        {
+          "c": "Workspace",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 27,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.142
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.045
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.045
+        },
+        {
+          "c": "Robot",
+          "w": 0.037
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.03
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Haptic technology",
+          "w": 0.113
+        },
+        {
+          "c": "Computer science",
+          "w": 0.087
+        },
+        {
+          "c": "Passivity",
+          "w": 0.087
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.087
+        },
+        {
+          "c": "Actuator",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.114
+        },
+        {
+          "c": "Computer science",
+          "w": 0.086
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.086
+        },
+        {
+          "c": "Moment (physics)",
+          "w": 0.086
+        },
+        {
+          "c": "Zero moment point",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.158
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.105
+        },
+        {
+          "c": "Mechatronics",
+          "w": 0.053
+        },
+        {
+          "c": "Engineering",
+          "w": 0.053
+        },
+        {
+          "c": "Electrical engineering",
+          "w": 0.053
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.077
+        },
+        {
+          "c": "Compensation (psychology)",
+          "w": 0.077
+        },
+        {
+          "c": "Robot",
+          "w": 0.077
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.077
+        },
+        {
+          "c": "Hysteresis",
+          "w": 0.062
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "URETEROSCOPE",
+          "w": 0.2
+        },
+        {
+          "c": "Identification (biology)",
+          "w": 0.2
+        },
+        {
+          "c": "Lumen (anatomy)",
+          "w": 0.2
+        },
+        {
+          "c": "Robotic surgery",
+          "w": 0.2
+        },
+        {
+          "c": "Medicine",
+          "w": 0.2
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "mix": {
+        "ICRA": 5,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "IROS": 15,
+        "ICRA": 12
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "IROS": 7,
+        "ICRA": 5,
+        "T-RO": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "IROS": 4,
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "IROS": 3,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "RA-L": 8,
+        "IROS": 4,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1994,
+      "end": 1998,
+      "mean_n_authors": 4.29,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Hyung Suck Cho",
+          4
+        ],
+        [
+          "J. H. Shim",
+          3
+        ],
+        [
+          "Scott M. Babcock",
+          2
+        ],
+        [
+          "Barry L. Burks",
+          2
+        ],
+        [
+          "Se-Kyong Song",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 4.11,
+      "unique_coauthors": 50,
+      "top_coauthors": [
+        [
+          "Jee-Hwan Ryu",
+          6
+        ],
+        [
+          "Yong-San Yoon",
+          4
+        ],
+        [
+          "Jung-Ju Lee",
+          4
+        ],
+        [
+          "Youngjin Park",
+          3
+        ],
+        [
+          "Kyoobin Lee",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 3.56,
+      "unique_coauthors": 19,
+      "top_coauthors": [
+        [
+          "Ki-Uk Kyung",
+          6
+        ],
+        [
+          "Jee-Hwan Ryu",
+          4
+        ],
+        [
+          "Blake Hannaford",
+          4
+        ],
+        [
+          "Gi-Hun Yang",
+          4
+        ],
+        [
+          "Jinung An",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 2.71,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Sang-ik An",
+          4
+        ],
+        [
+          "Seong-Yong Koo",
+          3
+        ],
+        [
+          "Yonghwan Oh",
+          2
+        ],
+        [
+          "Dongheui Lee",
+          2
+        ],
+        [
+          "Hyoung-Rock Kim",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 19,
+      "unique_coauthors": 72,
+      "top_coauthors": [
+        [
+          "Jordan Berg",
+          1
+        ],
+        [
+          "C Luo",
+          1
+        ],
+        [
+          "Darwin Caldwell",
+          1
+        ],
+        [
+          "Okyay Kaynak",
+          1
+        ],
+        [
+          "Kok-Meng Lee",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 4.69,
+      "unique_coauthors": 24,
+      "top_coauthors": [
+        [
+          "Joonhwan Kim",
+          8
+        ],
+        [
+          "Donghoon Baek",
+          4
+        ],
+        [
+          "Hansoul Kim",
+          4
+        ],
+        [
+          "Dong-Ho Lee",
+          3
+        ],
+        [
+          "Minho Hwang",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 3,
+      "unique_coauthors": 2,
+      "top_coauthors": [
+        [
+          "Jung-Min Han",
+          1
+        ],
+        [
+          "Ki-Uk Kyung",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.611,
+  "top_repeat_coauthors": [
+    {
+      "name": "Ki-Uk Kyung",
+      "count": 12,
+      "first_year": 2001,
+      "last_year": 2025
+    },
+    {
+      "name": "Jee-Hwan Ryu",
+      "count": 10,
+      "first_year": 1999,
+      "last_year": 2005
+    },
+    {
+      "name": "Joonhwan Kim",
+      "count": 8,
+      "first_year": 2019,
+      "last_year": 2021
+    },
+    {
+      "name": "Gi-Hun Yang",
+      "count": 6,
+      "first_year": 2001,
+      "last_year": 2007
+    },
+    {
+      "name": "Blake Hannaford",
+      "count": 6,
+      "first_year": 2002,
+      "last_year": 2005
+    },
+    {
+      "name": "Hyung Suck Cho",
+      "count": 5,
+      "first_year": 1997,
+      "last_year": 1999
+    },
+    {
+      "name": "Se-Kyong Song",
+      "count": 5,
+      "first_year": 1997,
+      "last_year": 2002
+    },
+    {
+      "name": "Ki Young Woo",
+      "count": 4,
+      "first_year": 1998,
+      "last_year": 2000
+    },
+    {
+      "name": "Yong-San Yoon",
+      "count": 4,
+      "first_year": 2001,
+      "last_year": 2003
+    },
+    {
+      "name": "Jung-Ju Lee",
+      "count": 4,
+      "first_year": 2001,
+      "last_year": 2003
+    },
+    {
+      "name": "Seong-Young Ko",
+      "count": 4,
+      "first_year": 2001,
+      "last_year": 2004
+    },
+    {
+      "name": "Jinung An",
+      "count": 4,
+      "first_year": 2002,
+      "last_year": 2006
+    },
+    {
+      "name": "Seong-Yong Koo",
+      "count": 4,
+      "first_year": 2010,
+      "last_year": 2014
+    },
+    {
+      "name": "Sang-ik An",
+      "count": 4,
+      "first_year": 2011,
+      "last_year": 2012
+    },
+    {
+      "name": "Minho Hwang",
+      "count": 4,
+      "first_year": 2016,
+      "last_year": 2020
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Scott M. Babcock",
+      "advisor_active_from": 1986,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 0,
+      "total_copubs": 2
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Jinung An",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Sang-ik An",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Seong-Yong Koo",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Donghoon Baek",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hansoul Kim",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Ki-Uk Kyung",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 12,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Gi-Hun Yang",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Kyoobin Lee",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Deok Gyoon Chung",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Dong-Ho Lee",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Jung-Hoon Hwang",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Jae Min You",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Jee-Hwan Ryu",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 10,
+      "student_first_author_count": 7,
+      "we_last_author_count": 1,
+      "last_copub_year": 2005
+    },
+    {
+      "name": "Seong-Young Ko",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Jonathan Kim",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Seung-Chan Kim",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2007
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1994,
+      2003
+    ],
+    "early_mean_n_authors": 4.15,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.5
+  },
+  "citation_half_life_years": 22,
+  "bursts": {
+    "productivity": [
+      2001,
+      2002
+    ],
+    "impact": [
+      2004
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2004,
+      "venue": "T-RO",
+      "title": "Stable teleoperation with time-domain passivity control",
+      "cites": 387,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Teleoperation",
+        "Passivity",
+        "Control theory (sociology)",
+        "Observer (physics)",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/tra.2004.824689",
+      "coauthors": [
+        "Jee-Hwan Ryu",
+        "Blake Hannaford"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "IROS",
+      "title": "Mobile robots at your fingertip: Bezier curve on-line trajectory generation for supervisory control",
+      "cites": 100,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Trajectory",
+        "Mobile robot",
+        "Stylus",
+        "Computer science",
+        "Robot"
+      ],
+      "doi": "10.1109/iros.2003.1248847",
+      "coauthors": [
+        "Jung-Hoon Hwang",
+        "Ronald C. Arkin"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "T-RO",
+      "title": "Control of a flexible manipulator with noncollocated feedback: time-domain passivity approach",
+      "cites": 74,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Passivity",
+        "Control theory (sociology)",
+        "Control engineering",
+        "Domain (mathematical analysis)",
+        "Control (management)"
+      ],
+      "doi": "10.1109/tro.2004.829454",
+      "coauthors": [
+        "Jee-Hwan Ryu",
+        "Blake Hannaford"
+      ]
+    },
+    {
+      "year": 1998,
+      "venue": "IROS",
+      "title": "Microsurgical telerobot system",
+      "cites": 69,
+      "n_authors": 5,
+      "role": "first",
+      "concepts": [
+        "Micromanipulator",
+        "Servomotor",
+        "Telerobotics",
+        "Engineering",
+        "Inertia"
+      ],
+      "doi": "10.1109/iros.1998.727421",
+      "coauthors": [
+        "Ki Young Woo",
+        "Se-Kyong Song",
+        "Wan Soo Kim",
+        "Hyung Suck Cho"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Quantitative Tactile Display Device with Pin-array Type Tactile Feedback and Thermal Feedback",
+      "cites": 66,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Tactile sensor",
+        "Thermal",
+        "Computer science",
+        "Sensitivity (control systems)",
+        "Materials science"
+      ],
+      "doi": "10.1109/robot.2006.1642302",
+      "coauthors": [
+        "Gi-Hun Yang",
+        "Ki-Uk Kyung",
+        "Mandayam A. Srinivasan"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "ICRA",
+      "title": "Haptic Control of the Master Hand Controller for a Microsurgical Telerobot System",
+      "cites": 62,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Haptic technology",
+        "Telerobotics",
+        "Master/slave",
+        "Computer science",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/robot.1999.770357",
+      "coauthors": [
+        "Ki Young Woo",
+        "Hyung Suck Cho"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "ICRA",
+      "title": "Control of Underwater Manipulators Mounted on an ROV using the base Force Information",
+      "cites": 56,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Remotely operated underwater vehicle",
+        "Underwater",
+        "Torque",
+        "Remotely operated vehicle",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/robot.2001.933117",
+      "coauthors": [
+        "Jee-Hwan Ryu",
+        "Pan-Mook Lee"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "Stability and Performance of Haptic Interfaces with Active/Passive Actuators - Theory and Experiments",
+      "cites": 52,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Haptic technology",
+        "Passivity",
+        "Actuator",
+        "Stability (learning theory)",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1177/0278364906071034",
+      "coauthors": [
+        "Jinung An"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "Haptic Experimentation on a Hybrid Active/Passive Force Feedback Device",
+      "cites": 51,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Haptic technology",
+        "Actuator",
+        "Brake",
+        "Computer science",
+        "Torque"
+      ],
+      "doi": "10.1109/robot.2002.1014416",
+      "coauthors": [
+        "Jinung An"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "ICRA",
+      "title": "KAIST Interactive Bicycle Simulator",
+      "cites": 48,
+      "n_authors": 7,
+      "role": "first",
+      "concepts": [
+        "Simulation",
+        "Computer science",
+        "Motion (physics)",
+        "Motion control",
+        "Key (lock)"
+      ],
+      "doi": "10.1109/robot.2001.932967",
+      "coauthors": [
+        "Gi-Hun Yang",
+        "Chong-Won Lee",
+        "Jae-Cheol Shin",
+        "Youngjin Park",
+        "Byungbo Jung",
+        "Doo Yong Lee"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Dong-Soo Kwon: 32년에 걸쳐 75편, 총 1,843회 인용, h=22, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1994년 \"Input Shaping Filter Methods for the Control of Structurally Flexible, Long-Reach Manipulators\"으로 출발.",
+        "초기 토픽: Computer science, Control theory (sociology), Parallel manipulator. 최근 토픽: URETEROSCOPE, Identification (biology), Lumen (anatomy). 피벗 점수 0.61 → 적극 피벗형.",
+        "저자수 평균: 초기 4.2명 → 후기 4.5명 (팀 유지).",
+        "최다 인용 논문 \"Stable teleoperation with time-domain passivity control\" (2004, 387회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Scott M. Babcock. 제자 후보 추정 16명 — 상위: Jinung An(2002~, 본인 마지막저자 4편), Sang-ik An(2011~, 본인 마지막저자 4편), Seong-Yong Koo(2010~, 본인 마지막저자 4편)."
+      ],
+      "lessons": [
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "16명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Scott M. Babcock — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Dong-Soo Kwon: over 32 years, 75 papers, 1,843 total cites, h=22, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1994 with \"Input Shaping Filter Methods for the Control of Structurally Flexible, Long-Reach Manipulators\".",
+        "Early topics: Computer science, Control theory (sociology), Parallel manipulator. Recent topics: URETEROSCOPE, Identification (biology), Lumen (anatomy). Pivot score 0.61 → active pivoter.",
+        "Authors per paper: early 4.2 → late 4.5 (stable team).",
+        "Peak paper \"Stable teleoperation with time-domain passivity control\" (2004, 387 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Scott M. Babcock. 16 likely students — top: Jinung An(2002~, we last-author on 4), Sang-ik An(2011~, we last-author on 4), Seong-Yong Koo(2010~, we last-author on 4)."
+      ],
+      "lessons": [
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "16 likely students — mentoring is the real impact.",
+        "Likely advisor: Scott M. Babcock — started within their PhD network."
+      ]
+    }
+  }
+}

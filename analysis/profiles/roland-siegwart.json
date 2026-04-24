@@ -2107,7 +2107,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Roland Siegwart: 35년에 걸쳐 442편, 총 35,579회 인용, h=92, 500+ 블록버스터 12편.",
       "paragraphs": [
         "1991년 \"Manipulation with soft fingers: contact force control\"으로 출발. 첫 500+ 인용 논문까지 13년 걸림: \"Design and Control of an Indoor Micro Quadrotor\" (2004, 828회). 1000+ 인용 논문: \"PID vs LQ control techniques applied to an indoor micro quadrotor\" (2004, 1,262회).",
@@ -2124,7 +2124,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Roland Siegwart: over 35 years, 442 papers, 35,579 total cites, h=92, 12 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1991 with \"Manipulation with soft fingers: contact force control\". First 500+ cite paper came 13 years in: \"Design and Control of an Indoor Micro Quadrotor\" (2004, 828 cites). 1000+ cite paper: \"PID vs LQ control techniques applied to an indoor micro quadrotor\" (2004, 1,262 cites).",

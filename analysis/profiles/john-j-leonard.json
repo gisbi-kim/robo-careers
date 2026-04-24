@@ -1389,7 +1389,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "John J. Leonard: 37년에 걸쳐 134편, 총 15,814회 인용, h=53, 500+ 블록버스터 5편.",
       "paragraphs": [
         "1989년 \"Navigation by Correlating Geometric Sensor Data\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791회). 1000+ 인용 논문: \"iSAM2: Incremental smoothing and mapping using the Bayes tree\" (2012, 1,308회).",
@@ -1405,7 +1405,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "John J. Leonard: over 37 years, 134 papers, 15,814 total cites, h=53, 5 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1989 with \"Navigation by Correlating Geometric Sensor Data\". First 500+ cite paper came 2 years in: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791 cites). 1000+ cite paper: \"iSAM2: Incremental smoothing and mapping using the Bayes tree\" (2012, 1,308 cites).",

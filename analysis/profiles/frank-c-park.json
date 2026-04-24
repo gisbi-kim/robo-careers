@@ -1,0 +1,1113 @@
+{
+  "name": "Frank C. Park",
+  "slug": "frank-c-park",
+  "career_stats": {
+    "first_year": 1991,
+    "last_year": 2025,
+    "span": 35,
+    "total_papers": 40,
+    "total_cites": 1638,
+    "h_index": 22,
+    "i10_index": 27,
+    "seminal_count": 0,
+    "max_cites_single_paper": 345
+  },
+  "role_distribution": {
+    "first": 8,
+    "last": 25,
+    "middle": 7
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1991,
+      "title": "Motion control using the product-of-exponentials kinematic equations"
+    },
+    "first_100cite": {
+      "year": 1994,
+      "title": "Kinematic Dexterity of Robotic Mechanisms",
+      "cites": 180,
+      "gap_from_first": 3
+    },
+    "peak_paper": {
+      "year": 1995,
+      "title": "A Lie Group Formulation of Robot Dynamics",
+      "cites": 345
+    }
+  },
+  "year_series": {
+    "1991": {
+      "n": 2,
+      "cites": 17,
+      "max_cites": 9
+    },
+    "1992": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1993": {
+      "n": 1,
+      "cites": 38,
+      "max_cites": 38
+    },
+    "1994": {
+      "n": 2,
+      "cites": 214,
+      "max_cites": 180
+    },
+    "1995": {
+      "n": 2,
+      "cites": 355,
+      "max_cites": 345
+    },
+    "1996": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1997": {
+      "n": 2,
+      "cites": 4,
+      "max_cites": 2
+    },
+    "1998": {
+      "n": 1,
+      "cites": 66,
+      "max_cites": 66
+    },
+    "1999": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "2000": {
+      "n": 3,
+      "cites": 70,
+      "max_cites": 32
+    },
+    "2001": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2002": {
+      "n": 1,
+      "cites": 19,
+      "max_cites": 19
+    },
+    "2003": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 1,
+      "cites": 81,
+      "max_cites": 81
+    },
+    "2006": {
+      "n": 1,
+      "cites": 11,
+      "max_cites": 11
+    },
+    "2007": {
+      "n": 1,
+      "cites": 53,
+      "max_cites": 53
+    },
+    "2008": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 1,
+      "cites": 45,
+      "max_cites": 45
+    },
+    "2011": {
+      "n": 1,
+      "cites": 32,
+      "max_cites": 32
+    },
+    "2012": {
+      "n": 2,
+      "cites": 14,
+      "max_cites": 9
+    },
+    "2013": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2014": {
+      "n": 1,
+      "cites": 74,
+      "max_cites": 74
+    },
+    "2015": {
+      "n": 1,
+      "cites": 66,
+      "max_cites": 66
+    },
+    "2016": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2017": {
+      "n": 1,
+      "cites": 33,
+      "max_cites": 33
+    },
+    "2018": {
+      "n": 3,
+      "cites": 116,
+      "max_cites": 48
+    },
+    "2019": {
+      "n": 2,
+      "cites": 47,
+      "max_cites": 46
+    },
+    "2020": {
+      "n": 1,
+      "cites": 59,
+      "max_cites": 59
+    },
+    "2021": {
+      "n": 3,
+      "cites": 184,
+      "max_cites": 96
+    },
+    "2022": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "2023": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2024": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2025": {
+      "n": 2,
+      "cites": 3,
+      "max_cites": 2
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1991,
+      "end": 1995,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Kinematics",
+          "w": 0.171
+        },
+        {
+          "c": "Computer science",
+          "w": 0.143
+        },
+        {
+          "c": "Kinematic chain",
+          "w": 0.086
+        },
+        {
+          "c": "Robot",
+          "w": 0.086
+        },
+        {
+          "c": "Workspace",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.114
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.086
+        },
+        {
+          "c": "Christoffel symbols",
+          "w": 0.029
+        },
+        {
+          "c": "Holonomic constraints",
+          "w": 0.029
+        },
+        {
+          "c": "Metric (unit)",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Singularity",
+          "w": 0.05
+        },
+        {
+          "c": "Workspace",
+          "w": 0.05
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.05
+        },
+        {
+          "c": "Actuator",
+          "w": 0.05
+        },
+        {
+          "c": "Eclipse",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Humanoid robot",
+          "w": 0.1
+        },
+        {
+          "c": "Computer science",
+          "w": 0.1
+        },
+        {
+          "c": "Hidden Markov model",
+          "w": 0.05
+        },
+        {
+          "c": "Movement (music)",
+          "w": 0.05
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.16
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.08
+        },
+        {
+          "c": "Manifold (fluid mechanics)",
+          "w": 0.04
+        },
+        {
+          "c": "Tangent",
+          "w": 0.04
+        },
+        {
+          "c": "Random tree",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Inertial frame of reference",
+          "w": 0.086
+        },
+        {
+          "c": "Computer science",
+          "w": 0.086
+        },
+        {
+          "c": "Mathematics",
+          "w": 0.057
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.057
+        },
+        {
+          "c": "Robot",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.067
+        },
+        {
+          "c": "Anomaly detection",
+          "w": 0.033
+        },
+        {
+          "c": "Autoencoder",
+          "w": 0.033
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1991,
+      "end": 1995,
+      "mix": {
+        "ICRA": 5,
+        "IJRR": 2
+      }
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "ICRA": 7
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "ICRA": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "IROS": 1,
+        "T-RO": 1,
+        "ICRA": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 4,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "RA-L": 3,
+        "T-RO": 2,
+        "IROS": 1,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "RA-L": 4,
+        "T-Mech": 1,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1991,
+      "end": 1995,
+      "mean_n_authors": 2.14,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "James E. Bobrow",
+          3
+        ],
+        [
+          "Roger W. Brockett",
+          2
+        ],
+        [
+          "Daniel J. Pack",
+          1
+        ],
+        [
+          "Ann Stokes",
+          1
+        ],
+        [
+          "Scott R. Ploen",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 2.86,
+      "unique_coauthors": 10,
+      "top_coauthors": [
+        [
+          "James E. Bobrow",
+          2
+        ],
+        [
+          "Jin Wook Kim",
+          2
+        ],
+        [
+          "Munsang Kim",
+          2
+        ],
+        [
+          "Scott R. Ploen",
+          1
+        ],
+        [
+          "Cornel C. Iurascu",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 3.25,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "JongWon Kim",
+          1
+        ],
+        [
+          "Jae-Chul Hwang",
+          1
+        ],
+        [
+          "Jin-Sung Kim",
+          1
+        ],
+        [
+          "Jungyun Kim",
+          1
+        ],
+        [
+          "Yeongil I. Park",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 2.5,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Junghyun Kwon",
+          2
+        ],
+        [
+          "Juyong Park",
+          1
+        ],
+        [
+          "Jaeyoung Haan",
+          1
+        ],
+        [
+          "Bokman Lim",
+          1
+        ],
+        [
+          "Jan Babic",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 4.4,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Beobkyoon Kim",
+          2
+        ],
+        [
+          "Chansu Suh",
+          1
+        ],
+        [
+          "Terry Taewoong Um",
+          1
+        ],
+        [
+          "Hakjong Noh",
+          1
+        ],
+        [
+          "Munsang Kim",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 3,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Taeyoon Lee",
+          3
+        ],
+        [
+          "Junhyoung Ha",
+          1
+        ],
+        [
+          "Pierre E. Dupont",
+          1
+        ],
+        [
+          "Jaewoon Kwon",
+          1
+        ],
+        [
+          "Byungchul An",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 4,
+      "unique_coauthors": 14,
+      "top_coauthors": [
+        [
+          "Kyu Min Park",
+          2
+        ],
+        [
+          "Jaewoon Kwon",
+          2
+        ],
+        [
+          "Yonghyeon Lee",
+          2
+        ],
+        [
+          "Seungyeon Kim",
+          2
+        ],
+        [
+          "Younghyo Park",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.599,
+  "top_repeat_coauthors": [
+    {
+      "name": "James E. Bobrow",
+      "count": 5,
+      "first_year": 1994,
+      "last_year": 2000
+    },
+    {
+      "name": "Munsang Kim",
+      "count": 4,
+      "first_year": 2000,
+      "last_year": 2011
+    },
+    {
+      "name": "Taeyoon Lee",
+      "count": 3,
+      "first_year": 2018,
+      "last_year": 2020
+    },
+    {
+      "name": "Jaewoon Kwon",
+      "count": 3,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Roger W. Brockett",
+      "count": 2,
+      "first_year": 1993,
+      "last_year": 1994
+    },
+    {
+      "name": "Scott R. Ploen",
+      "count": 2,
+      "first_year": 1995,
+      "last_year": 1997
+    },
+    {
+      "name": "Jin Wook Kim",
+      "count": 2,
+      "first_year": 1998,
+      "last_year": 2000
+    },
+    {
+      "name": "Jungyun Kim",
+      "count": 2,
+      "first_year": 2000,
+      "last_year": 2002
+    },
+    {
+      "name": "Yeongil I. Park",
+      "count": 2,
+      "first_year": 2000,
+      "last_year": 2002
+    },
+    {
+      "name": "Bokman Lim",
+      "count": 2,
+      "first_year": 2005,
+      "last_year": 2008
+    },
+    {
+      "name": "Junghyun Kwon",
+      "count": 2,
+      "first_year": 2006,
+      "last_year": 2010
+    },
+    {
+      "name": "Beobkyoon Kim",
+      "count": 2,
+      "first_year": 2011,
+      "last_year": 2014
+    },
+    {
+      "name": "Junhyoung Ha",
+      "count": 2,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Pierre E. Dupont",
+      "count": 2,
+      "first_year": 2014,
+      "last_year": 2017
+    },
+    {
+      "name": "Jinhyuk Park",
+      "count": 2,
+      "first_year": 2019,
+      "last_year": 2021
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Taeyoon Lee",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Jaewoon Kwon",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Bokman Lim",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Junghyun Kwon",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Kyu Min Park",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Yonghyeon Lee",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Beobkyoon Kim",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Jungyun Kim",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Jin Wook Kim",
+      "student_first_year": 1998,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Junhyoung Ha",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2017
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1991,
+      2000
+    ],
+    "early_mean_n_authors": 2.5,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.46
+  },
+  "citation_half_life_years": 21.0,
+  "bursts": {
+    "productivity": [
+      2000,
+      2018,
+      2021
+    ],
+    "impact": [
+      1994,
+      1995
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 1995,
+      "venue": "IJRR",
+      "title": "A Lie Group Formulation of Robot Dynamics",
+      "cites": 345,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Lie group",
+        "Kinematics",
+        "Robot",
+        "Mathematics",
+        "Kinematic chain"
+      ],
+      "doi": "10.1177/027836499501400606",
+      "coauthors": [
+        "James E. Bobrow",
+        "Scott R. Ploen"
+      ]
+    },
+    {
+      "year": 1994,
+      "venue": "IJRR",
+      "title": "Kinematic Dexterity of Robotic Mechanisms",
+      "cites": 180,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Workspace",
+        "Kinematics",
+        "Measure (data warehouse)",
+        "Computer science",
+        "Representation (politics)"
+      ],
+      "doi": "10.1177/027836499401300101",
+      "coauthors": [
+        "Roger W. Brockett"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "Learning-Based Real-Time Detection of Robot Collisions Without Joint Torque Sensors",
+      "cites": 96,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Torque",
+        "Robot",
+        "Computer science",
+        "Joint (building)",
+        "Support vector machine"
+      ],
+      "doi": "10.1109/lra.2020.3033269",
+      "coauthors": [
+        "Kyu Min Park",
+        "Jihwan Kim",
+        "Jinhyuk Park"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "ICRA",
+      "title": "Movement Primitives, Principal Component Analysis, and the Efficient Generation of Natural Motions",
+      "cites": 81,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Basis (linear algebra)",
+        "Trajectory",
+        "Principal component analysis",
+        "Movement (music)"
+      ],
+      "doi": "10.1109/robot.2005.1570834",
+      "coauthors": [
+        "Bokman Lim",
+        "Syungkwon Ra"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "Optimizing curvature sensor placement for fast, accurate shape sensing of continuum robots",
+      "cites": 74,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Computation",
+        "Kinematics",
+        "Curvature",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2014.6907649",
+      "coauthors": [
+        "Beobkyoon Kim",
+        "Junhyoung Ha",
+        "Pierre E. Dupont"
+      ]
+    },
+    {
+      "year": 1998,
+      "venue": "ICRA",
+      "title": "Manipulability and Singularity Analysis of Multiple Robot Systems: a Geometric Approach",
+      "cites": 66,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Gravitational singularity",
+        "Kinematics",
+        "Robot end effector",
+        "Singularity",
+        "Configuration space"
+      ],
+      "doi": "10.1109/robot.1998.677224",
+      "coauthors": [
+        "Jin Wook Kim"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "T-Mech",
+      "title": "Minimizing Energy Consumption of Parallel Mechanisms via Redundant Actuation",
+      "cites": 66,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Energy consumption",
+        "Mechanism (biology)",
+        "Actuator",
+        "Computer science",
+        "Energy (signal processing)"
+      ],
+      "doi": "10.1109/tmech.2015.2401606",
+      "coauthors": [
+        "Giuk Lee",
+        "Soomin Park",
+        "Donghun Lee",
+        "Jay I. Jeong",
+        "Jongwon Kim"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "T-RO",
+      "title": "Geometric Robot Dynamic Identification: A Convex Programming Approach",
+      "cites": 59,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Convex optimization",
+        "Mathematics",
+        "Inertial frame of reference",
+        "Maxima and minima",
+        "Mathematical optimization"
+      ],
+      "doi": "10.1109/tro.2019.2926491",
+      "coauthors": [
+        "Taeyoon Lee",
+        "Patrick M. Wensing"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "T-Mech",
+      "title": "Collision Detection for Robot Manipulators Using Unsupervised Anomaly Detection Algorithms",
+      "cites": 56,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Anomaly detection",
+        "Autoencoder",
+        "Robot",
+        "Collision detection",
+        "Computer science"
+      ],
+      "doi": "10.1109/tmech.2021.3119057",
+      "coauthors": [
+        "Kyu Min Park",
+        "Younghyo Park",
+        "Sangwoong Yoon"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "T-RO",
+      "title": "Convex Optimization Algorithms for Active Balancing of Humanoid Robots",
+      "cites": 53,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Second-order cone programming",
+        "Humanoid robot",
+        "Computer science",
+        "Mathematical optimization",
+        "Convex optimization"
+      ],
+      "doi": "10.1109/tro.2007.900639",
+      "coauthors": [
+        "Juyong Park",
+        "Jaeyoung Haan"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Frank C. Park: 35년에 걸쳐 40편, 총 1,638회 인용, h=22, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1991년 \"Motion control using the product-of-exponentials kinematic equations\"으로 출발.",
+        "초기 토픽: Kinematics, Computer science, Kinematic chain. 최근 토픽: Computer science, Robot, Motion (physics). 피벗 점수 0.60 → 적극 피벗형.",
+        "저자수 평균: 초기 2.5명 → 후기 3.5명 (팀 확장).",
+        "최다 인용 논문 \"A Lie Group Formulation of Robot Dynamics\" (1995, 345회) — 커리어 초기에 위치.",
+        "제자 후보 추정 10명 — 상위: Taeyoon Lee(2018~, 본인 마지막저자 3편), Jaewoon Kwon(2018~, 본인 마지막저자 3편), Bokman Lim(2005~, 본인 마지막저자 2편)."
+      ],
+      "lessons": [
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "10명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Frank C. Park: over 35 years, 40 papers, 1,638 total cites, h=22, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1991 with \"Motion control using the product-of-exponentials kinematic equations\".",
+        "Early topics: Kinematics, Computer science, Kinematic chain. Recent topics: Computer science, Robot, Motion (physics). Pivot score 0.60 → active pivoter.",
+        "Authors per paper: early 2.5 → late 3.5 (team growth).",
+        "Peak paper \"A Lie Group Formulation of Robot Dynamics\" (1995, 345 cites) — fell in early career.",
+        "10 likely students — top: Taeyoon Lee(2018~, we last-author on 3), Jaewoon Kwon(2018~, we last-author on 3), Bokman Lim(2005~, we last-author on 2)."
+      ],
+      "lessons": [
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "10 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

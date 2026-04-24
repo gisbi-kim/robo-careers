@@ -1110,7 +1110,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Juan I. Nieto: 21년에 걸쳐 97편, 총 7,483회 인용, h=48, 500+ 블록버스터 2편.",
       "paragraphs": [
         "2003년 \"Multiple target tracking using Sequential Monte Carlo Methods and statistical data association\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"Consistency of the EKF-SLAM Algorithm\" (2006, 564회).",
@@ -1127,7 +1127,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Juan I. Nieto: over 21 years, 97 papers, 7,483 total cites, h=48, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2003 with \"Multiple target tracking using Sequential Monte Carlo Methods and statistical data association\". First 500+ cite paper came 3 years in: \"Consistency of the EKF-SLAM Algorithm\" (2006, 564 cites).",

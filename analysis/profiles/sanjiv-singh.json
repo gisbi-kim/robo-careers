@@ -1093,7 +1093,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "late-bloomer-2",
       "headline": "Sanjiv Singh: 34년에 걸쳐 69편, 총 7,492회 인용, h=36, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1986년 \"Robot path planning using intersecting convex shapes\"으로 출발. 첫 500+ 인용 논문까지 28년 걸림: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회). 1000+ 인용 논문: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회).",
@@ -1109,7 +1109,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "late-bloomer-2",
       "headline": "Sanjiv Singh: over 34 years, 69 papers, 7,492 total cites, h=36, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1986 with \"Robot path planning using intersecting convex shapes\". First 500+ cite paper came 28 years in: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites). 1000+ cite paper: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites).",

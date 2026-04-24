@@ -1,0 +1,1196 @@
+{
+  "name": "H. Jin Kim",
+  "slug": "h-jin-kim",
+  "career_stats": {
+    "first_year": 2002,
+    "last_year": 2025,
+    "span": 24,
+    "total_papers": 102,
+    "total_cites": 2840,
+    "h_index": 31,
+    "i10_index": 53,
+    "seminal_count": 0,
+    "max_cites_single_paper": 344
+  },
+  "role_distribution": {
+    "first": 2,
+    "last": 96,
+    "middle": 4
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2002,
+      "title": "Flying Robots: Modeling, Control and Decision Making"
+    },
+    "first_100cite": {
+      "year": 2012,
+      "title": "Autonomous landing of a VTOL UAV on a moving platform using image-based visual servoing",
+      "cites": 288,
+      "gap_from_first": 10
+    },
+    "peak_paper": {
+      "year": 2013,
+      "title": "Aerial manipulation using a quadrotor with a two DOF robotic arm",
+      "cites": 344
+    }
+  },
+  "year_series": {
+    "2002": {
+      "n": 1,
+      "cites": 45,
+      "max_cites": 45
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2007": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "2008": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2011": {
+      "n": 1,
+      "cites": 24,
+      "max_cites": 24
+    },
+    "2012": {
+      "n": 3,
+      "cites": 316,
+      "max_cites": 288
+    },
+    "2013": {
+      "n": 3,
+      "cites": 467,
+      "max_cites": 344
+    },
+    "2014": {
+      "n": 2,
+      "cites": 92,
+      "max_cites": 58
+    },
+    "2015": {
+      "n": 4,
+      "cites": 201,
+      "max_cites": 92
+    },
+    "2016": {
+      "n": 3,
+      "cites": 195,
+      "max_cites": 173
+    },
+    "2017": {
+      "n": 6,
+      "cites": 207,
+      "max_cites": 79
+    },
+    "2018": {
+      "n": 10,
+      "cites": 334,
+      "max_cites": 88
+    },
+    "2019": {
+      "n": 11,
+      "cites": 106,
+      "max_cites": 39
+    },
+    "2020": {
+      "n": 14,
+      "cites": 268,
+      "max_cites": 75
+    },
+    "2021": {
+      "n": 13,
+      "cites": 279,
+      "max_cites": 61
+    },
+    "2022": {
+      "n": 3,
+      "cites": 86,
+      "max_cites": 60
+    },
+    "2023": {
+      "n": 11,
+      "cites": 169,
+      "max_cites": 38
+    },
+    "2024": {
+      "n": 8,
+      "cites": 39,
+      "max_cites": 25
+    },
+    "2025": {
+      "n": 7,
+      "cites": 6,
+      "max_cites": 3
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Probabilistic logic",
+          "w": 0.2
+        },
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Control engineering",
+          "w": 0.2
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Collision avoidance",
+          "w": 0.133
+        },
+        {
+          "c": "Real-time computing",
+          "w": 0.133
+        },
+        {
+          "c": "Rendezvous",
+          "w": 0.067
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.147
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.107
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.093
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.067
+        },
+        {
+          "c": "Tracking (education)",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 54,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.152
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.063
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.056
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.052
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.052
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.166
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.097
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.048
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.041
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.034
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "IROS": 2,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 5,
+        "T-Mech": 2,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "IROS": 21,
+        "ICRA": 18,
+        "RA-L": 11,
+        "T-Mech": 3,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "RA-L": 12,
+        "ICRA": 10,
+        "IROS": 3,
+        "T-RO": 2,
+        "IJRR": 1,
+        "SoRo": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 3,
+      "unique_coauthors": 2,
+      "top_coauthors": [
+        [
+          "David Hyunchul Shim",
+          1
+        ],
+        [
+          "Shankar Sastry",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 3,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Jin-Wook Lee",
+          1
+        ],
+        [
+          "Yongsoon Yoon",
+          1
+        ],
+        [
+          "Jae Mann Park",
+          1
+        ],
+        [
+          "Shankar Sastry",
+          1
+        ],
+        [
+          "Jae Hyun Yoo",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 3.67,
+      "unique_coauthors": 27,
+      "top_coauthors": [
+        [
+          "Hyon Lim",
+          6
+        ],
+        [
+          "Suseong Kim",
+          3
+        ],
+        [
+          "Daewon Lee",
+          2
+        ],
+        [
+          "Tyler Ryan",
+          2
+        ],
+        [
+          "Woojin Kim",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 3.72,
+      "unique_coauthors": 49,
+      "top_coauthors": [
+        [
+          "Hoseong Seo",
+          17
+        ],
+        [
+          "Clark Youngdong Son",
+          9
+        ],
+        [
+          "Dongjae Lee",
+          8
+        ],
+        [
+          "Inkyu Jang",
+          8
+        ],
+        [
+          "Seung Jae Lee",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 4.1,
+      "unique_coauthors": 43,
+      "top_coauthors": [
+        [
+          "Inkyu Jang",
+          8
+        ],
+        [
+          "Jungwon Park",
+          7
+        ],
+        [
+          "Jeonghyun Byun",
+          6
+        ],
+        [
+          "Yunwoo Lee",
+          5
+        ],
+        [
+          "Dongseok Shim",
+          5
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.389,
+  "top_repeat_coauthors": [
+    {
+      "name": "Hoseong Seo",
+      "count": 20,
+      "first_year": 2015,
+      "last_year": 2023
+    },
+    {
+      "name": "Inkyu Jang",
+      "count": 16,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Dongjae Lee",
+      "count": 13,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Jungwon Park",
+      "count": 11,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Clark Youngdong Son",
+      "count": 10,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Yunwoo Lee",
+      "count": 9,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Jeonghyun Byun",
+      "count": 8,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Suseong Kim",
+      "count": 7,
+      "first_year": 2013,
+      "last_year": 2018
+    },
+    {
+      "name": "Seung Jae Lee",
+      "count": 7,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Hyon Lim",
+      "count": 6,
+      "first_year": 2012,
+      "last_year": 2015
+    },
+    {
+      "name": "Seungwon Choi",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2019
+    },
+    {
+      "name": "Changhyeon Kim",
+      "count": 6,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Dabin Kim",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Junha Kim",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Youngseok Jang",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2024
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Inkyu Jang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 16,
+      "total_copubs": 16,
+      "student_first_author_count": 4,
+      "we_last_author_count": 16,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hoseong Seo",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 15,
+      "total_copubs": 20,
+      "student_first_author_count": 4,
+      "we_last_author_count": 15,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Dongjae Lee",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 12,
+      "total_copubs": 13,
+      "student_first_author_count": 5,
+      "we_last_author_count": 12,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jungwon Park",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 11,
+      "student_first_author_count": 6,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Clark Youngdong Son",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 9,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Yunwoo Lee",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 3,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jeonghyun Byun",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 8,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Suseong Kim",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Dongseok Shim",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Dabin Kim",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Youngseok Jang",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Junha Kim",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Seung Jae Lee",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Pyojin Kim",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Hyoin Kim",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Changhyeon Kim",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Hyon Lim",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Seungwan Ryu",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Jigang Kim",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Daesol Cho",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Taewan Kim",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Haram Kim",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Woojin Kim",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Dohyun Jang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Jae Hyeon Park",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hyeonbeom Lee",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Boseong Jeon",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Sangil Lee",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Wonchul Kim",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Chungkeun Lee",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Taekbeom Lee",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jonggu Lee",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Boseong Felipe Jeon",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Jae Hyun Yoo",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Tyler Ryan",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Byeongjun Kim",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jeongjun Choi",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Seungyeon Yoo",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jongho Shin",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Daewon Lee",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2013
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2002,
+      2011
+    ],
+    "early_mean_n_authors": 3,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.83
+  },
+  "citation_half_life_years": 9.0,
+  "bursts": {
+    "productivity": [
+      2020
+    ],
+    "impact": [
+      2013
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2013,
+      "venue": "IROS",
+      "title": "Aerial manipulation using a quadrotor with a two DOF robotic arm",
+      "cites": 344,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Robotic arm",
+        "Kinematics",
+        "Controller (irrigation)",
+        "Computer science",
+        "Robot"
+      ],
+      "doi": "10.1109/iros.2013.6697077",
+      "coauthors": [
+        "Suseong Kim",
+        "Seungwon Choi"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "Autonomous landing of a VTOL UAV on a moving platform using image-based visual servoing",
+      "cites": 288,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Visual servoing",
+        "Computer vision",
+        "Artificial intelligence",
+        "Controller (irrigation)",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2012.6224828",
+      "coauthors": [
+        "Daewon Lee",
+        "Tyler Ryan"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "T-Mech",
+      "title": "Vision-Guided Aerial Manipulation Using a Multirotor With a Robotic Arm",
+      "cites": 173,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Multirotor",
+        "Underactuation",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1109/tmech.2016.2523602",
+      "coauthors": [
+        "Suseong Kim",
+        "Hoseong Seo",
+        "Seungwon Choi"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "T-Mech",
+      "title": "Fully Autonomous Vision-Based Net-Recovery Landing System for a Fixed-Wing UAV",
+      "cites": 117,
+      "n_authors": 10,
+      "role": "first",
+      "concepts": [
+        "Waypoint",
+        "Fixed wing",
+        "Process (computing)",
+        "Global Positioning System",
+        "Machine vision"
+      ],
+      "doi": "10.1109/tmech.2013.2247411",
+      "coauthors": [
+        "Mingu Kim",
+        "Hyon Lim",
+        "Chul-Woo Park",
+        "Seungho Yoon",
+        "Daewon Lee",
+        "Hyun‐Jin Choi",
+        "Gyeongtaek Oh",
+        "Jongho Park",
+        "Youdan Kim"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Operating an unknown drawer using an aerial manipulator",
+      "cites": 92,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Multirotor",
+        "Closing (real estate)",
+        "Parallel manipulator",
+        "Manipulator (device)",
+        "Robot end effector"
+      ],
+      "doi": "10.1109/icra.2015.7139968",
+      "coauthors": [
+        "Suseong Kim",
+        "Hoseong Seo"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Low-Drift Visual Odometry in Structured Environments by Decoupling Rotational and Translational Motion",
+      "cites": 88,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Visual odometry",
+        "Artificial intelligence",
+        "Odometry",
+        "Computer vision",
+        "Motion estimation"
+      ],
+      "doi": "10.1109/icra.2018.8463207",
+      "coauthors": [
+        "Pyojin Kim",
+        "Brian Coltin"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Aerial grasping of cylindrical object using visual servoing based on stochastic model predictive control",
+      "cites": 79,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Visual servoing",
+        "Computer vision",
+        "Artificial intelligence",
+        "Model predictive control",
+        "Object (grammar)"
+      ],
+      "doi": "10.1109/icra.2017.7989751",
+      "coauthors": [
+        "Hoseong Seo",
+        "Suseong Kim"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "T-Mech",
+      "title": "Cooperative Aerial Manipulation Using Multirotors With Multi-DOF Robotic Arms",
+      "cites": 77,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Multirotor",
+        "Control theory (sociology)",
+        "Control engineering",
+        "Observer (physics)",
+        "Computer science"
+      ],
+      "doi": "10.1109/tmech.2018.2792318",
+      "coauthors": [
+        "Suseong Kim",
+        "Hoseong Seo",
+        "Jongho Shin"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "Multi-Robot Active Sensing and Environmental Model Learning With Distributed Gaussian Process",
+      "cites": 75,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Gaussian process",
+        "Construct (python library)",
+        "Computer science",
+        "Process (computing)"
+      ],
+      "doi": "10.1109/lra.2020.3010456",
+      "coauthors": [
+        "Dohyun Jang",
+        "Jaehyun Yoo",
+        "Clark Youngdong Son",
+        "Dabin Kim"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "Online Trajectory Planning for Multiple Quadrotors in Dynamic Environments Using Relative Safe Flight Corridor",
+      "cites": 61,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Robustness (evolution)",
+        "Trajectory",
+        "Collision avoidance",
+        "Computer science",
+        "Simulation"
+      ],
+      "doi": "10.1109/lra.2020.3047786",
+      "coauthors": [
+        "Jungwon Park"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak",
+      "headline": "H. Jin Kim: 24년에 걸쳐 102편, 총 2,840회 인용, h=31, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "2002년 \"Flying Robots: Modeling, Control and Decision Making\"으로 출발.",
+        "초기 토픽: Probabilistic logic, Robot, Trajectory. 최근 토픽: Computer science, Artificial intelligence, Trajectory. 피벗 점수 0.39 → 점진적 이동형.",
+        "저자수 평균: 초기 3.0명 → 후기 3.8명 (팀 확장).",
+        "최다 인용 논문 \"Aerial manipulation using a quadrotor with a two DOF robotic arm\" (2013, 344회) — 커리어 중기에 위치.",
+        "제자 후보 추정 40명 — 상위: Inkyu Jang(2020~, 본인 마지막저자 16편), Hoseong Seo(2015~, 본인 마지막저자 15편), Dongjae Lee(2019~, 본인 마지막저자 12편)."
+      ],
+      "lessons": [
+        "40명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak",
+      "headline": "H. Jin Kim: over 24 years, 102 papers, 2,840 total cites, h=31, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2002 with \"Flying Robots: Modeling, Control and Decision Making\".",
+        "Early topics: Probabilistic logic, Robot, Trajectory. Recent topics: Computer science, Artificial intelligence, Trajectory. Pivot score 0.39 → gradual shift.",
+        "Authors per paper: early 3.0 → late 3.8 (team growth).",
+        "Peak paper \"Aerial manipulation using a quadrotor with a two DOF robotic arm\" (2013, 344 cites) — fell in mid career.",
+        "40 likely students — top: Inkyu Jang(2020~, we last-author on 16), Hoseong Seo(2015~, we last-author on 15), Dongjae Lee(2019~, we last-author on 12)."
+      ],
+      "lessons": [
+        "40 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

@@ -918,7 +918,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "early-blockbuster",
+      "archetype": "early-blockbuster-3",
       "headline": "Lerrel Pinto: 10년에 걸쳐 28편, 총 2,208회 인용, h=15, 500+ 블록버스터 1편.",
       "paragraphs": [
         "2016년 \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095회). 1000+ 인용 논문: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095회).",
@@ -932,7 +932,7 @@
       ]
     },
     "en": {
-      "archetype": "early-blockbuster",
+      "archetype": "early-blockbuster-3",
       "headline": "Lerrel Pinto: over 10 years, 28 papers, 2,208 total cites, h=15, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2016 with \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\". First 500+ cite paper came 0 years in: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095 cites). 1000+ cite paper: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095 cites).",

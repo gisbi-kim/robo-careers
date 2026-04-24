@@ -1238,7 +1238,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak",
+      "archetype": "mid-career-peak-2",
       "headline": "Jan Peters: 21년에 걸쳐 181편, 총 9,888회 인용, h=45, 500+ 블록버스터 2편.",
       "paragraphs": [
         "2005년 \"A unifying methodology for the control of robotic systems\"으로 출발. 첫 500+ 인용 논문까지 1년 걸림: \"Policy Gradient Methods for Robotics\" (2006, 516회). 1000+ 인용 논문: \"Reinforcement learning in robotics: A survey\" (2013, 3,017회).",
@@ -1256,7 +1256,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak",
+      "archetype": "mid-career-peak-2",
       "headline": "Jan Peters: over 21 years, 181 papers, 9,888 total cites, h=45, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2005 with \"A unifying methodology for the control of robotic systems\". First 500+ cite paper came 1 years in: \"Policy Gradient Methods for Robotics\" (2006, 516 cites). 1000+ cite paper: \"Reinforcement learning in robotics: A survey\" (2013, 3,017 cites).",

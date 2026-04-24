@@ -985,7 +985,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "steady-producer",
+      "archetype": "late-bloomer",
       "headline": "Jia Pan: 16년에 걸쳐 108편, 총 5,657회 인용, h=34, 500+ 블록버스터 4편.",
       "paragraphs": [
         "2010년 \"Efficient nearest-neighbor computation for GPU-based motion planning\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"FCL: A general purpose library for collision and proximity queries\" (2012, 532회).",
@@ -1002,7 +1002,7 @@
       ]
     },
     "en": {
-      "archetype": "steady-producer",
+      "archetype": "late-bloomer",
       "headline": "Jia Pan: over 16 years, 108 papers, 5,657 total cites, h=34, 4 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2010 with \"Efficient nearest-neighbor computation for GPU-based motion planning\". First 500+ cite paper came 2 years in: \"FCL: A general purpose library for collision and proximity queries\" (2012, 532 cites).",

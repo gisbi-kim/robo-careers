@@ -1,0 +1,1151 @@
+{
+  "name": "Jee-Hwan Ryu",
+  "slug": "jee-hwan-ryu",
+  "career_stats": {
+    "first_year": 1999,
+    "last_year": 2025,
+    "span": 27,
+    "total_papers": 83,
+    "total_cites": 2961,
+    "h_index": 29,
+    "i10_index": 54,
+    "seminal_count": 0,
+    "max_cites_single_paper": 387
+  },
+  "role_distribution": {
+    "first": 14,
+    "middle": 15,
+    "last": 54
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1999,
+      "title": "A Robust Controller Design Method for a Flexible Manipulator with a Time Varying Payload and Parameter Uncertainties"
+    },
+    "first_100cite": {
+      "year": 2004,
+      "title": "Sampled- and continuous-time passivity and stability of virtual environments",
+      "cites": 115,
+      "gap_from_first": 5
+    },
+    "peak_paper": {
+      "year": 2004,
+      "title": "Stable teleoperation with time-domain passivity control",
+      "cites": 387
+    }
+  },
+  "year_series": {
+    "1999": {
+      "n": 1,
+      "cites": 9,
+      "max_cites": 9
+    },
+    "2000": {
+      "n": 2,
+      "cites": 32,
+      "max_cites": 30
+    },
+    "2001": {
+      "n": 2,
+      "cites": 130,
+      "max_cites": 74
+    },
+    "2002": {
+      "n": 2,
+      "cites": 37,
+      "max_cites": 30
+    },
+    "2003": {
+      "n": 3,
+      "cites": 158,
+      "max_cites": 69
+    },
+    "2004": {
+      "n": 3,
+      "cites": 576,
+      "max_cites": 387
+    },
+    "2005": {
+      "n": 2,
+      "cites": 27,
+      "max_cites": 22
+    },
+    "2006": {
+      "n": 1,
+      "cites": 20,
+      "max_cites": 20
+    },
+    "2007": {
+      "n": 2,
+      "cites": 115,
+      "max_cites": 72
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 3,
+      "cites": 91,
+      "max_cites": 34
+    },
+    "2011": {
+      "n": 1,
+      "cites": 62,
+      "max_cites": 62
+    },
+    "2012": {
+      "n": 2,
+      "cites": 54,
+      "max_cites": 30
+    },
+    "2013": {
+      "n": 4,
+      "cites": 267,
+      "max_cites": 156
+    },
+    "2014": {
+      "n": 1,
+      "cites": 42,
+      "max_cites": 42
+    },
+    "2015": {
+      "n": 5,
+      "cites": 42,
+      "max_cites": 16
+    },
+    "2016": {
+      "n": 4,
+      "cites": 333,
+      "max_cites": 184
+    },
+    "2017": {
+      "n": 6,
+      "cites": 103,
+      "max_cites": 32
+    },
+    "2018": {
+      "n": 4,
+      "cites": 79,
+      "max_cites": 47
+    },
+    "2019": {
+      "n": 6,
+      "cites": 441,
+      "max_cites": 377
+    },
+    "2020": {
+      "n": 7,
+      "cites": 145,
+      "max_cites": 51
+    },
+    "2021": {
+      "n": 3,
+      "cites": 32,
+      "max_cites": 29
+    },
+    "2022": {
+      "n": 4,
+      "cites": 86,
+      "max_cites": 47
+    },
+    "2023": {
+      "n": 5,
+      "cites": 27,
+      "max_cites": 9
+    },
+    "2024": {
+      "n": 9,
+      "cites": 52,
+      "max_cites": 14
+    },
+    "2025": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.2
+        },
+        {
+          "c": "Passivity",
+          "w": 0.12
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.08
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.08
+        },
+        {
+          "c": "Computer science",
+          "w": 0.06
+        }
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Passivity",
+          "w": 0.2
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.2
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.175
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.05
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.16
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.14
+        },
+        {
+          "c": "Passivity",
+          "w": 0.1
+        },
+        {
+          "c": "Actuator",
+          "w": 0.06
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.12
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.1
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.08
+        },
+        {
+          "c": "Actuator",
+          "w": 0.06
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.06
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.104
+        },
+        {
+          "c": "Actuator",
+          "w": 0.096
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.08
+        },
+        {
+          "c": "String (physics)",
+          "w": 0.056
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.048
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 10,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.18
+        },
+        {
+          "c": "Robot",
+          "w": 0.12
+        },
+        {
+          "c": "Mechanism (biology)",
+          "w": 0.04
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.04
+        },
+        {
+          "c": "Soft robotics",
+          "w": 0.04
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 4
+      }
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "T-RO": 5,
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "IROS": 7,
+        "T-Mech": 2,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "IROS": 12,
+        "ICRA": 6,
+        "T-Mech": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "ICRA": 10,
+        "RA-L": 8,
+        "IROS": 4,
+        "T-RO": 1,
+        "IJRR": 1,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "RA-L": 4,
+        "ICRA": 2,
+        "T-RO": 1,
+        "SoRo": 1,
+        "IROS": 1,
+        "T-Mech": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1999,
+      "end": 2003,
+      "mean_n_authors": 3.1,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Dong-Soo Kwon",
+          6
+        ],
+        [
+          "Blake Hannaford",
+          6
+        ],
+        [
+          "Pan-Mook Lee",
+          2
+        ],
+        [
+          "Carsten Preusche",
+          2
+        ],
+        [
+          "Gerd Hirzinger",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 3.5,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Blake Hannaford",
+          5
+        ],
+        [
+          "Dong-Soo Kwon",
+          4
+        ],
+        [
+          "Jong-Hwan Kim",
+          4
+        ],
+        [
+          "Yong-Duk Kim",
+          2
+        ],
+        [
+          "Bum-Joo Lee",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 4.4,
+      "unique_coauthors": 25,
+      "top_coauthors": [
+        [
+          "Ildar Farkhatdinov",
+          3
+        ],
+        [
+          "Dmitry Popov",
+          3
+        ],
+        [
+          "Igor Gaponov",
+          3
+        ],
+        [
+          "Jordi Artigas",
+          2
+        ],
+        [
+          "Carsten Preusche",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 4.2,
+      "unique_coauthors": 29,
+      "top_coauthors": [
+        [
+          "Igor Gaponov",
+          7
+        ],
+        [
+          "Aghil Jafari",
+          6
+        ],
+        [
+          "Muhammad Nabeel",
+          4
+        ],
+        [
+          "Usman Mehmood",
+          4
+        ],
+        [
+          "Ribin Balachandran",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 3.96,
+      "unique_coauthors": 54,
+      "top_coauthors": [
+        [
+          "Igor Gaponov",
+          7
+        ],
+        [
+          "Simeon Nedelchev",
+          4
+        ],
+        [
+          "Harsimran Singh",
+          3
+        ],
+        [
+          "Nam Gyun Kim",
+          3
+        ],
+        [
+          "Aghil Jafari",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 3.6,
+      "unique_coauthors": 19,
+      "top_coauthors": [
+        [
+          "Nam Gyun Kim",
+          4
+        ],
+        [
+          "Shinwoo Park",
+          3
+        ],
+        [
+          "Dongoh Seo",
+          3
+        ],
+        [
+          "Sangmin Lee",
+          1
+        ],
+        [
+          "Shubhranil Sengupta",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.298,
+  "top_repeat_coauthors": [
+    {
+      "name": "Igor Gaponov",
+      "count": 17,
+      "first_year": 2012,
+      "last_year": 2021
+    },
+    {
+      "name": "Blake Hannaford",
+      "count": 12,
+      "first_year": 2001,
+      "last_year": 2010
+    },
+    {
+      "name": "Dong-Soo Kwon",
+      "count": 10,
+      "first_year": 1999,
+      "last_year": 2005
+    },
+    {
+      "name": "Aghil Jafari",
+      "count": 8,
+      "first_year": 2015,
+      "last_year": 2022
+    },
+    {
+      "name": "Nam Gyun Kim",
+      "count": 7,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Dmitry Popov",
+      "count": 6,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Carsten Preusche",
+      "count": 5,
+      "first_year": 2003,
+      "last_year": 2011
+    },
+    {
+      "name": "Jordi Artigas",
+      "count": 5,
+      "first_year": 2010,
+      "last_year": 2017
+    },
+    {
+      "name": "Usman Mehmood",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Harsimran Singh",
+      "count": 5,
+      "first_year": 2015,
+      "last_year": 2022
+    },
+    {
+      "name": "Ribin Balachandran",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Simeon Nedelchev",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2021
+    },
+    {
+      "name": "Jong-Hwan Kim",
+      "count": 4,
+      "first_year": 2005,
+      "last_year": 2007
+    },
+    {
+      "name": "Muhammad Nabeel",
+      "count": 4,
+      "first_year": 2015,
+      "last_year": 2017
+    },
+    {
+      "name": "Muhammad Usman",
+      "count": 4,
+      "first_year": 2017,
+      "last_year": 2018
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Blake Hannaford",
+      "advisor_active_from": 1987,
+      "early_copubs_as_our_first_author": 7,
+      "advisor_last_author_count": 6,
+      "total_copubs": 12
+    },
+    {
+      "name": "Dong-Soo Kwon",
+      "advisor_active_from": 1994,
+      "early_copubs_as_our_first_author": 7,
+      "advisor_last_author_count": 1,
+      "total_copubs": 10
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Igor Gaponov",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 17,
+      "student_first_author_count": 1,
+      "we_last_author_count": 8,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Aghil Jafari",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 7,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Dmitry Popov",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Nam Gyun Kim",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Simeon Nedelchev",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 5,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Harsimran Singh",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Muhammad Usman",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Muhammad Nabeel",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Bhivraj Suthar",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Dongoh Seo",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sang-Goo Jeong",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Vitalii Pruks",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Ha Van Quang",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Seungjoon Baek",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ildar Farkhatdinov",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Jaehyung Jang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "HyeonSeok Seong",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Ji Hun Kim",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Sangmin Lee",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ribin Balachandran",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Yong-Duk Kim",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Jordi Artigas",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Mikael Jorda",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1999,
+      2008
+    ],
+    "early_mean_n_authors": 3.28,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 4.04
+  },
+  "citation_half_life_years": 13,
+  "bursts": {
+    "productivity": [
+      2024
+    ],
+    "impact": [
+      2004,
+      2019
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2004,
+      "venue": "T-RO",
+      "title": "Stable teleoperation with time-domain passivity control",
+      "cites": 387,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Teleoperation",
+        "Passivity",
+        "Control theory (sociology)",
+        "Observer (physics)",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/tra.2004.824689",
+      "coauthors": [
+        "Dong-Soo Kwon",
+        "Blake Hannaford"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "T-RO",
+      "title": "Robotic Artificial Muscles: Current Progress and Future Perspectives",
+      "cites": 377,
+      "n_authors": 9,
+      "role": "middle",
+      "concepts": [
+        "Artificial muscle",
+        "Robot",
+        "Actuator",
+        "Artificial intelligence",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2019.2894371",
+      "coauthors": [
+        "Jun Zhang",
+        "Jun Sheng",
+        "Ciarán T. O&apos",
+        "Neill",
+        "Conor J. Walsh",
+        "Robert J. Wood",
+        "Jaydev P. Desai",
+        "Michael C. Yip"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "T-Mech",
+      "title": "Portable Exoskeleton Glove With Soft Structure for Hand Assistance in Activities of Daily Living",
+      "cites": 184,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Exoskeleton",
+        "Wearable computer",
+        "Wired glove",
+        "Simulation",
+        "Kinematics"
+      ],
+      "doi": "10.1109/tmech.2016.2641932",
+      "coauthors": [
+        "Dmitry Popov",
+        "Igor Gaponov"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "T-Mech",
+      "title": "Twisted String Actuation Systems: A Study of the Mathematical Model and a Comparison of Twisted Strings",
+      "cites": 156,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "String (physics)",
+        "Actuator",
+        "Computer science",
+        "Simple (philosophy)",
+        "Mathematical model"
+      ],
+      "doi": "10.1109/tmech.2013.2280964",
+      "coauthors": [
+        "Igor Gaponov",
+        "Dmitry Popov"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "T-RO",
+      "title": "Sampled- and continuous-time passivity and stability of virtual environments",
+      "cites": 115,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Passivity",
+        "Control theory (sociology)",
+        "Haptic technology",
+        "Stability (learning theory)",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/tro.2004.829453",
+      "coauthors": [
+        "Yoon Sang Kim",
+        "Blake Hannaford"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "ICRA",
+      "title": "KONTUR-2: Force-feedback teleoperation from the international space station",
+      "cites": 108,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Teleoperation",
+        "International Space Station",
+        "Haptic technology",
+        "Computer science",
+        "Space (punctuation)"
+      ],
+      "doi": "10.1109/icra.2016.7487246",
+      "coauthors": [
+        "Jordi Artigas",
+        "Ribin Balachandran",
+        "Cornelia Riecke",
+        "Martin Stelzer",
+        "Bernhard M. Weber",
+        "Alin Albu-Schäffer"
+      ]
+    },
+    {
+      "year": 2001,
+      "venue": "ICRA",
+      "title": "Time Domain Passivity Control of Haptic Interface",
+      "cites": 74,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Passivity",
+        "Haptic technology",
+        "Control theory (sociology)",
+        "Dissipative system",
+        "Computer science"
+      ],
+      "doi": "10.1109/robot.2001.932880",
+      "coauthors": [
+        "Blake Hannaford"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "T-RO",
+      "title": "Control of a flexible manipulator with noncollocated feedback: time-domain passivity approach",
+      "cites": 74,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Passivity",
+        "Control theory (sociology)",
+        "Control engineering",
+        "Domain (mathematical analysis)",
+        "Control (management)"
+      ],
+      "doi": "10.1109/tro.2004.829454",
+      "coauthors": [
+        "Dong-Soo Kwon",
+        "Blake Hannaford"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "ICRA",
+      "title": "Stable Bilateral Control of Teleoperators Under Time-varying Communication Delay: Time Domain Passivity Approach",
+      "cites": 72,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Passivity",
+        "Teleoperation",
+        "Control theory (sociology)",
+        "Port (circuit theory)",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/robot.2007.364015",
+      "coauthors": [
+        "Carsten Preusche"
+      ]
+    },
+    {
+      "year": 2003,
+      "venue": "ICRA",
+      "title": "Sampled and continuous time passivity and stability of virtual environments",
+      "cites": 69,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Passivity",
+        "Control theory (sociology)",
+        "Controller (irrigation)",
+        "Stability (learning theory)",
+        "Haptic technology"
+      ],
+      "doi": "10.1109/robot.2003.1241695",
+      "coauthors": [
+        "Yoon Sang Kim",
+        "Blake Hannaford"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Jee-Hwan Ryu: 27년에 걸쳐 83편, 총 2,961회 인용, h=29, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1999년 \"A Robust Controller Design Method for a Flexible Manipulator with a Time Varying Payload and Parameter Uncertainties\"으로 출발.",
+        "초기 토픽: Control theory (sociology), Passivity, Controller (irrigation). 최근 토픽: Computer science, Robot, Mechanism (biology). 피벗 점수 0.30 → 점진적 이동형.",
+        "저자수 평균: 초기 3.3명 → 후기 4.0명 (팀 확장).",
+        "최다 인용 논문 \"Stable teleoperation with time-domain passivity control\" (2004, 387회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Blake Hannaford, Dong-Soo Kwon. 제자 후보 추정 23명 — 상위: Igor Gaponov(2012~, 본인 마지막저자 8편), Aghil Jafari(2015~, 본인 마지막저자 7편), Dmitry Popov(2012~, 본인 마지막저자 6편)."
+      ],
+      "lessons": [
+        "23명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Blake Hannaford — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Jee-Hwan Ryu: over 27 years, 83 papers, 2,961 total cites, h=29, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1999 with \"A Robust Controller Design Method for a Flexible Manipulator with a Time Varying Payload and Parameter Uncertainties\".",
+        "Early topics: Control theory (sociology), Passivity, Controller (irrigation). Recent topics: Computer science, Robot, Mechanism (biology). Pivot score 0.30 → gradual shift.",
+        "Authors per paper: early 3.3 → late 4.0 (team growth).",
+        "Peak paper \"Stable teleoperation with time-domain passivity control\" (2004, 387 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Blake Hannaford, Dong-Soo Kwon. 23 likely students — top: Igor Gaponov(2012~, we last-author on 8), Aghil Jafari(2015~, we last-author on 7), Dmitry Popov(2012~, we last-author on 6)."
+      ],
+      "lessons": [
+        "23 likely students — mentoring is the real impact.",
+        "Likely advisor: Blake Hannaford — started within their PhD network."
+      ]
+    }
+  }
+}

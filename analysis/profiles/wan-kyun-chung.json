@@ -1,0 +1,1380 @@
+{
+  "name": "Wan Kyun Chung",
+  "slug": "wan-kyun-chung",
+  "career_stats": {
+    "first_year": 1991,
+    "last_year": 2025,
+    "span": 35,
+    "total_papers": 184,
+    "total_cites": 3655,
+    "h_index": 30,
+    "i10_index": 86,
+    "seminal_count": 0,
+    "max_cites_single_paper": 273
+  },
+  "role_distribution": {
+    "middle": 80,
+    "first": 1,
+    "last": 103
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1991,
+      "title": "Inverse kinematics of planar redundant manipulators using virtual link and displacement distribution schemes"
+    },
+    "first_100cite": {
+      "year": 1998,
+      "title": "Disturbance Observer Based Force Control of Robot Manipulator without Force Sensor",
+      "cites": 160,
+      "gap_from_first": 7
+    },
+    "peak_paper": {
+      "year": 2008,
+      "title": "Unscented FastSLAM: A Robust and Efficient Solution to the SLAM Problem",
+      "cites": 273
+    }
+  },
+  "year_series": {
+    "1991": {
+      "n": 2,
+      "cites": 18,
+      "max_cites": 13
+    },
+    "1992": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "1993": {
+      "n": 2,
+      "cites": 15,
+      "max_cites": 10
+    },
+    "1994": {
+      "n": 3,
+      "cites": 36,
+      "max_cites": 22
+    },
+    "1995": {
+      "n": 1,
+      "cites": 14,
+      "max_cites": 14
+    },
+    "1996": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "1997": {
+      "n": 4,
+      "cites": 149,
+      "max_cites": 69
+    },
+    "1998": {
+      "n": 4,
+      "cites": 194,
+      "max_cites": 160
+    },
+    "1999": {
+      "n": 4,
+      "cites": 148,
+      "max_cites": 98
+    },
+    "2000": {
+      "n": 7,
+      "cites": 81,
+      "max_cites": 19
+    },
+    "2001": {
+      "n": 11,
+      "cites": 179,
+      "max_cites": 68
+    },
+    "2002": {
+      "n": 11,
+      "cites": 349,
+      "max_cites": 98
+    },
+    "2003": {
+      "n": 8,
+      "cites": 164,
+      "max_cites": 58
+    },
+    "2004": {
+      "n": 6,
+      "cites": 73,
+      "max_cites": 33
+    },
+    "2005": {
+      "n": 11,
+      "cites": 299,
+      "max_cites": 141
+    },
+    "2006": {
+      "n": 8,
+      "cites": 110,
+      "max_cites": 40
+    },
+    "2007": {
+      "n": 9,
+      "cites": 164,
+      "max_cites": 46
+    },
+    "2008": {
+      "n": 7,
+      "cites": 340,
+      "max_cites": 273
+    },
+    "2009": {
+      "n": 7,
+      "cites": 131,
+      "max_cites": 42
+    },
+    "2010": {
+      "n": 4,
+      "cites": 24,
+      "max_cites": 16
+    },
+    "2011": {
+      "n": 2,
+      "cites": 29,
+      "max_cites": 18
+    },
+    "2012": {
+      "n": 4,
+      "cites": 41,
+      "max_cites": 29
+    },
+    "2013": {
+      "n": 2,
+      "cites": 30,
+      "max_cites": 25
+    },
+    "2014": {
+      "n": 5,
+      "cites": 133,
+      "max_cites": 96
+    },
+    "2015": {
+      "n": 9,
+      "cites": 247,
+      "max_cites": 132
+    },
+    "2016": {
+      "n": 12,
+      "cites": 85,
+      "max_cites": 23
+    },
+    "2017": {
+      "n": 4,
+      "cites": 23,
+      "max_cites": 8
+    },
+    "2018": {
+      "n": 5,
+      "cites": 83,
+      "max_cites": 57
+    },
+    "2019": {
+      "n": 6,
+      "cites": 282,
+      "max_cites": 179
+    },
+    "2020": {
+      "n": 8,
+      "cites": 127,
+      "max_cites": 32
+    },
+    "2021": {
+      "n": 2,
+      "cites": 17,
+      "max_cites": 14
+    },
+    "2022": {
+      "n": 4,
+      "cites": 32,
+      "max_cites": 18
+    },
+    "2023": {
+      "n": 1,
+      "cites": 8,
+      "max_cites": 8
+    },
+    "2024": {
+      "n": 6,
+      "cites": 21,
+      "max_cites": 10
+    },
+    "2025": {
+      "n": 3,
+      "cites": 2,
+      "max_cites": 2
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1991,
+      "end": 1995,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.133
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.089
+        },
+        {
+          "c": "Computer science",
+          "w": 0.089
+        },
+        {
+          "c": "Redundancy (engineering)",
+          "w": 0.067
+        },
+        {
+          "c": "Jacobian matrix and determinant",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.16
+        },
+        {
+          "c": "Computer science",
+          "w": 0.09
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.04
+        },
+        {
+          "c": "Impedance control",
+          "w": 0.04
+        },
+        {
+          "c": "Robot",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "n_papers": 47,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.102
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.098
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.043
+        },
+        {
+          "c": "Inverse",
+          "w": 0.021
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.017
+        }
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 35,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.137
+        },
+        {
+          "c": "Sonar",
+          "w": 0.069
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.034
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.034
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.034
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 22,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.082
+        },
+        {
+          "c": "Computer science",
+          "w": 0.073
+        },
+        {
+          "c": "Nonlinear system",
+          "w": 0.036
+        },
+        {
+          "c": "Torque",
+          "w": 0.027
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.018
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 35,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.106
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.082
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.053
+        },
+        {
+          "c": "Robot",
+          "w": 0.047
+        },
+        {
+          "c": "Actuator",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.062
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.05
+        },
+        {
+          "c": "Compensation (psychology)",
+          "w": 0.05
+        },
+        {
+          "c": "Computer science",
+          "w": 0.05
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1991,
+      "end": 1995,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 4
+      }
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mix": {
+        "ICRA": 15,
+        "IROS": 4,
+        "T-Mech": 1
+      }
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mix": {
+        "IROS": 23,
+        "ICRA": 18,
+        "T-Mech": 3,
+        "T-RO": 3
+      }
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "ICRA": 16,
+        "IROS": 15,
+        "T-RO": 4
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "IROS": 11,
+        "ICRA": 9,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "RA-L": 11,
+        "IROS": 9,
+        "ICRA": 8,
+        "T-Mech": 6,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "IROS": 5,
+        "T-RO": 3,
+        "ICRA": 3,
+        "T-Mech": 3,
+        "RA-L": 2
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1991,
+      "end": 1995,
+      "mean_n_authors": 3.11,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Youngil Youm",
+          9
+        ],
+        [
+          "Won Jee Chung",
+          4
+        ],
+        [
+          "Hyouk Ryeol Choi",
+          2
+        ],
+        [
+          "Jonghoon Park",
+          2
+        ],
+        [
+          "Yonghwan Oh",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1996,
+      "end": 2000,
+      "mean_n_authors": 3.25,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Youngil Youm",
+          17
+        ],
+        [
+          "Yonghwan Oh",
+          5
+        ],
+        [
+          "Jonghoon Park",
+          4
+        ],
+        [
+          "Il Hong Suh",
+          4
+        ],
+        [
+          "Doik Kim",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2001,
+      "end": 2005,
+      "mean_n_authors": 3.45,
+      "unique_coauthors": 42,
+      "top_coauthors": [
+        [
+          "Youngil Youm",
+          22
+        ],
+        [
+          "Jonghoon Park",
+          9
+        ],
+        [
+          "Jinhyun Kim",
+          8
+        ],
+        [
+          "Junku Yuh",
+          7
+        ],
+        [
+          "Nakju Lett Doh",
+          6
+        ]
+      ]
+    },
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 3.34,
+      "unique_coauthors": 37,
+      "top_coauthors": [
+        [
+          "Keehoon Kim",
+          7
+        ],
+        [
+          "Minyong Choi",
+          7
+        ],
+        [
+          "Jinwoo Choi",
+          6
+        ],
+        [
+          "Kyoungmin Lee",
+          6
+        ],
+        [
+          "Chanki Kim",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 3.23,
+      "unique_coauthors": 30,
+      "top_coauthors": [
+        [
+          "Minjun Kim",
+          7
+        ],
+        [
+          "Hyoungkyun Kim",
+          3
+        ],
+        [
+          "Seong Sik Park",
+          3
+        ],
+        [
+          "Jinwoo Choi",
+          2
+        ],
+        [
+          "Young Jin Park",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 3.83,
+      "unique_coauthors": 36,
+      "top_coauthors": [
+        [
+          "Woongyong Lee",
+          16
+        ],
+        [
+          "Keehoon Kim",
+          7
+        ],
+        [
+          "Minjae Kim",
+          6
+        ],
+        [
+          "Daegil Park",
+          5
+        ],
+        [
+          "Kyungmin Kwak",
+          5
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 3.69,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Donghyeon Lee",
+          8
+        ],
+        [
+          "Dongwoo Ko",
+          8
+        ],
+        [
+          "Keehoon Kim",
+          7
+        ],
+        [
+          "Jonghyeok Kim",
+          4
+        ],
+        [
+          "Hyung Gon Shin",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.306,
+  "top_repeat_coauthors": [
+    {
+      "name": "Youngil Youm",
+      "count": 48,
+      "first_year": 1991,
+      "last_year": 2005
+    },
+    {
+      "name": "Keehoon Kim",
+      "count": 24,
+      "first_year": 2003,
+      "last_year": 2024
+    },
+    {
+      "name": "Jonghoon Park",
+      "count": 19,
+      "first_year": 1994,
+      "last_year": 2025
+    },
+    {
+      "name": "Woongyong Lee",
+      "count": 18,
+      "first_year": 2015,
+      "last_year": 2024
+    },
+    {
+      "name": "Jinhyun Kim",
+      "count": 17,
+      "first_year": 2000,
+      "last_year": 2018
+    },
+    {
+      "name": "Il Hong Suh",
+      "count": 12,
+      "first_year": 1998,
+      "last_year": 2016
+    },
+    {
+      "name": "Donghyeon Lee",
+      "count": 12,
+      "first_year": 2016,
+      "last_year": 2024
+    },
+    {
+      "name": "Minjun Kim",
+      "count": 11,
+      "first_year": 2011,
+      "last_year": 2024
+    },
+    {
+      "name": "Jinwoo Choi",
+      "count": 9,
+      "first_year": 2005,
+      "last_year": 2012
+    },
+    {
+      "name": "Youngjin Choi",
+      "count": 8,
+      "first_year": 1997,
+      "last_year": 2025
+    },
+    {
+      "name": "Nakju Lett Doh",
+      "count": 8,
+      "first_year": 2000,
+      "last_year": 2006
+    },
+    {
+      "name": "Minyong Choi",
+      "count": 8,
+      "first_year": 2006,
+      "last_year": 2012
+    },
+    {
+      "name": "Dongwoo Ko",
+      "count": 8,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "Yonghwan Oh",
+      "count": 7,
+      "first_year": 1994,
+      "last_year": 2012
+    },
+    {
+      "name": "Sang-Rok Oh",
+      "count": 7,
+      "first_year": 1998,
+      "last_year": 2008
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Woongyong Lee",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 17,
+      "total_copubs": 18,
+      "student_first_author_count": 7,
+      "we_last_author_count": 16,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Minjun Kim",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 11,
+      "student_first_author_count": 7,
+      "we_last_author_count": 9,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jinwoo Choi",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 9,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Minyong Choi",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Young Jin Heo",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Chanki Kim",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Sunkyum Yoo",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Minjae Kim",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 6,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Dongwoo Ko",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 4,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "SungHwan Ahn",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2007
+    },
+    {
+      "name": "Seong Sik Park",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Jonghyeok Kim",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Junsu Kang",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Keehoon Kim",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 24,
+      "student_first_author_count": 7,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Nakju Lett Doh",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 3,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Daegil Park",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Kyoungmin Lee",
+      "student_first_year": 2003,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Kyungmin Kwak",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Young Jin Park",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Hyoungkyun Kim",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Byungjae Park",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Jung-Suk Lee",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2010
+    },
+    {
+      "name": "Seokho Nam",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Jinhyun Kim",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 17,
+      "student_first_author_count": 7,
+      "we_last_author_count": 2,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Joono Cheong",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 6,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "SangJoo Kwon",
+      "student_first_year": 2000,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 2,
+      "last_copub_year": 2002
+    },
+    {
+      "name": "Donghyeon Lee",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Giacomo Marani",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Jonghui Han",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Hyung Gon Shin",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Bong Keun Kim",
+      "student_first_year": 2001,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 1,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Youngjin Choi",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 8,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sungon Lee",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2003
+    },
+    {
+      "name": "Ikjong Park",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Jongwon Lee",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Doik Kim",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Kyongho Park",
+      "student_first_year": 2002,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2004
+    },
+    {
+      "name": "Se-Jin Lee",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Jinwook Huh",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2006
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1991,
+      2000
+    ],
+    "early_mean_n_authors": 3.21,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.78
+  },
+  "citation_half_life_years": 20,
+  "bursts": {
+    "productivity": [
+      2016
+    ],
+    "impact": [
+      2002,
+      2008
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2008,
+      "venue": "T-RO",
+      "title": "Unscented FastSLAM: A Robust and Efficient Solution to the SLAM Problem",
+      "cites": 273,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Jacobian matrix and determinant",
+        "Unscented transform",
+        "Benchmark (surveying)",
+        "Particle filter",
+        "Kalman filter"
+      ],
+      "doi": "10.1109/tro.2008.924946",
+      "coauthors": [
+        "Chanki Kim",
+        "R. Sakthivel"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Collision Detection for Industrial Collaborative Robots: A Deep Learning Approach",
+      "cites": 179,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Collision",
+        "Computer science",
+        "Robot",
+        "Collision detection",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/lra.2019.2893400",
+      "coauthors": [
+        "Young Jin Heo",
+        "Dayeon Kim",
+        "Woongyong Lee",
+        "Hyoungkyun Kim",
+        "Jonghoon Park"
+      ]
+    },
+    {
+      "year": 1998,
+      "venue": "ICRA",
+      "title": "Disturbance Observer Based Force Control of Robot Manipulator without Force Sensor",
+      "cites": 160,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Control theory (sociology)",
+        "Torque",
+        "Observer (physics)",
+        "Robot",
+        "Estimator"
+      ],
+      "doi": "10.1109/robot.1998.680888",
+      "coauthors": [
+        "Kwang Sik Eom",
+        "Il Hong Suh",
+        "Sang-Rok Oh"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "T-RO",
+      "title": "Geometric integration on Euclidean group with application to articulated multibody systems",
+      "cites": 141,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Lie group",
+        "Mathematics",
+        "Multibody system",
+        "Euclidean group",
+        "Quaternion"
+      ],
+      "doi": "10.1109/tro.2005.852253",
+      "coauthors": [
+        "Jonghoon Park"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "T-RO",
+      "title": "Disturbance-Observer-Based PD Control of Flexible Joint Robots for Asymptotic Convergence",
+      "cites": 132,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Control theory (sociology)",
+        "Convergence (economics)",
+        "Robot",
+        "Control engineering",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/tro.2015.2477957",
+      "coauthors": [
+        "Minjun Kim"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "T-Mech",
+      "title": "Disturbance-observer-based motion control of redundant manipulators using inertially decoupled dynamics",
+      "cites": 98,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Control theory (sociology)",
+        "Motion control",
+        "Observer (physics)",
+        "Null (SQL)",
+        "Motion (physics)"
+      ],
+      "doi": "10.1109/3516.769540",
+      "coauthors": [
+        "Yonghwan Oh"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "Real-Time ZMP Compensation Method using Null Motion for Mobile Manipulators",
+      "cites": 98,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Null (SQL)",
+        "Compensation (psychology)",
+        "Control theory (sociology)",
+        "Computer science",
+        "Motion compensation"
+      ],
+      "doi": "10.1109/robot.2002.1014829",
+      "coauthors": [
+        "Jinhyun Kim",
+        "Youngil Youm",
+        "Beom Hee Lee"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "Outdoor place recognition in urban environments using straight lines",
+      "cites": 96,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision",
+        "Line segment",
+        "Line (geometry)"
+      ],
+      "doi": "10.1109/icra.2014.6907675",
+      "coauthors": [
+        "Jin Han Lee",
+        "Sehyung Lee",
+        "Guoxuan Zhang",
+        "Jongwoo Lim",
+        "Il Hong Suh"
+      ]
+    },
+    {
+      "year": 2002,
+      "venue": "ICRA",
+      "title": "A Real-Time Approach for Singularity Avoidance in Resolved Motion Rate Control of Robotic Manipulators",
+      "cites": 85,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Singularity",
+        "Trajectory",
+        "Control theory (sociology)",
+        "Measure (data warehouse)",
+        "Gravitational singularity"
+      ],
+      "doi": "10.1109/robot.2002.1014830",
+      "coauthors": [
+        "Giacomo Marani",
+        "Jinhyun Kim",
+        "Junku Yuh"
+      ]
+    },
+    {
+      "year": 1997,
+      "venue": "ICRA",
+      "title": "Task based design of modular robot manipulator using efficient genetic algorithm",
+      "cites": 69,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Modular design",
+        "Decoupling (probability)",
+        "Robot",
+        "Computer science",
+        "Genetic algorithm"
+      ],
+      "doi": "10.1109/robot.1997.620087",
+      "coauthors": [
+        "Jeongheon Han",
+        "Youngil Youm",
+        "Seungho Kim"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "steady-producer",
+      "headline": "Wan Kyun Chung: 35년에 걸쳐 184편, 총 3,655회 인용, h=30, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1991년 \"Inverse kinematics of planar redundant manipulators using virtual link and displacement distribution schemes\"으로 출발.",
+        "초기 토픽: Control theory (sociology), Kinematics, Computer science. 최근 토픽: Control theory (sociology), Robot, Teleoperation. 피벗 점수 0.31 → 점진적 이동형.",
+        "저자수 평균: 초기 3.2명 → 후기 3.8명 (팀 확장).",
+        "최다 인용 논문 \"Unscented FastSLAM: A Robust and Efficient Solution to the SLAM Problem\" (2008, 273회) — 커리어 중기에 위치.",
+        "제자 후보 추정 39명 — 상위: Woongyong Lee(2015~, 본인 마지막저자 16편), Minjun Kim(2011~, 본인 마지막저자 9편), Jinwoo Choi(2005~, 본인 마지막저자 7편)."
+      ],
+      "lessons": [
+        "39명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "steady-producer",
+      "headline": "Wan Kyun Chung: over 35 years, 184 papers, 3,655 total cites, h=30, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1991 with \"Inverse kinematics of planar redundant manipulators using virtual link and displacement distribution schemes\".",
+        "Early topics: Control theory (sociology), Kinematics, Computer science. Recent topics: Control theory (sociology), Robot, Teleoperation. Pivot score 0.31 → gradual shift.",
+        "Authors per paper: early 3.2 → late 3.8 (team growth).",
+        "Peak paper \"Unscented FastSLAM: A Robust and Efficient Solution to the SLAM Problem\" (2008, 273 cites) — fell in mid career.",
+        "39 likely students — top: Woongyong Lee(2015~, we last-author on 16), Minjun Kim(2011~, we last-author on 9), Jinwoo Choi(2005~, we last-author on 7)."
+      ],
+      "lessons": [
+        "39 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

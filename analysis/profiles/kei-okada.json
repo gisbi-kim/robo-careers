@@ -1480,7 +1480,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Kei Okada: 28년에 걸쳐 224편, 총 3,949회 인용, h=33, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1998년 \"A vision-based legged robot as a research platform\"으로 출발.",
@@ -1497,7 +1497,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Kei Okada: over 28 years, 224 papers, 3,949 total cites, h=33, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1998 with \"A vision-based legged robot as a research platform\".",

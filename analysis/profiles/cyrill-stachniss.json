@@ -1323,7 +1323,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "steady-producer",
+      "archetype": "early-blockbuster",
       "headline": "Cyrill Stachniss: 24년에 걸쳐 221편, 총 16,710회 인용, h=55, 500+ 블록버스터 5편.",
       "paragraphs": [
         "2002년 \"An integrated approach to goal-directed obstacle avoidance under dynamic constraints for dynamic environments\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"Coordinated multi-robot exploration\" (2005, 1,143회). 1000+ 인용 논문: \"Coordinated multi-robot exploration\" (2005, 1,143회).",
@@ -1340,7 +1340,7 @@
       ]
     },
     "en": {
-      "archetype": "steady-producer",
+      "archetype": "early-blockbuster",
       "headline": "Cyrill Stachniss: over 24 years, 221 papers, 16,710 total cites, h=55, 5 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2002 with \"An integrated approach to goal-directed obstacle avoidance under dynamic constraints for dynamic environments\". First 500+ cite paper came 3 years in: \"Coordinated multi-robot exploration\" (2005, 1,143 cites). 1000+ cite paper: \"Coordinated multi-robot exploration\" (2005, 1,143 cites).",

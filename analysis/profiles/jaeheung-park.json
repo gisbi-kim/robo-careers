@@ -1,0 +1,996 @@
+{
+  "name": "Jaeheung Park",
+  "slug": "jaeheung-park",
+  "career_stats": {
+    "first_year": 2003,
+    "last_year": 2025,
+    "span": 23,
+    "total_papers": 58,
+    "total_cites": 1534,
+    "h_index": 20,
+    "i10_index": 29,
+    "seminal_count": 0,
+    "max_cites_single_paper": 306
+  },
+  "role_distribution": {
+    "middle": 13,
+    "first": 4,
+    "last": 41
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2003,
+      "title": "Real-time adaptive control for haptic manipulation with Active Observers"
+    },
+    "first_100cite": {
+      "year": 2006,
+      "title": "A Haptic Teleoperation Approach Based on Contact Force Control",
+      "cites": 123,
+      "gap_from_first": 3
+    },
+    "peak_paper": {
+      "year": 2010,
+      "title": "Compliant Control of Multicontact and Center-of-Mass Behaviors in Humanoid Robots",
+      "cites": 306
+    }
+  },
+  "year_series": {
+    "2003": {
+      "n": 1,
+      "cites": 28,
+      "max_cites": 28
+    },
+    "2004": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "2005": {
+      "n": 2,
+      "cites": 31,
+      "max_cites": 28
+    },
+    "2006": {
+      "n": 3,
+      "cites": 316,
+      "max_cites": 123
+    },
+    "2007": {
+      "n": 2,
+      "cites": 79,
+      "max_cites": 42
+    },
+    "2008": {
+      "n": 1,
+      "cites": 36,
+      "max_cites": 36
+    },
+    "2009": {
+      "n": 1,
+      "cites": 14,
+      "max_cites": 14
+    },
+    "2010": {
+      "n": 1,
+      "cites": 306,
+      "max_cites": 306
+    },
+    "2011": {
+      "n": 1,
+      "cites": 9,
+      "max_cites": 9
+    },
+    "2012": {
+      "n": 1,
+      "cites": 88,
+      "max_cites": 88
+    },
+    "2013": {
+      "n": 1,
+      "cites": 33,
+      "max_cites": 33
+    },
+    "2014": {
+      "n": 1,
+      "cites": 7,
+      "max_cites": 7
+    },
+    "2015": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2016": {
+      "n": 1,
+      "cites": 20,
+      "max_cites": 20
+    },
+    "2017": {
+      "n": 1,
+      "cites": 7,
+      "max_cites": 7
+    },
+    "2018": {
+      "n": 3,
+      "cites": 63,
+      "max_cites": 40
+    },
+    "2019": {
+      "n": 4,
+      "cites": 79,
+      "max_cites": 58
+    },
+    "2020": {
+      "n": 4,
+      "cites": 108,
+      "max_cites": 63
+    },
+    "2021": {
+      "n": 3,
+      "cites": 45,
+      "max_cites": 33
+    },
+    "2022": {
+      "n": 9,
+      "cites": 166,
+      "max_cites": 40
+    },
+    "2023": {
+      "n": 7,
+      "cites": 63,
+      "max_cites": 17
+    },
+    "2024": {
+      "n": 2,
+      "cites": 9,
+      "max_cites": 7
+    },
+    "2025": {
+      "n": 8,
+      "cites": 12,
+      "max_cites": 6
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.156
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.111
+        },
+        {
+          "c": "Haptic technology",
+          "w": 0.089
+        },
+        {
+          "c": "Kalman filter",
+          "w": 0.067
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.044
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.12
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.08
+        },
+        {
+          "c": "Contact force",
+          "w": 0.08
+        },
+        {
+          "c": "GRASP",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Robot",
+          "w": 0.15
+        },
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Actuator",
+          "w": 0.1
+        },
+        {
+          "c": "Spiral (railway)",
+          "w": 0.05
+        },
+        {
+          "c": "Spring (device)",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 23,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.13
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.104
+        },
+        {
+          "c": "Robot",
+          "w": 0.096
+        },
+        {
+          "c": "Torque",
+          "w": 0.07
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.035
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.146
+        },
+        {
+          "c": "Robot",
+          "w": 0.061
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.049
+        },
+        {
+          "c": "Torque",
+          "w": 0.049
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.049
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 3,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "ICRA": 2,
+        "T-RO": 2,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "IROS": 2,
+        "T-Mech": 1,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "ICRA": 7,
+        "RA-L": 6,
+        "IROS": 4,
+        "T-Mech": 3,
+        "T-RO": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 4,
+        "RA-L": 3,
+        "IJRR": 2,
+        "T-Mech": 2,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 2.78,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Oussama Khatib",
+          9
+        ],
+        [
+          "Rui Cortesão",
+          4
+        ],
+        [
+          "Irene Sardellitti",
+          1
+        ],
+        [
+          "Dongjun Shin",
+          1
+        ],
+        [
+          "Anna Petrovskaya",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 3.2,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Oussama Khatib",
+          3
+        ],
+        [
+          "Luis Sentis",
+          2
+        ],
+        [
+          "Jaemin Lee",
+          2
+        ],
+        [
+          "Nicolas Mansard",
+          2
+        ],
+        [
+          "Peter Thaulad",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 3.5,
+      "unique_coauthors": 10,
+      "top_coauthors": [
+        [
+          "Yongtae Kim",
+          1
+        ],
+        [
+          "Jimin Lee",
+          1
+        ],
+        [
+          "Yongtae G. Kim",
+          1
+        ],
+        [
+          "Manolo Garabini",
+          1
+        ],
+        [
+          "Antonio Bicchi",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 3.96,
+      "unique_coauthors": 43,
+      "top_coauthors": [
+        [
+          "Yisoo Lee",
+          4
+        ],
+        [
+          "Keunwoo Jang",
+          4
+        ],
+        [
+          "Suhan Park",
+          4
+        ],
+        [
+          "Daegyu Lim",
+          4
+        ],
+        [
+          "Donghyeon Kim",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 3.82,
+      "unique_coauthors": 29,
+      "top_coauthors": [
+        [
+          "Myeong-Ju Kim",
+          5
+        ],
+        [
+          "Eunho Sung",
+          4
+        ],
+        [
+          "Daegyu Lim",
+          4
+        ],
+        [
+          "Gyeongjae Park",
+          3
+        ],
+        [
+          "Junhyeok Cha",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.389,
+  "top_repeat_coauthors": [
+    {
+      "name": "Oussama Khatib",
+      "count": 13,
+      "first_year": 2003,
+      "last_year": 2022
+    },
+    {
+      "name": "Daegyu Lim",
+      "count": 8,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Donghyeon Kim",
+      "count": 6,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Myeong-Ju Kim",
+      "count": 6,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Keunwoo Jang",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Suhan Park",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2024
+    },
+    {
+      "name": "Eunho Sung",
+      "count": 5,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Rui Cortesão",
+      "count": 4,
+      "first_year": 2003,
+      "last_year": 2006
+    },
+    {
+      "name": "Yisoo Lee",
+      "count": 4,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Gyeongjae Park",
+      "count": 4,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Seungbin You",
+      "count": 4,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Luis Sentis",
+      "count": 3,
+      "first_year": 2009,
+      "last_year": 2022
+    },
+    {
+      "name": "Sanghyun Kim",
+      "count": 3,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Jaesug Jung",
+      "count": 3,
+      "first_year": 2019,
+      "last_year": 2022
+    },
+    {
+      "name": "Seungyeon Kim",
+      "count": 3,
+      "first_year": 2020,
+      "last_year": 2023
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Oussama Khatib",
+      "advisor_active_from": 1985,
+      "early_copubs_as_our_first_author": 4,
+      "advisor_last_author_count": 4,
+      "total_copubs": 13
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Myeong-Ju Kim",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Daegyu Lim",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Donghyeon Kim",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Keunwoo Jang",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Suhan Park",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Eunho Sung",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Yisoo Lee",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Seungbin You",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Gyeongjae Park",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jaesug Jung",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Seungyeon Kim",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Sanghyun Kim",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jaemin Lee",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Mingon Kim",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Haeseong Lee",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hosang Lee",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2003,
+      2012
+    ],
+    "early_mean_n_authors": 2.93,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.88
+  },
+  "citation_half_life_years": 16.0,
+  "bursts": {
+    "productivity": [
+      2022,
+      2025
+    ],
+    "impact": [
+      2006,
+      2010
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2010,
+      "venue": "T-RO",
+      "title": "Compliant Control of Multicontact and Center-of-Mass Behaviors in Humanoid Robots",
+      "cites": 306,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "GRASP",
+        "Humanoid robot",
+        "Robot",
+        "Contact force",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/tro.2010.2043757",
+      "coauthors": [
+        "Luis Sentis",
+        "Oussama Khatib"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "IJRR",
+      "title": "A Haptic Teleoperation Approach Based on Contact Force Control",
+      "cites": 123,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Teleoperation",
+        "Contact force",
+        "Haptic technology",
+        "Control theory (sociology)",
+        "Control engineering"
+      ],
+      "doi": "10.1177/0278364906065385",
+      "coauthors": [
+        "Oussama Khatib"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Contact Consistent Control Framework for Humanoid Robots",
+      "cites": 101,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Humanoid robot",
+        "Robot",
+        "Computer science",
+        "Control (management)",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/robot.2006.1641993",
+      "coauthors": [
+        "Oussama Khatib"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "T-RO",
+      "title": "Real-time adaptive control for haptic telemanipulation with Kalman active observers",
+      "cites": 92,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Haptic technology",
+        "Kalman filter",
+        "Control theory (sociology)",
+        "Robustness (evolution)",
+        "Stiffness"
+      ],
+      "doi": "10.1109/tro.2006.878787",
+      "coauthors": [
+        "Rui Cortesão",
+        "Oussama Khatib"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "T-RO",
+      "title": "Intermediate Desired Value Approach for Task Transition of Robots in Kinematic Control",
+      "cites": 88,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Task (project management)",
+        "Robot",
+        "Kinematics",
+        "Computer science",
+        "Schedule"
+      ],
+      "doi": "10.1109/tro.2012.2210293",
+      "coauthors": [
+        "Jaemin Lee",
+        "Nicolas Mansard"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "Compliant Peg-in-Hole Assembly Using Partial Spiral Force Trajectory With Tilted Peg Posture",
+      "cites": 63,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Trajectory",
+        "Spiral (railway)",
+        "Standard deviation",
+        "Torque",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/lra.2020.3000428",
+      "coauthors": [
+        "Hyeonjun Park",
+        "Dong-Hyuk Lee",
+        "Jae-Han Park",
+        "Ji-Hun Bae"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Continuous Task Transition Approach for Robot Controller Based on Hierarchical Quadratic Programming",
+      "cites": 58,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Task (project management)",
+        "Robot",
+        "Quadratic programming",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/lra.2019.2896769",
+      "coauthors": [
+        "Sanghyun Kim",
+        "Keunwoo Jang",
+        "Suhan Park",
+        "Yisoo Lee",
+        "Sang Yup Lee"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "IROS",
+      "title": "Air muscle controller design in the distributed macro-mini (DM2) actuation approach",
+      "cites": 42,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Testbed",
+        "Macro",
+        "Actuator",
+        "Torque",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2007.4399073",
+      "coauthors": [
+        "Irene Sardellitti",
+        "Dongjun Shin",
+        "Oussama Khatib"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "The Hierarchical Operational Space Formulation: Stability Analysis for the Regulation Case",
+      "cites": 40,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Jacobian matrix and determinant",
+        "Control theory (sociology)",
+        "Robotics",
+        "Stability (learning theory)",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1109/lra.2018.2792154",
+      "coauthors": [
+        "Alexander Dietrich",
+        "Christian Ott"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "T-RO",
+      "title": "Transferable Collision Detection Learning for Collaborative Manipulator Using Versatile Modularized Neural Network",
+      "cites": 40,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Collision",
+        "Computer science",
+        "Artificial intelligence",
+        "Robot",
+        "Artificial neural network"
+      ],
+      "doi": "10.1109/tro.2021.3129630",
+      "coauthors": [
+        "Donghyeon Kim",
+        "Daegyu Lim"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Jaeheung Park: 23년에 걸쳐 58편, 총 1,534회 인용, h=20, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "2003년 \"Real-time adaptive control for haptic manipulation with Active Observers\"으로 출발.",
+        "초기 토픽: Computer science, Control theory (sociology), Haptic technology. 최근 토픽: Computer science, Robot, Humanoid robot. 피벗 점수 0.39 → 점진적 이동형.",
+        "저자수 평균: 초기 2.9명 → 후기 3.9명 (팀 확장).",
+        "최다 인용 논문 \"Compliant Control of Multicontact and Center-of-Mass Behaviors in Humanoid Robots\" (2010, 306회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Oussama Khatib. 제자 후보 추정 16명 — 상위: Myeong-Ju Kim(2022~, 본인 마지막저자 6편), Daegyu Lim(2019~, 본인 마지막저자 6편), Donghyeon Kim(2019~, 본인 마지막저자 6편)."
+      ],
+      "lessons": [
+        "16명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Oussama Khatib — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Jaeheung Park: over 23 years, 58 papers, 1,534 total cites, h=20, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2003 with \"Real-time adaptive control for haptic manipulation with Active Observers\".",
+        "Early topics: Computer science, Control theory (sociology), Haptic technology. Recent topics: Computer science, Robot, Humanoid robot. Pivot score 0.39 → gradual shift.",
+        "Authors per paper: early 2.9 → late 3.9 (team growth).",
+        "Peak paper \"Compliant Control of Multicontact and Center-of-Mass Behaviors in Humanoid Robots\" (2010, 306 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Oussama Khatib. 16 likely students — top: Myeong-Ju Kim(2022~, we last-author on 6), Daegyu Lim(2019~, we last-author on 6), Donghyeon Kim(2019~, we last-author on 6)."
+      ],
+      "lessons": [
+        "16 likely students — mentoring is the real impact.",
+        "Likely advisor: Oussama Khatib — started within their PhD network."
+      ]
+    }
+  }
+}

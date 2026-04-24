@@ -989,7 +989,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak",
+      "archetype": "early-blockbuster",
       "headline": "Giorgio Grisetti: 24년에 걸쳐 74편, 총 9,588회 인용, h=34, 500+ 블록버스터 4편.",
       "paragraphs": [
         "2002년 \"Global Hough Localization for Mobile Robots in Polygonal Environments\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling\" (2005, 732회). 1000+ 인용 논문: \"Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters\" (2007, 2,397회).",
@@ -1005,7 +1005,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak",
+      "archetype": "early-blockbuster",
       "headline": "Giorgio Grisetti: over 24 years, 74 papers, 9,588 total cites, h=34, 4 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2002 with \"Global Hough Localization for Mobile Robots in Polygonal Environments\". First 500+ cite paper came 3 years in: \"Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling\" (2005, 732 cites). 1000+ cite paper: \"Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters\" (2007, 2,397 cites).",

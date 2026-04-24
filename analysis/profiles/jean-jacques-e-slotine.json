@@ -1183,7 +1183,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Jean-Jacques E. Slotine: 41년에 걸쳐 58편, 총 4,714회 인용, h=29, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1985년 \"Robustness issues in robot control\"으로 출발. 첫 500+ 인용 논문까지 19년 걸림: \"Telemanipulation with Time Delays\" (2004, 534회).",
@@ -1199,7 +1199,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Jean-Jacques E. Slotine: over 41 years, 58 papers, 4,714 total cites, h=29, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1985 with \"Robustness issues in robot control\". First 500+ cite paper came 19 years in: \"Telemanipulation with Time Delays\" (2004, 534 cites).",

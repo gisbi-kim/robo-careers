@@ -994,7 +994,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Marc Pollefeys: 28년에 걸쳐 70편, 총 4,911회 인용, h=36, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1998년 \"Flexible 3D Acquisition with a Monocular Camera\"으로 출발. 첫 500+ 인용 논문까지 17년 걸림: \"PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms\" (2015, 689회).",
@@ -1009,7 +1009,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Marc Pollefeys: over 28 years, 70 papers, 4,911 total cites, h=36, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1998 with \"Flexible 3D Acquisition with a Monocular Camera\". First 500+ cite paper came 17 years in: \"PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms\" (2015, 689 cites).",

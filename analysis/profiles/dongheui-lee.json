@@ -1,0 +1,998 @@
+{
+  "name": "Dongheui Lee",
+  "slug": "dongheui-lee",
+  "career_stats": {
+    "first_year": 2003,
+    "last_year": 2025,
+    "span": 23,
+    "total_papers": 82,
+    "total_cites": 2342,
+    "h_index": 26,
+    "i10_index": 57,
+    "seminal_count": 0,
+    "max_cites_single_paper": 278
+  },
+  "role_distribution": {
+    "first": 15,
+    "middle": 20,
+    "last": 47
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2003,
+      "title": "Autonomous map building and smart localization of the service robot PSR"
+    },
+    "first_100cite": {
+      "year": 2012,
+      "title": "Incremental learning of full body motion primitives and their sequencing through human motion observation",
+      "cites": 221,
+      "gap_from_first": 9
+    },
+    "peak_paper": {
+      "year": 2017,
+      "title": "RGB-D SLAM in Dynamic Environments Using Static Point Weighting",
+      "cites": 278
+    }
+  },
+  "year_series": {
+    "2003": {
+      "n": 2,
+      "cites": 53,
+      "max_cites": 34
+    },
+    "2004": {
+      "n": 1,
+      "cites": 5,
+      "max_cites": 5
+    },
+    "2005": {
+      "n": 2,
+      "cites": 27,
+      "max_cites": 20
+    },
+    "2006": {
+      "n": 1,
+      "cites": 25,
+      "max_cites": 25
+    },
+    "2007": {
+      "n": 2,
+      "cites": 33,
+      "max_cites": 26
+    },
+    "2008": {
+      "n": 2,
+      "cites": 34,
+      "max_cites": 19
+    },
+    "2009": {
+      "n": 3,
+      "cites": 40,
+      "max_cites": 19
+    },
+    "2010": {
+      "n": 3,
+      "cites": 154,
+      "max_cites": 81
+    },
+    "2011": {
+      "n": 5,
+      "cites": 156,
+      "max_cites": 85
+    },
+    "2012": {
+      "n": 7,
+      "cites": 461,
+      "max_cites": 221
+    },
+    "2013": {
+      "n": 4,
+      "cites": 70,
+      "max_cites": 29
+    },
+    "2014": {
+      "n": 4,
+      "cites": 97,
+      "max_cites": 46
+    },
+    "2015": {
+      "n": 6,
+      "cites": 136,
+      "max_cites": 50
+    },
+    "2016": {
+      "n": 3,
+      "cites": 75,
+      "max_cites": 34
+    },
+    "2017": {
+      "n": 4,
+      "cites": 386,
+      "max_cites": 278
+    },
+    "2018": {
+      "n": 3,
+      "cites": 63,
+      "max_cites": 30
+    },
+    "2019": {
+      "n": 6,
+      "cites": 189,
+      "max_cites": 60
+    },
+    "2020": {
+      "n": 4,
+      "cites": 37,
+      "max_cites": 15
+    },
+    "2021": {
+      "n": 1,
+      "cites": 83,
+      "max_cites": 83
+    },
+    "2022": {
+      "n": 5,
+      "cites": 99,
+      "max_cites": 50
+    },
+    "2023": {
+      "n": 7,
+      "cites": 90,
+      "max_cites": 23
+    },
+    "2024": {
+      "n": 4,
+      "cites": 20,
+      "max_cites": 9
+    },
+    "2025": {
+      "n": 3,
+      "cites": 9,
+      "max_cites": 5
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.075
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.075
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.075
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.08
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.07
+        },
+        {
+          "c": "Motion (physics)",
+          "w": 0.07
+        },
+        {
+          "c": "Robot",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.162
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.105
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.067
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.038
+        },
+        {
+          "c": "Humanoid robot",
+          "w": 0.038
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.152
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.076
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.065
+        },
+        {
+          "c": "Robot",
+          "w": 0.043
+        },
+        {
+          "c": "Workspace",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.215
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.092
+        },
+        {
+          "c": "Robot",
+          "w": 0.062
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.046
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.031
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "IROS": 12,
+        "ICRA": 5,
+        "IJRR": 3
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "ICRA": 9,
+        "IROS": 8,
+        "RA-L": 3,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "RA-L": 7,
+        "IROS": 5,
+        "ICRA": 5,
+        "T-RO": 2
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "RA-L": 6,
+        "IROS": 4,
+        "ICRA": 3,
+        "RSS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2003,
+      "end": 2007,
+      "mean_n_authors": 2.38,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Woojin Chung",
+          4
+        ],
+        [
+          "Yoshihiko Nakamura",
+          4
+        ],
+        [
+          "Munsang Kim",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 3.7,
+      "unique_coauthors": 27,
+      "top_coauthors": [
+        [
+          "Yoshihiko Nakamura",
+          9
+        ],
+        [
+          "Sandra Hirche",
+          7
+        ],
+        [
+          "Christian Ott",
+          5
+        ],
+        [
+          "Jose Ramon Medina",
+          4
+        ],
+        [
+          "Dana Kulic",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 3.1,
+      "unique_coauthors": 21,
+      "top_coauthors": [
+        [
+          "Matteo Saveriano",
+          7
+        ],
+        [
+          "Seong-Yong Koo",
+          4
+        ],
+        [
+          "Christian Ott",
+          4
+        ],
+        [
+          "Pietro Falco",
+          4
+        ],
+        [
+          "Dong-Soo Kwon",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 3.68,
+      "unique_coauthors": 38,
+      "top_coauthors": [
+        [
+          "Matteo Saveriano",
+          7
+        ],
+        [
+          "Thomas Eiband",
+          3
+        ],
+        [
+          "Christian Ott",
+          2
+        ],
+        [
+          "Pietro Falco",
+          2
+        ],
+        [
+          "Christoph Willibald",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 3.93,
+      "unique_coauthors": 31,
+      "top_coauthors": [
+        [
+          "Youssef Michel",
+          4
+        ],
+        [
+          "Daniel Sliwowski",
+          3
+        ],
+        [
+          "Hyemin Ahn",
+          2
+        ],
+        [
+          "Esteve Valls Mascaro",
+          2
+        ],
+        [
+          "Matteo Saveriano",
+          2
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.161,
+  "top_repeat_coauthors": [
+    {
+      "name": "Matteo Saveriano",
+      "count": 16,
+      "first_year": 2013,
+      "last_year": 2024
+    },
+    {
+      "name": "Yoshihiko Nakamura",
+      "count": 13,
+      "first_year": 2005,
+      "last_year": 2012
+    },
+    {
+      "name": "Christian Ott",
+      "count": 12,
+      "first_year": 2009,
+      "last_year": 2024
+    },
+    {
+      "name": "Sandra Hirche",
+      "count": 7,
+      "first_year": 2011,
+      "last_year": 2012
+    },
+    {
+      "name": "Pietro Falco",
+      "count": 6,
+      "first_year": 2016,
+      "last_year": 2019
+    },
+    {
+      "name": "Youssef Michel",
+      "count": 6,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Woojin Chung",
+      "count": 4,
+      "first_year": 2003,
+      "last_year": 2005
+    },
+    {
+      "name": "Jose Ramon Medina",
+      "count": 4,
+      "first_year": 2011,
+      "last_year": 2012
+    },
+    {
+      "name": "Seong-Yong Koo",
+      "count": 4,
+      "first_year": 2013,
+      "last_year": 2015
+    },
+    {
+      "name": "Sang-ik An",
+      "count": 4,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "Shile Li",
+      "count": 4,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Thomas Eiband",
+      "count": 4,
+      "first_year": 2019,
+      "last_year": 2023
+    },
+    {
+      "name": "Hyemin Ahn",
+      "count": 4,
+      "first_year": 2022,
+      "last_year": 2023
+    },
+    {
+      "name": "Munsang Kim",
+      "count": 3,
+      "first_year": 2003,
+      "last_year": 2004
+    },
+    {
+      "name": "Dana Kulic",
+      "count": 3,
+      "first_year": 2008,
+      "last_year": 2012
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Yoshihiko Nakamura",
+      "advisor_active_from": 1987,
+      "early_copubs_as_our_first_author": 6,
+      "advisor_last_author_count": 6,
+      "total_copubs": 13
+    },
+    {
+      "name": "Munsang Kim",
+      "advisor_active_from": 1998,
+      "early_copubs_as_our_first_author": 3,
+      "advisor_last_author_count": 3,
+      "total_copubs": 3
+    },
+    {
+      "name": "Woojin Chung",
+      "advisor_active_from": 1994,
+      "early_copubs_as_our_first_author": 4,
+      "advisor_last_author_count": 1,
+      "total_copubs": 4
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Matteo Saveriano",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 16,
+      "student_first_author_count": 4,
+      "we_last_author_count": 7,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Youssef Michel",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Shile Li",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Thomas Eiband",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Hyemin Ahn",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Kai Hu",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Christoph Willibald",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sang-ik An",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Esteve Valls Mascaro",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Daniel Sliwowski",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Shail Jadav",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Seong-Yong Koo",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Vasiliki Koropouli",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Jose Ramon Medina",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Hirotoshi Kunori",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2009
+    },
+    {
+      "name": "Martin Lawitzky",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2012
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2003,
+      2012
+    ],
+    "early_mean_n_authors": 3.32,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.77
+  },
+  "citation_half_life_years": 11.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2012,
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2017,
+      "venue": "RA-L",
+      "title": "RGB-D SLAM in Dynamic Environments Using Static Point Weighting",
+      "cites": 278,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Weighting",
+        "Computer science",
+        "Visual odometry"
+      ],
+      "doi": "10.1109/lra.2017.2724759",
+      "coauthors": [
+        "Shile Li"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "Incremental learning of full body motion primitives and their sequencing through human motion observation",
+      "cites": 221,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Motion (physics)",
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Motion capture"
+      ],
+      "doi": "10.1177/0278364911426178",
+      "coauthors": [
+        "Dana Kulic",
+        "Christian Ott",
+        "Junichi Ishikawa",
+        "Yoshihiko Nakamura"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IROS",
+      "title": "Real-time human motion tracking using multiple depth cameras",
+      "cites": 112,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Tracking (education)",
+        "Point cloud"
+      ],
+      "doi": "10.1109/iros.2012.6385968",
+      "coauthors": [
+        "Licong Zhang",
+        "Jürgen Sturm",
+        "Daniel Cremers"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "IROS",
+      "title": "An experience-driven robotic assistant acquiring human knowledge to improve haptic cooperation",
+      "cites": 85,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Task (project management)",
+        "Human–computer interaction",
+        "Robot",
+        "Haptic technology"
+      ],
+      "doi": "10.1109/iros.2011.6095026",
+      "coauthors": [
+        "Jose Ramon Medina",
+        "Martin Lawitzky",
+        "Alexander Mortl",
+        "Sandra Hirche"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "Bilateral Teleoperation With Adaptive Impedance Control for Contact Tasks",
+      "cites": 83,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Teleoperation",
+        "Impedance control",
+        "Stiffness",
+        "Passivity",
+        "Control engineering"
+      ],
+      "doi": "10.1109/lra.2021.3066974",
+      "coauthors": [
+        "Youssef Michel",
+        "Rahaf Rahal",
+        "Claudio Pacchierotti",
+        "Paolo Robuffo Giordano"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IJRR",
+      "title": "Mimetic Communication Model with Compliant Physical Contact in Human - Humanoid Interaction",
+      "cites": 81,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Humanoid robot",
+        "Imitation",
+        "Robot",
+        "Computer science",
+        "Motion (physics)"
+      ],
+      "doi": "10.1177/0278364910364164",
+      "coauthors": [
+        "Christian Ott",
+        "Yoshihiko Nakamura"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "Risk-Sensitive Optimal Feedback Control for Haptic Assistance",
+      "cites": 78,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Probabilistic logic",
+        "Haptic technology",
+        "Human–robot interaction",
+        "Computer science",
+        "Virtual reality"
+      ],
+      "doi": "10.1109/icra.2012.6225085",
+      "coauthors": [
+        "Jose Ramon Medina",
+        "Sandra Hirche"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "IROS",
+      "title": "Learning Barrier Functions for Constrained Motion Planning with Dynamical Systems",
+      "cites": 60,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Workspace",
+        "Trajectory",
+        "Linear subspace",
+        "Dynamical systems theory",
+        "Constraint (computer-aided design)"
+      ],
+      "doi": "10.1109/iros40897.2019.8967981",
+      "coauthors": [
+        "Matteo Saveriano"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Cross-modal visuo-tactile object recognition using robotic active exploration",
+      "cites": 57,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Modal",
+        "Artificial intelligence",
+        "Cognitive neuroscience of visual object recognition",
+        "ENCODE"
+      ],
+      "doi": "10.1109/icra.2017.7989619",
+      "coauthors": [
+        "Pietro Falco",
+        "Shuang Lu",
+        "Andrea Cirillo",
+        "Ciro Natale",
+        "Salvatore Pirozzi"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Incremental kinesthetic teaching of end-effector and null-space motion primitives",
+      "cites": 50,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Kinesthetic learning",
+        "Robot end effector",
+        "Computer science",
+        "Kinematics",
+        "Task (project management)"
+      ],
+      "doi": "10.1109/icra.2015.7139694",
+      "coauthors": [
+        "Matteo Saveriano",
+        "Sang-ik An"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "steady-producer",
+      "headline": "Dongheui Lee: 23년에 걸쳐 82편, 총 2,342회 인용, h=26, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "2003년 \"Autonomous map building and smart localization of the service robot PSR\"으로 출발.",
+        "초기 토픽: Computer science, Artificial intelligence, Robot. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.16 → 토픽 지속형.",
+        "저자수 평균: 초기 3.3명 → 후기 3.8명 (팀 유지).",
+        "최다 인용 논문 \"RGB-D SLAM in Dynamic Environments Using Static Point Weighting\" (2017, 278회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Yoshihiko Nakamura, Munsang Kim, Woojin Chung. 제자 후보 추정 16명 — 상위: Matteo Saveriano(2012~, 본인 마지막저자 7편), Youssef Michel(2019~, 본인 마지막저자 6편), Shile Li(2015~, 본인 마지막저자 4편)."
+      ],
+      "lessons": [
+        "16명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Yoshihiko Nakamura — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "steady-producer",
+      "headline": "Dongheui Lee: over 23 years, 82 papers, 2,342 total cites, h=26, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2003 with \"Autonomous map building and smart localization of the service robot PSR\".",
+        "Early topics: Computer science, Artificial intelligence, Robot. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.16 → topic-stable.",
+        "Authors per paper: early 3.3 → late 3.8 (stable team).",
+        "Peak paper \"RGB-D SLAM in Dynamic Environments Using Static Point Weighting\" (2017, 278 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Yoshihiko Nakamura, Munsang Kim, Woojin Chung. 16 likely students — top: Matteo Saveriano(2012~, we last-author on 7), Youssef Michel(2019~, we last-author on 6), Shile Li(2015~, we last-author on 4)."
+      ],
+      "lessons": [
+        "16 likely students — mentoring is the real impact.",
+        "Likely advisor: Yoshihiko Nakamura — started within their PhD network."
+      ]
+    }
+  }
+}

@@ -1256,7 +1256,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "late-bloomer",
       "headline": "Marco Hutter: 18년에 걸쳐 211편, 총 16,282회 인용, h=66, 500+ 블록버스터 6편.",
       "paragraphs": [
         "2008년 \"Modeling assembled-MEMS microrobots for wireless magnetic control\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"Robust visual inertial odometry using a direct EKF-based approach\" (2015, 779회). 1000+ 인용 논문: \"Learning agile and dynamic motor skills for legged robots\" (2019, 1,377회).",
@@ -1273,7 +1273,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "late-bloomer",
       "headline": "Marco Hutter: over 18 years, 211 papers, 16,282 total cites, h=66, 6 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2008 with \"Modeling assembled-MEMS microrobots for wireless magnetic control\". First 500+ cite paper came 7 years in: \"Robust visual inertial odometry using a direct EKF-based approach\" (2015, 779 cites). 1000+ cite paper: \"Learning agile and dynamic motor skills for legged robots\" (2019, 1,377 cites).",

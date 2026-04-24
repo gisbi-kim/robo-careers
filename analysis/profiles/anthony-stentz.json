@@ -1156,7 +1156,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Anthony Stentz: 36년에 걸쳐 80편, 총 6,632회 인용, h=43, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1986년 \"An architecture for sensor fusion in a mobile robot\"으로 출발. 첫 500+ 인용 논문까지 8년 걸림: \"Optimal and Efficient Path Planning for Partially-Known Environments\" (1994, 875회).",
@@ -1171,7 +1171,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Anthony Stentz: over 36 years, 80 papers, 6,632 total cites, h=43, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1986 with \"An architecture for sensor fusion in a mobile robot\". First 500+ cite paper came 8 years in: \"Optimal and Efficient Path Planning for Partially-Known Environments\" (1994, 875 cites).",

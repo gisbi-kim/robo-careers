@@ -804,7 +804,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "steady-producer",
+      "archetype": "mid-career-peak",
       "headline": "Fei Gao: 9년에 걸쳐 135편, 총 5,770회 인용, h=36, 500+ 블록버스터 2편.",
       "paragraphs": [
         "2017년 \"Gradient-based online safe trajectory generation for quadrotor flight in complex environments\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight\" (2019, 670회).",
@@ -820,7 +820,7 @@
       ]
     },
     "en": {
-      "archetype": "steady-producer",
+      "archetype": "mid-career-peak",
       "headline": "Fei Gao: over 9 years, 135 papers, 5,770 total cites, h=36, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2017 with \"Gradient-based online safe trajectory generation for quadrotor flight in complex environments\". First 500+ cite paper came 2 years in: \"Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight\" (2019, 670 cites).",

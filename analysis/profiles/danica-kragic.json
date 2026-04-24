@@ -1325,7 +1325,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak",
       "headline": "Danica Kragic: 27년에 걸쳐 188편, 총 8,428회 인용, h=48, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1999년 \"A Person Following Behaviour for a Mobile Robot\"으로 출발. 첫 500+ 인용 논문까지 15년 걸림: \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839회).",
@@ -1341,7 +1341,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak",
       "headline": "Danica Kragic: over 27 years, 188 papers, 8,428 total cites, h=48, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1999 with \"A Person Following Behaviour for a Mobile Robot\". First 500+ cite paper came 15 years in: \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839 cites).",

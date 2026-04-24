@@ -1955,7 +1955,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Daniela Rus: 34년에 걸쳐 387편, 총 25,963회 인용, h=83, 500+ 블록버스터 5편.",
       "paragraphs": [
         "1992년 \"Dexterous rotations of polyhedra\"으로 출발. 첫 500+ 인용 논문까지 21년 걸림: \"Meshworm: A Peristaltic Soft Robot With Antagonistic Nickel Titanium Coil Actuators\" (2013, 653회). 1000+ 인용 논문: \"LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping\" (2020, 1,892회).",
@@ -1972,7 +1972,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Daniela Rus: over 34 years, 387 papers, 25,963 total cites, h=83, 5 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1992 with \"Dexterous rotations of polyhedra\". First 500+ cite paper came 21 years in: \"Meshworm: A Peristaltic Soft Robot With Antagonistic Nickel Titanium Coil Actuators\" (2013, 653 cites). 1000+ cite paper: \"LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping\" (2020, 1,892 cites).",

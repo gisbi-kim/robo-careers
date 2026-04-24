@@ -915,7 +915,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak",
       "headline": "Ayoung Kim: 17년에 걸쳐 63편, 총 4,299회 인용, h=31, 500+ 블록버스터 1편.",
       "paragraphs": [
         "2009년 \"Pose-graph visual SLAM with geometric model selection for autonomous underwater ship hull inspection\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map\" (2018, 825회).",
@@ -930,7 +930,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak",
       "headline": "Ayoung Kim: over 17 years, 63 papers, 4,299 total cites, h=31, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2009 with \"Pose-graph visual SLAM with geometric model selection for autonomous underwater ship hull inspection\". First 500+ cite paper came 9 years in: \"Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map\" (2018, 825 cites).",

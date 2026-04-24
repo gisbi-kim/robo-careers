@@ -1183,7 +1183,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak",
       "headline": "Peter K. Allen: 35년에 걸쳐 87편, 총 6,502회 인용, h=43, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1988년 \"Integrating Vision and Touch for Object Recognition Tasks\"으로 출발. 첫 500+ 인용 논문까지 15년 걸림: \"Automatic grasp planning using shape primitives\" (2003, 714회).",
@@ -1198,7 +1198,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak",
       "headline": "Peter K. Allen: over 35 years, 87 papers, 6,502 total cites, h=43, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1988 with \"Integrating Vision and Touch for Object Recognition Tasks\". First 500+ cite paper came 15 years in: \"Automatic grasp planning using shape primitives\" (2003, 714 cites).",

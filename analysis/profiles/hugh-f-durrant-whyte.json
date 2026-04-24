@@ -1070,7 +1070,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "late-bloomer",
       "headline": "Hugh F. Durrant-Whyte: 28년에 걸쳐 99편, 총 8,005회 인용, h=44, 500+ 블록버스터 3편.",
       "paragraphs": [
         "1985년 \"Practical adaptive control of actuated spatial mechanisms\"으로 출발. 첫 500+ 인용 논문까지 6년 걸림: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791회).",
@@ -1085,7 +1085,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "late-bloomer",
       "headline": "Hugh F. Durrant-Whyte: over 28 years, 99 papers, 8,005 total cites, h=44, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1985 with \"Practical adaptive control of actuated spatial mechanisms\". First 500+ cite paper came 6 years in: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791 cites).",

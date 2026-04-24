@@ -727,7 +727,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "early-blockbuster",
+      "archetype": "early-blockbuster-3",
       "headline": "Deepak Pathak: 5년에 걸쳐 20편, 총 1,146회 인용, h=12, 500+ 블록버스터 0편.",
       "paragraphs": [
         "2021년 \"Auto-Tuned Sim-to-Real Transfer\"으로 출발.",
@@ -741,7 +741,7 @@
       ]
     },
     "en": {
-      "archetype": "early-blockbuster",
+      "archetype": "early-blockbuster-3",
       "headline": "Deepak Pathak: over 5 years, 20 papers, 1,146 total cites, h=12, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2021 with \"Auto-Tuned Sim-to-Real Transfer\".",

@@ -1318,7 +1318,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "late-bloomer-2",
       "headline": "Russell H. Taylor: 40년에 걸쳐 88편, 총 6,740회 인용, h=34, 500+ 블록버스터 4편.",
       "paragraphs": [
         "1986년 \"A configurable system for automation programming and control\"으로 출발. 첫 500+ 인용 논문까지 13년 걸림: \"A Steady-Hand Robotic System for Microsurgical Augmentation\" (1999, 518회). 1000+ 인용 논문: \"The grand challenges of Science Robotics\" (2018, 1,122회).",
@@ -1333,7 +1333,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "late-bloomer-2",
       "headline": "Russell H. Taylor: over 40 years, 88 papers, 6,740 total cites, h=34, 4 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1986 with \"A configurable system for automation programming and control\". First 500+ cite paper came 13 years in: \"A Steady-Hand Robotic System for Microsurgical Augmentation\" (1999, 518 cites). 1000+ cite paper: \"The grand challenges of Science Robotics\" (2018, 1,122 cites).",

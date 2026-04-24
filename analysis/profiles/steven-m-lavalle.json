@@ -1169,7 +1169,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "steady-producer",
+      "archetype": "early-blockbuster",
       "headline": "Steven M. LaValle: 31년에 걸쳐 98편, 총 12,308회 인용, h=40, 500+ 블록버스터 3편.",
       "paragraphs": [
         "1994년 \"An objective-based stochastic framework for manipulation planning\"으로 출발. 첫 500+ 인용 논문까지 5년 걸림: \"Randomized Kinodynamic Planning\" (1999, 666회). 1000+ 인용 논문: \"RRT-Connect: An Efficient Approach to Single-Query Path Planning\" (2000, 3,418회).",
@@ -1186,7 +1186,7 @@
       ]
     },
     "en": {
-      "archetype": "steady-producer",
+      "archetype": "early-blockbuster",
       "headline": "Steven M. LaValle: over 31 years, 98 papers, 12,308 total cites, h=40, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1994 with \"An objective-based stochastic framework for manipulation planning\". First 500+ cite paper came 5 years in: \"Randomized Kinodynamic Planning\" (1999, 666 cites). 1000+ cite paper: \"RRT-Connect: An Efficient Approach to Single-Query Path Planning\" (2000, 3,418 cites).",

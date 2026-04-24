@@ -787,7 +787,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak",
+      "archetype": "mid-career-peak-2",
       "headline": "Ji Zhang: 20년에 걸쳐 34편, 총 5,126회 인용, h=21, 500+ 블록버스터 2편.",
       "paragraphs": [
         "2006년 \"Gait Planning Of Quadruped Robot Based On Third-Order Spline Interpolation\"으로 출발. 첫 500+ 인용 논문까지 8년 걸림: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회). 1000+ 인용 논문: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회).",
@@ -801,7 +801,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak",
+      "archetype": "mid-career-peak-2",
       "headline": "Ji Zhang: over 20 years, 34 papers, 5,126 total cites, h=21, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2006 with \"Gait Planning Of Quadruped Robot Based On Third-Order Spline Interpolation\". First 500+ cite paper came 8 years in: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites). 1000+ cite paper: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites).",

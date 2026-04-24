@@ -1348,7 +1348,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "late-bloomer-2",
       "headline": "Ming Liu: 31년에 걸쳐 140편, 총 6,752회 인용, h=40, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1995년 \"Conputed Torque Scheme Based Adptive Tracking for Robot Manipulators\"으로 출발. 첫 500+ 인용 논문까지 22년 걸림: \"Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation\" (2017, 793회).",
@@ -1364,7 +1364,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "late-bloomer-2",
       "headline": "Ming Liu: over 31 years, 140 papers, 6,752 total cites, h=40, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1995 with \"Conputed Torque Scheme Based Adptive Tracking for Robot Manipulators\". First 500+ cite paper came 22 years in: \"Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation\" (2017, 793 cites).",

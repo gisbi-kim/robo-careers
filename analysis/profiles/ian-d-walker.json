@@ -1319,7 +1319,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Ian D. Walker: 37년에 걸쳐 120편, 총 6,210회 인용, h=39, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1988년 \"Dynamic task distribution for multiple cooperating robot manipulators\"으로 출발. 첫 500+ 인용 논문까지 18년 걸림: \"Kinematics for multisection continuum robots\" (2006, 934회).",
@@ -1334,7 +1334,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Ian D. Walker: over 37 years, 120 papers, 6,210 total cites, h=39, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1988 with \"Dynamic task distribution for multiple cooperating robot manipulators\". First 500+ cite paper came 18 years in: \"Kinematics for multisection continuum robots\" (2006, 934 cites).",

@@ -730,7 +730,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "early-blockbuster",
+      "archetype": "early-blockbuster-3",
       "headline": "Daniel Cremers: 14년에 걸쳐 55편, 총 11,717회 인용, h=31, 500+ 블록버스터 6편.",
       "paragraphs": [
         "2012년 \"A benchmark for the evaluation of RGB-D SLAM systems\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886회). 1000+ 인용 논문: \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886회).",
@@ -744,7 +744,7 @@
       ]
     },
     "en": {
-      "archetype": "early-blockbuster",
+      "archetype": "early-blockbuster-3",
       "headline": "Daniel Cremers: over 14 years, 55 papers, 11,717 total cites, h=31, 6 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2012 with \"A benchmark for the evaluation of RGB-D SLAM systems\". First 500+ cite paper came 0 years in: \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886 cites). 1000+ cite paper: \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886 cites).",

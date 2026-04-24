@@ -1,0 +1,1153 @@
+{
+  "name": "Sukhan Lee",
+  "slug": "sukhan-lee",
+  "career_stats": {
+    "first_year": 1985,
+    "last_year": 2022,
+    "span": 38,
+    "total_papers": 93,
+    "total_cites": 1271,
+    "h_index": 21,
+    "i10_index": 43,
+    "seminal_count": 0,
+    "max_cites_single_paper": 92
+  },
+  "role_distribution": {
+    "first": 63,
+    "last": 27,
+    "middle": 3
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1985,
+      "title": "Computer control of space-borne teleoperators with sensory feedback"
+    },
+    "peak_paper": {
+      "year": 1985,
+      "title": "Computer control of space-borne teleoperators with sensory feedback",
+      "cites": 92
+    }
+  },
+  "year_series": {
+    "1985": {
+      "n": 1,
+      "cites": 92,
+      "max_cites": 92
+    },
+    "1986": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1987": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1988": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1989": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "1990": {
+      "n": 4,
+      "cites": 142,
+      "max_cites": 88
+    },
+    "1991": {
+      "n": 3,
+      "cites": 91,
+      "max_cites": 65
+    },
+    "1992": {
+      "n": 7,
+      "cites": 84,
+      "max_cites": 50
+    },
+    "1993": {
+      "n": 8,
+      "cites": 119,
+      "max_cites": 41
+    },
+    "1994": {
+      "n": 7,
+      "cites": 72,
+      "max_cites": 18
+    },
+    "1995": {
+      "n": 7,
+      "cites": 58,
+      "max_cites": 13
+    },
+    "1996": {
+      "n": 5,
+      "cites": 34,
+      "max_cites": 16
+    },
+    "1997": {
+      "n": 11,
+      "cites": 80,
+      "max_cites": 21
+    },
+    "1998": {
+      "n": 6,
+      "cites": 21,
+      "max_cites": 10
+    },
+    "1999": {
+      "n": 6,
+      "cites": 113,
+      "max_cites": 35
+    },
+    "2000": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "2001": {
+      "n": 2,
+      "cites": 15,
+      "max_cites": 13
+    },
+    "2002": {
+      "n": 1,
+      "cites": 11,
+      "max_cites": 11
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    },
+    "2005": {
+      "n": 4,
+      "cites": 92,
+      "max_cites": 36
+    },
+    "2006": {
+      "n": 5,
+      "cites": 62,
+      "max_cites": 25
+    },
+    "2007": {
+      "n": 2,
+      "cites": 52,
+      "max_cites": 31
+    },
+    "2008": {
+      "n": 2,
+      "cites": 46,
+      "max_cites": 26
+    },
+    "2009": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 3,
+      "cites": 30,
+      "max_cites": 24
+    },
+    "2011": {
+      "n": 2,
+      "cites": 18,
+      "max_cites": 17
+    },
+    "2012": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2013": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2014": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2015": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2016": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2017": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2018": {
+      "n": 1,
+      "cites": 6,
+      "max_cites": 6
+    },
+    "2019": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2020": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2021": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2022": {
+      "n": 1,
+      "cites": 22,
+      "max_cites": 22
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Kinematics",
+          "w": 0.2
+        },
+        {
+          "c": "Control engineering",
+          "w": 0.2
+        },
+        {
+          "c": "Software",
+          "w": 0.2
+        },
+        {
+          "c": "Controller (irrigation)",
+          "w": 0.2
+        },
+        {
+          "c": "Teleoperation",
+          "w": 0.2
+        }
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.056
+        },
+        {
+          "c": "Redundancy (engineering)",
+          "w": 0.035
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.028
+        },
+        {
+          "c": "Orientation (vector space)",
+          "w": 0.028
+        }
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "n_papers": 35,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.154
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.04
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.04
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.029
+        },
+        {
+          "c": "Product (mathematics)",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.12
+        },
+        {
+          "c": "Sensor fusion",
+          "w": 0.08
+        },
+        {
+          "c": "A priori and a posteriori",
+          "w": 0.08
+        },
+        {
+          "c": "Estimator",
+          "w": 0.04
+        },
+        {
+          "c": "Consistency (knowledge bases)",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.186
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.129
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.086
+        },
+        {
+          "c": "Robot",
+          "w": 0.043
+        },
+        {
+          "c": "Workspace",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Intersection (aeronautics)",
+          "w": 0.1
+        },
+        {
+          "c": "Coplanarity",
+          "w": 0.067
+        },
+        {
+          "c": "Matching (statistics)",
+          "w": 0.067
+        },
+        {
+          "c": "Line segment",
+          "w": 0.067
+        },
+        {
+          "c": "Planar",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "RSS",
+          "w": 0.1
+        },
+        {
+          "c": "Signal strength",
+          "w": 0.1
+        },
+        {
+          "c": "Invariant (physics)",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2022,
+      "n_papers": 1,
+      "top_concepts": [
+        {
+          "c": "Bin packing problem",
+          "w": 0.2
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Bin",
+          "w": 0.2
+        },
+        {
+          "c": "Exploit",
+          "w": 0.2
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mix": {
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mix": {
+        "ICRA": 18,
+        "IROS": 11
+      }
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mix": {
+        "ICRA": 21,
+        "IROS": 14
+      }
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "IROS": 8,
+        "ICRA": 6
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 4,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2022,
+      "mix": {
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1985,
+      "end": 1989,
+      "mean_n_authors": 3,
+      "unique_coauthors": 2,
+      "top_coauthors": [
+        [
+          "George A. Bekey",
+          1
+        ],
+        [
+          "Antal K. Bejczy",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 1990,
+      "end": 1994,
+      "mean_n_authors": 2.07,
+      "unique_coauthors": 20,
+      "top_coauthors": [
+        [
+          "Sungbok Kim",
+          5
+        ],
+        [
+          "Hahk Sung Lee",
+          3
+        ],
+        [
+          "Carlos L. Lück",
+          3
+        ],
+        [
+          "Youngchul Kay",
+          2
+        ],
+        [
+          "Chunsik Yi",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 1995,
+      "end": 1999,
+      "mean_n_authors": 2.83,
+      "unique_coauthors": 30,
+      "top_coauthors": [
+        [
+          "Chunsik Yi",
+          7
+        ],
+        [
+          "Sookwang Ro",
+          5
+        ],
+        [
+          "David Chiu",
+          4
+        ],
+        [
+          "Jong-Oh Park",
+          4
+        ],
+        [
+          "Chong-Won Lee",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2000,
+      "end": 2004,
+      "mean_n_authors": 2.6,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Jae-Won Lee",
+          1
+        ],
+        [
+          "Jaewoo Chung",
+          1
+        ],
+        [
+          "Seungmo Lim",
+          1
+        ],
+        [
+          "Changseung Lee",
+          1
+        ],
+        [
+          "Woong Kwon",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 4.43,
+      "unique_coauthors": 30,
+      "top_coauthors": [
+        [
+          "Jongmoo Choi",
+          4
+        ],
+        [
+          "Eunyoung Kim",
+          4
+        ],
+        [
+          "Seungsub Oh",
+          3
+        ],
+        [
+          "DaeSik Kim",
+          3
+        ],
+        [
+          "JungHyun Han",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 2.33,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Hyunwoo Kim",
+          3
+        ],
+        [
+          "Lam Bui Quang",
+          2
+        ],
+        [
+          "Yeonchool Park",
+          1
+        ],
+        [
+          "Anton S. Shiriaev",
+          1
+        ],
+        [
+          "Simon Westerberg",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 2.5,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Mohd Nizam Husen",
+          1
+        ],
+        [
+          "Ahmed M. Naguib",
+          1
+        ],
+        [
+          "Naeem Ul Islam",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2022,
+      "mean_n_authors": 2,
+      "unique_coauthors": 1,
+      "top_coauthors": [
+        [
+          "Aaron Valero Puche",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.616,
+  "top_repeat_coauthors": [
+    {
+      "name": "Chunsik Yi",
+      "count": 9,
+      "first_year": 1993,
+      "last_year": 1998
+    },
+    {
+      "name": "Sungbok Kim",
+      "count": 5,
+      "first_year": 1991,
+      "last_year": 1994
+    },
+    {
+      "name": "David Chiu",
+      "count": 5,
+      "first_year": 1993,
+      "last_year": 1997
+    },
+    {
+      "name": "Sookwang Ro",
+      "count": 5,
+      "first_year": 1996,
+      "last_year": 1999
+    },
+    {
+      "name": "Hadi Moradi",
+      "count": 5,
+      "first_year": 1997,
+      "last_year": 2006
+    },
+    {
+      "name": "Carlos L. Lück",
+      "count": 4,
+      "first_year": 1993,
+      "last_year": 1995
+    },
+    {
+      "name": "Jong-Oh Park",
+      "count": 4,
+      "first_year": 1996,
+      "last_year": 1998
+    },
+    {
+      "name": "Chong-Won Lee",
+      "count": 4,
+      "first_year": 1996,
+      "last_year": 1998
+    },
+    {
+      "name": "Woong Kwon",
+      "count": 4,
+      "first_year": 1999,
+      "last_year": 2001
+    },
+    {
+      "name": "Jae-Won Lee",
+      "count": 4,
+      "first_year": 1999,
+      "last_year": 2000
+    },
+    {
+      "name": "Jongmoo Choi",
+      "count": 4,
+      "first_year": 2005,
+      "last_year": 2006
+    },
+    {
+      "name": "Eunyoung Kim",
+      "count": 4,
+      "first_year": 2005,
+      "last_year": 2007
+    },
+    {
+      "name": "Hahk Sung Lee",
+      "count": 3,
+      "first_year": 1992,
+      "last_year": 1994
+    },
+    {
+      "name": "Dongmok Shin",
+      "count": 3,
+      "first_year": 1998,
+      "last_year": 1999
+    },
+    {
+      "name": "Seungsub Oh",
+      "count": 3,
+      "first_year": 2005,
+      "last_year": 2006
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Carlos L. Lück",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 1995
+    },
+    {
+      "name": "David Chiu",
+      "student_first_year": 1993,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 1997
+    },
+    {
+      "name": "Hyunwoo Kim",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Lam Bui Quang",
+      "student_first_year": 2009,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Raúl Suárez",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 1997
+    },
+    {
+      "name": "Jae-Won Lee",
+      "student_first_year": 1999,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2000
+    },
+    {
+      "name": "Woong Kwon",
+      "student_first_year": 1996,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2001
+    },
+    {
+      "name": "DaeSik Kim",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2008
+    },
+    {
+      "name": "Youngchul Kay",
+      "student_first_year": 1990,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 1991
+    },
+    {
+      "name": "Yeonchool Park",
+      "student_first_year": 2006,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2011
+    },
+    {
+      "name": "Han-Young Jang",
+      "student_first_year": 2005,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2006
+    },
+    {
+      "name": "Sang Chul Ahn",
+      "student_first_year": 1997,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 1997
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1985,
+      1994
+    ],
+    "early_mean_n_authors": 2.1,
+    "late_window": [
+      2013,
+      2022
+    ],
+    "late_mean_n_authors": 2.33
+  },
+  "citation_half_life_years": 31,
+  "bursts": {
+    "productivity": [
+      1997
+    ],
+    "impact": [
+      1990,
+      1993
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 1985,
+      "venue": "ICRA",
+      "title": "Computer control of space-borne teleoperators with sensory feedback",
+      "cites": 92,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Kinematics",
+        "Control engineering",
+        "Software",
+        "Controller (irrigation)",
+        "Teleoperation"
+      ],
+      "doi": "10.1109/robot.1985.1087390",
+      "coauthors": [
+        "George A. Bekey",
+        "Antal K. Bejczy"
+      ]
+    },
+    {
+      "year": 1990,
+      "venue": "ICRA",
+      "title": "Assembly planning based on subassembly extraction",
+      "cites": 88,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Graph",
+        "Set (abstract data type)",
+        "Plan (archaeology)",
+        "Representation (politics)"
+      ],
+      "doi": "10.1109/robot.1990.126239",
+      "coauthors": [
+        "Yeong-Gil Shin"
+      ]
+    },
+    {
+      "year": 1991,
+      "venue": "ICRA",
+      "title": "Redundant arm kinematic control based on parameterization",
+      "cites": 65,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Kinematics",
+        "Parameterized complexity",
+        "Inverse kinematics",
+        "Position (finance)",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/robot.1991.131621",
+      "coauthors": [
+        "Antal K. Bejczy"
+      ]
+    },
+    {
+      "year": 1992,
+      "venue": "ICRA",
+      "title": "Backward assembly planning with assembly cost analysis",
+      "cites": 50,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Planner",
+        "Computer science",
+        "Sequence (biology)",
+        "Process (computing)",
+        "Interconnection"
+      ],
+      "doi": "10.1109/robot.1992.220107",
+      "coauthors": []
+    },
+    {
+      "year": 1993,
+      "venue": "ICRA",
+      "title": "Self-Motion Topology for Redundant Manipulators with Joint Limits",
+      "cites": 41,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Topology (electrical circuits)",
+        "Joint (building)",
+        "Motion (physics)",
+        "Control theory (sociology)"
+      ],
+      "doi": "10.1109/robot.1993.291835",
+      "coauthors": [
+        "Carol E. Lück"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "IROS",
+      "title": "A real-time 3D workspace modeling with stereo camera",
+      "cites": 36,
+      "n_authors": 5,
+      "role": "first",
+      "concepts": [
+        "Workspace",
+        "Computer science",
+        "Point cloud",
+        "Computer vision",
+        "Octree"
+      ],
+      "doi": "10.1109/iros.2005.1545105",
+      "coauthors": [
+        "Daesik Jang",
+        "Eunyoung Kim",
+        "Suyeon Hong",
+        "JungHyun Han"
+      ]
+    },
+    {
+      "year": 1999,
+      "venue": "IROS",
+      "title": "Micromachined inertial sensors",
+      "cites": 35,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Commercialization",
+        "Surface micromachining",
+        "Actuator",
+        "Systems engineering",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.1999.812819",
+      "coauthors": [
+        "Cimoo Song",
+        "Byeoungju Ha"
+      ]
+    },
+    {
+      "year": 1990,
+      "venue": "ICRA",
+      "title": "An accurate estimation of 3-D position and orientation of a moving object for robot stereo vision: Kalman filter approach",
+      "cites": 33,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Kalman filter",
+        "Artificial intelligence",
+        "Computer vision",
+        "Orientation (vector space)",
+        "Extended Kalman filter"
+      ],
+      "doi": "10.1109/robot.1990.126012",
+      "coauthors": [
+        "Youngchul Kay"
+      ]
+    },
+    {
+      "year": 2007,
+      "venue": "ICRA",
+      "title": "Robust Recognition and Pose Estimation of 3D Objects Based on Evidence Fusion in a Sequence of Images",
+      "cites": 31,
+      "n_authors": 6,
+      "role": "first",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Particle filter",
+        "Pose"
+      ],
+      "doi": "10.1109/robot.2007.364057",
+      "coauthors": [
+        "Seongsoo Lee",
+        "Jeihun Lee",
+        "Dongju Moon",
+        "Eunyoung Kim",
+        "Jeonghyun Seo"
+      ]
+    },
+    {
+      "year": 2005,
+      "venue": "IROS",
+      "title": "A visibility-based accessibility analysis of the grasp points for real-time manipulation",
+      "cites": 29,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Workspace",
+        "Visibility",
+        "Computer vision",
+        "Octree"
+      ],
+      "doi": "10.1109/iros.2005.1545526",
+      "coauthors": [
+        "Han-Young Jang",
+        "Hadi Moradi",
+        "JungHyun Han"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Sukhan Lee: 38년에 걸쳐 93편, 총 1,271회 인용, h=21, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "1985년 \"Computer control of space-borne teleoperators with sensory feedback\"으로 출발.",
+        "초기 토픽: Kinematics, Control engineering, Software. 최근 토픽: Bin packing problem, Reinforcement learning, Computer science. 피벗 점수 0.62 → 적극 피벗형.",
+        "저자수 평균: 초기 2.1명 → 후기 2.3명 (팀 유지).",
+        "최다 인용 논문 \"Computer control of space-borne teleoperators with sensory feedback\" (1985, 92회) — 커리어 초기에 위치.",
+        "제자 후보 추정 12명 — 상위: Carlos L. Lück(1993~, 본인 마지막저자 4편), David Chiu(1993~, 본인 마지막저자 3편), Hyunwoo Kim(2010~, 본인 마지막저자 3편)."
+      ],
+      "lessons": [
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "12명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Sukhan Lee: over 38 years, 93 papers, 1,271 total cites, h=21, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1985 with \"Computer control of space-borne teleoperators with sensory feedback\".",
+        "Early topics: Kinematics, Control engineering, Software. Recent topics: Bin packing problem, Reinforcement learning, Computer science. Pivot score 0.62 → active pivoter.",
+        "Authors per paper: early 2.1 → late 2.3 (stable team).",
+        "Peak paper \"Computer control of space-borne teleoperators with sensory feedback\" (1985, 92 cites) — fell in early career.",
+        "12 likely students — top: Carlos L. Lück(1993~, we last-author on 4), David Chiu(1993~, we last-author on 3), Hyunwoo Kim(2010~, we last-author on 3)."
+      ],
+      "lessons": [
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "12 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

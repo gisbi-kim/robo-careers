@@ -993,7 +993,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "late-bloomer-2",
       "headline": "Hyun Myung: 21년에 걸쳐 56편, 총 1,707회 인용, h=21, 500+ 블록버스터 0편.",
       "paragraphs": [
         "2005년 \"Detecting and tracking people by mobile robot using structured light range sensor\"으로 출발.",
@@ -1008,7 +1008,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "late-bloomer-2",
       "headline": "Hyun Myung: over 21 years, 56 papers, 1,707 total cites, h=21, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2005 with \"Detecting and tracking people by mobile robot using structured light range sensor\".",

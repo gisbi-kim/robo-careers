@@ -1291,7 +1291,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "steady-producer",
+      "archetype": "early-blockbuster",
       "headline": "Sami Haddadin: 20년에 걸쳐 218편, 총 8,518회 인용, h=44, 500+ 블록버스터 3편.",
       "paragraphs": [
         "2006년 \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761회).",
@@ -1308,7 +1308,7 @@
       ]
     },
     "en": {
-      "archetype": "steady-producer",
+      "archetype": "early-blockbuster",
       "headline": "Sami Haddadin: over 20 years, 218 papers, 8,518 total cites, h=44, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2006 with \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\". First 500+ cite paper came 0 years in: \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761 cites).",

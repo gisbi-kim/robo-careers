@@ -1120,7 +1120,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Sebastian A. Scherer: 20년에 걸쳐 136편, 총 8,483회 인용, h=37, 500+ 블록버스터 1편.",
       "paragraphs": [
         "2006년 \"Learning to Drive Among Obstacles\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548회). 1000+ 인용 논문: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548회).",
@@ -1136,7 +1136,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Sebastian A. Scherer: over 20 years, 136 papers, 8,483 total cites, h=37, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2006 with \"Learning to Drive Among Obstacles\". First 500+ cite paper came 9 years in: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548 cites). 1000+ cite paper: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548 cites).",

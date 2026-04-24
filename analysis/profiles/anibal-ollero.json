@@ -1286,7 +1286,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Aníbal Ollero: 34년에 걸쳐 112편, 총 4,932회 인용, h=38, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1992년 \"An iconic position estimator for a 2D laser rangefinder\"으로 출발. 첫 500+ 인용 논문까지 26년 걸림: \"Aerial Manipulation: A Literature Review\" (2018, 504회).",
@@ -1301,7 +1301,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Aníbal Ollero: over 34 years, 112 papers, 4,932 total cites, h=38, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1992 with \"An iconic position estimator for a 2D laser rangefinder\". First 500+ cite paper came 26 years in: \"Aerial Manipulation: A Literature Review\" (2018, 504 cites).",

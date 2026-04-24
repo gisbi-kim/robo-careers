@@ -854,7 +854,7 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "steady-producer",
+      "archetype": "early-blockbuster",
       "headline": "Sergey Levine: 11년에 걸쳐 125편, 총 11,277회 인용, h=48, 500+ 블록버스터 4편.",
       "paragraphs": [
         "2015년 \"Learning compound multi-step controllers under unknown dynamics\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"Deep reinforcement learning for robotic manipulation with asynchronous off-policy updates\" (2017, 1,442회). 1000+ 인용 논문: \"Deep reinforcement learning for robotic manipulation with asynchronous off-policy updates\" (2017, 1,442회).",
@@ -869,7 +869,7 @@
       ]
     },
     "en": {
-      "archetype": "steady-producer",
+      "archetype": "early-blockbuster",
       "headline": "Sergey Levine: over 11 years, 125 papers, 11,277 total cites, h=48, 4 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2015 with \"Learning compound multi-step controllers under unknown dynamics\". First 500+ cite paper came 2 years in: \"Deep reinforcement learning for robotic manipulation with asynchronous off-policy updates\" (2017, 1,442 cites). 1000+ cite paper: \"Deep reinforcement learning for robotic manipulation with asynchronous off-policy updates\" (2017, 1,442 cites).",
