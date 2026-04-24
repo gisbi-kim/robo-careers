@@ -10,6 +10,8 @@ glossary for that phase — better to stay silent than to invent.
 """
 from __future__ import annotations
 
+import json
+import os
 import re
 from typing import Iterable
 
@@ -1123,7 +1125,27 @@ GLOSSARY: dict[str, dict[str, str]] = {
 }
 
 
+# Load the hand-curated phrase cache (written by an editor reading paper
+# abstracts and distilling a one-line research-area gloss). This takes
+# priority over the generic GLOSSARY when it matches.
+_CACHE_PATH = os.path.normpath(
+    os.path.join(os.path.dirname(__file__), "..", "..", "analysis", "phrase_gloss_cache.json")
+)
+_PHRASE_CACHE: dict[str, dict[str, str]] = {}
+if os.path.exists(_CACHE_PATH):
+    try:
+        with open(_CACHE_PATH, encoding="utf-8") as _f:
+            _raw = json.load(_f)
+        for _k, _v in _raw.items():
+            if _k.startswith("_") or not isinstance(_v, dict):
+                continue
+            if "ko" in _v and "en" in _v and "display" in _v:
+                _PHRASE_CACHE[_k.lower()] = _v
+    except Exception:
+        _PHRASE_CACHE = {}
+
 _ORDERED_KEYS = sorted(GLOSSARY.keys(), key=lambda s: -len(s))  # longer first for matching
+_CACHE_KEYS = sorted(_PHRASE_CACHE.keys(), key=lambda s: -len(s))
 
 
 def _norm(s: str) -> str:
@@ -1136,38 +1158,53 @@ def _norm(s: str) -> str:
 def lookup_phrases(phrases: Iterable[str], lang: str, max_entries: int = 4) -> list[dict]:
     """Return [{term, gloss}] for unique glossary keys found in the given phrases.
 
-    Matching uses whole-word boundaries (padding with spaces) so 'underwater'
-    does not match 'underwriter' or random substrings. Longest key wins in
-    the sense that when a shorter key's tokens are fully contained in a
-    previously-matched longer key, we drop the shorter one.
+    For each input phrase we pick the LONGEST whole-word match across both the
+    hand-curated phrase cache (editor-written) and the generic glossary.
+    The cache wins ties. This ensures 'Aerial Manipulation' is glossed via
+    the specific generic entry 'aerial manipulation', not via a shorter
+    cache entry 'aerial'.
     """
     if not phrases:
         return []
-    found_keys: list[str] = []
+    results: list[tuple[str, str, dict]] = []
+    used_source_keys: set[str] = set()
     for raw in phrases:
         norm = _norm(raw)
         if not norm:
             continue
         padded = f" {norm} "
-        for key in _ORDERED_KEYS:
-            if key in found_keys:
+
+        # Collect all candidate matches (from either source).
+        candidates = []  # (length, src, key)
+        for key in _CACHE_KEYS:
+            if key in used_source_keys:
                 continue
-            # Whole-word: require a space on each side inside the padded phrase
             if f" {key} " in padded:
-                key_tokens = set(key.split())
-                already = any(
-                    key_tokens.issubset(set(fk.split())) and fk != key
-                    for fk in found_keys
-                )
-                if already:
-                    continue
-                found_keys.append(key)
-                break
+                candidates.append((len(key), 0, key))  # src 0 = cache (ties win)
+        for key in _ORDERED_KEYS:
+            if key in used_source_keys:
+                continue
+            if f" {key} " in padded:
+                candidates.append((len(key), 1, key))  # src 1 = generic
+        if not candidates:
+            continue
+        # Longest key wins; cache (src=0) wins ties.
+        candidates.sort(key=lambda t: (-t[0], t[1]))
+        length, src, key = candidates[0]
+
+        # Dedup by token-subset against already-picked entries
+        key_tokens = set(key.split())
+        already = any(
+            key_tokens.issubset(set(fk.split())) and fk != key
+            for fk in used_source_keys
+        )
+        if already:
+            continue
+        entry = _PHRASE_CACHE[key] if src == 0 else GLOSSARY[key]
+        results.append((key, entry["display"], entry))
+        used_source_keys.add(key)
+
     out = []
-    for k in found_keys[:max_entries]:
-        entry = GLOSSARY[k]
-        out.append({
-            "term": entry["display"],
-            "gloss": entry[lang],
-        })
+    for _key, term, entry in results[:max_entries]:
+        out.append({"term": term, "gloss": entry[lang]})
     return out

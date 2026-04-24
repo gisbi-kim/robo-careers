@@ -636,7 +636,7 @@ def build_phases(profile, author_papers, idf, max_idf, lang, enriched=None):
         win_phrases = phrases_for_window(author_papers, win["start"], win["end"], idf, max_idf, k=6)
         # Gloss ONLY what showed up as a distinctive TF-IDF phrase in the
         # window — raw blockbuster titles introduced false positives.
-        glossary = lookup_glossary(win_phrases, lang, max_entries=4)
+        glossary = lookup_glossary(win_phrases, lang, max_entries=3)
 
         # Paper-based fallback: the phase title surfaces up to 2 distinctive
         # phrases. For each of those, if the curated glossary didn't catch it,
@@ -693,7 +693,7 @@ def build_phases(profile, author_papers, idf, max_idf, lang, enriched=None):
                 else:
                     gloss = f"from paper: <em>\"{t_short}\"</em> ({venue} {year}, {cites:,} cites)."
             glossary.append({"term": phr, "gloss": gloss})
-            if len(glossary) >= 5:
+            if len(glossary) >= 4:
                 break
         phases.append({
             "years": f"{win['start']} — {win['end']}",

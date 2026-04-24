@@ -1,0 +1,417 @@
+{
+  "_doc": "Hand-curated one-line research-field glosses for phase-title phrases that don't hit scripts/common/glossary.py. Author reads the paper + abstract and writes a plain-language explanation of what the research area IS, not a quote. Key is lowercased normalized phrase (hyphens preserved).",
+
+  "visual servoing": {
+    "display": "Visual Servoing",
+    "ko": "카메라 영상으로 측정한 특징점 오차를 실시간 피드백해 로봇 팔·플랫폼의 움직임을 제어하는 방식.",
+    "en": "Controlling a robot arm or platform in closed loop on the error between observed and desired image features from its camera."
+  },
+
+  "aerial": {
+    "display": "Aerial Robotics",
+    "ko": "무인 비행체(UAV·드론) 기반 로봇 시스템 — 공중 인식·비행 제어·공중 조작 전반.",
+    "en": "Robotics built around UAVs and drones — the whole stack of aerial perception, flight control, and manipulation from the air."
+  },
+
+  "aerial vehicles": {
+    "display": "Aerial Vehicles",
+    "ko": "무인 항공기(UAV) 자체의 설계·제어·응용을 다루는 영역 — 탐사·감시·협업까지.",
+    "en": "Unmanned aerial vehicles as platforms — covering design, control, and applications from surveillance to cooperation."
+  },
+
+  "flexible joint": {
+    "display": "Flexible Joint Robots",
+    "ko": "구동기와 링크 사이에 의도된 탄성이 있는 관절 로봇의 동역학·제어 — DLR 토크 제어 플랫폼의 핵심 주제.",
+    "en": "Dynamics and control of manipulators where joints deliberately contain elastic transmission — a core topic around the DLR torque-controlled platforms."
+  },
+
+  "virtual fixtures": {
+    "display": "Virtual Fixtures",
+    "ko": "햅틱 원격조작·협업 조작에서 사용자의 손을 특정 경로/영역 안에만 움직이도록 가상 구속하는 제어 개념.",
+    "en": "A guidance concept that constrains a teleoperator's hand to follow specified paths or stay within regions, like a virtual jig."
+  },
+
+  "museum tour-guide": {
+    "display": "Museum Tour-Guide Robots",
+    "ko": "MINERVA/RHINO 계열의 박물관 자율 안내 로봇 — 1990년대 말 대규모 HRI 통합을 처음 보여준 고전 벤치마크.",
+    "en": "The MINERVA/RHINO line of autonomous museum guide robots — a late-1990s benchmark that first integrated navigation, localization, and human interaction at real-world scale."
+  },
+
+  "continuum": {
+    "display": "Continuum Robots",
+    "ko": "불연속 관절 없이 전체 몸이 연속적으로 휘어지는 로봇 — 수술·구조 탐사·소프트 매니퓰레이터의 골격 개념.",
+    "en": "Robots whose body bends continuously rather than at discrete joints — the skeleton concept behind surgical, search-and-rescue, and soft manipulators."
+  },
+
+  "cartesian impedance": {
+    "display": "Cartesian Impedance Control",
+    "ko": "작업공간(직교좌표)에서 정의된 임피던스 제어 — 접촉 상호작용·부드러운 조작이 필요한 토크 제어 매니퓰레이터의 표준 기법.",
+    "en": "Impedance control defined directly in task (Cartesian) space — the standard method for torque-controlled arms that need soft contact-rich behavior."
+  },
+
+  "divergent component motion": {
+    "display": "DCM (Divergent Component of Motion)",
+    "ko": "휴머노이드 보행에서 CoM 동역학의 불안정 모드를 따로 분리해 제어하는 방식 — Capture Point의 3D 확장.",
+    "en": "A humanoid walking-control formulation that isolates and directly controls the unstable mode of the CoM dynamics — the 3D generalization of Capture Point."
+  },
+
+  "soft growing": {
+    "display": "Soft Growing (Vine) Robots",
+    "ko": "공압으로 끝(tip)에서부터 자라듯 뻗어나가는 소프트 로봇 — Okamura 그룹의 vine robot 계열, 좁은 공간 탐사에 강점.",
+    "en": "Pneumatic soft robots that extend from the tip like a growing vine (Okamura group) — strong for navigating confined spaces."
+  },
+
+  "particle filters": {
+    "display": "Particle Filters",
+    "ko": "가중치 샘플로 비선형 사후 분포를 근사하는 베이즈 필터 — FastSLAM/GMapping 계열의 핵심.",
+    "en": "A Bayesian filter that approximates a non-linear posterior with weighted samples — the core idea behind FastSLAM and GMapping."
+  },
+
+  "fault detection": {
+    "display": "Fault Detection and Identification",
+    "ko": "로봇의 센서·구동기·모델 이상을 온라인에서 감지하고 원인을 식별하는 진단 시스템 연구.",
+    "en": "Online detection and identification of faults in a robot's sensors, actuators, or dynamics model."
+  },
+
+  "disturbance observer": {
+    "display": "Disturbance Observer",
+    "ko": "외란·모델 오차를 실시간 추정해 제어기에서 미리 상쇄하는 제어 구조 — 저가 센서·마찰 보상·힘 추정에 쓰임.",
+    "en": "A control structure that estimates external disturbances and model mismatch online so the controller can cancel them — standard for low-cost sensing, friction compensation, and force estimation."
+  },
+
+  "micromechanical flying insect": {
+    "display": "Micromechanical Flying Insect (RoboFly)",
+    "ko": "곤충 크기의 날개짓 비행 로봇 — UC Berkeley Fearing 그룹의 RoboFly 계보.",
+    "en": "Insect-scale flapping-wing flying robots — the RoboFly line from Fearing's group at UC Berkeley."
+  },
+
+  "redundant manipulators": {
+    "display": "Redundant Manipulators",
+    "ko": "작업 자유도보다 관절 자유도가 많은 매니퓰레이터 — 널 공간을 이용해 여러 부가 목표(장애물 회피·특이점 회피 등)를 동시에 풀 수 있다.",
+    "en": "Manipulators whose joint DoF exceed their task DoF — the null space lets them pursue auxiliary goals (obstacle/singularity avoidance, posture) at the same time."
+  },
+
+  "supersizing self-supervision learning": {
+    "display": "Supersizing Self-Supervision (Pinto & Gupta)",
+    "ko": "50k회 시도의 대규모 자가감독으로 파지를 학습한 2016년 논문 — 로봇 학습이 '규모'로 돌파 가능하다는 신호탄.",
+    "en": "A 2016 paper that learned grasping from 50k self-supervised trials — the signal that robot learning could be solved by scale."
+  },
+
+  "learning grasp 50k": {
+    "display": "Learning to Grasp at Scale",
+    "ko": "Pinto & Gupta 2016 — 대규모 자가감독 파지 학습의 출발점.",
+    "en": "Pinto & Gupta 2016 — the starting point of large-scale self-supervised grasp learning."
+  },
+
+  "role mass velocity": {
+    "display": "Safety: Robot Mass & Velocity",
+    "ko": "사람-로봇 충돌 시 부상 위험이 로봇 질량·속도에 어떻게 달라지는지 정량화한 연구 — pHRI 안전 기준의 토대.",
+    "en": "Quantifying how injury risk in a human-robot impact depends on robot mass and velocity — foundational work for pHRI safety standards."
+  },
+
+  "needle insertion": {
+    "display": "Steerable-Needle Insertion",
+    "ko": "굽힘으로 조향 가능한 바늘을 연조직 안에서 장애물을 피해 목표로 유도하는 모션 플래닝.",
+    "en": "Motion planning for steerable bevel-tip needles threaded through soft tissue around obstacles to reach a target."
+  },
+
+  "iconic position estimator": {
+    "display": "Iconic Position Estimation",
+    "ko": "2D 레이저 스캔을 최소한의 구조(직선 세그먼트)로 모델링해 자기 위치를 추정하는 고전적 레이저 스캔 정합 방법.",
+    "en": "A classical laser-scan registration approach where the environment is modeled as connected line segments and the robot pose is iconically matched."
+  },
+
+  "augmented dexterity": {
+    "display": "Surgical Augmented Dexterity",
+    "ko": "수술 로봇의 정밀 조작 능력을 시뮬레이션·학습으로 증강해 자동화 수준을 올리는 연구 (Goldberg 계열).",
+    "en": "Augmenting surgical robot dexterity with learning and high-fidelity simulation to push the automation level higher (Goldberg and collaborators)."
+  },
+
+  "tendon actuated exploratory": {
+    "display": "Tendon-Actuated Exploratory Finger",
+    "ko": "케이블로 구동되는 다자유도 손가락에 피부형 촉각 센서를 결합해 물체를 만지며 속성을 파악하는 조작 연구.",
+    "en": "A cable-driven multi-DoF finger with skin-like tactile sensing used to probe and infer object properties through contact."
+  },
+
+  "exploratory finger polymeric": {
+    "display": "Polymeric-Skin Tactile Finger",
+    "ko": "폴리머 피부형 촉각 센서를 장착한 손가락으로 물체 표면·재질을 능동 탐색하는 연구.",
+    "en": "An exploratory finger with polymeric skin-like tactile sensing for active surface and material probing."
+  },
+
+  "single-port laparoscopy": {
+    "display": "Single-Port Laparoscopy",
+    "ko": "배꼽 하나만 뚫는 최소 침습 수술을 위한 양손 로봇 플랫폼 — 초소형·고자유도 연속체 설계가 핵심.",
+    "en": "Bimanual robotic platforms for single-incision minimally invasive surgery — small, high-DoF continuum designs carry the load."
+  },
+
+  "imitation nonlinear dynamical": {
+    "display": "Dynamic Movement Primitives (DMP)",
+    "ko": "기술을 비선형 동역학 시스템의 어트랙터로 표현해 시연으로부터 모방 학습하는 프레임워크 (Schaal).",
+    "en": "Representing skills as attractors of a nonlinear dynamical system and learning them by demonstration — the DMP framework (Schaal)."
+  },
+
+  "control cable-actuated": {
+    "display": "Cable-Actuated Arm Control",
+    "ko": "케이블·힘줄로 구동되는 의인화 로봇 팔의 컴플라이언트 제어 — 접촉 안전과 자연스러운 움직임이 목표.",
+    "en": "Compliant control of anthropomorphic, cable-actuated arms — targeting safe contact and natural motion."
+  },
+
+  "physical human-robot interaction": {
+    "display": "Physical Human-Robot Interaction (pHRI)",
+    "ko": "사람과 로봇이 물리적으로 접촉·협업하는 작업 전반 — 안전, 힘 공유, 의도 추정이 핵심.",
+    "en": "Tasks where humans and robots physically share the same space and make contact — safety, shared force, and intent inference are central."
+  },
+
+  "disassembly automation": {
+    "display": "Disassembly Automation",
+    "ko": "완제품을 자동으로 해체해 재활용·재사용 가능하도록 하는 역방향 조립 로봇 연구.",
+    "en": "Reverse-assembly robotics — automatically dismantling finished products for recycling and reuse."
+  },
+
+  "soft arm": {
+    "display": "Soft Robotic Arm",
+    "ko": "케이블·공압·유연 재질로 만든 연속체 매니퓰레이터 — 안전한 접촉과 큰 작업공간이 장점.",
+    "en": "Continuum manipulators built from cables, pneumatics, or soft materials — safer contact and broader workspace by design."
+  },
+
+  "dynamic covariance scaling": {
+    "display": "Dynamic Covariance Scaling",
+    "ko": "SLAM 포즈 그래프 최적화에서 잘못된 루프 폐쇄의 공분산을 자동으로 부풀려 강건하게 만드는 기법.",
+    "en": "A robust SLAM back-end trick that automatically inflates the covariance of outlier loop closures so the optimization is not dragged off."
+  },
+
+  "coverage control": {
+    "display": "Multi-Robot Coverage Control",
+    "ko": "다수의 이동 로봇이 주어진 영역을 최적으로 감지·커버하도록 분산 제어하는 문제.",
+    "en": "Distributed control of many mobile robots so they optimally sense or cover a shared area."
+  },
+
+  "data association": {
+    "display": "Data Association",
+    "ko": "새로 들어온 센서 관측을 기존 트랙·맵 요소와 일치시키는 SLAM/추적의 고전 문제 — 오답 하나가 지도를 망가뜨린다.",
+    "en": "Matching fresh sensor observations to existing tracks or map elements — the classical SLAM/tracking problem where a single mistake can corrupt the whole map."
+  },
+
+  "time-domain passivity": {
+    "display": "Time-Domain Passivity Control",
+    "ko": "시간 영역에서 에너지 소산 조건을 감시·강제해 통신 지연이 있는 원격조작의 안정성을 보장하는 제어 기법.",
+    "en": "Telemanipulation control that monitors and enforces energy passivity in the time domain to keep the system stable despite communication delay."
+  },
+
+  "whole-body balancing": {
+    "display": "Whole-Body Balancing",
+    "ko": "휴머노이드가 여러 접촉점을 함께 활용해 균형을 유지하는 전신 토크 제어.",
+    "en": "Torque-level whole-body control that maintains humanoid balance by coordinating multiple simultaneous contacts."
+  },
+
+  "collision avoidance": {
+    "display": "Collision Avoidance",
+    "ko": "로봇이 장애물·다른 에이전트와 충돌하지 않도록 실시간 회피하는 제어·계획 문제.",
+    "en": "Real-time planning and control that keeps a robot from colliding with obstacles or other agents."
+  },
+
+  "place recognition": {
+    "display": "Place Recognition",
+    "ko": "이전에 방문한 장소를 다시 식별하는 문제 — SLAM의 loop closure와 도시 규모 재로컬라이제이션의 핵심.",
+    "en": "Recognizing previously visited places — central to loop closure in SLAM and to city-scale relocalization."
+  },
+
+  "model predictive": {
+    "display": "Model Predictive Control",
+    "ko": "매 스텝마다 짧은 미래 호라이즌의 최적화 문제를 풀어 제어 입력을 갱신하는 방식 — 현재 다리·드론 제어의 주력 기법.",
+    "en": "Solving a short-horizon optimization every step to update the control input — today's dominant method for legged and drone control."
+  },
+
+  "hidden markov generate": {
+    "display": "HMM-Based Motion Generation",
+    "ko": "모션 캡쳐 데이터를 HMM으로 학습해 휴머노이드의 자연스러운 움직임을 합성하는 방식.",
+    "en": "Learning HMMs over motion-capture data to synthesize human-like humanoid movement."
+  },
+
+  "natural adaptive control": {
+    "display": "Adaptive Control (Manipulator)",
+    "ko": "모델 파라미터(질량·관성)를 온라인 추정해 조정하는 매니퓰레이터 제어 — 부하가 바뀌어도 성능 유지.",
+    "en": "Adaptive manipulator control that estimates mass/inertia parameters online so performance survives payload changes."
+  },
+
+  "optimal jumps biarticular": {
+    "display": "Biarticular Leg Actuation",
+    "ko": "두 관절에 걸쳐 동작하는 근육 모사 (biarticular) 액추에이터를 쓴 다리 로봇이 효율적인 점프에 유리하다는 분석.",
+    "en": "An analysis showing that biarticular actuation — springs/actuators spanning two joints, as in biological legs — yields efficient jumping."
+  },
+
+  "learning-based detection collisions": {
+    "display": "Learning-Based Collision Detection",
+    "ko": "관절 토크 센서 없이 모터 신호만으로 학습 기반 모델이 실시간 충돌을 검출하는 접근.",
+    "en": "Detecting robot collisions in real time from motor signals alone, without joint torque sensors, via a learned model."
+  },
+
+  "optimal kinematic spherical": {
+    "display": "Optimal Kinematic Design (Lie Group)",
+    "ko": "작업공간·조작성 척도를 최대화하는 기구의 기하학적 치수를 최적화 — Lie 군 기반 해석적 접근 (Frank Park).",
+    "en": "Optimizing a mechanism's kinematic dimensions to maximize workspace and dexterity metrics, using Lie-group analytic tools (Frank Park)."
+  },
+
+  "spherical spatial mechanisms": {
+    "display": "Spherical & Spatial Mechanism Design",
+    "ko": "구형(회전축이 한 점을 지남)·공간형 기구의 기하 설계 — 로봇 손목·자세 전달 기구의 토대.",
+    "en": "Geometric design of spherical (all axes through a point) and spatial mechanisms — the base for robot wrists and orientation-transmitting linkages."
+  },
+
+  "eclipse-ii parallel mechanism": {
+    "display": "Eclipse-II Parallel Machine",
+    "ko": "6자유도 공작용 병렬 기계 — 말단이 수직/수평을 넘나들며 연속 회전할 수 있는 SNU Frank Park 연구실의 대표작.",
+    "en": "A 6-DoF parallel machining platform whose end-effector can spin continuously across vertical and horizontal orientations — a flagship from Frank Park's SNU lab."
+  },
+
+  "mechanism enabling continuous": {
+    "display": "Continuous-Spin Parallel Mechanism",
+    "ko": "360° 연속 회전이 가능한 새로운 형태의 병렬 기구 — 공구축 자세 제어 특화.",
+    "en": "A parallel mechanism family enabling continuous 360° rotation — purpose-built for orientation-critical machining."
+  },
+
+  "coordinate-free description dynamics": {
+    "display": "Coordinate-Free Robot Dynamics",
+    "ko": "좌표 선택에 무관한 미분기하·Lie 대수 형식으로 로봇 동역학을 기술하는 접근 — 수식이 간결하고 의미가 드러난다.",
+    "en": "Describing robot dynamics in a coordinate-free differential-geometric / Lie-algebraic form — shorter equations, clearer geometric meaning."
+  },
+
+  "geometric operational space": {
+    "display": "Geometric Operational-Space Dynamics",
+    "ko": "작업공간 동역학·제어를 Lie 군·Lie 대수의 기하학적 언어로 재정식화 (Frank Park).",
+    "en": "Reformulating operational-space dynamics and control in the geometric language of Lie groups and Lie algebras (Frank Park)."
+  },
+
+  "vast dof": {
+    "display": "Vast-DoF Cellular Actuator",
+    "ko": "여러 개의 작은 셀형 구동기를 배열해 손처럼 고자유도 동작을 만드는 액추에이터 설계 (Kyu-Jin Cho 초기).",
+    "en": "Actuator architecture that arrays many small cell-like units to produce very-high-DoF motion — an early Kyu-Jin Cho design."
+  },
+
+  "actuator array": {
+    "display": "SMA Actuator Array Hand",
+    "ko": "여러 개의 SMA 와이어를 병렬로 배열해 경량 로봇 손의 각 손가락을 구동하는 접근.",
+    "en": "Driving the fingers of a lightweight robot hand via an array of parallel SMA wires."
+  },
+
+  "fabrication body-caudal fin": {
+    "display": "Body-Caudal-Fin Fish Robot",
+    "ko": "cm 단위 소형 어류형 추진기 설계·제작 — 바디-꼬리지느러미 추진 원리를 단순·견고하게 구현.",
+    "en": "Design and fabrication of a centimeter-scale fish-like propulsion system using body-caudal-fin swimming."
+  },
+
+  "fin propulsion microrobotic": {
+    "display": "Fin-Propulsion Microrobot",
+    "ko": "소형 생체모방 수중 로봇의 지느러미 추진 메커니즘 연구.",
+    "en": "Fin-based propulsion mechanisms for small-scale biomimetic underwater robots."
+  },
+
+  "gripper flexural buckling": {
+    "display": "Flexural-Buckling Gripper",
+    "ko": "재료의 좌굴(buckling) 변형을 설계로 활용한 부드러운 적응형 그리퍼 — 정형 제약을 역이용한 소프트 메커니즘.",
+    "en": "An underactuated adaptive gripper that intentionally exploits flexural buckling as a design primitive — turning a failure mode into a feature."
+  },
+
+  "slack enabling": {
+    "display": "Slack-Enabling Tendon Actuation",
+    "ko": "케이블의 일시적 느슨함(slack)을 허용하는 액추에이터 설계로 착용형 소프트 로봇의 범위·효율을 개선.",
+    "en": "Actuator design that allows cable slack — widening the motion range and efficiency of wearable soft robots."
+  },
+
+  "fully soft": {
+    "display": "Fully-Soft Robot Design",
+    "ko": "리지드 부품을 전혀 쓰지 않고 몸 전체를 부드러운 재질로만 구성한 로봇 — 안전·환경 적응력이 핵심 장점.",
+    "en": "Robots built entirely from soft materials with no rigid skeleton — safety and environmental conformability are the point."
+  },
+
+  "origami": {
+    "display": "Origami Robotics",
+    "ko": "접힘-펼침 기하를 기반으로 전개·형상 변화하는 로봇 — 소형 휴대에서 큰 작업 부피로 변신하는 능력.",
+    "en": "Robots whose bodies deploy and transform via folding geometries — compactly portable, then expanding into large workspaces."
+  },
+
+  "vertical surfaces": {
+    "display": "Vertical-Surface Climbing",
+    "ko": "수직 벽을 오르는 로봇 — 흡착·미세 가시(microspine)·게코 접착 등 다양한 접촉 원리를 실험해온 분야.",
+    "en": "Robots that scale vertical walls — a field that has explored suction, microspines, gecko adhesion, and other contact principles."
+  },
+
+  "scaling hard vertical": {
+    "display": "Microspine Climbing",
+    "ko": "콘크리트·벽돌 같은 거친 표면을 미세 가시(microspine) 배열로 오르는 등반 로봇 (Cutkosky·Sangbae Kim 초기).",
+    "en": "Climbing rough surfaces like concrete with arrays of microspines that snag surface irregularities (Cutkosky/Sangbae Kim's early line)."
+  },
+
+  "speed tennis swinging": {
+    "display": "Robotic Table Tennis",
+    "ko": "경량 하드웨어와 MPC로 고속 라켓 스윙을 구현한 탁구 로봇 — 실시간 제어의 극한을 점검하는 벤치마크.",
+    "en": "Table-tennis robots swinging at high speed with lightweight hardware and MPC — a benchmark that stresses the limits of real-time control."
+  },
+
+  "speed trot-running": {
+    "display": "High-Speed Trot Running",
+    "ko": "MIT Cheetah의 고속 트롯 보행 구현 — proprioceptive impedance control 계층 구조를 현장에 적용.",
+    "en": "Implementing high-speed trot running on MIT Cheetah — applying a hierarchical proprioceptive impedance controller in practice."
+  },
+
+  "hierarchy predictive control": {
+    "display": "Hierarchical Predictive Control",
+    "ko": "여러 계층으로 쪼갠 예측 제어 — 상위 레벨은 긴 호라이즌, 하위 레벨은 빠른 동역학을 담당해 실시간성을 유지.",
+    "en": "Predictive control split across layers — a slow high-level horizon for planning and a fast low-level loop for dynamics."
+  },
+
+  "bilateral feedback teleoperation": {
+    "display": "Bilateral Teleoperation",
+    "ko": "힘·자세를 양방향으로 주고받는 원격조작 — 사용자가 로봇이 닿는 대상을 손끝으로 느낄 수 있다.",
+    "en": "Teleoperation with force/position flowing in both directions, so the user feels at their fingertips what the remote robot touches."
+  },
+
+  "omnidirectional images": {
+    "display": "Omnidirectional Vision",
+    "ko": "360° 시야를 가진 카메라를 기반으로 한 비전 — Scaramuzza의 박사 시절 연구축, 이후 visual odometry로 이어짐.",
+    "en": "Vision based on 360° cameras — Scaramuzza's doctoral focus, a stepping stone to his later visual odometry work."
+  },
+
+  "monocular visual-inertial": {
+    "display": "Monocular Visual-Inertial",
+    "ko": "한 대의 카메라와 IMU만으로 위치·속도를 추정하는 시스템 — VINS-Mono 계열이 대표.",
+    "en": "State estimation from a single camera plus an IMU — the VINS-Mono family is the representative system."
+  },
+
+  "autonomous multi-floor indoor": {
+    "display": "Multi-Floor Autonomous UAV",
+    "ko": "GPS 없는 실내 다층 환경에서 자율 비행·탐사를 수행하는 쿼드로터 스택 (Shaojie Shen 초기).",
+    "en": "A quadrotor stack that flies and explores autonomously across multiple indoor floors without GPS (Shen's early line)."
+  },
+
+  "rao-blackwellized particle": {
+    "display": "Rao-Blackwellized Particle Filter SLAM",
+    "ko": "로봇 경로는 파티클로 샘플링하고 지도는 각 파티클에 해석적으로 조건화하는 SLAM — GMapping의 뼈대.",
+    "en": "Sampling robot trajectories with particles while analytically conditioning the map on each one — the backbone of GMapping."
+  },
+
+  "active visual": {
+    "display": "Active Visual SLAM",
+    "ko": "추정 불확실성을 줄이는 방향으로 스스로 뷰포인트·경로를 고르는 능동 SLAM.",
+    "en": "SLAM that actively picks its own viewpoints or paths to reduce estimation uncertainty."
+  },
+
+  "lqr-trees feedback motion": {
+    "display": "LQR-Trees",
+    "ko": "여러 LQR 퓨널(funnel)을 이어 붙여 넓은 영역을 안정화하는 피드백 모션 플래닝 (Tedrake).",
+    "en": "Feedback motion planning that tiles large regions of stability by joining together many LQR funnels (Tedrake)."
+  },
+
+  "dynamics trajectory optimization": {
+    "display": "Dynamics-Aware Trajectory Optimization",
+    "ko": "물리 동역학을 직접 다루는 궤적 최적화 — 접촉·제약·비선형을 모두 통합해 긴 호라이즌을 계획.",
+    "en": "Trajectory optimization that works directly against physical dynamics — folding contact, constraints, and nonlinearity into one long-horizon plan."
+  },
+
+  "differentiable simulation": {
+    "display": "Differentiable Simulation",
+    "ko": "시뮬레이터의 출력을 미분 가능하게 만들어 그래디언트로 정책·파라미터를 최적화 — 학습과 물리를 하나의 파이프라인으로 잇는다.",
+    "en": "Physics simulators whose outputs are differentiable all the way through — letting gradient-based optimization tune policies and parameters end-to-end."
+  }
+}
