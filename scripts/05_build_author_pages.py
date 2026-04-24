@@ -13,6 +13,11 @@ import json
 import os
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from common.io import build_author_index, load_papers
+from common.phrases import build_global_idf, distinctive_phrases, prettify
+
 META_PATH = "analysis/meta.json"
 PROFILES_DIR = "analysis/profiles"
 OUT_DIR = "authors"
@@ -42,6 +47,21 @@ def load_all():
 
 def blockbusters_in_window(profile, start, end):
     return [p for p in profile.get("blockbusters", []) if start <= p["year"] <= end]
+
+
+def papers_in_window(author_papers, start, end):
+    return [p for p in author_papers if p.get("year") and start <= p["year"] <= end]
+
+
+def phrases_for_window(author_papers, start, end, idf, max_idf, k=5):
+    win = papers_in_window(author_papers, start, end)
+    phrases = distinctive_phrases(win, idf, max_idf, top_k=k)
+    return [prettify(p) for p in phrases]
+
+
+def phrases_for_span(author_papers, idf, max_idf, k=5):
+    phrases = distinctive_phrases(author_papers, idf, max_idf, top_k=k)
+    return [prettify(p) for p in phrases]
 
 
 def students_starting_in(profile, start, end):
@@ -99,55 +119,72 @@ def format_paper_title(title, max_len=85):
 # Narrative generators — return structured dicts per lang
 # -----------------------------------------------------------------------------
 
-def tagline(profile, lang):
-    early, late = first_last_concepts(profile, k=1)
-    mid_idx = len(profile.get("topic_windows", [])) // 2
-    mid_c = None
-    if profile.get("topic_windows"):
-        mid_w = profile["topic_windows"][mid_idx]
-        for t in mid_w["top_concepts"]:
-            if t["c"] != "Computer science":
-                mid_c = t["c"]
-                break
+def tagline(profile, lang, author_papers, idf, max_idf):
+    windows = profile.get("topic_windows", [])
+    if not windows:
+        return ""
     parts = []
-    if early:
-        parts.append(early[0])
-    if mid_c and mid_c not in parts:
-        parts.append(mid_c)
-    if late and late[0] not in parts:
-        parts.append(late[0])
+    # first
+    ws = windows[0]
+    first_phr = phrases_for_window(author_papers, ws["start"], ws["end"], idf, max_idf, k=2)
+    if first_phr:
+        parts.append(first_phr[0])
+    # middle (two-thirds in)
+    if len(windows) >= 3:
+        mid = windows[len(windows) * 2 // 3 - 1]
+        mid_phr = phrases_for_window(author_papers, mid["start"], mid["end"], idf, max_idf, k=2)
+        if mid_phr and mid_phr[0] not in parts:
+            parts.append(mid_phr[0])
+    # last
+    wl = windows[-1]
+    last_phr = phrases_for_window(author_papers, wl["start"], wl["end"], idf, max_idf, k=2)
+    if last_phr and last_phr[0] not in parts:
+        parts.append(last_phr[0])
+    if not parts:
+        # fallback
+        early, late = first_last_concepts(profile, k=1)
+        parts = (early or []) + (late or [])
     return " → ".join(parts[:3])
 
 
-def one_liner(profile, lang):
+def one_liner(profile, lang, author_papers, idf, max_idf):
     cs = profile["career_stats"]
     pivot = profile.get("pivot_score", 0)
-    early, late = first_last_concepts(profile, k=1)
-    cont = concept_continuity(profile)
     students = profile.get("likely_students", [])
     bbs = profile.get("blockbusters", [])
     top_bb = bbs[0] if bbs else None
+    # distinctive phrases: early / late / career-long anchor
+    windows = profile.get("topic_windows", [])
+    early = []
+    late = []
+    if windows:
+        early = phrases_for_window(author_papers, windows[0]["start"], windows[0]["end"], idf, max_idf, k=2)
+        late = phrases_for_window(author_papers, windows[-1]["start"], windows[-1]["end"], idf, max_idf, k=2)
+    career_phrases = phrases_for_span(author_papers, idf, max_idf, k=5)
+    anchor_phrase = career_phrases[0] if career_phrases else ""
+
+    early_s = early[0] if early else ""
+    late_s = late[0] if late else ""
 
     if lang == "ko":
         bits = [f"{cs['first_year']}년에 출판을 시작해 {cs['span']}년째 현장에 머물고 있는 연구자."]
-        if pivot >= 0.4 and early and late:
+        if pivot >= 0.4 and early_s and late_s and early_s != late_s:
             bits.append(
-                f"그의 궤적은 {early[0]}에서 {late[0]}에 이르는 긴 재창조의 연쇄였다 — "
+                f"그의 궤적은 <em>{early_s}</em>에서 <em>{late_s}</em>에 이르는 긴 재창조의 연쇄였다 — "
                 "같은 이름으로 서명했지만 실제로 다뤘던 질문은 10년에 한 번씩 크게 갈아엎혔다."
             )
-        elif pivot < 0.2 and cs["total_papers"] >= 150:
-            anchor = cont[0] if cont else (early[0] if early else "한 주제")
+        elif pivot < 0.2 and cs["total_papers"] >= 150 and anchor_phrase:
             bits.append(
-                f"주제를 옮긴 적이 거의 없다. {anchor} 하나를 {cs['span']}년 내내 파고들었고, "
-                f"그 결과 {cs['total_papers']}편, h={cs['h_index']}이라는 숫자가 남았다."
+                f"주제를 크게 옮긴 적이 없다. <em>{anchor_phrase}</em>라는 축 하나를 {cs['span']}년 내내 파고든 결과가 "
+                f"{cs['total_papers']}편, h={cs['h_index']}이라는 숫자다."
             )
-        elif early and late and early[0] != late[0]:
+        elif early_s and late_s and early_s != late_s:
             bits.append(
-                f"{early[0]}에서 출발한 연구 관심이 서서히 {late[0]}까지 확장되어온 점진적 궤적. "
-                "급격한 피벗이라기보다는 인접 영역을 꾸준히 넓혀온 유형에 가깝다."
+                f"초기에는 <em>{early_s}</em>를 다루었고, 최근에는 <em>{late_s}</em>가 중심으로 올라왔다. "
+                "급격한 단절이라기보다는 인접 영역을 꾸준히 밀고 나간 점진적 확장에 가깝다."
             )
-        elif early:
-            bits.append(f"{early[0]}를 중심축으로 삼아 일관되게 연구를 이어온 유형.")
+        elif anchor_phrase:
+            bits.append(f"<em>{anchor_phrase}</em>를 평생의 중심축으로 삼고 꾸준히 깊이를 더해온 유형.")
         if top_bb and top_bb.get("cites", 0) >= 500:
             bits.append(
                 f"대표작은 {top_bb['year']}년 {top_bb['venue']}에 실린 \"{format_paper_title(top_bb['title'], 70)}\" "
@@ -165,24 +202,23 @@ def one_liner(profile, lang):
         return " ".join(bits)
     else:
         bits = [f"Began publishing in {cs['first_year']} and is still active {cs['span']} years on."]
-        if pivot >= 0.4 and early and late:
+        if pivot >= 0.4 and early_s and late_s and early_s != late_s:
             bits.append(
-                f"The trajectory runs from {early[0]} to {late[0]} — a chain of reinventions. "
+                f"The trajectory runs from <em>{early_s}</em> to <em>{late_s}</em> — a chain of reinventions. "
                 "The same name stayed on the papers, but the actual question got rewritten every decade or so."
             )
-        elif pivot < 0.2 and cs["total_papers"] >= 150:
-            anchor = cont[0] if cont else (early[0] if early else "one subject")
+        elif pivot < 0.2 and cs["total_papers"] >= 150 and anchor_phrase:
             bits.append(
-                f"Rarely changed lane. {anchor} for {cs['span']} straight years, "
-                f"yielding {cs['total_papers']} papers and an h-index of {cs['h_index']}."
+                f"Rarely changed lane. <em>{anchor_phrase}</em> for {cs['span']} straight years — "
+                f"the ledger shows {cs['total_papers']} papers and an h-index of {cs['h_index']}."
             )
-        elif early and late and early[0] != late[0]:
+        elif early_s and late_s and early_s != late_s:
             bits.append(
-                f"Gradual expansion — starting in {early[0]} and reaching {late[0]} without ever making a sharp break. "
-                "More of an incremental broadening than a pivot."
+                f"Early work sat in <em>{early_s}</em>; recent work centers on <em>{late_s}</em>. "
+                "More of an incremental broadening than a sharp pivot."
             )
-        elif early:
-            bits.append(f"Anchored to {early[0]} throughout, with steady incremental work.")
+        elif anchor_phrase:
+            bits.append(f"Anchored to <em>{anchor_phrase}</em> throughout, steadily deepening.")
         if top_bb and top_bb.get("cites", 0) >= 500:
             bits.append(
                 f"The landmark is the {top_bb['year']} {top_bb['venue']} paper "
@@ -200,30 +236,37 @@ def one_liner(profile, lang):
         return " ".join(bits)
 
 
-def build_facts(profile, meta_archetype_map, lang):
+def build_facts(profile, author_papers, idf, max_idf, meta_archetype_map, lang):
     cs = profile["career_stats"]
-    early, late = first_last_concepts(profile, k=2)
     pivot = profile.get("pivot_score", 0)
     arc = meta_archetype_map.get(profile["name"], "—")
     top_bb = (profile.get("blockbusters") or [None])[0]
-    cont = concept_continuity(profile)
-    anchor = cont[0] if cont else (early[0] if early else "—")
+
+    career_phrases = phrases_for_span(author_papers, idf, max_idf, k=5)
+    windows = profile.get("topic_windows", [])
+    early_phr = phrases_for_window(author_papers, windows[0]["start"], windows[0]["end"], idf, max_idf, k=2) if windows else []
+    late_phr = phrases_for_window(author_papers, windows[-1]["start"], windows[-1]["end"], idf, max_idf, k=2) if windows else []
+
+    core_val = ", ".join(career_phrases[:2]) if career_phrases else "—"
+    anchor = career_phrases[0] if career_phrases else "—"
+
     style_parts = [arc]
     if pivot >= 0.4:
         style_parts.append("pivoter")
     elif pivot < 0.2:
         style_parts.append("specialist")
     style = " · ".join(style_parts)
-    shift = ""
-    if early and late and early[0] != late[0]:
-        shift = f"{early[0]} → {late[0]}"
+
+    if early_phr and late_phr and early_phr[0] != late_phr[0]:
+        shift = f"{early_phr[0]} → {late_phr[0]}"
     else:
         shift = f"{anchor} (꾸준)" if lang == "ko" else f"{anchor} (steady)"
+
     if lang == "ko":
         rows = [
             ["시기",    f"<strong>{cs['first_year']} — {cs['last_year']}</strong>"],
             ["논문 수", f"{cs['total_papers']}편 · 인용 {cs['total_cites']:,} · h={cs['h_index']}"],
-            ["핵심",    ", ".join(cont[:2]) if cont else anchor],
+            ["핵심",    core_val],
             ["대표작",  format_paper_title(top_bb["title"], 48) if top_bb else "—"],
             ["스타일",  style],
             ["전환",    shift],
@@ -232,7 +275,7 @@ def build_facts(profile, meta_archetype_map, lang):
         rows = [
             ["Period",    f"<strong>{cs['first_year']} — {cs['last_year']}</strong>"],
             ["Papers",    f"{cs['total_papers']} · {cs['total_cites']:,} cites · h={cs['h_index']}"],
-            ["Core",      ", ".join(cont[:2]) if cont else anchor],
+            ["Core",      core_val],
             ["Landmark",  format_paper_title(top_bb["title"], 48) if top_bb else "—"],
             ["Style",     style],
             ["Shift",     shift],
@@ -240,13 +283,15 @@ def build_facts(profile, meta_archetype_map, lang):
     return rows
 
 
-def phase_title(win, idx, total, lang):
-    concepts = [t["c"] for t in win["top_concepts"] if t["c"] != "Computer science"][:2]
-    if not concepts:
-        concepts = [t["c"] for t in win["top_concepts"][:2]]
-    if not concepts:
-        return "—" if lang == "ko" else "—"
-    core = " · ".join(concepts[:2])
+def phase_title(win, win_phrases, idx, total, lang):
+    """win_phrases: prettified distinctive phrases for this window (top N)."""
+    core_phrases = win_phrases[:2] if win_phrases else []
+    if not core_phrases:
+        concepts = [t["c"] for t in win["top_concepts"] if t["c"] != "Computer science"][:2]
+        core_phrases = concepts or [t["c"] for t in win["top_concepts"][:2]]
+    if not core_phrases:
+        return "—"
+    core = " · ".join(core_phrases)
     if lang == "ko":
         if idx == 0:
             return f"출발점 — {core}"
@@ -287,12 +332,16 @@ _EN_OPENERS = [
     "The {ys}–{ye} years saw",
 ]
 
-def phase_body(profile, win, venue_win, collab_win, idx, total, lang):
+def phase_body(profile, win, venue_win, collab_win, win_phrases, idx, total, lang):
     ys, ye = win["start"], win["end"]
     n = win["n_papers"]
-    top_concepts = [t["c"] for t in win["top_concepts"][:3] if t["c"] != "Computer science"][:3]
-    if not top_concepts:
-        top_concepts = [t["c"] for t in win["top_concepts"][:3]]
+    # Prefer distinctive phrases; fall back to concepts if window is too thin.
+    if win_phrases:
+        top_concepts = win_phrases[:3]
+    else:
+        top_concepts = [t["c"] for t in win["top_concepts"][:3] if t["c"] != "Computer science"][:3]
+        if not top_concepts:
+            top_concepts = [t["c"] for t in win["top_concepts"][:3]]
     bbs_here = blockbusters_in_window(profile, ys, ye)
     bbs_here = sorted(bbs_here, key=lambda p: -p["cites"])[:2]
     coauths = top_coauthors_in_window(collab_win)[:3]
@@ -430,7 +479,7 @@ def phase_body(profile, win, venue_win, collab_win, idx, total, lang):
         return " ".join(sents)
 
 
-def build_phases(profile, lang):
+def build_phases(profile, author_papers, idf, max_idf, lang):
     windows = profile.get("topic_windows", [])
     venue_ws = profile.get("venue_windows", [])
     collab_ws = profile.get("collab_windows", [])
@@ -442,26 +491,33 @@ def build_phases(profile, lang):
         k = (win["start"], win["end"])
         v = v_idx.get(k, {"mix": {}})
         c = c_idx.get(k, {"top_coauthors": [], "mean_n_authors": 0})
+        win_phrases = phrases_for_window(author_papers, win["start"], win["end"], idf, max_idf, k=4)
         phases.append({
             "years": f"{win['start']} — {win['end']}",
             "id": ROMAN[i] if i < len(ROMAN) else str(i + 1),
-            "title": phase_title(win, i, total, lang),
-            "body": phase_body(profile, win, v, c, i, total, lang),
+            "title": phase_title(win, win_phrases, i, total, lang),
+            "body": phase_body(profile, win, v, c, win_phrases, i, total, lang),
         })
     return phases
 
 
-def build_themes(profile, meta_dynasty, lang):
+def build_themes(profile, author_papers, idf, max_idf, meta_dynasty, lang):
     themes = []
     cs = profile["career_stats"]
     pivot = profile.get("pivot_score", 0)
-    cont = concept_continuity(profile)
-    early, late = first_last_concepts(profile, k=1)
     td = profile.get("team_drift", {})
     students = profile.get("likely_students", [])
     advisors = profile.get("likely_advisors", [])
     family = profile["name"].split()[-1]
-    n_windows = len(profile.get("topic_windows", []))
+    windows = profile.get("topic_windows", [])
+    n_windows = len(windows)
+
+    career_phrases = phrases_for_span(author_papers, idf, max_idf, k=5)
+    early_phr = phrases_for_window(author_papers, windows[0]["start"], windows[0]["end"], idf, max_idf, k=2) if windows else []
+    late_phr = phrases_for_window(author_papers, windows[-1]["start"], windows[-1]["end"], idf, max_idf, k=2) if windows else []
+    early = early_phr
+    late = late_phr
+    cont = career_phrases  # use distinctive career-wide phrases as anchor candidates
 
     # Theme 1
     if pivot >= 0.4 and early and late:
@@ -738,14 +794,14 @@ def build_lineage(profile, lang):
     }
 
 
-def build_page_data(profile, meta, lang, meta_dynasty):
+def build_page_data(profile, author_papers, idf, max_idf, meta, lang, meta_dynasty):
     archetype_map = {a["name"]: a["archetype"] for a in meta["archetype_assignments"]}
     return {
-        "tagline": tagline(profile, lang),
-        "oneLine": one_liner(profile, lang),
-        "facts": build_facts(profile, archetype_map, lang),
-        "phases": build_phases(profile, lang),
-        "themes": build_themes(profile, meta_dynasty, lang),
+        "tagline": tagline(profile, lang, author_papers, idf, max_idf),
+        "oneLine": one_liner(profile, lang, author_papers, idf, max_idf),
+        "facts": build_facts(profile, author_papers, idf, max_idf, archetype_map, lang),
+        "phases": build_phases(profile, author_papers, idf, max_idf, lang),
+        "themes": build_themes(profile, author_papers, idf, max_idf, meta_dynasty, lang),
         "pullquote": pullquote(profile, lang),
         "highlights": build_highlights(profile),
         "lineage": build_lineage(profile, lang),
@@ -1308,10 +1364,14 @@ def main():
     meta, profiles = load_all()
     os.makedirs(OUT_DIR, exist_ok=True)
 
-    # map slug -> exists (so cards can only link inside top-N); name -> slug
-    slug_map = {p["name"]: p["slug"] for p in profiles}
+    # Paper corpus + global IDF for distinctive-phrase extraction
+    print("Loading paper corpus for title-phrase extraction...", file=sys.stderr)
+    papers = load_papers()
+    author_idx = build_author_index(papers)
+    idf, max_idf = build_global_idf(papers)
+    print(f"  {len(papers):,} papers indexed", file=sys.stderr)
 
-    # dynasty count per person
+    slug_map = {p["name"]: p["slug"] for p in profiles}
     dynasty_map = {
         x["name"]: x["students_in_topN"]
         for x in meta.get("dynasty_ranking", [])
@@ -1321,13 +1381,16 @@ def main():
 
     for p in profiles:
         ri = p.get("_rank_info", {})
-        # Split name into given/family (heuristic: last token is family)
         toks = p["name"].split()
         given = " ".join(toks[:-1]) if len(toks) > 1 else ""
         family = toks[-1] if toks else p["name"]
 
-        en_data = build_page_data(p, meta, "en", dynasty_map)
-        ko_data = build_page_data(p, meta, "ko", dynasty_map)
+        # Resolve this author's papers from raw corpus
+        name_idxs = author_idx.get(p["name"], [])
+        author_papers = [papers[i] for i in name_idxs]
+
+        en_data = build_page_data(p, author_papers, idf, max_idf, meta, "en", dynasty_map)
+        ko_data = build_page_data(p, author_papers, idf, max_idf, meta, "ko", dynasty_map)
 
         archetype = dynasty_map  # just reuse; real archetype from meta
         archetype_en = next(
