@@ -1455,14 +1455,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "steady-producer",
       "headline": "Yun-Hui Liu: 37년에 걸쳐 159편, 총 3,709회 인용, h=31, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1989년 \"A practical algorithm for planning collision-free coordinated motion of multiple mobile robots\"으로 출발.",
         "초기 토픽: Robot, Mobile robot, Motion planning. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.36 → 점진적 이동형.",
         "저자수 평균: 초기 2.7명 → 후기 6.5명 (팀 확장).",
         "최다 인용 논문 \"Uncalibrated visual servoing of robots using a depth-independent interaction matrix\" (2006, 309회) — 커리어 중기에 위치.",
-        "제자 후보 추정 42명 — 상위: Zhe Liu(2015~, 우리 마지막저자 12편), Shunbo Zhou(2018~, 우리 마지막저자 11편), Wen Chen(2019~, 우리 마지막저자 10편)."
+        "제자 후보 추정 42명 — 상위: Zhe Liu(2015~, 본인 마지막저자 12편), Shunbo Zhou(2018~, 본인 마지막저자 11편), Wen Chen(2019~, 본인 마지막저자 10편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1470,7 +1470,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "steady-producer",
       "headline": "Yun-Hui Liu: over 37 years, 159 papers, 3,709 total cites, h=31, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1989 with \"A practical algorithm for planning collision-free coordinated motion of multiple mobile robots\".",

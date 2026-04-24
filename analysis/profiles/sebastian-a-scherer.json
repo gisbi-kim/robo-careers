@@ -1120,14 +1120,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak-3",
       "headline": "Sebastian A. Scherer: 20년에 걸쳐 136편, 총 8,483회 인용, h=37, 500+ 블록버스터 1편.",
       "paragraphs": [
         "2006년 \"Learning to Drive Among Obstacles\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548회). 1000+ 인용 논문: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548회).",
         "초기 토픽: Computer science, Collision avoidance, Terrain. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.18 → 토픽 지속형.",
         "저자수 평균: 초기 3.2명 → 후기 5.2명 (팀 확장).",
         "최다 인용 논문 \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Sanjiv Singh. 제자 후보 추정 38명 — 상위: Wenshan Wang(2019~, 우리 마지막저자 14편), Peng Yin(2018~, 우리 마지막저자 9편), Brady G. Moon(2020~, 우리 마지막저자 9편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Sanjiv Singh. 제자 후보 추정 38명 — 상위: Wenshan Wang(2019~, 본인 마지막저자 14편), Peng Yin(2018~, 본인 마지막저자 9편), Brady G. Moon(2020~, 본인 마지막저자 9편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1136,7 +1136,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak-3",
       "headline": "Sebastian A. Scherer: over 20 years, 136 papers, 8,483 total cites, h=37, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2006 with \"Learning to Drive Among Obstacles\". First 500+ cite paper came 9 years in: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548 cites). 1000+ cite paper: \"VoxNet: A 3D Convolutional Neural Network for real-time object recognition\" (2015, 3,548 cites).",

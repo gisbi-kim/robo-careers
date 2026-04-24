@@ -1118,14 +1118,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Fumio Kanehiro: 32년에 걸쳐 107편, 총 10,839회 인용, h=50, 500+ 블록버스터 3편.",
       "paragraphs": [
         "1994년 \"Vision-Based Adaptive and Interactive Behaviors in Mechanical Animals Using the Remote-Brained Approach\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation\" (2001, 1,034회). 1000+ 인용 논문: \"The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation\" (2001, 1,034회).",
         "초기 토픽: Robot, Computer science, Interfacing. 최근 토픽: Computer science, Robot, Control theory (sociology). 피벗 점수 0.21 → 토픽 지속형.",
         "저자수 평균: 초기 6.2명 → 후기 5.4명 (팀 축소).",
         "최다 인용 논문 \"Biped walking pattern generation by using preview control of zero-moment point\" (2003, 2,075회) — 커리어 초기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Hirochika Inoue. 제자 후보 추정 10명 — 상위: Rafael Cisneros(2020~, 우리 마지막저자 3편), Rafael Cisneros Limón(2015~, 우리 마지막저자 2편), Mitsuharu Morisawa(2005~, 우리 마지막저자 0편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Hirochika Inoue. 제자 후보 추정 10명 — 상위: Rafael Cisneros(2020~, 본인 마지막저자 3편), Rafael Cisneros Limón(2015~, 본인 마지막저자 2편), Mitsuharu Morisawa(2005~, 본인 마지막저자 0편)."
       ],
       "lessons": [
         "10명 제자 후보 — 제자 배출이 임팩트의 실체.",
@@ -1133,7 +1133,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Fumio Kanehiro: over 32 years, 107 papers, 10,839 total cites, h=50, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1994 with \"Vision-Based Adaptive and Interactive Behaviors in Mechanical Animals Using the Remote-Brained Approach\". First 500+ cite paper came 7 years in: \"The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation\" (2001, 1,034 cites). 1000+ cite paper: \"The 3D linear inverted pendulum mode: a simple modeling for a biped walking pattern generation\" (2001, 1,034 cites).",

@@ -1367,14 +1367,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-3",
       "headline": "Robert J. Wood: 25년에 걸쳐 200편, 총 17,461회 인용, h=63, 500+ 블록버스터 6편.",
       "paragraphs": [
         "2001년 \"Flight force measurements for a micromechanical flying insect\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"The First Takeoff of a Biologically Inspired At-Scale Robotic Insect\" (2008, 902회). 1000+ 인용 논문: \"A Resilient, Untethered Soft Robot\" (2014, 1,069회).",
         "초기 토픽: Insect flight, Computer science, Actuator. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.26 → 점진적 이동형.",
         "저자수 평균: 초기 3.3명 → 후기 5.0명 (팀 확장).",
         "최다 인용 논문 \"The grand challenges of Science Robotics\" (2018, 1,122회) — 커리어 후기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Ronald S. Fearing. 제자 후보 추정 53명 — 상위: Clark B. Teeple(2018~, 우리 마지막저자 13편), Benjamin Goldberg(2014~, 우리 마지막저자 10편), Benjamin M. Finio(2009~, 우리 마지막저자 8편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Ronald S. Fearing. 제자 후보 추정 53명 — 상위: Clark B. Teeple(2018~, 본인 마지막저자 13편), Benjamin Goldberg(2014~, 본인 마지막저자 10편), Benjamin M. Finio(2009~, 본인 마지막저자 8편)."
       ],
       "lessons": [
         "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
@@ -1384,7 +1384,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-3",
       "headline": "Robert J. Wood: over 25 years, 200 papers, 17,461 total cites, h=63, 6 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2001 with \"Flight force measurements for a micromechanical flying insect\". First 500+ cite paper came 7 years in: \"The First Takeoff of a Biologically Inspired At-Scale Robotic Insect\" (2008, 902 cites). 1000+ cite paper: \"A Resilient, Untethered Soft Robot\" (2014, 1,069 cites).",

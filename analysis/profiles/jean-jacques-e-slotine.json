@@ -1183,14 +1183,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak-3",
       "headline": "Jean-Jacques E. Slotine: 41년에 걸쳐 58편, 총 4,714회 인용, h=29, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1985년 \"Robustness issues in robot control\"으로 출발. 첫 500+ 인용 논문까지 19년 걸림: \"Telemanipulation with Time Delays\" (2004, 534회).",
         "초기 토픽: Control theory (sociology), Computer science, Adaptive control. 최근 토픽: Obstacle, Control (management), Computer science. 피벗 점수 0.51 → 적극 피벗형.",
         "저자수 평균: 초기 2.1명 → 후기 3.3명 (팀 확장).",
         "최다 인용 논문 \"Cooperative Robot Control and Concurrent Synchronization of Lagrangian Systems\" (2009, 549회) — 커리어 중기에 위치.",
-        "제자 후보 추정 10명 — 상위: Chao Liu(2004~, 우리 마지막저자 6편), Yu Zhao(2004~, 우리 마지막저자 3편), Mac Schwager(2006~, 우리 마지막저자 2편)."
+        "제자 후보 추정 10명 — 상위: Chao Liu(2004~, 본인 마지막저자 6편), Yu Zhao(2004~, 본인 마지막저자 3편), Mac Schwager(2006~, 본인 마지막저자 2편)."
       ],
       "lessons": [
         "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
@@ -1199,7 +1199,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak-3",
       "headline": "Jean-Jacques E. Slotine: over 41 years, 58 papers, 4,714 total cites, h=29, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1985 with \"Robustness issues in robot control\". First 500+ cite paper came 19 years in: \"Telemanipulation with Time Delays\" (2004, 534 cites).",

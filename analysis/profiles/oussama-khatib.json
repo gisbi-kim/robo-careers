@@ -1298,14 +1298,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Oussama Khatib: 38년에 걸쳐 114편, 총 12,038회 인용, h=46, 500+ 블록버스터 6편.",
       "paragraphs": [
         "1985년 \"Real-time obstacle avoidance for manipulators and mobile robots\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669회). 1000+ 인용 논문: \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669회).",
         "초기 토픽: Computer science, Motion control, Control theory (sociology). 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.31 → 점진적 이동형.",
         "저자수 평균: 초기 2.3명 → 후기 3.7명 (팀 확장).",
         "최다 인용 논문 \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669회) — 커리어 초기에 위치.",
-        "제자 후보 추정 25명 — 상위: Jaeheung Park(2003~, 우리 마지막저자 9편), Kyong-Sok Chang(1995~, 우리 마지막저자 5편), Dongjun Shin(2007~, 우리 마지막저자 4편)."
+        "제자 후보 추정 25명 — 상위: Jaeheung Park(2003~, 본인 마지막저자 9편), Kyong-Sok Chang(1995~, 본인 마지막저자 5편), Dongjun Shin(2007~, 본인 마지막저자 4편)."
       ],
       "lessons": [
         "초기 0년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1314,7 +1314,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Oussama Khatib: over 38 years, 114 papers, 12,038 total cites, h=46, 6 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1985 with \"Real-time obstacle avoidance for manipulators and mobile robots\". First 500+ cite paper came 0 years in: \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669 cites). 1000+ cite paper: \"Real-time obstacle avoidance for manipulators and mobile robots\" (1985, 1,669 cites).",

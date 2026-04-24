@@ -1323,14 +1323,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Cyrill Stachniss: 24년에 걸쳐 221편, 총 16,710회 인용, h=55, 500+ 블록버스터 5편.",
       "paragraphs": [
         "2002년 \"An integrated approach to goal-directed obstacle avoidance under dynamic constraints for dynamic environments\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"Coordinated multi-robot exploration\" (2005, 1,143회). 1000+ 인용 논문: \"Coordinated multi-robot exploration\" (2005, 1,143회).",
         "초기 토픽: Computer science, Mobile robot, Artificial intelligence. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.10 → 토픽 지속형.",
         "저자수 평균: 초기 4.3명 → 후기 5.1명 (팀 확장).",
         "최다 인용 논문 \"Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters\" (2007, 2,397회) — 커리어 초기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Wolfram Burgard. 제자 후보 추정 53명 — 상위: Federico Magistri(2020~, 우리 마지막저자 18편), Louis Wiesmann(2021~, 우리 마지막저자 18편), Xieyuanli Chen(2019~, 우리 마지막저자 17편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Wolfram Burgard. 제자 후보 추정 53명 — 상위: Federico Magistri(2020~, 본인 마지막저자 18편), Louis Wiesmann(2021~, 본인 마지막저자 18편), Xieyuanli Chen(2019~, 본인 마지막저자 17편)."
       ],
       "lessons": [
         "초기 3년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1340,7 +1340,7 @@
       ]
     },
     "en": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Cyrill Stachniss: over 24 years, 221 papers, 16,710 total cites, h=55, 5 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2002 with \"An integrated approach to goal-directed obstacle avoidance under dynamic constraints for dynamic environments\". First 500+ cite paper came 3 years in: \"Coordinated multi-robot exploration\" (2005, 1,143 cites). 1000+ cite paper: \"Coordinated multi-robot exploration\" (2005, 1,143 cites).",

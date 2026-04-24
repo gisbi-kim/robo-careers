@@ -1,0 +1,857 @@
+{
+  "name": "Edwin Olson",
+  "slug": "edwin-olson",
+  "career_stats": {
+    "first_year": 2005,
+    "last_year": 2021,
+    "span": 17,
+    "total_papers": 52,
+    "total_cites": 5067,
+    "h_index": 26,
+    "i10_index": 37,
+    "seminal_count": 2,
+    "max_cites_single_paper": 1678
+  },
+  "role_distribution": {
+    "first": 10,
+    "middle": 7,
+    "last": 35
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2005,
+      "title": "Single-Cluster Spectral Graph Partitioning for Robotics Applications"
+    },
+    "first_100cite": {
+      "year": 2006,
+      "title": "Fast Iterative Alignment of Pose Graphs with Poor Initial Estimates",
+      "cites": 426,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2011,
+      "title": "AprilTag: A robust and flexible visual fiducial system",
+      "cites": 1678,
+      "gap_from_first": 6
+    },
+    "first_1000cite": {
+      "year": 2011,
+      "title": "AprilTag: A robust and flexible visual fiducial system",
+      "cites": 1678,
+      "gap_from_first": 6
+    },
+    "peak_paper": {
+      "year": 2011,
+      "title": "AprilTag: A robust and flexible visual fiducial system",
+      "cites": 1678
+    }
+  },
+  "year_series": {
+    "2005": {
+      "n": 1,
+      "cites": 50,
+      "max_cites": 50
+    },
+    "2006": {
+      "n": 1,
+      "cites": 426,
+      "max_cites": 426
+    },
+    "2007": {
+      "n": 1,
+      "cites": 36,
+      "max_cites": 36
+    },
+    "2008": {
+      "n": 2,
+      "cites": 88,
+      "max_cites": 69
+    },
+    "2009": {
+      "n": 1,
+      "cites": 37,
+      "max_cites": 37
+    },
+    "2010": {
+      "n": 5,
+      "cites": 579,
+      "max_cites": 300
+    },
+    "2011": {
+      "n": 5,
+      "cites": 1763,
+      "max_cites": 1678
+    },
+    "2012": {
+      "n": 5,
+      "cites": 115,
+      "max_cites": 57
+    },
+    "2013": {
+      "n": 6,
+      "cites": 419,
+      "max_cites": 245
+    },
+    "2014": {
+      "n": 3,
+      "cites": 18,
+      "max_cites": 12
+    },
+    "2015": {
+      "n": 6,
+      "cites": 316,
+      "max_cites": 119
+    },
+    "2016": {
+      "n": 6,
+      "cites": 975,
+      "max_cites": 777
+    },
+    "2017": {
+      "n": 2,
+      "cites": 34,
+      "max_cites": 25
+    },
+    "2018": {
+      "n": 3,
+      "cites": 28,
+      "max_cites": 13
+    },
+    "2019": {
+      "n": 3,
+      "cites": 182,
+      "max_cites": 151
+    },
+    "2020": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2021": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.067
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.067
+        },
+        {
+          "c": "Robotics",
+          "w": 0.033
+        },
+        {
+          "c": "Cluster (spacecraft)",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.169
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.11
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.042
+        },
+        {
+          "c": "Robot",
+          "w": 0.034
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.025
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.211
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.095
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.074
+        },
+        {
+          "c": "Set (abstract data type)",
+          "w": 0.032
+        },
+        {
+          "c": "Robot",
+          "w": 0.032
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2021,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Masking (illustration)",
+          "w": 0.1
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "RSS": 3,
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "IROS": 17,
+        "ICRA": 4,
+        "IJRR": 2,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "IROS": 11,
+        "ICRA": 8,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2021,
+      "mix": {
+        "IROS": 1,
+        "ICRA": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 4.5,
+      "unique_coauthors": 13,
+      "top_coauthors": [
+        [
+          "Seth J. Teller",
+          5
+        ],
+        [
+          "John J. Leonard",
+          4
+        ],
+        [
+          "Matthew R. Walter",
+          2
+        ],
+        [
+          "Albert Huang",
+          1
+        ],
+        [
+          "David Moore",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 2.21,
+      "unique_coauthors": 15,
+      "top_coauthors": [
+        [
+          "Andrew Richardson",
+          5
+        ],
+        [
+          "Johannes H. Strom",
+          4
+        ],
+        [
+          "Pradeep Ranganathan",
+          3
+        ],
+        [
+          "Pratik Agarwal",
+          3
+        ],
+        [
+          "Albert S. Huang",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 2.85,
+      "unique_coauthors": 17,
+      "top_coauthors": [
+        [
+          "Gonzalo Ferrer",
+          5
+        ],
+        [
+          "Dhanvin Mehta",
+          4
+        ],
+        [
+          "Enric Galceran",
+          3
+        ],
+        [
+          "Ryan M. Eustice",
+          3
+        ],
+        [
+          "Ryan J. Marcotte",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2021,
+      "mean_n_authors": 2.5,
+      "unique_coauthors": 3,
+      "top_coauthors": [
+        [
+          "Acshi Haggenmiller",
+          1
+        ],
+        [
+          "Cameron Kabacinski",
+          1
+        ],
+        [
+          "Maximilian Krogius",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.231,
+  "top_repeat_coauthors": [
+    {
+      "name": "Seth J. Teller",
+      "count": 6,
+      "first_year": 2005,
+      "last_year": 2010
+    },
+    {
+      "name": "Andrew Richardson",
+      "count": 6,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "John J. Leonard",
+      "count": 5,
+      "first_year": 2005,
+      "last_year": 2010
+    },
+    {
+      "name": "Gonzalo Ferrer",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2018
+    },
+    {
+      "name": "Johannes H. Strom",
+      "count": 4,
+      "first_year": 2010,
+      "last_year": 2013
+    },
+    {
+      "name": "Robert Goeddel",
+      "count": 4,
+      "first_year": 2012,
+      "last_year": 2016
+    },
+    {
+      "name": "Dhanvin Mehta",
+      "count": 4,
+      "first_year": 2016,
+      "last_year": 2018
+    },
+    {
+      "name": "Albert S. Huang",
+      "count": 3,
+      "first_year": 2009,
+      "last_year": 2010
+    },
+    {
+      "name": "Pradeep Ranganathan",
+      "count": 3,
+      "first_year": 2010,
+      "last_year": 2014
+    },
+    {
+      "name": "Pratik Agarwal",
+      "count": 3,
+      "first_year": 2012,
+      "last_year": 2013
+    },
+    {
+      "name": "Enric Galceran",
+      "count": 3,
+      "first_year": 2015,
+      "last_year": 2015
+    },
+    {
+      "name": "Ryan M. Eustice",
+      "count": 3,
+      "first_year": 2015,
+      "last_year": 2015
+    },
+    {
+      "name": "Ryan J. Marcotte",
+      "count": 3,
+      "first_year": 2016,
+      "last_year": 2019
+    },
+    {
+      "name": "Xipeng Wang",
+      "count": 3,
+      "first_year": 2017,
+      "last_year": 2019
+    },
+    {
+      "name": "Maximilian Krogius",
+      "count": 3,
+      "first_year": 2019,
+      "last_year": 2020
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "John J. Leonard",
+      "advisor_active_from": 1989,
+      "early_copubs_as_our_first_author": 3,
+      "advisor_last_author_count": 1,
+      "total_copubs": 5
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Andrew Richardson",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Dhanvin Mehta",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2018
+    },
+    {
+      "name": "Robert Goeddel",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Johannes H. Strom",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Xipeng Wang",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Pradeep Ranganathan",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2014
+    },
+    {
+      "name": "Acshi Haggenmiller",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Ryan J. Marcotte",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Maximilian Krogius",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Enric Galceran",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Alexander G. Cunningham",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Pratik Agarwal",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Jacopo Serafin",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2016
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2005,
+      2014
+    ],
+    "early_mean_n_authors": 2.67,
+    "late_window": [
+      2012,
+      2021
+    ],
+    "late_mean_n_authors": 2.53
+  },
+  "citation_half_life_years": 15,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2011
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "AprilTag: A robust and flexible visual fiducial system",
+      "cites": 1678,
+      "n_authors": 1,
+      "role": "first",
+      "concepts": [
+        "Fiducial marker",
+        "Computer vision",
+        "Computer science",
+        "Robustness (evolution)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra.2011.5979561",
+      "coauthors": []
+    },
+    {
+      "year": 2016,
+      "venue": "IROS",
+      "title": "AprilTag 2: Efficient and robust fiducial detection",
+      "cites": 777,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "False positive paradox",
+        "Robustness (evolution)",
+        "Computer science",
+        "Fiducial marker",
+        "Detector"
+      ],
+      "doi": "10.1109/iros.2016.7759617",
+      "coauthors": [
+        "John Wang"
+      ]
+    },
+    {
+      "year": 2006,
+      "venue": "ICRA",
+      "title": "Fast Iterative Alignment of Pose Graphs with Poor Initial Estimates",
+      "cites": 426,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Odometry",
+        "Trajectory",
+        "Computer science",
+        "Representation (politics)"
+      ],
+      "doi": "10.1109/robot.2006.1642040",
+      "coauthors": [
+        "John J. Leonard",
+        "Seth J. Teller"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IROS",
+      "title": "LCM: Lightweight Communications and Marshalling",
+      "cites": 300,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Marshalling",
+        "Computer science",
+        "Message passing",
+        "Debugging",
+        "Message broker"
+      ],
+      "doi": "10.1109/iros.2010.5649358",
+      "coauthors": [
+        "Albert S. Huang",
+        "David C. Moore"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IJRR",
+      "title": "Inference on networks of mixtures for robust robot mapping",
+      "cites": 245,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Inference",
+        "Loop (graph theory)",
+        "Artificial intelligence",
+        "Bayesian probability"
+      ],
+      "doi": "10.1177/0278364913479413",
+      "coauthors": [
+        "Pratik Agarwal"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "IROS",
+      "title": "Flexible Layouts for Fiducial Tags",
+      "cites": 151,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Fiducial marker",
+        "Computer science",
+        "Detector",
+        "Flexibility (engineering)",
+        "Computer vision"
+      ],
+      "doi": "10.1109/iros40897.2019.8967787",
+      "coauthors": [
+        "Maximilian Krogius",
+        "Acshi Haggenmiller"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IROS",
+      "title": "Graph-based segmentation for colored 3D laser point clouds",
+      "cites": 148,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Point cloud",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Laser scanning"
+      ],
+      "doi": "10.1109/iros.2010.5650459",
+      "coauthors": [
+        "Johannes H. Strom",
+        "Andrew Richardson"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "MPDM: Multipolicy decision-making in dynamic, uncertain environments for autonomous driving",
+      "cites": 119,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Exploit",
+        "Set (abstract data type)",
+        "Merge (version control)",
+        "Domain (mathematical analysis)"
+      ],
+      "doi": "10.1109/icra.2015.7139412",
+      "coauthors": [
+        "Alexander G. Cunningham",
+        "Enric Galceran",
+        "Ryan M. Eustice"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IROS",
+      "title": "AprilCal: Assisted and repeatable camera calibration",
+      "cites": 101,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Initialization",
+        "Artificial intelligence",
+        "Calibration",
+        "Computer vision"
+      ],
+      "doi": "10.1109/iros.2013.6696595",
+      "coauthors": [
+        "Andrew Richardson",
+        "Johannes H. Strom"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "RSS",
+      "title": "Multipolicy Decision-Making for Autonomous Driving via Changepoint-based Behavior Prediction",
+      "cites": 81,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.15607/rss.2015.xi.043",
+      "coauthors": [
+        "Enric Galceran",
+        "Alexander G. Cunningham",
+        "Ryan M. Eustice"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak",
+      "headline": "Edwin Olson: 17년에 걸쳐 52편, 총 5,067회 인용, h=26, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "2005년 \"Single-Cluster Spectral Graph Partitioning for Robotics Applications\"으로 출발. 첫 500+ 인용 논문까지 6년 걸림: \"AprilTag: A robust and flexible visual fiducial system\" (2011, 1,678회). 1000+ 인용 논문: \"AprilTag: A robust and flexible visual fiducial system\" (2011, 1,678회).",
+        "초기 토픽: Computer science, Artificial intelligence, Simultaneous localization and mapping. 최근 토픽: Computer science, Simultaneous localization and mapping, Computer vision. 피벗 점수 0.23 → 토픽 지속형.",
+        "저자수 평균: 초기 2.7명 → 후기 2.5명 (팀 유지).",
+        "최다 인용 논문 \"AprilTag: A robust and flexible visual fiducial system\" (2011, 1,678회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): John J. Leonard. 제자 후보 추정 13명 — 상위: Andrew Richardson(2010~, 본인 마지막저자 6편), Dhanvin Mehta(2016~, 본인 마지막저자 4편), Robert Goeddel(2012~, 본인 마지막저자 4편)."
+      ],
+      "lessons": [
+        "13명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: John J. Leonard — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak",
+      "headline": "Edwin Olson: over 17 years, 52 papers, 5,067 total cites, h=26, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2005 with \"Single-Cluster Spectral Graph Partitioning for Robotics Applications\". First 500+ cite paper came 6 years in: \"AprilTag: A robust and flexible visual fiducial system\" (2011, 1,678 cites). 1000+ cite paper: \"AprilTag: A robust and flexible visual fiducial system\" (2011, 1,678 cites).",
+        "Early topics: Computer science, Artificial intelligence, Simultaneous localization and mapping. Recent topics: Computer science, Simultaneous localization and mapping, Computer vision. Pivot score 0.23 → topic-stable.",
+        "Authors per paper: early 2.7 → late 2.5 (stable team).",
+        "Peak paper \"AprilTag: A robust and flexible visual fiducial system\" (2011, 1,678 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): John J. Leonard. 13 likely students — top: Andrew Richardson(2010~, we last-author on 6), Dhanvin Mehta(2016~, we last-author on 4), Robert Goeddel(2012~, we last-author on 4)."
+      ],
+      "lessons": [
+        "13 likely students — mentoring is the real impact.",
+        "Likely advisor: John J. Leonard — started within their PhD network."
+      ]
+    }
+  }
+}

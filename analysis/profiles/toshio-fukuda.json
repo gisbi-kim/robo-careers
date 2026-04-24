@@ -1881,14 +1881,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Toshio Fukuda: 42년에 걸쳐 426편, 총 9,602회 인용, h=46, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1984년 \"Flexibility control of elastic robotic arms and its application to contouring control\"으로 출발.",
         "초기 토픽: Computer science, Robot, Control theory (sociology). 최근 토픽: Computer science, Robot, Materials science. 피벗 점수 0.18 → 토픽 지속형.",
         "저자수 평균: 초기 3.4명 → 후기 7.6명 (팀 확장).",
         "최다 인용 논문 \"A new type of fish-like underwater microrobot\" (2003, 381회) — 커리어 중기에 위치.",
-        "제자 후보 추정 79명 — 상위: Masaru Kojima(2010~, 우리 마지막저자 18편), Yasuhisa Hasegawa(1999~, 우리 마지막저자 13편), Huaping Wang(2013~, 우리 마지막저자 13편)."
+        "제자 후보 추정 79명 — 상위: Masaru Kojima(2010~, 본인 마지막저자 18편), Yasuhisa Hasegawa(1999~, 본인 마지막저자 13편), Huaping Wang(2013~, 본인 마지막저자 13편)."
       ],
       "lessons": [
         "한 우물 깊게 파는 전략으로 임팩트 달성.",
@@ -1897,7 +1897,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Toshio Fukuda: over 42 years, 426 papers, 9,602 total cites, h=46, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1984 with \"Flexibility control of elastic robotic arms and its application to contouring control\".",

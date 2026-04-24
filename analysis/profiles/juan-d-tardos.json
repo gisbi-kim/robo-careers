@@ -1114,21 +1114,21 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Juan D. Tardós: 33년에 걸쳐 52편, 총 22,566회 인용, h=32, 500+ 블록버스터 6편.",
       "paragraphs": [
         "1992년 \"Representing partial and uncertain sensorial information using the theory of symmetries\"으로 출발. 첫 500+ 인용 논문까지 10년 걸림: \"Robust Mapping and Localization in Indoor Environments Using Sonar Data\" (2002, 529회). 1000+ 인용 논문: \"Bags of Binary Words for Fast Place Recognition in Image Sequences\" (2012, 1,883회).",
         "초기 토픽: Computer science, Homogeneous space, Kalman filter. 최근 토픽: Artificial intelligence, Computer science, Computer vision. 피벗 점수 0.23 → 토픽 지속형.",
         "저자수 평균: 초기 3.3명 → 후기 3.1명 (팀 유지).",
         "최다 인용 논문 \"ORB-SLAM: A Versatile and Accurate Monocular SLAM System\" (2015, 6,367회) — 커리어 후기에 위치.",
-        "제자 후보 추정 14명 — 상위: Pedro Pinies(2005~, 우리 마지막저자 6편), Raul Mur-Artal(2014~, 우리 마지막저자 5편), Carlos Campos(2019~, 우리 마지막저자 4편)."
+        "제자 후보 추정 14명 — 상위: Pedro Pinies(2005~, 본인 마지막저자 6편), Raul Mur-Artal(2014~, 본인 마지막저자 5편), Carlos Campos(2019~, 본인 마지막저자 4편)."
       ],
       "lessons": [
         "14명 제자 후보 — 제자 배출이 임팩트의 실체."
       ]
     },
     "en": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Juan D. Tardós: over 33 years, 52 papers, 22,566 total cites, h=32, 6 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1992 with \"Representing partial and uncertain sensorial information using the theory of symmetries\". First 500+ cite paper came 10 years in: \"Robust Mapping and Localization in Indoor Environments Using Sonar Data\" (2002, 529 cites). 1000+ cite paper: \"Bags of Binary Words for Fast Place Recognition in Image Sequences\" (2012, 1,883 cites).",

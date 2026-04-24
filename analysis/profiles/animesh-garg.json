@@ -1,0 +1,1028 @@
+{
+  "name": "Animesh Garg",
+  "slug": "animesh-garg",
+  "career_stats": {
+    "first_year": 2015,
+    "last_year": 2025,
+    "span": 11,
+    "total_papers": 49,
+    "total_cites": 2754,
+    "h_index": 24,
+    "i10_index": 31,
+    "seminal_count": 0,
+    "max_cites_single_paper": 494
+  },
+  "role_distribution": {
+    "middle": 28,
+    "last": 21
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2015,
+      "title": "Learning by observation for surgical subtasks: Multilateral cutting of 3D viscoelastic and 2D Orthotropic Tissue Phantoms"
+    },
+    "first_100cite": {
+      "year": 2015,
+      "title": "Learning by observation for surgical subtasks: Multilateral cutting of 3D viscoelastic and 2D Orthotropic Tissue Phantoms",
+      "cites": 181,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2023,
+      "title": "ProgPrompt: Generating Situated Robot Task Plans using Large Language Models",
+      "cites": 494
+    }
+  },
+  "year_series": {
+    "2015": {
+      "n": 1,
+      "cites": 181,
+      "max_cites": 181
+    },
+    "2016": {
+      "n": 2,
+      "cites": 244,
+      "max_cites": 167
+    },
+    "2017": {
+      "n": 3,
+      "cites": 368,
+      "max_cites": 159
+    },
+    "2018": {
+      "n": 2,
+      "cites": 190,
+      "max_cites": 152
+    },
+    "2019": {
+      "n": 6,
+      "cites": 294,
+      "max_cites": 107
+    },
+    "2020": {
+      "n": 7,
+      "cites": 239,
+      "max_cites": 184
+    },
+    "2021": {
+      "n": 8,
+      "cites": 145,
+      "max_cites": 75
+    },
+    "2022": {
+      "n": 3,
+      "cites": 154,
+      "max_cites": 72
+    },
+    "2023": {
+      "n": 6,
+      "cites": 786,
+      "max_cites": 494
+    },
+    "2024": {
+      "n": 5,
+      "cites": 144,
+      "max_cites": 111
+    },
+    "2025": {
+      "n": 6,
+      "cites": 9,
+      "max_cites": 7
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 14,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.186
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.114
+        },
+        {
+          "c": "Robot",
+          "w": 0.071
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.071
+        },
+        {
+          "c": "Task (project management)",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.201
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.118
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.069
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.049
+        },
+        {
+          "c": "Robot",
+          "w": 0.049
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.167
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.1
+        },
+        {
+          "c": "Automation",
+          "w": 0.067
+        },
+        {
+          "c": "Robotics",
+          "w": 0.033
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 4,
+        "IJRR": 2,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "ICRA": 16,
+        "IROS": 6,
+        "RSS": 3,
+        "RA-L": 2,
+        "IJRR": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "ICRA": 3,
+        "Sci-Rob": 2,
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 7.21,
+      "unique_coauthors": 48,
+      "top_coauthors": [
+        [
+          "Silvio Savarese",
+          8
+        ],
+        [
+          "Ken Goldberg",
+          6
+        ],
+        [
+          "Yuke Zhu",
+          6
+        ],
+        [
+          "Li Fei-Fei",
+          6
+        ],
+        [
+          "Sanjay Krishnan",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 16.38,
+      "unique_coauthors": 382,
+      "top_coauthors": [
+        [
+          "Dieter Fox",
+          7
+        ],
+        [
+          "Silvio Savarese",
+          5
+        ],
+        [
+          "Li Fei-Fei",
+          5
+        ],
+        [
+          "Mayank Mittal",
+          5
+        ],
+        [
+          "Ajay Mandlekar",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 9.33,
+      "unique_coauthors": 49,
+      "top_coauthors": [
+        [
+          "Ken Goldberg",
+          2
+        ],
+        [
+          "Nancy M. Amato",
+          1
+        ],
+        [
+          "Seth Hutchinson",
+          1
+        ],
+        [
+          "Aude Billard",
+          1
+        ],
+        [
+          "Daniela Rus",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.163,
+  "top_repeat_coauthors": [
+    {
+      "name": "Silvio Savarese",
+      "count": 13,
+      "first_year": 2017,
+      "last_year": 2021
+    },
+    {
+      "name": "Ken Goldberg",
+      "count": 11,
+      "first_year": 2016,
+      "last_year": 2025
+    },
+    {
+      "name": "Li Fei-Fei",
+      "count": 11,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Yuke Zhu",
+      "count": 10,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Dieter Fox",
+      "count": 8,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Ajay Mandlekar",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Krishnan Srinivasan",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Jeannette Bohg",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Roberto Martín-Martín",
+      "count": 5,
+      "first_year": 2019,
+      "last_year": 2024
+    },
+    {
+      "name": "Mayank Mittal",
+      "count": 5,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "Pieter Abbeel",
+      "count": 4,
+      "first_year": 2015,
+      "last_year": 2024
+    },
+    {
+      "name": "Sanjay Krishnan",
+      "count": 4,
+      "first_year": 2016,
+      "last_year": 2019
+    },
+    {
+      "name": "Andrey Kurenkov",
+      "count": 4,
+      "first_year": 2018,
+      "last_year": 2020
+    },
+    {
+      "name": "Danfei Xu",
+      "count": 4,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Michelle A. Lee",
+      "count": 4,
+      "first_year": 2019,
+      "last_year": 2020
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Mayank Mittal",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Dylan Turpin",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Arthur Allshire",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Shutong Zhang",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Liquan Wang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Qinxi Yu",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Jiankai Sun",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2015,
+      2024
+    ],
+    "early_mean_n_authors": 13.4,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 12.96
+  },
+  "citation_half_life_years": 6.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2023
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2023,
+      "venue": "ICRA",
+      "title": "ProgPrompt: Generating Situated Robot Task Plans using Large Language Models",
+      "cites": 494,
+      "n_authors": 9,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Situated",
+        "Task (project management)",
+        "Robot",
+        "Context (archaeology)"
+      ],
+      "doi": "10.1109/icra48891.2023.10161317",
+      "coauthors": [
+        "Ishika Singh",
+        "Valts Blukis",
+        "Arsalan Mousavian",
+        "Ankit Goyal",
+        "Danfei Xu",
+        "Jonathan Tremblay",
+        "Dieter Fox",
+        "Jesse Thomason"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "RA-L",
+      "title": "Orbit: A Unified Simulation Framework for Interactive Robot Learning Environments",
+      "cites": 214,
+      "n_authors": 15,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Reinforcement learning",
+        "Modular design",
+        "Benchmark (surveying)"
+      ],
+      "doi": "10.1109/lra.2023.3270034",
+      "coauthors": [
+        "Mayank Mittal",
+        "Calvin Yu",
+        "Qinxi Yu",
+        "Jingzhou Liu",
+        "Nikita Rudin",
+        "David Hoeller",
+        "Jia Lin Yuan",
+        "Ritvik Singh",
+        "Yunrong Guo",
+        "Hammad Mazhar",
+        "Ajay Mandlekar",
+        "Buck Babich",
+        "Gavriel State",
+        "Marco Hutter"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "IJRR",
+      "title": "Learning task-oriented grasping for tool manipulation from simulated self-supervision",
+      "cites": 184,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "GRASP",
+        "Task (project management)",
+        "Computer science",
+        "Artificial intelligence",
+        "Robustness (evolution)"
+      ],
+      "doi": "10.1177/0278364919872545",
+      "coauthors": [
+        "Kuan Fang",
+        "Yuke Zhu",
+        "Andrey Kurenkov",
+        "Viraj Mehta",
+        "Li Fei-Fei",
+        "Silvio Savarese"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Learning by observation for surgical subtasks: Multilateral cutting of 3D viscoelastic and 2D Orthotropic Tissue Phantoms",
+      "cites": 181,
+      "n_authors": 10,
+      "role": "middle",
+      "concepts": [
+        "Imaging phantom",
+        "Computer science",
+        "Orthotropic material",
+        "Computer vision",
+        "Robot"
+      ],
+      "doi": "10.1109/icra.2015.7139344",
+      "coauthors": [
+        "Adithyavairavan Murali",
+        "Siddarth Sen",
+        "Ben Kehoe",
+        "Seth McFarland",
+        "Sachin Patil",
+        "W. Douglas Boyd",
+        "Susan Lim",
+        "Pieter Abbeel",
+        "Kenneth Y. Goldberg"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "ICRA",
+      "title": "Automating multi-throw multilateral surgical suturing with a mechanical needle guide and sequential convex optimization",
+      "cites": 167,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Automation",
+        "Robot",
+        "Fibrous joint",
+        "Trajectory"
+      ],
+      "doi": "10.1109/icra.2016.7487611",
+      "coauthors": [
+        "Siddarth Sen",
+        "David V. Gealy",
+        "Stephen McKinley",
+        "Yiming Jen",
+        "Ken Goldberg"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Multilateral surgical pattern cutting in 2D orthotropic gauze with deep reinforcement learning policies for tensioning",
+      "cites": 159,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Reinforcement learning",
+        "Leverage (statistics)",
+        "Computer science",
+        "Artificial intelligence",
+        "Trajectory"
+      ],
+      "doi": "10.1109/icra.2017.7989275",
+      "coauthors": [
+        "Brijen Thananjeyan",
+        "Sanjay Krishnan",
+        "Carolyn Chen",
+        "Lauren Miller",
+        "Ken Goldberg"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Neural Task Programming: Learning to Generalize Across Hierarchical Tasks",
+      "cites": 152,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Subroutine",
+        "Task (project management)",
+        "Generalization",
+        "Artificial neural network"
+      ],
+      "doi": "10.1109/icra.2018.8460689",
+      "coauthors": [
+        "Danfei Xu",
+        "Suraj Nair",
+        "Yuke Zhu",
+        "Julian Gao",
+        "Li Fei-Fei",
+        "Silvio Savarese"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IROS",
+      "title": "Adversarially Robust Policy Learning: Active construction of physically-plausible perturbations",
+      "cites": 127,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Reinforcement learning",
+        "Adversarial system",
+        "Resilience (materials science)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros.2017.8206245",
+      "coauthors": [
+        "Ajay Mandlekar",
+        "Yuke Zhu",
+        "Li Fei-Fei",
+        "Silvio Savarese"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "ICRA",
+      "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration",
+      "cites": 111,
+      "n_authors": 280,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Computer graphics (images)",
+        "Artificial intelligence",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/icra57147.2024.10611477",
+      "coauthors": [
+        "Abby O&apos",
+        "Neill",
+        "Abdul Rehman",
+        "Abhiram Maddukuri",
+        "Abhishek Gupta",
+        "Abhishek Padalkar",
+        "Abraham Lee",
+        "Acorn Pooley",
+        "Agrim Gupta",
+        "Ajay Mandlekar",
+        "Ajinkya Jain",
+        "Albert Tung",
+        "Alex Bewley",
+        "Alexander Herzog",
+        "Alex Irpan",
+        "Alexander Khazatsky",
+        "Anant Rai",
+        "Anchit Gupta",
+        "Andrew E. Wang",
+        "Anikait Singh",
+        "Aniruddha Kembhavi",
+        "Annie Xie",
+        "Anthony Brohan",
+        "Antonin Raffin",
+        "Archit Sharma",
+        "Arefeh Yavary",
+        "Arhan Jain",
+        "Ashwin Balakrishna",
+        "Ayzaan Wahid",
+        "Ben Burgess-Limerick",
+        "Beomjoon Kim",
+        "Bernhard Schölkopf",
+        "Blake Wulfe",
+        "Brian Ichter",
+        "Cewu Lu",
+        "Charles Xu",
+        "Charlotte Le",
+        "Chelsea Finn",
+        "Chen Wang",
+        "Chenfeng Xu",
+        "Cheng Chi",
+        "Chenguang Huang",
+        "Christine Chan",
+        "Christopher Agia",
+        "Chuer Pan",
+        "Chuyuan Fu",
+        "Coline Devin",
+        "Danfei Xu",
+        "Daniel Morton",
+        "Danny Driess",
+        "Daphne Chen",
+        "Deepak Pathak",
+        "Dhruv Shah",
+        "Dieter Büchler",
+        "Dinesh Jayaraman",
+        "Dmitry Kalashnikov",
+        "Dorsa Sadigh",
+        "Edward Johns",
+        "Ethan Paul Foster",
+        "Fangchen Liu",
+        "Federico Ceola",
+        "Fei Xia",
+        "Feiyu Zhao",
+        "Freek Stulp",
+        "Gaoyue Zhou",
+        "Gaurav S. Sukhatme",
+        "Gautam Salhotra",
+        "Ge Yan",
+        "Gilbert Feng",
+        "Giulio Schiavi",
+        "Glen Berseth",
+        "Gregory Kahn",
+        "Guanzhi Wang",
+        "Hao Su",
+        "Haoshu Fang",
+        "Haochen Shi",
+        "Henghui Bao",
+        "Heni Ben Amor",
+        "Henrik I. Christensen",
+        "Hiroki Furuta",
+        "Homer Walke",
+        "Hongjie Fang",
+        "Huy Ha",
+        "Igor Mordatch",
+        "Ilija Radosavovic",
+        "Isabel Leal",
+        "Jacky Liang",
+        "Jad Abou-Chakra",
+        "Jaehyung Kim",
+        "Jaimyn Drake",
+        "Jan Peters",
+        "Jan Schneider",
+        "Jasmine Hsu",
+        "Jeannette Bohg",
+        "Jeffrey T. Bingham",
+        "Jeffrey Wu",
+        "Jensen Gao",
+        "Jiaheng Hu",
+        "Jiajun Wu",
+        "Jialin Wu",
+        "Jiankai Sun",
+        "Jianlan Luo",
+        "Jiayuan Gu",
+        "Jie Tan",
+        "Jihoon Oh",
+        "Jimmy Wu",
+        "Jingpei Lu",
+        "Jingyun Yang",
+        "Jitendra Malik",
+        "João Silvério",
+        "Joey Hejna",
+        "Jonathan Booher",
+        "Jonathan Tompson",
+        "Jonathan Yang",
+        "Jordi Salvador",
+        "Joseph J. Lim",
+        "Junhyek Han",
+        "Kaiyuan Wang",
+        "Kanishka Rao",
+        "Karl Pertsch",
+        "Karol Hausman",
+        "Keegan Go",
+        "Keerthana Gopalakrishnan",
+        "Ken Goldberg",
+        "Kendra Byrne",
+        "Kenneth Oslund",
+        "Kento Kawaharazuka",
+        "Kevin Black",
+        "Kevin Lin",
+        "Kevin Zhang",
+        "Kiana Ehsani",
+        "Kiran Lekkala",
+        "Kirsty Ellis",
+        "Krishan Rana",
+        "Krishnan Srinivasan",
+        "Kuan Fang",
+        "Kunal Pratap Singh",
+        "Kuo-Hao Zeng",
+        "Kyle Hatch",
+        "Kyle Hsu",
+        "Laurent Itti",
+        "Lawrence Yunliang Chen",
+        "Lerrel Pinto",
+        "Li Fei-Fei",
+        "Liam Tan",
+        "Linxi Jim Fan",
+        "Lionel Ott",
+        "Lisa Lee",
+        "Luca Weihs",
+        "Magnum Chen",
+        "Marion Lepert",
+        "Marius Memmel",
+        "Masayoshi Tomizuka",
+        "Masha Itkina",
+        "Mateo Guaman Castro",
+        "Max Spero",
+        "Maximilian Du",
+        "Michael Ahn",
+        "Michael C. Yip",
+        "Mingtong Zhang",
+        "Mingyu Ding",
+        "Minho Heo",
+        "Mohan Kumar Srirama",
+        "Mohit Sharma",
+        "Moo Jin Kim",
+        "Naoaki Kanazawa",
+        "Nicklas Hansen",
+        "Nicolas Heess",
+        "Nikhil J. Joshi",
+        "Niko Sünderhauf",
+        "Ning Liu",
+        "Norman Di Palo",
+        "Nur Muhammad (Mahi) Shafiullah",
+        "Oier Mees",
+        "Oliver Kroemer",
+        "Osbert Bastani",
+        "Pannag R. Sanketi",
+        "Patrick Tree Miller",
+        "Patrick Yin",
+        "Paul Wohlhart",
+        "Peng Xu",
+        "Peter David Fagan",
+        "Peter Mitrano",
+        "Pierre Sermanet",
+        "Pieter Abbeel",
+        "Priya Sundaresan",
+        "Qiuyu Chen",
+        "Quan Vuong",
+        "Rafael Rafailov",
+        "Ran Tian",
+        "Ria Doshi",
+        "Roberto Martín-Martín",
+        "Rohan Baijal",
+        "Rosario Scalise",
+        "Rose Hendrix",
+        "Roy Lin",
+        "Runjia Qian",
+        "Ruohan Zhang",
+        "Russell Mendonca",
+        "Rutav Shah",
+        "Ryan Hoque",
+        "Ryan Julian",
+        "Samuel Bustamante-Gomez",
+        "Sean Kirmani",
+        "Sergey Levine",
+        "Shan Lin",
+        "Sherry Moore",
+        "Shikhar Bahl",
+        "Shivin Dass",
+        "Shubham D. Sonawani",
+        "Shuran Song",
+        "Sichun Xu",
+        "Siddhant Haldar",
+        "Siddharth Karamcheti",
+        "Simeon Adebola",
+        "Simon Guist",
+        "Soroush Nasiriany",
+        "Stefan Schaal",
+        "Stefan Welker",
+        "Stephen Tian",
+        "Subramanian Ramamoorthy",
+        "Sudeep Dasari",
+        "Suneel Belkhale",
+        "Sungjae Park",
+        "Suraj Nair",
+        "Suvir Mirchandani",
+        "Takayuki Osa",
+        "Tanmay Gupta",
+        "Tatsuya Harada",
+        "Tatsuya Matsushima",
+        "Ted Xiao",
+        "Thomas Kollar",
+        "Tianhe Yu",
+        "Tianli Ding",
+        "Todor Davchev",
+        "Tony Z. Zhao",
+        "Travis Armstrong",
+        "Trevor Darrell",
+        "Trinity Chung",
+        "Vidhi Jain",
+        "Vincent Vanhoucke",
+        "Wei Zhan",
+        "Wenxuan Zhou",
+        "Wolfram Burgard",
+        "Xi Chen",
+        "Xiaolong Wang",
+        "Xinghao Zhu",
+        "Xinyang Geng",
+        "Xiyuan Liu",
+        "Liangwei Xu",
+        "Xuanlin Li",
+        "Yao Lu",
+        "Yecheng Jason Ma",
+        "Yejin Kim",
+        "Yevgen Chebotar",
+        "Yifan Zhou",
+        "Yifeng Zhu",
+        "Yilin Wu",
+        "Ying Xu",
+        "Yixuan Wang",
+        "Yonatan Bisk",
+        "Yoonyoung Cho",
+        "Youngwoon Lee",
+        "Yuchen Cui",
+        "Yue Cao",
+        "Yueh-Hua Wu",
+        "Yujin Tang",
+        "Yuke Zhu",
+        "Yunchu Zhang",
+        "Yunfan Jiang",
+        "Yunshuang Li",
+        "Yunzhu Li",
+        "Yusuke Iwasawa",
+        "Yutaka Matsuo",
+        "Zehan Ma",
+        "Zhuo Xu",
+        "Zichen Jeff Cui",
+        "Zichen Zhang",
+        "Zipeng Lin"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "ICRA",
+      "title": "Mechanical Search: Multi-Step Retrieval of a Target Object Occluded by Clutter",
+      "cites": 107,
+      "n_authors": 9,
+      "role": "middle",
+      "concepts": [
+        "GRASP",
+        "Computer science",
+        "Clutter",
+        "Heap (data structure)",
+        "Robot"
+      ],
+      "doi": "10.1109/icra.2019.8794143",
+      "coauthors": [
+        "Michael Danielczuk",
+        "Andrey Kurenkov",
+        "Ashwin Balakrishna",
+        "Matthew Matl",
+        "David Wang",
+        "Roberto Martín-Martín",
+        "Silvio Savarese",
+        "Ken Goldberg"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "steady-producer",
+      "headline": "Animesh Garg: 11년에 걸쳐 49편, 총 2,754회 인용, h=24, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "2015년 \"Learning by observation for surgical subtasks: Multilateral cutting of 3D viscoelastic and 2D Orthotropic Tissue Phantoms\"으로 출발.",
+        "초기 토픽: Computer science, Artificial intelligence, Robot. 최근 토픽: Artificial intelligence, Computer science, Human–computer interaction. 피벗 점수 0.16 → 토픽 지속형.",
+        "저자수 평균: 초기 13.4명 → 후기 13.0명 (팀 유지).",
+        "최다 인용 논문 \"ProgPrompt: Generating Situated Robot Task Plans using Large Language Models\" (2023, 494회) — 커리어 후기에 위치.",
+        "제자 후보 추정 7명 — 상위: Mayank Mittal(2020~, 본인 마지막저자 5편), Dylan Turpin(2021~, 본인 마지막저자 3편), Arthur Allshire(2021~, 본인 마지막저자 2편)."
+      ],
+      "lessons": [
+        "데이터 부족 — 개별 패턴 뚜렷하지 않음."
+      ]
+    },
+    "en": {
+      "archetype": "steady-producer",
+      "headline": "Animesh Garg: over 11 years, 49 papers, 2,754 total cites, h=24, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2015 with \"Learning by observation for surgical subtasks: Multilateral cutting of 3D viscoelastic and 2D Orthotropic Tissue Phantoms\".",
+        "Early topics: Computer science, Artificial intelligence, Robot. Recent topics: Artificial intelligence, Computer science, Human–computer interaction. Pivot score 0.16 → topic-stable.",
+        "Authors per paper: early 13.4 → late 13.0 (stable team).",
+        "Peak paper \"ProgPrompt: Generating Situated Robot Task Plans using Large Language Models\" (2023, 494 cites) — fell in late career.",
+        "7 likely students — top: Mayank Mittal(2020~, we last-author on 5), Dylan Turpin(2021~, we last-author on 3), Arthur Allshire(2021~, we last-author on 2)."
+      ],
+      "lessons": [
+        "Insufficient data — no distinctive pattern."
+      ]
+    }
+  }
+}

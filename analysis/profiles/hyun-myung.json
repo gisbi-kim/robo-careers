@@ -1,0 +1,1026 @@
+{
+  "name": "Hyun Myung",
+  "slug": "hyun-myung",
+  "career_stats": {
+    "first_year": 2005,
+    "last_year": 2025,
+    "span": 21,
+    "total_papers": 56,
+    "total_cites": 1707,
+    "h_index": 21,
+    "i10_index": 33,
+    "seminal_count": 0,
+    "max_cites_single_paper": 235
+  },
+  "role_distribution": {
+    "middle": 6,
+    "first": 1,
+    "last": 49
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2005,
+      "title": "Detecting and tracking people by mobile robot using structured light range sensor"
+    },
+    "first_100cite": {
+      "year": 2021,
+      "title": "ERASOR: Egocentric Ratio of Pseudo Occupancy-Based Dynamic Object Removal for Static 3D Point Cloud Map Building",
+      "cites": 235,
+      "gap_from_first": 16
+    },
+    "peak_paper": {
+      "year": 2021,
+      "title": "ERASOR: Egocentric Ratio of Pseudo Occupancy-Based Dynamic Object Removal for Static 3D Point Cloud Map Building",
+      "cites": 235
+    }
+  },
+  "year_series": {
+    "2005": {
+      "n": 1,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2006": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "2007": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2011": {
+      "n": 1,
+      "cites": 16,
+      "max_cites": 16
+    },
+    "2012": {
+      "n": 2,
+      "cites": 53,
+      "max_cites": 40
+    },
+    "2013": {
+      "n": 2,
+      "cites": 25,
+      "max_cites": 21
+    },
+    "2014": {
+      "n": 1,
+      "cites": 14,
+      "max_cites": 14
+    },
+    "2015": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2016": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2017": {
+      "n": 1,
+      "cites": 87,
+      "max_cites": 87
+    },
+    "2018": {
+      "n": 2,
+      "cites": 55,
+      "max_cites": 52
+    },
+    "2019": {
+      "n": 1,
+      "cites": 20,
+      "max_cites": 20
+    },
+    "2020": {
+      "n": 5,
+      "cites": 32,
+      "max_cites": 30
+    },
+    "2021": {
+      "n": 10,
+      "cites": 598,
+      "max_cites": 235
+    },
+    "2022": {
+      "n": 11,
+      "cites": 507,
+      "max_cites": 151
+    },
+    "2023": {
+      "n": 6,
+      "cites": 208,
+      "max_cites": 118
+    },
+    "2024": {
+      "n": 4,
+      "cites": 54,
+      "max_cites": 35
+    },
+    "2025": {
+      "n": 8,
+      "cites": 21,
+      "max_cites": 10
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.1
+        },
+        {
+          "c": "Computer science",
+          "w": 0.1
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        }
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.067
+        },
+        {
+          "c": "Non-line-of-sight propagation",
+          "w": 0.033
+        },
+        {
+          "c": "Trilateration",
+          "w": 0.033
+        },
+        {
+          "c": "Ranging",
+          "w": 0.033
+        },
+        {
+          "c": "Particle filter",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 4,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Odometry",
+          "w": 0.05
+        },
+        {
+          "c": "Point cloud",
+          "w": 0.05
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 36,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.164
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.124
+        },
+        {
+          "c": "Point cloud",
+          "w": 0.045
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.04
+        },
+        {
+          "c": "Robot",
+          "w": 0.028
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Odometry",
+          "w": 0.05
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "mix": {
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mix": {
+        "ICRA": 3,
+        "T-Mech": 3
+      }
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "IROS": 3,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "RA-L": 18,
+        "IROS": 10,
+        "ICRA": 4,
+        "T-Mech": 2,
+        "RSS": 1,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "IROS": 3,
+        "ICRA": 3,
+        "RA-L": 2
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2005,
+      "end": 2009,
+      "mean_n_authors": 6,
+      "unique_coauthors": 9,
+      "top_coauthors": [
+        [
+          "Yongbeom Lee",
+          2
+        ],
+        [
+          "Youngjin Hong",
+          1
+        ],
+        [
+          "Myungjin Jung",
+          1
+        ],
+        [
+          "Hyoungki Lee",
+          1
+        ],
+        [
+          "Sang Ryong Kim",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2010,
+      "end": 2014,
+      "mean_n_authors": 4.17,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Hanguen Kim",
+          2
+        ],
+        [
+          "Jongdae Jung",
+          1
+        ],
+        [
+          "Taehwan Lee",
+          1
+        ],
+        [
+          "Hyun Chung",
+          1
+        ],
+        [
+          "Namsun Son",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 5.75,
+      "unique_coauthors": 19,
+      "top_coauthors": [
+        [
+          "Hyungjin Kim",
+          1
+        ],
+        [
+          "Bingbing Liu",
+          1
+        ],
+        [
+          "Chi Yuan Goh",
+          1
+        ],
+        [
+          "Serin Lee",
+          1
+        ],
+        [
+          "Daegil Park",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 5.31,
+      "unique_coauthors": 80,
+      "top_coauthors": [
+        [
+          "Hyungtae Lim",
+          21
+        ],
+        [
+          "Eungchang Mason Lee",
+          8
+        ],
+        [
+          "Hyunjun Lim",
+          5
+        ],
+        [
+          "Alex Junho Lee",
+          5
+        ],
+        [
+          "Wonkeun Youn",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 5.88,
+      "unique_coauthors": 23,
+      "top_coauthors": [
+        [
+          "Minho Oh",
+          4
+        ],
+        [
+          "Hyungtae Lim",
+          4
+        ],
+        [
+          "Kevin Christiansen Marsim",
+          3
+        ],
+        [
+          "I Made Aswin Nahrendra",
+          3
+        ],
+        [
+          "Byeongho Yu",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.485,
+  "top_repeat_coauthors": [
+    {
+      "name": "Hyungtae Lim",
+      "count": 26,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Eungchang Mason Lee",
+      "count": 9,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Byeongho Yu",
+      "count": 7,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Minho Oh",
+      "count": 6,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Myeongwoo Jeong",
+      "count": 5,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Hyunjun Lim",
+      "count": 5,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Jinwoo Jeon",
+      "count": 5,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Alex Junho Lee",
+      "count": 5,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "I Made Aswin Nahrendra",
+      "count": 5,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Seungwon Song",
+      "count": 4,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Wonkeun Youn",
+      "count": 4,
+      "first_year": 2020,
+      "last_year": 2022
+    },
+    {
+      "name": "Yeeun Kim",
+      "count": 4,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Sumin Hu",
+      "count": 4,
+      "first_year": 2021,
+      "last_year": 2022
+    },
+    {
+      "name": "Sungwook Jung",
+      "count": 3,
+      "first_year": 2018,
+      "last_year": 2021
+    },
+    {
+      "name": "Junho Choi",
+      "count": 3,
+      "first_year": 2020,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Hyungtae Lim",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 22,
+      "total_copubs": 26,
+      "student_first_author_count": 10,
+      "we_last_author_count": 20,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Eungchang Mason Lee",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 1,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Minho Oh",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hyunjun Lim",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "I Made Aswin Nahrendra",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alex Junho Lee",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Wonkeun Youn",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Yeeun Kim",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sumin Hu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hyungyu Lee",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Kevin Christiansen Marsim",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Seungwon Song",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Sungwook Jung",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Chanyoung Kim",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "DongKi Noh",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Hanguen Kim",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2013
+    },
+    {
+      "name": "Dongkyu Lee",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kihwan Ryoo",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Seungjae Lee",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Dong-Uk Seo",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jeewon Kim",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2005,
+      2014
+    ],
+    "early_mean_n_authors": 4.62,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.44
+  },
+  "citation_half_life_years": 5,
+  "bursts": {
+    "productivity": [
+      2021,
+      2022
+    ],
+    "impact": [
+      2021,
+      2022
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "ERASOR: Egocentric Ratio of Pseudo Occupancy-Based Dynamic Object Removal for Static 3D Point Cloud Map Building",
+      "cites": 235,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Occupancy",
+        "Point cloud",
+        "Object (grammar)",
+        "Computer science",
+        "Point (geometry)"
+      ],
+      "doi": "10.1109/lra.2021.3061363",
+      "coauthors": [
+        "Hyungtae Lim",
+        "Sungwon Hwang"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "Patchwork: Concentric Zone-Based Region-Wise Ground Segmentation With Ground Likelihood Estimation Using a 3D LiDAR Sensor",
+      "cites": 165,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Segmentation",
+        "Point cloud",
+        "Computer science",
+        "Terrain",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/lra.2021.3093009",
+      "coauthors": [
+        "Hyungtae Lim",
+        "Minho Oh"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "IROS",
+      "title": "Patchwork++: Fast and Robust Ground Segmentation Solving Partial Under-Segmentation Using 3D Point Cloud",
+      "cites": 151,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Segmentation",
+        "Computer science",
+        "Point cloud",
+        "Scale-space segmentation",
+        "Ground plane"
+      ],
+      "doi": "10.1109/iros47612.2022.9981561",
+      "coauthors": [
+        "Seungjae Lee",
+        "Hyungtae Lim"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "RA-L",
+      "title": "DynaVINS: A Visual-Inertial SLAM for Dynamic Environments",
+      "cites": 121,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Inertial measurement unit",
+        "Computer science",
+        "Simultaneous localization and mapping",
+        "Computer vision"
+      ],
+      "doi": "10.1109/lra.2022.3203231",
+      "coauthors": [
+        "Seungwon Song",
+        "Hyungtae Lim",
+        "Alex Junho Lee"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "ICRA",
+      "title": "DreamWaQ: Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning",
+      "cites": 118,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Quadrupedalism",
+        "Reinforcement learning",
+        "Terrain",
+        "Robot",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra48891.2023.10161144",
+      "coauthors": [
+        "I Made Aswin Nahrendra",
+        "Byeongho Yu"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "RA-L",
+      "title": "Robust Vehicle Localization Using Entropy-Weighted Particle Filter-based Data Fusion of Vertical and Road Intensity Information for a Large Scale Urban Area",
+      "cites": 87,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Odometry",
+        "Computer science",
+        "Point cloud",
+        "Artificial intelligence",
+        "Computer vision"
+      ],
+      "doi": "10.1109/lra.2017.2673868",
+      "coauthors": [
+        "Hyungjin Kim",
+        "Bingbing Liu",
+        "Chi Yuan Goh",
+        "Serin Lee"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RA-L",
+      "title": "Run Your Visual-Inertial Odometry on NVIDIA Jetson: Benchmark Tests on a Micro Aerial Vehicle",
+      "cites": 82,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Odometry",
+        "Benchmark (surveying)",
+        "Artificial intelligence",
+        "Visual odometry",
+        "Inertial frame of reference"
+      ],
+      "doi": "10.1109/lra.2021.3075141",
+      "coauthors": [
+        "Jinwoo Jeon",
+        "Sungwook Jung",
+        "Eungchang Mason Lee",
+        "Duckyu Choi"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "RA-L",
+      "title": "ViViD++ : Vision for Visibility Dataset",
+      "cites": 76,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Computer science",
+        "Artificial intelligence",
+        "Luminance",
+        "Visibility"
+      ],
+      "doi": "10.1109/lra.2022.3168335",
+      "coauthors": [
+        "Alex Junho Lee",
+        "Younggun Cho",
+        "Young-Sik Shin",
+        "Ayoung Kim"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "RA-L",
+      "title": "TRAVEL: Traversable Ground and Above-Ground Object Segmentation Using Graph Representation of 3D LiDAR Scans",
+      "cites": 55,
+      "n_authors": 10,
+      "role": "last",
+      "concepts": [
+        "Segmentation",
+        "Point cloud",
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision"
+      ],
+      "doi": "10.1109/lra.2022.3182096",
+      "coauthors": [
+        "Minho Oh",
+        "Euigon Jung",
+        "Hyungtae Lim",
+        "Wonho Song",
+        "Sumin Hu",
+        "Eungchang Mason Lee",
+        "Junghee Park",
+        "Jaekyung Kim",
+        "Jangwoo Lee"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "IROS",
+      "title": "Multi-Layer Coverage Path Planner for Autonomous Structural Inspection of High-Rise Structures",
+      "cites": 52,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Motion planning",
+        "Computer science",
+        "Path (computing)",
+        "Voxel",
+        "Any-angle path planning"
+      ],
+      "doi": "10.1109/iros.2018.8593537",
+      "coauthors": [
+        "Sungwook Jung",
+        "Seungwon Song",
+        "Pillip Youn"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "late-bloomer",
+      "headline": "Hyun Myung: 21년에 걸쳐 56편, 총 1,707회 인용, h=21, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "2005년 \"Detecting and tracking people by mobile robot using structured light range sensor\"으로 출발.",
+        "초기 토픽: Robustness (evolution), Robot, Mobile robot. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.48 → 점진적 이동형.",
+        "저자수 평균: 초기 4.6명 → 후기 5.4명 (팀 확장).",
+        "최다 인용 논문 \"ERASOR: Egocentric Ratio of Pseudo Occupancy-Based Dynamic Object Removal for Static 3D Point Cloud Map Building\" (2021, 235회) — 커리어 후기에 위치.",
+        "제자 후보 추정 21명 — 상위: Hyungtae Lim(2019~, 본인 마지막저자 20편), Eungchang Mason Lee(2021~, 본인 마지막저자 9편), Minho Oh(2021~, 본인 마지막저자 6편)."
+      ],
+      "lessons": [
+        "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
+        "21명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "late-bloomer",
+      "headline": "Hyun Myung: over 21 years, 56 papers, 1,707 total cites, h=21, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2005 with \"Detecting and tracking people by mobile robot using structured light range sensor\".",
+        "Early topics: Robustness (evolution), Robot, Mobile robot. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.48 → gradual shift.",
+        "Authors per paper: early 4.6 → late 5.4 (team growth).",
+        "Peak paper \"ERASOR: Egocentric Ratio of Pseudo Occupancy-Based Dynamic Object Removal for Static 3D Point Cloud Map Building\" (2021, 235 cites) — fell in late career.",
+        "21 likely students — top: Hyungtae Lim(2019~, we last-author on 20), Eungchang Mason Lee(2021~, we last-author on 9), Minho Oh(2021~, we last-author on 6)."
+      ],
+      "lessons": [
+        "Active topic pivoter — overcame plateau by reinvention.",
+        "21 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

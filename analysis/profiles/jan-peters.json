@@ -1238,14 +1238,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Jan Peters: 21년에 걸쳐 181편, 총 9,888회 인용, h=45, 500+ 블록버스터 2편.",
       "paragraphs": [
         "2005년 \"A unifying methodology for the control of robotic systems\"으로 출발. 첫 500+ 인용 논문까지 1년 걸림: \"Policy Gradient Methods for Robotics\" (2006, 516회). 1000+ 인용 논문: \"Reinforcement learning in robotics: A survey\" (2013, 3,017회).",
         "초기 토픽: Computer science, Robot, Artificial intelligence. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.09 → 토픽 지속형.",
         "저자수 평균: 초기 4.0명 → 후기 7.1명 (팀 확장).",
         "최다 인용 논문 \"Reinforcement learning in robotics: A survey\" (2013, 3,017회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Stefan Schaal. 제자 후보 추정 46명 — 상위: Guilherme Maeda(2015~, 우리 마지막저자 10편), Julen Urain(2018~, 우리 마지막저자 6편), Heni Ben Amor(2012~, 우리 마지막저자 6편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Stefan Schaal. 제자 후보 추정 46명 — 상위: Guilherme Maeda(2015~, 본인 마지막저자 10편), Julen Urain(2018~, 본인 마지막저자 6편), Heni Ben Amor(2012~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "초기 1년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1256,7 +1256,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Jan Peters: over 21 years, 181 papers, 9,888 total cites, h=45, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2005 with \"A unifying methodology for the control of robotic systems\". First 500+ cite paper came 1 years in: \"Policy Gradient Methods for Robotics\" (2006, 516 cites). 1000+ cite paper: \"Reinforcement learning in robotics: A survey\" (2013, 3,017 cites).",

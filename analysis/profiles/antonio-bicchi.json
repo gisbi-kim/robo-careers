@@ -1713,14 +1713,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Antonio Bicchi: 41년에 걸쳐 210편, 총 11,570회 인용, h=51, 500+ 블록버스터 4편.",
       "paragraphs": [
         "1985년 \"Tendon actuated exploratory finger with polymeric, skin-like tactile sensor\"으로 출발. 첫 500+ 인용 논문까지 10년 걸림: \"On the Closure Properties of Robotic Grasping\" (1995, 531회). 1000+ 인용 논문: \"Robotic Grasping and Contact: A Review\" (2000, 1,056회).",
         "초기 토픽: Computer science, Tactile sensor, Robotic hand. 최근 토픽: Computer science, Agonist, Prosthesis. 피벗 점수 0.24 → 토픽 지속형.",
         "저자수 평균: 초기 2.7명 → 후기 5.7명 (팀 확장).",
         "최다 인용 논문 \"Robotic Grasping and Contact: A Review\" (2000, 1,056회) — 커리어 중기에 위치.",
-        "제자 후보 추정 58명 — 상위: Giorgio Grioli(2008~, 우리 마지막저자 16편), Manuel G. Catalano(2009~, 우리 마지막저자 15편), Marco Gabiccini(2010~, 우리 마지막저자 14편)."
+        "제자 후보 추정 58명 — 상위: Giorgio Grioli(2008~, 본인 마지막저자 16편), Manuel G. Catalano(2009~, 본인 마지막저자 15편), Marco Gabiccini(2010~, 본인 마지막저자 14편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1728,7 +1728,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Antonio Bicchi: over 41 years, 210 papers, 11,570 total cites, h=51, 4 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1985 with \"Tendon actuated exploratory finger with polymeric, skin-like tactile sensor\". First 500+ cite paper came 10 years in: \"On the Closure Properties of Robotic Grasping\" (1995, 531 cites). 1000+ cite paper: \"Robotic Grasping and Contact: A Review\" (2000, 1,056 cites).",

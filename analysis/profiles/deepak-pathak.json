@@ -1,0 +1,758 @@
+{
+  "name": "Deepak Pathak",
+  "slug": "deepak-pathak",
+  "career_stats": {
+    "first_year": 2021,
+    "last_year": 2025,
+    "span": 5,
+    "total_papers": 20,
+    "total_cites": 1146,
+    "h_index": 12,
+    "i10_index": 14,
+    "seminal_count": 0,
+    "max_cites_single_paper": 435
+  },
+  "role_distribution": {
+    "last": 15,
+    "middle": 5
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2021,
+      "title": "Auto-Tuned Sim-to-Real Transfer"
+    },
+    "first_100cite": {
+      "year": 2021,
+      "title": "RMA: Rapid Motor Adaptation for Legged Robots",
+      "cites": 435,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2021,
+      "title": "RMA: Rapid Motor Adaptation for Legged Robots",
+      "cites": 435
+    }
+  },
+  "year_series": {
+    "2021": {
+      "n": 4,
+      "cites": 525,
+      "max_cites": 435
+    },
+    "2022": {
+      "n": 3,
+      "cites": 192,
+      "max_cites": 77
+    },
+    "2023": {
+      "n": 4,
+      "cites": 159,
+      "max_cites": 78
+    },
+    "2024": {
+      "n": 4,
+      "cites": 257,
+      "max_cites": 135
+    },
+    "2025": {
+      "n": 5,
+      "cites": 13,
+      "max_cites": 10
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.204
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.183
+        },
+        {
+          "c": "Robot",
+          "w": 0.129
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.086
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.043
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "RSS": 10,
+        "ICRA": 6,
+        "IROS": 2,
+        "RA-L": 1,
+        "IJRR": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 18.25,
+      "unique_coauthors": 311,
+      "top_coauthors": [
+        [
+          "Shikhar Bahl",
+          7
+        ],
+        [
+          "Kenneth Shaw",
+          7
+        ],
+        [
+          "Russell Mendonca",
+          4
+        ],
+        [
+          "Ashish Kumar",
+          3
+        ],
+        [
+          "Jitendra Malik",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.0,
+  "top_repeat_coauthors": [
+    {
+      "name": "Shikhar Bahl",
+      "count": 7,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Kenneth Shaw",
+      "count": 7,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Russell Mendonca",
+      "count": 4,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Ashish Kumar",
+      "count": 3,
+      "first_year": 2021,
+      "last_year": 2023
+    },
+    {
+      "name": "Jitendra Malik",
+      "count": 3,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Aravind Sivakumar",
+      "count": 3,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "Ananye Agarwal",
+      "count": 3,
+      "first_year": 2023,
+      "last_year": 2024
+    },
+    {
+      "name": "Mohan Kumar Srirama",
+      "count": 3,
+      "first_year": 2024,
+      "last_year": 2025
+    },
+    {
+      "name": "Trevor Darrell",
+      "count": 2,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Pieter Abbeel",
+      "count": 2,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Abhinav Gupta",
+      "count": 2,
+      "first_year": 2021,
+      "last_year": 2022
+    },
+    {
+      "name": "Xuxin Cheng",
+      "count": 2,
+      "first_year": 2023,
+      "last_year": 2024
+    },
+    {
+      "name": "Aditya Kannan",
+      "count": 2,
+      "first_year": 2024,
+      "last_year": 2024
+    },
+    {
+      "name": "Tony Tao",
+      "count": 2,
+      "first_year": 2025,
+      "last_year": 2025
+    },
+    {
+      "name": "Jason Liu",
+      "count": 2,
+      "first_year": 2025,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [],
+  "team_drift": {
+    "early_window": [
+      2021,
+      2025
+    ],
+    "early_mean_n_authors": 18.25,
+    "late_window": [
+      2021,
+      2025
+    ],
+    "late_mean_n_authors": 18.25
+  },
+  "citation_half_life_years": 4.0,
+  "bursts": {
+    "productivity": [],
+    "impact": []
+  },
+  "blockbusters": [
+    {
+      "year": 2021,
+      "venue": "RSS",
+      "title": "RMA: Rapid Motor Adaptation for Legged Robots",
+      "cites": 435,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Adaptation (eye)",
+        "Robot",
+        "Computer science",
+        "Control engineering",
+        "Artificial intelligence"
+      ],
+      "doi": "10.15607/rss.2021.xvii.011",
+      "coauthors": [
+        "Ashish Kumar",
+        "Zipeng Fu",
+        "Jitendra Malik"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "ICRA",
+      "title": "Extreme Parkour with Legged Robots",
+      "cites": 135,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra57147.2024.10610200",
+      "coauthors": [
+        "Xuxin Cheng",
+        "Kexin Shi",
+        "Ananye Agarwal"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "ICRA",
+      "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration",
+      "cites": 111,
+      "n_authors": 280,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Computer graphics (images)",
+        "Artificial intelligence",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/icra57147.2024.10611477",
+      "coauthors": [
+        "Abby O&apos",
+        "Neill",
+        "Abdul Rehman",
+        "Abhiram Maddukuri",
+        "Abhishek Gupta",
+        "Abhishek Padalkar",
+        "Abraham Lee",
+        "Acorn Pooley",
+        "Agrim Gupta",
+        "Ajay Mandlekar",
+        "Ajinkya Jain",
+        "Albert Tung",
+        "Alex Bewley",
+        "Alexander Herzog",
+        "Alex Irpan",
+        "Alexander Khazatsky",
+        "Anant Rai",
+        "Anchit Gupta",
+        "Andrew E. Wang",
+        "Anikait Singh",
+        "Animesh Garg",
+        "Aniruddha Kembhavi",
+        "Annie Xie",
+        "Anthony Brohan",
+        "Antonin Raffin",
+        "Archit Sharma",
+        "Arefeh Yavary",
+        "Arhan Jain",
+        "Ashwin Balakrishna",
+        "Ayzaan Wahid",
+        "Ben Burgess-Limerick",
+        "Beomjoon Kim",
+        "Bernhard Schölkopf",
+        "Blake Wulfe",
+        "Brian Ichter",
+        "Cewu Lu",
+        "Charles Xu",
+        "Charlotte Le",
+        "Chelsea Finn",
+        "Chen Wang",
+        "Chenfeng Xu",
+        "Cheng Chi",
+        "Chenguang Huang",
+        "Christine Chan",
+        "Christopher Agia",
+        "Chuer Pan",
+        "Chuyuan Fu",
+        "Coline Devin",
+        "Danfei Xu",
+        "Daniel Morton",
+        "Danny Driess",
+        "Daphne Chen",
+        "Dhruv Shah",
+        "Dieter Büchler",
+        "Dinesh Jayaraman",
+        "Dmitry Kalashnikov",
+        "Dorsa Sadigh",
+        "Edward Johns",
+        "Ethan Paul Foster",
+        "Fangchen Liu",
+        "Federico Ceola",
+        "Fei Xia",
+        "Feiyu Zhao",
+        "Freek Stulp",
+        "Gaoyue Zhou",
+        "Gaurav S. Sukhatme",
+        "Gautam Salhotra",
+        "Ge Yan",
+        "Gilbert Feng",
+        "Giulio Schiavi",
+        "Glen Berseth",
+        "Gregory Kahn",
+        "Guanzhi Wang",
+        "Hao Su",
+        "Haoshu Fang",
+        "Haochen Shi",
+        "Henghui Bao",
+        "Heni Ben Amor",
+        "Henrik I. Christensen",
+        "Hiroki Furuta",
+        "Homer Walke",
+        "Hongjie Fang",
+        "Huy Ha",
+        "Igor Mordatch",
+        "Ilija Radosavovic",
+        "Isabel Leal",
+        "Jacky Liang",
+        "Jad Abou-Chakra",
+        "Jaehyung Kim",
+        "Jaimyn Drake",
+        "Jan Peters",
+        "Jan Schneider",
+        "Jasmine Hsu",
+        "Jeannette Bohg",
+        "Jeffrey T. Bingham",
+        "Jeffrey Wu",
+        "Jensen Gao",
+        "Jiaheng Hu",
+        "Jiajun Wu",
+        "Jialin Wu",
+        "Jiankai Sun",
+        "Jianlan Luo",
+        "Jiayuan Gu",
+        "Jie Tan",
+        "Jihoon Oh",
+        "Jimmy Wu",
+        "Jingpei Lu",
+        "Jingyun Yang",
+        "Jitendra Malik",
+        "João Silvério",
+        "Joey Hejna",
+        "Jonathan Booher",
+        "Jonathan Tompson",
+        "Jonathan Yang",
+        "Jordi Salvador",
+        "Joseph J. Lim",
+        "Junhyek Han",
+        "Kaiyuan Wang",
+        "Kanishka Rao",
+        "Karl Pertsch",
+        "Karol Hausman",
+        "Keegan Go",
+        "Keerthana Gopalakrishnan",
+        "Ken Goldberg",
+        "Kendra Byrne",
+        "Kenneth Oslund",
+        "Kento Kawaharazuka",
+        "Kevin Black",
+        "Kevin Lin",
+        "Kevin Zhang",
+        "Kiana Ehsani",
+        "Kiran Lekkala",
+        "Kirsty Ellis",
+        "Krishan Rana",
+        "Krishnan Srinivasan",
+        "Kuan Fang",
+        "Kunal Pratap Singh",
+        "Kuo-Hao Zeng",
+        "Kyle Hatch",
+        "Kyle Hsu",
+        "Laurent Itti",
+        "Lawrence Yunliang Chen",
+        "Lerrel Pinto",
+        "Li Fei-Fei",
+        "Liam Tan",
+        "Linxi Jim Fan",
+        "Lionel Ott",
+        "Lisa Lee",
+        "Luca Weihs",
+        "Magnum Chen",
+        "Marion Lepert",
+        "Marius Memmel",
+        "Masayoshi Tomizuka",
+        "Masha Itkina",
+        "Mateo Guaman Castro",
+        "Max Spero",
+        "Maximilian Du",
+        "Michael Ahn",
+        "Michael C. Yip",
+        "Mingtong Zhang",
+        "Mingyu Ding",
+        "Minho Heo",
+        "Mohan Kumar Srirama",
+        "Mohit Sharma",
+        "Moo Jin Kim",
+        "Naoaki Kanazawa",
+        "Nicklas Hansen",
+        "Nicolas Heess",
+        "Nikhil J. Joshi",
+        "Niko Sünderhauf",
+        "Ning Liu",
+        "Norman Di Palo",
+        "Nur Muhammad (Mahi) Shafiullah",
+        "Oier Mees",
+        "Oliver Kroemer",
+        "Osbert Bastani",
+        "Pannag R. Sanketi",
+        "Patrick Tree Miller",
+        "Patrick Yin",
+        "Paul Wohlhart",
+        "Peng Xu",
+        "Peter David Fagan",
+        "Peter Mitrano",
+        "Pierre Sermanet",
+        "Pieter Abbeel",
+        "Priya Sundaresan",
+        "Qiuyu Chen",
+        "Quan Vuong",
+        "Rafael Rafailov",
+        "Ran Tian",
+        "Ria Doshi",
+        "Roberto Martín-Martín",
+        "Rohan Baijal",
+        "Rosario Scalise",
+        "Rose Hendrix",
+        "Roy Lin",
+        "Runjia Qian",
+        "Ruohan Zhang",
+        "Russell Mendonca",
+        "Rutav Shah",
+        "Ryan Hoque",
+        "Ryan Julian",
+        "Samuel Bustamante-Gomez",
+        "Sean Kirmani",
+        "Sergey Levine",
+        "Shan Lin",
+        "Sherry Moore",
+        "Shikhar Bahl",
+        "Shivin Dass",
+        "Shubham D. Sonawani",
+        "Shuran Song",
+        "Sichun Xu",
+        "Siddhant Haldar",
+        "Siddharth Karamcheti",
+        "Simeon Adebola",
+        "Simon Guist",
+        "Soroush Nasiriany",
+        "Stefan Schaal",
+        "Stefan Welker",
+        "Stephen Tian",
+        "Subramanian Ramamoorthy",
+        "Sudeep Dasari",
+        "Suneel Belkhale",
+        "Sungjae Park",
+        "Suraj Nair",
+        "Suvir Mirchandani",
+        "Takayuki Osa",
+        "Tanmay Gupta",
+        "Tatsuya Harada",
+        "Tatsuya Matsushima",
+        "Ted Xiao",
+        "Thomas Kollar",
+        "Tianhe Yu",
+        "Tianli Ding",
+        "Todor Davchev",
+        "Tony Z. Zhao",
+        "Travis Armstrong",
+        "Trevor Darrell",
+        "Trinity Chung",
+        "Vidhi Jain",
+        "Vincent Vanhoucke",
+        "Wei Zhan",
+        "Wenxuan Zhou",
+        "Wolfram Burgard",
+        "Xi Chen",
+        "Xiaolong Wang",
+        "Xinghao Zhu",
+        "Xinyang Geng",
+        "Xiyuan Liu",
+        "Liangwei Xu",
+        "Xuanlin Li",
+        "Yao Lu",
+        "Yecheng Jason Ma",
+        "Yejin Kim",
+        "Yevgen Chebotar",
+        "Yifan Zhou",
+        "Yifeng Zhu",
+        "Yilin Wu",
+        "Ying Xu",
+        "Yixuan Wang",
+        "Yonatan Bisk",
+        "Yoonyoung Cho",
+        "Youngwoon Lee",
+        "Yuchen Cui",
+        "Yue Cao",
+        "Yueh-Hua Wu",
+        "Yujin Tang",
+        "Yuke Zhu",
+        "Yunchu Zhang",
+        "Yunfan Jiang",
+        "Yunshuang Li",
+        "Yunzhu Li",
+        "Yusuke Iwasawa",
+        "Yutaka Matsuo",
+        "Zehan Ma",
+        "Zhuo Xu",
+        "Zichen Jeff Cui",
+        "Zichen Zhang",
+        "Zipeng Lin"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "RSS",
+      "title": "LEAP Hand: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning",
+      "cites": 78,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Robot hand",
+        "Robot",
+        "Artificial intelligence",
+        "Computer vision"
+      ],
+      "doi": "10.15607/rss.2023.xix.089",
+      "coauthors": [
+        "Kenneth Shaw",
+        "Ananye Agarwal"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "RSS",
+      "title": "Human-to-Robot Imitation in the Wild",
+      "cites": 77,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Imitation",
+        "Robot",
+        "Computer science",
+        "Human–robot interaction",
+        "Artificial intelligence"
+      ],
+      "doi": "10.15607/rss.2022.xviii.026",
+      "coauthors": [
+        "Shikhar Bahl",
+        "Abhinav Gupta"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "IROS",
+      "title": "Adapting Rapid Motor Adaptation for Bipedal Robots",
+      "cites": 58,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Leverage (statistics)",
+        "Computer science",
+        "Robot",
+        "Estimator",
+        "Adaptation (eye)"
+      ],
+      "doi": "10.1109/iros47612.2022.9981091",
+      "coauthors": [
+        "Ashish Kumar",
+        "Zhongyu Li",
+        "Jun Zeng",
+        "Koushil Sreenath",
+        "Jitendra Malik"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "RSS",
+      "title": "Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on YouTube",
+      "cites": 57,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Robotic hand",
+        "Human–computer interaction",
+        "Robot"
+      ],
+      "doi": "10.15607/rss.2022.xviii.023",
+      "coauthors": [
+        "Aravind Sivakumar",
+        "Kenneth Shaw"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "ICRA",
+      "title": "Auto-Tuned Sim-to-Real Transfer",
+      "cites": 46,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Domain (mathematical analysis)",
+        "Set (abstract data type)",
+        "Key (lock)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra48506.2021.9562091",
+      "coauthors": [
+        "Yuqing Du",
+        "Olivia Watkins",
+        "Trevor Darrell",
+        "Pieter Abbeel"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "ICRA",
+      "title": "Legs as Manipulator: Pushing Quadrupedal Agility Beyond Locomotion",
+      "cites": 45,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "Human–computer interaction",
+        "Robustness (evolution)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra48891.2023.10161470",
+      "coauthors": [
+        "Xuxin Cheng",
+        "Ashish Kumar"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "RSS",
+      "title": "Structured World Models from Human Videos",
+      "cites": 32,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Human–computer interaction"
+      ],
+      "doi": "10.15607/rss.2023.xix.012",
+      "coauthors": [
+        "Russell Mendonca",
+        "Shikhar Bahl"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Deepak Pathak: 5년에 걸쳐 20편, 총 1,146회 인용, h=12, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "2021년 \"Auto-Tuned Sim-to-Real Transfer\"으로 출발.",
+        "초기 토픽: Computer science, Artificial intelligence, Robot. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.00 → 토픽 지속형.",
+        "저자수 평균: 초기 18.2명 → 후기 18.2명 (팀 유지).",
+        "최다 인용 논문 \"RMA: Rapid Motor Adaptation for Legged Robots\" (2021, 435회) — 커리어 초기에 위치.",
+        ""
+      ],
+      "lessons": [
+        "데이터 부족 — 개별 패턴 뚜렷하지 않음."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Deepak Pathak: over 5 years, 20 papers, 1,146 total cites, h=12, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2021 with \"Auto-Tuned Sim-to-Real Transfer\".",
+        "Early topics: Computer science, Artificial intelligence, Robot. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.00 → topic-stable.",
+        "Authors per paper: early 18.2 → late 18.2 (stable team).",
+        "Peak paper \"RMA: Rapid Motor Adaptation for Legged Robots\" (2021, 435 cites) — fell in early career.",
+        ""
+      ],
+      "lessons": [
+        "Insufficient data — no distinctive pattern."
+      ]
+    }
+  }
+}

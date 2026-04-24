@@ -994,14 +994,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Aaron M. Dollar: 23년에 걸쳐 110편, 총 6,633회 인용, h=36, 500+ 블록버스터 3편.",
       "paragraphs": [
         "2003년 \"Towards grasping in unstructured environments: optimization of grasper compliance and configuration\"으로 출발. 첫 500+ 인용 논문까지 5년 걸림: \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284회). 1000+ 인용 논문: \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284회).",
         "초기 토픽: Robustness (evolution), Actuator, Revolute joint. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.25 → 점진적 이동형.",
         "저자수 평균: 초기 2.3명 → 후기 3.6명 (팀 확장).",
         "최다 인용 논문 \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284회) — 커리어 초기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Robert D. Howe. 제자 후보 추정 19명 — 상위: Andrew S. Morgan(2018~, 우리 마지막저자 15편), Walter G. Bircher(2017~, 우리 마지막저자 11편), Raymond R. Ma(2012~, 우리 마지막저자 6편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Robert D. Howe. 제자 후보 추정 19명 — 상위: Andrew S. Morgan(2018~, 본인 마지막저자 15편), Walter G. Bircher(2017~, 본인 마지막저자 11편), Raymond R. Ma(2012~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "초기 5년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1011,7 +1011,7 @@
       ]
     },
     "en": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Aaron M. Dollar: over 23 years, 110 papers, 6,633 total cites, h=36, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2003 with \"Towards grasping in unstructured environments: optimization of grasper compliance and configuration\". First 500+ cite paper came 5 years in: \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284 cites). 1000+ cite paper: \"Lower Extremity Exoskeletons and Active Orthoses: Challenges and State-of-the-Art\" (2008, 1,284 cites).",

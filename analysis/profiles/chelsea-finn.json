@@ -1209,14 +1209,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-2",
       "headline": "Chelsea Finn: 11년에 걸쳐 49편, 총 3,800회 인용, h=25, 500+ 블록버스터 2편.",
       "paragraphs": [
         "2015년 \"Beyond lowest-warping cost action selection in trajectory transfer\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"Deep visual foresight for planning robot motion\" (2017, 623회).",
         "초기 토픽: Computer science, Artificial intelligence, Robot. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.08 → 토픽 지속형.",
         "저자수 평균: 초기 16.9명 → 후기 15.5명 (팀 축소).",
         "최다 인용 논문 \"Deep visual foresight for planning robot motion\" (2017, 623회) — 커리어 초기에 위치.",
-        "제자 후보 추정 15명 — 상위: Tony Z. Zhao(2021~, 우리 마지막저자 4편), Annie S. Chen(2021~, 우리 마지막저자 3편), Karl Pertsch(2023~, 우리 마지막저자 3편)."
+        "제자 후보 추정 15명 — 상위: Tony Z. Zhao(2021~, 본인 마지막저자 4편), Annie S. Chen(2021~, 본인 마지막저자 3편), Karl Pertsch(2023~, 본인 마지막저자 3편)."
       ],
       "lessons": [
         "초기 2년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1224,7 +1224,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-2",
       "headline": "Chelsea Finn: over 11 years, 49 papers, 3,800 total cites, h=25, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2015 with \"Beyond lowest-warping cost action selection in trajectory transfer\". First 500+ cite paper came 2 years in: \"Deep visual foresight for planning robot motion\" (2017, 623 cites).",

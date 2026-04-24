@@ -989,14 +989,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "early-blockbuster",
+      "archetype": "mid-career-peak",
       "headline": "Giorgio Grisetti: 24년에 걸쳐 74편, 총 9,588회 인용, h=34, 500+ 블록버스터 4편.",
       "paragraphs": [
         "2002년 \"Global Hough Localization for Mobile Robots in Polygonal Environments\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling\" (2005, 732회). 1000+ 인용 논문: \"Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters\" (2007, 2,397회).",
         "초기 토픽: Computer science, Particle filter, Artificial intelligence. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.16 → 토픽 지속형.",
         "저자수 평균: 초기 4.2명 → 후기 4.2명 (팀 유지).",
         "최다 인용 논문 \"Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters\" (2007, 2,397회) — 커리어 초기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Wolfram Burgard. 제자 후보 추정 17명 — 상위: Bartolomeo Della Corte(2016~, 우리 마지막저자 9편), Luca Di Giammarino(2021~, 우리 마지막저자 6편), Dominik Schlegel(2016~, 우리 마지막저자 5편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Wolfram Burgard. 제자 후보 추정 17명 — 상위: Bartolomeo Della Corte(2016~, 본인 마지막저자 9편), Luca Di Giammarino(2021~, 본인 마지막저자 6편), Dominik Schlegel(2016~, 본인 마지막저자 5편)."
       ],
       "lessons": [
         "초기 3년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1005,7 +1005,7 @@
       ]
     },
     "en": {
-      "archetype": "early-blockbuster",
+      "archetype": "mid-career-peak",
       "headline": "Giorgio Grisetti: over 24 years, 74 papers, 9,588 total cites, h=34, 4 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2002 with \"Global Hough Localization for Mobile Robots in Polygonal Environments\". First 500+ cite paper came 3 years in: \"Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling\" (2005, 732 cites). 1000+ cite paper: \"Improved Techniques for Grid Mapping With Rao-Blackwellized Particle Filters\" (2007, 2,397 cites).",

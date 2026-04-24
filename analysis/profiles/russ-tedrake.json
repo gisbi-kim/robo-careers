@@ -1,0 +1,1075 @@
+{
+  "name": "Russ Tedrake",
+  "slug": "russ-tedrake",
+  "career_stats": {
+    "first_year": 2004,
+    "last_year": 2025,
+    "span": 22,
+    "total_papers": 98,
+    "total_cites": 6627,
+    "h_index": 41,
+    "i10_index": 75,
+    "seminal_count": 1,
+    "max_cites_single_paper": 605
+  },
+  "role_distribution": {
+    "first": 5,
+    "middle": 13,
+    "last": 80
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2004,
+      "title": "Actuating a Simple 3D Passive Dynamic Walker"
+    },
+    "first_100cite": {
+      "year": 2004,
+      "title": "Actuating a Simple 3D Passive Dynamic Walker",
+      "cites": 188,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2014,
+      "title": "A direct method for trajectory optimization of rigid bodies through contact",
+      "cites": 605,
+      "gap_from_first": 10
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "A direct method for trajectory optimization of rigid bodies through contact",
+      "cites": 605
+    }
+  },
+  "year_series": {
+    "2004": {
+      "n": 2,
+      "cites": 458,
+      "max_cites": 270
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2007": {
+      "n": 3,
+      "cites": 72,
+      "max_cites": 48
+    },
+    "2008": {
+      "n": 3,
+      "cites": 156,
+      "max_cites": 86
+    },
+    "2009": {
+      "n": 6,
+      "cites": 612,
+      "max_cites": 176
+    },
+    "2010": {
+      "n": 4,
+      "cites": 816,
+      "max_cites": 408
+    },
+    "2011": {
+      "n": 4,
+      "cites": 373,
+      "max_cites": 211
+    },
+    "2012": {
+      "n": 4,
+      "cites": 181,
+      "max_cites": 86
+    },
+    "2013": {
+      "n": 3,
+      "cites": 200,
+      "max_cites": 142
+    },
+    "2014": {
+      "n": 5,
+      "cites": 955,
+      "max_cites": 605
+    },
+    "2015": {
+      "n": 3,
+      "cites": 361,
+      "max_cites": 219
+    },
+    "2016": {
+      "n": 5,
+      "cites": 574,
+      "max_cites": 198
+    },
+    "2017": {
+      "n": 6,
+      "cites": 327,
+      "max_cites": 135
+    },
+    "2018": {
+      "n": 5,
+      "cites": 203,
+      "max_cites": 112
+    },
+    "2019": {
+      "n": 6,
+      "cites": 198,
+      "max_cites": 108
+    },
+    "2020": {
+      "n": 6,
+      "cites": 98,
+      "max_cites": 33
+    },
+    "2021": {
+      "n": 6,
+      "cites": 225,
+      "max_cites": 92
+    },
+    "2022": {
+      "n": 3,
+      "cites": 49,
+      "max_cites": 31
+    },
+    "2023": {
+      "n": 4,
+      "cites": 239,
+      "max_cites": 143
+    },
+    "2024": {
+      "n": 9,
+      "cites": 223,
+      "max_cites": 129
+    },
+    "2025": {
+      "n": 11,
+      "cites": 307,
+      "max_cites": 292
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2004,
+      "end": 2008,
+      "n_papers": 8,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Robot",
+          "w": 0.1
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.1
+        },
+        {
+          "c": "Terrain",
+          "w": 0.1
+        },
+        {
+          "c": "Compass",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.155
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.078
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.058
+        },
+        {
+          "c": "Terrain",
+          "w": 0.039
+        },
+        {
+          "c": "Mathematical optimization",
+          "w": 0.039
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.139
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.052
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.052
+        },
+        {
+          "c": "Robot",
+          "w": 0.043
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.043
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 25,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.152
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.056
+        },
+        {
+          "c": "Control theory (sociology)",
+          "w": 0.04
+        },
+        {
+          "c": "Mathematical optimization",
+          "w": 0.04
+        },
+        {
+          "c": "Trajectory",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 20,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.175
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.072
+        },
+        {
+          "c": "Regular polygon",
+          "w": 0.041
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.041
+        },
+        {
+          "c": "Robot",
+          "w": 0.031
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2004,
+      "end": 2008,
+      "mix": {
+        "IROS": 4,
+        "ICRA": 3,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "ICRA": 11,
+        "IJRR": 5,
+        "RSS": 4,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "ICRA": 12,
+        "IJRR": 6,
+        "IROS": 3,
+        "RSS": 3
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "ICRA": 13,
+        "RA-L": 5,
+        "IROS": 2,
+        "RSS": 2,
+        "IJRR": 1,
+        "T-RO": 1,
+        "Sci-Rob": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "ICRA": 5,
+        "RSS": 5,
+        "IROS": 4,
+        "IJRR": 3,
+        "T-RO": 1,
+        "Sci-Rob": 1,
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2004,
+      "end": 2008,
+      "mean_n_authors": 3,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Alexander C. Shkolnik",
+          3
+        ],
+        [
+          "Teresa Weirui Zhang",
+          2
+        ],
+        [
+          "H. Sebastian Seung",
+          2
+        ],
+        [
+          "Katie Byl",
+          2
+        ],
+        [
+          "Ming-fai Fong",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 2.81,
+      "unique_coauthors": 23,
+      "top_coauthors": [
+        [
+          "Alexander C. Shkolnik",
+          3
+        ],
+        [
+          "Ian R. Manchester",
+          3
+        ],
+        [
+          "Mark M. Tobenkin",
+          3
+        ],
+        [
+          "Anirudha Majumdar",
+          3
+        ],
+        [
+          "Katie Byl",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 4.29,
+      "unique_coauthors": 63,
+      "top_coauthors": [
+        [
+          "Michael Posa",
+          3
+        ],
+        [
+          "Scott Kuindersma",
+          3
+        ],
+        [
+          "Robin Deits",
+          3
+        ],
+        [
+          "Anirudha Majumdar",
+          3
+        ],
+        [
+          "Daniela Rus",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 3.4,
+      "unique_coauthors": 41,
+      "top_coauthors": [
+        [
+          "Tao Pang",
+          6
+        ],
+        [
+          "Hongkai Dai",
+          3
+        ],
+        [
+          "Naveen Kuppuswamy",
+          3
+        ],
+        [
+          "Alex Alspach",
+          3
+        ],
+        [
+          "Lujie Yang",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 5.2,
+      "unique_coauthors": 59,
+      "top_coauthors": [
+        [
+          "Alexandre Amice",
+          4
+        ],
+        [
+          "Tobia Marcucci",
+          4
+        ],
+        [
+          "Thomas Cohn",
+          4
+        ],
+        [
+          "Peter Werner",
+          3
+        ],
+        [
+          "Daniela Rus",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.212,
+  "top_repeat_coauthors": [
+    {
+      "name": "Tao Pang",
+      "count": 8,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Alexander C. Shkolnik",
+      "count": 6,
+      "first_year": 2007,
+      "last_year": 2011
+    },
+    {
+      "name": "Anirudha Majumdar",
+      "count": 6,
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "name": "Hongkai Dai",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2024
+    },
+    {
+      "name": "Daniela Rus",
+      "count": 6,
+      "first_year": 2015,
+      "last_year": 2025
+    },
+    {
+      "name": "Naveen Kuppuswamy",
+      "count": 5,
+      "first_year": 2017,
+      "last_year": 2025
+    },
+    {
+      "name": "Lujie Yang",
+      "count": 5,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Alexandre Amice",
+      "count": 5,
+      "first_year": 2023,
+      "last_year": 2024
+    },
+    {
+      "name": "Tobia Marcucci",
+      "count": 5,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Thomas Cohn",
+      "count": 5,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Katie Byl",
+      "count": 4,
+      "first_year": 2008,
+      "last_year": 2009
+    },
+    {
+      "name": "Mark M. Tobenkin",
+      "count": 4,
+      "first_year": 2010,
+      "last_year": 2014
+    },
+    {
+      "name": "Robin Deits",
+      "count": 4,
+      "first_year": 2014,
+      "last_year": 2019
+    },
+    {
+      "name": "Peter R. Florence",
+      "count": 4,
+      "first_year": 2016,
+      "last_year": 2020
+    },
+    {
+      "name": "Fumiya Iida",
+      "count": 3,
+      "first_year": 2007,
+      "last_year": 2011
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Tao Pang",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 8,
+      "student_first_author_count": 5,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Anirudha Majumdar",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 4,
+      "we_last_author_count": 6,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Thomas Cohn",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Lujie Yang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alexandre Amice",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Peter R. Florence",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Andrew J. Barry",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Michael Posa",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Weiqiao Han",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Gregory Izatt",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Lucas Manuelli",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Peter Werner",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "H. J. Terry Suh",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Naveen Kuppuswamy",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Elena L. Glassman",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Jacob Steinhardt",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Scott Kuindersma",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Benoit Landry",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Sadra Sadraddini",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "David von Wrangel",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Nicholas Pfaff",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Bernhard Paus Graesdal",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hongkai Dai",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Robin Deits",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Andrew D. Marchese",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2016
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2004,
+      2013
+    ],
+    "early_mean_n_authors": 2.86,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.95
+  },
+  "citation_half_life_years": 12,
+  "bursts": {
+    "productivity": [
+      2025
+    ],
+    "impact": [
+      2010,
+      2014
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "IJRR",
+      "title": "A direct method for trajectory optimization of rigid bodies through contact",
+      "cites": 605,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Leverage (statistics)",
+        "Quadratic programming",
+        "Linear complementarity problem",
+        "Sequential quadratic programming",
+        "A priori and a posteriori"
+      ],
+      "doi": "10.1177/0278364913506757",
+      "coauthors": [
+        "Michael Posa",
+        "Cecilia Cantu"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "IJRR",
+      "title": "LQR-trees: Feedback Motion Planning via Sums-of-Squares Verification",
+      "cites": 408,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Probabilistic logic",
+        "Motion planning",
+        "Stability (learning theory)",
+        "Lyapunov function",
+        "Computation"
+      ],
+      "doi": "10.1177/0278364910369189",
+      "coauthors": [
+        "Ian R. Manchester",
+        "Mark M. Tobenkin",
+        "John W. Roberts"
+      ]
+    },
+    {
+      "year": 2010,
+      "venue": "RSS",
+      "title": "Belief space planning assuming maximum likelihood observations",
+      "cites": 308,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Maximum likelihood",
+        "Computer science",
+        "Space (punctuation)",
+        "Mathematical optimization",
+        "Statistics"
+      ],
+      "doi": "10.15607/rss.2010.vi.037",
+      "coauthors": [
+        "Robert Platt Jr.",
+        "Leslie Pack Kaelbling",
+        "Tomás Lozano-Pérez"
+      ]
+    },
+    {
+      "year": 2025,
+      "venue": "IJRR",
+      "title": "Diffusion policy: Visuomotor policy learning via action diffusion",
+      "cites": 292,
+      "n_authors": 8,
+      "role": "middle",
+      "concepts": [
+        "Diffusion",
+        "Action (physics)",
+        "Computer science",
+        "Artificial intelligence",
+        "Psychology"
+      ],
+      "doi": "10.1177/02783649241273668",
+      "coauthors": [
+        "Cheng Chi",
+        "Zhenjia Xu",
+        "Siyuan Feng",
+        "Eric Cousineau",
+        "Yilun Du",
+        "Benjamin Burchfiel",
+        "Shuran Song"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "IROS",
+      "title": "Stochastic policy gradient reinforcement learning on a simple 3D biped",
+      "cites": 270,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Reinforcement learning",
+        "Robot",
+        "Computer science",
+        "Artificial intelligence",
+        "Degrees of freedom (physics and chemistry)"
+      ],
+      "doi": "10.1109/iros.2004.1389841",
+      "coauthors": [
+        "Teresa Weirui Zhang",
+        "H. Sebastian Seung"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Efficient mixed-integer planning for UAVs in cluttered environments",
+      "cites": 219,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Obstacle avoidance",
+        "Integer programming",
+        "Mathematical optimization",
+        "Regular polygon",
+        "Piecewise"
+      ],
+      "doi": "10.1109/icra.2015.7138978",
+      "coauthors": [
+        "Robin Deits"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "IJRR",
+      "title": "Stable dynamic walking over uneven terrain",
+      "cites": 211,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Underactuation",
+        "Control theory (sociology)",
+        "Nonlinear system",
+        "Trajectory",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364910395339",
+      "coauthors": [
+        "Ian R. Manchester",
+        "Uwe Mettin",
+        "Fumiya Iida"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "IJRR",
+      "title": "Dynamics and trajectory optimization for a soft spatial fluidic elastomer manipulator",
+      "cites": 198,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Soft robotics",
+        "Computer science",
+        "Fluidics",
+        "Actuator",
+        "Elastomer"
+      ],
+      "doi": "10.1177/0278364915587926",
+      "coauthors": [
+        "Andrew D. Marchese",
+        "Daniela Rus"
+      ]
+    },
+    {
+      "year": 2004,
+      "venue": "ICRA",
+      "title": "Actuating a Simple 3D Passive Dynamic Walker",
+      "cites": 188,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Robot",
+        "Control theory (sociology)",
+        "Trajectory",
+        "Computer science",
+        "Compass"
+      ],
+      "doi": "10.1109/robot.2004.1302452",
+      "coauthors": [
+        "Teresa Weirui Zhang",
+        "Ming-fai Fong",
+        "H. Sebastian Seung"
+      ]
+    },
+    {
+      "year": 2009,
+      "venue": "IJRR",
+      "title": "Metastable Walking Machines",
+      "cites": 176,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Control theory (sociology)",
+        "Terrain",
+        "Compass",
+        "Gait",
+        "Stability (learning theory)"
+      ],
+      "doi": "10.1177/0278364909340446",
+      "coauthors": [
+        "Katie Byl"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "steady-producer",
+      "headline": "Russ Tedrake: 22년에 걸쳐 98편, 총 6,627회 인용, h=41, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "2004년 \"Actuating a Simple 3D Passive Dynamic Walker\"으로 출발. 첫 500+ 인용 논문까지 10년 걸림: \"A direct method for trajectory optimization of rigid bodies through contact\" (2014, 605회).",
+        "초기 토픽: Computer science, Robot, Control theory (sociology). 최근 토픽: Computer science, Artificial intelligence, Regular polygon. 피벗 점수 0.21 → 토픽 지속형.",
+        "저자수 평균: 초기 2.9명 → 후기 4.0명 (팀 확장).",
+        "최다 인용 논문 \"A direct method for trajectory optimization of rigid bodies through contact\" (2014, 605회) — 커리어 중기에 위치.",
+        "제자 후보 추정 25명 — 상위: Tao Pang(2018~, 본인 마지막저자 7편), Anirudha Majumdar(2012~, 본인 마지막저자 6편), Thomas Cohn(2020~, 본인 마지막저자 5편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "25명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "steady-producer",
+      "headline": "Russ Tedrake: over 22 years, 98 papers, 6,627 total cites, h=41, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2004 with \"Actuating a Simple 3D Passive Dynamic Walker\". First 500+ cite paper came 10 years in: \"A direct method for trajectory optimization of rigid bodies through contact\" (2014, 605 cites).",
+        "Early topics: Computer science, Robot, Control theory (sociology). Recent topics: Computer science, Artificial intelligence, Regular polygon. Pivot score 0.21 → topic-stable.",
+        "Authors per paper: early 2.9 → late 4.0 (team growth).",
+        "Peak paper \"A direct method for trajectory optimization of rigid bodies through contact\" (2014, 605 cites) — fell in mid career.",
+        "25 likely students — top: Tao Pang(2018~, we last-author on 7), Anirudha Majumdar(2012~, we last-author on 6), Thomas Cohn(2020~, we last-author on 5)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "25 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

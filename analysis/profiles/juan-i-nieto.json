@@ -1110,14 +1110,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Juan I. Nieto: 21년에 걸쳐 97편, 총 7,483회 인용, h=48, 500+ 블록버스터 2편.",
       "paragraphs": [
         "2003년 \"Multiple target tracking using Sequential Monte Carlo Methods and statistical data association\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"Consistency of the EKF-SLAM Algorithm\" (2006, 564회).",
         "초기 토픽: Computer science, Simultaneous localization and mapping, Data association. 최근 토픽: Computer science, Merge (version control), Artificial intelligence. 피벗 점수 0.27 → 점진적 이동형.",
         "저자수 평균: 초기 3.6명 → 후기 5.8명 (팀 확장).",
         "최다 인용 논문 \"Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board MAV planning\" (2017, 584회) — 커리어 후기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Eduardo Mario Nebot. 제자 후보 추정 31명 — 상위: Zachary Taylor(2013~, 우리 마지막저자 6편), Tonci Novkovic(2017~, 우리 마지막저자 6편), Mina Kamel(2016~, 우리 마지막저자 6편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Eduardo Mario Nebot. 제자 후보 추정 31명 — 상위: Zachary Taylor(2013~, 본인 마지막저자 6편), Tonci Novkovic(2017~, 본인 마지막저자 6편), Mina Kamel(2016~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "초기 3년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1127,7 +1127,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Juan I. Nieto: over 21 years, 97 papers, 7,483 total cites, h=48, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2003 with \"Multiple target tracking using Sequential Monte Carlo Methods and statistical data association\". First 500+ cite paper came 3 years in: \"Consistency of the EKF-SLAM Algorithm\" (2006, 564 cites).",

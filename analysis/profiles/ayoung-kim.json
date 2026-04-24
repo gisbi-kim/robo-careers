@@ -1,0 +1,948 @@
+{
+  "name": "Ayoung Kim",
+  "slug": "ayoung-kim",
+  "career_stats": {
+    "first_year": 2009,
+    "last_year": 2025,
+    "span": 17,
+    "total_papers": 63,
+    "total_cites": 4299,
+    "h_index": 31,
+    "i10_index": 46,
+    "seminal_count": 1,
+    "max_cites_single_paper": 825
+  },
+  "role_distribution": {
+    "first": 5,
+    "middle": 8,
+    "last": 50
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2009,
+      "title": "Pose-graph visual SLAM with geometric model selection for autonomous underwater ship hull inspection"
+    },
+    "first_100cite": {
+      "year": 2012,
+      "title": "Advanced perception, navigation and planning for autonomous in-water ship hull inspection",
+      "cites": 249,
+      "gap_from_first": 3
+    },
+    "first_500cite": {
+      "year": 2018,
+      "title": "Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map",
+      "cites": 825,
+      "gap_from_first": 9
+    },
+    "peak_paper": {
+      "year": 2018,
+      "title": "Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map",
+      "cites": 825
+    }
+  },
+  "year_series": {
+    "2009": {
+      "n": 1,
+      "cites": 90,
+      "max_cites": 90
+    },
+    "2010": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2011": {
+      "n": 1,
+      "cites": 13,
+      "max_cites": 13
+    },
+    "2012": {
+      "n": 1,
+      "cites": 249,
+      "max_cites": 249
+    },
+    "2013": {
+      "n": 2,
+      "cites": 328,
+      "max_cites": 253
+    },
+    "2014": {
+      "n": 1,
+      "cites": 31,
+      "max_cites": 31
+    },
+    "2015": {
+      "n": 1,
+      "cites": 138,
+      "max_cites": 138
+    },
+    "2016": {
+      "n": 1,
+      "cites": 8,
+      "max_cites": 8
+    },
+    "2017": {
+      "n": 3,
+      "cites": 86,
+      "max_cites": 56
+    },
+    "2018": {
+      "n": 6,
+      "cites": 1185,
+      "max_cites": 825
+    },
+    "2019": {
+      "n": 5,
+      "cites": 595,
+      "max_cites": 290
+    },
+    "2020": {
+      "n": 8,
+      "cites": 725,
+      "max_cites": 288
+    },
+    "2021": {
+      "n": 6,
+      "cites": 166,
+      "max_cites": 61
+    },
+    "2022": {
+      "n": 5,
+      "cites": 420,
+      "max_cites": 276
+    },
+    "2023": {
+      "n": 5,
+      "cites": 108,
+      "max_cites": 41
+    },
+    "2024": {
+      "n": 8,
+      "cites": 141,
+      "max_cites": 61
+    },
+    "2025": {
+      "n": 9,
+      "cites": 16,
+      "max_cites": 5
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2009,
+      "end": 2013,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.16
+        },
+        {
+          "c": "Computer science",
+          "w": 0.16
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.12
+        },
+        {
+          "c": "Visual hull",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "n_papers": 12,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.15
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.067
+        },
+        {
+          "c": "Lidar",
+          "w": 0.05
+        }
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.193
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.159
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.11
+        },
+        {
+          "c": "Lidar",
+          "w": 0.055
+        },
+        {
+          "c": "Ranging",
+          "w": 0.034
+        }
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "n_papers": 17,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.15
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.1
+        },
+        {
+          "c": "Radar",
+          "w": 0.087
+        },
+        {
+          "c": "Remote sensing",
+          "w": 0.075
+        },
+        {
+          "c": "Lidar",
+          "w": 0.062
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2009,
+      "end": 2013,
+      "mix": {
+        "IROS": 2,
+        "IJRR": 1,
+        "ICRA": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 4,
+        "RA-L": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mix": {
+        "RA-L": 12,
+        "IROS": 7,
+        "ICRA": 6,
+        "T-RO": 3,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mix": {
+        "ICRA": 7,
+        "RA-L": 5,
+        "IROS": 2,
+        "IJRR": 2,
+        "T-RO": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2009,
+      "end": 2013,
+      "mean_n_authors": 3,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Ryan M. Eustice",
+          5
+        ],
+        [
+          "Franz S. Hover",
+          1
+        ],
+        [
+          "Brendan J. Englot",
+          1
+        ],
+        [
+          "Hordur Johannsson",
+          1
+        ],
+        [
+          "Michael Kaess",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2014,
+      "end": 2018,
+      "mean_n_authors": 2.92,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Jinyong Jeong",
+          4
+        ],
+        [
+          "Younggun Cho",
+          4
+        ],
+        [
+          "Youngji Kim",
+          3
+        ],
+        [
+          "Ryan M. Eustice",
+          2
+        ],
+        [
+          "Hyun Chul Roh",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2019,
+      "end": 2023,
+      "mean_n_authors": 3.52,
+      "unique_coauthors": 31,
+      "top_coauthors": [
+        [
+          "Giseop Kim",
+          7
+        ],
+        [
+          "Younggun Cho",
+          7
+        ],
+        [
+          "Young-Sik Shin",
+          5
+        ],
+        [
+          "Myung-Hwan Jeon",
+          5
+        ],
+        [
+          "Jinyong Jeong",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2024,
+      "end": 2025,
+      "mean_n_authors": 4.59,
+      "unique_coauthors": 27,
+      "top_coauthors": [
+        [
+          "Wooseong Yang",
+          8
+        ],
+        [
+          "Minwoo Jung",
+          7
+        ],
+        [
+          "Hyesu Jang",
+          5
+        ],
+        [
+          "Sangwoo Jung",
+          5
+        ],
+        [
+          "Hyeonjae Gil",
+          4
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.145,
+  "top_repeat_coauthors": [
+    {
+      "name": "Younggun Cho",
+      "count": 12,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Giseop Kim",
+      "count": 10,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Minwoo Jung",
+      "count": 10,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Ryan M. Eustice",
+      "count": 8,
+      "first_year": 2009,
+      "last_year": 2023
+    },
+    {
+      "name": "Jinyong Jeong",
+      "count": 8,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Myung-Hwan Jeon",
+      "count": 8,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Wooseong Yang",
+      "count": 8,
+      "first_year": 2024,
+      "last_year": 2025
+    },
+    {
+      "name": "Young-Sik Shin",
+      "count": 7,
+      "first_year": 2018,
+      "last_year": 2022
+    },
+    {
+      "name": "Hyesu Jang",
+      "count": 7,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Sangwoo Jung",
+      "count": 7,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Youngji Kim",
+      "count": 5,
+      "first_year": 2016,
+      "last_year": 2023
+    },
+    {
+      "name": "Yeong Sang Park",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2021
+    },
+    {
+      "name": "Joowan Kim",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2021
+    },
+    {
+      "name": "Jeongyun Kim",
+      "count": 5,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Sungho Yoon",
+      "count": 4,
+      "first_year": 2020,
+      "last_year": 2021
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Ryan M. Eustice",
+      "advisor_active_from": 2002,
+      "early_copubs_as_our_first_author": 4,
+      "advisor_last_author_count": 4,
+      "total_copubs": 8
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Minwoo Jung",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 3,
+      "we_last_author_count": 10,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Younggun Cho",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 12,
+      "student_first_author_count": 3,
+      "we_last_author_count": 9,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Giseop Kim",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 10,
+      "student_first_author_count": 6,
+      "we_last_author_count": 8,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jinyong Jeong",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 4,
+      "we_last_author_count": 8,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Myung-Hwan Jeon",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 2,
+      "we_last_author_count": 8,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Wooseong Yang",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 8,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Sangwoo Jung",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 7,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Young-Sik Shin",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Hyesu Jang",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Joowan Kim",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Yeong Sang Park",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Jeongyun Kim",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 2,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Youngji Kim",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 4,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Sungho Yoon",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Hyeonjae Gil",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 2,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Dong-Guw Lee",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hyun Chul Roh",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Jaeho Shin",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Seungsang Yun",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Chiyun Noh",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Alex Junho Lee",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2022
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2009,
+      2018
+    ],
+    "early_mean_n_authors": 2.94,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.75
+  },
+  "citation_half_life_years": 7,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2018
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2018,
+      "venue": "IROS",
+      "title": "Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map",
+      "cites": 825,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Histogram",
+        "Point cloud",
+        "Shape context"
+      ],
+      "doi": "10.1109/iros.2018.8593953",
+      "coauthors": [
+        "Giseop Kim"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "IJRR",
+      "title": "Complex urban dataset with multi-level sensors from highly diverse urban environments",
+      "cites": 290,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Lidar",
+        "Global Positioning System",
+        "Ranging",
+        "Robotics"
+      ],
+      "doi": "10.1177/0278364919843996",
+      "coauthors": [
+        "Jinyong Jeong",
+        "Younggun Cho",
+        "Young-Sik Shin",
+        "Hyun Chul Roh"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "ICRA",
+      "title": "MulRan: Multimodal Range Dataset for Urban Place Recognition",
+      "cites": 288,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Lidar",
+        "Ranging",
+        "Computer science",
+        "Artificial intelligence",
+        "Radar imaging"
+      ],
+      "doi": "10.1109/icra40945.2020.9197298",
+      "coauthors": [
+        "Giseop Kim",
+        "Yeong Sang Park",
+        "Younghun Cho",
+        "Jinyong Jeong"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "T-RO",
+      "title": "Scan Context++: Structural Place Recognition Robust to Rotation and Lateral Variations in Urban Environments",
+      "cites": 276,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Computer vision",
+        "Shape context",
+        "Ranging"
+      ],
+      "doi": "10.1109/tro.2021.3116424",
+      "coauthors": [
+        "Giseop Kim",
+        "Sunwook Choi"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "T-RO",
+      "title": "Real-Time Visual SLAM for Autonomous Underwater Hull Inspection Using Visual Saliency",
+      "cites": 253,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Computer vision",
+        "Simultaneous localization and mapping",
+        "Artificial intelligence",
+        "Computer science",
+        "Monocular"
+      ],
+      "doi": "10.1109/tro.2012.2235699",
+      "coauthors": [
+        "Ryan M. Eustice"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IJRR",
+      "title": "Advanced perception, navigation and planning for autonomous in-water ship hull inspection",
+      "cites": 249,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Hull",
+        "Rudder",
+        "Marine engineering",
+        "Engineering",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1177/0278364912461059",
+      "coauthors": [
+        "Franz S. Hover",
+        "Ryan M. Eustice",
+        "Brendan J. Englot",
+        "Hordur Johannsson",
+        "Michael Kaess",
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "IROS",
+      "title": "Remove, then Revert: Static Point cloud Map Construction using Multiresolution Range Images",
+      "cites": 183,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Point cloud",
+        "Artificial intelligence",
+        "Computer vision",
+        "Range (aeronautics)"
+      ],
+      "doi": "10.1109/iros45743.2020.9340856",
+      "coauthors": [
+        "Giseop Kim"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "IJRR",
+      "title": "Active visual SLAM for robotic area coverage: Theory and experiment",
+      "cites": 138,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Artificial intelligence",
+        "Computer science",
+        "Computer vision",
+        "Perception"
+      ],
+      "doi": "10.1177/0278364914547893",
+      "coauthors": [
+        "Ryan M. Eustice"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "1-Day Learning, 1-Year Localization: Long-Term LiDAR Localization Using Scan Context Image",
+      "cites": 136,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Convolutional neural network",
+        "Term (time)",
+        "Context (archaeology)"
+      ],
+      "doi": "10.1109/lra.2019.2897340",
+      "coauthors": [
+        "Giseop Kim",
+        "Byungjae Park"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Direct Visual SLAM Using Sparse Depth for Camera-LiDAR System",
+      "cites": 114,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Lidar",
+        "Simultaneous localization and mapping",
+        "Artificial intelligence",
+        "Computer vision",
+        "Visual odometry"
+      ],
+      "doi": "10.1109/icra.2018.8461102",
+      "coauthors": [
+        "Young-Sik Shin",
+        "Yeong Sang Park"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Ayoung Kim: 17년에 걸쳐 63편, 총 4,299회 인용, h=31, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "2009년 \"Pose-graph visual SLAM with geometric model selection for autonomous underwater ship hull inspection\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map\" (2018, 825회).",
+        "초기 토픽: Artificial intelligence, Computer vision, Computer science. 최근 토픽: Computer science, Artificial intelligence, Radar. 피벗 점수 0.14 → 토픽 지속형.",
+        "저자수 평균: 초기 2.9명 → 후기 3.8명 (팀 확장).",
+        "최다 인용 논문 \"Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map\" (2018, 825회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Ryan M. Eustice. 제자 후보 추정 21명 — 상위: Minwoo Jung(2022~, 본인 마지막저자 10편), Younggun Cho(2017~, 본인 마지막저자 9편), Giseop Kim(2018~, 본인 마지막저자 8편)."
+      ],
+      "lessons": [
+        "21명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Ryan M. Eustice — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-2",
+      "headline": "Ayoung Kim: over 17 years, 63 papers, 4,299 total cites, h=31, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2009 with \"Pose-graph visual SLAM with geometric model selection for autonomous underwater ship hull inspection\". First 500+ cite paper came 9 years in: \"Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map\" (2018, 825 cites).",
+        "Early topics: Artificial intelligence, Computer vision, Computer science. Recent topics: Computer science, Artificial intelligence, Radar. Pivot score 0.14 → topic-stable.",
+        "Authors per paper: early 2.9 → late 3.8 (team growth).",
+        "Peak paper \"Scan Context: Egocentric Spatial Descriptor for Place Recognition Within 3D Point Cloud Map\" (2018, 825 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Ryan M. Eustice. 21 likely students — top: Minwoo Jung(2022~, we last-author on 10), Younggun Cho(2017~, we last-author on 9), Giseop Kim(2018~, we last-author on 8)."
+      ],
+      "lessons": [
+        "21 likely students — mentoring is the real impact.",
+        "Likely advisor: Ryan M. Eustice — started within their PhD network."
+      ]
+    }
+  }
+}

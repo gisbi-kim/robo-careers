@@ -1226,14 +1226,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Jeannette Bohg: 16년에 걸쳐 82편, 총 3,876회 인용, h=30, 500+ 블록버스터 1편.",
       "paragraphs": [
         "2010년 \"Attention-based active 3D point cloud segmentation\"으로 출발. 첫 500+ 인용 논문까지 4년 걸림: \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839회).",
         "초기 토픽: Computer science, Artificial intelligence, Computer vision. 최근 토픽: Computer science, Artificial intelligence, Reinforcement learning. 피벗 점수 0.14 → 토픽 지속형.",
         "저자수 평균: 초기 5.0명 → 후기 10.5명 (팀 확장).",
         "최다 인용 논문 \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839회) — 커리어 초기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Danica Kragic, Antonio Morales. 제자 후보 추정 21명 — 상위: Toki Migimatsu(2020~, 우리 마지막저자 10편), Lin Shao(2018~, 우리 마지막저자 6편), Michelle A. Lee(2019~, 우리 마지막저자 6편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Danica Kragic, Antonio Morales. 제자 후보 추정 21명 — 상위: Toki Migimatsu(2020~, 본인 마지막저자 10편), Lin Shao(2018~, 본인 마지막저자 6편), Michelle A. Lee(2019~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "초기 4년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1243,7 +1243,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Jeannette Bohg: over 16 years, 82 papers, 3,876 total cites, h=30, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2010 with \"Attention-based active 3D point cloud segmentation\". First 500+ cite paper came 4 years in: \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839 cites).",

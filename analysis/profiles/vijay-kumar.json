@@ -1995,14 +1995,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-2",
       "headline": "Vijay Kumar: 37년에 걸쳐 379편, 총 29,183회 인용, h=85, 500+ 블록버스터 10편.",
       "paragraphs": [
         "1989년 \"Kinematics and control of redundantly actuated closed chains\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"Controlling Formations of Multiple Mobile Robots\" (1998, 687회). 1000+ 인용 논문: \"Robotic Grasping and Contact: A Review\" (2000, 1,056회).",
         "초기 토픽: Computer science, Kinematics, Robot. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.13 → 토픽 지속형.",
         "저자수 평균: 초기 2.8명 → 후기 5.3명 (팀 확장).",
         "최다 인용 논문 \"Minimum snap trajectory generation and control for quadrotors\" (2011, 2,237회) — 커리어 중기에 위치.",
-        "제자 후보 추정 98명 — 상위: Giuseppe Loianno(2013~, 우리 마지막저자 16편), Jonathan Fink(2006~, 우리 마지막저자 12편), Yash Mulgaonkar(2013~, 우리 마지막저자 11편)."
+        "제자 후보 추정 98명 — 상위: Giuseppe Loianno(2013~, 본인 마지막저자 16편), Jonathan Fink(2006~, 본인 마지막저자 12편), Yash Mulgaonkar(2013~, 본인 마지막저자 11편)."
       ],
       "lessons": [
         "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
@@ -2012,7 +2012,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-2",
       "headline": "Vijay Kumar: over 37 years, 379 papers, 29,183 total cites, h=85, 10 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1989 with \"Kinematics and control of redundantly actuated closed chains\". First 500+ cite paper came 9 years in: \"Controlling Formations of Multiple Mobile Robots\" (1998, 687 cites). 1000+ cite paper: \"Robotic Grasping and Contact: A Review\" (2000, 1,056 cites).",

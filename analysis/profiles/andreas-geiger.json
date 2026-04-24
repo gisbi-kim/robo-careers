@@ -1,0 +1,712 @@
+{
+  "name": "Andreas Geiger",
+  "slug": "andreas-geiger",
+  "career_stats": {
+    "first_year": 2011,
+    "last_year": 2025,
+    "span": 15,
+    "total_papers": 15,
+    "total_cites": 10983,
+    "h_index": 12,
+    "i10_index": 12,
+    "seminal_count": 2,
+    "max_cites_single_paper": 9545
+  },
+  "role_distribution": {
+    "middle": 5,
+    "first": 2,
+    "last": 8
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2011,
+      "title": "Visual SLAM for autonomous ground vehicles"
+    },
+    "first_100cite": {
+      "year": 2011,
+      "title": "Visual SLAM for autonomous ground vehicles",
+      "cites": 159,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2012,
+      "title": "Automatic camera and range sensor calibration using a single shot",
+      "cites": 639,
+      "gap_from_first": 1
+    },
+    "first_1000cite": {
+      "year": 2013,
+      "title": "Vision meets robotics: The KITTI dataset",
+      "cites": 9545,
+      "gap_from_first": 2
+    },
+    "peak_paper": {
+      "year": 2013,
+      "title": "Vision meets robotics: The KITTI dataset",
+      "cites": 9545
+    }
+  },
+  "year_series": {
+    "2011": {
+      "n": 1,
+      "cites": 159,
+      "max_cites": 159
+    },
+    "2012": {
+      "n": 1,
+      "cites": 639,
+      "max_cites": 639
+    },
+    "2013": {
+      "n": 1,
+      "cites": 9545,
+      "max_cites": 9545
+    },
+    "2014": {
+      "n": 3,
+      "cites": 176,
+      "max_cites": 82
+    },
+    "2015": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2016": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2017": {
+      "n": 1,
+      "cites": 49,
+      "max_cites": 49
+    },
+    "2018": {
+      "n": 2,
+      "cites": 202,
+      "max_cites": 146
+    },
+    "2019": {
+      "n": 2,
+      "cites": 175,
+      "max_cites": 127
+    },
+    "2020": {
+      "n": 2,
+      "cites": 34,
+      "max_cites": 33
+    },
+    "2021": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2022": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2023": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2024": {
+      "n": 1,
+      "cites": 3,
+      "max_cites": 3
+    },
+    "2025": {
+      "n": 1,
+      "cites": 1,
+      "max_cites": 1
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 6,
+      "top_concepts": [
+        {
+          "c": "Computer vision",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Catadioptric system",
+          "w": 0.067
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.033
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.171
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.171
+        },
+        {
+          "c": "Visual odometry",
+          "w": 0.057
+        },
+        {
+          "c": "Odometry",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 2,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Bin",
+          "w": 0.1
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.1
+        },
+        {
+          "c": "Algorithm",
+          "w": 0.1
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "ICRA": 4,
+        "IJRR": 1,
+        "IROS": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "IROS": 3,
+        "ICRA": 3,
+        "RA-L": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "ICRA": 1,
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 3.17,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Miriam Schönbein",
+          2
+        ],
+        [
+          "Henning Lategahn",
+          1
+        ],
+        [
+          "Bernd Kitt",
+          1
+        ],
+        [
+          "Frank Moosmann",
+          1
+        ],
+        [
+          "Omer Car",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 6.29,
+      "unique_coauthors": 18,
+      "top_coauthors": [
+        [
+          "Marc Pollefeys",
+          6
+        ],
+        [
+          "Peidong Liu",
+          5
+        ],
+        [
+          "Torsten Sattler",
+          5
+        ],
+        [
+          "Lionel Heng",
+          4
+        ],
+        [
+          "Marcel Geppert",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 6.5,
+      "unique_coauthors": 11,
+      "top_coauthors": [
+        [
+          "Yushi Liu",
+          1
+        ],
+        [
+          "Alexander Qualmann",
+          1
+        ],
+        [
+          "Zehao Yu",
+          1
+        ],
+        [
+          "Miroslav Gabriel",
+          1
+        ],
+        [
+          "Philipp Schillinger",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.205,
+  "top_repeat_coauthors": [
+    {
+      "name": "Marc Pollefeys",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Peidong Liu",
+      "count": 5,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Torsten Sattler",
+      "count": 5,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Lionel Heng",
+      "count": 4,
+      "first_year": 2017,
+      "last_year": 2019
+    },
+    {
+      "name": "Miriam Schönbein",
+      "count": 2,
+      "first_year": 2014,
+      "last_year": 2014
+    },
+    {
+      "name": "Marcel Geppert",
+      "count": 2,
+      "first_year": 2018,
+      "last_year": 2019
+    },
+    {
+      "name": "Zhaopeng Cui",
+      "count": 2,
+      "first_year": 2019,
+      "last_year": 2019
+    },
+    {
+      "name": "Ye Chuan Yeo",
+      "count": 2,
+      "first_year": 2019,
+      "last_year": 2019
+    },
+    {
+      "name": "Henning Lategahn",
+      "count": 1,
+      "first_year": 2011,
+      "last_year": 2011
+    },
+    {
+      "name": "Bernd Kitt",
+      "count": 1,
+      "first_year": 2011,
+      "last_year": 2011
+    },
+    {
+      "name": "Frank Moosmann",
+      "count": 1,
+      "first_year": 2012,
+      "last_year": 2012
+    },
+    {
+      "name": "Omer Car",
+      "count": 1,
+      "first_year": 2012,
+      "last_year": 2012
+    },
+    {
+      "name": "Bernhard Schuster",
+      "count": 1,
+      "first_year": 2012,
+      "last_year": 2012
+    },
+    {
+      "name": "Philip Lenz",
+      "count": 1,
+      "first_year": 2013,
+      "last_year": 2013
+    },
+    {
+      "name": "Christoph Stiller",
+      "count": 1,
+      "first_year": 2013,
+      "last_year": 2013
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Peidong Liu",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Zhaopeng Cui",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2019
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2011,
+      2020
+    ],
+    "early_mean_n_authors": 4.85,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 6.33
+  },
+  "citation_half_life_years": 13,
+  "bursts": {
+    "productivity": [
+      2014
+    ],
+    "impact": [
+      2013
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2013,
+      "venue": "IJRR",
+      "title": "Vision meets robotics: The KITTI dataset",
+      "cites": 9545,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer vision",
+        "Robotics",
+        "Inertial measurement unit",
+        "Computer science"
+      ],
+      "doi": "10.1177/0278364913491297",
+      "coauthors": [
+        "Philip Lenz",
+        "Christoph Stiller",
+        "Raquel Urtasun"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "Automatic camera and range sensor calibration using a single shot",
+      "cites": 639,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Robustness (evolution)",
+        "Image sensor"
+      ],
+      "doi": "10.1109/icra.2012.6224570",
+      "coauthors": [
+        "Frank Moosmann",
+        "Omer Car",
+        "Bernhard Schuster"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "Visual SLAM for autonomous ground vehicles",
+      "cites": 159,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Simultaneous localization and mapping",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Point cloud"
+      ],
+      "doi": "10.1109/icra.2011.5979711",
+      "coauthors": [
+        "Henning Lategahn",
+        "Bernd Kitt"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Robust Dense Mapping for Large-Scale Dynamic Environments",
+      "cites": 146,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision",
+        "Odometry",
+        "Scalability"
+      ],
+      "doi": "10.1109/icra.2018.8462974",
+      "coauthors": [
+        "Ioan Andrei Barsan",
+        "Peidong Liu",
+        "Marc Pollefeys"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "ICRA",
+      "title": "Project AutoVision: Localization and 3D Scene Perception for an Autonomous Vehicle with a Multi-Camera System",
+      "cites": 127,
+      "n_authors": 13,
+      "role": "middle",
+      "concepts": [
+        "Suite",
+        "Computer science",
+        "Computer vision",
+        "GNSS applications",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra.2019.8793949",
+      "coauthors": [
+        "Lionel Heng",
+        "Benjamin Choi",
+        "Zhaopeng Cui",
+        "Marcel Geppert",
+        "Sixing Hu",
+        "Benson Kuan",
+        "Peidong Liu",
+        "Rang M. H. Nguyen",
+        "Ye Chuan Yeo",
+        "Gim Hee Lee",
+        "Marc Pollefeys",
+        "Torsten Sattler"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "Simultaneous underwater visibility assessment, enhancement and improved stereo",
+      "cites": 82,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Visibility",
+        "Underwater",
+        "Computer science"
+      ],
+      "doi": "10.1109/icra.2014.6907416",
+      "coauthors": [
+        "Martin Roser",
+        "Matthew Dunbabin"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IROS",
+      "title": "Omnidirectional 3D reconstruction in augmented Manhattan worlds",
+      "cites": 65,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Omnidirectional antenna",
+        "Computer science",
+        "Catadioptric system",
+        "Computer vision",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros.2014.6942637",
+      "coauthors": [
+        "Miriam Schönbein"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "IROS",
+      "title": "Towards Robust Visual Odometry with a Multi-Camera System",
+      "cites": 56,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Visual odometry",
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Odometry"
+      ],
+      "doi": "10.1109/iros.2018.8593561",
+      "coauthors": [
+        "Peidong Liu",
+        "Marcel Geppert",
+        "Lionel Heng",
+        "Torsten Sattler",
+        "Marc Pollefeys"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IROS",
+      "title": "Direct visual odometry for a fisheye-stereo camera",
+      "cites": 49,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer vision",
+        "Visual odometry",
+        "Epipolar geometry",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2017.8205988",
+      "coauthors": [
+        "Peidong Liu",
+        "Lionel Heng",
+        "Torsten Sattler",
+        "Marc Pollefeys"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "ICRA",
+      "title": "Real-Time Dense Mapping for Self-Driving Vehicles using Fisheye Cameras",
+      "cites": 48,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Fuse (electrical)",
+        "Pipeline (software)"
+      ],
+      "doi": "10.1109/icra.2019.8793884",
+      "coauthors": [
+        "Zhaopeng Cui",
+        "Lionel Heng",
+        "Ye Chuan Yeo",
+        "Marc Pollefeys",
+        "Torsten Sattler"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster-2",
+      "headline": "Andreas Geiger: 15년에 걸쳐 15편, 총 10,983회 인용, h=12, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "2011년 \"Visual SLAM for autonomous ground vehicles\"으로 출발. 첫 500+ 인용 논문까지 1년 걸림: \"Automatic camera and range sensor calibration using a single shot\" (2012, 639회). 1000+ 인용 논문: \"Vision meets robotics: The KITTI dataset\" (2013, 9,545회).",
+        "초기 토픽: Computer vision, Artificial intelligence, Computer science. 최근 토픽: Computer science, Artificial intelligence, Bin. 피벗 점수 0.20 → 토픽 지속형.",
+        "저자수 평균: 초기 4.8명 → 후기 6.3명 (팀 확장).",
+        "최다 인용 논문 \"Vision meets robotics: The KITTI dataset\" (2013, 9,545회) — 커리어 초기에 위치.",
+        "제자 후보 추정 2명 — 상위: Peidong Liu(2017~, 본인 마지막저자 2편), Zhaopeng Cui(2019~, 본인 마지막저자 0편)."
+      ],
+      "lessons": [
+        "초기 1년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster-2",
+      "headline": "Andreas Geiger: over 15 years, 15 papers, 10,983 total cites, h=12, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2011 with \"Visual SLAM for autonomous ground vehicles\". First 500+ cite paper came 1 years in: \"Automatic camera and range sensor calibration using a single shot\" (2012, 639 cites). 1000+ cite paper: \"Vision meets robotics: The KITTI dataset\" (2013, 9,545 cites).",
+        "Early topics: Computer vision, Artificial intelligence, Computer science. Recent topics: Computer science, Artificial intelligence, Bin. Pivot score 0.20 → topic-stable.",
+        "Authors per paper: early 4.8 → late 6.3 (team growth).",
+        "Peak paper \"Vision meets robotics: The KITTI dataset\" (2013, 9,545 cites) — fell in early career.",
+        "2 likely students — top: Peidong Liu(2017~, we last-author on 2), Zhaopeng Cui(2019~, we last-author on 0)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 1 years. First-5-year topic choice is decisive.",
+        "Late-career team scaling — solo researcher → lab leader."
+      ]
+    }
+  }
+}

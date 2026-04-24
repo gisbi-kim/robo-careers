@@ -1047,14 +1047,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak-3",
       "headline": "Shaojie Shen: 15년에 걸쳐 131편, 총 12,628회 인용, h=45, 500+ 블록버스터 3편.",
       "paragraphs": [
         "2011년 \"Autonomous multi-floor indoor navigation with a computationally constrained MAV\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"A Survey on Aerial Swarm Robotics\" (2018, 621회). 1000+ 인용 논문: \"VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator\" (2018, 4,302회).",
         "초기 토픽: Computer science, Inertial measurement unit, Tree traversal. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.15 → 토픽 지속형.",
         "저자수 평균: 초기 3.6명 → 후기 4.4명 (팀 확장).",
         "최다 인용 논문 \"VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator\" (2018, 4,302회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Vijay Kumar, Nathan Michael. 제자 후보 추정 43명 — 상위: Boyu Zhou(2018~, 우리 마지막저자 17편), Fei Gao(2017~, 우리 마지막저자 12편), Kaixuan Wang(2018~, 우리 마지막저자 11편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Vijay Kumar, Nathan Michael. 제자 후보 추정 43명 — 상위: Boyu Zhou(2018~, 본인 마지막저자 17편), Fei Gao(2017~, 본인 마지막저자 12편), Kaixuan Wang(2018~, 본인 마지막저자 11편)."
       ],
       "lessons": [
         "43명 제자 후보 — 제자 배출이 임팩트의 실체.",
@@ -1062,7 +1062,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak-3",
       "headline": "Shaojie Shen: over 15 years, 131 papers, 12,628 total cites, h=45, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2011 with \"Autonomous multi-floor indoor navigation with a computationally constrained MAV\". First 500+ cite paper came 7 years in: \"A Survey on Aerial Swarm Robotics\" (2018, 621 cites). 1000+ cite paper: \"VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator\" (2018, 4,302 cites).",

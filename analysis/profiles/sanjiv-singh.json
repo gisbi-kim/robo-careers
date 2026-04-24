@@ -1093,14 +1093,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Sanjiv Singh: 34년에 걸쳐 69편, 총 7,492회 인용, h=36, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1986년 \"Robot path planning using intersecting convex shapes\"으로 출발. 첫 500+ 인용 논문까지 28년 걸림: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회). 1000+ 인용 논문: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회).",
         "초기 토픽: Computer science, Graph traversal, Tree traversal. 최근 토픽: Computer science, Inertial measurement unit, Robustness (evolution). 피벗 점수 0.44 → 점진적 이동형.",
         "저자수 평균: 초기 1.8명 → 후기 3.6명 (팀 확장).",
         "최다 인용 논문 \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회) — 커리어 후기에 위치.",
-        "제자 후보 추정 13명 — 상위: Geoffrey A. Hollinger(2005~, 우리 마지막저자 5편), Sebastian A. Scherer(2006~, 우리 마지막저자 5편), Stephen Nuske(2006~, 우리 마지막저자 3편)."
+        "제자 후보 추정 13명 — 상위: Geoffrey A. Hollinger(2005~, 본인 마지막저자 5편), Sebastian A. Scherer(2006~, 본인 마지막저자 5편), Stephen Nuske(2006~, 본인 마지막저자 3편)."
       ],
       "lessons": [
         "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
@@ -1109,7 +1109,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-2",
+      "archetype": "late-bloomer",
       "headline": "Sanjiv Singh: over 34 years, 69 papers, 7,492 total cites, h=36, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1986 with \"Robot path planning using intersecting convex shapes\". First 500+ cite paper came 28 years in: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites). 1000+ cite paper: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites).",

@@ -1707,14 +1707,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-2",
       "headline": "Masayoshi Tomizuka: 41년에 걸쳐 198편, 총 7,533회 인용, h=49, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1985년 \"Control of tool/Workpiece contact force with application to robotic deburring\"으로 출발.",
         "초기 토픽: Control theory (sociology), Controller (irrigation), Computer science. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.28 → 점진적 이동형.",
         "저자수 평균: 초기 2.7명 → 후기 7.3명 (팀 확장).",
         "최다 인용 논문 \"Control of Rotary Series Elastic Actuator for Ideal Force-Mode Actuation in Human–Robot Interaction Applications\" (2009, 428회) — 커리어 중기에 위치.",
-        "제자 후보 추정 61명 — 상위: Liting Sun(2018~, 우리 마지막저자 10편), Kyoungchul Kong(2005~, 우리 마지막저자 9편), Yongxiang Fan(2016~, 우리 마지막저자 9편)."
+        "제자 후보 추정 61명 — 상위: Liting Sun(2018~, 본인 마지막저자 10편), Kyoungchul Kong(2005~, 본인 마지막저자 9편), Yongxiang Fan(2016~, 본인 마지막저자 9편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1722,7 +1722,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-2",
       "headline": "Masayoshi Tomizuka: over 41 years, 198 papers, 7,533 total cites, h=49, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1985 with \"Control of tool/Workpiece contact force with application to robotic deburring\".",

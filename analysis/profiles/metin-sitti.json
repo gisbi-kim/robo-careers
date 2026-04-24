@@ -1268,14 +1268,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-3",
       "headline": "Metin Sitti: 28년에 걸쳐 151편, 총 11,025회 인용, h=58, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1998년 \"Tele-nanorobotics using atomic force microscope\"으로 출발. 첫 500+ 인용 논문까지 19년 걸림: \"Biohybrid actuators for robotics: A review of devices actuated by living cells\" (2017, 511회).",
         "초기 토픽: Teleoperation, Haptic technology, Cantilever. 최근 토픽: Robot, Computer science, Magnetic resonance imaging. 피벗 점수 0.34 → 점진적 이동형.",
         "저자수 평균: 초기 3.2명 → 후기 5.3명 (팀 확장).",
         "최다 인용 논문 \"Biohybrid actuators for robotics: A review of devices actuated by living cells\" (2017, 511회) — 커리어 후기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Hideki Hashimoto, Ronald S. Fearing. 제자 후보 추정 37명 — 상위: Steven Floyd(2006~, 우리 마지막저자 15편), Eric D. Diller(2008~, 우리 마지막저자 13편), Chytra Pawashe(2006~, 우리 마지막저자 11편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Hideki Hashimoto, Ronald S. Fearing. 제자 후보 추정 37명 — 상위: Steven Floyd(2006~, 본인 마지막저자 15편), Eric D. Diller(2008~, 본인 마지막저자 13편), Chytra Pawashe(2006~, 본인 마지막저자 11편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1284,7 +1284,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-3",
       "headline": "Metin Sitti: over 28 years, 151 papers, 11,025 total cites, h=58, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1998 with \"Tele-nanorobotics using atomic force microscope\". First 500+ cite paper came 19 years in: \"Biohybrid actuators for robotics: A review of devices actuated by living cells\" (2017, 511 cites).",

@@ -1632,14 +1632,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Wolfram Burgard: 30년에 걸쳐 343편, 총 37,384회 인용, h=84, 500+ 블록버스터 15편.",
       "paragraphs": [
         "1996년 \"Controlling synchro-drive robots with the dynamic window approach to collision avoidance\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회). 1000+ 인용 논문: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회).",
         "초기 토픽: Computer science, Robot, Mobile robot. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.06 → 토픽 지속형.",
         "저자수 평균: 초기 4.0명 → 후기 6.2명 (팀 확장).",
         "최다 인용 논문 \"A benchmark for the evaluation of RGB-D SLAM systems\" (2012, 3,886회) — 커리어 중기에 위치.",
-        "제자 후보 추정 77명 — 상위: Christian Plagemann(2006~, 우리 마지막저자 17편), Cyrill Stachniss(2002~, 우리 마지막저자 13편), Slawomir Grzonka(2007~, 우리 마지막저자 10편)."
+        "제자 후보 추정 77명 — 상위: Christian Plagemann(2006~, 본인 마지막저자 17편), Cyrill Stachniss(2002~, 본인 마지막저자 13편), Slawomir Grzonka(2007~, 본인 마지막저자 10편)."
       ],
       "lessons": [
         "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
@@ -1650,7 +1650,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Wolfram Burgard: over 30 years, 343 papers, 37,384 total cites, h=84, 15 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1996 with \"Controlling synchro-drive robots with the dynamic window approach to collision avoidance\". First 500+ cite paper came 3 years in: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695 cites). 1000+ cite paper: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607 cites).",

@@ -1,0 +1,1027 @@
+{
+  "name": "Marc Pollefeys",
+  "slug": "marc-pollefeys",
+  "career_stats": {
+    "first_year": 1998,
+    "last_year": 2025,
+    "span": 28,
+    "total_papers": 70,
+    "total_cites": 4911,
+    "h_index": 36,
+    "i10_index": 57,
+    "seminal_count": 1,
+    "max_cites_single_paper": 689
+  },
+  "role_distribution": {
+    "first": 1,
+    "middle": 32,
+    "last": 37
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 1998,
+      "title": "Flexible 3D Acquisition with a Monocular Camera"
+    },
+    "first_100cite": {
+      "year": 2011,
+      "title": "Autonomous obstacle avoidance and maneuvering on a vision-guided MAV using on-board processing",
+      "cites": 102,
+      "gap_from_first": 13
+    },
+    "first_500cite": {
+      "year": 2015,
+      "title": "PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms",
+      "cites": 689,
+      "gap_from_first": 17
+    },
+    "peak_paper": {
+      "year": 2015,
+      "title": "PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms",
+      "cites": 689
+    }
+  },
+  "year_series": {
+    "1998": {
+      "n": 1,
+      "cites": 12,
+      "max_cites": 12
+    },
+    "1999": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2000": {
+      "n": 1,
+      "cites": 3,
+      "max_cites": 3
+    },
+    "2001": {
+      "n": 1,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2002": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2003": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2004": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2005": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2006": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2007": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2010": {
+      "n": 2,
+      "cites": 80,
+      "max_cites": 51
+    },
+    "2011": {
+      "n": 6,
+      "cites": 585,
+      "max_cites": 367
+    },
+    "2012": {
+      "n": 5,
+      "cites": 515,
+      "max_cites": 305
+    },
+    "2013": {
+      "n": 6,
+      "cites": 759,
+      "max_cites": 272
+    },
+    "2014": {
+      "n": 4,
+      "cites": 173,
+      "max_cites": 94
+    },
+    "2015": {
+      "n": 12,
+      "cites": 1546,
+      "max_cites": 689
+    },
+    "2016": {
+      "n": 1,
+      "cites": 11,
+      "max_cites": 11
+    },
+    "2017": {
+      "n": 5,
+      "cites": 255,
+      "max_cites": 90
+    },
+    "2018": {
+      "n": 2,
+      "cites": 202,
+      "max_cites": 146
+    },
+    "2019": {
+      "n": 5,
+      "cites": 200,
+      "max_cites": 127
+    },
+    "2020": {
+      "n": 6,
+      "cites": 387,
+      "max_cites": 161
+    },
+    "2021": {
+      "n": 1,
+      "cites": 41,
+      "max_cites": 41
+    },
+    "2022": {
+      "n": 1,
+      "cites": 68,
+      "max_cites": 68
+    },
+    "2023": {
+      "n": 2,
+      "cites": 9,
+      "max_cites": 5
+    },
+    "2024": {
+      "n": 7,
+      "cites": 59,
+      "max_cites": 21
+    },
+    "2025": {
+      "n": 2,
+      "cites": 6,
+      "max_cites": 3
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer vision",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.2
+        },
+        {
+          "c": "Computer science",
+          "w": 0.133
+        },
+        {
+          "c": "Calibration",
+          "w": 0.133
+        },
+        {
+          "c": "Focus (optics)",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "n_papers": 13,
+      "top_concepts": [
+        {
+          "c": "Computer vision",
+          "w": 0.138
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.138
+        },
+        {
+          "c": "Computer science",
+          "w": 0.138
+        },
+        {
+          "c": "Visual odometry",
+          "w": 0.046
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.046
+        }
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "n_papers": 28,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.164
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.143
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.136
+        },
+        {
+          "c": "Odometry",
+          "w": 0.036
+        },
+        {
+          "c": "RANSAC",
+          "w": 0.029
+        }
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.16
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.12
+        },
+        {
+          "c": "Odometry",
+          "w": 0.053
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "n_papers": 11,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.208
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.17
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.113
+        },
+        {
+          "c": "Matching (statistics)",
+          "w": 0.038
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.038
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "mix": {
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mix": {
+        "IROS": 8,
+        "ICRA": 4,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mix": {
+        "IROS": 14,
+        "ICRA": 11,
+        "RSS": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mix": {
+        "ICRA": 10,
+        "IROS": 2,
+        "RA-L": 2,
+        "IJRR": 1
+      }
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mix": {
+        "ICRA": 6,
+        "IROS": 3,
+        "RA-L": 2
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 1998,
+      "end": 2002,
+      "mean_n_authors": 3.67,
+      "unique_coauthors": 4,
+      "top_coauthors": [
+        [
+          "Maarten Vergauwen",
+          3
+        ],
+        [
+          "Luc Van Gool",
+          3
+        ],
+        [
+          "Reinhard Koch",
+          1
+        ],
+        [
+          "Tinne Tuytelaars",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2008,
+      "end": 2012,
+      "mean_n_authors": 5.69,
+      "unique_coauthors": 34,
+      "top_coauthors": [
+        [
+          "Friedrich Fraundorfer",
+          8
+        ],
+        [
+          "Lorenz Meier",
+          5
+        ],
+        [
+          "Petri Tanskanen",
+          5
+        ],
+        [
+          "Gim Hee Lee",
+          5
+        ],
+        [
+          "Lionel Heng",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2013,
+      "end": 2017,
+      "mean_n_authors": 3.64,
+      "unique_coauthors": 38,
+      "top_coauthors": [
+        [
+          "Lionel Heng",
+          8
+        ],
+        [
+          "Gim Hee Lee",
+          8
+        ],
+        [
+          "Dominik Honegger",
+          8
+        ],
+        [
+          "Bo Li",
+          4
+        ],
+        [
+          "Lorenz Meier",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2018,
+      "end": 2022,
+      "mean_n_authors": 5.93,
+      "unique_coauthors": 46,
+      "top_coauthors": [
+        [
+          "Torsten Sattler",
+          9
+        ],
+        [
+          "Peidong Liu",
+          5
+        ],
+        [
+          "Andreas Geiger",
+          5
+        ],
+        [
+          "Zhaopeng Cui",
+          4
+        ],
+        [
+          "Marcel Geppert",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2023,
+      "end": 2025,
+      "mean_n_authors": 5,
+      "unique_coauthors": 36,
+      "top_coauthors": [
+        [
+          "Hermann Blum",
+          4
+        ],
+        [
+          "Iro Armeni",
+          3
+        ],
+        [
+          "Boyang Sun",
+          3
+        ],
+        [
+          "Daniel Barath",
+          2
+        ],
+        [
+          "Hao Dong",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.136,
+  "top_repeat_coauthors": [
+    {
+      "name": "Lionel Heng",
+      "count": 15,
+      "first_year": 2011,
+      "last_year": 2019
+    },
+    {
+      "name": "Gim Hee Lee",
+      "count": 14,
+      "first_year": 2011,
+      "last_year": 2019
+    },
+    {
+      "name": "Torsten Sattler",
+      "count": 13,
+      "first_year": 2015,
+      "last_year": 2020
+    },
+    {
+      "name": "Friedrich Fraundorfer",
+      "count": 11,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "Dominik Honegger",
+      "count": 10,
+      "first_year": 2012,
+      "last_year": 2017
+    },
+    {
+      "name": "Lorenz Meier",
+      "count": 9,
+      "first_year": 2011,
+      "last_year": 2017
+    },
+    {
+      "name": "Petri Tanskanen",
+      "count": 7,
+      "first_year": 2011,
+      "last_year": 2015
+    },
+    {
+      "name": "Roland Siegwart",
+      "count": 6,
+      "first_year": 2012,
+      "last_year": 2022
+    },
+    {
+      "name": "Peidong Liu",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Andreas Geiger",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Luc Van Gool",
+      "count": 4,
+      "first_year": 1998,
+      "last_year": 2019
+    },
+    {
+      "name": "Jongwoo Lim",
+      "count": 4,
+      "first_year": 2010,
+      "last_year": 2020
+    },
+    {
+      "name": "Bo Li",
+      "count": 4,
+      "first_year": 2013,
+      "last_year": 2015
+    },
+    {
+      "name": "Zhaopeng Cui",
+      "count": 4,
+      "first_year": 2019,
+      "last_year": 2020
+    },
+    {
+      "name": "Hermann Blum",
+      "count": 4,
+      "first_year": 2024,
+      "last_year": 2025
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Gim Hee Lee",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 13,
+      "total_copubs": 14,
+      "student_first_author_count": 6,
+      "we_last_author_count": 10,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Lionel Heng",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 15,
+      "student_first_author_count": 6,
+      "we_last_author_count": 9,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Dominik Honegger",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 4,
+      "we_last_author_count": 8,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Friedrich Fraundorfer",
+      "student_first_year": 2007,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 11,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Lorenz Meier",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 8,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 7,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Petri Tanskanen",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Jongwoo Lim",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Peidong Liu",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Helen Oleynikova",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Xingxing Zuo",
+      "student_first_year": 2017,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Marcel Geppert",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2019
+    },
+    {
+      "name": "Bernhard Zeisl",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Zhaopeng Cui",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Boyang Sun",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Simon Lynen",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Markus Achtelik",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2015
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      1998,
+      2007
+    ],
+    "early_mean_n_authors": 3.67,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.16
+  },
+  "citation_half_life_years": 11,
+  "bursts": {
+    "productivity": [
+      2015
+    ],
+    "impact": [
+      2015
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms",
+      "cites": 689,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "POSIX",
+        "Unix",
+        "Embedded system",
+        "Operating system"
+      ],
+      "doi": "10.1109/icra.2015.7140074",
+      "coauthors": [
+        "Lorenz Meier",
+        "Dominik Honegger"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "ICRA",
+      "title": "PIXHAWK: A system for autonomous flight using onboard computer vision",
+      "cites": 367,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Computer vision",
+        "Obstacle avoidance",
+        "Obstacle",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra.2011.5980229",
+      "coauthors": [
+        "Lorenz Meier",
+        "Petri Tanskanen",
+        "Friedrich Fraundorfer"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "IROS",
+      "title": "Vision-based autonomous mapping and exploration using a quadrotor MAV",
+      "cites": 305,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Computer vision",
+        "Artificial intelligence",
+        "Visual odometry",
+        "Simultaneous localization and mapping",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2012.6385934",
+      "coauthors": [
+        "Friedrich Fraundorfer",
+        "Lionel Heng",
+        "Dominik Honegger",
+        "Gim Hee Lee",
+        "Lorenz Meier",
+        "Petri Tanskanen"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "ICRA",
+      "title": "An open source and open hardware embedded metric optical flow CMOS camera for indoor and outdoor applications",
+      "cites": 272,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Microcontroller",
+        "Optical flow",
+        "Computer science",
+        "Gyroscope",
+        "Sensitivity (control systems)"
+      ],
+      "doi": "10.1109/icra.2013.6630805",
+      "coauthors": [
+        "Dominik Honegger",
+        "Lorenz Meier",
+        "Petri Tanskanen"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "RSS",
+      "title": "Get Out of My Lab: Large-scale, Real-Time Visual-Inertial Localization",
+      "cites": 250,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Scale (ratio)",
+        "Inertial frame of reference",
+        "Computer graphics (images)",
+        "Computer vision"
+      ],
+      "doi": "10.15607/rss.2015.xi.037",
+      "coauthors": [
+        "Simon Lynen",
+        "Torsten Sattler",
+        "Michael Bosse",
+        "Joel A. Hesch",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IROS",
+      "title": "CamOdoCal: Automatic intrinsic and extrinsic calibration of a rig with multiple generic cameras and odometry",
+      "cites": 182,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Odometry",
+        "Computer vision",
+        "Artificial intelligence",
+        "Computer science",
+        "Calibration"
+      ],
+      "doi": "10.1109/iros.2013.6696592",
+      "coauthors": [
+        "Lionel Heng",
+        "Bo Li"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "IROS",
+      "title": "LIC-Fusion 2.0: LiDAR-Inertial-Camera Odometry with Sliding-Window Plane-Feature Tracking",
+      "cites": 161,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Odometry",
+        "Lidar"
+      ],
+      "doi": "10.1109/iros45743.2020.9340704",
+      "coauthors": [
+        "Xingxing Zuo",
+        "Yulin Yang",
+        "Patrick Geneva",
+        "Jiajun Lv",
+        "Yong Liu",
+        "Guoquan Huang"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Robust Dense Mapping for Large-Scale Dynamic Environments",
+      "cites": 146,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision",
+        "Odometry",
+        "Scalability"
+      ],
+      "doi": "10.1109/icra.2018.8462974",
+      "coauthors": [
+        "Ioan Andrei Barsan",
+        "Peidong Liu",
+        "Andreas Geiger"
+      ]
+    },
+    {
+      "year": 2013,
+      "venue": "IROS",
+      "title": "A multiple-camera system calibration toolbox using a feature descriptor-based calibration pattern",
+      "cites": 131,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Computer vision",
+        "Toolbox",
+        "Catadioptric system"
+      ],
+      "doi": "10.1109/iros.2013.6696517",
+      "coauthors": [
+        "Bo Li",
+        "Lionel Heng",
+        "Kevin Köser"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "ICRA",
+      "title": "Project AutoVision: Localization and 3D Scene Perception for an Autonomous Vehicle with a Multi-Camera System",
+      "cites": 127,
+      "n_authors": 13,
+      "role": "middle",
+      "concepts": [
+        "Suite",
+        "Computer science",
+        "Computer vision",
+        "GNSS applications",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra.2019.8793949",
+      "coauthors": [
+        "Lionel Heng",
+        "Benjamin Choi",
+        "Zhaopeng Cui",
+        "Marcel Geppert",
+        "Sixing Hu",
+        "Benson Kuan",
+        "Peidong Liu",
+        "Rang M. H. Nguyen",
+        "Ye Chuan Yeo",
+        "Andreas Geiger",
+        "Gim Hee Lee",
+        "Torsten Sattler"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Marc Pollefeys: 28년에 걸쳐 70편, 총 4,911회 인용, h=36, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "1998년 \"Flexible 3D Acquisition with a Monocular Camera\"으로 출발. 첫 500+ 인용 논문까지 17년 걸림: \"PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms\" (2015, 689회).",
+        "초기 토픽: Computer vision, Artificial intelligence, Computer science. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.14 → 토픽 지속형.",
+        "저자수 평균: 초기 3.7명 → 후기 5.2명 (팀 확장).",
+        "최다 인용 논문 \"PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms\" (2015, 689회) — 커리어 중기에 위치.",
+        "제자 후보 추정 16명 — 상위: Gim Hee Lee(2011~, 본인 마지막저자 10편), Lionel Heng(2011~, 본인 마지막저자 9편), Dominik Honegger(2012~, 본인 마지막저자 8편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "16명 제자 후보 — 제자 배출이 임팩트의 실체."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Marc Pollefeys: over 28 years, 70 papers, 4,911 total cites, h=36, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 1998 with \"Flexible 3D Acquisition with a Monocular Camera\". First 500+ cite paper came 17 years in: \"PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms\" (2015, 689 cites).",
+        "Early topics: Computer vision, Artificial intelligence, Computer science. Recent topics: Computer science, Artificial intelligence, Computer vision. Pivot score 0.14 → topic-stable.",
+        "Authors per paper: early 3.7 → late 5.2 (team growth).",
+        "Peak paper \"PX4: A node-based multithreaded open source robotics framework for deeply embedded platforms\" (2015, 689 cites) — fell in mid career.",
+        "16 likely students — top: Gim Hee Lee(2011~, we last-author on 10), Lionel Heng(2011~, we last-author on 9), Dominik Honegger(2012~, we last-author on 8)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "16 likely students — mentoring is the real impact."
+      ]
+    }
+  }
+}

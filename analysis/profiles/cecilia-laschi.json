@@ -1253,21 +1253,21 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-2",
       "headline": "Cecilia Laschi: 32년에 걸쳐 89편, 총 5,778회 인용, h=33, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1994년 \"An Investigation on a Robot System for Disassembly Automation\"으로 출발. 첫 500+ 인용 논문까지 24년 걸림: \"Control Strategies for Soft Robotic Manipulators: A Survey\" (2018, 616회).",
         "초기 토픽: Computer science, Artificial intelligence, Perception. 최근 토픽: Robot, Computer science, Soft robotics. 피벗 점수 0.28 → 점진적 이동형.",
         "저자수 평균: 초기 6.0명 → 후기 5.8명 (팀 유지).",
         "최다 인용 논문 \"Soft robot perception using embedded soft sensors and recurrent neural networks\" (2019, 637회) — 커리어 후기에 위치.",
-        "제자 후보 추정 26명 — 상위: Peiyi Wang(2022~, 우리 마지막저자 9편), Federico Renda(2012~, 우리 마지막저자 7편), Zhiqiang Tang(2022~, 우리 마지막저자 7편)."
+        "제자 후보 추정 26명 — 상위: Peiyi Wang(2022~, 본인 마지막저자 9편), Federico Renda(2012~, 본인 마지막저자 7편), Zhiqiang Tang(2022~, 본인 마지막저자 7편)."
       ],
       "lessons": [
         "26명 제자 후보 — 제자 배출이 임팩트의 실체."
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-2",
       "headline": "Cecilia Laschi: over 32 years, 89 papers, 5,778 total cites, h=33, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1994 with \"An Investigation on a Robot System for Disassembly Automation\". First 500+ cite paper came 24 years in: \"Control Strategies for Soft Robotic Manipulators: A Survey\" (2018, 616 cites).",

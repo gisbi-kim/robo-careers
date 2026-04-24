@@ -1286,14 +1286,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "late-bloomer-2",
       "headline": "Aníbal Ollero: 34년에 걸쳐 112편, 총 4,932회 인용, h=38, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1992년 \"An iconic position estimator for a 2D laser rangefinder\"으로 출발. 첫 500+ 인용 논문까지 26년 걸림: \"Aerial Manipulation: A Literature Review\" (2018, 504회).",
         "초기 토픽: Computer science, Computer vision, Artificial intelligence. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.26 → 점진적 이동형.",
         "저자수 평균: 초기 2.8명 → 후기 5.1명 (팀 확장).",
         "최다 인용 논문 \"Aerial Manipulation: A Literature Review\" (2018, 504회) — 커리어 후기에 위치.",
-        "제자 후보 추정 33명 — 상위: Alejandro Suárez(2015~, 우리 마지막저자 10편), Raul Tapia(2021~, 우리 마지막저자 8편), Fernando Caballero(2004~, 우리 마지막저자 6편)."
+        "제자 후보 추정 33명 — 상위: Alejandro Suárez(2015~, 본인 마지막저자 10편), Raul Tapia(2021~, 본인 마지막저자 8편), Fernando Caballero(2004~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1301,7 +1301,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "late-bloomer-2",
       "headline": "Aníbal Ollero: over 34 years, 112 papers, 4,932 total cites, h=38, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1992 with \"An iconic position estimator for a 2D laser rangefinder\". First 500+ cite paper came 26 years in: \"Aerial Manipulation: A Literature Review\" (2018, 504 cites).",

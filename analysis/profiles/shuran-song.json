@@ -1,0 +1,651 @@
+{
+  "name": "Shuran Song",
+  "slug": "shuran-song",
+  "career_stats": {
+    "first_year": 2017,
+    "last_year": 2025,
+    "span": 9,
+    "total_papers": 49,
+    "total_cites": 4136,
+    "h_index": 26,
+    "i10_index": 35,
+    "seminal_count": 0,
+    "max_cites_single_paper": 486
+  },
+  "role_distribution": {
+    "middle": 25,
+    "last": 23,
+    "first": 1
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2017,
+      "title": "Multi-view self-supervised deep learning for 6D pose estimation in the Amazon Picking Challenge"
+    },
+    "first_100cite": {
+      "year": 2017,
+      "title": "Multi-view self-supervised deep learning for 6D pose estimation in the Amazon Picking Challenge",
+      "cites": 486,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2017,
+      "title": "Multi-view self-supervised deep learning for 6D pose estimation in the Amazon Picking Challenge",
+      "cites": 486
+    }
+  },
+  "year_series": {
+    "2017": {
+      "n": 1,
+      "cites": 486,
+      "max_cites": 486
+    },
+    "2018": {
+      "n": 2,
+      "cites": 511,
+      "max_cites": 458
+    },
+    "2019": {
+      "n": 2,
+      "cites": 195,
+      "max_cites": 111
+    },
+    "2020": {
+      "n": 6,
+      "cites": 955,
+      "max_cites": 281
+    },
+    "2021": {
+      "n": 5,
+      "cites": 103,
+      "max_cites": 59
+    },
+    "2022": {
+      "n": 9,
+      "cites": 380,
+      "max_cites": 195
+    },
+    "2023": {
+      "n": 8,
+      "cites": 549,
+      "max_cites": 387
+    },
+    "2024": {
+      "n": 8,
+      "cites": 493,
+      "max_cites": 129
+    },
+    "2025": {
+      "n": 8,
+      "cites": 464,
+      "max_cites": 292
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 16,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.175
+        },
+        {
+          "c": "Reinforcement learning",
+          "w": 0.037
+        },
+        {
+          "c": "Object (grammar)",
+          "w": 0.037
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.037
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 33,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.214
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.136
+        },
+        {
+          "c": "Robot",
+          "w": 0.065
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.045
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.039
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "ICRA": 9,
+        "RSS": 3,
+        "IROS": 2,
+        "RA-L": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "ICRA": 12,
+        "RSS": 8,
+        "IJRR": 5,
+        "IROS": 5,
+        "RA-L": 3
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 6.12,
+      "unique_coauthors": 49,
+      "top_coauthors": [
+        [
+          "Andy Zeng",
+          12
+        ],
+        [
+          "Johnny Lee",
+          7
+        ],
+        [
+          "Thomas A. Funkhouser",
+          7
+        ],
+        [
+          "Alberto Rodriguez",
+          5
+        ],
+        [
+          "Kuan-Ting Yu",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 17.48,
+      "unique_coauthors": 382,
+      "top_coauthors": [
+        [
+          "Cheng Chi",
+          11
+        ],
+        [
+          "Benjamin Burchfiel",
+          9
+        ],
+        [
+          "Eric Cousineau",
+          9
+        ],
+        [
+          "Siyuan Feng",
+          9
+        ],
+        [
+          "Zhenjia Xu",
+          6
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.073,
+  "top_repeat_coauthors": [
+    {
+      "name": "Andy Zeng",
+      "count": 15,
+      "first_year": 2017,
+      "last_year": 2023
+    },
+    {
+      "name": "Cheng Chi",
+      "count": 11,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Thomas A. Funkhouser",
+      "count": 10,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Benjamin Burchfiel",
+      "count": 9,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Eric Cousineau",
+      "count": 9,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Siyuan Feng",
+      "count": 9,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Zhenjia Xu",
+      "count": 8,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Johnny Lee",
+      "count": 7,
+      "first_year": 2018,
+      "last_year": 2020
+    },
+    {
+      "name": "Alberto Rodriguez",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2022
+    },
+    {
+      "name": "Jimmy Wu",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Huy Ha",
+      "count": 5,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Nikhil Chavan Dafle",
+      "count": 4,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Jiajun Wu",
+      "count": 4,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Szymon Rusinkiewicz",
+      "count": 4,
+      "first_year": 2020,
+      "last_year": 2023
+    },
+    {
+      "name": "Kuan-Ting Yu",
+      "count": 3,
+      "first_year": 2017,
+      "last_year": 2022
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Zhao Mandi",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2017,
+      2025
+    ],
+    "early_mean_n_authors": 13.78,
+    "late_window": [
+      2017,
+      2025
+    ],
+    "late_mean_n_authors": 13.78
+  },
+  "citation_half_life_years": 6.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2020
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Multi-view self-supervised deep learning for 6D pose estimation in the Amazon Picking Challenge",
+      "cites": 486,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Segmentation",
+        "Convolutional neural network",
+        "Pose"
+      ],
+      "doi": "10.1109/icra.2017.7989165",
+      "coauthors": [
+        "Andy Zeng",
+        "Kuan-Ting Yu",
+        "Daniel Suo",
+        "Ed Walker Jr.",
+        "Alberto Rodriguez",
+        "Jianxiong Xiao"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Robotic Pick-and-Place of Novel Objects in Clutter with Multi-Affordance Grasping and Cross-Domain Image Matching",
+      "cites": 458,
+      "n_authors": 21,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Affordance",
+        "Artificial intelligence",
+        "Clutter",
+        "Domain (mathematical analysis)"
+      ],
+      "doi": "10.1109/icra.2018.8461044",
+      "coauthors": [
+        "Andy Zeng",
+        "Kuan-Ting Yu",
+        "Elliott Donlon",
+        "Francois Robert Hogan",
+        "Maria Bauzá",
+        "Daolin Ma",
+        "Orion Taylor",
+        "Melody Liu",
+        "Eudald Romo",
+        "Nima Fazeli",
+        "Ferran Alet",
+        "Nikhil Chavan Dafle",
+        "Rachel M. Holladay",
+        "Isabella Morona",
+        "Prem Qu Nair",
+        "Druck Green",
+        "Ian H. Taylor",
+        "Weber Liu",
+        "Thomas A. Funkhouser",
+        "Alberto Rodriguez"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "RSS",
+      "title": "Diffusion Policy: Visuomotor Policy Learning via Action Diffusion",
+      "cites": 387,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Diffusion",
+        "Computer science",
+        "Action (physics)",
+        "Artificial intelligence",
+        "Physics"
+      ],
+      "doi": "10.15607/rss.2023.xix.026",
+      "coauthors": [
+        "Cheng Chi",
+        "Siyuan Feng",
+        "Yilun Du",
+        "Zhenjia Xu",
+        "Eric Cousineau",
+        "Benjamin Burchfiel"
+      ]
+    },
+    {
+      "year": 2025,
+      "venue": "IJRR",
+      "title": "Diffusion policy: Visuomotor policy learning via action diffusion",
+      "cites": 292,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "Diffusion",
+        "Action (physics)",
+        "Computer science",
+        "Artificial intelligence",
+        "Psychology"
+      ],
+      "doi": "10.1177/02783649241273668",
+      "coauthors": [
+        "Cheng Chi",
+        "Zhenjia Xu",
+        "Siyuan Feng",
+        "Eric Cousineau",
+        "Yilun Du",
+        "Benjamin Burchfiel",
+        "Russ Tedrake"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "T-RO",
+      "title": "TossingBot: Learning to Throw Arbitrary Objects With Residual Physics",
+      "cites": 281,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Throwing",
+        "Artificial intelligence",
+        "GRASP",
+        "Computer vision",
+        "Computer science"
+      ],
+      "doi": "10.1109/tro.2020.2988642",
+      "coauthors": [
+        "Andy Zeng",
+        "Johnny Lee",
+        "Alberto Rodriguez",
+        "Thomas A. Funkhouser"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "ICRA",
+      "title": "Clear Grasp: 3D Shape Estimation of Transparent Objects for Manipulation",
+      "cites": 250,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Monocular",
+        "Computer vision",
+        "RGB color model"
+      ],
+      "doi": "10.1109/icra40945.2020.9197518",
+      "coauthors": [
+        "Shreeyak S. Sajjan",
+        "Matthew Moore",
+        "Mike Pan",
+        "Ganesh Nagaraja",
+        "Johnny Lee",
+        "Andy Zeng"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "IJRR",
+      "title": "Robotic pick-and-place of novel objects in clutter with multi-affordance grasping and cross-domain image matching",
+      "cites": 195,
+      "n_authors": 21,
+      "role": "middle",
+      "concepts": [
+        "Affordance",
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision",
+        "Object (grammar)"
+      ],
+      "doi": "10.1177/0278364919868017",
+      "coauthors": [
+        "Andy Zeng",
+        "Kuan-Ting Yu",
+        "Elliott Donlon",
+        "Francois Robert Hogan",
+        "Maria Bauzá",
+        "Daolin Ma",
+        "Orion Taylor",
+        "Melody Liu",
+        "Eudald Romo",
+        "Nima Fazeli",
+        "Ferran Alet",
+        "Nikhil Chavan Dafle",
+        "Rachel M. Holladay",
+        "Isabella Morona",
+        "Prem Qu Nair",
+        "Druck Green",
+        "Ian H. Taylor",
+        "Weber Liu",
+        "Thomas A. Funkhouser",
+        "Alberto Rodriguez"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RA-L",
+      "title": "Grasping in the Wild: Learning 6DoF Closed-Loop Grasping From Low-Cost Demonstrations",
+      "cites": 177,
+      "n_authors": 4,
+      "role": "first",
+      "concepts": [
+        "Computer science",
+        "Rendering (computer graphics)",
+        "Reinforcement learning",
+        "Artificial intelligence",
+        "Key (lock)"
+      ],
+      "doi": "10.1109/lra.2020.3004787",
+      "coauthors": [
+        "Andy Zeng",
+        "Johnny Lee",
+        "Thomas A. Funkhouser"
+      ]
+    },
+    {
+      "year": 2025,
+      "venue": "IJRR",
+      "title": "Foundation models in robotics: Applications, challenges, and the future",
+      "cites": 149,
+      "n_authors": 15,
+      "role": "middle",
+      "concepts": [
+        "Robotics",
+        "Foundation (evidence)",
+        "Artificial intelligence",
+        "Computer science",
+        "Engineering"
+      ],
+      "doi": "10.1177/02783649241281508",
+      "coauthors": [
+        "Roya Firoozi",
+        "John Tucker",
+        "Stephen Tian",
+        "Anirudha Majumdar",
+        "Jiankai Sun",
+        "Weiyu Liu",
+        "Yuke Zhu",
+        "Ashish Kapoor",
+        "Karol Hausman",
+        "Brian Ichter",
+        "Danny Driess",
+        "Jiajun Wu",
+        "Cewu Lu",
+        "Mac Schwager"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "RSS",
+      "title": "Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots",
+      "cites": 129,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "Robot",
+        "Interface (matter)",
+        "Computer science",
+        "Human–computer interaction",
+        "Artificial intelligence"
+      ],
+      "doi": "10.15607/rss.2024.xx.045",
+      "coauthors": [
+        "Cheng Chi",
+        "Zhenjia Xu",
+        "Chuer Pan",
+        "Eric Cousineau",
+        "Benjamin Burchfiel",
+        "Siyuan Feng",
+        "Russ Tedrake"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "steady-producer",
+      "headline": "Shuran Song: 9년에 걸쳐 49편, 총 4,136회 인용, h=26, 500+ 블록버스터 0편.",
+      "paragraphs": [
+        "2017년 \"Multi-view self-supervised deep learning for 6D pose estimation in the Amazon Picking Challenge\"으로 출발.",
+        "초기 토픽: Computer science, Artificial intelligence, Reinforcement learning. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.07 → 토픽 지속형.",
+        "저자수 평균: 초기 13.8명 → 후기 13.8명 (팀 유지).",
+        "최다 인용 논문 \"Multi-view self-supervised deep learning for 6D pose estimation in the Amazon Picking Challenge\" (2017, 486회) — 커리어 초기에 위치.",
+        "제자 후보 추정 1명 — 상위: Zhao Mandi(2024~, 본인 마지막저자 1편)."
+      ],
+      "lessons": [
+        "데이터 부족 — 개별 패턴 뚜렷하지 않음."
+      ]
+    },
+    "en": {
+      "archetype": "steady-producer",
+      "headline": "Shuran Song: over 9 years, 49 papers, 4,136 total cites, h=26, 0 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2017 with \"Multi-view self-supervised deep learning for 6D pose estimation in the Amazon Picking Challenge\".",
+        "Early topics: Computer science, Artificial intelligence, Reinforcement learning. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.07 → topic-stable.",
+        "Authors per paper: early 13.8 → late 13.8 (stable team).",
+        "Peak paper \"Multi-view self-supervised deep learning for 6D pose estimation in the Amazon Picking Challenge\" (2017, 486 cites) — fell in early career.",
+        "1 likely students — top: Zhao Mandi(2024~, we last-author on 1)."
+      ],
+      "lessons": [
+        "Insufficient data — no distinctive pattern."
+      ]
+    }
+  }
+}

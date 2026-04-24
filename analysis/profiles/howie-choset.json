@@ -1524,14 +1524,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Howie Choset: 33년에 걸쳐 264편, 총 11,320회 인용, h=51, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1993년 \"Simulated and experimental results of dual resolution sensor based planning for hyper-redundant manipulators\"으로 출발. 첫 500+ 인용 논문까지 22년 걸림: \"Continuum Robots for Medical Applications: A Survey\" (2015, 1,472회). 1000+ 인용 논문: \"Continuum Robots for Medical Applications: A Survey\" (2015, 1,472회).",
         "초기 토픽: Computer science, Voronoi diagram, Robot. 최근 토픽: Computer science, Artificial intelligence, Mathematical optimization. 피벗 점수 0.14 → 토픽 지속형.",
         "저자수 평균: 초기 3.1명 → 후기 6.2명 (팀 확장).",
         "최다 인용 논문 \"Continuum Robots for Medical Applications: A Survey\" (2015, 1,472회) — 커리어 후기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Joel W. Burdick. 제자 후보 추정 54명 — 상위: Matthew J. Travers(2013~, 우리 마지막저자 18편), Chaohui Gong(2012~, 우리 마지막저자 15편), Guillaume Sartoretti(2016~, 우리 마지막저자 11편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Joel W. Burdick. 제자 후보 추정 54명 — 상위: Matthew J. Travers(2013~, 본인 마지막저자 18편), Chaohui Gong(2012~, 본인 마지막저자 15편), Guillaume Sartoretti(2016~, 본인 마지막저자 11편)."
       ],
       "lessons": [
         "한 우물 깊게 파는 전략으로 임팩트 달성.",
@@ -1541,7 +1541,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Howie Choset: over 33 years, 264 papers, 11,320 total cites, h=51, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1993 with \"Simulated and experimental results of dual resolution sensor based planning for hyper-redundant manipulators\". First 500+ cite paper came 22 years in: \"Continuum Robots for Medical Applications: A Survey\" (2015, 1,472 cites). 1000+ cite paper: \"Continuum Robots for Medical Applications: A Survey\" (2015, 1,472 cites).",

@@ -109,7 +109,7 @@ def _personal(p: dict, archetype: str, lang: str) -> dict:
     if students:
         if lang == "ko":
             tops = ", ".join(
-                f"{s['name']}({s['student_first_year']}~, 우리 마지막저자 {s['we_last_author_count']}편)"
+                f"{s['name']}({s['student_first_year']}~, 본인 마지막저자 {s['we_last_author_count']}편)"
                 for s in students[:3]
             )
             lineage_bits.append(f"제자 후보 추정 {len(students)}명 — 상위: {tops}.")

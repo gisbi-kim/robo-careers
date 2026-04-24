@@ -1750,14 +1750,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Masayuki Inaba: 36년에 걸쳐 305편, 총 7,925회 인용, h=44, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1990년 \"Design and implementation of a system that generates assembly programs from visual recognition of human action sequences\"으로 출발.",
         "초기 토픽: Computer science, Computer vision, Artificial intelligence. 최근 토픽: Maximization, Computer science, Motion planning. 피벗 점수 0.16 → 토픽 지속형.",
         "저자수 평균: 초기 4.6명 → 후기 6.0명 (팀 확장).",
         "최다 인용 논문 \"Online generation of humanoid walking motion based on a fast generation method of motion pattern that follows desired ZMP\" (2002, 260회) — 커리어 중기에 위치.",
-        "제자 후보 추정 76명 — 상위: Kento Kawaharazuka(2017~, 우리 마지막저자 35편), Yohei Kakiuchi(2014~, 우리 마지막저자 30편), Tomoki Anzai(2017~, 우리 마지막저자 15편)."
+        "제자 후보 추정 76명 — 상위: Kento Kawaharazuka(2017~, 본인 마지막저자 35편), Yohei Kakiuchi(2014~, 본인 마지막저자 30편), Tomoki Anzai(2017~, 본인 마지막저자 15편)."
       ],
       "lessons": [
         "한 우물 깊게 파는 전략으로 임팩트 달성.",
@@ -1766,7 +1766,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Masayuki Inaba: over 36 years, 305 papers, 7,925 total cites, h=44, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1990 with \"Design and implementation of a system that generates assembly programs from visual recognition of human action sequences\".",

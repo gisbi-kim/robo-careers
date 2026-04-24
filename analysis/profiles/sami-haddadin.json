@@ -1291,14 +1291,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Sami Haddadin: 20년에 걸쳐 218편, 총 8,518회 인용, h=44, 500+ 블록버스터 3편.",
       "paragraphs": [
         "2006년 \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761회).",
         "초기 토픽: Computer science, Robot, Collision. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.14 → 토픽 지속형.",
         "저자수 평균: 초기 5.7명 → 후기 5.5명 (팀 유지).",
         "최다 인용 논문 \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761회) — 커리어 초기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Gerd Hirzinger, Alin Albu-Schäffer, Jürgen Rossmann. 제자 후보 추정 56명 — 상위: Abdeldjallil Naceri(2020~, 우리 마지막저자 23편), Robin Jeanne Kirschner(2021~, 우리 마지막저자 15편), Riddhiman Laha(2021~, 우리 마지막저자 11편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Gerd Hirzinger, Alin Albu-Schäffer, Jürgen Rossmann. 제자 후보 추정 56명 — 상위: Abdeldjallil Naceri(2020~, 본인 마지막저자 23편), Robin Jeanne Kirschner(2021~, 본인 마지막저자 15편), Riddhiman Laha(2021~, 본인 마지막저자 11편)."
       ],
       "lessons": [
         "초기 0년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1308,7 +1308,7 @@
       ]
     },
     "en": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Sami Haddadin: over 20 years, 218 papers, 8,518 total cites, h=44, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2006 with \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\". First 500+ cite paper came 0 years in: \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761 cites).",

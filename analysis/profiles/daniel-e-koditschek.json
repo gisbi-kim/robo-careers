@@ -1270,14 +1270,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Daniel E. Koditschek: 37년에 걸쳐 105편, 총 6,530회 인용, h=40, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1987년 \"Exact robot navigation by means of potential functions: Some topological considerations\"으로 출발. 첫 500+ 인용 논문까지 14년 걸림: \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307회). 1000+ 인용 논문: \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307회).",
         "초기 토픽: Robot, Computer science, Bounded function. 최근 토픽: Computer science, Planner, Reachability. 피벗 점수 0.24 → 토픽 지속형.",
         "저자수 평균: 초기 2.3명 → 후기 3.4명 (팀 확장).",
         "최다 인용 논문 \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307회) — 커리어 중기에 위치.",
-        "제자 후보 추정 21명 — 상위: Avik De(2013~, 우리 마지막저자 9편), Uluc Saranli(1998~, 우리 마지막저자 6편), Pei-Chun Lin(2003~, 우리 마지막저자 6편)."
+        "제자 후보 추정 21명 — 상위: Avik De(2013~, 본인 마지막저자 9편), Uluc Saranli(1998~, 본인 마지막저자 6편), Pei-Chun Lin(2003~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1285,7 +1285,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Daniel E. Koditschek: over 37 years, 105 papers, 6,530 total cites, h=40, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1987 with \"Exact robot navigation by means of potential functions: Some topological considerations\". First 500+ cite paper came 14 years in: \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307 cites). 1000+ cite paper: \"RHex: A Simple and Highly Mobile Hexapod Robot\" (2001, 1,307 cites).",

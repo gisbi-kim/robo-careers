@@ -1068,14 +1068,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Auke Jan Ijspeert: 25년에 걸쳐 109편, 총 5,960회 인용, h=36, 500+ 블록버스터 1편.",
       "paragraphs": [
         "2001년 \"Trajectory formation for imitation with nonlinear dynamical systems\"으로 출발. 첫 500+ 인용 논문까지 1년 걸림: \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842회).",
         "초기 토픽: Computer science, Trajectory, Attractor. 최근 토픽: Computer science, Artificial intelligence, Central pattern generator. 피벗 점수 0.21 → 토픽 지속형.",
         "저자수 평균: 초기 3.5명 → 후기 5.2명 (팀 확장).",
         "최다 인용 논문 \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842회) — 커리어 초기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Stefan Schaal. 제자 후보 추정 26명 — 상위: Salman Faraji(2013~, 우리 마지막저자 8편), Simon Hauser(2017~, 우리 마지막저자 7편), Massimo Vespignani(2013~, 우리 마지막저자 7편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Stefan Schaal. 제자 후보 추정 26명 — 상위: Salman Faraji(2013~, 본인 마지막저자 8편), Simon Hauser(2017~, 본인 마지막저자 7편), Massimo Vespignani(2013~, 본인 마지막저자 7편)."
       ],
       "lessons": [
         "초기 1년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1085,7 +1085,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Auke Jan Ijspeert: over 25 years, 109 papers, 5,960 total cites, h=36, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2001 with \"Trajectory formation for imitation with nonlinear dynamical systems\". First 500+ cite paper came 1 years in: \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842 cites).",

@@ -1424,14 +1424,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-2",
       "headline": "Ronald S. Fearing: 42년에 걸쳐 115편, 총 6,634회 인용, h=44, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1984년 \"Basic solid mechanics for tactile sensing\"으로 출발.",
         "초기 토픽: Tactile sensor, Orientation (vector space), Computer science. 최근 토픽: Arboreal locomotion, Torque, Balance (ability). 피벗 점수 0.48 → 점진적 이동형.",
         "저자수 평균: 초기 1.9명 → 후기 4.3명 (팀 확장).",
         "최다 인용 논문 \"Insect-scale fast moving and ultrarobust soft robot\" (2019, 491회) — 커리어 후기에 위치.",
-        "제자 후보 추정 30명 — 상위: Duncan W. Haldane(2012~, 우리 마지막저자 10편), Robert J. Wood(2001~, 우리 마지막저자 10편), Erik Steltz(2003~, 우리 마지막저자 9편)."
+        "제자 후보 추정 30명 — 상위: Duncan W. Haldane(2012~, 본인 마지막저자 10편), Robert J. Wood(2001~, 본인 마지막저자 10편), Erik Steltz(2003~, 본인 마지막저자 9편)."
       ],
       "lessons": [
         "토픽 적극 피벗 — 정체기를 재창조로 극복한 케이스.",
@@ -1440,7 +1440,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-2",
       "headline": "Ronald S. Fearing: over 42 years, 115 papers, 6,634 total cites, h=44, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1984 with \"Basic solid mechanics for tactile sensing\".",

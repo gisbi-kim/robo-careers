@@ -1084,14 +1084,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Henrik I. Christensen: 30년에 걸쳐 118편, 총 5,714회 인용, h=40, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1996년 \"A system for active vision driven robotics\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"Automatic grasp planning using shape primitives\" (2003, 714회).",
         "초기 토픽: Computer science, Artificial intelligence, Computer vision. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.18 → 토픽 지속형.",
         "저자수 평균: 초기 2.9명 → 후기 14.7명 (팀 확장).",
         "최다 인용 논문 \"Automatic grasp planning using shape primitives\" (2003, 714회) — 커리어 초기에 위치.",
-        "제자 후보 추정 18명 — 상위: Changhyun Choi(2008~, 우리 마지막저자 8편), John Folkesson(2003~, 우리 마지막저자 7편), Elin Anna Topp(2004~, 우리 마지막저자 5편)."
+        "제자 후보 추정 18명 — 상위: Changhyun Choi(2008~, 본인 마지막저자 8편), John Folkesson(2003~, 본인 마지막저자 7편), Elin Anna Topp(2004~, 본인 마지막저자 5편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1099,7 +1099,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Henrik I. Christensen: over 30 years, 118 papers, 5,714 total cites, h=40, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1996 with \"A system for active vision driven robotics\". First 500+ cite paper came 7 years in: \"Automatic grasp planning using shape primitives\" (2003, 714 cites).",

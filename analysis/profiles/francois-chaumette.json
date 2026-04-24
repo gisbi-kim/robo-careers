@@ -1311,14 +1311,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "François Chaumette: 35년에 걸쳐 170편, 총 5,848회 인용, h=40, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1991년 \"Positioning of a robot with respect to an object, tracking it and estimating its velocity by visual servoing\"으로 출발.",
         "초기 토픽: Visual servoing, Computer vision, Artificial intelligence. 최근 토픽: Computer science, Visual servoing, Computer vision. 피벗 점수 0.08 → 토픽 지속형.",
         "저자수 평균: 초기 2.6명 → 후기 3.4명 (팀 확장).",
         "최다 인용 논문 \"Image moments: a general and useful set of features for visual servoing\" (2004, 462회) — 커리어 중기에 위치.",
-        "제자 후보 추정 36명 — 상위: Riccardo Spica(2012~, 우리 마지막저자 8편), Youcef Mezouar(2000~, 우리 마지막저자 6편), Nicolas Mansard(2004~, 우리 마지막저자 6편)."
+        "제자 후보 추정 36명 — 상위: Riccardo Spica(2012~, 본인 마지막저자 8편), Youcef Mezouar(2000~, 본인 마지막저자 6편), Nicolas Mansard(2004~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "한 우물 깊게 파는 전략으로 임팩트 달성.",
@@ -1326,7 +1326,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "François Chaumette: over 35 years, 170 papers, 5,848 total cites, h=40, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1991 with \"Positioning of a robot with respect to an object, tracking it and estimating its velocity by visual servoing\".",

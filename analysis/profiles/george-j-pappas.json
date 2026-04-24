@@ -1125,21 +1125,21 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "George J. Pappas: 29년에 걸쳐 81편, 총 6,613회 인용, h=35, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1997년 \"Generation of conflict resolution manoeuvres for air traffic management\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"Leader-to-formation stability\" (2004, 779회).",
         "초기 토픽: Air traffic control, Computer science, Trajectory. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.32 → 점진적 이동형.",
         "저자수 평균: 초기 4.6명 → 후기 4.3명 (팀 유지).",
         "최다 인용 논문 \"Leader-to-formation stability\" (2004, 779회) — 커리어 초기에 위치.",
-        "제자 후보 추정 25명 — 상위: Nikolay Atanasov(2012~, 우리 마지막저자 7편), Brent Schlotfeldt(2018~, 우리 마지막저자 6편), Hadas Kress-Gazit(2005~, 우리 마지막저자 6편)."
+        "제자 후보 추정 25명 — 상위: Nikolay Atanasov(2012~, 본인 마지막저자 7편), Brent Schlotfeldt(2018~, 본인 마지막저자 6편), Hadas Kress-Gazit(2005~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "25명 제자 후보 — 제자 배출이 임팩트의 실체."
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "George J. Pappas: over 29 years, 81 papers, 6,613 total cites, h=35, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1997 with \"Generation of conflict resolution manoeuvres for air traffic management\". First 500+ cite paper came 7 years in: \"Leader-to-formation stability\" (2004, 779 cites).",

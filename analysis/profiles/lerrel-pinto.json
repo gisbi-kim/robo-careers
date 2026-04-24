@@ -1,0 +1,949 @@
+{
+  "name": "Lerrel Pinto",
+  "slug": "lerrel-pinto",
+  "career_stats": {
+    "first_year": 2016,
+    "last_year": 2025,
+    "span": 10,
+    "total_papers": 28,
+    "total_cites": 2208,
+    "h_index": 15,
+    "i10_index": 19,
+    "seminal_count": 1,
+    "max_cites_single_paper": 1095
+  },
+  "role_distribution": {
+    "first": 4,
+    "middle": 11,
+    "last": 13
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2016,
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours"
+    },
+    "first_100cite": {
+      "year": 2016,
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours",
+      "cites": 1095,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2016,
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours",
+      "cites": 1095,
+      "gap_from_first": 0
+    },
+    "first_1000cite": {
+      "year": 2016,
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours",
+      "cites": 1095,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2016,
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours",
+      "cites": 1095
+    }
+  },
+  "year_series": {
+    "2016": {
+      "n": 1,
+      "cites": 1095,
+      "max_cites": 1095
+    },
+    "2017": {
+      "n": 3,
+      "cites": 278,
+      "max_cites": 252
+    },
+    "2018": {
+      "n": 2,
+      "cites": 108,
+      "max_cites": 105
+    },
+    "2019": {
+      "n": 1,
+      "cites": 4,
+      "max_cites": 4
+    },
+    "2020": {
+      "n": 2,
+      "cites": 198,
+      "max_cites": 163
+    },
+    "2021": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "2022": {
+      "n": 4,
+      "cites": 109,
+      "max_cites": 81
+    },
+    "2023": {
+      "n": 5,
+      "cites": 218,
+      "max_cites": 68
+    },
+    "2024": {
+      "n": 3,
+      "cites": 167,
+      "max_cites": 111
+    },
+    "2025": {
+      "n": 6,
+      "cites": 16,
+      "max_cites": 4
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.209
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.186
+        },
+        {
+          "c": "GRASP",
+          "w": 0.07
+        },
+        {
+          "c": "Robot",
+          "w": 0.07
+        },
+        {
+          "c": "Overfitting",
+          "w": 0.047
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.209
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.132
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.099
+        },
+        {
+          "c": "Robot",
+          "w": 0.066
+        },
+        {
+          "c": "Imitation",
+          "w": 0.044
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "ICRA": 4,
+        "RSS": 3,
+        "IROS": 2
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "ICRA": 11,
+        "RSS": 5,
+        "IROS": 3
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 3.56,
+      "unique_coauthors": 15,
+      "top_coauthors": [
+        [
+          "Abhinav Gupta",
+          6
+        ],
+        [
+          "Dhiraj Gandhi",
+          3
+        ],
+        [
+          "Pieter Abbeel",
+          2
+        ],
+        [
+          "James Davidson",
+          1
+        ],
+        [
+          "Marcin Andrychowicz",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 19.79,
+      "unique_coauthors": 319,
+      "top_coauthors": [
+        [
+          "Nur Muhammad (Mahi) Shafiullah",
+          6
+        ],
+        [
+          "Soumith Chintala",
+          5
+        ],
+        [
+          "Pieter Abbeel",
+          4
+        ],
+        [
+          "Jyothish Pari",
+          4
+        ],
+        [
+          "Chris Paxton",
+          4
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.234,
+  "top_repeat_coauthors": [
+    {
+      "name": "Abhinav Gupta",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2023
+    },
+    {
+      "name": "Pieter Abbeel",
+      "count": 6,
+      "first_year": 2018,
+      "last_year": 2024
+    },
+    {
+      "name": "Nur Muhammad (Mahi) Shafiullah",
+      "count": 6,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "Soumith Chintala",
+      "count": 5,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Jyothish Pari",
+      "count": 4,
+      "first_year": 2022,
+      "last_year": 2023
+    },
+    {
+      "name": "Chris Paxton",
+      "count": 4,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Dhiraj Gandhi",
+      "count": 3,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Ben Evans",
+      "count": 3,
+      "first_year": 2022,
+      "last_year": 2024
+    },
+    {
+      "name": "Sridhar Pandian Arunachalam",
+      "count": 3,
+      "first_year": 2022,
+      "last_year": 2023
+    },
+    {
+      "name": "Irmak Güzey",
+      "count": 3,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Siddhant Haldar",
+      "count": 3,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Yilin Wu",
+      "count": 2,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Ilija Radosavovic",
+      "count": 2,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Xiaolong Wang",
+      "count": 2,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Jitendra Malik",
+      "count": 2,
+      "first_year": 2021,
+      "last_year": 2024
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Sridhar Pandian Arunachalam",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Irmak Güzey",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Nur Muhammad (Mahi) Shafiullah",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Jyothish Pari",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Ben Evans",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Peiqi Liu",
+      "student_first_year": 2024,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Siddhant Haldar",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Gaoyue Zhou",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Ilija Radosavovic",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2016,
+      2025
+    ],
+    "early_mean_n_authors": 14.57,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 14.57
+  },
+  "citation_half_life_years": 9.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2016
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2016,
+      "venue": "ICRA",
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours",
+      "cites": 1095,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Overfitting",
+        "GRASP",
+        "Computer science",
+        "Artificial intelligence",
+        "Convolutional neural network"
+      ],
+      "doi": "10.1109/icra.2016.7487517",
+      "coauthors": [
+        "Abhinav Gupta"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IROS",
+      "title": "Learning to fly by crashing",
+      "cites": 252,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Drone",
+        "Overfitting",
+        "Crash",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros.2017.8206247",
+      "coauthors": [
+        "Dhiraj Gandhi",
+        "Abhinav Gupta"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RSS",
+      "title": "Learning to Manipulate Deformable Objects without Demonstrations",
+      "cites": 163,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Human–computer interaction",
+        "Artificial intelligence",
+        "Computer graphics (images)"
+      ],
+      "doi": "10.15607/rss.2020.xvi.065",
+      "coauthors": [
+        "Yilin Wu",
+        "Wilson Yan",
+        "Thanard Kurutach",
+        "Pieter Abbeel"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "ICRA",
+      "title": "Open X-Embodiment: Robotic Learning Datasets and RT-X Models : Open X-Embodiment Collaboration",
+      "cites": 111,
+      "n_authors": 280,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Computer graphics (images)",
+        "Artificial intelligence",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/icra57147.2024.10611477",
+      "coauthors": [
+        "Abby O&apos",
+        "Neill",
+        "Abdul Rehman",
+        "Abhiram Maddukuri",
+        "Abhishek Gupta",
+        "Abhishek Padalkar",
+        "Abraham Lee",
+        "Acorn Pooley",
+        "Agrim Gupta",
+        "Ajay Mandlekar",
+        "Ajinkya Jain",
+        "Albert Tung",
+        "Alex Bewley",
+        "Alexander Herzog",
+        "Alex Irpan",
+        "Alexander Khazatsky",
+        "Anant Rai",
+        "Anchit Gupta",
+        "Andrew E. Wang",
+        "Anikait Singh",
+        "Animesh Garg",
+        "Aniruddha Kembhavi",
+        "Annie Xie",
+        "Anthony Brohan",
+        "Antonin Raffin",
+        "Archit Sharma",
+        "Arefeh Yavary",
+        "Arhan Jain",
+        "Ashwin Balakrishna",
+        "Ayzaan Wahid",
+        "Ben Burgess-Limerick",
+        "Beomjoon Kim",
+        "Bernhard Schölkopf",
+        "Blake Wulfe",
+        "Brian Ichter",
+        "Cewu Lu",
+        "Charles Xu",
+        "Charlotte Le",
+        "Chelsea Finn",
+        "Chen Wang",
+        "Chenfeng Xu",
+        "Cheng Chi",
+        "Chenguang Huang",
+        "Christine Chan",
+        "Christopher Agia",
+        "Chuer Pan",
+        "Chuyuan Fu",
+        "Coline Devin",
+        "Danfei Xu",
+        "Daniel Morton",
+        "Danny Driess",
+        "Daphne Chen",
+        "Deepak Pathak",
+        "Dhruv Shah",
+        "Dieter Büchler",
+        "Dinesh Jayaraman",
+        "Dmitry Kalashnikov",
+        "Dorsa Sadigh",
+        "Edward Johns",
+        "Ethan Paul Foster",
+        "Fangchen Liu",
+        "Federico Ceola",
+        "Fei Xia",
+        "Feiyu Zhao",
+        "Freek Stulp",
+        "Gaoyue Zhou",
+        "Gaurav S. Sukhatme",
+        "Gautam Salhotra",
+        "Ge Yan",
+        "Gilbert Feng",
+        "Giulio Schiavi",
+        "Glen Berseth",
+        "Gregory Kahn",
+        "Guanzhi Wang",
+        "Hao Su",
+        "Haoshu Fang",
+        "Haochen Shi",
+        "Henghui Bao",
+        "Heni Ben Amor",
+        "Henrik I. Christensen",
+        "Hiroki Furuta",
+        "Homer Walke",
+        "Hongjie Fang",
+        "Huy Ha",
+        "Igor Mordatch",
+        "Ilija Radosavovic",
+        "Isabel Leal",
+        "Jacky Liang",
+        "Jad Abou-Chakra",
+        "Jaehyung Kim",
+        "Jaimyn Drake",
+        "Jan Peters",
+        "Jan Schneider",
+        "Jasmine Hsu",
+        "Jeannette Bohg",
+        "Jeffrey T. Bingham",
+        "Jeffrey Wu",
+        "Jensen Gao",
+        "Jiaheng Hu",
+        "Jiajun Wu",
+        "Jialin Wu",
+        "Jiankai Sun",
+        "Jianlan Luo",
+        "Jiayuan Gu",
+        "Jie Tan",
+        "Jihoon Oh",
+        "Jimmy Wu",
+        "Jingpei Lu",
+        "Jingyun Yang",
+        "Jitendra Malik",
+        "João Silvério",
+        "Joey Hejna",
+        "Jonathan Booher",
+        "Jonathan Tompson",
+        "Jonathan Yang",
+        "Jordi Salvador",
+        "Joseph J. Lim",
+        "Junhyek Han",
+        "Kaiyuan Wang",
+        "Kanishka Rao",
+        "Karl Pertsch",
+        "Karol Hausman",
+        "Keegan Go",
+        "Keerthana Gopalakrishnan",
+        "Ken Goldberg",
+        "Kendra Byrne",
+        "Kenneth Oslund",
+        "Kento Kawaharazuka",
+        "Kevin Black",
+        "Kevin Lin",
+        "Kevin Zhang",
+        "Kiana Ehsani",
+        "Kiran Lekkala",
+        "Kirsty Ellis",
+        "Krishan Rana",
+        "Krishnan Srinivasan",
+        "Kuan Fang",
+        "Kunal Pratap Singh",
+        "Kuo-Hao Zeng",
+        "Kyle Hatch",
+        "Kyle Hsu",
+        "Laurent Itti",
+        "Lawrence Yunliang Chen",
+        "Li Fei-Fei",
+        "Liam Tan",
+        "Linxi Jim Fan",
+        "Lionel Ott",
+        "Lisa Lee",
+        "Luca Weihs",
+        "Magnum Chen",
+        "Marion Lepert",
+        "Marius Memmel",
+        "Masayoshi Tomizuka",
+        "Masha Itkina",
+        "Mateo Guaman Castro",
+        "Max Spero",
+        "Maximilian Du",
+        "Michael Ahn",
+        "Michael C. Yip",
+        "Mingtong Zhang",
+        "Mingyu Ding",
+        "Minho Heo",
+        "Mohan Kumar Srirama",
+        "Mohit Sharma",
+        "Moo Jin Kim",
+        "Naoaki Kanazawa",
+        "Nicklas Hansen",
+        "Nicolas Heess",
+        "Nikhil J. Joshi",
+        "Niko Sünderhauf",
+        "Ning Liu",
+        "Norman Di Palo",
+        "Nur Muhammad (Mahi) Shafiullah",
+        "Oier Mees",
+        "Oliver Kroemer",
+        "Osbert Bastani",
+        "Pannag R. Sanketi",
+        "Patrick Tree Miller",
+        "Patrick Yin",
+        "Paul Wohlhart",
+        "Peng Xu",
+        "Peter David Fagan",
+        "Peter Mitrano",
+        "Pierre Sermanet",
+        "Pieter Abbeel",
+        "Priya Sundaresan",
+        "Qiuyu Chen",
+        "Quan Vuong",
+        "Rafael Rafailov",
+        "Ran Tian",
+        "Ria Doshi",
+        "Roberto Martín-Martín",
+        "Rohan Baijal",
+        "Rosario Scalise",
+        "Rose Hendrix",
+        "Roy Lin",
+        "Runjia Qian",
+        "Ruohan Zhang",
+        "Russell Mendonca",
+        "Rutav Shah",
+        "Ryan Hoque",
+        "Ryan Julian",
+        "Samuel Bustamante-Gomez",
+        "Sean Kirmani",
+        "Sergey Levine",
+        "Shan Lin",
+        "Sherry Moore",
+        "Shikhar Bahl",
+        "Shivin Dass",
+        "Shubham D. Sonawani",
+        "Shuran Song",
+        "Sichun Xu",
+        "Siddhant Haldar",
+        "Siddharth Karamcheti",
+        "Simeon Adebola",
+        "Simon Guist",
+        "Soroush Nasiriany",
+        "Stefan Schaal",
+        "Stefan Welker",
+        "Stephen Tian",
+        "Subramanian Ramamoorthy",
+        "Sudeep Dasari",
+        "Suneel Belkhale",
+        "Sungjae Park",
+        "Suraj Nair",
+        "Suvir Mirchandani",
+        "Takayuki Osa",
+        "Tanmay Gupta",
+        "Tatsuya Harada",
+        "Tatsuya Matsushima",
+        "Ted Xiao",
+        "Thomas Kollar",
+        "Tianhe Yu",
+        "Tianli Ding",
+        "Todor Davchev",
+        "Tony Z. Zhao",
+        "Travis Armstrong",
+        "Trevor Darrell",
+        "Trinity Chung",
+        "Vidhi Jain",
+        "Vincent Vanhoucke",
+        "Wei Zhan",
+        "Wenxuan Zhou",
+        "Wolfram Burgard",
+        "Xi Chen",
+        "Xiaolong Wang",
+        "Xinghao Zhu",
+        "Xinyang Geng",
+        "Xiyuan Liu",
+        "Liangwei Xu",
+        "Xuanlin Li",
+        "Yao Lu",
+        "Yecheng Jason Ma",
+        "Yejin Kim",
+        "Yevgen Chebotar",
+        "Yifan Zhou",
+        "Yifeng Zhu",
+        "Yilin Wu",
+        "Ying Xu",
+        "Yixuan Wang",
+        "Yonatan Bisk",
+        "Yoonyoung Cho",
+        "Youngwoon Lee",
+        "Yuchen Cui",
+        "Yue Cao",
+        "Yueh-Hua Wu",
+        "Yujin Tang",
+        "Yuke Zhu",
+        "Yunchu Zhang",
+        "Yunfan Jiang",
+        "Yunshuang Li",
+        "Yunzhu Li",
+        "Yusuke Iwasawa",
+        "Yutaka Matsuo",
+        "Zehan Ma",
+        "Zhuo Xu",
+        "Zichen Jeff Cui",
+        "Zichen Zhang",
+        "Zipeng Lin"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RSS",
+      "title": "Asymmetric Actor Critic for Image-Based Robot Learning",
+      "cites": 105,
+      "n_authors": 5,
+      "role": "first",
+      "concepts": [
+        "Observability",
+        "Reinforcement learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Robot"
+      ],
+      "doi": "10.15607/rss.2018.xiv.008",
+      "coauthors": [
+        "Marcin Andrychowicz",
+        "Peter Welinder",
+        "Wojciech Zaremba",
+        "Pieter Abbeel"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "RSS",
+      "title": "The Surprising Effectiveness of Representation Learning for Visual Imitation",
+      "cites": 81,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Imitation",
+        "Computer science",
+        "Representation (politics)",
+        "Artificial intelligence",
+        "Human–computer interaction"
+      ],
+      "doi": "10.15607/rss.2022.xviii.010",
+      "coauthors": [
+        "Jyothish Pari",
+        "Nur Muhammad (Mahi) Shafiullah",
+        "Sridhar Pandian Arunachalam"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "ICRA",
+      "title": "Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation",
+      "cites": 68,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Imitation",
+        "Computer science",
+        "Human–computer interaction",
+        "Artificial intelligence",
+        "Psychology"
+      ],
+      "doi": "10.1109/icra48891.2023.10160275",
+      "coauthors": [
+        "Sridhar Pandian Arunachalam",
+        "Sneha Silwal",
+        "Ben Evans"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "RSS",
+      "title": "CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory",
+      "cites": 66,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Artificial intelligence",
+        "Semantic memory",
+        "Natural language processing",
+        "Human–computer interaction"
+      ],
+      "doi": "10.15607/rss.2023.xix.074",
+      "coauthors": [
+        "Nur Muhammad (Mahi) Shafiullah",
+        "Chris Paxton",
+        "Soumith Chintala",
+        "Arthur Szlam"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "ICRA",
+      "title": "Holo-Dex: Teaching Dexterity with Immersive Mixed Reality",
+      "cites": 39,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Virtual reality",
+        "Human–computer interaction",
+        "Teleoperation",
+        "Headset"
+      ],
+      "doi": "10.1109/icra48891.2023.10160547",
+      "coauthors": [
+        "Sridhar Pandian Arunachalam",
+        "Irmak Güzey",
+        "Soumith Chintala"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "RSS",
+      "title": "Demonstrating OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics",
+      "cites": 39,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Robotics",
+        "Robot",
+        "Artificial intelligence",
+        "Computer science",
+        "Human–computer interaction"
+      ],
+      "doi": "10.15607/rss.2024.xx.091",
+      "coauthors": [
+        "Peiqi Liu",
+        "Yaswanth Orru",
+        "Jay Vakil",
+        "Chris Paxton",
+        "Nur Muhammad (Mahi) Shafiullah"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Lerrel Pinto: 10년에 걸쳐 28편, 총 2,208회 인용, h=15, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "2016년 \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095회). 1000+ 인용 논문: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095회).",
+        "초기 토픽: Computer science, Artificial intelligence, GRASP. 최근 토픽: Computer science, Human–computer interaction, Artificial intelligence. 피벗 점수 0.23 → 토픽 지속형.",
+        "저자수 평균: 초기 14.6명 → 후기 14.6명 (팀 유지).",
+        "최다 인용 논문 \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095회) — 커리어 초기에 위치.",
+        "제자 후보 추정 9명 — 상위: Sridhar Pandian Arunachalam(2022~, 본인 마지막저자 3편), Irmak Güzey(2023~, 본인 마지막저자 3편), Nur Muhammad (Mahi) Shafiullah(2022~, 본인 마지막저자 3편)."
+      ],
+      "lessons": [
+        "초기 0년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Lerrel Pinto: over 10 years, 28 papers, 2,208 total cites, h=15, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2016 with \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\". First 500+ cite paper came 0 years in: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095 cites). 1000+ cite paper: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095 cites).",
+        "Early topics: Computer science, Artificial intelligence, GRASP. Recent topics: Computer science, Human–computer interaction, Artificial intelligence. Pivot score 0.23 → topic-stable.",
+        "Authors per paper: early 14.6 → late 14.6 (stable team).",
+        "Peak paper \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095 cites) — fell in early career.",
+        "9 likely students — top: Sridhar Pandian Arunachalam(2022~, we last-author on 3), Irmak Güzey(2023~, we last-author on 3), Nur Muhammad (Mahi) Shafiullah(2022~, we last-author on 3)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 0 years. First-5-year topic choice is decisive."
+      ]
+    }
+  }
+}

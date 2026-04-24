@@ -1325,14 +1325,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Danica Kragic: 27년에 걸쳐 188편, 총 8,428회 인용, h=48, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1999년 \"A Person Following Behaviour for a Mobile Robot\"으로 출발. 첫 500+ 인용 논문까지 15년 걸림: \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839회).",
         "초기 토픽: Computer science, Computer vision, Artificial intelligence. 최근 토픽: Computer science, Artificial intelligence, Human–computer interaction. 피벗 점수 0.12 → 토픽 지속형.",
         "저자수 평균: 초기 2.9명 → 후기 4.9명 (팀 확장).",
         "최다 인용 논문 \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839회) — 커리어 중기에 위치.",
-        "제자 후보 추정 44명 — 상위: Florian T. Pokorny(2013~, 우리 마지막저자 11편), Yasemin Bekiroglu(2011~, 우리 마지막저자 10편), Kaiyu Hang(2012~, 우리 마지막저자 9편)."
+        "제자 후보 추정 44명 — 상위: Florian T. Pokorny(2013~, 본인 마지막저자 11편), Yasemin Bekiroglu(2011~, 본인 마지막저자 10편), Kaiyu Hang(2012~, 본인 마지막저자 9편)."
       ],
       "lessons": [
         "한 우물 깊게 파는 전략으로 임팩트 달성.",
@@ -1341,7 +1341,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Danica Kragic: over 27 years, 188 papers, 8,428 total cites, h=48, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1999 with \"A Person Following Behaviour for a Mobile Robot\". First 500+ cite paper came 15 years in: \"Data-Driven Grasp Synthesis - A Survey\" (2014, 839 cites).",

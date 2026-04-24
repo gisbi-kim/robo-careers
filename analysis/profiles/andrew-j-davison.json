@@ -948,14 +948,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Andrew J. Davison: 25년에 걸쳐 52편, 총 7,450회 인용, h=28, 500+ 블록버스터 5편.",
       "paragraphs": [
         "2000년 \"Active visual localisation for cooperating inspection robots\"으로 출발. 첫 500+ 인용 논문까지 8년 걸림: \"Inverse Depth Parametrization for Monocular SLAM\" (2008, 769회).",
         "초기 토픽: Computer science, Robot, Computer vision. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.25 → 점진적 이동형.",
         "저자수 평균: 초기 3.6명 → 후기 4.8명 (팀 확장).",
         "최다 인용 논문 \"A benchmark for RGB-D visual odometry, 3D reconstruction and SLAM\" (2014, 933회) — 커리어 중기에 위치.",
-        "제자 후보 추정 15명 — 상위: Stephen James(2020~, 우리 마지막저자 5편), Hidenobu Matsuki(2018~, 우리 마지막저자 3편), Riku Murai(2020~, 우리 마지막저자 3편)."
+        "제자 후보 추정 15명 — 상위: Stephen James(2020~, 본인 마지막저자 5편), Hidenobu Matsuki(2018~, 본인 마지막저자 3편), Riku Murai(2020~, 본인 마지막저자 3편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -963,7 +963,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Andrew J. Davison: over 25 years, 52 papers, 7,450 total cites, h=28, 5 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2000 with \"Active visual localisation for cooperating inspection robots\". First 500+ cite paper came 8 years in: \"Inverse Depth Parametrization for Monocular SLAM\" (2008, 769 cites).",

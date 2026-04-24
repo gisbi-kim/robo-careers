@@ -1070,14 +1070,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Hugh F. Durrant-Whyte: 28년에 걸쳐 99편, 총 8,005회 인용, h=44, 500+ 블록버스터 3편.",
       "paragraphs": [
         "1985년 \"Practical adaptive control of actuated spatial mechanisms\"으로 출발. 첫 500+ 인용 논문까지 6년 걸림: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791회).",
         "초기 토픽: Computer science, Artificial intelligence, Computer vision. 최근 토픽: Computer science, Terrain, Motion planning. 피벗 점수 0.26 → 점진적 이동형.",
         "저자수 평균: 초기 2.1명 → 후기 3.8명 (팀 확장).",
         "최다 인용 논문 \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791회) — 커리어 초기에 위치.",
-        "제자 후보 추정 20명 — 상위: Fabio T. Ramos(2005~, 우리 마지막저자 9편), Gamini Dissanayake(1997~, 우리 마지막저자 8편), Eduardo Mario Nebot(1996~, 우리 마지막저자 8편)."
+        "제자 후보 추정 20명 — 상위: Fabio T. Ramos(2005~, 본인 마지막저자 9편), Gamini Dissanayake(1997~, 본인 마지막저자 8편), Eduardo Mario Nebot(1996~, 본인 마지막저자 8편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1085,7 +1085,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Hugh F. Durrant-Whyte: over 28 years, 99 papers, 8,005 total cites, h=44, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1985 with \"Practical adaptive control of actuated spatial mechanisms\". First 500+ cite paper came 6 years in: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791 cites).",

@@ -1436,14 +1436,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Kazuhiro Kosuge: 41년에 걸쳐 177편, 총 4,910회 인용, h=40, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1985년 \"Kinematic and dynamic analysis of robot arm\"으로 출발.",
         "초기 토픽: Computer science, Internal model, Robot. 최근 토픽: Mechanical engineering, Computer science, Enhanced Data Rates for GSM Evolution. 피벗 점수 0.33 → 점진적 이동형.",
         "저자수 평균: 초기 4.6명 → 후기 6.6명 (팀 확장).",
         "최다 인용 논문 \"Analytical Inverse Kinematic Computation for 7-DOF Redundant Manipulators With Joint Limits and Its Application to Redundancy Resolution\" (2008, 320회) — 커리어 중기에 위치.",
-        "제자 후보 추정 32명 — 상위: Fuyuki Tokuda(2023~, 우리 마지막저자 8편), Oscar Chuy(2004~, 우리 마지막저자 6편), Yasuhisa Hirata(1998~, 우리 마지막저자 5편)."
+        "제자 후보 추정 32명 — 상위: Fuyuki Tokuda(2023~, 본인 마지막저자 8편), Oscar Chuy(2004~, 본인 마지막저자 6편), Yasuhisa Hirata(1998~, 본인 마지막저자 5편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1451,7 +1451,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Kazuhiro Kosuge: over 41 years, 177 papers, 4,910 total cites, h=40, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1985 with \"Kinematic and dynamic analysis of robot arm\".",

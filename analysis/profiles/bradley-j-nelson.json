@@ -1418,14 +1418,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-3",
       "headline": "Bradley J. Nelson: 33년에 걸쳐 156편, 총 10,612회 인용, h=44, 500+ 블록버스터 4편.",
       "paragraphs": [
         "1993년 \"Increasing the Tracking Region of an Eye-In-Hand System by Singularity and Joint Limit Avoidance\"으로 출발. 첫 500+ 인용 논문까지 16년 걸림: \"How Should Microrobots Swim?\" (2009, 665회). 1000+ 인용 논문: \"OctoMag: An Electromagnetic System for 5-DOF Wireless Micromanipulation\" (2010, 1,127회).",
         "초기 토픽: Computer science, Computer vision, Artificial intelligence. 최근 토픽: Computer science, Robot, Magnetic field. 피벗 점수 0.39 → 점진적 이동형.",
         "저자수 평균: 초기 3.8명 → 후기 6.0명 (팀 확장).",
         "최다 인용 논문 \"OctoMag: An Electromagnetic System for 5-DOF Wireless Micromanipulation\" (2010, 1,127회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Pradeep K. Khosla. 제자 후보 추정 39명 — 상위: Zoltán Nagy(2007~, 우리 마지막저자 8편), Yu Sun(2001~, 우리 마지막저자 7편), Dominic R. Frutiger(2008~, 우리 마지막저자 7편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Pradeep K. Khosla. 제자 후보 추정 39명 — 상위: Zoltán Nagy(2007~, 본인 마지막저자 8편), Yu Sun(2001~, 본인 마지막저자 7편), Dominic R. Frutiger(2008~, 본인 마지막저자 7편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1434,7 +1434,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer",
+      "archetype": "mid-career-peak-3",
       "headline": "Bradley J. Nelson: over 33 years, 156 papers, 10,612 total cites, h=44, 4 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1993 with \"Increasing the Tracking Region of an Eye-In-Hand System by Singularity and Joint Limit Avoidance\". First 500+ cite paper came 16 years in: \"How Should Microrobots Swim?\" (2009, 665 cites). 1000+ cite paper: \"OctoMag: An Electromagnetic System for 5-DOF Wireless Micromanipulation\" (2010, 1,127 cites).",

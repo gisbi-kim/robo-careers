@@ -1632,14 +1632,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-3",
+      "archetype": "mid-career-peak-2",
       "headline": "Darwin G. Caldwell: 34년에 걸쳐 254편, 총 12,876회 인용, h=64, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1992년 \"Multi-sensor Tactile Perception For Object Manipulation/identification\"으로 출발.",
         "초기 토픽: Computer science, Human–computer interaction, Haptic technology. 최근 토픽: Computer science, Control theory (sociology), Exoskeleton. 피벗 점수 0.31 → 점진적 이동형.",
         "저자수 평균: 초기 2.9명 → 후기 5.1명 (팀 확장).",
         "최다 인용 논문 \"Variable Stiffness Actuators: Review on Design and Components\" (2015, 432회) — 커리어 후기에 위치.",
-        "제자 후보 추정 68명 — 상위: Emanuele Guglielmino(2009~, 우리 마지막저자 19편), Petar Kormushev(2010~, 우리 마지막저자 16편), Matteo Laffranchi(2009~, 우리 마지막저자 14편)."
+        "제자 후보 추정 68명 — 상위: Emanuele Guglielmino(2009~, 본인 마지막저자 19편), Petar Kormushev(2010~, 본인 마지막저자 16편), Matteo Laffranchi(2009~, 본인 마지막저자 14편)."
       ],
       "lessons": [
         "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
@@ -1648,7 +1648,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-3",
+      "archetype": "mid-career-peak-2",
       "headline": "Darwin G. Caldwell: over 34 years, 254 papers, 12,876 total cites, h=64, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1992 with \"Multi-sensor Tactile Perception For Object Manipulation/identification\".",

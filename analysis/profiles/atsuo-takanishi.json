@@ -1428,14 +1428,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Atsuo Takanishi: 37년에 걸쳐 199편, 총 5,710회 인용, h=40, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1989년 \"Dynamic Biped Walking Stabilized With Optimal Trunk And Waist Motion\"으로 출발.",
         "초기 토픽: Computer science, Robot, Control theory (sociology). 최근 토픽: Humanoid robot, Computer science, Teleoperation. 피벗 점수 0.24 → 토픽 지속형.",
         "저자수 평균: 초기 3.9명 → 후기 7.9명 (팀 확장).",
         "최다 인용 논문 \"Development of a New Humanoid Robot WABIAN-2\" (2006, 369회) — 커리어 중기에 위치.",
-        "제자 후보 추정 38명 — 상위: Jorge Solis(2004~, 우리 마지막저자 17편), Yusuke Sugahara(2002~, 우리 마지막저자 16편), Kenji Hashimoto(2004~, 우리 마지막저자 13편)."
+        "제자 후보 추정 38명 — 상위: Jorge Solis(2004~, 본인 마지막저자 17편), Yusuke Sugahara(2002~, 본인 마지막저자 16편), Kenji Hashimoto(2004~, 본인 마지막저자 13편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1443,7 +1443,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Atsuo Takanishi: over 37 years, 199 papers, 5,710 total cites, h=40, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1989 with \"Dynamic Biped Walking Stabilized With Optimal Trunk And Waist Motion\".",

@@ -1319,14 +1319,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak-3",
       "headline": "Ian D. Walker: 37년에 걸쳐 120편, 총 6,210회 인용, h=39, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1988년 \"Dynamic task distribution for multiple cooperating robot manipulators\"으로 출발. 첫 500+ 인용 논문까지 18년 걸림: \"Kinematics for multisection continuum robots\" (2006, 934회).",
         "초기 토픽: Computer science, Manipulator (device), Object (grammar). 최근 토픽: Robot, Kinematics, Computer science. 피벗 점수 0.24 → 토픽 지속형.",
         "저자수 평균: 초기 2.4명 → 후기 5.2명 (팀 확장).",
         "최다 인용 논문 \"Kinematics for multisection continuum robots\" (2006, 934회) — 커리어 중기에 위치.",
-        "제자 후보 추정 27명 — 상위: Bryan A. Jones(2005~, 우리 마지막저자 10편), Ian A. Gravagne(1998~, 우리 마지막저자 7편), Chase G. Frazelle(2016~, 우리 마지막저자 6편)."
+        "제자 후보 추정 27명 — 상위: Bryan A. Jones(2005~, 본인 마지막저자 10편), Ian A. Gravagne(1998~, 본인 마지막저자 7편), Chase G. Frazelle(2016~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1334,7 +1334,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak-3",
       "headline": "Ian D. Walker: over 37 years, 120 papers, 6,210 total cites, h=39, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1988 with \"Dynamic task distribution for multiple cooperating robot manipulators\". First 500+ cite paper came 18 years in: \"Kinematics for multisection continuum robots\" (2006, 934 cites).",

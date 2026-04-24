@@ -145,6 +145,19 @@ body {
   align-self: end; border-left: 3px solid var(--accent); padding-left: 16px;
 }
 
+.disclaimer {
+  background: var(--paper-2);
+  border-left: 3px solid var(--accent-2);
+  padding: 12px 16px;
+  margin-bottom: 48px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem;
+  color: var(--muted);
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+}
+.disclaimer strong { color: var(--ink); font-weight: 700; }
+
 section { margin-bottom: 64px; }
 section h2 {
   font-family: 'Noto Serif KR', 'Fraunces', serif;
@@ -261,108 +274,58 @@ section .section-desc {
 .chip.active { background: var(--ink); color: var(--paper); }
 .chip:hover:not(.active) { background: var(--paper-2); }
 
+/* Compact author index (each card links to /authors/<slug>.html) */
 .profile-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
-  gap: 28px;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 14px;
 }
 .profile-card.hidden { display: none; }
 .profile-card {
   background: var(--card);
-  padding: 26px;
-  position: relative;
-  border-top: 3px solid var(--ink);
-  display: flex; flex-direction: column; gap: 16px;
+  padding: 14px 16px;
+  border-top: 2px solid var(--ink);
+  transition: background 0.15s, transform 0.15s;
+  cursor: pointer;
+  text-decoration: none;
+  color: inherit;
+  display: block;
 }
-.profile-head .rank-badge {
-  display: inline-block;
+.profile-card:hover {
+  background: var(--paper-2);
+  transform: translateY(-1px);
+}
+.profile-card .pc-rank {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.72rem; color: var(--muted);
+  font-size: 0.65rem; color: var(--muted);
   letter-spacing: 0.1em;
 }
-.profile-head h3 {
+.profile-card .pc-name {
   font-family: 'Fraunces', serif;
-  font-size: 1.6rem; font-weight: 700;
-  letter-spacing: -0.02em; margin-top: 4px;
+  font-size: 1.2rem; font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 4px 0 4px;
+  line-height: 1.2;
 }
-.profile-head .archetype-tag {
-  display: inline-block;
+.profile-card .pc-arc {
   font-family: 'JetBrains Mono', monospace;
-  font-size: 0.68rem;
+  font-size: 0.62rem;
   text-transform: uppercase; letter-spacing: 0.08em;
-  color: var(--accent); margin-top: 4px;
-}
-.profile-stats {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 10px;
-  padding: 12px 0;
-  border-top: 1px solid rgba(26,22,20,0.12);
-  border-bottom: 1px solid rgba(26,22,20,0.12);
-}
-.profile-stats .stat { text-align: center; }
-.profile-stats .stat .k {
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 0.62rem; text-transform: uppercase;
-  color: var(--muted); letter-spacing: 0.08em;
-}
-.profile-stats .stat .v {
-  font-family: 'Fraunces', serif;
-  font-size: 1.3rem; font-weight: 700;
-  color: var(--ink);
-}
-.profile-card .spark-box { position: relative; width: 100%; height: 90px; }
-.profile-section { font-size: 0.85rem; }
-.profile-section h4 {
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 0.7rem; text-transform: uppercase;
-  letter-spacing: 0.08em; color: var(--accent-2);
-  margin-bottom: 8px;
-}
-.profile-section h4 .soft {
-  font-weight: 400; text-transform: none;
-  color: var(--muted); letter-spacing: 0;
-  margin-left: 4px;
-}
-.profile-section ul { list-style: none; padding-left: 0; }
-.profile-section li { margin-bottom: 4px; }
-.profile-section .peak {
-  font-family: 'Noto Serif KR', serif; font-size: 0.88rem;
-  background: var(--paper-2); padding: 10px 12px; border-left: 2px solid var(--accent);
-  line-height: 1.5;
-}
-.profile-section .peak .meta {
-  font-family: 'JetBrains Mono', monospace; font-size: 0.7rem;
-  color: var(--muted); margin-top: 4px;
-}
-.tag {
-  display: inline-block;
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 0.7rem;
-  background: var(--paper-2); color: var(--accent-2);
-  padding: 2px 8px; margin: 2px 4px 2px 0;
-  border-radius: 2px;
-}
-.narrative {
-  font-family: 'Noto Serif KR', serif;
-  font-size: 0.9rem; line-height: 1.65;
-  color: var(--ink);
-  padding: 12px 0;
-  border-top: 1px dashed rgba(26,22,20,0.2);
-}
-.narrative p { margin-bottom: 8px; }
-.lessons {
-  font-family: 'Noto Serif KR', serif; font-size: 0.88rem;
-  background: rgba(244,211,94,0.14);
-  padding: 12px 14px; border-left: 3px solid var(--highlight);
-}
-.lessons h4 {
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 0.7rem; text-transform: uppercase;
-  letter-spacing: 0.08em; color: var(--muted);
+  color: var(--accent);
   margin-bottom: 6px;
 }
-.lessons li { margin-left: 18px; margin-bottom: 4px; }
+.profile-card .pc-stats {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem; color: var(--muted);
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+.profile-card .pc-stats b { color: var(--ink); font-weight: 700; }
+.profile-card .pc-arrow {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem; color: var(--accent);
+  float: right; opacity: 0; transition: opacity 0.15s;
+}
+.profile-card:hover .pc-arrow { opacity: 1; }
 
 .cross-lessons {
   background: var(--card);
@@ -452,6 +415,8 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
     <div class="hero-note" id="heroNote"></div>
   </section>
 
+  <div class="disclaimer" id="disclaimer"></div>
+
   <section>
     <h2><span id="secLessonsTitle"></span> <span class="sub" id="secLessonsSub"></span></h2>
     <p class="section-desc" id="secLessonsDesc"></p>
@@ -465,6 +430,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       <thead>
         <tr>
           <th data-key="rank">#</th>
+          <th data-key="natural_rank" title="Composite rank if the min-paper filter and force-includes were not applied">nat.</th>
           <th data-key="name" style="text-align:left">Name</th>
           <th data-key="archetype" style="text-align:left">Archetype</th>
           <th data-key="papers">Papers</th>
@@ -529,6 +495,7 @@ const I18N = {
     heroKicker: n => `80,000+ papers · 40 years · ${n} trajectories`,
     heroHeadline: `Where do "master" careers <em>diverge</em>?`,
     heroNote: n => `Across 40 years of major robotics venues — a composite ranking of impact, persistence, hub centrality, blockbuster count, and career span produces the top ${n} below. Data: <a href="https://gisbi-kim.github.io/robopaper-atlas/" target="_blank" style="color:var(--accent);">robopaper-atlas</a> (DBLP + OpenAlex, 81,680 papers).`,
+    disclaimer: `<strong>Scope note.</strong> All paper counts, citation counts, coauthor counts and derived metrics below are computed <strong>only over the robopaper-atlas corpus</strong> — the 81,680 papers in ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech. They are <strong>not</strong> these researchers' total publications on Google Scholar / Scopus / Web of Science. Cross-domain work (vision, ML, bio, etc.) published elsewhere is not reflected.`,
     secLessonsTitle: "Lessons",
     secLessonsSub: "/ WHAT THIS MEANS FOR YOU",
     secLessonsDesc: "Bottom line first. Patterns below are auto-extracted across all profiles.",
@@ -582,6 +549,7 @@ const I18N = {
     heroKicker: n => `80,000+ 편 · 40년 · ${n}인의 궤적`,
     heroHeadline: `"대가"의 커리어는 어디서 <em>갈라지는가</em>.`,
     heroNote: n => `로보틱스 주요 venue 40년치 논문을 통틀어, 영향력·지속성·허브성·블록버스터 생산량·커리어 기간을 합산한 상위 ${n}인의 이력을 한 페이지에 풀었다. 데이터 출처: <a href="https://gisbi-kim.github.io/robopaper-atlas/" target="_blank" style="color:var(--accent);">robopaper-atlas</a> (DBLP + OpenAlex, 81,680편).`,
+    disclaimer: `<strong>범위 안내.</strong> 아래 모든 논문 수·인용 수·공저자 수·파생 지표는 <strong>robopaper-atlas 코퍼스 내부에서만</strong> 계산된 값입니다 — ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech의 81,680편. 각 연구자의 Google Scholar / Scopus / Web of Science 기준 전체 실적이 <strong>아닙니다</strong>. 비전·ML·생물 등 타 분야 게재 논문은 반영되지 않습니다.`,
     secLessonsTitle: "교훈",
     secLessonsSub: "/ WHAT THIS MEANS FOR YOU",
     secLessonsDesc: "결론부터. 아래는 전체 프로필을 횡단해 자동 추출한 수치·패턴.",
@@ -611,8 +579,8 @@ const I18N = {
     noMentor: "멘토 후보 신호 없음 (자체 시작 또는 데이터 부족)",
     noStudent: "제자 후보 신호 없음",
     moreStudents: n => `+ ${n}명 더`,
-    studentMeta: s => `${s.student_first_year}~${s.last_copub_year} · 우리 마지막저자 ${s.we_last_author_count}편 / ${s.student_first_author_count}편 중`,
-    advisorMeta: a => `${a.advisor_active_from}~ · 초기 1저자 ${a.early_copubs_as_our_first_author}편 중 마지막저자 ${a.advisor_last_author_count}편`,
+    studentMeta: s => `${s.student_first_year}~${s.last_copub_year} · 본인 마지막저자 ${s.we_last_author_count}편 / 학생 1저자 ${s.student_first_author_count}편 중`,
+    advisorMeta: a => `${a.advisor_active_from}~ · 본인 초기 1저자 ${a.early_copubs_as_our_first_author}편 중 멘토가 마지막저자 ${a.advisor_last_author_count}편`,
     coauthMeta: c => `× ${c.count}회 · ${c.first_year}~${c.last_year}`,
     peakMeta: (y, c) => `${y} · ${c.toLocaleString()}회 인용`,
     timeLabels: {
@@ -661,6 +629,7 @@ function applyStaticI18n() {
   document.getElementById('heroKicker').textContent = T.heroKicker(n);
   document.getElementById('heroHeadline').innerHTML = T.heroHeadline;
   document.getElementById('heroNote').innerHTML = T.heroNote(n);
+  document.getElementById('disclaimer').innerHTML = T.disclaimer;
   document.getElementById('secLessonsTitle').textContent = T.secLessonsTitle;
   document.getElementById('secLessonsSub').textContent = T.secLessonsSub;
   document.getElementById('secLessonsDesc').textContent = T.secLessonsDesc;
@@ -691,6 +660,8 @@ function renderTable() {
   const tbody = document.querySelector('#rankTable tbody');
   const rows = PROFILES.map(p => ({
     rank: p._rank_info.rank,
+    natural_rank: p._rank_info.natural_rank,
+    force: !!p._rank_info.force_included,
     slug: p.slug,
     name: p.name,
     archetype: (p.insights && p.insights[LANG]?.archetype) || '—',
@@ -712,10 +683,14 @@ function renderTable() {
       if (av > bv) return 1*sortDir;
       return 0;
     });
-    tbody.innerHTML = sorted.map(r => `
+    tbody.innerHTML = sorted.map(r => {
+      const langSuffix = LANG === 'ko' ? '#ko' : '';
+      const star = r.force ? '<span title="force-included for field coverage" style="color:var(--accent); margin-right:3px;">★</span>' : '';
+      return `
       <tr>
         <td class="rank">${r.rank}</td>
-        <td class="name"><a href="#p-${r.slug}" style="color:inherit; text-decoration:none; border-bottom:1px dotted currentColor;">${r.name}</a></td>
+        <td class="rank" style="color:var(--muted);">${r.natural_rank || '—'}</td>
+        <td class="name">${star}<a href="authors/${r.slug}.html${langSuffix}" style="color:inherit; text-decoration:none; border-bottom:1px dotted currentColor;">${r.name}</a></td>
         <td class="archetype">${r.archetype}</td>
         <td>${r.papers}</td>
         <td>${r.total_cites.toLocaleString()}</td>
@@ -726,7 +701,8 @@ function renderTable() {
         <td>${r.last_year}</td>
         <td>${r.hub_degree}</td>
         <td>${r.pivot.toFixed(2)}</td>
-      </tr>`).join('');
+      </tr>`;
+    }).join('');
     document.querySelectorAll('#rankTable th').forEach(th => {
       th.classList.remove('sort-asc','sort-desc');
       if (th.dataset.key === sortKey) {
@@ -839,104 +815,28 @@ function renderTopics() {
     </div>`).join('');
 }
 
-/* === Profile cards === */
+/* === Profile index (compact cards linking to authors/<slug>.html) === */
 function renderProfiles() {
   const grid = document.getElementById('profileGrid');
+  const langSuffix = LANG === 'ko' ? '#ko' : '';
   grid.innerHTML = PROFILES.map(p => {
     const cs = p.career_stats;
-    const ms = p.milestones;
     const ri = p._rank_info || {};
     const ins = p.insights?.[LANG] || {};
     const arc = ins.archetype || '—';
-    const firstCW = p.topic_windows?.[0];
-    const lastCW = p.topic_windows?.[p.topic_windows.length - 1];
-    const firstTopics = firstCW ? firstCW.top_concepts.map(t => `<span class="tag">${t.c}</span>`).join('') : '';
-    const lastTopics = lastCW ? lastCW.top_concepts.map(t => `<span class="tag">${t.c}</span>`).join('') : '';
-    const coauth = (p.top_repeat_coauthors || []).slice(0,5)
-      .map(c => `<li>${c.name} <span style="color:var(--muted)">${T.coauthMeta(c)}</span></li>`).join('');
-    const advs = (p.likely_advisors || []).slice(0,3)
-      .map(a => `<li>🎓 <strong>${a.name}</strong> <span style="color:var(--muted)">${T.advisorMeta(a)}</span></li>`).join('');
-    const studs = (p.likely_students || []).slice(0,6)
-      .map(s => `<li>👥 <strong>${s.name}</strong> <span style="color:var(--muted)">${T.studentMeta(s)}</span></li>`).join('');
-    const studCount = (p.likely_students || []).length;
-    const blocks = (p.blockbusters || []).slice(0,3)
-      .map(b => `<li>${b.year} <strong>${b.cites.toLocaleString()}</strong>c · <em>${b.title}</em></li>`).join('');
-    const lessons = (ins.lessons || []).map(l => `<li>${l}</li>`).join('');
-    const paras = (ins.paragraphs || []).filter(x => x).map(x => `<p>${x}</p>`).join('');
     return `
-      <article class="profile-card" id="p-${p.slug}" data-name="${p.name}" data-arc="${arc}">
-        <div class="profile-head">
-          <div class="rank-badge">#${ri.rank || '?'} · composite ${(ri.composite||0).toFixed(2)}</div>
-          <h3>${p.name}</h3>
-          <span class="archetype-tag">${arc}</span>
+      <a class="profile-card" href="authors/${p.slug}.html${langSuffix}" data-name="${p.name}" data-arc="${arc}">
+        <span class="pc-arrow">→</span>
+        <div class="pc-rank">#${ri.rank || '?'} · ${cs.first_year}–${cs.last_year}</div>
+        <div class="pc-name">${p.name}</div>
+        <div class="pc-arc">${arc}</div>
+        <div class="pc-stats">
+          <span><b>${cs.total_papers}</b> papers</span>
+          <span><b>${cs.total_cites.toLocaleString()}</b> cites</span>
+          <span>h=<b>${cs.h_index}</b></span>
         </div>
-        <div class="profile-stats">
-          <div class="stat"><div class="k">papers</div><div class="v">${cs.total_papers}</div></div>
-          <div class="stat"><div class="k">cites</div><div class="v">${cs.total_cites.toLocaleString()}</div></div>
-          <div class="stat"><div class="k">h-idx</div><div class="v">${cs.h_index}</div></div>
-          <div class="stat"><div class="k">span</div><div class="v">${cs.span}y</div></div>
-        </div>
-        <div class="spark-box"><canvas id="sp-${p.slug}"></canvas></div>
-        <div class="profile-section">
-          <h4>${T.peakPaper}</h4>
-          <div class="peak">
-            <em>${ms.peak_paper?.title || '—'}</em>
-            <div class="meta">${T.peakMeta(ms.peak_paper?.year || '', ms.peak_paper?.cites || 0)}</div>
-          </div>
-        </div>
-        <div class="profile-section">
-          <h4>${T.topicDrift}</h4>
-          <div style="margin-bottom:6px;">${firstTopics || '<span style="color:var(--muted)">—</span>'}</div>
-          <div style="color:var(--muted); font-size:0.75rem;">⇣ ${T.pivotWord} ${p.pivot_score?.toFixed(2) || '0.00'}</div>
-          <div style="margin-top:6px;">${lastTopics || '<span style="color:var(--muted)">—</span>'}</div>
-        </div>
-        <div class="profile-section">
-          <h4>${T.coauthors}</h4>
-          <ul>${coauth}</ul>
-        </div>
-        <div class="profile-section">
-          <h4>${T.lineage} <span class="soft">${T.lineageNote}</span></h4>
-          ${advs ? `<ul>${advs}</ul>` : `<div style="color:var(--muted); font-size:0.78rem;">${T.noMentor}</div>`}
-          ${studs ? `<ul style="margin-top:6px;">${studs}</ul>${studCount > 6 ? `<div style="color:var(--muted); font-size:0.75rem; margin-top:4px;">${T.moreStudents(studCount - 6)}</div>` : ''}` : `<div style="color:var(--muted); font-size:0.78rem; margin-top:6px;">${T.noStudent}</div>`}
-        </div>
-        <div class="profile-section">
-          <h4>${T.blockbusters}</h4>
-          <ul>${blocks}</ul>
-        </div>
-        <div class="narrative">${paras}</div>
-        <div class="lessons">
-          <h4>${T.careerLessons}</h4>
-          <ul>${lessons}</ul>
-        </div>
-      </article>`;
+      </a>`;
   }).join('');
-
-  PROFILES.forEach(p => {
-    const ctx = document.getElementById(`sp-${p.slug}`);
-    const ys = p.year_series;
-    const years = Object.keys(ys).map(Number).sort((a,b) => a-b);
-    const papers = years.map(y => ys[y].n);
-    const cites = years.map(y => ys[y].cites);
-    newChart(ctx, {
-      type: 'line',
-      data: {
-        labels: years,
-        datasets: [
-          { label: 'papers/yr', data: papers, borderColor: '#2d4a3e', backgroundColor: 'rgba(45,74,62,0.15)', fill: true, tension: 0.25, pointRadius: 0, borderWidth: 1.5, yAxisID: 'y' },
-          { label: 'cites/yr',  data: cites,  borderColor: '#c1440e', backgroundColor: 'transparent', fill: false, tension: 0.25, pointRadius: 0, borderWidth: 1.5, yAxisID: 'y2' },
-        ]
-      },
-      options: {
-        responsive: true, maintainAspectRatio: false,
-        plugins: { legend: { display: false } },
-        scales: {
-          x: { ticks: { font: { size: 8 }, color: '#6b6259', maxTicksLimit: 6 }, grid: { display: false } },
-          y:  { display: false, beginAtZero: true },
-          y2: { display: false, beginAtZero: true, position: 'right' },
-        },
-      }
-    });
-  });
 }
 
 /* === Filter === */

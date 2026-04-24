@@ -1019,14 +1019,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "David Hsu: 29년에 걸쳐 64편, 총 5,951회 인용, h=34, 500+ 블록버스터 3편.",
       "paragraphs": [
         "1997년 \"Path planning in expansive configuration spaces\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Path planning in expansive configuration spaces\" (1997, 546회).",
         "초기 토픽: Motion planning, Computer science, Probabilistic roadmap. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.28 → 점진적 이동형.",
         "저자수 평균: 초기 3.6명 → 후기 3.9명 (팀 유지).",
         "최다 인용 논문 \"SARSOP: Efficient Point-Based POMDP Planning by Approximating Optimally Reachable Belief Spaces\" (2008, 782회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Jean-Claude Latombe. 제자 후보 추정 11명 — 상위: Panpan Cai(2018~, 우리 마지막저자 5편), Yuanfu Luo(2018~, 우리 마지막저자 3편), Yiyuan Lee(2020~, 우리 마지막저자 3편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Jean-Claude Latombe. 제자 후보 추정 11명 — 상위: Panpan Cai(2018~, 본인 마지막저자 5편), Yuanfu Luo(2018~, 본인 마지막저자 3편), Yiyuan Lee(2020~, 본인 마지막저자 3편)."
       ],
       "lessons": [
         "초기 0년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1035,7 +1035,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "David Hsu: over 29 years, 64 papers, 5,951 total cites, h=34, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1997 with \"Path planning in expansive configuration spaces\". First 500+ cite paper came 0 years in: \"Path planning in expansive configuration spaces\" (1997, 546 cites).",

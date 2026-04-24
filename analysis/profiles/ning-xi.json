@@ -1395,14 +1395,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Ning Xi: 34년에 걸쳐 197편, 총 4,073회 인용, h=33, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1992년 \"Motion Planning In Phase Space For Intelligent Robot Arm Control\"으로 출발.",
         "초기 토픽: Computer science, Robot, Scheme (mathematics). 최근 토픽: Computer science, Robot, Wearable computer. 피벗 점수 0.25 → 점진적 이동형.",
         "저자수 평균: 초기 3.8명 → 후기 6.8명 (팀 확장).",
         "최다 인용 논문 \"Development of Augmented Reality System for AFM-Based Nanomanipulation\" (2004, 225회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Tzyh Jong Tarn. 제자 후보 추정 42명 — 상위: Jindong Tan(1999~, 우리 마지막저자 5편), Weihua Sheng(2000~, 우리 마지막저자 3편), Guangyong Li(2002~, 우리 마지막저자 2편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Tzyh Jong Tarn. 제자 후보 추정 42명 — 상위: Jindong Tan(1999~, 본인 마지막저자 5편), Weihua Sheng(2000~, 본인 마지막저자 3편), Guangyong Li(2002~, 본인 마지막저자 2편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1411,7 +1411,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Ning Xi: over 34 years, 197 papers, 4,073 total cites, h=33, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1992 with \"Motion Planning In Phase Space For Intelligent Robot Arm Control\".",

@@ -1098,14 +1098,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Frank Dellaert: 27년에 걸쳐 94편, 총 12,398회 인용, h=44, 500+ 블록버스터 7편.",
       "paragraphs": [
         "1998년 \"Model-Based Car Tracking Integrated with a Road-Follower\"으로 출발. 첫 500+ 인용 논문까지 1년 걸림: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회). 1000+ 인용 논문: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회).",
         "초기 토픽: Computer science, Robot, Computer vision. 최근 토픽: Computer science, Robot, Computer vision. 피벗 점수 0.24 → 토픽 지속형.",
         "저자수 평균: 초기 3.5명 → 후기 4.2명 (팀 확장).",
         "최다 인용 논문 \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회) — 커리어 초기에 위치.",
-        "제자 후보 추정 19명 — 상위: Ananth Ranganathan(2003~, 우리 마지막저자 9편), Vadim Indelman(2011~, 우리 마지막저자 9편), Luca Carlone(2010~, 우리 마지막저자 8편)."
+        "제자 후보 추정 19명 — 상위: Ananth Ranganathan(2003~, 본인 마지막저자 9편), Vadim Indelman(2011~, 본인 마지막저자 9편), Luca Carlone(2010~, 본인 마지막저자 8편)."
       ],
       "lessons": [
         "초기 1년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1113,7 +1113,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Frank Dellaert: over 27 years, 94 papers, 12,398 total cites, h=44, 7 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1998 with \"Model-Based Car Tracking Integrated with a Road-Follower\". First 500+ cite paper came 1 years in: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695 cites). 1000+ cite paper: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607 cites).",

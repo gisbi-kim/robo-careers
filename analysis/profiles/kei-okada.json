@@ -1480,14 +1480,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Kei Okada: 28년에 걸쳐 224편, 총 3,949회 인용, h=33, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1998년 \"A vision-based legged robot as a research platform\"으로 출발.",
         "초기 토픽: Computer science, Artificial intelligence, Robot. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.13 → 토픽 지속형.",
         "저자수 평균: 초기 4.8명 → 후기 6.0명 (팀 확장).",
         "최다 인용 논문 \"Design, Modeling, and Control of an Aerial Robot DRAGON: A Dual-Rotor-Embedded Multilink Robot With the Ability of Multi-Degree-of-Freedom Aerial Transformation\" (2018, 194회) — 커리어 후기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Hirochika Inoue, Masayuki Inaba. 제자 후보 추정 61명 — 상위: Keita Yoneda(2025~, 우리 마지막저자 4편), Temma Suzuki(2022~, 우리 마지막저자 3편), Takuma Hiraoka(2023~, 우리 마지막저자 2편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Hirochika Inoue, Masayuki Inaba. 제자 후보 추정 61명 — 상위: Keita Yoneda(2025~, 본인 마지막저자 4편), Temma Suzuki(2022~, 본인 마지막저자 3편), Takuma Hiraoka(2023~, 본인 마지막저자 2편)."
       ],
       "lessons": [
         "한 우물 깊게 파는 전략으로 임팩트 달성.",
@@ -1497,7 +1497,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Kei Okada: over 28 years, 224 papers, 3,949 total cites, h=33, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1998 with \"A vision-based legged robot as a research platform\".",

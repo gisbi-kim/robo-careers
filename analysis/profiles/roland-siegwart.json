@@ -2107,14 +2107,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Roland Siegwart: 35년에 걸쳐 442편, 총 35,579회 인용, h=92, 500+ 블록버스터 12편.",
       "paragraphs": [
         "1991년 \"Manipulation with soft fingers: contact force control\"으로 출발. 첫 500+ 인용 논문까지 13년 걸림: \"Design and Control of an Indoor Micro Quadrotor\" (2004, 828회). 1000+ 인용 논문: \"PID vs LQ control techniques applied to an indoor micro quadrotor\" (2004, 1,262회).",
         "초기 토픽: Computer science, Controllability, Object (grammar). 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.17 → 토픽 지속형.",
         "저자수 평균: 초기 3.2명 → 후기 5.9명 (팀 확장).",
         "최다 인용 논문 \"The EuRoC micro aerial vehicle datasets\" (2016, 1,958회) — 커리어 후기에 위치.",
-        "제자 후보 추정 122명 — 상위: Michael Blösch(2010~, 우리 마지막저자 17편), Nicola Tomatis(2000~, 우리 마지막저자 14편), Stephan Weiss(2010~, 우리 마지막저자 14편)."
+        "제자 후보 추정 122명 — 상위: Michael Blösch(2010~, 본인 마지막저자 17편), Nicola Tomatis(2000~, 본인 마지막저자 14편), Stephan Weiss(2010~, 본인 마지막저자 14편)."
       ],
       "lessons": [
         "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
@@ -2124,7 +2124,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Roland Siegwart: over 35 years, 442 papers, 35,579 total cites, h=92, 12 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1991 with \"Manipulation with soft fingers: contact force control\". First 500+ cite paper came 13 years in: \"Design and Control of an Indoor Micro Quadrotor\" (2004, 828 cites). 1000+ cite paper: \"PID vs LQ control techniques applied to an indoor micro quadrotor\" (2004, 1,262 cites).",

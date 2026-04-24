@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Juan I. Nieto · Robo · Careers</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,400&family=JetBrains+Mono:wght@400;500;700&family=Noto+Serif+KR:wght@300;400;500;600;700;900&family=Pretendard:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #1a1614;
+  --paper: #f5f1ea;
+  --paper-2: #ebe4d7;
+  --rule: #1a1614;
+  --accent: #c1440e;
+  --accent-2: #2d4a3e;
+  --muted: #6b6259;
+  --highlight: #f4d35e;
+  --card: #fbf8f1;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Pretendard', 'Noto Serif KR', sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+  word-break: keep-all;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(193, 68, 14, 0.04) 0%, transparent 40%),
+    radial-gradient(circle at 80% 70%, rgba(45, 74, 62, 0.04) 0%, transparent 40%);
+  min-height: 100vh;
+  padding: 40px 24px 96px;
+}
+.grain {
+  position: fixed; inset: 0; pointer-events: none;
+  opacity: 0.35; mix-blend-mode: multiply; z-index: 1;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/><feColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+.container { max-width: 1100px; margin: 0 auto; position: relative; z-index: 2; }
+
+.masthead {
+  border-top: 2px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
+  padding: 14px 0 12px; margin-bottom: 32px;
+  display: flex; justify-content: space-between; align-items: baseline;
+  gap: 24px; flex-wrap: wrap;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--muted);
+}
+.masthead .brand {
+  font-family: 'Fraunces', 'Noto Serif KR', serif;
+  font-weight: 900; font-style: italic;
+  font-size: 1.4rem; color: var(--ink);
+  letter-spacing: -0.02em;
+  text-transform: none;
+}
+.masthead .brand a { color: inherit; text-decoration: none; }
+.masthead .brand .amp { color: var(--accent); }
+.masthead .right { display: flex; gap: 16px; align-items: baseline; }
+.back-link { color: var(--muted); text-decoration: none; border-bottom: 1px dotted currentColor; }
+.back-link:hover { color: var(--ink); }
+
+.lang-tabs { display: inline-flex; gap: 2px; align-items: center; }
+.lang-tab {
+  padding: 2px 8px; cursor: pointer;
+  text-decoration: none; color: var(--muted);
+  border: 1px solid transparent; font-size: 0.66rem;
+}
+.lang-tab.active { color: var(--paper); background: var(--ink); border-color: var(--ink); }
+.lang-tab:not(.active):hover { color: var(--ink); border-color: var(--muted); }
+.lang-sep { color: var(--muted); opacity: 0.35; font-size: 0.6rem; }
+
+.rank-badge {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem; color: var(--muted);
+  letter-spacing: 0.1em; text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.profile-head {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 56px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+  border-bottom: 1px solid var(--ink);
+  align-items: start;
+}
+.profile-name {
+  font-family: 'Fraunces', 'Noto Serif KR', serif;
+  font-weight: 500;
+  font-size: clamp(2.4rem, 5vw, 4rem);
+  line-height: 0.98;
+  letter-spacing: -0.03em;
+  margin-bottom: 18px;
+}
+.profile-name .given { display: block; font-weight: 400; font-style: italic; opacity: 0.7; font-size: 0.55em; margin-bottom: 4px; }
+.profile-name .family { display: block; }
+.profile-tag {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: var(--accent);
+  margin-bottom: 20px;
+}
+.profile-oneline {
+  font-family: 'Noto Serif KR', 'Fraunces', serif;
+  font-size: 1.15rem; line-height: 1.55;
+  letter-spacing: -0.01em;
+}
+.profile-facts {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4px 20px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem;
+  align-self: start;
+  border-left: 2px solid var(--ink);
+  padding-left: 20px;
+}
+.profile-facts dt {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 0.64rem;
+  color: var(--muted);
+  padding-top: 8px;
+}
+.profile-facts dd {
+  font-size: 0.82rem;
+  padding-bottom: 8px;
+  border-bottom: 1px dotted rgba(26, 22, 20, 0.2);
+  font-family: 'Pretendard', sans-serif;
+}
+.profile-facts dd strong { color: var(--accent); font-weight: 700; }
+
+.section { margin-bottom: 56px; }
+.section-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  margin-bottom: 12px;
+  display: flex; align-items: center; gap: 12px;
+}
+.section-label::before {
+  content: ''; width: 24px; height: 1px; background: var(--accent);
+}
+.section-title {
+  font-family: 'Noto Serif KR', 'Fraunces', serif;
+  font-weight: 500;
+  font-size: 1.5rem; line-height: 1.35;
+  letter-spacing: -0.01em;
+  margin-bottom: 24px;
+  max-width: 40ch;
+}
+
+/* phases */
+.phases { display: grid; gap: 0; border-top: 1px solid var(--ink); }
+.phase {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 32px;
+  padding: 28px 0;
+  border-bottom: 1px solid rgba(26, 22, 20, 0.2);
+  transition: background 0.2s;
+}
+.phase:hover { background: var(--paper-2); }
+.phase-meta { font-family: 'JetBrains Mono', monospace; }
+.phase-years {
+  font-size: 1.2rem; font-weight: 700;
+  color: var(--accent); letter-spacing: -0.01em;
+  margin-bottom: 6px;
+}
+.phase-id {
+  font-size: 0.6rem; text-transform: uppercase;
+  letter-spacing: 0.15em; color: var(--muted);
+}
+.phase-body h4 {
+  font-family: 'Noto Serif KR', 'Fraunces', serif;
+  font-weight: 600; font-size: 1.2rem;
+  line-height: 1.4; letter-spacing: -0.01em;
+  margin-bottom: 12px;
+}
+.phase-body p {
+  font-size: 0.95rem; line-height: 1.75;
+  max-width: 70ch;
+}
+.phase-body .hl {
+  background: linear-gradient(180deg, transparent 60%, var(--highlight) 60%);
+  padding: 0 2px; font-weight: 500;
+}
+.phase-body em {
+  font-style: italic;
+  font-family: 'Fraunces', 'Noto Serif KR', serif;
+  color: var(--accent-2);
+}
+.phase-body strong { color: var(--accent); font-weight: 700; }
+
+/* themes */
+.themes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1px; background: var(--ink); border: 1px solid var(--ink);
+}
+.theme { background: var(--paper); padding: 28px 24px; }
+.theme-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 2.4rem; font-weight: 500;
+  color: var(--accent);
+  line-height: 1; margin-bottom: 12px;
+  letter-spacing: -0.02em;
+}
+.theme h5 {
+  font-family: 'Noto Serif KR', 'Fraunces', serif;
+  font-weight: 600; font-size: 1.05rem;
+  line-height: 1.4; margin-bottom: 10px;
+  letter-spacing: -0.01em;
+}
+.theme p { font-size: 0.9rem; line-height: 1.7; color: var(--muted); }
+
+/* pullquote */
+.pullquote {
+  font-family: 'Noto Serif KR', 'Fraunces', serif;
+  font-weight: 400;
+  font-size: clamp(1.2rem, 2.2vw, 1.6rem);
+  line-height: 1.5; max-width: 52ch;
+  margin: 40px auto;
+  padding: 36px 24px;
+  border-top: 1px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
+  text-align: center; position: relative;
+  letter-spacing: -0.01em;
+}
+.pullquote::before {
+  content: '"';
+  font-family: 'Fraunces', serif;
+  font-size: 4rem; color: var(--accent);
+  position: absolute; top: -10px; left: 50%;
+  transform: translateX(-50%);
+  background: var(--paper); padding: 0 12px; line-height: 1;
+}
+
+/* highlights */
+.highlights { display: grid; grid-template-columns: 1fr; gap: 0; }
+.hl-item {
+  display: grid; grid-template-columns: auto 1fr auto;
+  gap: 20px; padding: 14px 0;
+  border-bottom: 1px dotted rgba(26, 22, 20, 0.25);
+  align-items: baseline;
+}
+.hl-year {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.78rem; font-weight: 700;
+  color: var(--accent); min-width: 60px;
+}
+.hl-title { font-family: 'Fraunces', serif; font-size: 1rem; line-height: 1.4; }
+.hl-title .venue {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem; text-transform: uppercase;
+  letter-spacing: 0.1em; color: var(--muted);
+  margin-right: 8px; padding: 2px 6px;
+  background: var(--paper-2);
+  border: 1px solid rgba(26, 22, 20, 0.2);
+}
+.hl-cites { font-family: 'JetBrains Mono', monospace; font-size: 0.72rem; color: var(--muted); white-space: nowrap; }
+.hl-cites strong { color: var(--ink); font-weight: 700; font-size: 0.88rem; }
+
+/* lineage */
+.lineage-grid {
+  display: grid; grid-template-columns: 1fr 1.4fr;
+  gap: 40px;
+}
+.lineage-block h5 {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem; text-transform: uppercase;
+  letter-spacing: 0.14em; color: var(--muted);
+  margin-bottom: 12px;
+}
+.lineage-item {
+  padding: 10px 0; border-bottom: 1px dotted rgba(26, 22, 20, 0.2);
+  display: flex; justify-content: space-between; gap: 16px;
+  align-items: baseline;
+}
+.lineage-item .name {
+  font-family: 'Fraunces', 'Noto Serif KR', serif;
+  font-weight: 600; font-size: 0.95rem;
+}
+.lineage-item a { color: inherit; text-decoration: none; border-bottom: 1px dotted currentColor; }
+.lineage-item a:hover { color: var(--accent); }
+.lineage-item .sig {
+  font-family: 'JetBrains Mono', monospace; font-size: 0.68rem;
+  color: var(--muted); white-space: nowrap;
+}
+.lineage-more { font-family: 'JetBrains Mono', monospace; font-size: 0.72rem; color: var(--muted); margin-top: 8px; }
+
+@media (max-width: 820px) {
+  .profile-head { grid-template-columns: 1fr; gap: 32px; }
+  .phase { grid-template-columns: 1fr; gap: 8px; }
+  .phase-meta { display: flex; align-items: baseline; gap: 12px; }
+  .lineage-grid { grid-template-columns: 1fr; gap: 24px; }
+}
+
+.foot {
+  margin-top: 80px; padding-top: 24px;
+  border-top: 1px solid var(--ink);
+  display: flex; justify-content: space-between;
+  flex-wrap: wrap; gap: 16px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem; text-transform: uppercase;
+  letter-spacing: 0.12em; color: var(--muted);
+}
+.foot a { color: var(--muted); }
+</style>
+</head>
+<body>
+<div class="grain"></div>
+<div class="container">
+
+  <header class="masthead">
+    <div class="brand"><a href="../index.html">Robo <span class="amp">·</span> Careers</a></div>
+    <div class="right">
+      <span><a class="back-link" href="../index.html" id="backLink">← home</a></span>
+      <span class="lang-tabs">
+        <a class="lang-tab" data-lang="en" href="#en">EN</a>
+        <span class="lang-sep">/</span>
+        <a class="lang-tab" data-lang="ko" href="#ko">KO</a>
+      </span>
+    </div>
+  </header>
+
+  <div class="rank-badge" id="rankBadge"></div>
+
+  <div class="profile-head">
+    <div>
+      <div class="profile-tag" id="tagEl"></div>
+      <h1 class="profile-name" id="nameEl"></h1>
+      <p class="profile-oneline" id="oneLineEl"></p>
+    </div>
+    <dl class="profile-facts" id="factsEl"></dl>
+  </div>
+
+  <div class="section" id="phasesSection">
+    <div class="section-label" id="phasesLabel"></div>
+    <h3 class="section-title" id="phasesTitle"></h3>
+    <div class="phases" id="phasesEl"></div>
+  </div>
+
+  <div class="pullquote" id="pullquoteEl"></div>
+
+  <div class="section" id="themesSection">
+    <div class="section-label" id="themesLabel"></div>
+    <h3 class="section-title" id="themesTitle"></h3>
+    <div class="themes" id="themesEl"></div>
+  </div>
+
+  <div class="section" id="hlSection">
+    <div class="section-label" id="hlLabel"></div>
+    <h3 class="section-title" id="hlTitle"></h3>
+    <div class="highlights" id="hlEl"></div>
+  </div>
+
+  <div class="section" id="lineageSection">
+    <div class="section-label" id="lineageLabel"></div>
+    <h3 class="section-title" id="lineageTitle"></h3>
+    <div class="lineage-grid" id="lineageEl"></div>
+  </div>
+
+  <footer class="foot">
+    <span id="footData"></span>
+    <span><a href="../index.html">← All researchers</a></span>
+    <span>Built 2026-04-24</span>
+  </footer>
+</div>
+
+<script>
+const DATA = {"meta": {"name": "Juan I. Nieto", "given": "Juan I.", "family": "Nieto", "slug": "juan-i-nieto", "rank": 65, "natural_rank": 65, "force_included": false, "composite": 6.220285975563331}, "en": {"tagline": "Computer science → Artificial intelligence", "oneLine": "Began publishing in 2003 and is still active 21 years on. Anchored to Computer science throughout, with steady incremental work. The landmark is the 2017 IROS paper \"Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board…\" (584 cites). The coauthor signal suggests 31 likely students — at this scale, read them as a group leader running a school, not a solo producer.", "facts": [["Period", "<strong>2003 — 2023</strong>"], ["Papers", "97 · 7,483 cites · h=48"], ["Core", "Computer vision"], ["Landmark", "Voxblox: Incremental 3D Euclidean Signed Distan…"], ["Style", "late-bloomer-2"], ["Shift", "Simultaneous localization and mapping → Merge (version control)"]], "phases": [{"years": "2003 — 2007", "id": "I", "title": "Opening bet — Simultaneous localization and mapping · Data association", "body": "Between 2003 and 2007, <strong>10</strong> papers were produced — a measured pace. The center of gravity rests on <span class='hl'>Simultaneous localization and mapping</span>, <span class='hl'>Data association</span>, the axis that threads through most of the era's output. The face of the period is <em>\"Consistency of the EKF-SLAM Algorithm\"</em> — published in IROS 2006, accumulating 564 citations and becoming a standard reference in the sub-field. Close behind: <em>\"Consistency of the FastSLAM Algorithm\"</em> (ICRA 2006, 203 cites). The era's working axis reads <strong>José E. Guivant</strong>, <strong>Eduardo Mario Nebot</strong>, <strong>Tim Bailey</strong>."}, {"years": "2008 — 2012", "id": "II", "title": "Finding the orbit — Artificial intelligence · Probabilistic logic", "body": "Across the 2008–2012 stretch, <strong>10</strong> papers were produced — a measured pace. The center of gravity rests on <span class='hl'>Artificial intelligence</span>, <span class='hl'>Probabilistic logic</span>, the axis that threads through most of the era's output. The era's working axis reads <strong>Eduardo Mario Nebot</strong>, <strong>Gabriel Agamennoni</strong>, <strong>Roman Katz</strong>. It is in this window that several junior coauthors appear to have begun their own careers under Nieto — Karl Granström, Gabriel Agamennoni. The transition from solo work to group supervision is visible here."}, {"years": "2013 — 2017", "id": "III", "title": "Era of Artificial intelligence · Computer vision", "body": "Over the five years from 2013 to 2017, <strong>23</strong> papers were produced — a measured pace. The center of gravity rests on <span class='hl'>Artificial intelligence</span>, <span class='hl'>Computer vision</span>, the axis that threads through most of the era's output. The face of the period is <em>\"Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board MAV planning\"</em> — published in IROS 2017, accumulating 584 citations and becoming a standard reference in the sub-field. Close behind: <em>\"From perception to decision: A data-driven approach to end-to-end motion p…\"</em> (ICRA 2017, 423 cites). The era's working axis reads <strong>Roland Siegwart</strong>, <strong>Zachary Taylor</strong>, <strong>Igor Gilitschenski</strong>. It is in this window that several junior coauthors appear to have begun their own careers under Nieto — Zachary Taylor, Tonci Novkovic, Mina Kamel, Fadri Furrer, + 15 more. The transition from solo work to group supervision is visible here."}, {"years": "2018 — 2022", "id": "IV", "title": "Mature expansion — Artificial intelligence · Computer vision", "body": "Then, from 2018 through 2022, <strong>52</strong> papers land in this stretch. The center of gravity rests on <span class='hl'>Artificial intelligence</span>, <span class='hl'>Computer vision</span>, the axis that threads through most of the era's output. The face of the period is <em>\"weedNet: Dense Semantic Weed Classification Using Multispectral Images and MAV for Smart…\"</em> — published in RA-L 2018, accumulating 355 citations and becoming a standard reference in the sub-field. Close behind: <em>\"An Efficient Sampling-Based Method for Online Informative Path Planning in…\"</em> (RA-L 2020, 289 cites). The era's working axis reads <strong>Roland Siegwart</strong>, <strong>Cesar Cadena</strong>, <strong>Lionel Ott</strong>. It is in this window that several junior coauthors appear to have begun their own careers under Nieto — Margarita Grinvald, Maximilian Brunner, Michael Pantic, Florian Tschopp, + 6 more. The transition from solo work to group supervision is visible here."}, {"years": "2023 — 2023", "id": "V", "title": "Latest terrain — Merge (version control) · Artificial intelligence", "body": "In the 2023–2023 window, the window is a quieter one — 2 papers in total. The center of gravity rests on <span class='hl'>Merge (version control)</span>, <span class='hl'>Artificial intelligence</span>, the axis that threads through most of the era's output. The era's working axis reads <strong>Marius Fehr</strong>, <strong>Cesar Cadena</strong>, <strong>Roland Siegwart</strong>."}], "themes": [{"num": "01", "title": "The Computer vision anchor never moved", "text": "Computer vision appears among the top topics in most of the 5 5-year windows. Adjacent topics drift, tools get replaced generation by generation, but the central axis never yields. A classic artisan's arc — impact achieved through depth, not breadth."}, {"num": "02", "title": "From solo author to lab head", "text": "Authors per paper grew from 3.6 early to 5.8 late — the canonical PI-scaling arc. 31 likely students underwrite that scale in the coauthor data. A textbook progression from individual contributor to group leader."}, {"num": "03", "title": "Students as the real record — mastery measured in people", "text": "Launched from Eduardo Mario Nebot's network, this researcher now sits atop an estimated 31 likely students by coauthor pattern. Names on that list include Zachary Taylor, Tonci Novkovic, Mina Kamel, Fadri Furrer. None have yet re-entered the ranking, but at this volume it reads like a matter of time. The longest-lived legacy of any working scientist is, in the end, the other scientists they trained."}], "pullquote": "31 students — that's the real body of work.", "highlights": [{"year": 2017, "venue": "IROS", "title": "Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board MAV planning", "cites": 584}, {"year": 2006, "venue": "IROS", "title": "Consistency of the EKF-SLAM Algorithm", "cites": 564}, {"year": 2017, "venue": "ICRA", "title": "From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots", "cites": 423}, {"year": 2018, "venue": "RA-L", "title": "weedNet: Dense Semantic Weed Classification Using Multispectral Images and MAV for Smart Farming", "cites": 355}, {"year": 2017, "venue": "ICRA", "title": "SegMatch: Segment based place recognition in 3D point clouds", "cites": 319}, {"year": 2020, "venue": "RA-L", "title": "An Efficient Sampling-Based Method for Online Informative Path Planning in Unknown Environments", "cites": 289}, {"year": 2016, "venue": "IROS", "title": "Continuous-time trajectory optimization for online UAV replanning", "cites": 245}, {"year": 2019, "venue": "RA-L", "title": "Volumetric Instance-Aware Semantic Mapping and 3D Object Discovery", "cites": 217}], "lineage": {"advisors": [{"name": "Eduardo Mario Nebot", "advisor_active_from": 1996, "early_copubs_as_our_first_author": 3, "advisor_last_author_count": 2, "total_copubs": 15}], "students": [{"name": "Zachary Taylor", "student_first_year": 2013, "copubs_in_first_5yr": 10, "total_copubs": 11, "student_first_author_count": 3, "we_last_author_count": 6, "last_copub_year": 2020}, {"name": "Tonci Novkovic", "student_first_year": 2017, "copubs_in_first_5yr": 6, "total_copubs": 7, "student_first_author_count": 2, "we_last_author_count": 6, "last_copub_year": 2023}, {"name": "Mina Kamel", "student_first_year": 2016, "copubs_in_first_5yr": 8, "total_copubs": 8, "student_first_author_count": 1, "we_last_author_count": 6, "last_copub_year": 2020}, {"name": "Fadri Furrer", "student_first_year": 2016, "copubs_in_first_5yr": 5, "total_copubs": 6, "student_first_author_count": 1, "we_last_author_count": 5, "last_copub_year": 2023}, {"name": "Margarita Grinvald", "student_first_year": 2018, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 2, "we_last_author_count": 4, "last_copub_year": 2023}, {"name": "Maximilian Brunner", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 1, "we_last_author_count": 4, "last_copub_year": 2021}, {"name": "Michael Pantic", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 1, "we_last_author_count": 4, "last_copub_year": 2021}, {"name": "Helen Oleynikova", "student_first_year": 2014, "copubs_in_first_5yr": 6, "total_copubs": 7, "student_first_author_count": 4, "we_last_author_count": 3, "last_copub_year": 2020}, {"name": "Abel Gawel", "student_first_year": 2016, "copubs_in_first_5yr": 6, "total_copubs": 6, "student_first_author_count": 3, "we_last_author_count": 3, "last_copub_year": 2019}, {"name": "Florian Tschopp", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 2, "we_last_author_count": 3, "last_copub_year": 2023}, {"name": "Karen Bodie", "student_first_year": 2016, "copubs_in_first_5yr": 4, "total_copubs": 4, "student_first_author_count": 2, "we_last_author_count": 3, "last_copub_year": 2021}, {"name": "Renaud Dubé", "student_first_year": 2016, "copubs_in_first_5yr": 6, "total_copubs": 6, "student_first_author_count": 5, "we_last_author_count": 2, "last_copub_year": 2020}, {"name": "Weixuan Zhang", "student_first_year": 2016, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 2, "we_last_author_count": 2, "last_copub_year": 2021}, {"name": "Andrea Tagliabue", "student_first_year": 2017, "copubs_in_first_5yr": 2, "total_copubs": 2, "student_first_author_count": 2, "we_last_author_count": 2, "last_copub_year": 2019}, {"name": "Hannes Sommer", "student_first_year": 2014, "copubs_in_first_5yr": 5, "total_copubs": 6, "student_first_author_count": 1, "we_last_author_count": 2, "last_copub_year": 2020}, {"name": "Raghav Khanna", "student_first_year": 2017, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 1, "we_last_author_count": 2, "last_copub_year": 2020}, {"name": "Michel Breyer", "student_first_year": 2019, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 1, "we_last_author_count": 2, "last_copub_year": 2021}, {"name": "Lukas Bernreiter", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 3, "we_last_author_count": 1, "last_copub_year": 2023}, {"name": "Marija Popovic", "student_first_year": 2017, "copubs_in_first_5yr": 4, "total_copubs": 4, "student_first_author_count": 3, "we_last_author_count": 1, "last_copub_year": 2020}, {"name": "Mark Pfeiffer", "student_first_year": 2016, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 3, "we_last_author_count": 1, "last_copub_year": 2018}, {"name": "Anurag Sai Vempati", "student_first_year": 2017, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 3, "we_last_author_count": 1, "last_copub_year": 2020}, {"name": "Lukas Schmid", "student_first_year": 2020, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 3, "we_last_author_count": 1, "last_copub_year": 2022}, {"name": "Andrei Cramariuc", "student_first_year": 2018, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 2, "we_last_author_count": 1, "last_copub_year": 2023}, {"name": "Alexander Millane", "student_first_year": 2018, "copubs_in_first_5yr": 4, "total_copubs": 4, "student_first_author_count": 2, "we_last_author_count": 1, "last_copub_year": 2020}, {"name": "Karl Granström", "student_first_year": 2009, "copubs_in_first_5yr": 2, "total_copubs": 2, "student_first_author_count": 2, "we_last_author_count": 1, "last_copub_year": 2011}, {"name": "Victor Reijgwart", "student_first_year": 2020, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 1, "we_last_author_count": 1, "last_copub_year": 2023}, {"name": "Thomas Schneider", "student_first_year": 2016, "copubs_in_first_5yr": 2, "total_copubs": 2, "student_first_author_count": 1, "we_last_author_count": 1, "last_copub_year": 2019}, {"name": "Gabriel Agamennoni", "student_first_year": 2009, "copubs_in_first_5yr": 5, "total_copubs": 6, "student_first_author_count": 4, "we_last_author_count": 0, "last_copub_year": 2016}, {"name": "Daniel Dugas", "student_first_year": 2017, "copubs_in_first_5yr": 6, "total_copubs": 6, "student_first_author_count": 2, "we_last_author_count": 0, "last_copub_year": 2021}, {"name": "Sundara Tejaswi Digumarti", "student_first_year": 2015, "copubs_in_first_5yr": 2, "total_copubs": 2, "student_first_author_count": 2, "we_last_author_count": 0, "last_copub_year": 2019}, {"name": "Marcin Dymczyk", "student_first_year": 2015, "copubs_in_first_5yr": 2, "total_copubs": 2, "student_first_author_count": 1, "we_last_author_count": 0, "last_copub_year": 2020}], "students_shown": [{"name": "Zachary Taylor", "student_first_year": 2013, "copubs_in_first_5yr": 10, "total_copubs": 11, "student_first_author_count": 3, "we_last_author_count": 6, "last_copub_year": 2020}, {"name": "Tonci Novkovic", "student_first_year": 2017, "copubs_in_first_5yr": 6, "total_copubs": 7, "student_first_author_count": 2, "we_last_author_count": 6, "last_copub_year": 2023}, {"name": "Mina Kamel", "student_first_year": 2016, "copubs_in_first_5yr": 8, "total_copubs": 8, "student_first_author_count": 1, "we_last_author_count": 6, "last_copub_year": 2020}, {"name": "Fadri Furrer", "student_first_year": 2016, "copubs_in_first_5yr": 5, "total_copubs": 6, "student_first_author_count": 1, "we_last_author_count": 5, "last_copub_year": 2023}, {"name": "Margarita Grinvald", "student_first_year": 2018, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 2, "we_last_author_count": 4, "last_copub_year": 2023}, {"name": "Maximilian Brunner", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 1, "we_last_author_count": 4, "last_copub_year": 2021}, {"name": "Michael Pantic", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 1, "we_last_author_count": 4, "last_copub_year": 2021}, {"name": "Helen Oleynikova", "student_first_year": 2014, "copubs_in_first_5yr": 6, "total_copubs": 7, "student_first_author_count": 4, "we_last_author_count": 3, "last_copub_year": 2020}, {"name": "Abel Gawel", "student_first_year": 2016, "copubs_in_first_5yr": 6, "total_copubs": 6, "student_first_author_count": 3, "we_last_author_count": 3, "last_copub_year": 2019}, {"name": "Florian Tschopp", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 2, "we_last_author_count": 3, "last_copub_year": 2023}, {"name": "Karen Bodie", "student_first_year": 2016, "copubs_in_first_5yr": 4, "total_copubs": 4, "student_first_author_count": 2, "we_last_author_count": 3, "last_copub_year": 2021}, {"name": "Renaud Dubé", "student_first_year": 2016, "copubs_in_first_5yr": 6, "total_copubs": 6, "student_first_author_count": 5, "we_last_author_count": 2, "last_copub_year": 2020}], "students_rest": 19}, "archetype": "late-bloomer-2"}, "ko": {"tagline": "Computer science → Artificial intelligence", "oneLine": "2003년에 출판을 시작해 21년째 현장에 머물고 있는 연구자. Computer science를 중심축으로 삼아 일관되게 연구를 이어온 유형. 대표작은 2017년 IROS에 실린 \"Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board…\" (584회 인용). 공저 패턴으로 추정되는 제자만 31명 — 이 정도 규모에 이르면 개인 생산자가 아니라 학파를 운영하는 그룹 리더로 읽어야 한다.", "facts": [["시기", "<strong>2003 — 2023</strong>"], ["논문 수", "97편 · 인용 7,483 · h=48"], ["핵심", "Computer vision"], ["대표작", "Voxblox: Incremental 3D Euclidean Signed Distan…"], ["스타일", "late-bloomer-2"], ["전환", "Simultaneous localization and mapping → Merge (version control)"]], "phases": [{"years": "2003 — 2007", "id": "I", "title": "출발점 — Simultaneous localization and mapping · Data association", "body": "2003년부터 2007년 사이의 5년간, <strong>10편</strong>의 논문이 이 기간의 출력물로 남는다. 연구의 무게 중심은 <span class='hl'>Simultaneous localization and mapping</span>, <span class='hl'>Data association</span> 위에 놓여 있었고, 이 축은 이 시기 대부분의 성과물을 관통한다. 이 기간의 얼굴이 된 논문은 <em>\"Consistency of the EKF-SLAM Algorithm\"</em>이다. IROS 2006에 실린 이 글은 지금까지 564회 인용되며 이 분야의 표준 참조로 자리 잡았다. 그 뒤를 잇는 것이 2006 ICRA의 <em>\"Consistency of the FastSLAM Algorithm\"</em>(203회)이다. 이 시기를 함께 끌어간 축은 <strong>José E. Guivant</strong>, <strong>Eduardo Mario Nebot</strong>, <strong>Tim Bailey</strong>으로 요약된다."}, {"years": "2008 — 2012", "id": "II", "title": "궤도의 안착 — Artificial intelligence · Probabilistic logic", "body": "이어진 2008년대 전반, 2008–2012년의 기간 동안 <strong>10편</strong>의 논문이 이 기간의 출력물로 남는다. 연구의 무게 중심은 <span class='hl'>Artificial intelligence</span>, <span class='hl'>Probabilistic logic</span> 위에 놓여 있었고, 이 축은 이 시기 대부분의 성과물을 관통한다. 이 시기를 함께 끌어간 축은 <strong>Eduardo Mario Nebot</strong>, <strong>Gabriel Agamennoni</strong>, <strong>Roman Katz</strong>으로 요약된다. 바로 이 시기에 Nieto의 지도 아래에서 첫 논문을 낸 것으로 보이는 후배 연구자들이 나타난다 — Karl Granström, Gabriel Agamennoni. 개인 연구에서 그룹 운영으로의 전환이 이 시기 안에서 관찰된다."}, {"years": "2013 — 2017", "id": "III", "title": "Artificial intelligence · Computer vision의 시기", "body": "그 뒤 2013년부터 2017년까지, <strong>23편</strong>의 논문이 이 기간의 출력물로 남는다. 연구의 무게 중심은 <span class='hl'>Artificial intelligence</span>, <span class='hl'>Computer vision</span> 위에 놓여 있었고, 이 축은 이 시기 대부분의 성과물을 관통한다. 이 기간의 얼굴이 된 논문은 <em>\"Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board MAV planning\"</em>이다. IROS 2017에 실린 이 글은 지금까지 584회 인용되며 이 분야의 표준 참조로 자리 잡았다. 그 뒤를 잇는 것이 2017 ICRA의 <em>\"From perception to decision: A data-driven approach to end-to-end motion p…\"</em>(423회)이다. 이 시기를 함께 끌어간 축은 <strong>Roland Siegwart</strong>, <strong>Zachary Taylor</strong>, <strong>Igor Gilitschenski</strong>으로 요약된다. 바로 이 시기에 Nieto의 지도 아래에서 첫 논문을 낸 것으로 보이는 후배 연구자들이 나타난다 — Zachary Taylor, Tonci Novkovic, Mina Kamel, Fadri Furrer 외 15명. 개인 연구에서 그룹 운영으로의 전환이 이 시기 안에서 관찰된다."}, {"years": "2018 — 2022", "id": "IV", "title": "성숙기의 확장 — Artificial intelligence · Computer vision", "body": "2018년 무렵부터 2022년에 걸쳐, 총 <strong>52편</strong>의 논문이 쏟아졌다. 연구의 무게 중심은 <span class='hl'>Artificial intelligence</span>, <span class='hl'>Computer vision</span> 위에 놓여 있었고, 이 축은 이 시기 대부분의 성과물을 관통한다. 이 기간의 얼굴이 된 논문은 <em>\"weedNet: Dense Semantic Weed Classification Using Multispectral Images and MAV for Smart…\"</em>이다. RA-L 2018에 실린 이 글은 지금까지 355회 인용되며 이 분야의 표준 참조로 자리 잡았다. 그 뒤를 잇는 것이 2020 RA-L의 <em>\"An Efficient Sampling-Based Method for Online Informative Path Planning in…\"</em>(289회)이다. 이 시기를 함께 끌어간 축은 <strong>Roland Siegwart</strong>, <strong>Cesar Cadena</strong>, <strong>Lionel Ott</strong>으로 요약된다. 바로 이 시기에 Nieto의 지도 아래에서 첫 논문을 낸 것으로 보이는 후배 연구자들이 나타난다 — Margarita Grinvald, Maximilian Brunner, Michael Pantic, Florian Tschopp 외 6명. 개인 연구에서 그룹 운영으로의 전환이 이 시기 안에서 관찰된다."}, {"years": "2023 — 2023", "id": "V", "title": "최근의 지형 — Merge (version control) · Artificial intelligence", "body": "2023–2023년으로 이어진 이 시기에, 출판은 2편으로 비교적 조용히 지나간다. 연구의 무게 중심은 <span class='hl'>Merge (version control)</span>, <span class='hl'>Artificial intelligence</span> 위에 놓여 있었고, 이 축은 이 시기 대부분의 성과물을 관통한다. 이 시기를 함께 끌어간 축은 <strong>Marius Fehr</strong>, <strong>Cesar Cadena</strong>, <strong>Roland Siegwart</strong>으로 요약된다."}], "themes": [{"num": "01", "title": "Computer vision라는 축은 한 번도 흔들리지 않았다", "text": "5개 5년 구간 중 대부분에서 Computer vision가 상위 주제로 반복 등장한다. 주변 토픽은 바뀌고 도구는 세대가 지나면서 교체되었지만, 중심축은 단 한 번도 비켜선 적이 없다. 임팩트를 폭이 아닌 깊이로 만들어낸 전형적인 장인형 경력."}, {"num": "02", "title": "혼자 쓰던 사람에서 랩을 이끄는 사람으로", "text": "논문당 평균 저자수가 초기 3.6명에서 후기 5.8명으로 1명 이상 늘어났다. 팀을 꾸리고 처리량을 늘리는 전형적인 PI 전환 궤적이다. 공저 패턴으로 추정되는 제자 31명이 그 스케일이 실재함을 뒷받침한다. 박사 후반부나 PI 초반의 단독 연구자가 그룹 리더로 성장한 전형적 경로."}, {"num": "03", "title": "논문보다 제자 — 대가의 실체는 사람의 배출", "text": " 본인은 Eduardo Mario Nebot의 네트워크 안에서 경력을 시작한 것으로 보이지만, 지금은 공저 패턴 기준으로 31명 규모의 제자 후보를 거느린 그룹으로 성장했다. 대표 이름으로는 Zachary Taylor, Tonci Novkovic, Mina Kamel, Fadri Furrer이 있다. top 순위 안에 다시 진입한 제자는 아직 없지만, 규모를 감안하면 시간의 문제에 가깝다. 한 연구자가 주어진 분야에 남기는 것 중 가장 오래 가는 유산은, 결국 자신이 길러낸 또 다른 연구자들이다."}], "pullquote": "제자 31명 — 그게 진짜 연구 업적이다.", "highlights": [{"year": 2017, "venue": "IROS", "title": "Voxblox: Incremental 3D Euclidean Signed Distance Fields for on-board MAV planning", "cites": 584}, {"year": 2006, "venue": "IROS", "title": "Consistency of the EKF-SLAM Algorithm", "cites": 564}, {"year": 2017, "venue": "ICRA", "title": "From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots", "cites": 423}, {"year": 2018, "venue": "RA-L", "title": "weedNet: Dense Semantic Weed Classification Using Multispectral Images and MAV for Smart Farming", "cites": 355}, {"year": 2017, "venue": "ICRA", "title": "SegMatch: Segment based place recognition in 3D point clouds", "cites": 319}, {"year": 2020, "venue": "RA-L", "title": "An Efficient Sampling-Based Method for Online Informative Path Planning in Unknown Environments", "cites": 289}, {"year": 2016, "venue": "IROS", "title": "Continuous-time trajectory optimization for online UAV replanning", "cites": 245}, {"year": 2019, "venue": "RA-L", "title": "Volumetric Instance-Aware Semantic Mapping and 3D Object Discovery", "cites": 217}], "lineage": {"advisors": [{"name": "Eduardo Mario Nebot", "advisor_active_from": 1996, "early_copubs_as_our_first_author": 3, "advisor_last_author_count": 2, "total_copubs": 15}], "students": [{"name": "Zachary Taylor", "student_first_year": 2013, "copubs_in_first_5yr": 10, "total_copubs": 11, "student_first_author_count": 3, "we_last_author_count": 6, "last_copub_year": 2020}, {"name": "Tonci Novkovic", "student_first_year": 2017, "copubs_in_first_5yr": 6, "total_copubs": 7, "student_first_author_count": 2, "we_last_author_count": 6, "last_copub_year": 2023}, {"name": "Mina Kamel", "student_first_year": 2016, "copubs_in_first_5yr": 8, "total_copubs": 8, "student_first_author_count": 1, "we_last_author_count": 6, "last_copub_year": 2020}, {"name": "Fadri Furrer", "student_first_year": 2016, "copubs_in_first_5yr": 5, "total_copubs": 6, "student_first_author_count": 1, "we_last_author_count": 5, "last_copub_year": 2023}, {"name": "Margarita Grinvald", "student_first_year": 2018, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 2, "we_last_author_count": 4, "last_copub_year": 2023}, {"name": "Maximilian Brunner", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 1, "we_last_author_count": 4, "last_copub_year": 2021}, {"name": "Michael Pantic", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 1, "we_last_author_count": 4, "last_copub_year": 2021}, {"name": "Helen Oleynikova", "student_first_year": 2014, "copubs_in_first_5yr": 6, "total_copubs": 7, "student_first_author_count": 4, "we_last_author_count": 3, "last_copub_year": 2020}, {"name": "Abel Gawel", "student_first_year": 2016, "copubs_in_first_5yr": 6, "total_copubs": 6, "student_first_author_count": 3, "we_last_author_count": 3, "last_copub_year": 2019}, {"name": "Florian Tschopp", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 2, "we_last_author_count": 3, "last_copub_year": 2023}, {"name": "Karen Bodie", "student_first_year": 2016, "copubs_in_first_5yr": 4, "total_copubs": 4, "student_first_author_count": 2, "we_last_author_count": 3, "last_copub_year": 2021}, {"name": "Renaud Dubé", "student_first_year": 2016, "copubs_in_first_5yr": 6, "total_copubs": 6, "student_first_author_count": 5, "we_last_author_count": 2, "last_copub_year": 2020}, {"name": "Weixuan Zhang", "student_first_year": 2016, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 2, "we_last_author_count": 2, "last_copub_year": 2021}, {"name": "Andrea Tagliabue", "student_first_year": 2017, "copubs_in_first_5yr": 2, "total_copubs": 2, "student_first_author_count": 2, "we_last_author_count": 2, "last_copub_year": 2019}, {"name": "Hannes Sommer", "student_first_year": 2014, "copubs_in_first_5yr": 5, "total_copubs": 6, "student_first_author_count": 1, "we_last_author_count": 2, "last_copub_year": 2020}, {"name": "Raghav Khanna", "student_first_year": 2017, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 1, "we_last_author_count": 2, "last_copub_year": 2020}, {"name": "Michel Breyer", "student_first_year": 2019, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 1, "we_last_author_count": 2, "last_copub_year": 2021}, {"name": "Lukas Bernreiter", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 3, "we_last_author_count": 1, "last_copub_year": 2023}, {"name": "Marija Popovic", "student_first_year": 2017, "copubs_in_first_5yr": 4, "total_copubs": 4, "student_first_author_count": 3, "we_last_author_count": 1, "last_copub_year": 2020}, {"name": "Mark Pfeiffer", "student_first_year": 2016, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 3, "we_last_author_count": 1, "last_copub_year": 2018}, {"name": "Anurag Sai Vempati", "student_first_year": 2017, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 3, "we_last_author_count": 1, "last_copub_year": 2020}, {"name": "Lukas Schmid", "student_first_year": 2020, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 3, "we_last_author_count": 1, "last_copub_year": 2022}, {"name": "Andrei Cramariuc", "student_first_year": 2018, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 2, "we_last_author_count": 1, "last_copub_year": 2023}, {"name": "Alexander Millane", "student_first_year": 2018, "copubs_in_first_5yr": 4, "total_copubs": 4, "student_first_author_count": 2, "we_last_author_count": 1, "last_copub_year": 2020}, {"name": "Karl Granström", "student_first_year": 2009, "copubs_in_first_5yr": 2, "total_copubs": 2, "student_first_author_count": 2, "we_last_author_count": 1, "last_copub_year": 2011}, {"name": "Victor Reijgwart", "student_first_year": 2020, "copubs_in_first_5yr": 3, "total_copubs": 3, "student_first_author_count": 1, "we_last_author_count": 1, "last_copub_year": 2023}, {"name": "Thomas Schneider", "student_first_year": 2016, "copubs_in_first_5yr": 2, "total_copubs": 2, "student_first_author_count": 1, "we_last_author_count": 1, "last_copub_year": 2019}, {"name": "Gabriel Agamennoni", "student_first_year": 2009, "copubs_in_first_5yr": 5, "total_copubs": 6, "student_first_author_count": 4, "we_last_author_count": 0, "last_copub_year": 2016}, {"name": "Daniel Dugas", "student_first_year": 2017, "copubs_in_first_5yr": 6, "total_copubs": 6, "student_first_author_count": 2, "we_last_author_count": 0, "last_copub_year": 2021}, {"name": "Sundara Tejaswi Digumarti", "student_first_year": 2015, "copubs_in_first_5yr": 2, "total_copubs": 2, "student_first_author_count": 2, "we_last_author_count": 0, "last_copub_year": 2019}, {"name": "Marcin Dymczyk", "student_first_year": 2015, "copubs_in_first_5yr": 2, "total_copubs": 2, "student_first_author_count": 1, "we_last_author_count": 0, "last_copub_year": 2020}], "students_shown": [{"name": "Zachary Taylor", "student_first_year": 2013, "copubs_in_first_5yr": 10, "total_copubs": 11, "student_first_author_count": 3, "we_last_author_count": 6, "last_copub_year": 2020}, {"name": "Tonci Novkovic", "student_first_year": 2017, "copubs_in_first_5yr": 6, "total_copubs": 7, "student_first_author_count": 2, "we_last_author_count": 6, "last_copub_year": 2023}, {"name": "Mina Kamel", "student_first_year": 2016, "copubs_in_first_5yr": 8, "total_copubs": 8, "student_first_author_count": 1, "we_last_author_count": 6, "last_copub_year": 2020}, {"name": "Fadri Furrer", "student_first_year": 2016, "copubs_in_first_5yr": 5, "total_copubs": 6, "student_first_author_count": 1, "we_last_author_count": 5, "last_copub_year": 2023}, {"name": "Margarita Grinvald", "student_first_year": 2018, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 2, "we_last_author_count": 4, "last_copub_year": 2023}, {"name": "Maximilian Brunner", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 1, "we_last_author_count": 4, "last_copub_year": 2021}, {"name": "Michael Pantic", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 1, "we_last_author_count": 4, "last_copub_year": 2021}, {"name": "Helen Oleynikova", "student_first_year": 2014, "copubs_in_first_5yr": 6, "total_copubs": 7, "student_first_author_count": 4, "we_last_author_count": 3, "last_copub_year": 2020}, {"name": "Abel Gawel", "student_first_year": 2016, "copubs_in_first_5yr": 6, "total_copubs": 6, "student_first_author_count": 3, "we_last_author_count": 3, "last_copub_year": 2019}, {"name": "Florian Tschopp", "student_first_year": 2019, "copubs_in_first_5yr": 5, "total_copubs": 5, "student_first_author_count": 2, "we_last_author_count": 3, "last_copub_year": 2023}, {"name": "Karen Bodie", "student_first_year": 2016, "copubs_in_first_5yr": 4, "total_copubs": 4, "student_first_author_count": 2, "we_last_author_count": 3, "last_copub_year": 2021}, {"name": "Renaud Dubé", "student_first_year": 2016, "copubs_in_first_5yr": 6, "total_copubs": 6, "student_first_author_count": 5, "we_last_author_count": 2, "last_copub_year": 2020}], "students_rest": 19}, "archetype": "late-bloomer-2"}};
+const SLUG_TO_NAME = {"Aaron M. Dollar": "aaron-m-dollar", "Abhinav Gupta": "abhinav-gupta", "Alessandro De Luca": "alessandro-de-luca", "Alin Albu-Schäffer": "alin-albu-schaffer", "Allison M. Okamura": "allison-m-okamura", "Andreas Geiger": "andreas-geiger", "Andrew J. Davison": "andrew-j-davison", "Aníbal Ollero": "anibal-ollero", "Animesh Garg": "animesh-garg", "Anthony Stentz": "anthony-stentz", "Antonio Bicchi": "antonio-bicchi", "Arianna Menciassi": "arianna-menciassi", "Atsuo Takanishi": "atsuo-takanishi", "Auke Jan Ijspeert": "auke-jan-ijspeert", "Ayoung Kim": "ayoung-kim", "Bradley J. Nelson": "bradley-j-nelson", "Bruno Siciliano": "bruno-siciliano", "Cecilia Laschi": "cecilia-laschi", "Cesar Cadena": "cesar-cadena", "Chelsea Finn": "chelsea-finn", "Christian Ott": "christian-ott", "Conor J. Walsh": "conor-j-walsh", "Cyrill Stachniss": "cyrill-stachniss", "Danica Kragic": "danica-kragic", "Daniel Cremers": "daniel-cremers", "Daniel E. Koditschek": "daniel-e-koditschek", "Daniela Rus": "daniela-rus", "Darwin G. Caldwell": "darwin-g-caldwell", "David Hsu": "david-hsu", "Davide Scaramuzza": "davide-scaramuzza", "Deepak Pathak": "deepak-pathak", "Dieter Fox": "dieter-fox", "Dinesh Manocha": "dinesh-manocha", "Edwin Olson": "edwin-olson", "Fei Gao": "fei-gao", "François Chaumette": "francois-chaumette", "Frank Dellaert": "frank-dellaert", "Fumihito Arai": "fumihito-arai", "Fumio Kanehiro": "fumio-kanehiro", "Gaurav S. Sukhatme": "gaurav-s-sukhatme", "George J. Pappas": "george-j-pappas", "Gerd Hirzinger": "gerd-hirzinger", "Giorgio Grisetti": "giorgio-grisetti", "Guang-Zhong Yang": "guang-zhong-yang", "Henrik I. Christensen": "henrik-i-christensen", "Hirohisa Hirukawa": "hirohisa-hirukawa", "Howie Choset": "howie-choset", "Hugh F. Durrant-Whyte": "hugh-f-durrant-whyte", "Hyun Myung": "hyun-myung", "Ian D. Walker": "ian-d-walker", "Jan Peters": "jan-peters", "Jean-Claude Latombe": "jean-claude-latombe", "Jean-Jacques E. Slotine": "jean-jacques-e-slotine", "Jeannette Bohg": "jeannette-bohg", "Ji Zhang": "ji-zhang", "Jia Pan": "jia-pan", "Joel W. Burdick": "joel-w-burdick", "John J. Leonard": "john-j-leonard", "Jonathan P. How": "jonathan-p-how", "Juan D. Tardós": "juan-d-tardos", "Juan I. Nieto": "juan-i-nieto", "Kaspar Althoefer": "kaspar-althoefer", "Kazuhiro Kosuge": "kazuhiro-kosuge", "Kazuhito Yokoi": "kazuhito-yokoi", "Kei Okada": "kei-okada", "Ken Goldberg": "ken-goldberg", "Kenji Kaneko": "kenji-kaneko", "Kensuke Harada": "kensuke-harada", "Lerrel Pinto": "lerrel-pinto", "Luca Carlone": "luca-carlone", "Lydia E. Kavraki": "lydia-e-kavraki", "Marc Pollefeys": "marc-pollefeys", "Marco Hutter": "marco-hutter", "Mark R. Cutkosky": "mark-r-cutkosky", "Masayoshi Tomizuka": "masayoshi-tomizuka", "Masayuki Inaba": "masayuki-inaba", "Metin Sitti": "metin-sitti", "Michael Beetz": "michael-beetz", "Michael Kaess": "michael-kaess", "Ming Liu": "ming-liu", "Nicholas Roy": "nicholas-roy", "Ning Xi": "ning-xi", "Oussama Khatib": "oussama-khatib", "Paolo Dario": "paolo-dario", "Peter K. Allen": "peter-k-allen", "Pierre E. Dupont": "pierre-e-dupont", "Pieter Abbeel": "pieter-abbeel", "Robert D. Howe": "robert-d-howe", "Robert J. Webster III": "robert-j-webster-iii", "Robert J. Wood": "robert-j-wood", "Roland Siegwart": "roland-siegwart", "Ronald S. Fearing": "ronald-s-fearing", "Russ Tedrake": "russ-tedrake", "Russell H. Taylor": "russell-h-taylor", "Sami Haddadin": "sami-haddadin", "Sangbae Kim": "sangbae-kim", "Sanjiv Singh": "sanjiv-singh", "Sebastian A. Scherer": "sebastian-a-scherer", "Sebastian Thrun": "sebastian-thrun", "Sergey Levine": "sergey-levine", "Shaojie Shen": "shaojie-shen", "Shuran Song": "shuran-song", "Shuuji Kajita": "shuuji-kajita", "Siddhartha S. Srinivasa": "siddhartha-s-srinivasa", "Stefan Schaal": "stefan-schaal", "Stergios I. Roumeliotis": "stergios-i-roumeliotis", "Steven M. LaValle": "steven-m-lavalle", "Tamim Asfour": "tamim-asfour", "Timothy D. Barfoot": "timothy-d-barfoot", "Toshio Fukuda": "toshio-fukuda", "Vijay Kumar": "vijay-kumar", "Wolfram Burgard": "wolfram-burgard", "Yoshihiko Nakamura": "yoshihiko-nakamura", "Yun-Hui Liu": "yun-hui-liu"};
+
+const I18N = {
+  en: {
+    phasesLabel: "BY PERIOD",
+    phasesTitle: "Career in 5-year windows.",
+    themesLabel: "THROUGH-LINES",
+    themesTitle: "Themes that cut across all periods.",
+    hlLabel: "KEY WORKS",
+    hlTitle: "Highly-cited anchor papers within the covered venues.",
+    lineageLabel: "LINEAGE",
+    lineageTitle: "Mentors and mentees inferred from coauthor patterns.",
+    advisorsHeading: "Likely advisor(s)",
+    studentsHeading: n => `Likely students (${n})`,
+    noAdvisor: "No mentor signal (self-started or sparse early data)",
+    noStudent: "No student signal",
+    advisorMeta: a => `${a.advisor_active_from}~ · last-author on ${a.advisor_last_author_count}/${a.early_copubs_as_our_first_author} of our early 1st-author`,
+    studentMeta: s => `${s.student_first_year}~${s.last_copub_year} · last-author on ${s.we_last_author_count}/${s.student_first_author_count}`,
+    moreStudents: n => `+ ${n} more`,
+    rankBadge: (rank, natural, composite, archetype, force) => {
+      const natPart = (natural && natural !== rank) ? ` · composite rank #${natural}` : '';
+      const forcePart = force ? ` · ★ curated (below composite cutoff — included for field coverage)` : '';
+      return `#${rank}${natPart} · composite ${composite.toFixed(2)} · ${archetype}${forcePart}`;
+    },
+    citesSuffix: "cites",
+    footData: 'Data: <a href="https://gisbi-kim.github.io/robopaper-atlas/" target="_blank">robopaper-atlas</a>',
+    home: "← home",
+  },
+  ko: {
+    phasesLabel: "시기별 궤적",
+    phasesTitle: "5년 단위로 본 연구 단계.",
+    themesLabel: "관통하는 주제",
+    themesTitle: "시기를 가로질러 지속되는 테마.",
+    hlLabel: "대표작",
+    hlTitle: "해당 학회 기준 고인용 앵커 논문.",
+    lineageLabel: "계보",
+    lineageTitle: "공저 패턴으로 추정한 멘토와 제자.",
+    advisorsHeading: "멘토 후보",
+    studentsHeading: n => `제자 후보 (${n})`,
+    noAdvisor: "멘토 후보 신호 없음 (자체 시작 또는 데이터 부족)",
+    noStudent: "제자 후보 신호 없음",
+    advisorMeta: a => `${a.advisor_active_from}~ · 본인 초기 1저자 ${a.early_copubs_as_our_first_author}편 중 멘토 마지막저자 ${a.advisor_last_author_count}편`,
+    studentMeta: s => `${s.student_first_year}~${s.last_copub_year} · 본인 마지막저자 ${s.we_last_author_count}편 / 학생 1저자 ${s.student_first_author_count}편 중`,
+    moreStudents: n => `+ ${n}명 더`,
+    rankBadge: (rank, natural, composite, archetype, force) => {
+      const natPart = (natural && natural !== rank) ? ` · 합성점수 순위 #${natural}` : '';
+      const forcePart = force ? ` · ★ 큐레이션 포함 (합성점수 기준 컷 아래지만 분야 대표성 확보 위해 포함)` : '';
+      return `#${rank}${natPart} · 합성점수 ${composite.toFixed(2)} · ${archetype}${forcePart}`;
+    },
+    citesSuffix: "회 인용",
+    footData: '데이터: <a href="https://gisbi-kim.github.io/robopaper-atlas/" target="_blank">robopaper-atlas</a>',
+    home: "← 홈으로",
+  }
+};
+
+function getLang() {
+  const h = window.location.hash.replace('#','').toLowerCase();
+  if (h === 'ko' || h === 'kor') return 'ko';
+  return 'en';
+}
+let LANG = getLang();
+
+function setLang(l) {
+  LANG = l;
+  if (l === 'en') history.replaceState(null, '', window.location.pathname + window.location.search);
+  else history.replaceState(null, '', '#' + l);
+  document.documentElement.lang = l === 'ko' ? 'ko' : 'en';
+  render();
+}
+
+function safeLink(name) {
+  const slug = SLUG_TO_NAME[name];
+  if (!slug) return name;
+  return `<a href="${slug}.html${LANG === 'ko' ? '#ko' : ''}">${name}</a>`;
+}
+
+function render() {
+  const d = DATA[LANG];
+  const T = I18N[LANG];
+  const meta = DATA.meta;
+
+  document.title = `${meta.name} · Robo · Careers`;
+  document.getElementById('rankBadge').textContent = T.rankBadge(meta.rank, meta.natural_rank, meta.composite, d.archetype, meta.force_included);
+  document.getElementById('tagEl').textContent = d.tagline;
+  document.getElementById('nameEl').innerHTML = `<span class="given">${meta.given}</span><span class="family">${meta.family}</span>`;
+  document.getElementById('oneLineEl').textContent = d.oneLine;
+  document.getElementById('factsEl').innerHTML = d.facts.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('');
+
+  document.getElementById('phasesLabel').textContent = T.phasesLabel;
+  document.getElementById('phasesTitle').textContent = T.phasesTitle;
+  document.getElementById('phasesEl').innerHTML = d.phases.map(ph => `
+    <div class="phase">
+      <div class="phase-meta">
+        <div class="phase-years">${ph.years}</div>
+        <div class="phase-id">${ph.id}</div>
+      </div>
+      <div class="phase-body">
+        <h4>${ph.title}</h4>
+        <p>${ph.body}</p>
+      </div>
+    </div>`).join('');
+
+  document.getElementById('pullquoteEl').textContent = d.pullquote;
+
+  document.getElementById('themesLabel').textContent = T.themesLabel;
+  document.getElementById('themesTitle').textContent = T.themesTitle;
+  document.getElementById('themesEl').innerHTML = d.themes.map(t => `
+    <div class="theme">
+      <div class="theme-num">${t.num}</div>
+      <h5>${t.title}</h5>
+      <p>${t.text}</p>
+    </div>`).join('');
+
+  document.getElementById('hlLabel').textContent = T.hlLabel;
+  document.getElementById('hlTitle').textContent = T.hlTitle;
+  document.getElementById('hlEl').innerHTML = d.highlights.map(h => `
+    <div class="hl-item">
+      <span class="hl-year">${h.year}</span>
+      <span class="hl-title"><span class="venue">${h.venue}</span>${h.title}</span>
+      <span class="hl-cites"><strong>${h.cites.toLocaleString()}</strong> ${T.citesSuffix}</span>
+    </div>`).join('');
+
+  document.getElementById('lineageLabel').textContent = T.lineageLabel;
+  document.getElementById('lineageTitle').textContent = T.lineageTitle;
+  const lg = d.lineage;
+  const advHTML = lg.advisors && lg.advisors.length
+    ? lg.advisors.map(a => `<div class="lineage-item"><span class="name">${safeLink(a.name)}</span><span class="sig">${T.advisorMeta(a)}</span></div>`).join('')
+    : `<div class="sig" style="padding:10px 0;">${T.noAdvisor}</div>`;
+  const studHTML = lg.students_shown && lg.students_shown.length
+    ? lg.students_shown.map(s => `<div class="lineage-item"><span class="name">${safeLink(s.name)}</span><span class="sig">${T.studentMeta(s)}</span></div>`).join('')
+      + (lg.students_rest > 0 ? `<div class="lineage-more">${T.moreStudents(lg.students_rest)}</div>` : '')
+    : `<div class="sig" style="padding:10px 0;">${T.noStudent}</div>`;
+  document.getElementById('lineageEl').innerHTML = `
+    <div class="lineage-block">
+      <h5>${T.advisorsHeading}</h5>
+      ${advHTML}
+    </div>
+    <div class="lineage-block">
+      <h5>${T.studentsHeading((lg.students || []).length)}</h5>
+      ${studHTML}
+    </div>`;
+
+  document.getElementById('footData').innerHTML = T.footData;
+  document.getElementById('backLink').textContent = T.home;
+  document.querySelectorAll('.lang-tab').forEach(t => t.classList.toggle('active', t.dataset.lang === LANG));
+}
+
+document.querySelectorAll('.lang-tab').forEach(t => {
+  t.addEventListener('click', e => { e.preventDefault(); setLang(t.dataset.lang); });
+});
+window.addEventListener('hashchange', () => {
+  const l = getLang();
+  if (l !== LANG) { LANG = l; render(); }
+});
+render();
+</script>
+</body>
+</html>

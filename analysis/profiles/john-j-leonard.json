@@ -1389,14 +1389,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "John J. Leonard: 37년에 걸쳐 134편, 총 15,814회 인용, h=53, 500+ 블록버스터 5편.",
       "paragraphs": [
         "1989년 \"Navigation by Correlating Geometric Sensor Data\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791회). 1000+ 인용 논문: \"iSAM2: Incremental smoothing and mapping using the Bayes tree\" (2012, 1,308회).",
         "초기 토픽: Mobile robot, Artificial intelligence, Sonar. 최근 토픽: Artificial intelligence, Computer science, Computer vision. 피벗 점수 0.28 → 점진적 이동형.",
         "저자수 평균: 초기 2.8명 → 후기 5.1명 (팀 확장).",
         "최다 인용 논문 \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회) — 커리어 후기에 위치.",
-        "제자 후보 추정 34명 — 상위: Hordur Johannsson(2010~, 우리 마지막저자 8편), Qiangqiang Huang(2021~, 우리 마지막저자 7편), David M. Rosen(2012~, 우리 마지막저자 6편)."
+        "제자 후보 추정 34명 — 상위: Hordur Johannsson(2010~, 본인 마지막저자 8편), Qiangqiang Huang(2021~, 본인 마지막저자 7편), David M. Rosen(2012~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "초기 2년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1405,7 +1405,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "John J. Leonard: over 37 years, 134 papers, 15,814 total cites, h=53, 5 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1989 with \"Navigation by Correlating Geometric Sensor Data\". First 500+ cite paper came 2 years in: \"Simultaneous map building and localization for an autonomous mobile robot\" (1991, 791 cites). 1000+ cite paper: \"iSAM2: Incremental smoothing and mapping using the Bayes tree\" (2012, 1,308 cites).",

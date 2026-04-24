@@ -1,0 +1,818 @@
+{
+  "name": "Ji Zhang",
+  "slug": "ji-zhang",
+  "career_stats": {
+    "first_year": 2006,
+    "last_year": 2025,
+    "span": 20,
+    "total_papers": 34,
+    "total_cites": 5126,
+    "h_index": 21,
+    "i10_index": 25,
+    "seminal_count": 2,
+    "max_cites_single_paper": 3033
+  },
+  "role_distribution": {
+    "middle": 16,
+    "first": 11,
+    "last": 7
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2006,
+      "title": "Gait Planning Of Quadruped Robot Based On Third-Order Spline Interpolation"
+    },
+    "first_100cite": {
+      "year": 2014,
+      "title": "LOAM: Lidar Odometry and Mapping in Real-time",
+      "cites": 3033,
+      "gap_from_first": 8
+    },
+    "first_500cite": {
+      "year": 2014,
+      "title": "LOAM: Lidar Odometry and Mapping in Real-time",
+      "cites": 3033,
+      "gap_from_first": 8
+    },
+    "first_1000cite": {
+      "year": 2014,
+      "title": "LOAM: Lidar Odometry and Mapping in Real-time",
+      "cites": 3033,
+      "gap_from_first": 8
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "LOAM: Lidar Odometry and Mapping in Real-time",
+      "cites": 3033
+    }
+  },
+  "year_series": {
+    "2006": {
+      "n": 1,
+      "cites": 17,
+      "max_cites": 17
+    },
+    "2007": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 2,
+      "cites": 17,
+      "max_cites": 9
+    },
+    "2010": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2011": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2012": {
+      "n": 1,
+      "cites": 20,
+      "max_cites": 20
+    },
+    "2013": {
+      "n": 1,
+      "cites": 35,
+      "max_cites": 35
+    },
+    "2014": {
+      "n": 2,
+      "cites": 3176,
+      "max_cites": 3033
+    },
+    "2015": {
+      "n": 1,
+      "cites": 745,
+      "max_cites": 745
+    },
+    "2016": {
+      "n": 1,
+      "cites": 244,
+      "max_cites": 244
+    },
+    "2017": {
+      "n": 1,
+      "cites": 31,
+      "max_cites": 31
+    },
+    "2018": {
+      "n": 1,
+      "cites": 16,
+      "max_cites": 16
+    },
+    "2019": {
+      "n": 1,
+      "cites": 32,
+      "max_cites": 32
+    },
+    "2020": {
+      "n": 3,
+      "cites": 134,
+      "max_cites": 69
+    },
+    "2021": {
+      "n": 5,
+      "cites": 358,
+      "max_cites": 173
+    },
+    "2022": {
+      "n": 3,
+      "cites": 153,
+      "max_cites": 86
+    },
+    "2023": {
+      "n": 5,
+      "cites": 140,
+      "max_cites": 61
+    },
+    "2024": {
+      "n": 1,
+      "cites": 3,
+      "max_cites": 3
+    },
+    "2025": {
+      "n": 5,
+      "cites": 5,
+      "max_cites": 2
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2006,
+      "end": 2010,
+      "n_papers": 3,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Locus (genetics)",
+          "w": 0.067
+        },
+        {
+          "c": "Spline (mechanical)",
+          "w": 0.067
+        },
+        {
+          "c": "Robot",
+          "w": 0.067
+        },
+        {
+          "c": "Spline interpolation",
+          "w": 0.067
+        }
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Artificial intelligence",
+          "w": 0.16
+        },
+        {
+          "c": "Computer science",
+          "w": 0.16
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.12
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.08
+        },
+        {
+          "c": "Monocular",
+          "w": 0.08
+        }
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 7,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.2
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.086
+        },
+        {
+          "c": "Robustness (evolution)",
+          "w": 0.057
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.057
+        },
+        {
+          "c": "Probabilistic logic",
+          "w": 0.057
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "n_papers": 19,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.209
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.099
+        },
+        {
+          "c": "Motion planning",
+          "w": 0.044
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.044
+        },
+        {
+          "c": "Planner",
+          "w": 0.033
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2006,
+      "end": 2010,
+      "mix": {
+        "IROS": 2,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mix": {
+        "IROS": 3,
+        "RSS": 1,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "IROS": 4,
+        "ICRA": 3
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mix": {
+        "IROS": 5,
+        "ICRA": 5,
+        "RSS": 3,
+        "RA-L": 2,
+        "T-RO": 2,
+        "Sci-Rob": 2
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2006,
+      "end": 2010,
+      "mean_n_authors": 3.33,
+      "unique_coauthors": 5,
+      "top_coauthors": [
+        [
+          "Hao Dong",
+          2
+        ],
+        [
+          "Mingguo Zhao",
+          2
+        ],
+        [
+          "Zongying Shi",
+          1
+        ],
+        [
+          "Naiyao Zhang",
+          1
+        ],
+        [
+          "Dezhen Song",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2011,
+      "end": 2015,
+      "mean_n_authors": 3.2,
+      "unique_coauthors": 6,
+      "top_coauthors": [
+        [
+          "Sanjiv Singh",
+          5
+        ],
+        [
+          "Marcel Bergerman",
+          2
+        ],
+        [
+          "George Kantor",
+          1
+        ],
+        [
+          "Andrew Chambers",
+          1
+        ],
+        [
+          "Silvio M. Maeta",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 4,
+      "unique_coauthors": 16,
+      "top_coauthors": [
+        [
+          "Sanjiv Singh",
+          4
+        ],
+        [
+          "Rushat Gupta Chadha",
+          2
+        ],
+        [
+          "Howie Choset",
+          2
+        ],
+        [
+          "Michael Kaess",
+          1
+        ],
+        [
+          "Vivek Velivela",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2025,
+      "mean_n_authors": 5.63,
+      "unique_coauthors": 38,
+      "top_coauthors": [
+        [
+          "Howie Choset",
+          8
+        ],
+        [
+          "Chao Cao",
+          7
+        ],
+        [
+          "Hongbiao Zhu",
+          6
+        ],
+        [
+          "Sebastian A. Scherer",
+          6
+        ],
+        [
+          "Peng Yin",
+          5
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.292,
+  "top_repeat_coauthors": [
+    {
+      "name": "Howie Choset",
+      "count": 10,
+      "first_year": 2020,
+      "last_year": 2023
+    },
+    {
+      "name": "Sanjiv Singh",
+      "count": 9,
+      "first_year": 2012,
+      "last_year": 2019
+    },
+    {
+      "name": "Chao Cao",
+      "count": 8,
+      "first_year": 2020,
+      "last_year": 2023
+    },
+    {
+      "name": "Sebastian A. Scherer",
+      "count": 7,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Peng Yin",
+      "count": 6,
+      "first_year": 2020,
+      "last_year": 2023
+    },
+    {
+      "name": "Hongbiao Zhu",
+      "count": 6,
+      "first_year": 2021,
+      "last_year": 2023
+    },
+    {
+      "name": "Guofei Chen",
+      "count": 4,
+      "first_year": 2024,
+      "last_year": 2025
+    },
+    {
+      "name": "Wenshan Wang",
+      "count": 4,
+      "first_year": 2024,
+      "last_year": 2025
+    },
+    {
+      "name": "Jean Oh",
+      "count": 3,
+      "first_year": 2022,
+      "last_year": 2022
+    },
+    {
+      "name": "Shiqi Zhao",
+      "count": 3,
+      "first_year": 2023,
+      "last_year": 2023
+    },
+    {
+      "name": "Zhongqiang Ren",
+      "count": 3,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Botao He",
+      "count": 3,
+      "first_year": 2024,
+      "last_year": 2025
+    },
+    {
+      "name": "Cornelia Fermüller",
+      "count": 3,
+      "first_year": 2024,
+      "last_year": 2025
+    },
+    {
+      "name": "Hao Dong",
+      "count": 2,
+      "first_year": 2006,
+      "last_year": 2009
+    },
+    {
+      "name": "Mingguo Zhao",
+      "count": 2,
+      "first_year": 2006,
+      "last_year": 2009
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Hongbiao Zhu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 5,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Botao He",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Peng Yin",
+      "student_first_year": 2018,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Haochen Zhang",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Nader Zantout",
+      "student_first_year": 2025,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2006,
+      2015
+    ],
+    "early_mean_n_authors": 3.25,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.19
+  },
+  "citation_half_life_years": 12.0,
+  "bursts": {
+    "productivity": [
+      2021,
+      2023,
+      2025
+    ],
+    "impact": [
+      2014
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "RSS",
+      "title": "LOAM: Lidar Odometry and Mapping in Real-time",
+      "cites": 3033,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Lidar",
+        "Odometry",
+        "Computer science",
+        "Remote sensing",
+        "Artificial intelligence"
+      ],
+      "doi": "10.15607/rss.2014.x.007",
+      "coauthors": [
+        "Sanjiv Singh"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Visual-lidar odometry and mapping: low-drift, robust, and fast",
+      "cites": 745,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Odometry",
+        "Visual odometry",
+        "Robustness (evolution)",
+        "Computer vision",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/icra.2015.7139486",
+      "coauthors": [
+        "Sanjiv Singh"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "ICRA",
+      "title": "On degeneracy of optimization-based state estimation problems",
+      "cites": 244,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Degeneracy (biology)",
+        "Robustness (evolution)",
+        "Degenerate energy levels",
+        "Computer science",
+        "Mathematical optimization"
+      ],
+      "doi": "10.1109/icra.2016.7487211",
+      "coauthors": [
+        "Michael Kaess",
+        "Sanjiv Singh"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "RSS",
+      "title": "TARE: A Hierarchical Framework for Efficiently Exploring Complex 3D Environments",
+      "cites": 173,
+      "n_authors": 4,
+      "role": "last",
+      "concepts": [
+        "Computer science"
+      ],
+      "doi": "10.15607/rss.2021.xvii.018",
+      "coauthors": [
+        "Chao Cao",
+        "Hongbiao Zhu",
+        "Howie Choset"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "IROS",
+      "title": "Real-time depth enhanced monocular odometry",
+      "cites": 143,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Visual odometry",
+        "Artificial intelligence",
+        "Computer vision",
+        "Computer science",
+        "Monocular"
+      ],
+      "doi": "10.1109/iros.2014.6943269",
+      "coauthors": [
+        "Michael Kaess",
+        "Sanjiv Singh"
+      ]
+    },
+    {
+      "year": 2021,
+      "venue": "IROS",
+      "title": "DSVP: Dual-Stage Viewpoint Planner for Rapid Exploration by Dynamic Expansion",
+      "cites": 98,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Benchmark (surveying)",
+        "Relocation",
+        "Planner",
+        "Robot"
+      ],
+      "doi": "10.1109/iros51168.2021.9636473",
+      "coauthors": [
+        "Hongbiao Zhu",
+        "Chao Cao",
+        "Yukun Xia",
+        "Sebastian A. Scherer",
+        "Weidong Wang"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "ICRA",
+      "title": "Autonomous Exploration Development Environment and the Planning Algorithms",
+      "cites": 86,
+      "n_authors": 7,
+      "role": "last",
+      "concepts": [
+        "Waypoint",
+        "Planner",
+        "Computer science",
+        "Motion planning",
+        "Visualization"
+      ],
+      "doi": "10.1109/icra46639.2022.9812330",
+      "coauthors": [
+        "Chao Cao",
+        "Hongbiao Zhu",
+        "Fan Yang",
+        "Yukun Xia",
+        "Howie Choset",
+        "Jean Oh"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "IROS",
+      "title": "Monocular Camera Localization in Prior LiDAR Maps with 2D-3D Line Correspondences",
+      "cites": 69,
+      "n_authors": 5,
+      "role": "middle",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer vision",
+        "Lidar",
+        "Computer science",
+        "Outlier"
+      ],
+      "doi": "10.1109/iros45743.2020.9341690",
+      "coauthors": [
+        "Huai Yu",
+        "Weikun Zhen",
+        "Wen Yang",
+        "Sebastian A. Scherer"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "Sci-Rob",
+      "title": "Representation granularity enables time-efficient autonomous exploration in large, complex worlds",
+      "cites": 61,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Granularity",
+        "Representation (politics)",
+        "Computer science",
+        "Theoretical computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1126/scirobotics.adf0970",
+      "coauthors": [
+        "Chao Cao",
+        "Hongbiao Zhu",
+        "Zhongqiang Ren",
+        "Howie Choset"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "IROS",
+      "title": "FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update",
+      "cites": 52,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Visibility graph",
+        "Visibility",
+        "Planner",
+        "Computer science",
+        "Motion planning"
+      ],
+      "doi": "10.1109/iros47612.2022.9981574",
+      "coauthors": [
+        "Fan Yang",
+        "Chao Cao",
+        "Hongbiao Zhu",
+        "Jean Oh"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak",
+      "headline": "Ji Zhang: 20년에 걸쳐 34편, 총 5,126회 인용, h=21, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "2006년 \"Gait Planning Of Quadruped Robot Based On Third-Order Spline Interpolation\"으로 출발. 첫 500+ 인용 논문까지 8년 걸림: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회). 1000+ 인용 논문: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회).",
+        "초기 토픽: Computer science, Locus (genetics), Spline (mechanical). 최근 토픽: Computer science, Artificial intelligence, Motion planning. 피벗 점수 0.29 → 점진적 이동형.",
+        "저자수 평균: 초기 3.2명 → 후기 5.2명 (팀 확장).",
+        "최다 인용 논문 \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033회) — 커리어 중기에 위치.",
+        "제자 후보 추정 5명 — 상위: Hongbiao Zhu(2021~, 본인 마지막저자 5편), Botao He(2021~, 본인 마지막저자 2편), Peng Yin(2018~, 본인 마지막저자 0편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak",
+      "headline": "Ji Zhang: over 20 years, 34 papers, 5,126 total cites, h=21, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2006 with \"Gait Planning Of Quadruped Robot Based On Third-Order Spline Interpolation\". First 500+ cite paper came 8 years in: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites). 1000+ cite paper: \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites).",
+        "Early topics: Computer science, Locus (genetics), Spline (mechanical). Recent topics: Computer science, Artificial intelligence, Motion planning. Pivot score 0.29 → gradual shift.",
+        "Authors per paper: early 3.2 → late 5.2 (team growth).",
+        "Peak paper \"LOAM: Lidar Odometry and Mapping in Real-time\" (2014, 3,033 cites) — fell in mid career.",
+        "5 likely students — top: Hongbiao Zhu(2021~, we last-author on 5), Botao He(2021~, we last-author on 2), Peng Yin(2018~, we last-author on 0)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader."
+      ]
+    }
+  }
+}

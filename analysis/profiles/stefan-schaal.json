@@ -1310,14 +1310,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-3",
       "headline": "Stefan Schaal: 33년에 걸쳐 131편, 총 12,707회 인용, h=58, 500+ 블록버스터 5편.",
       "paragraphs": [
         "1993년 \"Open Loop Stable Control Strategies for Robot Juggling\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842회).",
         "초기 토픽: Computer science, Robot, Artificial intelligence. 최근 토픽: Computer science, Reinforcement learning, Human–computer interaction. 피벗 점수 0.21 → 토픽 지속형.",
         "저자수 평균: 초기 2.5명 → 후기 10.4명 (팀 확장).",
         "최다 인용 논문 \"STOMP: Stochastic trajectory optimization for motion planning\" (2011, 870회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Christopher G. Atkeson. 제자 후보 추정 35명 — 상위: Peter Pastor(2009~, 우리 마지막저자 17편), Mrinal Kalakrishnan(2009~, 우리 마지막저자 14편), Michael N. Mistry(2005~, 우리 마지막저자 11편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Christopher G. Atkeson. 제자 후보 추정 35명 — 상위: Peter Pastor(2009~, 본인 마지막저자 17편), Mrinal Kalakrishnan(2009~, 본인 마지막저자 14편), Michael N. Mistry(2005~, 본인 마지막저자 11편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1326,7 +1326,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-3",
       "headline": "Stefan Schaal: over 33 years, 131 papers, 12,707 total cites, h=58, 5 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1993 with \"Open Loop Stable Control Strategies for Robot Juggling\". First 500+ cite paper came 9 years in: \"Movement Imitation with Nonlinear Dynamical Systems in Humanoid Robots\" (2002, 842 cites).",

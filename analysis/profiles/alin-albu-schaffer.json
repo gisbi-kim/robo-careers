@@ -1297,14 +1297,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Alin Albu-Schäffer: 28년에 걸쳐 183편, 총 13,469회 인용, h=58, 500+ 블록버스터 4편.",
       "paragraphs": [
         "1998년 \"Key Issues in the Dynamic Control of Lightweight Robots for Space and Terrestrial Applications\"으로 출발. 첫 500+ 인용 논문까지 8년 걸림: \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761회).",
         "초기 토픽: Robot, Control theory (sociology), Torque. 최근 토픽: Computer science, Robot, Artificial intelligence. 피벗 점수 0.18 → 토픽 지속형.",
         "저자수 평균: 초기 4.3명 → 후기 5.5명 (팀 확장).",
         "최다 인용 논문 \"A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots\" (2007, 802회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Gerd Hirzinger. 제자 후보 추정 40명 — 상위: Alexander Dietrich(2011~, 우리 마지막저자 8편), Dominic Lakatos(2011~, 우리 마지막저자 8편), Florian Petit(2010~, 우리 마지막저자 7편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Gerd Hirzinger. 제자 후보 추정 40명 — 상위: Alexander Dietrich(2011~, 본인 마지막저자 8편), Dominic Lakatos(2011~, 본인 마지막저자 8편), Florian Petit(2010~, 본인 마지막저자 7편)."
       ],
       "lessons": [
         "한 우물 깊게 파는 전략으로 임팩트 달성.",
@@ -1314,7 +1314,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Alin Albu-Schäffer: over 28 years, 183 papers, 13,469 total cites, h=58, 4 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1998 with \"Key Issues in the Dynamic Control of Lightweight Robots for Space and Terrestrial Applications\". First 500+ cite paper came 8 years in: \"Collision Detection and Safe Reaction with the DLR-III Lightweight Manipulator Arm\" (2006, 761 cites).",

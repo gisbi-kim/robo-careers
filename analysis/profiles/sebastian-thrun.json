@@ -1020,14 +1020,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Sebastian Thrun: 23년에 걸쳐 94편, 총 19,874회 인용, h=59, 500+ 블록버스터 13편.",
       "paragraphs": [
         "1994년 \"A Lifelong Learning Perspective for Mobile Robot Control\"으로 출발. 첫 500+ 인용 논문까지 5년 걸림: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회). 1000+ 인용 논문: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회).",
         "초기 토픽: Computer science, Mobile robot, Robot. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.14 → 토픽 지속형.",
         "저자수 평균: 초기 3.7명 → 후기 3.5명 (팀 유지).",
         "최다 인용 논문 \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회) — 커리어 초기에 위치.",
-        "제자 후보 추정 21명 — 상위: Alex Teichman(2008~, 우리 마지막저자 6편), Maren Bennewitz(1999~, 우리 마지막저자 5편), Jesse Levinson(2007~, 우리 마지막저자 5편)."
+        "제자 후보 추정 21명 — 상위: Alex Teichman(2008~, 본인 마지막저자 6편), Maren Bennewitz(1999~, 본인 마지막저자 5편), Jesse Levinson(2007~, 본인 마지막저자 5편)."
       ],
       "lessons": [
         "초기 5년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1035,7 +1035,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Sebastian Thrun: over 23 years, 94 papers, 19,874 total cites, h=59, 13 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1994 with \"A Lifelong Learning Perspective for Mobile Robot Control\". First 500+ cite paper came 5 years in: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695 cites). 1000+ cite paper: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607 cites).",

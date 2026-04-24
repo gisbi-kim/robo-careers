@@ -1214,14 +1214,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Nicholas Roy: 30년에 걸쳐 103편, 총 6,902회 인용, h=42, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1996년 \"Surface sensing and classification for efficient mobile robot navigation\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회).",
         "초기 토픽: Computer science, Robot, Mobile robot. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.19 → 토픽 지속형.",
         "저자수 평균: 초기 4.4명 → 후기 4.8명 (팀 유지).",
         "최다 인용 논문 \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회) — 커리어 초기에 위치.",
-        "제자 후보 추정 32명 — 상위: Thomas Kollar(2006~, 우리 마지막저자 8편), Abraham Bachrach(2010~, 우리 마지막저자 8편), Katherine Liu(2018~, 우리 마지막저자 6편)."
+        "제자 후보 추정 32명 — 상위: Thomas Kollar(2006~, 본인 마지막저자 8편), Abraham Bachrach(2010~, 본인 마지막저자 8편), Katherine Liu(2018~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "초기 3년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1229,7 +1229,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Nicholas Roy: over 30 years, 103 papers, 6,902 total cites, h=42, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1996 with \"Surface sensing and classification for efficient mobile robot navigation\". First 500+ cite paper came 3 years in: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695 cites).",

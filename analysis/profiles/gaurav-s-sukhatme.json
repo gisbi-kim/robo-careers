@@ -1509,14 +1509,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Gaurav S. Sukhatme: 33년에 걸쳐 227편, 총 12,931회 인용, h=62, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1993년 \"Control philosophy and simulation of a robotic hand as a model for prosthetic hands\"으로 출발. 첫 500+ 인용 논문까지 11년 걸림: \"Constrained Coverage for Mobile Sensor Networks\" (2004, 547회).",
         "초기 토픽: Computer science, Robotic hand, Prosthetic hand. 최근 토픽: Computer science, Artificial intelligence, Reinforcement learning. 피벗 점수 0.15 → 토픽 지속형.",
         "저자수 평균: 초기 3.2명 → 후기 8.1명 (팀 확장).",
         "최다 인용 논문 \"Constrained Coverage for Mobile Sensor Networks\" (2004, 547회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): George A. Bekey. 제자 후보 추정 56명 — 상위: Ryan K. Williams(2011~, 우리 마지막저자 9편), Andrew Howard(2001~, 우리 마지막저자 8편), Maxim A. Batalin(2003~, 우리 마지막저자 6편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): George A. Bekey. 제자 후보 추정 56명 — 상위: Ryan K. Williams(2011~, 본인 마지막저자 9편), Andrew Howard(2001~, 본인 마지막저자 8편), Maxim A. Batalin(2003~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
@@ -1527,7 +1527,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Gaurav S. Sukhatme: over 33 years, 227 papers, 12,931 total cites, h=62, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1993 with \"Control philosophy and simulation of a robotic hand as a model for prosthetic hands\". First 500+ cite paper came 11 years in: \"Constrained Coverage for Mobile Sensor Networks\" (2004, 547 cites).",

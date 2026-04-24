@@ -1241,14 +1241,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Pieter Abbeel: 21년에 걸쳐 131편, 총 15,398회 인용, h=55, 500+ 블록버스터 5편.",
       "paragraphs": [
         "2005년 \"Discriminative Training of Kalman Filters\"으로 출발. 첫 500+ 인용 논문까지 5년 걸림: \"Autonomous Helicopter Aerobatics through Apprenticeship Learning\" (2010, 596회). 1000+ 인용 논문: \"Domain randomization for transferring deep neural networks from simulation to the real world\" (2017, 2,679회).",
         "초기 토픽: Computer science, Kalman filter, Discriminative model. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.16 → 토픽 지속형.",
         "저자수 평균: 초기 5.2명 → 후기 9.5명 (팀 확장).",
         "최다 인용 논문 \"Domain randomization for transferring deep neural networks from simulation to the real world\" (2017, 2,679회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Sebastian Thrun. 제자 후보 추정 45명 — 상위: Sergey Levine(2015~, 우리 마지막저자 13편), Alex X. Lee(2013~, 우리 마지막저자 9편), John Schulman(2013~, 우리 마지막저자 7편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Sebastian Thrun. 제자 후보 추정 45명 — 상위: Sergey Levine(2015~, 본인 마지막저자 13편), Alex X. Lee(2013~, 본인 마지막저자 9편), John Schulman(2013~, 본인 마지막저자 7편)."
       ],
       "lessons": [
         "초기 5년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1258,7 +1258,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Pieter Abbeel: over 21 years, 131 papers, 15,398 total cites, h=55, 5 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2005 with \"Discriminative Training of Kalman Filters\". First 500+ cite paper came 5 years in: \"Autonomous Helicopter Aerobatics through Apprenticeship Learning\" (2010, 596 cites). 1000+ cite paper: \"Domain randomization for transferring deep neural networks from simulation to the real world\" (2017, 2,679 cites).",

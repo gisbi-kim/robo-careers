@@ -1336,14 +1336,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Ken Goldberg: 29년에 걸쳐 132편, 총 9,153회 인용, h=44, 500+ 블록버스터 5편.",
       "paragraphs": [
         "1997년 \"Analysis of part motion on a longitudinally vibrating plate\"으로 출발. 첫 500+ 인용 논문까지 17년 걸림: \"Motion planning with sequential convex optimization and convex collision checking\" (2014, 826회). 1000+ 인용 논문: \"Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics\" (2017, 1,156회).",
         "초기 토픽: Computer science, Robot, Throughput. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.33 → 점진적 이동형.",
         "저자수 평균: 초기 2.7명 → 후기 10.8명 (팀 확장).",
         "최다 인용 논문 \"Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics\" (2017, 1,156회) — 커리어 후기에 위치.",
-        "제자 후보 추정 49명 — 상위: Brijen Thananjeyan(2017~, 우리 마지막저자 14편), Michael Danielczuk(2019~, 우리 마지막저자 12편), Jeffrey Mahler(2014~, 우리 마지막저자 11편)."
+        "제자 후보 추정 49명 — 상위: Brijen Thananjeyan(2017~, 본인 마지막저자 14편), Michael Danielczuk(2019~, 본인 마지막저자 12편), Jeffrey Mahler(2014~, 본인 마지막저자 11편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1351,7 +1351,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-3",
+      "archetype": "late-bloomer-2",
       "headline": "Ken Goldberg: over 29 years, 132 papers, 9,153 total cites, h=44, 5 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1997 with \"Analysis of part motion on a longitudinally vibrating plate\". First 500+ cite paper came 17 years in: \"Motion planning with sequential convex optimization and convex collision checking\" (2014, 826 cites). 1000+ cite paper: \"Dex-Net 2.0: Deep Learning to Plan Robust Grasps with Synthetic Point Clouds and Analytic Grasp Metrics\" (2017, 1,156 cites).",

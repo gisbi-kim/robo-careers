@@ -1025,14 +1025,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Sangbae Kim: 21년에 걸쳐 86편, 총 10,326회 인용, h=43, 500+ 블록버스터 6편.",
       "paragraphs": [
         "2005년 \"Scaling hard vertical surfaces with compliant microspine arrays\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"Smooth Vertical Surface Climbing With Directional Adhesion\" (2008, 644회).",
         "초기 토픽: Climbing, Robot, Adhesive. 최근 토픽: Computer science, Kinematics, Perspective (graphical). 피벗 점수 0.38 → 점진적 이동형.",
         "저자수 평균: 초기 4.4명 → 후기 3.8명 (팀 축소).",
         "최다 인용 논문 \"Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control\" (2018, 707회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Mark R. Cutkosky. 제자 후보 추정 21명 — 상위: Gerardo Bledt(2017~, 우리 마지막저자 9편), João Ramos(2015~, 우리 마지막저자 7편), Sangok Seok(2010~, 우리 마지막저자 7편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Mark R. Cutkosky. 제자 후보 추정 21명 — 상위: Gerardo Bledt(2017~, 본인 마지막저자 9편), João Ramos(2015~, 본인 마지막저자 7편), Sangok Seok(2010~, 본인 마지막저자 7편)."
       ],
       "lessons": [
         "초기 3년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1041,7 +1041,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Sangbae Kim: over 21 years, 86 papers, 10,326 total cites, h=43, 6 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2005 with \"Scaling hard vertical surfaces with compliant microspine arrays\". First 500+ cite paper came 3 years in: \"Smooth Vertical Surface Climbing With Directional Adhesion\" (2008, 644 cites).",

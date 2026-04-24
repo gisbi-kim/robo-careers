@@ -1,0 +1,727 @@
+{
+  "name": "Cesar Cadena",
+  "slug": "cesar-cadena",
+  "career_stats": {
+    "first_year": 2015,
+    "last_year": 2025,
+    "span": 11,
+    "total_papers": 55,
+    "total_cites": 6116,
+    "h_index": 25,
+    "i10_index": 36,
+    "seminal_count": 1,
+    "max_cites_single_paper": 3182
+  },
+  "role_distribution": {
+    "first": 4,
+    "middle": 29,
+    "last": 22
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2015,
+      "title": "A fast, modular scene understanding system using context-aware object detection"
+    },
+    "first_100cite": {
+      "year": 2016,
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182,
+      "gap_from_first": 1
+    },
+    "first_500cite": {
+      "year": 2016,
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182,
+      "gap_from_first": 1
+    },
+    "first_1000cite": {
+      "year": 2016,
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182,
+      "gap_from_first": 1
+    },
+    "peak_paper": {
+      "year": 2016,
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182
+    }
+  },
+  "year_series": {
+    "2015": {
+      "n": 1,
+      "cites": 30,
+      "max_cites": 30
+    },
+    "2016": {
+      "n": 4,
+      "cites": 3332,
+      "max_cites": 3182
+    },
+    "2017": {
+      "n": 4,
+      "cites": 952,
+      "max_cites": 423
+    },
+    "2018": {
+      "n": 9,
+      "cites": 531,
+      "max_cites": 196
+    },
+    "2019": {
+      "n": 8,
+      "cites": 536,
+      "max_cites": 217
+    },
+    "2020": {
+      "n": 6,
+      "cites": 371,
+      "max_cites": 195
+    },
+    "2021": {
+      "n": 4,
+      "cites": 83,
+      "max_cites": 36
+    },
+    "2022": {
+      "n": 3,
+      "cites": 43,
+      "max_cites": 23
+    },
+    "2023": {
+      "n": 9,
+      "cites": 215,
+      "max_cites": 60
+    },
+    "2024": {
+      "n": 2,
+      "cites": 2,
+      "max_cites": 2
+    },
+    "2025": {
+      "n": 5,
+      "cites": 21,
+      "max_cites": 10
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2015,
+      "end": 2019,
+      "n_papers": 26,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.185
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.154
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.069
+        },
+        {
+          "c": "Point cloud",
+          "w": 0.046
+        },
+        {
+          "c": "Segmentation",
+          "w": 0.038
+        }
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "n_papers": 24,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.193
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.151
+        },
+        {
+          "c": "Segmentation",
+          "w": 0.05
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.05
+        },
+        {
+          "c": "Pipeline (software)",
+          "w": 0.025
+        }
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.208
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.167
+        },
+        {
+          "c": "Robotics",
+          "w": 0.083
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.083
+        },
+        {
+          "c": "Context (archaeology)",
+          "w": 0.042
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2015,
+      "end": 2019,
+      "mix": {
+        "ICRA": 9,
+        "RA-L": 8,
+        "IROS": 6,
+        "RSS": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mix": {
+        "RA-L": 9,
+        "ICRA": 5,
+        "IROS": 4,
+        "RSS": 3,
+        "IJRR": 2,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mix": {
+        "RSS": 1,
+        "T-RO": 1,
+        "RA-L": 1,
+        "Sci-Rob": 1,
+        "IROS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2015,
+      "end": 2019,
+      "mean_n_authors": 5.38,
+      "unique_coauthors": 58,
+      "top_coauthors": [
+        [
+          "Roland Siegwart",
+          20
+        ],
+        [
+          "Juan I. Nieto",
+          15
+        ],
+        [
+          "Renaud Dubé",
+          5
+        ],
+        [
+          "Ian D. Reid",
+          4
+        ],
+        [
+          "Abel Gawel",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2020,
+      "end": 2024,
+      "mean_n_authors": 5.67,
+      "unique_coauthors": 64,
+      "top_coauthors": [
+        [
+          "Roland Siegwart",
+          19
+        ],
+        [
+          "Juan I. Nieto",
+          8
+        ],
+        [
+          "Lionel Ott",
+          6
+        ],
+        [
+          "Lukas Bernreiter",
+          4
+        ],
+        [
+          "Andrei Cramariuc",
+          3
+        ]
+      ]
+    },
+    {
+      "start": 2025,
+      "end": 2025,
+      "mean_n_authors": 8.4,
+      "unique_coauthors": 33,
+      "top_coauthors": [
+        [
+          "Marco Hutter",
+          3
+        ],
+        [
+          "Turcan Tuna",
+          2
+        ],
+        [
+          "Julian Nubert",
+          2
+        ],
+        [
+          "Jonas Frey",
+          1
+        ],
+        [
+          "Lanke Frank Tarimo Fu",
+          1
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.128,
+  "top_repeat_coauthors": [
+    {
+      "name": "Roland Siegwart",
+      "count": 40,
+      "first_year": 2017,
+      "last_year": 2025
+    },
+    {
+      "name": "Juan I. Nieto",
+      "count": 23,
+      "first_year": 2017,
+      "last_year": 2023
+    },
+    {
+      "name": "Marco Hutter",
+      "count": 7,
+      "first_year": 2019,
+      "last_year": 2025
+    },
+    {
+      "name": "Renaud Dubé",
+      "count": 6,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Lionel Ott",
+      "count": 6,
+      "first_year": 2021,
+      "last_year": 2023
+    },
+    {
+      "name": "Hermann Blum",
+      "count": 5,
+      "first_year": 2018,
+      "last_year": 2025
+    },
+    {
+      "name": "Ian D. Reid",
+      "count": 4,
+      "first_year": 2015,
+      "last_year": 2016
+    },
+    {
+      "name": "Abel Gawel",
+      "count": 4,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Hannes Sommer",
+      "count": 4,
+      "first_year": 2017,
+      "last_year": 2020
+    },
+    {
+      "name": "Andrei Cramariuc",
+      "count": 4,
+      "first_year": 2018,
+      "last_year": 2023
+    },
+    {
+      "name": "Lukas Bernreiter",
+      "count": 4,
+      "first_year": 2021,
+      "last_year": 2023
+    },
+    {
+      "name": "Jonas Frey",
+      "count": 4,
+      "first_year": 2022,
+      "last_year": 2025
+    },
+    {
+      "name": "José Neira",
+      "count": 3,
+      "first_year": 2016,
+      "last_year": 2021
+    },
+    {
+      "name": "Mark Pfeiffer",
+      "count": 3,
+      "first_year": 2017,
+      "last_year": 2018
+    },
+    {
+      "name": "Daniel Dugas",
+      "count": 3,
+      "first_year": 2017,
+      "last_year": 2020
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Ian D. Reid",
+      "advisor_active_from": 1993,
+      "early_copubs_as_our_first_author": 3,
+      "advisor_last_author_count": 3,
+      "total_copubs": 4
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "Jonas Frey",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 1,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Victor Reijgwart",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Patrick Pfreundschuh",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 0,
+      "last_copub_year": 2025
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2015,
+      2024
+    ],
+    "early_mean_n_authors": 5.52,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 5.83
+  },
+  "citation_half_life_years": 10.0,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2016
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2016,
+      "venue": "T-RO",
+      "title": "Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age",
+      "cites": 3182,
+      "n_authors": 8,
+      "role": "first",
+      "concepts": [
+        "Robustness (evolution)",
+        "Robotics",
+        "Simultaneous localization and mapping",
+        "Robot",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/tro.2016.2624754",
+      "coauthors": [
+        "Luca Carlone",
+        "Henry Carrillo",
+        "Yasir Latif",
+        "Davide Scaramuzza",
+        "José Neira",
+        "Ian Reid",
+        "John J. Leonard"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots",
+      "cites": 423,
+      "n_authors": 5,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "End-to-end principle",
+        "Motion planning",
+        "Planner"
+      ],
+      "doi": "10.1109/icra.2017.7989182",
+      "coauthors": [
+        "Mark Pfeiffer",
+        "Michael Schaeuble",
+        "Juan I. Nieto",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "SegMatch: Segment based place recognition in 3D point clouds",
+      "cites": 319,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Robustness (evolution)",
+        "Artificial intelligence",
+        "Point cloud",
+        "Computer vision"
+      ],
+      "doi": "10.1109/icra.2017.7989618",
+      "coauthors": [
+        "Renaud Dubé",
+        "Daniel Dugas",
+        "Elena Stumm",
+        "Juan I. Nieto",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Volumetric Instance-Aware Semantic Mapping and 3D Object Discovery",
+      "cites": 217,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Semantic mapping",
+        "Computer science",
+        "Artificial intelligence",
+        "Object (grammar)",
+        "Segmentation"
+      ],
+      "doi": "10.1109/lra.2019.2923960",
+      "coauthors": [
+        "Margarita Grinvald",
+        "Fadri Furrer",
+        "Tonci Novkovic",
+        "Jen Jen Chung",
+        "Roland Siegwart",
+        "Juan I. Nieto"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RA-L",
+      "title": "Reinforced Imitation: Sample Efficient Deep Reinforcement Learning for Mapless Navigation by Leveraging Prior Demonstrations",
+      "cites": 196,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Reinforcement learning",
+        "Computer science",
+        "Artificial intelligence",
+        "Sample (material)",
+        "Imitation"
+      ],
+      "doi": "10.1109/lra.2018.2869644",
+      "coauthors": [
+        "Mark Pfeiffer",
+        "Samarth Shukla",
+        "Matteo Turchetta",
+        "Andreas Krause",
+        "Roland Siegwart",
+        "Juan I. Nieto"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "IJRR",
+      "title": "SegMap: Segment-based mapping and localization using data-driven descriptors",
+      "cites": 195,
+      "n_authors": 8,
+      "role": "last",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Discriminative model",
+        "Computer vision",
+        "Semantic mapping"
+      ],
+      "doi": "10.1177/0278364919863090",
+      "coauthors": [
+        "Renaud Dubé",
+        "Andrei Cramariuc",
+        "Daniel Dugas",
+        "Hannes Sommer",
+        "Marcin Dymczyk",
+        "Juan I. Nieto",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2019,
+      "venue": "RA-L",
+      "title": "Where Should I Walk? Predicting Terrain Properties From Images Via Self-Supervised Learning",
+      "cites": 188,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Terrain",
+        "Traverse",
+        "Artificial intelligence",
+        "Robot",
+        "Computer science"
+      ],
+      "doi": "10.1109/lra.2019.2895390",
+      "coauthors": [
+        "Lorenz Wellhausen",
+        "Alexey Dosovitskiy",
+        "René Ranftl",
+        "Krzysztof Walas",
+        "Marco Hutter"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "RSS",
+      "title": "SegMap: 3D Segment Mapping using Data-Driven Descriptors",
+      "cites": 162,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Point cloud",
+        "Robustness (evolution)",
+        "Artificial intelligence",
+        "Computer vision"
+      ],
+      "doi": "10.15607/rss.2018.xiv.003",
+      "coauthors": [
+        "Renaud Dubé",
+        "Andrei Cramariuc",
+        "Daniel Dugas",
+        "Juan I. Nieto",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IROS",
+      "title": "An online multi-robot SLAM system for 3D LiDARs",
+      "cites": 143,
+      "n_authors": 6,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Robot",
+        "Simultaneous localization and mapping",
+        "Redundancy (engineering)",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros.2017.8202268",
+      "coauthors": [
+        "Renaud Dubé",
+        "Abel Gawel",
+        "Hannes Sommer",
+        "Juan I. Nieto",
+        "Roland Siegwart"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "RSS",
+      "title": "Multi-modal Auto-Encoders as Joint Estimators for Robotics Scene Understanding",
+      "cites": 90,
+      "n_authors": 3,
+      "role": "first",
+      "concepts": [
+        "Modal",
+        "Artificial intelligence",
+        "Joint (building)",
+        "Computer science",
+        "Robotics"
+      ],
+      "doi": "10.15607/rss.2016.xii.041",
+      "coauthors": [
+        "Anthony R. Dick",
+        "Ian D. Reid"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Cesar Cadena: 11년에 걸쳐 55편, 총 6,116회 인용, h=25, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "2015년 \"A fast, modular scene understanding system using context-aware object detection\"으로 출발. 첫 500+ 인용 논문까지 1년 걸림: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회). 1000+ 인용 논문: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회).",
+        "초기 토픽: Computer science, Artificial intelligence, Computer vision. 최근 토픽: Computer science, Artificial intelligence, Robotics. 피벗 점수 0.13 → 토픽 지속형.",
+        "저자수 평균: 초기 5.5명 → 후기 5.8명 (팀 유지).",
+        "최다 인용 논문 \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회) — 커리어 초기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Ian D. Reid. 제자 후보 추정 3명 — 상위: Jonas Frey(2022~, 본인 마지막저자 1편), Victor Reijgwart(2020~, 본인 마지막저자 1편), Patrick Pfreundschuh(2020~, 본인 마지막저자 0편)."
+      ],
+      "lessons": [
+        "초기 1년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
+        "멘토 후보: Ian D. Reid — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Cesar Cadena: over 11 years, 55 papers, 6,116 total cites, h=25, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2015 with \"A fast, modular scene understanding system using context-aware object detection\". First 500+ cite paper came 1 years in: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182 cites). 1000+ cite paper: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182 cites).",
+        "Early topics: Computer science, Artificial intelligence, Computer vision. Recent topics: Computer science, Artificial intelligence, Robotics. Pivot score 0.13 → topic-stable.",
+        "Authors per paper: early 5.5 → late 5.8 (stable team).",
+        "Peak paper \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182 cites) — fell in early career.",
+        "Likely advisor(s) (first-5y first-author pattern): Ian D. Reid. 3 likely students — top: Jonas Frey(2022~, we last-author on 1), Victor Reijgwart(2020~, we last-author on 1), Patrick Pfreundschuh(2020~, we last-author on 0)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 1 years. First-5-year topic choice is decisive.",
+        "Likely advisor: Ian D. Reid — started within their PhD network."
+      ]
+    }
+  }
+}

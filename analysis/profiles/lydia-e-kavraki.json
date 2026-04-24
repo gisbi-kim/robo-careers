@@ -1231,14 +1231,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Lydia E. Kavraki: 33년에 걸쳐 130편, 총 7,688회 인용, h=47, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1993년 \"Computation of Configuration-Space Obstacles Using the Fast Fourier Transform\"으로 출발. 첫 500+ 인용 논문까지 7년 걸림: \"Path Planning Using Lazy PRM\" (2000, 853회).",
         "초기 토픽: Computer science, Motion planning, Path (computing). 최근 토픽: Computer science, Task (project management), Motion planning. 피벗 점수 0.19 → 토픽 지속형.",
         "저자수 평균: 초기 2.7명 → 후기 4.0명 (팀 확장).",
         "최다 인용 논문 \"Path Planning Using Lazy PRM\" (2000, 853회) — 커리어 초기에 위치.",
-        "제자 후보 추정 26명 — 상위: Ioan Alexandru Sucan(2008~, 우리 마지막저자 9편), Andrew M. Ladd(2002~, 우리 마지막저자 9편), Kostas E. Bekris(2002~, 우리 마지막저자 9편)."
+        "제자 후보 추정 26명 — 상위: Ioan Alexandru Sucan(2008~, 본인 마지막저자 9편), Andrew M. Ladd(2002~, 본인 마지막저자 9편), Kostas E. Bekris(2002~, 본인 마지막저자 9편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1246,7 +1246,7 @@
       ]
     },
     "en": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Lydia E. Kavraki: over 33 years, 130 papers, 7,688 total cites, h=47, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1993 with \"Computation of Configuration-Space Obstacles Using the Fast Fourier Transform\". First 500+ cite paper came 7 years in: \"Path Planning Using Lazy PRM\" (2000, 853 cites).",

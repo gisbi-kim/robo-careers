@@ -1152,14 +1152,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Kensuke Harada: 33년에 걸쳐 115편, 총 7,091회 인용, h=38, 500+ 블록버스터 1편.",
       "paragraphs": [
         "1993년 \"Trajectory control of Cartesian type industrial manipulators with flexible joints\"으로 출발. 첫 500+ 인용 논문까지 10년 걸림: \"Biped walking pattern generation by using preview control of zero-moment point\" (2003, 2,075회). 1000+ 인용 논문: \"Biped walking pattern generation by using preview control of zero-moment point\" (2003, 2,075회).",
         "초기 토픽: Control theory (sociology), Trajectory, Macro. 최근 토픽: Computer science, Artificial intelligence, Clutter. 피벗 점수 0.35 → 점진적 이동형.",
         "저자수 평균: 초기 3.0명 → 후기 4.7명 (팀 확장).",
         "최다 인용 논문 \"Biped walking pattern generation by using preview control of zero-moment point\" (2003, 2,075회) — 커리어 초기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Makoto Kaneko. 제자 후보 추정 13명 — 상위: Zhengtao Hu(2019~, 우리 마지막저자 6편), Ruishuang Liu(2022~, 우리 마지막저자 3편), Chao Cao(2015~, 우리 마지막저자 2편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Makoto Kaneko. 제자 후보 추정 13명 — 상위: Zhengtao Hu(2019~, 본인 마지막저자 6편), Ruishuang Liu(2022~, 본인 마지막저자 3편), Chao Cao(2015~, 본인 마지막저자 2편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1168,7 +1168,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Kensuke Harada: over 33 years, 115 papers, 7,091 total cites, h=38, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1993 with \"Trajectory control of Cartesian type industrial manipulators with flexible joints\". First 500+ cite paper came 10 years in: \"Biped walking pattern generation by using preview control of zero-moment point\" (2003, 2,075 cites). 1000+ cite paper: \"Biped walking pattern generation by using preview control of zero-moment point\" (2003, 2,075 cites).",

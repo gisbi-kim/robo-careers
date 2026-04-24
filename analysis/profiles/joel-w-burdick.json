@@ -1414,14 +1414,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Joel W. Burdick: 40년에 걸쳐 166편, 총 7,253회 인용, h=48, 500+ 블록버스터 0편.",
       "paragraphs": [
         "1986년 \"An algorithm for generation of efficient manipulator dynamic equations\"으로 출발.",
         "초기 토픽: Computer science, Kinematics, Lisp. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.26 → 점진적 이동형.",
         "저자수 평균: 초기 2.3명 → 후기 5.4명 (팀 확장).",
         "최다 인용 논문 \"The Geometric Mechanics of Undulatory Robotic Locomotion\" (1998, 333회) — 커리어 초기에 위치.",
-        "제자 후보 추정 38명 — 상위: Jeremy Ma(2010~, 우리 마지막저자 9편), Todd D. Murphey(2001~, 우리 마지막저자 7편), Howie Choset(1993~, 우리 마지막저자 6편)."
+        "제자 후보 추정 38명 — 상위: Jeremy Ma(2010~, 본인 마지막저자 9편), Todd D. Murphey(2001~, 본인 마지막저자 7편), Howie Choset(1993~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1429,7 +1429,7 @@
       ]
     },
     "en": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Joel W. Burdick: over 40 years, 166 papers, 7,253 total cites, h=48, 0 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1986 with \"An algorithm for generation of efficient manipulator dynamic equations\".",

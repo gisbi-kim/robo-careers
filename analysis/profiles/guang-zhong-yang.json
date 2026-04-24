@@ -1141,14 +1141,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "late-bloomer-3",
+      "archetype": "mid-career-peak-2",
       "headline": "Guang-Zhong Yang: 18년에 걸쳐 165편, 총 6,898회 인용, h=35, 500+ 블록버스터 2편.",
       "paragraphs": [
         "2008년 \"Gaze contingent articulated robot control for robot assisted minimally invasive surgery\"으로 출발. 첫 500+ 인용 논문까지 11년 걸림: \"XAI - Explainable artificial intelligence\" (2019, 1,827회). 1000+ 인용 논문: \"XAI - Explainable artificial intelligence\" (2019, 1,827회).",
         "초기 토픽: Computer science, Artificial intelligence, Robot. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.13 → 토픽 지속형.",
         "저자수 평균: 초기 4.6명 → 후기 5.3명 (팀 확장).",
         "최다 인용 논문 \"XAI - Explainable artificial intelligence\" (2019, 1,827회) — 커리어 중기에 위치.",
-        "제자 후보 추정 40명 — 상위: Konrad Leibrandt(2014~, 우리 마지막저자 17편), Petros Giataganas(2013~, 우리 마지막저자 14편), Gauthier Gras(2014~, 우리 마지막저자 11편)."
+        "제자 후보 추정 40명 — 상위: Konrad Leibrandt(2014~, 본인 마지막저자 17편), Petros Giataganas(2013~, 본인 마지막저자 14편), Gauthier Gras(2014~, 본인 마지막저자 11편)."
       ],
       "lessons": [
         "한 우물 깊게 파는 전략으로 임팩트 달성.",
@@ -1156,7 +1156,7 @@
       ]
     },
     "en": {
-      "archetype": "late-bloomer-3",
+      "archetype": "mid-career-peak-2",
       "headline": "Guang-Zhong Yang: over 18 years, 165 papers, 6,898 total cites, h=35, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2008 with \"Gaze contingent articulated robot control for robot assisted minimally invasive surgery\". First 500+ cite paper came 11 years in: \"XAI - Explainable artificial intelligence\" (2019, 1,827 cites). 1000+ cite paper: \"XAI - Explainable artificial intelligence\" (2019, 1,827 cites).",

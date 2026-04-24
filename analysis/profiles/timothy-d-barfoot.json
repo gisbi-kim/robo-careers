@@ -1,0 +1,1140 @@
+{
+  "name": "Timothy D. Barfoot",
+  "slug": "timothy-d-barfoot",
+  "career_stats": {
+    "first_year": 2002,
+    "last_year": 2025,
+    "span": 24,
+    "total_papers": 108,
+    "total_cites": 4989,
+    "h_index": 32,
+    "i10_index": 68,
+    "seminal_count": 1,
+    "max_cites_single_paper": 1100
+  },
+  "role_distribution": {
+    "first": 6,
+    "last": 81,
+    "middle": 21
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2002,
+      "title": "Kinematic path-planning for formations of mobile robots with a nonholonomic constraint"
+    },
+    "first_100cite": {
+      "year": 2011,
+      "title": "The UTIAS multi-robot cooperative localization and mapping dataset",
+      "cites": 110,
+      "gap_from_first": 9
+    },
+    "first_500cite": {
+      "year": 2014,
+      "title": "Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic",
+      "cites": 1100,
+      "gap_from_first": 12
+    },
+    "first_1000cite": {
+      "year": 2014,
+      "title": "Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic",
+      "cites": 1100,
+      "gap_from_first": 12
+    },
+    "peak_paper": {
+      "year": 2014,
+      "title": "Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic",
+      "cites": 1100
+    }
+  },
+  "year_series": {
+    "2002": {
+      "n": 1,
+      "cites": 22,
+      "max_cites": 22
+    },
+    "2003": {
+      "n": 1,
+      "cites": 15,
+      "max_cites": 15
+    },
+    "2004": {
+      "n": 1,
+      "cites": 35,
+      "max_cites": 35
+    },
+    "2005": {
+      "n": 2,
+      "cites": 169,
+      "max_cites": 85
+    },
+    "2006": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2007": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2008": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2009": {
+      "n": 1,
+      "cites": 10,
+      "max_cites": 10
+    },
+    "2010": {
+      "n": 7,
+      "cites": 103,
+      "max_cites": 28
+    },
+    "2011": {
+      "n": 7,
+      "cites": 212,
+      "max_cites": 110
+    },
+    "2012": {
+      "n": 4,
+      "cites": 363,
+      "max_cites": 253
+    },
+    "2013": {
+      "n": 8,
+      "cites": 315,
+      "max_cites": 67
+    },
+    "2014": {
+      "n": 5,
+      "cites": 1568,
+      "max_cites": 1100
+    },
+    "2015": {
+      "n": 7,
+      "cites": 635,
+      "max_cites": 381
+    },
+    "2016": {
+      "n": 5,
+      "cites": 433,
+      "max_cites": 236
+    },
+    "2017": {
+      "n": 4,
+      "cites": 65,
+      "max_cites": 23
+    },
+    "2018": {
+      "n": 3,
+      "cites": 27,
+      "max_cites": 12
+    },
+    "2019": {
+      "n": 3,
+      "cites": 108,
+      "max_cites": 59
+    },
+    "2020": {
+      "n": 6,
+      "cites": 302,
+      "max_cites": 182
+    },
+    "2021": {
+      "n": 5,
+      "cites": 23,
+      "max_cites": 15
+    },
+    "2022": {
+      "n": 6,
+      "cites": 173,
+      "max_cites": 65
+    },
+    "2023": {
+      "n": 10,
+      "cites": 236,
+      "max_cites": 129
+    },
+    "2024": {
+      "n": 7,
+      "cites": 116,
+      "max_cites": 61
+    },
+    "2025": {
+      "n": 15,
+      "cites": 59,
+      "max_cites": 16
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "n_papers": 5,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.12
+        },
+        {
+          "c": "Mobile robot",
+          "w": 0.08
+        },
+        {
+          "c": "Visual odometry",
+          "w": 0.08
+        },
+        {
+          "c": "Kinematics",
+          "w": 0.04
+        },
+        {
+          "c": "Nonholonomic system",
+          "w": 0.04
+        }
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.173
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.067
+        },
+        {
+          "c": "Robot",
+          "w": 0.053
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.053
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.053
+        }
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "n_papers": 29,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.172
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.069
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.048
+        },
+        {
+          "c": "Terrain",
+          "w": 0.041
+        },
+        {
+          "c": "Simultaneous localization and mapping",
+          "w": 0.034
+        }
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "n_papers": 21,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.152
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.086
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.048
+        },
+        {
+          "c": "Odometry",
+          "w": 0.038
+        },
+        {
+          "c": "Visual odometry",
+          "w": 0.038
+        }
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "n_papers": 38,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.147
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.084
+        },
+        {
+          "c": "Lidar",
+          "w": 0.042
+        },
+        {
+          "c": "Computer vision",
+          "w": 0.037
+        },
+        {
+          "c": "Odometry",
+          "w": 0.037
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "mix": {
+        "IROS": 4,
+        "ICRA": 1
+      }
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mix": {
+        "ICRA": 8,
+        "IROS": 4,
+        "IJRR": 2,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mix": {
+        "ICRA": 15,
+        "IROS": 7,
+        "IJRR": 6,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mix": {
+        "ICRA": 9,
+        "RA-L": 7,
+        "IJRR": 3,
+        "IROS": 1,
+        "T-RO": 1
+      }
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mix": {
+        "RA-L": 12,
+        "T-RO": 10,
+        "ICRA": 7,
+        "IROS": 5,
+        "IJRR": 3,
+        "RSS": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2002,
+      "end": 2006,
+      "mean_n_authors": 3,
+      "unique_coauthors": 8,
+      "top_coauthors": [
+        [
+          "Gabriele M. T. D&apos",
+          2
+        ],
+        [
+          "Eleuterio",
+          2
+        ],
+        [
+          "Christopher M. Clark",
+          1
+        ],
+        [
+          "Stephen M. Rock",
+          1
+        ],
+        [
+          "A. Peter Annan",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2007,
+      "end": 2011,
+      "mean_n_authors": 2.73,
+      "unique_coauthors": 12,
+      "top_coauthors": [
+        [
+          "Paul Timothy Furgale",
+          5
+        ],
+        [
+          "Keith Yu Kit Leung",
+          4
+        ],
+        [
+          "Hugh H. T. Liu",
+          4
+        ],
+        [
+          "Chi Hay Tong",
+          3
+        ],
+        [
+          "Patrick J. F. Carle",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2012,
+      "end": 2016,
+      "mean_n_authors": 3.03,
+      "unique_coauthors": 27,
+      "top_coauthors": [
+        [
+          "Paul Timothy Furgale",
+          6
+        ],
+        [
+          "Sean Anderson",
+          6
+        ],
+        [
+          "Chris J. Ostafew",
+          5
+        ],
+        [
+          "Chi Hay Tong",
+          4
+        ],
+        [
+          "Angela P. Schoellig",
+          4
+        ]
+      ]
+    },
+    {
+      "start": 2017,
+      "end": 2021,
+      "mean_n_authors": 3.24,
+      "unique_coauthors": 28,
+      "top_coauthors": [
+        [
+          "Angela P. Schoellig",
+          6
+        ],
+        [
+          "Michael Warren",
+          3
+        ],
+        [
+          "David J. Yoon",
+          3
+        ],
+        [
+          "Mona Gridseth",
+          3
+        ],
+        [
+          "Patrick McGarey",
+          2
+        ]
+      ]
+    },
+    {
+      "start": 2022,
+      "end": 2025,
+      "mean_n_authors": 4.24,
+      "unique_coauthors": 66,
+      "top_coauthors": [
+        [
+          "Frederike Dümbgen",
+          9
+        ],
+        [
+          "David J. Yoon",
+          7
+        ],
+        [
+          "Keenan Burnett",
+          6
+        ],
+        [
+          "Connor Holmes",
+          6
+        ],
+        [
+          "Angela P. Schoellig",
+          5
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.206,
+  "top_repeat_coauthors": [
+    {
+      "name": "Angela P. Schoellig",
+      "count": 15,
+      "first_year": 2013,
+      "last_year": 2025
+    },
+    {
+      "name": "Paul Timothy Furgale",
+      "count": 11,
+      "first_year": 2010,
+      "last_year": 2015
+    },
+    {
+      "name": "David J. Yoon",
+      "count": 10,
+      "first_year": 2020,
+      "last_year": 2025
+    },
+    {
+      "name": "Frederike Dümbgen",
+      "count": 9,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Chi Hay Tong",
+      "count": 7,
+      "first_year": 2011,
+      "last_year": 2015
+    },
+    {
+      "name": "Keenan Burnett",
+      "count": 7,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Sean Anderson",
+      "count": 6,
+      "first_year": 2013,
+      "last_year": 2015
+    },
+    {
+      "name": "Kirk MacTavish",
+      "count": 6,
+      "first_year": 2015,
+      "last_year": 2017
+    },
+    {
+      "name": "Connor Holmes",
+      "count": 6,
+      "first_year": 2023,
+      "last_year": 2025
+    },
+    {
+      "name": "Keith Yu Kit Leung",
+      "count": 5,
+      "first_year": 2009,
+      "last_year": 2023
+    },
+    {
+      "name": "Chris J. Ostafew",
+      "count": 5,
+      "first_year": 2013,
+      "last_year": 2016
+    },
+    {
+      "name": "Jonathan D. Gammell",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2020
+    },
+    {
+      "name": "Siddhartha S. Srinivasa",
+      "count": 5,
+      "first_year": 2014,
+      "last_year": 2020
+    },
+    {
+      "name": "Hugues Thomas",
+      "count": 5,
+      "first_year": 2021,
+      "last_year": 2025
+    },
+    {
+      "name": "Hugh H. T. Liu",
+      "count": 4,
+      "first_year": 2009,
+      "last_year": 2011
+    }
+  ],
+  "likely_advisors": [
+    {
+      "name": "Eleuterio",
+      "advisor_active_from": 1988,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 1,
+      "total_copubs": 2
+    },
+    {
+      "name": "Gabriele M. T. D&apos",
+      "advisor_active_from": 1988,
+      "early_copubs_as_our_first_author": 2,
+      "advisor_last_author_count": 0,
+      "total_copubs": 2
+    }
+  ],
+  "likely_students": [
+    {
+      "name": "David J. Yoon",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 10,
+      "total_copubs": 10,
+      "student_first_author_count": 4,
+      "we_last_author_count": 9,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Paul Timothy Furgale",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 11,
+      "total_copubs": 11,
+      "student_first_author_count": 7,
+      "we_last_author_count": 7,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Sean Anderson",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 5,
+      "we_last_author_count": 6,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Frederike Dümbgen",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 9,
+      "total_copubs": 9,
+      "student_first_author_count": 2,
+      "we_last_author_count": 6,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Kirk MacTavish",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 1,
+      "we_last_author_count": 6,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Chris J. Ostafew",
+      "student_first_year": 2013,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 5,
+      "last_copub_year": 2016
+    },
+    {
+      "name": "Keenan Burnett",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 7,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Connor Holmes",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 6,
+      "total_copubs": 6,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Hugues Thomas",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 5,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 5,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Chi Hay Tong",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 7,
+      "total_copubs": 7,
+      "student_first_author_count": 6,
+      "we_last_author_count": 4,
+      "last_copub_year": 2015
+    },
+    {
+      "name": "Daniil Lisus",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 4,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Rehman S. Merali",
+      "student_first_year": 2012,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2021
+    },
+    {
+      "name": "Colin McManus",
+      "student_first_year": 2011,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Laszlo-Peter Berczi",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Patrick McGarey",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Zi Cong Guo",
+      "student_first_year": 2022,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 3,
+      "we_last_author_count": 3,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Michael Paton",
+      "student_first_year": 2015,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 2,
+      "we_last_author_count": 3,
+      "last_copub_year": 2017
+    },
+    {
+      "name": "Mona Gridseth",
+      "student_first_year": 2016,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 4,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2022
+    },
+    {
+      "name": "Patrick J. F. Carle",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Yuchen Wu",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 3,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jonathan D. Gammell",
+      "student_first_year": 2014,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 3,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Yuxuan Chen",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Jeremy N. Wong",
+      "student_first_year": 2020,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 2,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Johann Laconte",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Braden Stenning",
+      "student_first_year": 2010,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2012
+    },
+    {
+      "name": "Xinyuan Qiao",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2025
+    },
+    {
+      "name": "Bhavit Patel",
+      "student_first_year": 2019,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 1,
+      "we_last_author_count": 1,
+      "last_copub_year": 2020
+    },
+    {
+      "name": "Keith Yu Kit Leung",
+      "student_first_year": 2008,
+      "copubs_in_first_5yr": 4,
+      "total_copubs": 5,
+      "student_first_author_count": 4,
+      "we_last_author_count": 0,
+      "last_copub_year": 2023
+    },
+    {
+      "name": "Abhishek Goudar",
+      "student_first_year": 2021,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 0,
+      "last_copub_year": 2024
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2002,
+      2011
+    ],
+    "early_mean_n_authors": 2.8,
+    "late_window": [
+      2016,
+      2025
+    ],
+    "late_mean_n_authors": 3.86
+  },
+  "citation_half_life_years": 12,
+  "bursts": {
+    "productivity": [
+      2025
+    ],
+    "impact": [
+      2014
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2014,
+      "venue": "IROS",
+      "title": "Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic",
+      "cites": 1100,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Ellipsoid",
+        "Heuristic",
+        "Sampling (signal processing)",
+        "Motion planning",
+        "Path (computing)"
+      ],
+      "doi": "10.1109/iros.2014.6942976",
+      "coauthors": [
+        "Jonathan D. Gammell",
+        "Siddhartha S. Srinivasa"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "ICRA",
+      "title": "Batch Informed Trees (BIT*): Sampling-based optimal planning via the heuristically guided search of implicit random geometric graphs",
+      "cites": 381,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Scalability",
+        "Random graph",
+        "Computer science",
+        "Set (abstract data type)",
+        "Graph"
+      ],
+      "doi": "10.1109/icra.2015.7139620",
+      "coauthors": [
+        "Jonathan D. Gammell",
+        "Siddhartha S. Srinivasa"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "T-RO",
+      "title": "Associating Uncertainty With Three-Dimensional Poses for Use in Estimation Problems",
+      "cites": 298,
+      "n_authors": 2,
+      "role": "first",
+      "concepts": [
+        "Pose",
+        "Transformation (genetics)",
+        "Artificial intelligence",
+        "Computer science",
+        "Representation (politics)"
+      ],
+      "doi": "10.1109/tro.2014.2298059",
+      "coauthors": [
+        "Paul Timothy Furgale"
+      ]
+    },
+    {
+      "year": 2012,
+      "venue": "ICRA",
+      "title": "Continuous-time batch estimation using temporal basis functions",
+      "cites": 253,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Simultaneous localization and mapping",
+        "Estimator",
+        "Basis (linear algebra)",
+        "Rendering (computer graphics)"
+      ],
+      "doi": "10.1109/icra.2012.6225005",
+      "coauthors": [
+        "Paul Timothy Furgale",
+        "Gabe Sibley"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "IJRR",
+      "title": "Robust Constrained Learning-based NMPC enabling reliable mobile robot path tracking",
+      "cites": 236,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Model predictive control",
+        "Mobile robot",
+        "Control theory (sociology)",
+        "Robust control",
+        "Controller (irrigation)"
+      ],
+      "doi": "10.1177/0278364916645661",
+      "coauthors": [
+        "Chris J. Ostafew",
+        "Angela P. Schoellig"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "IJRR",
+      "title": "Batch Informed Trees (BIT*): Informed asymptotically optimal anytime search",
+      "cites": 182,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Heuristics",
+        "A priori and a posteriori",
+        "Mathematical optimization",
+        "Motion planning",
+        "Domain (mathematical analysis)"
+      ],
+      "doi": "10.1177/0278364919890396",
+      "coauthors": [
+        "Jonathan D. Gammell",
+        "Siddhartha S. Srinivasa"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "IJRR",
+      "title": "Boreas: A multi-season autonomous driving dataset",
+      "cites": 129,
+      "n_authors": 12,
+      "role": "last",
+      "concepts": [
+        "Lidar",
+        "Odometry",
+        "Ground truth",
+        "Adverse weather",
+        "Metric (unit)"
+      ],
+      "doi": "10.1177/02783649231160195",
+      "coauthors": [
+        "Keenan Burnett",
+        "David J. Yoon",
+        "Yuchen Wu",
+        "Andrew Zou Li",
+        "Haowei Zhang",
+        "Shichen Lu",
+        "Jingxing Qian",
+        "Wei-Kang Tseng",
+        "Andrew Lambert",
+        "Keith Yu Kit Leung",
+        "Angela P. Schoellig"
+      ]
+    },
+    {
+      "year": 2014,
+      "venue": "ICRA",
+      "title": "Learning-based nonlinear model predictive control to improve vision-based mobile robot path-tracking in challenging outdoor environments",
+      "cites": 120,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Computer science",
+        "Mobile robot",
+        "Trajectory",
+        "Control theory (sociology)",
+        "Motion planning"
+      ],
+      "doi": "10.1109/icra.2014.6907444",
+      "coauthors": [
+        "Chris J. Ostafew",
+        "Angela P. Schoellig"
+      ]
+    },
+    {
+      "year": 2011,
+      "venue": "IJRR",
+      "title": "The UTIAS multi-robot cooperative localization and mapping dataset",
+      "cites": 110,
+      "n_authors": 4,
+      "role": "middle",
+      "concepts": [
+        "Robot",
+        "Simultaneous localization and mapping",
+        "Computer science",
+        "Artificial intelligence",
+        "Process (computing)"
+      ],
+      "doi": "10.1177/0278364911398404",
+      "coauthors": [
+        "Keith Yu Kit Leung",
+        "Yoni Halpern",
+        "Hugh H. T. Liu"
+      ]
+    },
+    {
+      "year": 2015,
+      "venue": "IROS",
+      "title": "Full STEAM ahead: Exactly sparse gaussian process regression for batch continuous-time trajectory estimation on SE(3)",
+      "cites": 103,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Trajectory",
+        "Gaussian process",
+        "Interpolation (computer graphics)",
+        "Gaussian",
+        "Computer science"
+      ],
+      "doi": "10.1109/iros.2015.7353368",
+      "coauthors": [
+        "Sean Anderson"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Timothy D. Barfoot: 24년에 걸쳐 108편, 총 4,989회 인용, h=32, 500+ 블록버스터 1편.",
+      "paragraphs": [
+        "2002년 \"Kinematic path-planning for formations of mobile robots with a nonholonomic constraint\"으로 출발. 첫 500+ 인용 논문까지 12년 걸림: \"Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic\" (2014, 1,100회). 1000+ 인용 논문: \"Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic\" (2014, 1,100회).",
+        "초기 토픽: Computer science, Mobile robot, Visual odometry. 최근 토픽: Computer science, Artificial intelligence, Lidar. 피벗 점수 0.21 → 토픽 지속형.",
+        "저자수 평균: 초기 2.8명 → 후기 3.9명 (팀 확장).",
+        "최다 인용 논문 \"Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic\" (2014, 1,100회) — 커리어 중기에 위치.",
+        "멘토 후보(초기 5년 1저자 논문 패턴): Eleuterio, Gabriele M. T. D&apos. 제자 후보 추정 29명 — 상위: David J. Yoon(2020~, 본인 마지막저자 9편), Paul Timothy Furgale(2010~, 본인 마지막저자 7편), Sean Anderson(2013~, 본인 마지막저자 6편)."
+      ],
+      "lessons": [
+        "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
+        "29명 제자 후보 — 제자 배출이 임팩트의 실체.",
+        "멘토 후보: Eleuterio — 이 사람의 PhD 네트워크 안에서 시작."
+      ]
+    },
+    "en": {
+      "archetype": "mid-career-peak-3",
+      "headline": "Timothy D. Barfoot: over 24 years, 108 papers, 4,989 total cites, h=32, 1 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2002 with \"Kinematic path-planning for formations of mobile robots with a nonholonomic constraint\". First 500+ cite paper came 12 years in: \"Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic\" (2014, 1,100 cites). 1000+ cite paper: \"Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic\" (2014, 1,100 cites).",
+        "Early topics: Computer science, Mobile robot, Visual odometry. Recent topics: Computer science, Artificial intelligence, Lidar. Pivot score 0.21 → topic-stable.",
+        "Authors per paper: early 2.8 → late 3.9 (team growth).",
+        "Peak paper \"Informed RRT*: Optimal sampling-based path planning focused via direct sampling of an admissible ellipsoidal heuristic\" (2014, 1,100 cites) — fell in mid career.",
+        "Likely advisor(s) (first-5y first-author pattern): Eleuterio, Gabriele M. T. D&apos. 29 likely students — top: David J. Yoon(2020~, we last-author on 9), Paul Timothy Furgale(2010~, we last-author on 7), Sean Anderson(2013~, we last-author on 6)."
+      ],
+      "lessons": [
+        "Late-career team scaling — solo researcher → lab leader.",
+        "29 likely students — mentoring is the real impact.",
+        "Likely advisor: Eleuterio — started within their PhD network."
+      ]
+    }
+  }
+}

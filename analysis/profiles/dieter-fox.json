@@ -1293,14 +1293,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Dieter Fox: 30년에 걸쳐 168편, 총 21,549회 인용, h=63, 500+ 블록버스터 11편.",
       "paragraphs": [
         "1996년 \"Controlling synchro-drive robots with the dynamic window approach to collision avoidance\"으로 출발. 첫 500+ 인용 논문까지 3년 걸림: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695회). 1000+ 인용 논문: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607회).",
         "초기 토픽: Computer science, Robot, Mobile robot. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.15 → 토픽 지속형.",
         "저자수 평균: 초기 4.4명 → 후기 5.9명 (팀 확장).",
         "최다 인용 논문 \"PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes\" (2018, 2,053회) — 커리어 후기에 위치.",
-        "제자 후보 추정 40명 — 상위: Yu Xiang(2017~, 우리 마지막저자 13편), Liefeng Bo(2011~, 우리 마지막저자 10편), Balakumar Sundaralingam(2017~, 우리 마지막저자 10편)."
+        "제자 후보 추정 40명 — 상위: Yu Xiang(2017~, 본인 마지막저자 13편), Liefeng Bo(2011~, 본인 마지막저자 10편), Balakumar Sundaralingam(2017~, 본인 마지막저자 10편)."
       ],
       "lessons": [
         "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
@@ -1311,7 +1311,7 @@
       ]
     },
     "en": {
-      "archetype": "early-blockbuster",
+      "archetype": "steady-producer",
       "headline": "Dieter Fox: over 30 years, 168 papers, 21,549 total cites, h=63, 11 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1996 with \"Controlling synchro-drive robots with the dynamic window approach to collision avoidance\". First 500+ cite paper came 3 years in: \"MINERVA: A Second-Generation Museum Tour-Guide Robot\" (1999, 695 cites). 1000+ cite paper: \"Monte Carlo Localization for Mobile Robots\" (1999, 1,607 cites).",

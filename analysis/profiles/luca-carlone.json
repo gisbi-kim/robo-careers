@@ -955,14 +955,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Luca Carlone: 16년에 걸쳐 84편, 총 10,998회 인용, h=40, 500+ 블록버스터 3편.",
       "paragraphs": [
         "2010년 \"An application of Kullback-Leibler divergence to active SLAM and exploration with Particle Filters\"으로 출발. 첫 500+ 인용 논문까지 6년 걸림: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회). 1000+ 인용 논문: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회).",
         "초기 토픽: Computer science, Mathematical optimization, Robot. 최근 토픽: Computer science, KISS (TNC), Point cloud. 피벗 점수 0.24 → 토픽 지속형.",
         "저자수 평균: 초기 4.7명 → 후기 5.8명 (팀 확장).",
         "최다 인용 논문 \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Frank Dellaert, Basilio Bona, Marina Indri. 제자 후보 추정 18명 — 상위: Yun Chang(2020~, 우리 마지막저자 13편), Jingnan Shi(2018~, 우리 마지막저자 9편), Nathan Hughes(2021~, 우리 마지막저자 8편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Frank Dellaert, Basilio Bona, Marina Indri. 제자 후보 추정 18명 — 상위: Yun Chang(2020~, 본인 마지막저자 13편), Jingnan Shi(2018~, 본인 마지막저자 9편), Nathan Hughes(2021~, 본인 마지막저자 8편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -971,7 +971,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "mid-career-peak",
       "headline": "Luca Carlone: over 16 years, 84 papers, 10,998 total cites, h=40, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2010 with \"An application of Kullback-Leibler divergence to active SLAM and exploration with Particle Filters\". First 500+ cite paper came 6 years in: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182 cites). 1000+ cite paper: \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182 cites).",

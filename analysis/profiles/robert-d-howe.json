@@ -1281,21 +1281,21 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Robert D. Howe: 38년에 걸쳐 82편, 총 5,232회 인용, h=35, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1988년 \"The sliding of robot fingers under combined torsion and shear loading\"으로 출발. 첫 500+ 인용 논문까지 22년 걸림: \"The Highly Adaptive SDM Hand: Design and Performance Evaluation\" (2010, 520회).",
         "초기 토픽: Computer science, Slip (aerodynamics), Computer vision. 최근 토픽: Computer science, Artificial intelligence, Notation. 피벗 점수 0.34 → 점진적 이동형.",
         "저자수 평균: 초기 2.9명 → 후기 3.8명 (팀 확장).",
         "최다 인용 논문 \"A compliant, underactuated hand for robust manipulation\" (2014, 593회) — 커리어 후기에 위치.",
-        "제자 후보 추정 22명 — 상위: Paul M. Loschak(2013~, 우리 마지막저자 5편), Samuel B. Kesner(2007~, 우리 마지막저자 4편), Thomas Debus(1999~, 우리 마지막저자 4편)."
+        "제자 후보 추정 22명 — 상위: Paul M. Loschak(2013~, 본인 마지막저자 5편), Samuel B. Kesner(2007~, 본인 마지막저자 4편), Thomas Debus(1999~, 본인 마지막저자 4편)."
       ],
       "lessons": [
         "22명 제자 후보 — 제자 배출이 임팩트의 실체."
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Robert D. Howe: over 38 years, 82 papers, 5,232 total cites, h=35, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1988 with \"The sliding of robot fingers under combined torsion and shear loading\". First 500+ cite paper came 22 years in: \"The Highly Adaptive SDM Hand: Design and Performance Evaluation\" (2010, 520 cites).",

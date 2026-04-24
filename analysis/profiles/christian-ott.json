@@ -1106,14 +1106,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Christian Ott: 25년에 걸쳐 140편, 총 7,016회 인용, h=41, 500+ 블록버스터 1편.",
       "paragraphs": [
         "2001년 \"Interactive redundant robotics: control of the inverted pendulum with nullspace motion\"으로 출발. 첫 500+ 인용 논문까지 6년 걸림: \"A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots\" (2007, 802회).",
         "초기 토픽: Control theory (sociology), Impedance control, Passivity. 최근 토픽: Control theory (sociology), Computer science, Robot. 피벗 점수 0.20 → 토픽 지속형.",
         "저자수 평균: 초기 3.8명 → 후기 4.6명 (팀 확장).",
         "최다 인용 논문 \"A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots\" (2007, 802회) — 커리어 초기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Gerd Hirzinger. 제자 후보 추정 30명 — 상위: George Mesesan(2017~, 우리 마지막저자 6편), Bernd Henze(2013~, 우리 마지막저자 5편), Sait Sovukluk(2023~, 우리 마지막저자 4편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Gerd Hirzinger. 제자 후보 추정 30명 — 상위: George Mesesan(2017~, 본인 마지막저자 6편), Bernd Henze(2013~, 본인 마지막저자 5편), Sait Sovukluk(2023~, 본인 마지막저자 4편)."
       ],
       "lessons": [
         "30명 제자 후보 — 제자 배출이 임팩트의 실체.",
@@ -1121,7 +1121,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Christian Ott: over 25 years, 140 papers, 7,016 total cites, h=41, 1 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2001 with \"Interactive redundant robotics: control of the inverted pendulum with nullspace motion\". First 500+ cite paper came 6 years in: \"A Unified Passivity-based Control Framework for Position, Torque and Impedance Control of Flexible Joint Robots\" (2007, 802 cites).",

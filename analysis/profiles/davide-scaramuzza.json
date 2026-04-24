@@ -1133,14 +1133,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Davide Scaramuzza: 21년에 걸쳐 166편, 총 24,197회 인용, h=70, 500+ 블록버스터 7편.",
       "paragraphs": [
         "2005년 \"Ball Detection and Predictive Ball Following Based on a Stereoscopic Vision System\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"SVO: Fast semi-direct monocular visual odometry\" (2014, 2,084회). 1000+ 인용 논문: \"SVO: Fast semi-direct monocular visual odometry\" (2014, 2,084회).",
         "초기 토픽: Computer vision, Artificial intelligence, Computer science. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.11 → 토픽 지속형.",
         "저자수 평균: 초기 4.1명 → 후기 4.3명 (팀 유지).",
         "최다 인용 논문 \"Past, Present, and Future of Simultaneous Localization and Mapping: Toward the Robust-Perception Age\" (2016, 3,182회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Roland Siegwart. 제자 후보 추정 33명 — 상위: Yunlong Song(2020~, 우리 마지막저자 17편), Philipp Foehn(2017~, 우리 마지막저자 16편), Elia Kaufmann(2017~, 우리 마지막저자 15편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Roland Siegwart. 제자 후보 추정 33명 — 상위: Yunlong Song(2020~, 본인 마지막저자 17편), Philipp Foehn(2017~, 본인 마지막저자 16편), Elia Kaufmann(2017~, 본인 마지막저자 15편)."
       ],
       "lessons": [
         "지속성이 h-index를 만든다 — 한두 편의 블록버스터만으로는 여기 못 옴.",
@@ -1150,7 +1150,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Davide Scaramuzza: over 21 years, 166 papers, 24,197 total cites, h=70, 7 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2005 with \"Ball Detection and Predictive Ball Following Based on a Stereoscopic Vision System\". First 500+ cite paper came 9 years in: \"SVO: Fast semi-direct monocular visual odometry\" (2014, 2,084 cites). 1000+ cite paper: \"SVO: Fast semi-direct monocular visual odometry\" (2014, 2,084 cites).",

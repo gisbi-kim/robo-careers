@@ -1156,14 +1156,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-3",
       "headline": "Anthony Stentz: 36년에 걸쳐 80편, 총 6,632회 인용, h=43, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1986년 \"An architecture for sensor fusion in a mobile robot\"으로 출발. 첫 500+ 인용 논문까지 8년 걸림: \"Optimal and Efficient Path Planning for Partially-Known Environments\" (1994, 875회).",
         "초기 토픽: Computer science, Mobile robot, Blackboard system. 최근 토픽: Terrain, Computer science, Artificial intelligence. 피벗 점수 0.24 → 토픽 지속형.",
         "저자수 평균: 초기 2.1명 → 후기 3.9명 (팀 확장).",
         "최다 인용 논문 \"Optimal and Efficient Path Planning for Partially-Known Environments\" (1994, 875회) — 커리어 초기에 위치.",
-        "제자 후보 추정 19명 — 상위: Dave Ferguson(2004~, 우리 마지막저자 8편), M. Bernardine Dias(2002~, 우리 마지막저자 6편), Alonzo Kelly(1996~, 우리 마지막저자 4편)."
+        "제자 후보 추정 19명 — 상위: Dave Ferguson(2004~, 본인 마지막저자 8편), M. Bernardine Dias(2002~, 본인 마지막저자 6편), Alonzo Kelly(1996~, 본인 마지막저자 4편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1171,7 +1171,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-3",
       "headline": "Anthony Stentz: over 36 years, 80 papers, 6,632 total cites, h=43, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1986 with \"An architecture for sensor fusion in a mobile robot\". First 500+ cite paper came 8 years in: \"Optimal and Efficient Path Planning for Partially-Known Environments\" (1994, 875 cites).",

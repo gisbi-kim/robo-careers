@@ -973,14 +973,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Jean-Claude Latombe: 28년에 걸쳐 55편, 총 7,648회 인용, h=36, 500+ 블록버스터 3편.",
       "paragraphs": [
         "1989년 \"Contingency-Tolerant Robot Motion Planning and Control\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"Robot Motion Planning: A Distributed Representation Approach\" (1991, 987회).",
         "초기 토픽: Computer science, Robot, Motion planning. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.30 → 점진적 이동형.",
         "저자수 평균: 초기 3.0명 → 후기 4.3명 (팀 확장).",
         "최다 인용 논문 \"Robot Motion Planning: A Distributed Representation Approach\" (1991, 987회) — 커리어 초기에 위치.",
-        "제자 후보 추정 10명 — 상위: Gildardo Sánchez-Ante(2002~, 우리 마지막저자 4편), Kris K. Hauser(2005~, 우리 마지막저자 3편), Mitul Saha(2003~, 우리 마지막저자 3편)."
+        "제자 후보 추정 10명 — 상위: Gildardo Sánchez-Ante(2002~, 본인 마지막저자 4편), Kris K. Hauser(2005~, 본인 마지막저자 3편), Mitul Saha(2003~, 본인 마지막저자 3편)."
       ],
       "lessons": [
         "초기 2년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -989,7 +989,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Jean-Claude Latombe: over 28 years, 55 papers, 7,648 total cites, h=36, 3 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1989 with \"Contingency-Tolerant Robot Motion Planning and Control\". First 500+ cite paper came 2 years in: \"Robot Motion Planning: A Distributed Representation Approach\" (1991, 987 cites).",

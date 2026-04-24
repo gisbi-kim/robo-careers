@@ -1446,14 +1446,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak-3",
       "headline": "Dinesh Manocha: 34년에 걸쳐 184편, 총 8,801회 인용, h=45, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1992년 \"Real time inverse kinematics for general 6R manipulators\"으로 출발. 첫 500+ 인용 논문까지 16년 걸림: \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682회). 1000+ 인용 논문: \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682회).",
         "초기 토픽: Computer science, Inverse kinematics, Kinematics. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.33 → 점진적 이동형.",
         "저자수 평균: 초기 3.2명 → 후기 5.0명 (팀 확장).",
         "최다 인용 논문 \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682회) — 커리어 중기에 위치.",
-        "제자 후보 추정 47명 — 상위: Adarsh Jagan Sathyamoorthy(2019~, 우리 마지막저자 16편), Tianrui Guan(2020~, 우리 마지막저자 15편), Kasun Weerakoon(2022~, 우리 마지막저자 15편)."
+        "제자 후보 추정 47명 — 상위: Adarsh Jagan Sathyamoorthy(2019~, 본인 마지막저자 16편), Tianrui Guan(2020~, 본인 마지막저자 15편), Kasun Weerakoon(2022~, 본인 마지막저자 15편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1461,7 +1461,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-2",
+      "archetype": "mid-career-peak-3",
       "headline": "Dinesh Manocha: over 34 years, 184 papers, 8,801 total cites, h=45, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1992 with \"Real time inverse kinematics for general 6R manipulators\". First 500+ cite paper came 16 years in: \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682 cites). 1000+ cite paper: \"Reciprocal Velocity Obstacles for real-time multi-agent navigation\" (2008, 1,682 cites).",

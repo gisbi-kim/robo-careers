@@ -1205,14 +1205,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Arianna Menciassi: 28년에 걸쳐 98편, 총 6,501회 인용, h=41, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1998년 \"Manipulating Biological and Mechanical Micro-Objects using LIGA-microfabricated End-Effectors\"으로 출발. 첫 500+ 인용 논문까지 16년 걸림: \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520회).",
         "초기 토픽: Computer science, Materials science, Engineering. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.29 → 점진적 이동형.",
         "저자수 평균: 초기 4.9명 → 후기 6.4명 (팀 확장).",
         "최다 인용 논문 \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520회) — 커리어 중기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Paolo Dario. 제자 후보 추정 28명 — 상위: Tommaso Ranzani(2012~, 우리 마지막저자 7편), Linda Paternò(2018~, 우리 마지막저자 7편), Matteo Cianchetti(2012~, 우리 마지막저자 6편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Paolo Dario. 제자 후보 추정 28명 — 상위: Tommaso Ranzani(2012~, 본인 마지막저자 7편), Linda Paternò(2018~, 본인 마지막저자 7편), Matteo Cianchetti(2012~, 본인 마지막저자 6편)."
       ],
       "lessons": [
         "후기에 팀/랩 규모 확장 — 단독 연구자에서 리더로 전환.",
@@ -1221,7 +1221,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "mid-career-peak-2",
       "headline": "Arianna Menciassi: over 28 years, 98 papers, 6,501 total cites, h=41, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1998 with \"Manipulating Biological and Mechanical Micro-Objects using LIGA-microfabricated End-Effectors\". First 500+ cite paper came 16 years in: \"Soft Robotics Technologies to Address Shortcomings in Today's Minimally Invasive Surgery: The STIFF-FLOP Approach\" (2014, 520 cites).",

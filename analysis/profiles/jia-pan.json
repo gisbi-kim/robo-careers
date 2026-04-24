@@ -985,14 +985,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Jia Pan: 16년에 걸쳐 108편, 총 5,657회 인용, h=34, 500+ 블록버스터 4편.",
       "paragraphs": [
         "2010년 \"Efficient nearest-neighbor computation for GPU-based motion planning\"으로 출발. 첫 500+ 인용 논문까지 2년 걸림: \"FCL: A general purpose library for collision and proximity queries\" (2012, 532회).",
         "초기 토픽: Computer science, Computation, Collision. 최근 토픽: Computer science, Artificial intelligence, Computer vision. 피벗 점수 0.16 → 토픽 지속형.",
         "저자수 평균: 초기 4.0명 → 후기 5.2명 (팀 확장).",
         "최다 인용 논문 \"Motion planning with sequential convex optimization and convex collision checking\" (2014, 826회) — 커리어 초기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Dinesh Manocha, Sachin Chitta. 제자 후보 추정 26명 — 상위: Tingxiang Fan(2018~, 우리 마지막저자 8편), Zeqing Zhang(2020~, 우리 마지막저자 7편), Guangze Zheng(2021~, 우리 마지막저자 7편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Dinesh Manocha, Sachin Chitta. 제자 후보 추정 26명 — 상위: Tingxiang Fan(2018~, 본인 마지막저자 8편), Zeqing Zhang(2020~, 본인 마지막저자 7편), Guangze Zheng(2021~, 본인 마지막저자 7편)."
       ],
       "lessons": [
         "초기 2년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적.",
@@ -1002,7 +1002,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-4",
+      "archetype": "steady-producer",
       "headline": "Jia Pan: over 16 years, 108 papers, 5,657 total cites, h=34, 4 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 2010 with \"Efficient nearest-neighbor computation for GPU-based motion planning\". First 500+ cite paper came 2 years in: \"FCL: A general purpose library for collision and proximity queries\" (2012, 532 cites).",

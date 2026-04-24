@@ -1344,14 +1344,14 @@
   ],
   "insights": {
     "ko": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Allison M. Okamura: 29년에 걸쳐 135편, 총 9,018회 인용, h=48, 500+ 블록버스터 2편.",
       "paragraphs": [
         "1997년 \"Haptic exploration of objects with rolling and sliding\"으로 출발. 첫 500+ 인용 논문까지 9년 걸림: \"Nonholonomic Modeling of Needle Steering\" (2006, 619회).",
         "초기 토픽: Computer science, Haptic technology, Computer vision. 최근 토픽: Haptic technology, Computer science, Robot. 피벗 점수 0.25 → 점진적 이동형.",
         "저자수 평균: 초기 3.5명 → 후기 4.4명 (팀 확장).",
         "최다 인용 논문 \"A soft robot that navigates its environment through growth\" (2017, 914회) — 커리어 후기에 위치.",
-        "멘토 후보(초기 5년 1저자 논문 패턴): Mark R. Cutkosky. 제자 후보 추정 46명 — 상위: Laura H. Blumenschein(2017~, 우리 마지막저자 7편), Nick Colonnese(2012~, 우리 마지막저자 5편), Jake J. Abbott(2003~, 우리 마지막저자 4편)."
+        "멘토 후보(초기 5년 1저자 논문 패턴): Mark R. Cutkosky. 제자 후보 추정 46명 — 상위: Laura H. Blumenschein(2017~, 본인 마지막저자 7편), Nick Colonnese(2012~, 본인 마지막저자 5편), Jake J. Abbott(2003~, 본인 마지막저자 4편)."
       ],
       "lessons": [
         "46명 제자 후보 — 제자 배출이 임팩트의 실체.",
@@ -1359,7 +1359,7 @@
       ]
     },
     "en": {
-      "archetype": "mid-career-peak-3",
+      "archetype": "steady-producer",
       "headline": "Allison M. Okamura: over 29 years, 135 papers, 9,018 total cites, h=48, 2 blockbusters (500+ cites).",
       "paragraphs": [
         "Started in 1997 with \"Haptic exploration of objects with rolling and sliding\". First 500+ cite paper came 9 years in: \"Nonholonomic Modeling of Needle Steering\" (2006, 619 cites).",

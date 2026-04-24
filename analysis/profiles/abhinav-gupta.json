@@ -1,0 +1,705 @@
+{
+  "name": "Abhinav Gupta",
+  "slug": "abhinav-gupta",
+  "career_stats": {
+    "first_year": 2016,
+    "last_year": 2024,
+    "span": 9,
+    "total_papers": 24,
+    "total_cites": 3391,
+    "h_index": 14,
+    "i10_index": 16,
+    "seminal_count": 2,
+    "max_cites_single_paper": 1490
+  },
+  "role_distribution": {
+    "last": 9,
+    "middle": 15
+  },
+  "milestones": {
+    "first_paper": {
+      "year": 2016,
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours"
+    },
+    "first_100cite": {
+      "year": 2016,
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours",
+      "cites": 1095,
+      "gap_from_first": 0
+    },
+    "first_500cite": {
+      "year": 2016,
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours",
+      "cites": 1095,
+      "gap_from_first": 0
+    },
+    "first_1000cite": {
+      "year": 2016,
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours",
+      "cites": 1095,
+      "gap_from_first": 0
+    },
+    "peak_paper": {
+      "year": 2017,
+      "title": "Target-driven visual navigation in indoor scenes using deep reinforcement learning",
+      "cites": 1490
+    }
+  },
+  "year_series": {
+    "2016": {
+      "n": 1,
+      "cites": 1095,
+      "max_cites": 1095
+    },
+    "2017": {
+      "n": 4,
+      "cites": 1768,
+      "max_cites": 1490
+    },
+    "2018": {
+      "n": 2,
+      "cites": 112,
+      "max_cites": 109
+    },
+    "2019": {
+      "n": 0,
+      "cites": 0,
+      "max_cites": 0
+    },
+    "2020": {
+      "n": 2,
+      "cites": 39,
+      "max_cites": 35
+    },
+    "2021": {
+      "n": 3,
+      "cites": 24,
+      "max_cites": 16
+    },
+    "2022": {
+      "n": 1,
+      "cites": 77,
+      "max_cites": 77
+    },
+    "2023": {
+      "n": 5,
+      "cites": 72,
+      "max_cites": 22
+    },
+    "2024": {
+      "n": 6,
+      "cites": 204,
+      "max_cites": 100
+    }
+  },
+  "topic_windows": [
+    {
+      "start": 2016,
+      "end": 2020,
+      "n_papers": 9,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.205
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.159
+        },
+        {
+          "c": "GRASP",
+          "w": 0.091
+        },
+        {
+          "c": "Overfitting",
+          "w": 0.045
+        },
+        {
+          "c": "Machine learning",
+          "w": 0.045
+        }
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2024,
+      "n_papers": 15,
+      "top_concepts": [
+        {
+          "c": "Computer science",
+          "w": 0.208
+        },
+        {
+          "c": "Artificial intelligence",
+          "w": 0.139
+        },
+        {
+          "c": "Robot",
+          "w": 0.069
+        },
+        {
+          "c": "Human–computer interaction",
+          "w": 0.069
+        },
+        {
+          "c": "Generalization",
+          "w": 0.042
+        }
+      ]
+    }
+  ],
+  "venue_windows": [
+    {
+      "start": 2016,
+      "end": 2020,
+      "mix": {
+        "ICRA": 7,
+        "IROS": 1,
+        "RSS": 1
+      }
+    },
+    {
+      "start": 2021,
+      "end": 2024,
+      "mix": {
+        "ICRA": 9,
+        "RSS": 4,
+        "IROS": 1,
+        "RA-L": 1
+      }
+    }
+  ],
+  "collab_windows": [
+    {
+      "start": 2016,
+      "end": 2020,
+      "mean_n_authors": 4,
+      "unique_coauthors": 19,
+      "top_coauthors": [
+        [
+          "Lerrel Pinto",
+          6
+        ],
+        [
+          "Dhiraj Gandhi",
+          3
+        ],
+        [
+          "James Davidson",
+          2
+        ],
+        [
+          "Yuke Zhu",
+          1
+        ],
+        [
+          "Roozbeh Mottaghi",
+          1
+        ]
+      ]
+    },
+    {
+      "start": 2021,
+      "end": 2024,
+      "mean_n_authors": 12,
+      "unique_coauthors": 145,
+      "top_coauthors": [
+        [
+          "Vikash Kumar",
+          5
+        ],
+        [
+          "Shikhar Bahl",
+          3
+        ],
+        [
+          "Sudeep Dasari",
+          3
+        ],
+        [
+          "Mohan Kumar Srirama",
+          3
+        ],
+        [
+          "Homanga Bharadhwaj",
+          3
+        ]
+      ]
+    }
+  ],
+  "pivot_score": 0.191,
+  "top_repeat_coauthors": [
+    {
+      "name": "Lerrel Pinto",
+      "count": 7,
+      "first_year": 2016,
+      "last_year": 2023
+    },
+    {
+      "name": "Vikash Kumar",
+      "count": 5,
+      "first_year": 2023,
+      "last_year": 2024
+    },
+    {
+      "name": "Dhiraj Gandhi",
+      "count": 4,
+      "first_year": 2017,
+      "last_year": 2021
+    },
+    {
+      "name": "Shubham Tulsiani",
+      "count": 4,
+      "first_year": 2020,
+      "last_year": 2024
+    },
+    {
+      "name": "Shikhar Bahl",
+      "count": 3,
+      "first_year": 2021,
+      "last_year": 2024
+    },
+    {
+      "name": "Sudeep Dasari",
+      "count": 3,
+      "first_year": 2023,
+      "last_year": 2024
+    },
+    {
+      "name": "Mohan Kumar Srirama",
+      "count": 3,
+      "first_year": 2023,
+      "last_year": 2024
+    },
+    {
+      "name": "Homanga Bharadhwaj",
+      "count": 3,
+      "first_year": 2023,
+      "last_year": 2024
+    },
+    {
+      "name": "James Davidson",
+      "count": 2,
+      "first_year": 2017,
+      "last_year": 2018
+    },
+    {
+      "name": "Yuke Zhu",
+      "count": 2,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Joseph J. Lim",
+      "count": 2,
+      "first_year": 2017,
+      "last_year": 2024
+    },
+    {
+      "name": "Deepak Pathak",
+      "count": 2,
+      "first_year": 2021,
+      "last_year": 2022
+    },
+    {
+      "name": "Tess Lee Hellebrekers",
+      "count": 2,
+      "first_year": 2023,
+      "last_year": 2024
+    },
+    {
+      "name": "Gaoyue Zhou",
+      "count": 2,
+      "first_year": 2023,
+      "last_year": 2023
+    },
+    {
+      "name": "Aravind Rajeswaran",
+      "count": 2,
+      "first_year": 2023,
+      "last_year": 2023
+    }
+  ],
+  "likely_advisors": [],
+  "likely_students": [
+    {
+      "name": "Mohan Kumar Srirama",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 3,
+      "total_copubs": 3,
+      "student_first_author_count": 1,
+      "we_last_author_count": 2,
+      "last_copub_year": 2024
+    },
+    {
+      "name": "Gaoyue Zhou",
+      "student_first_year": 2023,
+      "copubs_in_first_5yr": 2,
+      "total_copubs": 2,
+      "student_first_author_count": 2,
+      "we_last_author_count": 1,
+      "last_copub_year": 2023
+    }
+  ],
+  "team_drift": {
+    "early_window": [
+      2016,
+      2024
+    ],
+    "early_mean_n_authors": 9,
+    "late_window": [
+      2016,
+      2024
+    ],
+    "late_mean_n_authors": 9
+  },
+  "citation_half_life_years": 9,
+  "bursts": {
+    "productivity": [],
+    "impact": [
+      2017
+    ]
+  },
+  "blockbusters": [
+    {
+      "year": 2017,
+      "venue": "ICRA",
+      "title": "Target-driven visual navigation in indoor scenes using deep reinforcement learning",
+      "cites": 1490,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Reinforcement learning",
+        "Computer science",
+        "Generalization",
+        "Artificial intelligence",
+        "Feature (linguistics)"
+      ],
+      "doi": "10.1109/icra.2017.7989381",
+      "coauthors": [
+        "Yuke Zhu",
+        "Roozbeh Mottaghi",
+        "Eric Kolve",
+        "Joseph J. Lim",
+        "Li Fei-Fei",
+        "Ali Farhadi"
+      ]
+    },
+    {
+      "year": 2016,
+      "venue": "ICRA",
+      "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours",
+      "cites": 1095,
+      "n_authors": 2,
+      "role": "last",
+      "concepts": [
+        "Overfitting",
+        "GRASP",
+        "Computer science",
+        "Artificial intelligence",
+        "Convolutional neural network"
+      ],
+      "doi": "10.1109/icra.2016.7487517",
+      "coauthors": [
+        "Lerrel Pinto"
+      ]
+    },
+    {
+      "year": 2017,
+      "venue": "IROS",
+      "title": "Learning to fly by crashing",
+      "cites": 252,
+      "n_authors": 3,
+      "role": "last",
+      "concepts": [
+        "Drone",
+        "Overfitting",
+        "Crash",
+        "Computer science",
+        "Artificial intelligence"
+      ],
+      "doi": "10.1109/iros.2017.8206247",
+      "coauthors": [
+        "Dhiraj Gandhi",
+        "Lerrel Pinto"
+      ]
+    },
+    {
+      "year": 2018,
+      "venue": "ICRA",
+      "title": "Learning 6-DOF Grasping Interaction via Deep Geometry-Aware 3D Representations",
+      "cites": 109,
+      "n_authors": 8,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Viewpoints",
+        "Representation (politics)",
+        "Artificial intelligence",
+        "Object (grammar)"
+      ],
+      "doi": "10.1109/icra.2018.8460609",
+      "coauthors": [
+        "Xinchen Yan",
+        "Jasmine Hsu",
+        "Mohammad Khansari",
+        "Yunfei Bai",
+        "Arkanath Pathak",
+        "James Davidson",
+        "Honglak Lee"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "RSS",
+      "title": "DROID: A Large-Scale In-The-Wild Robot Manipulation Dataset",
+      "cites": 100,
+      "n_authors": 99,
+      "role": "middle",
+      "concepts": [
+        "Scale (ratio)",
+        "Robot",
+        "Computer science",
+        "Artificial intelligence",
+        "Computer vision"
+      ],
+      "doi": "10.15607/rss.2024.xx.120",
+      "coauthors": [
+        "Alexander Khazatsky",
+        "Karl Pertsch",
+        "Suraj Nair",
+        "Ashwin Balakrishna",
+        "Sudeep Dasari",
+        "Siddharth Karamcheti",
+        "Soroush Nasiriany",
+        "Mohan Kumar Srirama",
+        "Lawrence Yunliang Chen",
+        "Kirsty Ellis",
+        "Peter David Fagan",
+        "Joey Hejna",
+        "Masha Itkina",
+        "Marion Lepert",
+        "Yecheng Jason Ma",
+        "Patrick Tree Miller",
+        "Jimmy Wu",
+        "Suneel Belkhale",
+        "Shivin Dass",
+        "Huy Ha",
+        "Arhan Jain",
+        "Abraham Lee",
+        "Youngwoon Lee",
+        "Marius Memmel",
+        "Sungjae Park",
+        "Ilija Radosavovic",
+        "Kaiyuan Wang",
+        "Albert Zhan",
+        "Kevin Black",
+        "Cheng Chi",
+        "Kyle Beltran Hatch",
+        "Shan Lin",
+        "Jingpei Lu",
+        "Jean Mercat",
+        "Abdul Rehman",
+        "Pannag R. Sanketi",
+        "Archit Sharma",
+        "Cody Simpson",
+        "Quan Vuong",
+        "Homer Rich Walke",
+        "Blake Wulfe",
+        "Ted Xiao",
+        "Jonathan Heewon Yang",
+        "Arefeh Yavary",
+        "Tony Z. Zhao",
+        "Christopher Agia",
+        "Rohan Baijal",
+        "Mateo Guaman Castro",
+        "Daphne Chen",
+        "Qiuyu Chen",
+        "Trinity Chung",
+        "Jaimyn Drake",
+        "Ethan Paul Foster",
+        "Jensen Gao",
+        "David Antonio Herrera",
+        "Minho Heo",
+        "Kyle Hsu",
+        "Jiaheng Hu",
+        "Donovon Jackson",
+        "Charlotte Le",
+        "Yunshuang Li",
+        "Roy Lin",
+        "Zehan Ma",
+        "Abhiram Maddukuri",
+        "Suvir Mirchandani",
+        "Daniel Morton",
+        "Tony Nguyen",
+        "Abigail O&apos",
+        "Neill",
+        "Rosario Scalise",
+        "Derick Seale",
+        "Victor Son",
+        "Stephen Tian",
+        "Emi Tran",
+        "Andrew E. Wang",
+        "Yilin Wu",
+        "Annie Xie",
+        "Jingyun Yang",
+        "Patrick Yin",
+        "Yunchu Zhang",
+        "Osbert Bastani",
+        "Glen Berseth",
+        "Jeannette Bohg",
+        "Ken Goldberg",
+        "Abhishek Gupta",
+        "Dinesh Jayaraman",
+        "Joseph J. Lim",
+        "Jitendra Malik",
+        "Roberto Martín-Martín",
+        "Subramanian Ramamoorthy",
+        "Dorsa Sadigh",
+        "Shuran Song",
+        "Jiajun Wu",
+        "Michael C. Yip",
+        "Yuke Zhu",
+        "Thomas Kollar",
+        "Sergey Levine",
+        "Chelsea Finn"
+      ]
+    },
+    {
+      "year": 2022,
+      "venue": "RSS",
+      "title": "Human-to-Robot Imitation in the Wild",
+      "cites": 77,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Imitation",
+        "Robot",
+        "Computer science",
+        "Human–robot interaction",
+        "Artificial intelligence"
+      ],
+      "doi": "10.15607/rss.2022.xviii.026",
+      "coauthors": [
+        "Shikhar Bahl",
+        "Deepak Pathak"
+      ]
+    },
+    {
+      "year": 2024,
+      "venue": "ICRA",
+      "title": "RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking",
+      "cites": 66,
+      "n_authors": 6,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Chunking (psychology)",
+        "Generalization",
+        "Action (physics)",
+        "Robot"
+      ],
+      "doi": "10.1109/icra57147.2024.10611293",
+      "coauthors": [
+        "Homanga Bharadhwaj",
+        "Jay Vakil",
+        "Mohit Sharma",
+        "Shubham Tulsiani",
+        "Vikash Kumar"
+      ]
+    },
+    {
+      "year": 2020,
+      "venue": "RSS",
+      "title": "Swoosh! Rattle! Thump! - Actions that Sound",
+      "cites": 35,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "Computer science",
+        "Sound (geography)",
+        "Acoustics",
+        "Physics"
+      ],
+      "doi": "10.15607/rss.2020.xvi.002",
+      "coauthors": [
+        "Dhiraj Gandhi",
+        "Lerrel Pinto"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "ICRA",
+      "title": "Learning Dexterous Manipulation from Exemplar Object Trajectories and Pre-Grasps",
+      "cites": 22,
+      "n_authors": 3,
+      "role": "middle",
+      "concepts": [
+        "GRASP",
+        "Computer science",
+        "Task (project management)",
+        "Artificial intelligence",
+        "Object (grammar)"
+      ],
+      "doi": "10.1109/icra48891.2023.10161147",
+      "coauthors": [
+        "Sudeep Dasari",
+        "Vikash Kumar"
+      ]
+    },
+    {
+      "year": 2023,
+      "venue": "RA-L",
+      "title": "All the Feels: A Dexterous Hand With Large-Area Tactile Sensing",
+      "cites": 17,
+      "n_authors": 7,
+      "role": "middle",
+      "concepts": [
+        "Artificial intelligence",
+        "Computer science",
+        "Robotics",
+        "Generalizability theory",
+        "Human–computer interaction"
+      ],
+      "doi": "10.1109/lra.2023.3327619",
+      "coauthors": [
+        "Raunaq M. Bhirangi",
+        "Abigail DeFranco",
+        "Jacob Adkins",
+        "Carmel Majidi",
+        "Tess Lee Hellebrekers",
+        "Vikash Kumar"
+      ]
+    }
+  ],
+  "insights": {
+    "ko": {
+      "archetype": "early-blockbuster",
+      "headline": "Abhinav Gupta: 9년에 걸쳐 24편, 총 3,391회 인용, h=14, 500+ 블록버스터 2편.",
+      "paragraphs": [
+        "2016년 \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\"으로 출발. 첫 500+ 인용 논문까지 0년 걸림: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095회). 1000+ 인용 논문: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095회).",
+        "초기 토픽: Computer science, Artificial intelligence, GRASP. 최근 토픽: Computer science, Artificial intelligence, Robot. 피벗 점수 0.19 → 토픽 지속형.",
+        "저자수 평균: 초기 9.0명 → 후기 9.0명 (팀 유지).",
+        "최다 인용 논문 \"Target-driven visual navigation in indoor scenes using deep reinforcement learning\" (2017, 1,490회) — 커리어 초기에 위치.",
+        "제자 후보 추정 2명 — 상위: Mohan Kumar Srirama(2023~, 본인 마지막저자 2편), Gaoyue Zhou(2023~, 본인 마지막저자 1편)."
+      ],
+      "lessons": [
+        "초기 0년 안에 500+ 논문이 나옴. 첫 5년 주제 선택이 결정적."
+      ]
+    },
+    "en": {
+      "archetype": "early-blockbuster",
+      "headline": "Abhinav Gupta: over 9 years, 24 papers, 3,391 total cites, h=14, 2 blockbusters (500+ cites).",
+      "paragraphs": [
+        "Started in 2016 with \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\". First 500+ cite paper came 0 years in: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095 cites). 1000+ cite paper: \"Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours\" (2016, 1,095 cites).",
+        "Early topics: Computer science, Artificial intelligence, GRASP. Recent topics: Computer science, Artificial intelligence, Robot. Pivot score 0.19 → topic-stable.",
+        "Authors per paper: early 9.0 → late 9.0 (stable team).",
+        "Peak paper \"Target-driven visual navigation in indoor scenes using deep reinforcement learning\" (2017, 1,490 cites) — fell in early career.",
+        "2 likely students — top: Mohan Kumar Srirama(2023~, we last-author on 2), Gaoyue Zhou(2023~, we last-author on 1)."
+      ],
+      "lessons": [
+        "First 500+ cite paper within 0 years. First-5-year topic choice is decisive."
+      ]
+    }
+  }
+}
