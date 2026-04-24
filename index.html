@@ -310,8 +310,21 @@ section .section-desc {
   font-size: 1.0rem; line-height: 1.75;
   padding-left: 22px;
 }
-.cross-lessons li { margin-bottom: 12px; }
+.cross-lessons li { margin-bottom: 16px; }
 .cross-lessons li strong { color: var(--accent); }
+.cross-lessons .lesson-hist {
+  position: relative;
+  width: 100%;
+  max-width: 420px;
+  height: 56px;
+  margin: 8px 0 0 -22px;
+  padding-left: 22px;
+}
+.cross-lessons .lesson-hist-caption {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.64rem; color: var(--muted);
+  letter-spacing: 0.06em; margin-top: 2px;
+}
 
 .topic-dom {
   display: grid; gap: 10px;
@@ -839,10 +852,92 @@ function renderFilter() {
 
 /* === Cross lessons === */
 function mdBold(s) { return (s || '').replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>'); }
+
+// Map a lesson sentence to a timing-distribution key, if applicable
+const LESSON_HIST_KEYS = [
+  { re: /1000\+|1,000\+/, key: 'years_to_first_1000cite' },
+  { re: /500\+/,          key: 'years_to_first_500cite'  },
+  { re: /100\+/,          key: 'years_to_first_100cite'  },
+  { re: /(peak|\ucd5c\ub2e4 \uc778\uc6a9|\ud53c\ud06c|\ucd5c\uace0\uc810|\ub9c8\uace4 \uc704\uce58|position|career %)/i, key: 'peak_paper_relative_position' },
+];
+
 function renderCross() {
   const ol = document.getElementById('crossLessons');
   const items = (META.cross_lessons && META.cross_lessons[LANG]) || [];
-  ol.innerHTML = items.map(l => `<li>${mdBold(l)}</li>`).join('');
+  const td = META.timing_distributions || {};
+
+  ol.innerHTML = items.map((l, idx) => {
+    const match = LESSON_HIST_KEYS.find(k => k.re.test(l));
+    const hasDist = match && td[match.key];
+    const histBlock = hasDist
+      ? `<div class="lesson-hist"><canvas id="lh-${idx}"></canvas></div>`
+      : '';
+    return `<li>${mdBold(l)}${histBlock}</li>`;
+  }).join('');
+
+  items.forEach((l, idx) => {
+    const match = LESSON_HIST_KEYS.find(k => k.re.test(l));
+    if (!match) return;
+    const dist = td[match.key];
+    if (!dist) return;
+    const ctx = document.getElementById(`lh-${idx}`);
+    if (!ctx) return;
+
+    const isPct = match.key === 'peak_paper_relative_position';
+    const vals = dist.values.slice();
+    const nB = Math.min(14, Math.max(5, Math.ceil(Math.sqrt(vals.length))));
+    const step = (dist.max - dist.min) / nB || 1;
+    const buckets = new Array(nB).fill(0);
+    const labels = [];
+    let medianBucket = 0;
+    for (let b = 0; b < nB; b++) {
+      const lo = dist.min + b*step;
+      const hi = dist.min + (b+1)*step;
+      labels.push(isPct ? `${Math.round(lo*100)}%` : `${Math.round(lo)}`);
+      buckets[b] = vals.filter(v => (b === nB-1 ? (v >= lo && v <= hi) : (v >= lo && v < hi))).length;
+      if (dist.median >= lo && (b === nB-1 ? dist.median <= hi : dist.median < hi)) {
+        medianBucket = b;
+      }
+    }
+    const colors = buckets.map((_, i) => i === medianBucket ? '#c1440e' : '#2d4a3e');
+
+    newChart(ctx, {
+      type: 'bar',
+      data: {
+        labels,
+        datasets: [{
+          data: buckets,
+          backgroundColor: colors,
+          borderRadius: 2,
+          barPercentage: 0.95,
+          categoryPercentage: 0.95,
+        }]
+      },
+      options: {
+        responsive: true, maintainAspectRatio: false,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              title: (items) => {
+                const i = items[0].dataIndex;
+                const lo = dist.min + i*step;
+                const hi = dist.min + (i+1)*step;
+                return isPct
+                  ? `${Math.round(lo*100)}–${Math.round(hi*100)}%`
+                  : `${Math.round(lo)}–${Math.round(hi)}y`;
+              },
+              label: (ctx) => `${ctx.parsed.y} researchers`,
+            },
+          },
+        },
+        scales: {
+          x: { ticks: { font: { size: 8 }, color: '#6b6259', maxRotation: 0, autoSkip: true, maxTicksLimit: 8 }, grid: { display: false } },
+          y: { display: false, beginAtZero: true },
+        },
+      }
+    });
+  });
 }
 
 function renderAll() {
