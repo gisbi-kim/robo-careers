@@ -25,9 +25,55 @@ def _pick(variants, seed: str):
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-from common.io import build_author_index, load_papers
+from common.io import build_author_index, load_enriched, load_papers
 from common.phrases import build_global_idf, distinctive_phrases, prettify
 from common.glossary import lookup_phrases as lookup_glossary
+
+
+# Boilerplate lead-ins we strip to surface the actual content sentence.
+_BOILERPLATE = (
+    "in this paper", "this paper presents", "this paper proposes",
+    "this paper describes", "this paper introduces", "this paper considers",
+    "this paper addresses", "this paper investigates", "this paper reports",
+    "this paper examines", "this paper studies", "this paper is concerned",
+    "we present", "we propose", "we introduce", "we describe", "we consider",
+    "we address", "we investigate", "we report", "we examine", "we study",
+    "this letter presents", "this work presents", "this work proposes",
+    "this article presents", "this article proposes",
+    "this paper", "this letter", "this work", "this article",
+)
+
+
+def _abstract_snippet(text: str, max_chars: int = 200) -> str:
+    """Take a ~200-char substantive snippet from an abstract.
+
+    Strips the generic 'This paper presents …' lead-in if present so
+    the snippet carries real research content, not the paper's meta-framing.
+    """
+    if not text:
+        return ""
+    t = " ".join(text.strip().split())
+    low = t.lower()
+    # Try to skip initial boilerplate clause.
+    for pref in _BOILERPLATE:
+        if low.startswith(pref):
+            # Cut to the comma/colon/hyphen after the boilerplate, then space-trim.
+            cut_pos = len(pref)
+            # Skip whitespace
+            while cut_pos < len(t) and t[cut_pos] in " ,;:—-":
+                cut_pos += 1
+            remaining = t[cut_pos:].lstrip()
+            if remaining and remaining[0].isalpha():
+                # capitalise first letter for cleaner reading
+                t = remaining[0].upper() + remaining[1:]
+            break
+    if len(t) <= max_chars:
+        return t
+    cut = t[:max_chars]
+    last_space = cut.rfind(" ")
+    if last_space > max_chars * 0.6:
+        cut = cut[:last_space]
+    return cut.rstrip(" .,;:—-") + "…"
 
 META_PATH = "analysis/meta.json"
 PROFILES_DIR = "analysis/profiles"
@@ -575,7 +621,7 @@ def phase_body(profile, win, venue_win, collab_win, win_phrases, idx, total, lan
         return " ".join(sents)
 
 
-def build_phases(profile, author_papers, idf, max_idf, lang):
+def build_phases(profile, author_papers, idf, max_idf, lang, enriched=None):
     windows = profile.get("topic_windows", [])
     venue_ws = profile.get("venue_windows", [])
     collab_ws = profile.get("collab_windows", [])
@@ -622,10 +668,30 @@ def build_phases(profile, author_papers, idf, max_idf, lang):
             best = max(candidates, key=lambda x: x.get("cites", 0))
             t = best.get("title", "")
             t_short = t if len(t) <= 72 else t[:71].rstrip() + "…"
-            if lang == "ko":
-                gloss = f"대표 논문: <em>\"{t_short}\"</em> ({best.get('venue','?')} {best.get('year','')}, {best.get('cites',0):,}회)."
+            venue = best.get("venue", "?")
+            year = best.get("year", "")
+            cites = best.get("cites", 0)
+            doi = (best.get("doi") or "").lower()
+            abstract = (enriched or {}).get(doi, {}).get("abstract", "")
+            snippet = _abstract_snippet(abstract, max_chars=220)
+            if snippet:
+                if lang == "ko":
+                    gloss = (
+                        f"{snippet} "
+                        f"<span style=\"color:var(--muted); font-size:0.78rem;\">"
+                        f"— <em>\"{t_short}\"</em> ({venue} {year}, {cites:,}회)</span>"
+                    )
+                else:
+                    gloss = (
+                        f"{snippet} "
+                        f"<span style=\"color:var(--muted); font-size:0.78rem;\">"
+                        f"— <em>\"{t_short}\"</em> ({venue} {year}, {cites:,} cites)</span>"
+                    )
             else:
-                gloss = f"from paper: <em>\"{t_short}\"</em> ({best.get('venue','?')} {best.get('year','')}, {best.get('cites',0):,} cites)."
+                if lang == "ko":
+                    gloss = f"대표 논문: <em>\"{t_short}\"</em> ({venue} {year}, {cites:,}회)."
+                else:
+                    gloss = f"from paper: <em>\"{t_short}\"</em> ({venue} {year}, {cites:,} cites)."
             glossary.append({"term": phr, "gloss": gloss})
             if len(glossary) >= 5:
                 break
@@ -1583,13 +1649,13 @@ def build_lineage(profile, lang):
 
 
 def build_page_data(profile, author_papers, idf, max_idf, meta, lang, meta_dynasty,
-                    usage_counter=None):
+                    usage_counter=None, enriched=None):
     archetype_map = {a["name"]: a["archetype"] for a in meta["archetype_assignments"]}
     return {
         "tagline": tagline(profile, lang, author_papers, idf, max_idf),
         "oneLine": one_liner(profile, lang, author_papers, idf, max_idf),
         "facts": build_facts(profile, author_papers, idf, max_idf, archetype_map, lang),
-        "phases": build_phases(profile, author_papers, idf, max_idf, lang),
+        "phases": build_phases(profile, author_papers, idf, max_idf, lang, enriched=enriched),
         "themes": build_themes(profile, author_papers, idf, max_idf, meta_dynasty, lang,
                                usage_counter=usage_counter),
         "pullquote": pullquote(profile, lang, author_papers, idf, max_idf),
@@ -2299,6 +2365,11 @@ def main():
     idf, max_idf = build_global_idf(papers)
     print(f"  {len(papers):,} papers indexed", file=sys.stderr)
 
+    # Abstracts (DOI → abstract) used for paper-fallback glossary entries
+    print("Loading enriched abstracts...", file=sys.stderr)
+    enriched = load_enriched()
+    print(f"  {len(enriched):,} enriched records", file=sys.stderr)
+
     slug_map = {p["name"]: p["slug"] for p in profiles}
     dynasty_map = {
         x["name"]: x["students_in_topN"]
@@ -2322,9 +2393,9 @@ def main():
         author_papers = [papers[i] for i in name_idxs]
 
         en_data = build_page_data(p, author_papers, idf, max_idf, meta, "en", dynasty_map,
-                                  usage_counter=usage_en)
+                                  usage_counter=usage_en, enriched=enriched)
         ko_data = build_page_data(p, author_papers, idf, max_idf, meta, "ko", dynasty_map,
-                                  usage_counter=usage_ko)
+                                  usage_counter=usage_ko, enriched=enriched)
 
         archetype = dynasty_map  # just reuse; real archetype from meta
         archetype_en = next(
