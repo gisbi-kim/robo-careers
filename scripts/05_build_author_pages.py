@@ -9,9 +9,18 @@ from __future__ import annotations
 import collections
 import datetime
 import glob
+import hashlib
 import json
 import os
 import sys
+
+
+def _pick(variants, seed: str):
+    """Deterministic selection — same seed always gets the same variant."""
+    if not variants:
+        return ""
+    h = int(hashlib.md5(seed.encode("utf-8")).hexdigest(), 16)
+    return variants[h % len(variants)]
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
@@ -349,69 +358,119 @@ def phase_body(profile, win, venue_win, collab_win, win_phrases, idx, total, lan
     dom_venue, dom_share = dominant_venue(venue_win)
     family = profile["name"].split()[-1] if profile["name"] else ""
 
+    seed_base = f"{profile['name']}::{idx}"
+
     if lang == "ko":
         opener = _KO_OPENERS[idx % len(_KO_OPENERS)].format(ys=ys, ye=ye)
         sents = []
 
-        # Productivity framed as a sentence
+        # Productivity
         if n >= 60:
-            sents.append(f"{opener} 출판량이 눈에 띄게 불어난다 — 이 시기에 나온 논문이 무려 <strong>{n}편</strong>에 이른다.")
+            sents.append(_pick([
+                f"{opener} 출판량이 눈에 띄게 불어난다 — 이 기간에만 <strong>{n}편</strong>이 쏟아진다.",
+                f"{opener} 이 5년은 다작의 정점이다. 총 <strong>{n}편</strong>이 쌓인다.",
+                f"{opener} 출판 강도가 확연히 높아진다. <strong>{n}편</strong>이 이 기간의 성과물이다.",
+                f"{opener} 생산량이 피크를 찍는다. <strong>{n}편</strong>이 이 시기에 집중된다.",
+            ], seed_base + "::prod"))
         elif n >= 30:
-            sents.append(f"{opener} 총 <strong>{n}편</strong>의 논문이 쏟아졌다.")
+            sents.append(_pick([
+                f"{opener} 총 <strong>{n}편</strong>의 논문이 나온다.",
+                f"{opener} <strong>{n}편</strong>이 이 5년의 궤적에 올라간다.",
+                f"{opener} 한창 활동기다 — <strong>{n}편</strong>이 기록된다.",
+                f"{opener} <strong>{n}편</strong>을 남긴다.",
+            ], seed_base + "::prod"))
         elif n >= 10:
-            sents.append(f"{opener} <strong>{n}편</strong>의 논문이 이 기간의 출력물로 남는다.")
+            sents.append(_pick([
+                f"{opener} <strong>{n}편</strong>이 이 기간의 출력물로 남는다.",
+                f"{opener} 이 5년은 <strong>{n}편</strong>으로 기록된다.",
+                f"{opener} 꾸준한 {n}편이다 — 과하지도 부족하지도 않은 리듬.",
+                f"{opener} <strong>{n}편</strong>이 이 기간에 완성된다.",
+            ], seed_base + "::prod"))
         else:
-            sents.append(f"{opener} 출판은 {n}편으로 비교적 조용히 지나간다.")
+            sents.append(_pick([
+                f"{opener} 이 구간은 {n}편으로 비교적 조용하다.",
+                f"{opener} {n}편만이 이 시기의 출판물로 남는다.",
+                f"{opener} 출판은 {n}편에 그친다 — 축적기에 가깝다.",
+                f"{opener} {n}편 — 다음 국면을 준비하는 성격이 강하다.",
+                f"{opener} {n}편이라는 적은 수 — 집중은 다른 곳에 있었던 듯한 시기.",
+            ], seed_base + "::prod"))
 
         # Topic
         if top_concepts:
-            highlighted = [f"<span class='hl'>{c}</span>" for c in top_concepts[:2]]
-            sents.append(
-                f"연구의 무게 중심은 {', '.join(highlighted)} 위에 놓여 있었고, "
-                f"이 축은 이 시기 대부분의 성과물을 관통한다."
-            )
+            tc_str = ", ".join(f"<span class='hl'>{c}</span>" for c in top_concepts[:2])
+            sents.append(_pick([
+                f"연구의 무게 중심은 {tc_str} 위에 놓여 있었고, 이 축은 이 시기 대부분의 성과물을 관통한다.",
+                f"이 시기 연구는 {tc_str}을 중심으로 전개되었다.",
+                f"주된 연구축은 {tc_str}에 있었다.",
+                f"이 기간 작업의 골조는 {tc_str}에 놓인다.",
+                f"{tc_str} — 이 시기 그의 출판물을 묶는 주된 틀이다.",
+            ], seed_base + "::topic"))
             if len(top_concepts) > 2:
-                sents.append(f"거기에 {top_concepts[2]}가 보조 줄기로 올라온다.")
+                sents.append(_pick([
+                    f"거기에 {top_concepts[2]}가 보조 줄기로 올라온다.",
+                    f"{top_concepts[2]} 또한 인접 줄기로 관찰된다.",
+                    f"{top_concepts[2]}가 옆에서 병렬로 진행된다.",
+                ], seed_base + "::topic2"))
 
-        # Blockbusters — prose context
+        # Blockbusters
         if bbs_here:
             hit = bbs_here[0]
-            sents.append(
+            sents.append(_pick([
                 f"이 기간의 얼굴이 된 논문은 <em>\"{format_paper_title(hit['title'], 90)}\"</em>이다. "
-                f"{hit['venue']} {hit['year']}에 실린 이 글은 지금까지 {hit['cites']:,}회 인용되며 이 분야의 표준 참조로 자리 잡았다."
-            )
+                f"{hit['venue']} {hit['year']}에 실린 이 글은 지금까지 {hit['cites']:,}회 인용되며 이 분야의 표준 참조로 자리 잡았다.",
+                f"이 시기의 앵커 페이퍼는 <em>\"{format_paper_title(hit['title'], 90)}\"</em>이다. "
+                f"{hit['venue']} {hit['year']}, 누적 {hit['cites']:,}회 인용.",
+                f"{hit['venue']} {hit['year']}의 <em>\"{format_paper_title(hit['title'], 90)}\"</em>이 이 시기를 대표한다 — "
+                f"{hit['cites']:,}회 인용된 작업이다.",
+            ], seed_base + "::bb1"))
             if len(bbs_here) > 1 and bbs_here[1]["cites"] >= 100:
                 h2 = bbs_here[1]
-                sents.append(
-                    f"그 뒤를 잇는 것이 {h2['year']} {h2['venue']}의 "
-                    f"<em>\"{format_paper_title(h2['title'], 75)}\"</em>({h2['cites']:,}회)이다."
-                )
+                sents.append(_pick([
+                    f"그 뒤를 잇는 것이 {h2['year']} {h2['venue']}의 <em>\"{format_paper_title(h2['title'], 75)}\"</em>({h2['cites']:,}회)이다.",
+                    f"두 번째 앵커는 <em>\"{format_paper_title(h2['title'], 75)}\"</em>({h2['venue']} {h2['year']}, {h2['cites']:,}회).",
+                    f"나란히 놓이는 것이 {h2['year']} {h2['venue']}의 <em>\"{format_paper_title(h2['title'], 75)}\"</em>({h2['cites']:,}회)이다.",
+                ], seed_base + "::bb2"))
         elif n >= 20:
-            sents.append("이 기간에는 뚜렷한 단일 블록버스터보다는 꾸준한 중간층 생산으로 누적 인용이 쌓여간다.")
+            sents.append(_pick([
+                "이 기간에는 뚜렷한 단일 블록버스터보다는 꾸준한 중간층 생산으로 누적 인용이 쌓여간다.",
+                "눈에 띄는 초대형 논문은 없다 — 대신 중간층의 논문들이 차곡차곡 쌓여 누적을 만든다.",
+                "단 한 편에 의존하지 않는 시기다. 여러 중량급 논문이 분산되어 인용을 채운다.",
+            ], seed_base + "::nobb"))
 
         # Coauthors
         if coauths:
             names = ", ".join(f"<strong>{n_}</strong>" for n_, c in coauths)
             if len(coauths) == 1:
-                sents.append(f"이 시기를 실질적으로 함께 끌고 간 파트너는 {names}이다.")
+                sents.append(_pick([
+                    f"이 시기를 실질적으로 함께 끌고 간 파트너는 {names}이다.",
+                    f"주된 공동 연구자는 {names}였다.",
+                    f"이 시기 일의 대부분은 {names}와의 협업에서 나온다.",
+                ], seed_base + "::co"))
             else:
-                sents.append(f"이 시기를 함께 끌어간 축은 {names}으로 요약된다.")
+                sents.append(_pick([
+                    f"이 시기를 함께 끌어간 축은 {names}으로 요약된다.",
+                    f"이 기간의 핵심 협력자: {names}.",
+                    f"주된 공동 연구축은 {names}에 있다.",
+                    f"이 시기의 실질적 작업 축은 {names}와의 협업이었다.",
+                ], seed_base + "::co"))
 
         # Students
         if new_students:
             names = ", ".join(s["name"] for s in new_students[:4])
             more = f" 외 {len(new_students) - 4}명" if len(new_students) > 4 else ""
-            sents.append(
-                f"바로 이 시기에 {family}의 지도 아래에서 첫 논문을 낸 것으로 보이는 후배 연구자들이 나타난다 — "
-                f"{names}{more}. 개인 연구에서 그룹 운영으로의 전환이 이 시기 안에서 관찰된다."
-            )
+            sents.append(_pick([
+                f"바로 이 시기에 {family}의 지도 아래에서 첫 논문을 낸 것으로 보이는 후배 연구자들이 나타난다 — {names}{more}. 개인 연구에서 그룹 운영으로의 전환이 이 시기 안에서 관찰된다.",
+                f"{family}와 처음 공저를 시작한 후배 연구자들이 이 시기에 등장한다 — {names}{more}. 랩 규모가 본격적으로 커지는 신호다.",
+                f"이 기간에 새로 합류한 후배로 {names}{more}이 보인다. {family} 연구실의 다음 세대가 이 시기에 형성된다.",
+            ], seed_base + "::stu"))
 
         # Venue
         if dom_venue and dom_share >= 0.55:
-            sents.append(
-                f"발표 무대는 압도적으로 <span class='hl'>{dom_venue}</span>에 쏠려 있었다 "
-                f"— 이 시기 출판의 {dom_share:.0%}가 이 venue에서 소화되었다."
-            )
+            sents.append(_pick([
+                f"발표 무대는 압도적으로 <span class='hl'>{dom_venue}</span>에 쏠려 있었다 — 이 시기 출판의 {dom_share:.0%}가 이 venue에서 소화되었다.",
+                f"이 시기 출판물의 {dom_share:.0%}가 <span class='hl'>{dom_venue}</span>에 집중된다.",
+                f"<span class='hl'>{dom_venue}</span>가 이 시기 주된 발표 창구로 기능했다 ({dom_share:.0%}).",
+            ], seed_base + "::venue"))
 
         return " ".join(sents)
 
@@ -420,61 +479,96 @@ def phase_body(profile, win, venue_win, collab_win, win_phrases, idx, total, lan
         sents = []
 
         if n >= 60:
-            sents.append(f"{opener} the output surges — <strong>{n}</strong> papers in just five years.")
+            sents.append(_pick([
+                f"{opener} the output surges — <strong>{n}</strong> papers in just five years.",
+                f"{opener} this stretch is the peak of production — <strong>{n}</strong> papers accumulate.",
+                f"{opener} publication intensity climbs hard: <strong>{n}</strong> in this window alone.",
+            ], seed_base + "::prod"))
         elif n >= 30:
-            sents.append(f"{opener} <strong>{n}</strong> papers land in this stretch.")
+            sents.append(_pick([
+                f"{opener} <strong>{n}</strong> papers land in this stretch.",
+                f"{opener} the tally reads <strong>{n}</strong> papers — fully active.",
+                f"{opener} <strong>{n}</strong> papers are produced in these five years.",
+            ], seed_base + "::prod"))
         elif n >= 10:
-            sents.append(f"{opener} <strong>{n}</strong> papers were produced — a measured pace.")
+            sents.append(_pick([
+                f"{opener} <strong>{n}</strong> papers were produced — a measured pace.",
+                f"{opener} a steady <strong>{n}</strong> papers mark this period.",
+                f"{opener} <strong>{n}</strong> papers close out the window.",
+            ], seed_base + "::prod"))
         else:
-            sents.append(f"{opener} the window is a quieter one — {n} papers in total.")
+            sents.append(_pick([
+                f"{opener} the window is a quieter one — {n} papers in total.",
+                f"{opener} {n} papers — an accumulation period rather than a burst.",
+                f"{opener} only {n} papers land here; the real work may have been elsewhere.",
+                f"{opener} output holds at {n} — a setup for what follows.",
+            ], seed_base + "::prod"))
 
         if top_concepts:
             highlighted = [f"<span class='hl'>{c}</span>" for c in top_concepts[:2]]
-            sents.append(
-                f"The center of gravity rests on {', '.join(highlighted)}, "
-                "the axis that threads through most of the era's output."
-            )
+            sents.append(_pick([
+                f"The center of gravity rests on {', '.join(highlighted)}, threading through most of the era's output.",
+                f"The working axis sits on {', '.join(highlighted)}.",
+                f"Most of this stretch's work orbits {', '.join(highlighted)}.",
+                f"The research frame for this period is {', '.join(highlighted)}.",
+            ], seed_base + "::topic"))
             if len(top_concepts) > 2:
-                sents.append(f"{top_concepts[2]} emerges as a secondary strand.")
+                sents.append(_pick([
+                    f"{top_concepts[2]} emerges as a secondary strand.",
+                    f"{top_concepts[2]} runs alongside as a parallel track.",
+                    f"A secondary thread — {top_concepts[2]} — appears here.",
+                ], seed_base + "::topic2"))
 
         if bbs_here:
             hit = bbs_here[0]
-            sents.append(
-                f"The face of the period is <em>\"{format_paper_title(hit['title'], 90)}\"</em> — "
-                f"published in {hit['venue']} {hit['year']}, accumulating {hit['cites']:,} citations and "
-                "becoming a standard reference in the sub-field."
-            )
+            sents.append(_pick([
+                f"The face of the period is <em>\"{format_paper_title(hit['title'], 90)}\"</em> — {hit['venue']} {hit['year']}, {hit['cites']:,} cites, now a standard reference.",
+                f"The anchor paper is <em>\"{format_paper_title(hit['title'], 90)}\"</em> ({hit['venue']} {hit['year']}, {hit['cites']:,} cites).",
+                f"The era's signature work, <em>\"{format_paper_title(hit['title'], 90)}\"</em>, was published in {hit['venue']} {hit['year']} and has accumulated {hit['cites']:,} citations.",
+            ], seed_base + "::bb1"))
             if len(bbs_here) > 1 and bbs_here[1]["cites"] >= 100:
                 h2 = bbs_here[1]
-                sents.append(
-                    f"Close behind: <em>\"{format_paper_title(h2['title'], 75)}\"</em> "
-                    f"({h2['venue']} {h2['year']}, {h2['cites']:,} cites)."
-                )
+                sents.append(_pick([
+                    f"Close behind: <em>\"{format_paper_title(h2['title'], 75)}\"</em> ({h2['venue']} {h2['year']}, {h2['cites']:,}).",
+                    f"A second anchor, <em>\"{format_paper_title(h2['title'], 75)}\"</em>, sits alongside ({h2['venue']} {h2['year']}, {h2['cites']:,}).",
+                ], seed_base + "::bb2"))
         elif n >= 20:
-            sents.append(
-                "No single blockbuster defines this stretch; the citation ledger grows through sustained mid-tier production."
-            )
+            sents.append(_pick([
+                "No single blockbuster defines this stretch; the citation ledger grows through sustained mid-tier production.",
+                "The ledger grows not from a blockbuster but from a wide middle — many mid-weight papers, no single peak.",
+                "Impact here is distributed — steady mid-tier works accumulate rather than one headline paper.",
+            ], seed_base + "::nobb"))
 
         if coauths:
             names = ", ".join(f"<strong>{n_}</strong>" for n_, c in coauths)
             if len(coauths) == 1:
-                sents.append(f"The key working partner of this era is {names}.")
+                sents.append(_pick([
+                    f"The key working partner of this era is {names}.",
+                    f"Most of the era's work rides on the partnership with {names}.",
+                    f"The principal collaborator is {names}.",
+                ], seed_base + "::co"))
             else:
-                sents.append(f"The era's working axis reads {names}.")
+                sents.append(_pick([
+                    f"The era's working axis reads {names}.",
+                    f"Core collaborators: {names}.",
+                    f"The primary co-working axis ran through {names}.",
+                ], seed_base + "::co"))
 
         if new_students:
             names = ", ".join(s["name"] for s in new_students[:4])
             more = f", + {len(new_students) - 4} more" if len(new_students) > 4 else ""
-            sents.append(
-                f"It is in this window that several junior coauthors appear to have begun their own careers under {family} — "
-                f"{names}{more}. The transition from solo work to group supervision is visible here."
-            )
+            sents.append(_pick([
+                f"It is in this window that several junior coauthors appear to have begun their own careers under {family} — {names}{more}. The transition from solo work to group supervision is visible here.",
+                f"New junior coauthors surface in this window — {names}{more}. The group around {family} starts taking shape here.",
+                f"This period is when {family}'s cohort begins to form on paper: {names}{more}.",
+            ], seed_base + "::stu"))
 
         if dom_venue and dom_share >= 0.55:
-            sents.append(
-                f"The publishing venue skews heavily — <span class='hl'>{dom_venue}</span> absorbed "
-                f"{dom_share:.0%} of the period's output."
-            )
+            sents.append(_pick([
+                f"The publishing venue skews heavily — <span class='hl'>{dom_venue}</span> absorbed {dom_share:.0%} of the period's output.",
+                f"{dom_share:.0%} of this period's output goes to <span class='hl'>{dom_venue}</span>.",
+                f"<span class='hl'>{dom_venue}</span> dominates the venue mix in this window ({dom_share:.0%}).",
+            ], seed_base + "::venue"))
 
         return " ".join(sents)
 
@@ -750,24 +844,187 @@ def build_themes(profile, author_papers, idf, max_idf, meta_dynasty, lang):
     return themes
 
 
-def pullquote(profile, lang):
+def pullquote(profile, lang, author_papers=None, idf=None, max_idf=None):
     cs = profile["career_stats"]
     pivot = profile.get("pivot_score", 0)
     students = profile.get("likely_students", [])
     ms = profile.get("milestones", {})
-    if pivot >= 0.4:
-        return "Reinvent the tool. Keep the question." if lang == "en" else "도구를 갈아엎어라. 질문은 남겨둬라."
-    if len(students) >= 25:
-        return (f"{len(students)} students — that's the real body of work."
-                if lang == "en" else f"제자 {len(students)}명 — 그게 진짜 연구 업적이다.")
-    if "first_500cite" in ms and ms["first_500cite"]["gap_from_first"] <= 5:
-        return ("Land the big paper early. Everything else is momentum."
-                if lang == "en" else "블록버스터는 빨리 쏴라. 나머지는 관성으로 간다.")
-    if cs["total_papers"] >= 200:
-        return ("Volume is a strategy — if you can sustain it."
-                if lang == "en" else "다작도 전략이다 — 버틸 수 있다면.")
-    return ("Pick the question that survives tooling changes."
-            if lang == "en" else "도구가 바뀌어도 살아남는 질문을 고르라.")
+    td = profile.get("team_drift", {})
+    advisors = profile.get("likely_advisors", [])
+
+    seed = profile["name"]
+
+    # Career-wide anchor phrase for more specific quotes
+    anchor = ""
+    if author_papers is not None and idf is not None:
+        ps = phrases_for_span(author_papers, idf, max_idf, k=3)
+        anchor = ps[0] if ps else ""
+
+    # Pick by priority: the most distinctive trait wins.
+    if pivot >= 0.45:
+        return _pick(
+            [
+                "도구는 버려도, 질문은 그대로 남는다.",
+                "같은 이름, 다른 질문 — 10년마다.",
+                "익숙해지기 전에 이동했다.",
+                "무대를 바꾸는 것이 이 커리어의 방법론이었다.",
+                "바뀌는 것은 방법, 남는 것은 감각.",
+            ], seed) if lang == "ko" else _pick(
+            [
+                "Tools change. The question stays.",
+                "Same name, different question — once a decade.",
+                "Moved before getting comfortable.",
+                "The method here is changing methods.",
+                "What changes is how; what stays is why.",
+            ], seed)
+
+    if len(students) >= 30:
+        return _pick(
+            [
+                f"{len(students)}명을 내보낸 것이, 진짜 결과물이다.",
+                "가장 오래 남는 결과물은 사람이다.",
+                "논문 숫자가 흐려져도, 지도한 연구자 목록은 남는다.",
+                "커리어를 사람으로 읽어야 하는 경우.",
+            ], seed) if lang == "ko" else _pick(
+            [
+                f"The {len(students)} people launched — that is the real output.",
+                "What outlasts citations is the roster of people trained.",
+                "A career best read in students, not in papers.",
+                "Careers you measure in other careers.",
+            ], seed)
+
+    if "first_500cite" in ms and ms["first_500cite"]["gap_from_first"] <= 4:
+        g = ms["first_500cite"]["gap_from_first"]
+        gap_txt = "첫 논문부터" if g == 0 else f"시작 {g}년 차에"
+        gap_en = "from the very first paper" if g == 0 else f"in year {g}"
+        return _pick(
+            [
+                f"{gap_txt} 나온 한 편이, 나머지를 결정한다.",
+                f"커리어의 중력은 {gap_txt} 쏜 논문 하나에서 나온다.",
+                "처음 5년 안에 착지한 주제가 전부를 끌고 간다.",
+                "초반에 제대로 꽂으면 나머지는 관성이다.",
+            ], seed) if lang == "ko" else _pick(
+            [
+                f"One paper {gap_en} — it set the rest of the career.",
+                f"The gravity of this career comes from an early anchor {gap_en}.",
+                "Land the big one in the first five years; the rest is momentum.",
+                "An early anchor carries a whole career.",
+            ], seed)
+
+    if pivot < 0.18 and cs["total_papers"] >= 150 and anchor:
+        return _pick(
+            [
+                f"하나의 문제, {cs['span']}년.",
+                f"{anchor} — {cs['span']}년에 걸친 복리.",
+                "한 우물을 끝까지 판다는 것.",
+                "깊이는 시간이 만드는 덕목이다.",
+            ], seed) if lang == "ko" else _pick(
+            [
+                f"One question, {cs['span']} years.",
+                f"{anchor}, compounded for {cs['span']} years.",
+                "To push one lane all the way down.",
+                "Depth is a virtue that time underwrites.",
+            ], seed)
+
+    if cs["total_papers"] >= 250:
+        return _pick(
+            [
+                f"{cs['total_papers']}편 — 다작은 지속성의 다른 이름이다.",
+                "볼륨은 품질이 아니라 시간의 이름이다.",
+                "많이 쓴다는 것은, 오래 버틴다는 뜻이다.",
+                "누적이 어떤 통찰보다 강할 수 있다.",
+            ], seed) if lang == "ko" else _pick(
+            [
+                f"{cs['total_papers']} papers — volume is another word for endurance.",
+                "Volume is not quality — it is the name for sustained time.",
+                "To write a lot is to keep showing up.",
+                "Accumulation can outweigh insight.",
+            ], seed)
+
+    td_e, td_l = td.get("early_mean_n_authors"), td.get("late_mean_n_authors")
+    if td_e and td_l and td_l - td_e > 1.5:
+        return _pick(
+            [
+                "혼자 쓰던 사람이, 랩을 이끄는 사람이 되었다.",
+                "한 명에서 시작해 팀이 된 궤적.",
+                "저자 수가 늘어난다는 것은, 스타일이 바뀌었다는 뜻이다.",
+            ], seed) if lang == "ko" else _pick(
+            [
+                "The solo writer became the group leader.",
+                "From one author per paper to many.",
+                "Author counts grew because the style did.",
+            ], seed)
+
+    if advisors and cs["span"] < 20:
+        adv = advisors[0]["name"]
+        return _pick(
+            [
+                f"{adv}의 네트워크에서 시작해, 자신의 궤도로 확장해갔다.",
+                "스승의 우산 아래에서 출발해, 자신의 지도를 그리는 중.",
+                "받은 것 위에 쌓는다는 것.",
+            ], seed) if lang == "ko" else _pick(
+            [
+                f"Launched inside {adv}'s network; now tracing an own path.",
+                "Starting under an umbrella, now drawing their own map.",
+                "Building on what was handed down.",
+            ], seed)
+
+    if cs["h_index"] >= 70:
+        return _pick(
+            [
+                f"h={cs['h_index']} — 복리의 결과물이다.",
+                "임팩트는 이벤트가 아니라 상태다.",
+                "지속이 인용을 만든다.",
+            ], seed) if lang == "ko" else _pick(
+            [
+                f"h={cs['h_index']} — a compound result.",
+                "Impact is not an event; it is a state.",
+                "Staying is what builds the ledger.",
+            ], seed)
+
+    # Generic — but varied per researcher
+    if anchor and lang == "ko":
+        ko_generic_with_anchor = [
+            f"{anchor} 하나에 인생을 걸었다.",
+            f"{anchor}라는 축이 이 커리어의 모든 것을 지탱한다.",
+            f"{anchor}가 답이자 방법이었다.",
+        ]
+        fallback_ko = [
+            "도구가 바뀌어도 살아남는 질문을 고르라.",
+            "평균이 아닌, 지속의 결과물.",
+            "빠르게 가지 않아도 멀리 간다.",
+            "구조의 일부가 되는 방법은, 오래 남는 것이다.",
+            "데이터가 먼저 말하게 두는 커리어.",
+        ]
+        return _pick(ko_generic_with_anchor + fallback_ko, seed)
+    if anchor and lang == "en":
+        en_generic_with_anchor = [
+            f"Bet a career on {anchor}.",
+            f"A whole career held up by {anchor}.",
+            f"{anchor} was both the answer and the method.",
+        ]
+        fallback_en = [
+            "Pick the question that survives tooling changes.",
+            "Not fast, but far.",
+            "Becoming part of the structure by outlasting it.",
+            "Not the average — the persistence.",
+            "Let the data speak first.",
+        ]
+        return _pick(en_generic_with_anchor + fallback_en, seed)
+
+    fallback_ko = [
+        "도구가 바뀌어도 살아남는 질문을 고르라.",
+        "평균이 아닌, 지속의 결과물.",
+        "빠르게 가지 않아도 멀리 간다.",
+        "데이터가 먼저 말하게 두는 커리어.",
+    ]
+    fallback_en = [
+        "Pick the question that survives tooling changes.",
+        "Not fast, but far.",
+        "Let the data speak first.",
+        "Not the average — the persistence.",
+    ]
+    return _pick(fallback_ko if lang == "ko" else fallback_en, seed)
 
 
 def build_highlights(profile, k=8):
@@ -802,7 +1059,7 @@ def build_page_data(profile, author_papers, idf, max_idf, meta, lang, meta_dynas
         "facts": build_facts(profile, author_papers, idf, max_idf, archetype_map, lang),
         "phases": build_phases(profile, author_papers, idf, max_idf, lang),
         "themes": build_themes(profile, author_papers, idf, max_idf, meta_dynasty, lang),
-        "pullquote": pullquote(profile, lang),
+        "pullquote": pullquote(profile, lang, author_papers, idf, max_idf),
         "highlights": build_highlights(profile),
         "lineage": build_lineage(profile, lang),
     }
@@ -922,27 +1179,29 @@ body {
 }
 .profile-facts {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 4px 20px;
+  grid-template-columns: max-content 1fr;
+  gap: 0 16px;
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.78rem;
   align-self: start;
   border-left: 2px solid var(--ink);
-  padding-left: 20px;
+  padding-left: 16px;
 }
 .profile-facts dt {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-size: 0.64rem;
   color: var(--muted);
-  padding-top: 8px;
+  padding: 8px 0 0;
+  white-space: nowrap;
 }
 .profile-facts dd {
   font-size: 0.82rem;
-  padding-bottom: 8px;
+  padding: 8px 0;
   border-bottom: 1px dotted rgba(26, 22, 20, 0.2);
   font-family: 'Pretendard', sans-serif;
 }
+.profile-facts dt { border-bottom: 1px dotted rgba(26, 22, 20, 0.2); padding-bottom: 8px; }
 .profile-facts dd strong { color: var(--accent); font-weight: 700; }
 
 .section { margin-bottom: 56px; }
@@ -1145,6 +1404,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
     <div class="brand"><a href="../index.html">Robo <span class="amp">·</span> Careers</a></div>
     <div class="right">
       <span><a class="back-link" href="../index.html" id="backLink">← home</a></span>
+      <span><a class="back-link" href="../methodology.html" id="methodologyLink">methodology&nbsp;↗</a></span>
       <span class="lang-tabs">
         <a class="lang-tab" data-lang="en" href="#en">EN</a>
         <span class="lang-sep">/</span>
@@ -1284,7 +1544,7 @@ function render() {
   document.getElementById('rankBadge').textContent = T.rankBadge(meta.rank, meta.natural_rank, meta.composite, d.archetype, meta.force_included);
   document.getElementById('tagEl').textContent = d.tagline;
   document.getElementById('nameEl').innerHTML = `<span class="given">${meta.given}</span><span class="family">${meta.family}</span>`;
-  document.getElementById('oneLineEl').textContent = d.oneLine;
+  document.getElementById('oneLineEl').innerHTML = d.oneLine;
   document.getElementById('factsEl').innerHTML = d.facts.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('');
 
   document.getElementById('phasesLabel').textContent = T.phasesLabel;
@@ -1301,7 +1561,7 @@ function render() {
       </div>
     </div>`).join('');
 
-  document.getElementById('pullquoteEl').textContent = d.pullquote;
+  document.getElementById('pullquoteEl').innerHTML = d.pullquote;
 
   document.getElementById('themesLabel').textContent = T.themesLabel;
   document.getElementById('themesTitle').textContent = T.themesTitle;
@@ -1343,6 +1603,11 @@ function render() {
 
   document.getElementById('footData').innerHTML = T.footData;
   document.getElementById('backLink').textContent = T.home;
+  const mL = document.getElementById('methodologyLink');
+  if (mL) {
+    mL.textContent = (LANG === 'ko' ? '방법론 ↗' : 'methodology ↗');
+    mL.href = '../methodology.html' + (LANG === 'ko' ? '#ko' : '');
+  }
   document.querySelectorAll('.lang-tab').forEach(t => t.classList.toggle('active', t.dataset.lang === LANG));
 }
 

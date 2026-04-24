@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Methodology · Robo · Careers</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,900;1,9..144,400&family=JetBrains+Mono:wght@400;500;700&family=Noto+Serif+KR:wght@300;400;500;600;700;900&family=Pretendard:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #1a1614;
+  --paper: #f5f1ea;
+  --paper-2: #ebe4d7;
+  --accent: #c1440e;
+  --accent-2: #2d4a3e;
+  --muted: #6b6259;
+  --highlight: #f4d35e;
+  --card: #fbf8f1;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body {
+  background: var(--paper); color: var(--ink);
+  font-family: 'Pretendard', 'Noto Serif KR', sans-serif;
+  font-size: 16px; line-height: 1.7; word-break: keep-all;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  background-image:
+    radial-gradient(circle at 20% 30%, rgba(193, 68, 14, 0.04) 0%, transparent 40%),
+    radial-gradient(circle at 80% 70%, rgba(45, 74, 62, 0.04) 0%, transparent 40%);
+  min-height: 100vh; padding: 40px 24px 96px;
+}
+.grain {
+  position: fixed; inset: 0; pointer-events: none;
+  opacity: 0.35; mix-blend-mode: multiply; z-index: 1;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='200' height='200'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/><feColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+}
+.container { max-width: 820px; margin: 0 auto; position: relative; z-index: 2; }
+
+.masthead {
+  border-top: 2px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
+  padding: 14px 0 12px; margin-bottom: 40px;
+  display: flex; justify-content: space-between; align-items: baseline;
+  gap: 24px; flex-wrap: wrap;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--muted);
+}
+.masthead .brand {
+  font-family: 'Fraunces', serif; font-weight: 900; font-style: italic;
+  font-size: 1.4rem; color: var(--ink);
+  letter-spacing: -0.02em; text-transform: none;
+}
+.masthead .brand a { color: inherit; text-decoration: none; }
+.masthead .brand .amp { color: var(--accent); }
+.masthead .right { display: flex; gap: 16px; align-items: baseline; }
+.back-link { color: var(--muted); text-decoration: none; border-bottom: 1px dotted currentColor; }
+.back-link:hover { color: var(--ink); }
+.lang-tabs { display: inline-flex; gap: 2px; align-items: center; }
+.lang-tab {
+  padding: 2px 8px; cursor: pointer;
+  text-decoration: none; color: var(--muted);
+  border: 1px solid transparent; font-size: 0.66rem;
+}
+.lang-tab.active { color: var(--paper); background: var(--ink); border-color: var(--ink); }
+.lang-tab:not(.active):hover { color: var(--ink); border-color: var(--muted); }
+.lang-sep { color: var(--muted); opacity: 0.35; }
+
+.hero { padding-bottom: 24px; margin-bottom: 40px; border-bottom: 1px solid var(--ink); }
+.kicker {
+  display: inline-block; margin-bottom: 16px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.72rem; text-transform: uppercase;
+  letter-spacing: 0.18em; color: var(--accent-2);
+}
+h1 {
+  font-family: 'Noto Serif KR', 'Fraunces', serif;
+  font-weight: 600; font-size: clamp(1.7rem, 3.2vw, 2.4rem);
+  line-height: 1.25; letter-spacing: -0.02em;
+  max-width: 28ch;
+}
+h1 em { font-style: italic; color: var(--accent); }
+.lede {
+  font-family: 'Noto Serif KR', serif;
+  font-size: 1.05rem; color: var(--muted);
+  margin-top: 20px; max-width: 62ch; line-height: 1.7;
+  border-left: 3px solid var(--accent); padding-left: 14px;
+}
+
+section { margin-bottom: 48px; }
+section h2 {
+  font-family: 'Noto Serif KR', 'Fraunces', serif;
+  font-weight: 700; font-size: 1.35rem;
+  letter-spacing: -0.01em;
+  border-bottom: 1px solid var(--ink);
+  padding-bottom: 10px; margin-bottom: 20px;
+}
+section h3 {
+  font-family: 'Noto Serif KR', 'Fraunces', serif;
+  font-weight: 600; font-size: 1.05rem;
+  margin: 22px 0 10px; color: var(--ink);
+}
+section p { margin-bottom: 12px; max-width: 68ch; }
+section ul { margin: 8px 0 16px 22px; max-width: 68ch; }
+section li { margin-bottom: 6px; }
+section strong { color: var(--accent); font-weight: 700; }
+section em { font-style: italic; color: var(--accent-2); }
+
+.formula {
+  background: var(--card);
+  border-left: 3px solid var(--accent);
+  padding: 16px 20px;
+  margin: 14px 0 20px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.86rem; line-height: 1.7;
+  color: var(--ink);
+  overflow-x: auto;
+}
+.formula b { color: var(--accent); font-weight: 700; }
+
+.callout {
+  background: rgba(244,211,94,0.2);
+  border-left: 3px solid var(--highlight);
+  padding: 16px 20px; margin: 20px 0;
+  font-family: 'Noto Serif KR', serif;
+  font-size: 0.96rem; line-height: 1.7;
+}
+
+.foot {
+  margin-top: 64px; padding-top: 20px;
+  border-top: 1px solid var(--ink);
+  display: flex; justify-content: space-between;
+  flex-wrap: wrap; gap: 16px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.68rem; text-transform: uppercase;
+  letter-spacing: 0.12em; color: var(--muted);
+}
+.foot a { color: var(--muted); }
+.block-en, .block-ko { display: none; }
+html[lang="en"] .block-en { display: block; }
+html[lang="ko"] .block-ko { display: block; }
+</style>
+</head>
+<body>
+<div class="grain"></div>
+<div class="container">
+
+  <header class="masthead">
+    <div class="brand"><a href="index.html">Robo <span class="amp">·</span> Careers</a></div>
+    <div class="right">
+      <span><a class="back-link" href="index.html">← home</a></span>
+      <span class="lang-tabs">
+        <a class="lang-tab" data-lang="en" href="#en">EN</a>
+        <span class="lang-sep">/</span>
+        <a class="lang-tab" data-lang="ko" href="#ko">KO</a>
+      </span>
+    </div>
+  </header>
+
+  <!-- ================== ENGLISH ================== -->
+  <div class="block-en">
+    <section class="hero">
+      <span class="kicker">Methodology · Scope · Caveats</span>
+      <h1>How this list was made, and <em>why it isn't a ranking</em>.</h1>
+      <p class="lede">
+        The number next to a name on this site is a position in a composite score, not a verdict.
+        Different metric weights would produce a visibly different list. Missing someone does not
+        mean the algorithm disapproves of them — the algorithm has opinions, but no values.
+        This page walks through what the number actually represents.
+      </p>
+    </section>
+
+    <section>
+      <h2>1. Scope of the data</h2>
+      <p>
+        All metrics on this site are computed <strong>only over the robopaper-atlas corpus</strong> —
+        a specific 9-venue cross-section of robotics research:
+      </p>
+      <ul>
+        <li><b>ICRA</b> · <b>IROS</b> · <b>RA-L</b> · <b>T-RO</b> · <b>RSS</b> · <b>IJRR</b> · <b>Sci-Rob</b> · <b>SoRo</b> · <b>T-Mech</b></li>
+        <li>81,680 deduplicated papers spanning 1982 – 2025.</li>
+        <li>Metadata merged from <a href="https://dblp.org" target="_blank">DBLP</a> and enriched (abstracts, citations, concepts) from <a href="https://openalex.org" target="_blank">OpenAlex</a>.</li>
+      </ul>
+      <p>
+        This scope was chosen because these venues are where the robotics community historically consolidated.
+        But it deliberately excludes neighboring literatures:
+      </p>
+      <ul>
+        <li>Pure computer vision (CVPR / ICCV / ECCV)</li>
+        <li>Machine learning (NeurIPS / ICML / ICLR)</li>
+        <li>Biomedical / biology (Nature / Science / PNAS)</li>
+        <li>Mechanical engineering journals outside T-Mech</li>
+        <li>Industry work that never reached conference submission</li>
+      </ul>
+      <p>
+        A researcher whose primary output goes to any of the above will be <em>structurally underrepresented
+        here regardless of their actual impact</em>. Andreas Geiger, for instance, appears with just
+        15 atlas papers — the rest of his KITTI-era output is in CVPR.
+      </p>
+    </section>
+
+    <section>
+      <h2>2. The composite score</h2>
+      <p>For every researcher passing the paper-count floor, five metrics are z-scored over the natural pool, then summed:</p>
+      <div class="formula">
+        composite = z(<b>total_cites</b>) + z(<b>h_index</b>) + z(<b>seminal_count</b>) + z(<b>career_span</b>) + z(<b>hub_degree</b>)
+      </div>
+      <ul>
+        <li><b>total_cites</b> — sum of citations across all atlas papers.</li>
+        <li><b>h_index</b> — largest <i>h</i> such that <i>h</i> papers each have ≥ <i>h</i> citations.</li>
+        <li><b>seminal_count</b> — number of papers with ≥ 500 citations.</li>
+        <li><b>career_span</b> — years between first and last atlas paper.</li>
+        <li><b>hub_degree</b> — coauthor-network edge count.</li>
+      </ul>
+      <p>
+        <strong>Filter:</strong> anyone with fewer than 30 atlas papers is excluded from the natural pool.
+        That is why many strong junior PIs are absent even when their work is clearly impactful.
+      </p>
+      <p>
+        <strong>Weights are equal.</strong> This is a choice, not a discovery. Weighting <em>total_cites</em>
+        more heavily would favor older researchers. Weighting <em>hub_degree</em> more heavily would favor highly
+        collaborative ones. Different reasonable weightings produce visibly different lists — we picked one
+        and stayed consistent.
+      </p>
+    </section>
+
+    <section>
+      <h2>3. Biases you should assume are present</h2>
+      <ul>
+        <li><b>Generation bias.</b> Mid/late-career researchers accumulate the citations, h-index, and span that this score rewards. Early-career PIs with high per-paper impact will look low.</li>
+        <li><b>Sub-field bias.</b> Researchers whose work lives at the vision/ML/bio edge publish largely outside these 9 venues. Their atlas numbers understate them.</li>
+        <li><b>Venue-weight bias.</b> RA-L didn't exist before 2016; many earlier journal-style papers went elsewhere.</li>
+        <li><b>Name disambiguation.</b> Same person across name variants (Hyun-Jin Kim vs H. Jin Kim) may split. DBLP already disambiguates homonyms; we strip the suffix.</li>
+        <li><b>Snapshot bias.</b> Citation counts from OpenAlex at <span id="buildDate">build time</span>; they rise every day.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>4. The force-included list (★)</h2>
+      <p>
+        When the composite score would otherwise leave a sub-field uncovered — SLAM, spatial AI, soft robotics,
+        Korean roboticists, embodied/physical AI — a human editor adds names to a curated include list.
+        These people are <strong>flagged with ★</strong> and their honest <em>natural rank</em> is printed beside
+        their display rank, so you can see the intervention openly.
+      </p>
+      <p>
+        Inclusion here is a judgment about field representation, not a hidden boost to the algorithm.
+        The 100 natural top slots are completely unaffected by who gets force-included; z-scores use the
+        natural pool only.
+      </p>
+    </section>
+
+    <section>
+      <h2>5. What this is <em>not</em></h2>
+      <ul>
+        <li><strong>Not</strong> a "best robotics researchers" ranking. No such thing is computable.</li>
+        <li><strong>Not</strong> a quality comparison between individuals. Rank #40 vs #80 inside this corpus is within the noise of weight choice.</li>
+        <li><strong>Not</strong> a hiring, admissions, or tenure signal.</li>
+        <li><strong>Not</strong> validated against any external "ground truth" of impact.</li>
+        <li><strong>Not</strong> predictive — the list captures what has already accumulated, not what is emerging.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>6. What it <em>is</em></h2>
+      <ul>
+        <li>A lens on 40+ years of a specific, well-defined venue set.</li>
+        <li>A way to visualize career arc shapes, topic pivots, and academic lineage at scale.</li>
+        <li>A data product — the per-researcher JSONs are all open, query them yourself.</li>
+        <li>An invitation to ask better questions about research careers, not a final answer.</li>
+      </ul>
+      <div class="callout">
+        If you see yourself or a colleague at rank #80 instead of #20, please read that gap as
+        a quirk of metric weighting inside a narrow venue set — not as a judgment on the work.
+        If you don't see yourself at all, it very often means your venue mix simply doesn't
+        overlap much with these 9 — not that you were excluded on merit.
+      </div>
+    </section>
+
+    <section>
+      <h2>7. Open source</h2>
+      <p>
+        Every step is in <a href="https://github.com/gisbi-kim/robo-careers" target="_blank">gisbi-kim/robo-careers</a>:
+        the selection script, the metric formulas, the distinctive-phrase extractor, the HTML generators.
+        Run it yourself with different weights or a different venue set and you'll get a different list —
+        which is exactly the point.
+      </p>
+    </section>
+  </div>
+
+  <!-- ================== KOREAN ================== -->
+  <div class="block-ko">
+    <section class="hero">
+      <span class="kicker">방법론 · 범위 · 한계</span>
+      <h1>이 리스트가 만들어진 방식, 그리고 <em>왜 이것이 순위가 아닌지</em>.</h1>
+      <p class="lede">
+        이 사이트에서 이름 옆에 붙은 숫자는 어떤 합성 점수 위의 위치일 뿐, 판정이 아닙니다.
+        가중치를 달리하면 리스트 자체가 눈에 띄게 달라집니다. 누군가가 빠져 있다는 사실은
+        알고리즘이 그 사람을 낮게 본다는 뜻이 아닙니다 — 알고리즘은 의견을 갖고 있을 뿐,
+        가치 판단을 내리지는 않습니다. 이 페이지는 그 숫자가 실제로 무엇을 뜻하는지를 설명합니다.
+      </p>
+    </section>
+
+    <section>
+      <h2>1. 데이터 범위</h2>
+      <p>
+        이 사이트의 모든 지표는 <strong>robopaper-atlas 코퍼스 내부에서만</strong> 계산됩니다 —
+        로보틱스의 특정 9개 venue 단면입니다:
+      </p>
+      <ul>
+        <li><b>ICRA</b> · <b>IROS</b> · <b>RA-L</b> · <b>T-RO</b> · <b>RSS</b> · <b>IJRR</b> · <b>Sci-Rob</b> · <b>SoRo</b> · <b>T-Mech</b></li>
+        <li>1982년부터 2025년까지 중복 제거 후 81,680편.</li>
+        <li>메타데이터는 <a href="https://dblp.org" target="_blank">DBLP</a>, 초록·인용수·concepts는 <a href="https://openalex.org" target="_blank">OpenAlex</a>에서 보강.</li>
+      </ul>
+      <p>
+        이 범위는 로보틱스 커뮤니티가 역사적으로 수렴해온 학회·저널 기준으로 잡았습니다.
+        그러나 다음과 같은 인접 문헌은 <em>의도적으로 제외</em>됩니다:
+      </p>
+      <ul>
+        <li>컴퓨터 비전 (CVPR / ICCV / ECCV)</li>
+        <li>머신러닝 (NeurIPS / ICML / ICLR)</li>
+        <li>생명·의생명 (Nature / Science / PNAS)</li>
+        <li>T-Mech 외의 기계공학 저널</li>
+        <li>학술 발표 없이 진행된 산업계 결과물</li>
+      </ul>
+      <p>
+        주 활동 venue가 위 영역에 있는 연구자는, <em>실제 임팩트와 무관하게 이 corpus 안에서 구조적으로 저평가</em>됩니다.
+        예를 들어 Andreas Geiger는 atlas 안에 단 15편만 있지만, KITTI 시기의 결과물 대부분은 CVPR에 있습니다.
+      </p>
+    </section>
+
+    <section>
+      <h2>2. 합성 점수</h2>
+      <p>논문 수 기준을 통과한 연구자에 대해, 5개 지표를 natural pool 기준 z-score로 변환해 합산합니다:</p>
+      <div class="formula">
+        composite = z(<b>total_cites</b>) + z(<b>h_index</b>) + z(<b>seminal_count</b>) + z(<b>career_span</b>) + z(<b>hub_degree</b>)
+      </div>
+      <ul>
+        <li><b>total_cites</b> — atlas 안에서의 누적 인용 수 합.</li>
+        <li><b>h_index</b> — <i>h</i>편 이상이 각각 <i>h</i>회 이상 인용된 최대 <i>h</i>.</li>
+        <li><b>seminal_count</b> — 500회 이상 인용된 논문 수.</li>
+        <li><b>career_span</b> — 첫 atlas 논문부터 최신 atlas 논문까지의 연수.</li>
+        <li><b>hub_degree</b> — 공저자 네트워크에서 이 연구자가 연결된 엣지 수.</li>
+      </ul>
+      <p>
+        <strong>필터:</strong> atlas 논문이 30편 미만인 연구자는 natural pool에서 제외됩니다.
+        임팩트 있는 초기 PI들이 이 페이지에 보이지 않는 이유가 주로 이 컷입니다.
+      </p>
+      <p>
+        <strong>가중치는 모두 동일합니다.</strong> 이 또한 하나의 선택이지 발견된 사실이 아닙니다.
+        <em>total_cites</em>에 가중을 더 주면 시니어 쪽으로, <em>hub_degree</em>에 가중을 더 주면
+        협업 중심 연구자 쪽으로 리스트가 기울게 됩니다. 합리적인 가중치를 여러 개 적용하면 눈에 띄게
+        다른 결과가 나오며, 여기서는 한 가지를 선택해 일관되게 적용했을 뿐입니다.
+      </p>
+    </section>
+
+    <section>
+      <h2>3. 반드시 가정해야 할 편향들</h2>
+      <ul>
+        <li><b>세대 편향.</b> 중·후반 커리어 연구자가 인용·h-index·span 모두를 축적하기에 유리합니다. 논문 당 임팩트가 높은 초기 PI는 낮게 보입니다.</li>
+        <li><b>세부 분야 편향.</b> 비전/ML/바이오 경계에서 주로 출판하는 연구자는 이 9개 venue 밖에서 대부분 활동하므로 atlas 숫자가 실제를 크게 과소 반영합니다.</li>
+        <li><b>Venue 시기 편향.</b> RA-L은 2016년 이전에는 존재하지 않았고, 이전 시대의 저널형 논문은 다른 곳에 분산되어 있습니다.</li>
+        <li><b>이름 disambiguation.</b> "Hyun-Jin Kim" vs "H. Jin Kim" 같이 동일인이 다른 표기로 분산될 수 있습니다. DBLP는 동명이인 suffix를 붙여두며, 우리는 그 suffix만 떼고 쓰고 있습니다.</li>
+        <li><b>스냅샷 편향.</b> 인용 수는 <span id="buildDate2">빌드 시점</span>의 OpenAlex 값입니다 — 매일 올라갑니다.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>4. 큐레이션 포함 리스트 (★)</h2>
+      <p>
+        합성 점수로만 뽑으면 특정 세부 분야(SLAM, Spatial AI, Soft Robotics, 한국 연구자, Embodied/Physical AI)가
+        통째로 누락될 수 있습니다. 이 경우 편집자가 이름을 수동으로 추가합니다.
+        이 분들은 <strong>★ 마커</strong>로 표시되며, 표시 순위 옆에 정직한 <em>natural rank</em>(합성 점수만으로 계산했을 때의 순위)를
+        같이 병기해서 개입이 명시적으로 보이게 했습니다.
+      </p>
+      <p>
+        여기서의 포함은 "분야 대표성 확보"라는 편집적 판단이지, 알고리즘에 대한 은근한 부스트가 아닙니다.
+        자연 top-100 자리는 force-include 여부와 무관하게 완전히 고정되어 있으며, z-score 계산에도
+        natural pool만 사용됩니다.
+      </p>
+    </section>
+
+    <section>
+      <h2>5. 이것은 <em>아닙니다</em></h2>
+      <ul>
+        <li><strong>아닙니다</strong> — "최고의 로보틱스 연구자" 순위. 그런 것은 애초에 계산 불가능합니다.</li>
+        <li><strong>아닙니다</strong> — 개인 간 품질 비교. 이 corpus 안에서 #40과 #80의 차이는 가중치 선택 오차 범위에 들어갑니다.</li>
+        <li><strong>아닙니다</strong> — 채용·입학·승진 신호.</li>
+        <li><strong>아닙니다</strong> — 외부 "정답"으로 검증된 결과.</li>
+        <li><strong>아닙니다</strong> — 예측 모델. 이 리스트는 이미 축적된 것을 비추는 거울이지, 다가올 것에 대한 예언이 아닙니다.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>6. 이것은 <em>이런 것입니다</em></h2>
+      <ul>
+        <li>40년치의 특정 venue 집합을 들여다보는 하나의 렌즈.</li>
+        <li>커리어 아크 모양, 주제 이동, 학파 계보를 대규모로 시각화한 결과.</li>
+        <li>오픈된 데이터 프로덕트 — 각 연구자별 JSON은 공개되어 있으니 직접 질의하실 수 있습니다.</li>
+        <li>연구자 경력에 대해 더 나은 질문을 던지자는 초대장이지, 그 질문에 대한 최종 답이 아닙니다.</li>
+      </ul>
+      <div class="callout">
+        본인 혹은 동료가 #20이 아니라 #80에 있다면, 그것은 좁은 venue 집합 내부에서
+        가중치 설정이 만든 우연에 더 가깝지 업적에 대한 평가가 아닙니다.
+        만약 본인이 아예 리스트에 없다면, 대개는 주 활동 venue가 이 9개와 많이 겹치지 않는다는 뜻이지
+        실력을 이유로 배제된 것이 아닙니다.
+      </div>
+    </section>
+
+    <section>
+      <h2>7. 오픈소스</h2>
+      <p>
+        모든 과정은 <a href="https://github.com/gisbi-kim/robo-careers" target="_blank">gisbi-kim/robo-careers</a>에 공개되어 있습니다.
+        선발 스크립트, 지표 공식, TF-IDF phrase 추출기, HTML 생성기 — 전부 오픈입니다.
+        가중치를 바꿔서 돌리거나 다른 venue 집합으로 돌리면 다른 리스트가 나옵니다 —
+        그리고 그것이 바로 이 페이지가 강조하고자 하는 지점입니다.
+      </p>
+    </section>
+  </div>
+
+  <footer class="foot">
+    <span id="footData">Data: <a href="https://gisbi-kim.github.io/robopaper-atlas/" target="_blank">robopaper-atlas</a></span>
+    <span><a href="index.html">← <span id="footHome">home</span></a></span>
+    <span>Built 2026-04-24</span>
+  </footer>
+</div>
+
+<script>
+function getLang() {
+  const h = window.location.hash.replace('#','').toLowerCase();
+  if (h === 'ko' || h === 'kor') return 'ko';
+  return 'en';
+}
+function apply(lang) {
+  document.documentElement.lang = (lang === 'ko' ? 'ko' : 'en');
+  document.title = lang === 'ko' ? '방법론 · Robo · Careers' : 'Methodology · Robo · Careers';
+  document.querySelectorAll('.lang-tab').forEach(t => t.classList.toggle('active', t.dataset.lang === lang));
+  const bd = document.getElementById('buildDate'); if (bd) bd.textContent = '2026-04-24';
+  const bd2 = document.getElementById('buildDate2'); if (bd2) bd2.textContent = '2026-04-24';
+  const fh = document.getElementById('footHome'); if (fh) fh.textContent = (lang === 'ko' ? '홈으로' : 'home');
+}
+document.querySelectorAll('.lang-tab').forEach(t => {
+  t.addEventListener('click', e => {
+    e.preventDefault();
+    const l = t.dataset.lang;
+    if (l === 'en') history.replaceState(null, '', window.location.pathname + window.location.search);
+    else history.replaceState(null, '', '#' + l);
+    apply(l);
+  });
+});
+window.addEventListener('hashchange', () => apply(getLang()));
+apply(getLang());
+</script>
+</body>
+</html>

@@ -398,6 +398,8 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
       </div>
       <div class="meta-row">
         <span id="sourceLabel">source:</span> <a href="https://gisbi-kim.github.io/robopaper-atlas/" target="_blank" rel="noopener">robopaper-atlas&nbsp;↗</a>
+        <span class="dot">·</span>
+        <a href="methodology.html" id="methodologyLink">methodology&nbsp;↗</a>
         <span class="lang-tabs">
           <a class="lang-tab" data-lang="en" href="#en">EN</a>
           <span class="lang-sep">/</span>
@@ -451,6 +453,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
   <section>
     <h2><span id="secArcTitle"></span> <span class="sub" id="secArcSub"></span></h2>
     <p class="section-desc" id="secArcDesc"></p>
+    <div class="disclaimer" id="secArcCaveat" style="margin-top:-14px; margin-bottom:22px;"></div>
     <div class="archetype-grid" id="archetypeGrid"></div>
   </section>
 
@@ -495,15 +498,16 @@ const I18N = {
     heroKicker: n => `80,000+ papers · 40 years · ${n} trajectories`,
     heroHeadline: `Where do "master" careers <em>diverge</em>?`,
     heroNote: n => `Across 40 years of major robotics venues — a composite ranking of impact, persistence, hub centrality, blockbuster count, and career span produces the top ${n} below. Data: <a href="https://gisbi-kim.github.io/robopaper-atlas/" target="_blank" style="color:var(--accent);">robopaper-atlas</a> (DBLP + OpenAlex, 81,680 papers).`,
-    disclaimer: `<strong>Scope note.</strong> All paper counts, citation counts, coauthor counts and derived metrics below are computed <strong>only over the robopaper-atlas corpus</strong> — the 81,680 papers in ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech. They are <strong>not</strong> these researchers' total publications on Google Scholar / Scopus / Web of Science. Cross-domain work (vision, ML, bio, etc.) published elsewhere is not reflected.`,
+    disclaimer: `<strong>Scope note.</strong> All paper counts, citation counts, coauthor counts and derived metrics below are computed <strong>only over the robopaper-atlas corpus</strong> — the 81,680 papers in ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech. They are <strong>not</strong> these researchers' total publications on Google Scholar / Scopus / Web of Science. Cross-domain work (vision, ML, bio, etc.) published elsewhere is not reflected. <a href="methodology.html" style="color:var(--accent); border-bottom:1px dotted currentColor; text-decoration:none;">Read the full methodology&nbsp;↗</a>`,
     secLessonsTitle: "Lessons",
     secLessonsSub: "/ WHAT THIS MEANS FOR YOU",
     secLessonsDesc: "Bottom line first. Patterns below are auto-extracted across all profiles.",
-    rankTitle: n => `Top ${n}`,
+    rankTitle: n => `Top 100 + α`,
     secTopDesc: "Composite = z-score sum of total cites, h-index, blockbusters (≥500 cites), career span, and hub degree. Click headers to sort.",
     secArcTitle: "Archetypes",
     secArcSub: "/ CAREER ARC TYPOLOGY",
     secArcDesc: "KMeans over normalized per-year citation curves. Each centroid is a 'shape of mastery'.",
+    secArcCaveat: `<strong>Caveat.</strong> These arc shapes reflect publishing activity <strong>only inside ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech</strong>. Researchers whose main output lives in computer-vision venues (CVPR / ICCV / ECCV) will show distorted arcs here — a quiet-looking window in the atlas might be a blockbuster year at CVPR. Interpret with that bias in mind.`,
     secTimingTitle: "Timing",
     secTimingSub: "/ WHEN DOES IT HAPPEN",
     secTimingDesc: "How many years after the first paper do key milestones land?",
@@ -549,15 +553,16 @@ const I18N = {
     heroKicker: n => `80,000+ 편 · 40년 · ${n}인의 궤적`,
     heroHeadline: `"대가"의 커리어는 어디서 <em>갈라지는가</em>.`,
     heroNote: n => `로보틱스 주요 venue 40년치 논문을 통틀어, 영향력·지속성·허브성·블록버스터 생산량·커리어 기간을 합산한 상위 ${n}인의 이력을 한 페이지에 풀었다. 데이터 출처: <a href="https://gisbi-kim.github.io/robopaper-atlas/" target="_blank" style="color:var(--accent);">robopaper-atlas</a> (DBLP + OpenAlex, 81,680편).`,
-    disclaimer: `<strong>범위 안내.</strong> 아래 모든 논문 수·인용 수·공저자 수·파생 지표는 <strong>robopaper-atlas 코퍼스 내부에서만</strong> 계산된 값입니다 — ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech의 81,680편. 각 연구자의 Google Scholar / Scopus / Web of Science 기준 전체 실적이 <strong>아닙니다</strong>. 비전·ML·생물 등 타 분야 게재 논문은 반영되지 않습니다.`,
+    disclaimer: `<strong>범위 안내.</strong> 아래 모든 논문 수·인용 수·공저자 수·파생 지표는 <strong>robopaper-atlas 코퍼스 내부에서만</strong> 계산된 값입니다 — ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech의 81,680편. 각 연구자의 Google Scholar / Scopus / Web of Science 기준 전체 실적이 <strong>아닙니다</strong>. 비전·ML·생물 등 타 분야 게재 논문은 반영되지 않습니다. <a href="methodology.html#ko" style="color:var(--accent); border-bottom:1px dotted currentColor; text-decoration:none;">상세 방법론 보기&nbsp;↗</a>`,
     secLessonsTitle: "교훈",
     secLessonsSub: "/ WHAT THIS MEANS FOR YOU",
     secLessonsDesc: "결론부터. 아래는 전체 프로필을 횡단해 자동 추출한 수치·패턴.",
-    rankTitle: n => `Top ${n}`,
+    rankTitle: n => `Top 100 + α`,
     secTopDesc: "합성 점수 = 총 인용 · h-index · 블록버스터(500+인용) 개수 · 커리어 기간 · 허브 연결도의 z-score 합. 헤더 클릭 정렬.",
     secArcTitle: "아키타입",
     secArcSub: "/ CAREER ARC TYPOLOGY",
     secArcDesc: "정규화된 연도별 인용 발생 곡선을 KMeans로 군집화. 각 센트로이드의 모양이 \"대가 커리어의 꼴\".",
+    secArcCaveat: `<strong>해석 시 주의.</strong> 아래 커리어 곡선 모양은 <strong>ICRA · IROS · RA-L · T-RO · RSS · IJRR · Sci-Rob · SoRo · T-Mech 안에서의 출판 활동만</strong>을 반영합니다. 주 활동 venue가 컴퓨터 비전(CVPR / ICCV / ECCV) 쪽인 연구자는 이곳의 곡선이 왜곡되어 보일 수 있습니다 — atlas 기준 '조용한 구간'이 사실은 CVPR에서 터지는 시기일 수 있기 때문입니다. 이 점을 감안하고 읽어주세요.`,
     secTimingTitle: "타이밍",
     secTimingSub: "/ WHEN DOES IT HAPPEN",
     secTimingDesc: "첫 논문으로부터 몇 년 뒤에 각 마일스톤이 찍혔는가.",
@@ -638,6 +643,7 @@ function applyStaticI18n() {
   document.getElementById('secArcTitle').textContent = T.secArcTitle;
   document.getElementById('secArcSub').textContent = T.secArcSub;
   document.getElementById('secArcDesc').textContent = T.secArcDesc;
+  document.getElementById('secArcCaveat').innerHTML = T.secArcCaveat;
   document.getElementById('secTimingTitle').textContent = T.secTimingTitle;
   document.getElementById('secTimingSub').textContent = T.secTimingSub;
   document.getElementById('secTimingDesc').textContent = T.secTimingDesc;
@@ -653,6 +659,8 @@ function applyStaticI18n() {
   document.querySelectorAll('.lang-tab').forEach(t => {
     t.classList.toggle('active', t.dataset.lang === LANG);
   });
+  const mLink = document.getElementById('methodologyLink');
+  if (mLink) mLink.href = 'methodology.html' + (LANG === 'ko' ? '#ko' : '');
 }
 
 /* === Top table === */
